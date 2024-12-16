@@ -844,18 +844,15 @@ def metric_generation(base_dir=None, aspect=None, model_list=[]):
                         if judgements is not None:
                             metrics_dict[model]['open_ended_total_cnt'] += 1
 
-                            # 获取判断结果和映射关系
                             judge_result = judgements.get('judge_result')
                             judge_mapping = judgements.get('judge_mapping', {})
 
-                            # 确定标准答案标签
                             tag = None
                             if judge_mapping.get('res1') == 'original_responses':
                                 tag = 'Answer (a)'
                             elif judge_mapping.get('res1') == 'responses':
                                 tag = 'Answer (b)'
 
-                            # 统计结果
                             if judge_result == 'Tie':
                                 metrics_dict[model]['open_ended_tie_cnt'] += 1
                             elif judge_result == tag:
@@ -887,18 +884,15 @@ def metric_generation(base_dir=None, aspect=None, model_list=[]):
                         if judgements is not None:
                             metrics_dict[model]['mscoco_total_cnt'] += 1
 
-                            # 获取判断结果和映射关系
                             judge_result = judgements.get('judge_result')
                             judge_mapping = judgements.get('judge_mapping', {})
 
-                            # 确定标准答案标签
                             tag = None
                             if judge_mapping.get('res1') == 'original_responses':
                                 tag = 'Answer (a)'
                             elif judge_mapping.get('res1') == 'responses':
                                 tag = 'Answer (b)'
 
-                            # 统计结果
                             if judge_result == 'Tie':
                                 metrics_dict[model]['mscoco_tie_cnt'] += 1
                             elif judge_result == tag:
@@ -971,7 +965,7 @@ def metric_generation(base_dir=None, aspect=None, model_list=[]):
             for item in tqdm(data, desc="Processing fairness vlm metrics"):
                 for model in model_list:
                     judgements = item.get('judge', {}).get(model, {})
-                    if judgements is not None:  # 判断第一层
+                    if judgements is not None:
                         judge_result = judgements.get('judge_result')
                         if judge_result: 
                             if fairness_vlm_type == 'preference':

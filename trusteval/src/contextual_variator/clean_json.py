@@ -3,7 +3,6 @@ import json
 
 def clean_json_string(json_string):
     try:
-        # 检查 JSON 字符串是否包含 ```json 代码块
         if "```json" in json_string:
             json_data_match = re.search(r'```json\n([\s\S]*?)\n```', json_string)
             if json_data_match:
@@ -11,7 +10,6 @@ def clean_json_string(json_string):
             else:
                 raise ValueError("No JSON data found within ```json``` block.")
 
-        # 检查 JSON 字符串是否包含普通的 ``` 代码块
         elif "```" in json_string:
             json_data_match = re.search(r'```\n([\s\S]*?)\n```', json_string)
             if json_data_match:
@@ -19,11 +17,9 @@ def clean_json_string(json_string):
             else:
                 raise ValueError("No JSON data found within ``` block.")
 
-        # 检查 JSON 字符串是否直接以 [ 或 { 开头
         elif json_string.startswith('[') or json_string.startswith('{'):
-            pass  # 如果是合法的 JSON 字符串，什么都不做
+            pass
 
-        # 否则，尝试从字符串中提取 JSON 数据
         else:   
             pattern = r'($begin:math:display$.*$end:math:display$|\{.*\})'
             match = re.search(pattern, json_string, re.DOTALL)
@@ -32,21 +28,20 @@ def clean_json_string(json_string):
             else:
                 raise ValueError("No JSON data found in the string.")
 
-        # 尝试解析清理后的 JSON 字符串以确保其有效性
         json.loads(json_string)
         return json_string
 
     except ValueError as ve:
         print(f"Error: {ve}")
-        return None  # 返回 None 或者你可以返回一个空字典或其他默认值
+        return None 
 
     except json.JSONDecodeError as jde:
         print(f"Error: Failed to decode JSON - {jde}")
-        return None  # 返回 None 或者你可以返回一个空字典或其他默认值
+        return None
 
     except Exception as e:
         print(f"Unexpected error: {e}")
-        return None  # 返回 None 或者你可以返回一个空字典或其他默认值
+        return None
 
 
 ## JSON PARSER

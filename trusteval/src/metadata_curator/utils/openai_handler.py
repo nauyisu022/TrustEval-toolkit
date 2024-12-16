@@ -6,7 +6,6 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.abspath(os.path.join(current_dir, "../../"))
 sys.path.insert(0, parent_dir)
 
-# 使用 os.path.join 更改路径
 config_file_path = os.path.join(parent_dir, "config", "config.yaml")
 diversity_path = os.path.join(parent_dir, "src", "config.yaml")
 

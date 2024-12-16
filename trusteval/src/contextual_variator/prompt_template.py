@@ -203,8 +203,8 @@ def generate_sentence_structure_prompt(sentence, structure_type, example=None, c
             if key in structure_instructions
         }
         items = list(custom_structures.items())
-        random.shuffle(items)  # 打乱顺序
-        custom_structures = dict(items)  # 转换回字典
+        random.shuffle(items)
+        custom_structures = dict(items)
     else:
         custom_structures = structure_instructions
     if structure_type not in custom_structures and structure_type != "select":

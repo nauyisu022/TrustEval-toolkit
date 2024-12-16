@@ -15,7 +15,7 @@ from .prompt_template import (
     generate_transformation_prompt
 )
 from generation.model_service import ModelService
-from .clean_json import clean_json # 导入 clean_json 函数
+from .clean_json import clean_json
 
 @dataclass
 class Format:
@@ -65,7 +65,7 @@ class ContextualVariator:
         else:
             self.supported_operations = [op for op in supported_operations if op in self.all_operations]
 
-        #print("Initialized supported operations:", self.supported_operations) # 调试打印
+        #print("Initialized supported operations:", self.supported_operations)
 
     async def _get_model_service(self):
         return ModelService(
@@ -78,17 +78,16 @@ class ContextualVariator:
         )
 
     async def enhance_diversity(self, sentence, current_format=None, answer=None, keep_original=True, extra_instructions=None):
-        #print("Self supported operations:", self.supported_operations) # 调试打印
+        #print("Self supported operations:", self.supported_operations)
         if current_format:
             available_operations = self.supported_operations.copy()
         else:
             available_operations = [op for op in self.supported_operations if not op.startswith("transform_to_")]
 
-        # 如果 keep_original 为 True，将原始句子添加到可操作列表
         if keep_original:
             available_operations.append("keep_original")
 
-        #print("Available operations:", available_operations) # 调试打印
+        #print("Available operations:", available_operations)
 
         if not available_operations:
             print("No supported operations available.")
@@ -97,7 +96,7 @@ class ContextualVariator:
         max_attempts = 3
         for attempt in range(max_attempts):
             chosen_operation = random.choice(available_operations)
-            #print(f"Attempt {attempt + 1}, chosen operation: {chosen_operation}") # 调试打印
+            #print(f"Attempt {attempt + 1}, chosen operation: {chosen_operation}")
 
             result = None
             try:
@@ -221,7 +220,6 @@ class ContextualVariator:
     async def transform_question_format(self, current_question, current_format, answer=None, target_format=None, option_pool=None, extra_instructions=None):
         formats = ["multiple_choice", "true_false", "open_ended"]
 
-        # 确保 current_format 和 target_format 为 Format 对象
         if isinstance(current_format, str):
             current_format = Format(current_format)
         
