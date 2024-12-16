@@ -2,10 +2,6 @@ import sys
 import os
 import asyncio
 import json
-#sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-# 引入 Saver 类
-
-# 动态添加 src 目录到 sys.path
 current_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 root_dir = os.path.dirname(current_dir)
 sys.path.append(root_dir)

@@ -135,7 +135,6 @@ Here is the story narration: {narrative}'''
 
         updated_data = await asyncio.gather(*tasks, return_exceptions=True)
 
-        # 添加检查点
         print("\nChecking generated descriptions:")
         for item in updated_data:
             if isinstance(item, Exception):

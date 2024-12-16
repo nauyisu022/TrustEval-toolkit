@@ -240,11 +240,9 @@ def get_ethical_option(entry, category):
         return None
 
 async def run_all_generations(base_dir=None):
-    # 如果base_dir为None，使用脚本所在目录
     if base_dir is None:
         base_dir = SCRIPT_DIR
 
-    # 设置数据目录
     data_dir = os.path.normpath(os.path.join(base_dir, 'data'))
     raw_data_dir = os.path.normpath(os.path.join(base_dir, 'data'))
 

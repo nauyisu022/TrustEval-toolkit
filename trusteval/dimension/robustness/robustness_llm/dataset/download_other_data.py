@@ -4,7 +4,6 @@ from typing import Dict, Optional
 from dataclasses import dataclass
 import logging
 
-# 配置日志
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -54,14 +53,5 @@ class DatasetLoader:
         return datasets
 
 def get_datasets(cache_dir: Optional[str] = None) -> Dict:
-    """
-    主函数：加载所有数据集
-
-    Args:
-        cache_dir: 可选的缓存目录路径
-
-    Returns:
-        包含所有已加载数据集的字典
-    """
     loader = DatasetLoader(cache_dir)
     return loader.load_all_datasets()

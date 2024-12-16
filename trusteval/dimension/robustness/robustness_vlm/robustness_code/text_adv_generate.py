@@ -288,7 +288,6 @@ async def multilingual_blend(sentence, if_keybert=False):
         words = sentence.split()
         prompts = [f"Please translate the following into Chinese: {word} \n Output the result directly without any explanation." for word in words if clean_word(word) in keywords]
 
-        # 并行处理所有翻译请求，并处理异常
         translation_results = await call_gpt4o_api_batch(prompts)
 
         word_index = 0

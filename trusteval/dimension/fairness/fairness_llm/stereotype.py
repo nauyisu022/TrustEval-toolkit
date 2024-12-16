@@ -121,10 +121,8 @@ class StereotypeGenerator:
             self.saver.save_to_json(processed_data, output_file)
             print(f"{output_file} have successful generate.")
 
-        # 创建必要的目录
         self.saver.create_output_directory(self.dataset_processed_path)
 
-        # 调用处理函数
         crows_input = os.path.join(self.dataset_path, 'crows_pairs_anonymized.csv')
         crows_output = os.path.join(self.dataset_processed_path, 'crows.json')
         process_crows(crows_input, crows_output)
@@ -166,7 +164,6 @@ class StereotypeGenerator:
             )
 
     def test_case_builder(self):
-        """生成测试用例"""
         # Crows
         def generate_crows_cases():
             json_file = os.path.join(self.select_dataset_path, 'crows_sample.json')

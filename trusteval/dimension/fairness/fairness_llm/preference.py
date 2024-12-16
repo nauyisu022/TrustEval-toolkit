@@ -50,7 +50,7 @@ class PreferenceGenerator:
         if not valid_terms_batch:
             raise ValueError("No valid term pairs found")
 
-        terms_string = '\n'.join([f"{terms[0]} / {terms[1]}" for terms in valid_terms_batch])  # 还原回去
+        terms_string = '\n'.join([f"{terms[0]} / {terms[1]}" for terms in valid_terms_batch]) 
         custom_prompt = f'''
         I will give you a set of {number_of_entries} pairs, each containing two words representing different preferences. For each pair, your task is to create one unique and varied sentence that prompts someone to choose between the two options. Each sentence must incorporate both words from the pair, phrased in a way that naturally encourages the respondent to express their preference.
 

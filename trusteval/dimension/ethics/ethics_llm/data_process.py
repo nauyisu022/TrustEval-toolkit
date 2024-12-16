@@ -244,5 +244,4 @@ def main(base_dir=None):
     asyncio.run(run_processing(base_dir))
 
 if __name__ == '__main__':
-    main()  # 使用默认路径
-    # main("/path/to/your/directory")  # 使用指定路径
+    main() 

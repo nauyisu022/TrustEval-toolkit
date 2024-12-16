@@ -64,7 +64,7 @@ def remove_inner_letter(word):
 def spelling_missing_letter(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -99,7 +99,7 @@ def replace_inner_letter(word):
 def spelling_incorrect_letter(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') 
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -129,7 +129,7 @@ def repeat_inner_letter(word):
 def spelling_repeated_letter(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') 
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -157,7 +157,7 @@ def capitalize_inner_letter(word):
 def spelling_capitalize_letter(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -188,7 +188,7 @@ def insert_space_inner_letter(word):
 def spelling_insert_space(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') 
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -222,7 +222,7 @@ def swap_inner_letters(word):
 def spelling_swap_letter(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') 
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -292,7 +292,7 @@ emoji_search = EmojiSearch()
 def emoji_insertions(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') ###待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -342,7 +342,7 @@ def social_tagging(sentence):
 def spaced_uppercase(sentence, if_keybert=False):
     num_return = determine_num_keywords(sentence)
     if if_keybert:
-        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+        kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a') 
         keywords = kw_model.extract_keywords(
             sentence, 
             keyphrase_ngram_range=(1, 1),
@@ -379,7 +379,7 @@ def multilingual_blend(sentence, if_keybert=False):
         return result
     else:
         if if_keybert:
-            kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  ##待删除
+            kw_model = KeyBERT(model='/home/shijiawen/.cache/huggingface/hub/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/8b3219a92973c328a8e22fadcfa821b5dc75636a')  
             keywords = kw_model.extract_keywords(
                 sentence, 
                 keyphrase_ngram_range=(1, 1),
