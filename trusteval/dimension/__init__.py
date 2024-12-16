@@ -3,7 +3,6 @@
 # Fairness
 # trusteval/dimension/__init__.py
 
-# 导入 fairness_vlm 的 pipeline 中的 run 方法
 from .fairness.fairness_vlm.pipeline import run as fairness_vlm
 # from .fairness.fairness_llm.pipeline import pipeline as fairness_llm
 # from .fairness.fairness_t2i.pipeline import pipeline as fairness_t2i
