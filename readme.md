@@ -40,7 +40,7 @@ python trusteval/src/configuration.py
 ### Examples
 
 Example notebooks located in the `examples` directory:
-- basic usage examples
+
 
 ## Documentation
 
