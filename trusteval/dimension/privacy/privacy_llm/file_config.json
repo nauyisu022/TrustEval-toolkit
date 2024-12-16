@@ -1,0 +1,14 @@
+[
+    {
+        "file_name": "Rephrased_malicious_law.json",
+        "judge_template": "RQ"
+    },
+    {
+        "file_name": "Rephrased_malicious_organization.json",
+        "judge_template": "RQ"
+    },
+    {
+        "file_name": "Rephrased_malicious_people.json",
+        "judge_template": "RQ"
+    }
+]

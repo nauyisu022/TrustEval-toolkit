@@ -1,0 +1,558 @@
+Page 1
+
+Commissioner for Information of Public Importance and Personal Data Protection, based on Article
+78, paragraph 1, item 10) and Article 79, paragraph 3, item 1) of the Law on Personal Data Protection
+("Official Gazette of RS", No. 87/18) passed
+
+DECISION
+ON THE ESTABLISHMENT OF STANDARD CONTRACTUAL CLAUSES
+
+1. This Decision lays down the Standard Contractual Clauses drawn up by the Commissioner
+for information of public importance and protection of personal data (hereinafter:
+Commissioner), which regulate the legal relationship between the controller and the processor in accordance
+with Article 45 of the Law on Personal Data Protection (hereinafter: the Law).
+
+2. Standard contractual clauses apply only to the processing of personal data.
+
+3. Standard contractual clauses consist of contractual clauses and annexes whose content is
+printed as an appendix to this decision and forms an integral part thereof.
+
+4. Standard contractual clauses may be applied as a stand-alone contract, or part of it
+contract between the controller and the processor, in the form determined by this decision.
+
+5. If the contracting parties do not apply in full, ie change any of the provisions
+Standard contractual clauses will not be considered to be standard
+contractual clauses in terms of Art. 45 and 65 of the Act.
+
+6. Standard contractual clauses must be concluded in writing, which includes i
+electronic form.
+
+7. The application of the Standard Contract Clauses does not affect inspection and other powers
+The Commissioner from Art. 77 to 79 of the Act.
+
+8. This decision shall be published in the "Official Gazette of the Republic of Serbia".
+
+9. This Decision shall enter into force on the eighth day after its publication in the Official Gazette
+Of the Republic of Serbia ”.
+
+Page 2
+
+COMMISSIONER
+Milan Marinovic
+
+STANDARD CONTRACTUAL CLAUSES
+CONTRACTUAL CLAUSES
+
+Operator
+___________________
+(name and surname)
+___________________
+(headquarters / address)
+Registration number: ____________
+Who is represented by ______________
+hereinafter: Handler, on the one hand
+
+i
+Processor
+___________________
+(name and surname)
+___________________
+(headquarters / address)
+Registration number: ____________
+Who is represented by ______________
+hereinafter: Processor, on the other hand
+(hereinafter together: the Contracting Parties)
+they agreed on the following.
+
+Page 3
+
+Article 1
+This contract regulates the legal relationship between the contracting parties in connection with the actions
+processing of personal data entrusted to the Processor by the Handler.
+Subject of processing, nature and purpose of processing, types of personal data and types of persons to whom they are processed
+the data to be processed are defined in Annex 1 to this contract, which constitutes its
+integral part.
+For everything that is not regulated by this contract, the contracting parties are free to regulate independently,
+if the same is not in conflict with this contract, ie if it is not reduced by that
+protection of personal data or the rights of data subjects.
+
+Article 2
+Definitions:
+1) the terms "personal data", "data subject", "data processing",
+"Handler", "processor", as well as "violation of personal data", have meaning
+determined by the Law on Personal Data Protection ("Official Gazette of RS", No. 87/2018);
+2) "sub-processor" is another processor to whom the processor has entrusted the performance of certain tasks
+processing operations on behalf of the operator;
+3) "protection measures" means appropriate technical, organizational and personnel
+measures aimed at ensuring the effective application of data protection principles on
+persons, as well as the protection of the rights and freedoms of data subjects;
+4) "Law" means the Law on Personal Data Protection, "Official Gazette of RS", no
+87/2018) with bylaws adopted in accordance with that law;
+5) "valid regulations" mean positive regulations of the Republic of Serbia.
+Obligations of the operator
+Article 3
+The controller is obliged to process personal data in accordance with the Law, as well as yes
+apply all data protection measures and ensure the exercise of the rights and freedoms of the persons to whom they are
+data related.
+The controller undertakes to issue instructions to the Processor regarding the processing of data on
+personality in writing, as well as that it will be clear, precise and in all respects in accordance with what is valid
+regulations.
+Obligations of the processor
+Article 4
+
+Page 4
+
+The processor is obliged to process personal data only on the basis of written instructions
+Operator, including instructions regarding the transfer of personal data to others
+states or international organizations, unless the Processor is required by law to process
+data. In that case, the Processor is obliged to inform the Handler about that legal obligation
+before processing begins, unless the law prohibits the submission of such information due to
+the need to protect an important public interest.
+The processor is obliged to warn the Operator without delay if he considers that the written instructions
+which he received from him is not in accordance with the Law and / or other valid regulation, ie
+provisions of this contract, and in case of doubt regarding its actions, it is obliged to
+seek the opinion of the Operator.
+Procedure and decision-making on further action in situations from the previous paragraph of this
+Article, as well as the consequences in case of potentially illegal instruction, are defined in Annex 2.
+of this contract, which forms an integral part thereof.
+The processor is obliged to ensure that only persons who need access to personal data
+in order to fulfill the obligations of the processor towards the controller, they have access to this data.
+The processor is obliged to ensure that the natural person who is authorized to perform processing operations
+personal data with the Processor obliged to keep the confidentiality of the data or to do so
+the person is subject to the legal obligation to maintain the confidentiality of data.
+The need for individuals to have access to personal information will be reviewed from time to time, as well
+if it is established that the need for a certain person to have access to such data has ceased,
+the same will be denied access.
+The processor is obliged to assist the Operator in fulfilling the obligations prescribed by the Law.
+The Processor must be able to notify the Operator of the performance of its obligations under this
+contract.
+If the Processor violates the provisions of this contract, determining the purpose and manner of data processing on
+person, will be considered the Operator in relation to that processing.
+The obligations of the Processor under this contract do not diminish its obligations under
+By law or other applicable regulations.
+Processing security
+Article 5
+The contracting parties are obliged to implement appropriate protection measures in order to achieve it
+appropriate level of security in relation to risk, in accordance with the level of technological
+achievements and costs of their application, nature, scope, circumstances and purpose of processing,
+as well as the probability of occurrence of risk and the level of risk for the rights and freedoms of individuals.
+
+Page 5
+
+The contracting parties are obliged to separately assess the probability of occurrence of the risk and the level
+risks to the rights and freedoms of natural persons, as well as to determine appropriate protection measures in order to
+reduced the assessed risk, provided that the Operator is obliged to provide the Processor with all information
+so that the Processor can fulfill this obligation.
+Where appropriate, the safeguard measures referred to in this Article of the contract shall include in particular:
+1) pseudonymization and cryptoprotection of personal data;
+2) ensuring lasting confidentiality, integrity, availability and resilience of systems and services
+processing;
+3) ensuring the establishment of re-availability and access to personal data in
+in case of physical or technical incidents as soon as possible;
+4) conducting regular testing, evaluation and assessment of the effectiveness of technical,
+organizational and personnel security measures of processing.
+When assessing the appropriate level of security referred to in paragraph 1 of this Article, special consideration shall be given
+take into account the risks of processing, and in particular the risks of accidental or unlawful destruction,
+loss, alteration, unauthorized disclosure or access to transmitted personal data,
+stored or otherwise processed.
+If during the processing it is established that additional protection measures are needed in relation to the already
+agreed, the Contracting Parties shall subsequently include such protection measures in Annex 3 to this Agreement
+contract, which forms an integral part thereof.
+The contracting parties are obliged to take measures in order to ensure that every natural person
+which is authorized to access personal data by the Handler or Processor,
+processes that data only by order of the Operator or if required by law.
+Notwithstanding the preceding provisions of this Agreement, the Processor shall have the right, at the request of the court or
+another state body in the exercise of their powers prescribed by applicable regulations,
+discloses any personal data with the obligation to immediately notify the Operator, as well as
+to consult with the Operator, as far as possible, on the scope and form of disclosure
+data.
+Notification of personal data violation
+Article 6
+The processor is obliged to inform the Operator about the violation of data without undue delay
+persons who can produce a risk to the rights and freedoms of individuals, as well as to help
+To the operator in fulfilling his obligations provided by the Law.
+The notification referred to in paragraph 1 of this Article must contain at least the following information:
+
+Page 6
+
+1) a description of the nature of the personal data breach, including the types of data and the approximate number of persons
+to which the data of that type refer, as well as the approximate number of data on the person whose security is
+injured;
+2) description of possible consequences of the injury;
+3) a description of the measures taken or processed by the processor in connection with
+injury, including measures taken to mitigate the adverse effects.
+The processor is obliged to provide all information in the resulting situation, at the request of the Operator,
+required documentation and necessary assistance to eliminate or reduce possible consequences
+personal data violations.
+If personal data is violated, the Operator may suspend it
+data transfer to the Processor.
+Deadline, content and manner of notifying the Handler of data breaches by the Processor
+are defined in Annex 4 to this Agreement, which forms an integral part thereof.
+
+Impact assessment on personal data protection
+Article 7
+Taking into account the nature of the processing and the information available to it, the Processor is obliged to
+assists the Operator in fulfilling his / her obligation regarding the assessment of the impacts envisaged
+processing activities on the protection of personal data and the obligation to request the opinion of the Commissioner for
+information of public importance and protection of personal data before starting the processing operation.
+Hiring processors
+Article 8
+The processor may entrust the processing to a sub-processor only if the Operator authorizes him to do so
+basis of general or special written authorization. If entrusting processing is done on the basis
+general authorization, the Processor is obliged to inform the Operator about the intended selection
+sub-processor, ie replacement of sub-processor, so that the Handler has the opportunity to
+declare such a change.
+Deadline within which the Operator has the right to decide on the selection, ie replacement of the processor,
+as well as a list of processors approved by the operator, whether or not it is
+The processor is authorized to entrust the processing to them on the basis of general or special written
+the powers of the Operator are defined in Annex 5 to this contract, which forms its integral part
+part.
+If the Processor designates a subcontractor to perform special processing operations on behalf of the Operator,
+he is obliged to ensure that the same obligations of personal data protection determined by this contract
+they also apply to the processor, on the basis of a special contract or other legal one
+binding act, which is concluded or adopted in writing, which includes
+
+Page 7
+
+electronic form, which determines sufficient in the relationship between the Processor and the sub-processor
+guarantees for the application of appropriate protection measures that ensure that the processing is carried out in accordance
+with the Law, applicable regulations and provisions of this contract.
+The processor is obliged to enter into a contract or other legally binding act that concludes with
+processor, enter a provision that allows the Operator to in case of termination
+the existence of the Processor, for any reason, has the right to require the Processor to destroy
+or return personal data that are the subject of that contract or other legally binding act.
+If he entrusts the processing to a subcontractor, the Processor must be able to state that
+the processor is engaged in everything in accordance with the provisions of this article of the contract.
+The processor is obliged to provide the operator with a copy of the contract or other legally binding
+an act concluded with the processor immediately after the conclusion of the contract or adoption
+another legally binding act. The processor has the right not to submit the data to the Operator
+from a contract or other legally binding act that does not concern the processing of personal data.
+If the processor fails to fulfill his obligations regarding the protection of personal data, for
+fulfillment of the subcontractor's obligations is handled by the Processor.
+Rights of data subjects
+Article 9
+Taking into account the nature of the processing, the Processor is obliged to assist the Operator, as much as it is
+possibly, in fulfilling the obligations of the Operator in relation to the requirements for realization by the Law
+the envisaged rights of the data subject.
+If the data subject submits a request for exercising a right
+prescribed by the applicable regulations to the Processor, and for whose actions the Handler is responsible,
+The processor is not authorized to act upon such a request of the person, but is obliged to inform about it immediately
+to inform the Operator and to forward such a request to him, as well as to inform the person who submitted it
+request that it be forwarded to the Operator.
+In case of termination of the Operator, the Processor is obliged to act upon the requests of the person
+to which the data relate, unless there is a legal successor to the Operator, who takes over
+rights and obligations of the Operator from this contract.
+Data transfer to other countries or international organizations
+Article 10
+Transfer of personal data to another country, to a part of its territory, or to one or more sectors
+certain activities in that state, or in an international organization can be performed in everything in
+in accordance with the provisions of applicable regulations, while ensuring an adequate level of data protection
+on the person, the feasibility of all rights and effective legal protection of the data subjects
+relations.
+
+Page 8
+
+The processor may transfer personal data to another country, to a part of its territory, or to
+one or more sectors of certain activities in that country or in an international organization only
+based on the written instructions of the Operator.
+Instructions of the Operator for the transfer of personal data to another state, to a part of its territory,
+or in one or more sectors of certain activities in that country or in an international organization,
+as well as a list of countries to which the transfer of data has been authorized, if applicable, will be given in
+Annex 6 of this contract and will be its integral part.
+Processor operation control
+Article 11
+The processor is obliged to make available to the controller all the information necessary for
+presenting the fulfillment of the obligations of the Processor prescribed by the applicable regulations and this
+contract, as well as information that enables and contributes to the control of the work of the Processor, which
+carried out by the Operator or another person authorized by the Operator.
+The Operator is obliged to inform the Processor in writing about the found omissions, which
+includes e-mail, as well as to leave the Processor a reasonable deadline for theirs
+elimination.
+Until the Processor eliminates the shortcomings found in the implementation of the obligations referred to in paragraph 1 of this Article,
+The controller may suspend the transfer of data to the Processor.
+The manner of performing the control of compliance with the obligations of the Processor referred to in paragraph 1 of this Article by
+The operator, or the person authorized to do so, as well as the deadline and manner of eliminating the omission by the party
+Processor, is described in Annex 7 to this contract, which forms an integral part thereof.
+Processing duration
+Article 12
+This Agreement shall apply from _____________ and shall be concluded for a period
+duration of processing, ______________ ( for an indefinite period of time or for a definite period of time
+period ).
+Obligations of the Processor after the completion of the agreed processing operations
+Article 13
+After the completion of the agreed processing operations, the Processor is obliged to, based on the decision
+The Operator, deletes or returns to the Operator all personal data and deletes all copies of these
+data, unless the law prescribes the obligation to keep data.
+The processor must be able to present to the Operator the fulfillment of his obligation from
+of the previous paragraph of this article.
+
+Page 9
+
+Terms of termination of the contract, notice period, as well as the consequences of termination and liability in the case
+non-fulfillment of contractual obligations, the contracting parties may determine in Annex 8, which is
+an integral part of this contract.
+Applicable law
+Article 14
+Standard contractual clauses are interpreted and applied in accordance with the regulations of the Republic
+Of Serbia.
+Dispute resolution
+Article 15
+In the event of a dispute, the parties agree that _____________ will be competent.
+(state who will be competent in the case of disputes - mediation, arbitration, really competent court
+in ......).
+Final provision
+Article 16
+This contract is made in __ identical copies / copies, for __ for each contract
+side.
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Page 10
+
+Annex 1
+This attachment is an integral part of the contract. It must be completed and signed by the contracting parties.
+
+Subject of processing (specify):
+______________________________________________________________________________
+______________________________________________________________________________
+
+Nature and purpose of processing (specify):
+______________________________________________________________________________
+______________________________________________________________________________
+
+Types of data subjects (specify):
+______________________________________________________________________________
+
+Page 11
+
+______________________________________________________________________________
+
+Types of personal data (specify):
+______________________________________________________________________________
+______________________________________________________________________________
+
+Special types of personal data (specify if applicable):
+______________________________________________________________________________
+______________________________________________________________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Annex 2
+This attachment is an integral part of the contract. It must be completed and signed by the contracting parties.
+Procedure, making decisions on further action in situations when the Processor considers that
+written instructions received from the Operator are not in accordance with applicable regulations and / or
+The law and / or the provisions of the Standard Contractual Clauses and the consequences in the case
+illegal instructions (describe):
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+Page 12
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Annex 3
+This attachment is an integral part of the contract. It must be completed and signed by the contracting parties.
+Description of protection measures:
+1) technical measures:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+2) organizational measures:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+3) personnel measures:
+
+Page 13
+
+______________________________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Subsequently enter protection measures
+Description of protection measures:
+1) technical measures:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+2) organizational measures:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+3) personnel measures:
+______________________________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Page 14
+
+Annex 4
+
+This attachment is an integral part of the contract. It must be completed and signed by the contracting parties.
+The deadline within which the Processor is obliged to notify the Handler of the data breach is
+____ (in words: ____________________________________).
+Content and manner of notifying the Handler of data breach by the Processor at
+basis of Standard Contractual Clauses (describe):
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+_______________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Page 15
+
+Annex 5
+This attachment is an integral part of the contract. The contracting parties must fill it out and sign it if
+processing is entrusted to subcontractors.
+If the processing is performed on the basis of a general authorization, the deadline within which the operator has the right to
+declare on the selection, ie replacement of the intended processor is __________ (in words:
+______________________________________).
+In case the operator does not respond within the set deadline, it will be considered that it is
+________________.
+
+List of approved processors:
+1) ___________________________
+2) ___________________________
+3) ___________________________
+
+Page 16
+
+4) ___________________________
+5) ___________________________
+6) ___________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Annex 6
+This attachment is an integral part of the contract. The contracting parties must fill it out and sign it, if
+personal data are taken from the Republic of Serbia. If the data are not taken out of the Republic
+Serbia, this attachment is not a mandatory part of the contract.
+Instructions of the Operator for the transfer of personal data to another state, to a part of its territory,
+or in one or more sectors of certain activities in that State or in an international organization:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+______________________________________________________________________________
+_______________________________________________________________
+
+Page 17
+
+List of countries to which data transfer is approved:
+1) ___________________________
+2) ___________________________
+3) ___________________________
+4) ___________________________
+5) ___________________________
+6) ___________________________
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Annex 7
+This attachment is an integral part of the contract. It must be completed and signed by the contracting parties.
+Manner of control of the Processor's compliance with the obligations of the Processor:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+______________________________________________________________________________
+_______________________________________________________________
+
+Page 18
+
+For the Operator:
+
+For Processor:
+
+(signature and date)
+
+(signature and date)
+
+Annex 8
+
+This attachment is not a mandatory part of the contract.
+
+Terms of termination, notice period, as well as consequences in case of termination:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+______________________________________________________________________________
+_______________________________________________________________
+
+Page 19
+
+Liability in case of violation:
+______________________________________________________________________________
+______________________________________________________________________________
+_______________________________________________________________
+
+______________________________________________________________________________
+_______________________________________________________________
+
+

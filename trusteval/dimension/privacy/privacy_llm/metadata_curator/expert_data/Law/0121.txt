@@ -1,0 +1,1032 @@
+Page 1
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+Guidelines for the Law Concerning the Protection of Personal Information
+(Anonymous processing information)
+
+November 2016
+(Partially revised in March 2017)
+Personal Information Protection Commission
+
+Page 2
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+Guidelines for the Law Concerning the Protection of Personal Information
+(Anonymous processing information)
+
+table of contents
+
+1 Positioning and application of this guideline .................................. 1
+1-1 Positioning of this guideline ..................................................... ..... 1
+1-2 Applicable to this guideline ..................................... ...... 1
+2 Definition ................................................ ....................... 3
+2-1 Anonymous processing information (related to Article 2, Paragraph 9 of the Law) .................................. .... 3
+2-2 Businesses handling anonymously processed information (related to Article 2, Paragraph 10 of the Law) ........................... 6
+3 Obligations of businesses handling anonymously processed information .................................................. ...... 7
+3-1 Concept of obligations regarding the handling of anonymously processed information .................................. 7
+3-2 Proper processing of anonymous processing information (related to Article 36, Paragraph 1 of the Law) ..................... 8
+3-2-1 Deletion of descriptions that can identify a specific individual ..................... 9
+3-2-2 Deletion of personal identification code .................................................. .......... Ten
+3-2-3 Deletion of codes that connect information to each other ..................... .. 11
+3-2-4 Deletion of peculiar descriptions, etc .................................................. ........... 12
+3-2-5 Other measures based on the nature of personal information databases, etc .................. 13
+3-3 Safety management measures for anonymously processed information, etc. (Article 36, Paragraph 2, Paragraph 6, Article 39 of the Law)
+Person in charge) ................................................ ................. 1 6
+3-3-1 Safety management measures for information such as processing methods ..................................... .. 16
+3-3-2 Safety management measures for anonymously processed information ..................................... .. 18
+3-4 Publication at the time of creation of anonymously processed information (related to Article 36, Paragraph 3 of the Law) ...................... 19
+3-5 Provision of anonymously processed information to a third party (related to Article 36, Paragraph 4 and Article 37 of the Act) ............... 20
+3-6 Prohibition of identification (related to Article 36, Paragraph 5 and Article 38 of the Act) ..................... 22
+
+Page 3
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+【Usage Guide】
+"Law" Law Concerning Protection of Personal Information (Law No. 57 of 2003)
+"Cabinet Order" Law Enforcement Ordinance on the Protection of Personal Information (Cabinet Order No. 507 of 2003)
+"Rules" Law Enforcement Regulations on the Protection of Personal Information (2016 Personal Information Protection Commission)
+Rule No. 3)
+"General Rules" Guidelines on the Law Concerning the Protection of Personal Information (General Rules)
+(Edit) (2016 Personal Information Protection Commission Notification No. 6)
+"Amendment Law" Identifies a specific individual in the Law Concerning the Protection of Personal Information and Administrative Procedures
+Law to partially revise the law regarding the use of numbers for
+Law No. 65)
+
+Page 4
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+1 Positioning and application of this guideline
+1-1 Positioning of this guideline
+
+The Personal Information Protection Commission supports activities carried out by businesses to ensure the proper handling of personal information.
+To support and to implement the measures taken by the business operator appropriately and effectively with the support.
+For the purpose, the Law Concerning the Protection of Personal Information (Law No. 57 of 2003; hereinafter referred to as the "Law")
+U. ) As a concrete guideline based on Articles 4, 8 and 60, "Protection of personal information"
+Guidelines for Law (General Rules) ”(2016 Personal Information Protection Commission Notification No. 6 and above.
+Below is the "general guideline". ), But personal information handling business operators and anonymous processing information
+When a business operator handling anonymous information handles anonymously processed information, ensuring the proper handling of anonymously processed information
+Supporting activities related to insurance, and the measures taken by the business operator with such support are appropriate
+Collection of anonymously processed information among the obligations of business operators stipulated by law for the purpose of effective implementation
+What is a general guideline from the viewpoint of focusing on the handling part and showing it in an easy-to-understand manner?
+Separately, this guideline is established. (Solution of the part related to the proper handling of personal information
+Refer to the general guidelines for explanations, etc.)
+In this guideline, it is stated that "must" and "must not"
+If you do not comply with these matters, you may be judged to be in violation of the law. one
+For matters that are described as "must endeavor", "desirable", etc.
+Failure to comply will not be immediately determined to be a violation of the law, but based on the purpose of the law
+It is desirable to respond as much as possible according to the characteristics and scale of the business operator.
+Unless otherwise specified, the terms used in this guideline are general guidelines.
+According to the example of terms used in.
+
+1-2 Applicable to this guideline
+
+This guideline is based on the law regarding the handling of anonymously processed information regardless of the type of business or scale of the business operator.
+Applicable to businesses that handle personal information or businesses that handle anonymously processed information
+Will be done.
+In the case of exemption (*) stipulated in Article 76 of the Act, Chapter 4 of the Act is applicable.
+It is outside the scope of this guideline.
+
+(*) In Article 76 of the Act, the provisions of Chapter 4 of the Act do not apply in the following cases.
+It is said that. For details, refer to the general guideline "6-2 (Exclusion from application)".
+(1) Broadcasting organizations, newspaper companies, news agencies and other news organizations (individuals who carry out reporting as a business)
+Including. ) Is handled for the purpose of reporting
+
+1
+
+Page 5
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+(2) When a person who writes as a business handles it for the purpose of writing
+③ Universities and other institutions or organizations for the purpose of academic research or belonging to them
+When a person handles it for the purpose of providing it for academic research
+④ For the purpose of being used by religious groups for religious activities (including activities incidental to them)
+When handling
+⑤ For the purpose of being used by political organizations for political activities (including activities incidental to them)
+When handling
+
+2
+
+Page 6
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+2 Definition
+Since this guideline summarizes the parts related to the handling of anonymously processed information,
+Of the definition provisions in Article 2 of the Act, anonymously processed information and businesses handling anonymously processed information are specified.
+Describe only those related to Article 2, Paragraphs 9 and 10 of the Law. In addition, in Article 2 of the law
+See General Guidelines for other definitions.
+
+2-1 Anonymously processed information (related to Article 2, Paragraph 9 of the Law)
+
+Law Article 2 (Section 9)
+9 In this law, "anonymously processed information" means according to the classification of personal information listed in each of the following items.
+Personal information so that a specific individual cannot be identified by taking the measures specified in each item.
+It is information about an individual obtained by processing, and the personal information can be restored.
+It means something that has been prevented.
+(1)
+
+Personal information corresponding to Paragraph 1, Item 1 Part of the description, etc. contained in the personal information is deleted.
+Exclude (to a method that does not have regularity that can restore the part of the description, etc.
+Includes replacement with other descriptions. ).
+
+(2)
+
+Personal information corresponding to Paragraph 1, Item 2 All personal identification codes included in the personal information
+Deleting the part (there is no regularity that can restore the personal identification code)
+Includes replacement with other descriptions by the method. ).
+
+"Anonymously processed information" is specified by taking measures specified according to the classification of personal information.
+Information about an individual obtained by processing it so that it cannot be identified.
+It means that the personal information is restored so that a specific individual cannot be re-identified.
+
+"Name, date of birth and other descriptions contained in the information, etc." that fall under Article 2, Paragraph 1, Item 1 of the Act
+What can identify a specific individual by (can be easily collated with other information, thereby special
+Includes those that will be able to identify certain individuals. ) ”In the case of personal information
+"Processing personal information so that a specific individual cannot be identified" means identifying a specific individual.
+The name, date of birth, and other descriptions contained in the personal information have been deleted so that the personal information cannot be used.
+Means to remove.
+In the case of personal information that "contains a personal identification code" that falls under Article 2, Paragraph 1, Item 2 of the Act, "Special
+"Processing personal information so that a certain individual cannot be identified" is included in the personal information.
+Intention to delete all personal identification codes so that a specific individual cannot be identified
+Taste (after taking this measure, it is still personal information that falls under Article 2, Paragraph 1, Item 1 of the Act.
+In that case, it is necessary to process it as personal information corresponding to the same item. ).
+
+3
+
+Page 7
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+To "delete", "restore the part of the description, etc." or "the personal identification code".
+Including replacing with other descriptions, etc. by a method that does not have regularity
+To Replaced with the description replaced with "a method without regularity that can be restored"
+By restoring the description etc. that identifies the previous specific individual or the content of the personal identification code
+It's a bad way.
+
+In addition, in the law, "can identify a specific individual" means information alone or multiple pieces of information.
+The one that can be judged as such from the one stored in combination with the common wisdom, one
+It came to recognize the identity between the specific person and the information who survive with the judgment or understanding of the general public.
+It depends on whether or not it can be done. "Identify a specific individual" required for anonymously processed information
+The requirement that "cannot be done" cannot be identified by any method.
+It does not require the exclusion of all possibilities from the surgical side, at least the general public.
+And the information is handled by the business operator handling personal information or anonymously based on the ability and method of general business operators.
+Requests that the processing information handling business operator be in a state where it cannot be identified by the usual method.
+Is.
+
+In addition, "things that make it impossible to restore the personal information" means that in the usual way,
+From the anonymously processed information, the specific individual included in the personal information that was the source of the creation of the anonymously processed information
+Anonymous processing information by specifying the description etc. to be identified or the content of the personal identification code etc.
+It means making the information irreversible to personal information.
+The requirement that "the personal information cannot be restored" is any method.
+From the technical side to eliminating all possibilities so that it cannot be restored by
+Not what you want, but at least based on the abilities and methods of ordinary people and general businesses
+The information can be restored by a business operator handling personal information or a business operator handling anonymously processed information by the usual method.
+It is required to be in a state where there is no such thing.
+
+When creating anonymously processed information, the Act on the Protection of Personal Information stipulated in Article 36, Paragraph 1 of the Act
+Based on the Regulations Enforcement Regulations (2016 Personal Information Protection Commission Regulation No. 3; hereinafter referred to as "Rules")
+It is necessary to process according to the standards, and necessary measures including the measures stipulated in Article 2, Paragraph 9 of the Act are the relevant regulations.
+It is stipulated by the rules. (For processing obligations required to create anonymously processed information, see 3-2 (Anonymously processed information)
+Appropriate processing) See)
+
+For "statistical information", items related to common elements are extracted from the information of multiple people and classified into the same category.
+It is the data obtained by aggregating, and quantitatively grasps the tendency or nature of the group.
+Therefore, statistical information is legal, as long as the correspondence with a particular individual is excluded.
+Since it does not correspond to "information about individuals" in the law, it is also regulated in the law before the amendment.
+
+Four
+
+Page 8
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+It is organized as outside the elephant and is not subject to regulation as before.
+
+Five
+
+Page 9
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+2-2 Businesses handling anonymously processed information (related to Article 2, Paragraph 10 of the Law)
+
+Law Article 2 (Section 10)
+10 In this law, "anonymously processed information handling business operator" is a set of information including anonymously processed information.
+To be able to search for specific anonymously processed information using a computer
+To be able to easily search for systematically configured information and other specific anonymously processed information.
+What is specified by a Cabinet Order as a systematic structure (Article 36, Paragraph 1 "Anonymous processing"
+Information database, etc. " ) Is used for business purposes. However, each of Section 5
+Excludes those listed in the item.
+
+Cabinet Order Article 6
+What is stipulated by the Cabinet Order of Article 2, Paragraph 10 of the Law is a certain rule for anonymously processed information contained therein.
+To make it easier to search for specific anonymously processed information by organizing according to
+A collection of information systematically organized in the table of contents, index, and other information to facilitate searching.
+It means something that has something.
+
+"Anonymously processed information handling business operator" uses an anonymous processed information database, etc. for business purposes.
+Regarding the protection of personal information held by national institutions, local public bodies, and incorporated administrative agencies
+Incorporated Administrative Agencies, etc. and Local Incorporated Administrative Agencies Act (2003) stipulated by the Act (Act No. 59 of 2003)
+Refers to persons excluding local incorporated administrative agencies specified in Law No. 118) of the Year.
+
+"A collection of information including anonymously processed information, and specific anonymously processed information is processed using a computer.
+"Systematically configured so that it can be searched by" means specific anonymously processed information.
+Information that includes anonymously processed information that is systematically configured so that it can be searched using a putter.
+A collection of information. Also, even if you are not using a computer, you can add anonymity on paper media.
+It is possible to easily search for specific anonymously processed information by organizing and classifying work information according to certain rules.
+Add a table of contents, index, code, etc. so that it can be easily searched by others.
+Those that are also applicable.
+
+The "business" of "providing for business" here means repetitive continuation with a certain purpose.
+It is the same kind of act that is carried out and is recognized as a business according to social conventions.
+It doesn't matter if it's non-profit. In addition, a non-profit organization (voluntary organization) or an individual without legal personality
+Even if the anonymous processing information database is used for business purposes, anonymous processing information is handled.
+It corresponds to a business operator.
+
+6
+
+Page 10
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+3 Obligations of businesses handling anonymously processed information
+3-1 Concept of obligation regarding the handling of anonymously processed information
+
+In Chapter 4, Section 2 of the Act, the business operator handling personal information that creates anonymously processed information and anonymously processed information.
+Anonymously processed information handling business operators that use information databases for business use anonymously processed information.
+It stipulates the obligations to be observed when handling.
+
+[Obligations, etc. to be observed by businesses handling personal information that create anonymously processed information]
+(1) When creating anonymous processing information, proper processing must be performed. (Article 36 of the Law
+Item 1) <Refer to 3-2 (Proper processing of anonymous processing information)>
+(2) When anonymously processed information is created, safety management measures for information such as processing methods must be taken.
+Not. (Article 36, Paragraph 2 of the Law) <Refer to 3-3 (Safety management measures for anonymously processed information, etc.)>
+(3) When anonymously processed information is created, the items of information contained in the information must be published.
+Not. (Refer to Article 36, Paragraph 3 of the Law) <Refer to 3-4 (Publication at the time of creation of anonymously processed information)>
+(4) When providing anonymously processed information to a third party, the items of the information to be provided and the method of providing it are publicly available.
+In addition to showing, it must be clearly stated to the provider that the information is anonymously processed information.
+I. (Article 36, Paragraph 4 of the Law) <Refer to 3-5 (Providing anonymously processed information to a third party)>
+(5) When using anonymously processed information by oneself, other information is used for the purpose of identifying the person related to the original personal information.
+Do not collate with information. (Article 36, Paragraph 5 of the Law) <3-6 (Prohibition of identification)
+Reference>
+(6) When anonymously processed information is created, it is safe to ensure proper handling of anonymously processed information.
+Take voluntary measures such as management measures and grievance handling, and endeavor to publicize the contents.
+Must be. (Article 36, Paragraph 6 of the Law) <Refer to 3-3 (Safety management measures for anonymously processed information, etc.)>
+
+[Anonymously processed information handling business operators who use anonymously processed information databases, etc. for business use comply
+Obligations, etc. (*)]
+(1) When providing anonymously processed information to a third party, the items of the information to be provided and the method of providing it are publicly available.
+In addition to showing, it must be clearly stated to the provider that the information is anonymously processed information.
+I. (Article 37 of the Law) <Refer to 3-5 (Providing anonymously processed information to a third party)>
+(2) When using anonymously processed information, how to process it for the purpose of identifying the person related to the original personal information
+Do not obtain legal information or collate it with other information. (Article 38 of the Law)
+<Refer to 3-6 (Prohibition of identification)>
+(3) Measures such as safety management measures and grievance processing to ensure the proper handling of anonymously processed information
+Must be voluntarily taken and efforts must be made to publicize its contents. (Article 39 of the Law) <3See 3 (Safety management measures for anonymously processed information, etc.)>
+
+7
+
+Page 11
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+(*) Anonymously processed information handling business is for those who use anonymously processed information databases for business purposes.
+Corresponds to the person. However, the business operator handling personal information created it by processing personal information by itself.
+Anonymously processed information is excluded from the application of Articles 37 to 39 of the Act.
+Therefore, the provisions of Article 36, Paragraphs 4 to 6 of the Act apply.
+
+3-2 Proper processing of anonymous processing information (related to Article 36, Paragraph 1 of the Law)
+
+Law Article 36 (Paragraph 1)
+1
+
+Businesses handling personal information also configure anonymously processed information (anonymously processed information database, etc.)
+Limited to. same as below. ) To identify a specific individual and to create it
+Personal information as necessary to prevent the restoration of personal information used
+The personal information must be processed in accordance with the standards stipulated by the rules of the Information Protection Commission.
+
+Rule Article 19
+The criteria stipulated by the rules of the Personal Information Protection Commission in Article 36, Paragraph 1 of the Act shall be as follows.
+(1)
+
+All or part of the description, etc. that can identify a specific individual included in personal information
+Has regularity that can restore all or part of the description, etc.
+Includes replacement with other descriptions, etc. by a method that does not. ).
+
+(2)
+
+Delete all the personal identification codes included in the personal information (remove the personal identification code
+Replace with other description etc. by a method that does not have regularity that can be restored
+including. ).
+
+(3)
+
+A code that connects personal information and information obtained by taking measures against the personal information (actually)
+It is limited to the code that connects the information handled by the personal information handling business operator to each other. ) Delete
+To do (the individual by a method that does not have regularity that can restore the code
+A mark that cannot connect personal information and information obtained by taking measures against the personal information.
+Including replacing with issue. ).
+
+(Four)
+
+Deleting a peculiar description, etc. (Rules that can restore the peculiar description, etc.)
+
+Includes replacement with other descriptions, etc. by a method that does not have sex. ).
+(Five)
+
+In addition to the measures listed in the preceding items, the description, etc. included in the personal information and the personal information are included.
+
+Differences from the descriptions contained in other personal information that composes the personal information database, etc.
+Appropriate measures based on the results, taking into consideration the nature of other personal information databases, etc.
+Take a place.
+
+Businesses handling personal information are limited to those that constitute anonymously processed information (anonymously processed information database, etc.)
+
+8
+
+Page 12
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+(* 1). same as below. ) When creating (* 2) so that a specific individual cannot be identified and
+In order to prevent the personal information used for its creation from being restored, the basis stipulated in each item of Article 19 of the Regulations.
+The personal information must be processed according to the standards. In addition, "In the rules of the Personal Information Protection Commission
+In order to "process the personal information in accordance with the specified standards", the regulations depend on the nature of the information to be processed.
+It is necessary to meet the processing standards stipulated in each item of Article 19 of the Regulations.
+
+(* 1) The obligation to handle anonymously processed information (Articles 36 to 39 of the Act) is anonymously processed information.
+
+It is imposed on anonymously processed information that composes databases, etc., and is so-called scattered.
+Handling of anonymously processed information that does not constitute an anonymously processed information database, etc.
+No obligation is imposed.
+(* 2) "When creating" is treated as anonymously processed information, so the anonymously processed information
+Refers to when creating. So, for example, as part of safety management measures
+Delete some personal information such as name (or replace it with other description) and then pull
+Continued Personal information when treating as personal information or to create statistical information
+When processing information, etc., it corresponds to "when creating anonymously processed information".
+Absent.
+
+3-2-1 Deletion of descriptions that can identify a specific individual
+
+Rule Article 19 (No. 1)
+(1) All or part of the description, etc. that can identify a specific individual included in personal information
+Has regularity that can restore all or part of the description, etc.
+Includes replacement with other descriptions, etc. by a method that does not. ).
+
+Personal information handled by a business operator handling personal information generally includes name, address, date of birth, gender, and others.
+Contains descriptions of various individuals. These descriptions, etc. are the information alone like the name.
+In addition to those that can identify a specific individual with, these descriptions such as address, date of birth, etc.
+Some can identify a particular individual by being combined. Such a specific
+Delete all or part of the personally identifiable description, etc., or replace it with another description, etc.
+By doing so, it must be processed so that a specific individual cannot be identified.
+When replacing with another description, etc., use a method that does not have regularity so that the original description, etc. can be restored.
+There must be(※). For example, when replacing the date of birth information with the information of the year of birth,
+It is also possible to replace the original description with a more abstract description.
+
+9
+
+Page 13
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+[Examples of expected processing]
+Case 1) When processing personal information including name, address, and date of birth, the following 1 to 3
+Take measures.
+1) Delete your name.
+2) Delete the address. Or, replace it with △△ city in ○○ prefecture.
+3) Delete the date of birth. Alternatively, delete the day and replace it with the date of birth.
+Case 2) When processing personal information including member ID, name, address, and telephone number, the following 1.
+Take 2 measures.
+1) Delete the member ID, name, and phone number.
+2) Delete the address. Or, replace it with △△ city in ○○ prefecture.
+
+(*) Those who do not have the regularity to restore the original description when attaching a temporary ID
+Must be law.
+For example, if you use a hash function etc., your name, address, contact information, credit card
+When trying to generate a temporary ID from a description unique to each individual such as a number, the original description
+The regularity that can restore the original description etc. by simply using the same function
+If there is a possibility of having it, in the original description (for example, name + contact information)
+Consider a method such as using a hash function after adding other descriptions such as random numbers.
+Can be considered. In addition, after adding other descriptions such as the same random number, hash function etc.
+When using a method such as using, restore through other descriptions such as random numbers.
+Combined for each provider so that it does not have regularity that can be done
+It is desirable to take measures such as changing the description to be given and changing it regularly.
+
+3-2-2 Deletion of personal identification code
+
+Rule Article 19 (No. 2)
+(2)
+
+Delete all the personal identification codes included in the personal information (remove the personal identification code
+Replace with other description etc. by a method that does not have regularity that can be restored
+including. ).
+
+When the personal information to be processed is information including a personal identification code, the personal identification code alone
+Since a specific individual can be identified by the body, the entire personal identification code is deleted or placed in another description, etc.
+Instead, it must make it impossible to identify a particular individual.
+If you want to replace it with another description, use a method that does not have regularity so that the original description can be restored.
+
+Ten
+
+Page 14
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+Need to be.
+
+(Reference) Outline of personal identification code
+The personal identification code means that a specific individual can be identified from the information alone.
+According to the Law Enforcement Ordinance on the Protection of Personal Information (Cabinet Order No. 507 of 2003; hereinafter referred to as "Cabinet Order")
+It refers to what is defined and falls under any of the following. (For details on the definition of personal identification code
+For details, refer to General Guidelines 2-2 (Personal Identification Code))
+(1) A code converted to use a part of the body characteristics of a specific individual for use in a computer.
+・ Biometric information (DNA, face, iris, voiceprint, walking mode, finger veins, fingerprint / palmprint)
+Of the data converted to digital data, it is sufficient to identify a specific individual.
+Those that meet the standards stipulated in the regulations [Cabinet Order Article 1, Item 1, Regulation Article 2]
+(2) Use of services, purchase of products, or attachment to documents so that it will be different for each target person
+Code
+・ Passport number, basic pension number, driver's license number, resident's card code, my number, various insurance
+Numbers assigned by public institutions such as certificate numbers [Cabinet Order Article 1 Nos. 2-8, Rule 3
+Article, Article 4]
+
+3-2-3 Deletion of codes that connect information to each other
+
+Rule Article 19 (No. 3)
+(3)
+
+A code that connects personal information and information obtained by taking measures against the personal information (actually individual)
+It is limited to the code that connects the information handled by the person information handling business operator to each other. ) Is deleted
+(The individual by a method that does not have regularity that can restore the code
+A code that cannot link information and information obtained by taking measures against the personal information.
+Including replacing with. ).
+
+When a business operator handling personal information handles personal information, for example, it was acquired from the viewpoint of safety management.
+In order to manage personal information in a decentralized manner, the personal information is divided or all or part of it.
+After duplicating, etc., the information obtained by taking measures against the personal information is interconnected with the personal information.
+ID etc. may be attached as a code for this. Such IDs are personal information and the individual in question.
+It is used to link information obtained by taking measures against information, and is used by a specific individual.
+Deleted from personal information to be processed because it may lead to identification or restoration of original personal information
+Or it must be replaced with another code.
+Of the codes that connect personal information and the information obtained by taking measures against the personal information, "actually an individual
+The "code that connects the information (* 1) handled by the information handling company to each other" is the processing target here.
+
+11
+
+Page 15
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+It becomes. Specifically, the target code here is at the time when anonymous processing information is to be created.
+In this case, the information that is actually handled is used to connect with each other. Example
+For example, if it is actually used as an ID for distributed management, it is numbered for management.
+IDs or telephone numbers also fall under this category.
+When replacing with another code, do not have a regularity that can restore the original code.
+Must be.
+
+[Examples of expected processing]
+Example 1) Regarding service member information, basic information such as name and purchase history are distributed and managed.
+And if they are concatenated by giving them an administrative ID, then that administrative ID
+delete.
+Case 2) Attach a management ID to use when providing a part of personal information to the contractor
+If the original personal information and the information created for provision are linked by, the management concerned
+Replace the ID with a temporary ID (* 2).
+
+(* 1) "Information actually handled by a business operator handling personal information" means creating anonymously processed information.
+It refers to the information that is being handled at the time of the transaction, and is anonymous to be created.
+Processing information is not included.
+(* 2) Regarding precautions when assigning a temporary ID, 3-2-1 (By identifying a specific individual
+Please refer to (*) of (Delete possible descriptions, etc.).
+
+3-2-4 Deletion of peculiar descriptions, etc.
+
+Rule Article 19 (No. 4)
+(Four)
+
+Deleting a peculiar description, etc. (Rules that can restore the peculiar description, etc.)
+
+Includes replacement with other descriptions, etc. by a method that does not have sex. ).
+
+Generally speaking, statements about unusual facts or statements that are significantly different from other individuals.
+Etc., which may lead to the identification of a specific individual or the restoration of the original personal information.
+is there. Therefore, when creating anonymously processed information, delete or otherwise delete peculiar descriptions, etc.
+Must be replaced with the description of.
+The term "unique description, etc." as used herein refers to a description, etc. that can identify a specific individual because it is unique.
+It refers to something that can be reached, and even if it is different from other individuals, it can be used to identify a specific individual.
+Those that cannot be connected do not apply. Information on what kind of description is actually peculiar
+It is necessary to make an objective judgment for each individual case in consideration of the nature of the above.
+
+12
+
+Page 16
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+When replacing with another description, etc., use a method that does not have regularity so that the original description, etc. can be restored.
+There is a need. For example, there may be a method of replacing a peculiar description or the like with a more general description or the like.
+It should be noted that the subject of Article 19-4 of the Regulations is considered to be peculiar in all general situations.
+Descriptions that are generally accepted are applicable. On the other hand, the description etc. included in the personal information to be processed
+With the description etc. included in other personal information that constitutes the personal information database etc. including the personal information
+If there is a significant difference due to the nature of the personal information database, etc., see No. 5 of the same.
+Necessary measures will be required.
+
+[Examples of expected processing]
+Case 1) Delete the medical history with a very small number of cases.
+Case 2) Replace the information that the age is "116 years" with "90 years or older".
+
+3-2-5 Other measures based on the nature of personal information databases, etc.
+
+Rule Article 19 (No. 5)
+(Five)
+
+In addition to the measures listed in the preceding items, the description, etc. included in the personal information and the personal information are included.
+
+Differences from the descriptions contained in other personal information that composes the personal information database, etc.
+Appropriate measures based on the results, taking into consideration the nature of other personal information databases, etc.
+Take a place.
+
+When creating anonymously processed information, first take the measures of Rule 19, items 1 to 4.
+Therefore, it is necessary that a specific individual cannot be identified and cannot be restored to the personal information.
+However, the description etc. included in the personal information to be processed and the personal information including the personal information
+When there is a significant difference from the description etc. contained in other personal information that composes the information database etc.
+However, depending on the nature of the personal information database, etc. that is the source of processing, Article 19 No. 1 to No. 1 of the Regulations
+Even if the information is processed up to No. 4, it is possible to identify a specific individual in general.
+In some cases, it can be said that the original personal information can be restored.
+In order to deal with such cases, consider whether there are any necessary measures other than the above measures.
+However, if necessary, it is appropriate to use the method shown in Appendix 1 (Example of method for processing anonymously processed information).
+Measures must be taken.
+Depending on the nature of the personal information database, etc. to be processed, the processing target and processing process
+Since the degree can change, what information needs to be processed and how much is the personal information to be processed.
+It is necessary to make an individual and specific judgment in consideration of the nature of the information database.
+In particular, iteratively in a personal information database containing purchase history, location information, etc.
+If information about the behavior to be performed is included, it is accumulated to be an individual's behavior.
+
+13
+
+Page 17
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+There may be times when you can understand your habits. Of such information, that information alone is a specific individual
+Identification of a specific individual due to accumulation, etc., even if it cannot be said that
+Or, for the part that may lead to the restoration of the original personal information, do not perform appropriate processing
+Must be.
+
+[Examples of expected processing]
+Example 1) When processing a personal information database including movement history,
+It contains location information (longitude / latitude information) that allows you to estimate the location of your home or workplace.
+Estimated when there is a risk of identifying a specific individual or restoring the original personal information
+Delete the location information in a predetermined range that can lead to. (Delete item / Delete record / Set
+Delete)
+Example 2) When processing a personal information database, etc. that includes the purchase history of a certain retail store
+Includes the purchase history of products for which the number of purchasers at the retail store is extremely limited.
+Places that may lead to the identification of a specific individual or the restoration of the original personal information
+In that case, replace the specific product information (product number / color) with a general product category.
+(Generalization)
+Case 3) A place to process a personal information database containing information on physical examinations of elementary schools
+In this case, the height of one child is 170 cm, which is a big difference compared to other children.
+When there is a risk of identifying a specific individual or restoring the original personal information
+In addition, replace the information with a height of 150 cm or more with the information "150 cm or more".
+(Top coding)
+
+14
+
+Page 18
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+(Appendix 1) Example of method for processing anonymously processed information (*)
+Method name
+
+Commentary
+
+Delete item / record
+
+Of personal information contained in the personal information database, etc. to be processed
+
+Delete / Delete cell
+
+Those that delete the description etc.
+For example, deleting age data from all personal information (items)
+(Delete), delete all information of a specific individual (delete record),
+Or to delete the age data of a specific individual (cell deletion).
+
+Generalization
+
+Regarding the description etc. included in the information to be processed, the superordinate concept is young
+Can be replaced with a numerical value or rounded off.
+What to do.
+For example, replace "cucumber" with "vegetable" in the purchase history data.
+That.
+
+Top (bottom) co
+
+For numerical values ​included in the personal information database, etc. to be processed
+
+Ding
+
+In particular, we will summarize large or small numbers.
+For example, in the data on age, numerical data over 80 years old is "80 years old"
+Summarize in the data "above".
+
+Micro Aggregation
+
+Personal information that composes the personal information database, etc. to be processed
+
+Young
+
+After grouping, replace with a representative description of the group
+What to do.
+
+Data exchange (swat
+
+Personal information ministers that make up the personal information database to be processed
+
+P)
+
+The description etc. included in each other is to be replaced (probabilistically).
+
+Addition of noise (error)
+
+By adding random numbers according to a certain distribution, other tasks
+It will be replaced with a numerical value of your choice.
+
+Pseudo data generation
+
+Create artificial synthetic data and process it with personal information
+Those to be included in the database, etc.
+
+(*) This is an example of a general processing method for creating anonymous processing information.
+It does not prevent proper processing using other methods.
+
+15
+
+Page 19
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+3-3 Safety management measures for anonymously processed information, etc. (related to Article 36, Paragraph 2, Paragraph 6, and Article 39 of the Act)
+
+3-3-1 Safety management measures for information such as processing methods
+
+Law Article 36 (Paragraph 2)
+2
+
+When a business operator handling personal information creates anonymously processed information, the personal information used to create it
+For the description, etc. deleted from the report, the personal identification code, and the processing method performed according to the provisions of the preceding paragraph.
+The rules of the Personal Information Protection Commission stipulate that it is necessary to prevent the leakage of related information.
+Measures must be taken to ensure the security of this information in accordance with the standards.
+
+Rule Article 20
+The criteria stipulated by the rules of the Personal Information Protection Commission in Article 36, Paragraph 2 of the Act shall be as follows.
+(1)
+
+Information such as processing method (description deleted from personal information used to create anonymous processing information, etc.
+Information on the personal identification code and the processing method performed pursuant to the provisions of Article 36, Paragraph 1 of the Act.
+Information (limited to those for which the personal information can be restored using that information).
+The same shall apply hereinafter in this article. ) Clearly define the authority and responsibility of the person who handles it.
+
+(2)
+
+We have prepared rules regarding the handling of information such as processing methods, and how to process according to the rules.
+We handle legal information appropriately, evaluate the status of its handling, and do so.
+Take necessary measures to make improvements based on the results.
+
+(3)
+
+Collection of information on processing methods, etc. by a person who does not have the proper authority to handle information on processing methods, etc.
+Take necessary and appropriate measures to prevent handling.
+
+When a business operator handling personal information creates anonymously processed information, information such as the processing method (for its creation)
+Information about the description, etc. deleted from the personal information used, the personal identification code, and the processing method
+(Limited to those whose personal information can be restored using that information. (*)). After
+Same as below. ) Must take necessary measures in accordance with the standards stipulated in the regulations to prevent leakage.
+Must be.
+The content of this measure is the risk of restoration in the event of leakage of information such as the target processing method.
+The content must be adjusted according to the amount and nature of the information such as the processing method, taking into consideration the size of the information.
+However, for specific items and specific examples that must be taken, Appendix 2 (Information on processing methods, etc.)
+Specific examples of measures required for safety management in Japan).
+
+(*) For example, "things that can restore the personal information using that information"
+Random used in the replacement algorithm when the name etc. is replaced with a temporary ID
+Information on processing methods such as parameters such as numbers or correspondence tables between names and temporary IDs
+Is applicable, and restoration such as "replaced age data with data in 10-year increments"
+
+16
+
+Page 20
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+Information that does not lead to is not applicable.
+
+(Appendix 2) Specific examples of measures required for safety management of information such as processing methods
+Measures that must be taken
+
+Concrete example
+
+① Handle information such as processing methods
+・ Organization for taking safety management measures for information such as processing methods
+Clarification of the authority and responsibility
+System
+of the
+maintenance
+person
+(Rule Article 20, Item 1)
+② For handling information such as processing
+methods of regulations regarding the handling of information such as processing methods
+・ Preparation
+Maintenance of related regulations
+
+Followed operation
+
+And processing according to the relevant regulations
+・ Employee education
+Appropriate handling of information such as
+・methods
+Development of means to check the handling status of information such as processing methods
+And handling of information such as processing
+method
+・ Understanding
+the handling status of information such as processing methods and reviewing safety management measures
+Based on situational assessment and resultsPrice, review and improvement
+Necessary for further improvement
+Implementation of measures
+(Rule Article 20, Item 2)
+③ Handle information such as processing methods
+・ Review by a person who does not have the authority to handle information such as processing methods
+By a person without legitimate authority Prevention of viewing, etc.
+Handling of information such as processing・methods
+Prevention of theft of equipment, electronic media, etc.
+Necessary and appropriate to prevent
+
+・ Prevention of leakage when carrying electronic media, etc.
+
+Measures
+
+・ Deletion of information such as processing methods and disposal of equipment, electronic media, etc.
+
+(Rule Article 20 No. 3)
+
+・ Access control for information such as processing methods
+・ Identification and authentication of accessors to information such as processing methods
+・ Prevention of unauthorized access from the outside
+・ Information leakage, etc., such as processing methods associated with the use of information systems
+Prevention
+
+17
+
+Page 21
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+3-3-2 Safety management measures for anonymously processed information, etc.
+
+Law Article 36 (Section 6)
+6
+
+When a business operator handling personal information creates anonymously processed information, the security of the anonymously processed information
+Necessary and appropriate measures for management, creation of the anonymously processed information and other handling
+Grievance processing and other measures necessary to ensure the proper handling of the anonymously processed information
+You must take your own measures and endeavor to publicize the details of the measures.
+
+Article 39 of the law
+Anonymously processed information handling business operators must take necessary and appropriate measures for the safety management of anonymously processed information.
+Handling complaints regarding the handling of anonymously processed information and ensuring proper handling of other anonymously processed information
+You must take the necessary measures to maintain it and make an effort to publicize the contents of the measures.
+Must be.
+
+Businesses handling personal information or businesses handling anonymously processed information are responsible for security management measures and complaints about anonymously processed information.
+Take necessary measures to ensure the proper handling of anonymously processed information such as processing, and take the relevant measures
+We must endeavor to publicize the details of the measures.
+Regarding the measures such as safety management, we do not require the same handling as personal information, but examples
+For example, security management of personal data, supervision and consignment of employees as stipulated in Articles 20 to 22 of the Act.
+Measures required for prior supervision and handling of complaints regarding the handling of personal information as stipulated in Article 35 of the Act
+It is also possible to refer to the example (*) in. Specifically, the nature of the business and the handling of anonymously processed information
+Reasonable and appropriate measures can be taken according to the situation, the nature and amount of anonymously processed information to be handled, etc.
+desirable.
+In addition, since anonymously processed information is obliged to prohibit identification, we will collect anonymously processed information.
+When handling it, anonymous processing is performed so that the person who handles it does not handle it improperly.
+It is important to be able to clearly recognize that this is information. Therefore, create
+For those who handle anonymously processed information, the information is anonymously processed information.
+It is desirable to make it clear at first glance.
+
+(*) For details, see the general guidelines "3-3-2 (safety management measures), 3-3-3 (employee supervision),"
+3-3-4 (supervision of contractors), 3-6 (handling of complaints regarding the handling of personal information) "
+See.
+
+18
+
+Page 22
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+3-4 Publication at the time of creation of anonymously processed information (related to Article 36, Paragraph 3 of the Law)
+
+Law Article 36 (Section 3)
+3 When a business operator handling personal information creates anonymously processed information, it is stipulated by the rules of the Personal Information Protection Commission.
+Depending on the situation, the item of personal information included in the anonymously processed information must be published.
+Must be.
+
+Rule Article 21
+1 Publication pursuant to the provisions of Article 36, Paragraph 3 of the Act is made without delay after creating anonymously processed information.
+-It shall be done by using the net or other appropriate method.
+2
+
+A business operator handling personal information creates anonymously processed information on behalf of another business operator handling personal information.
+In that case, the other business operator handling personal information is the information about the individual included in the anonymously processed information.
+The items of the report shall be published by the method prescribed in the preceding paragraph. In this case, the public
+It is considered that the business operator handling personal information has published the item in the table.
+
+When a business operator handling personal information creates anonymously processed information (* 1), after creating anonymously processed information
+Information about individuals included in the anonymously processed information using the Internet, etc. without delay (* 2)
+The items of the report must be published (* 3).
+In addition, anonymously processed information with the same items of information about individuals is repeated and continued by the same method.
+When creating the first anonymously processed information and publishing items related to individuals,
+It will be created continuously, such as clearly stating that it is planned to be created during the growth period or continuously.
+By clarifying that fact, about the publication of anonymously processed information created after that
+Is understood to have been made by the previous announcement.
+In addition, anonymous processing is provided by receiving personal data under a consignment contract with another business operator handling personal information.
+When creating anonymously processed information by consignment, such as when creating information, the consignor concerned
+Items of personal information contained in anonymously processed information shall be published.
+
+[Examples of personal information items]
+Example) Of "Name / Gender / Date of Birth / Purchase History", delete the name and then the date of birth.
+Generalization, processing such as deleting singular values ​from purchase history, "gender / year of birth / purchase history"
+When created as anonymously processed information about, the items to be published are "gender", "year of birth", and "purchase".
+"Buying history".
+
+(* 1) Here, "when anonymously processed information is created" is treated as anonymously processed information.
+Therefore, it means that the work of processing personal information is completed. That is,
+Some information is deleted or separated as part of the security management measures for personal information.
+
+19
+
+Page 23
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+When processing such as splitting, storing and managing, or creating statistical information from personal information
+It does not include the case of processing personal information for this purpose.
+In addition, we are working on processing personal information in order to create anonymously processed information.
+If it is in the process of being created but the creation work is not completed, the processing is insufficient.
+Because of this, it may not be appropriate to handle it as anonymously processed information.
+It cannot be positioned as "when anonymously processed information is created".
+(* 2) “Without delay” here means that the publication is anonymous if it is a legitimate and reasonable period.
+It means that the information is accepted even if it is not immediately after it is created. However, at least
+Creating anonymously processed information before using it or providing it to a third party
+In general, it must ensure sufficient time to inform. Tolerance
+The specific period of time may vary depending on the type of business and the type of business, so it is individual.
+It is necessary to make a concrete judgment.
+(* 3) "Publication" is to inform the general public of one's intention (unspecified number of people know
+To announce so that it can be done). For details, see the general guidelines "2-11.
+(Publication) ”.
+
+3-5 Provision of anonymously processed information to a third party (related to Article 36, Paragraph 4 and Article 37 of the Act)
+
+Law Article 36 (Section 4)
+Four The business operator handling personal information creates anonymously processed information and provides the anonymously processed information to a third party.
+When doing so, submit it to a third party in advance as stipulated by the rules of the Personal Information Protection Commission.
+Regarding the items of personal information included in the anonymously processed information provided and the method of providing it
+And the information related to the provision to the third party is anonymously processed information.
+It must be clearly stated.
+
+Article 37 of the law
+Anonymously processed information handling business operators use anonymously processed information (created by processing personal information by themselves).
+except. The same applies to this section below. ) To a third party, the rules of the Personal Information Protection Commission
+Individuals included in anonymously processed information provided to a third party in advance, as stipulated by the rules.
+We will announce the items of information about people and the method of providing them, and to the third party concerned.
+On the other hand, it must be clearly stated that the information related to the provision is anonymously processed information.
+
+Rule Article 22
+1 Publication pursuant to the provisions of Article 36, Paragraph 4 of the Act shall be applied to the use of the Internet and other appropriate methods.
+It shall be done more.
+
+20
+
+Page 24
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+2 Clarification pursuant to the provisions of Article 36, Paragraph 4 of the Act shall be the method of sending an e-mail or the delivery of a document.
+It shall be carried out by a method or other appropriate method.
+
+Rule Article 23
+1 The provisions of Paragraph 1 of the preceding Article shall apply mutatis mutandis to the publication pursuant to the provisions of Article 37 of the Act.
+2 The provisions of Paragraph 2 of the preceding Article shall apply mutatis mutandis to the explicit provisions of Article 37 of the Act.
+
+A business operator handling personal information or a business operator handling anonymously processed information provides anonymously processed information to a third party (* 1)
+When doing so, use the Internet, etc. in advance (* 2) to provide the following (1) and
+In addition to disclosing the matters listed in (2) (* 3), information related to the provision to the third party.
+It must be clearly stated (* 4) by e-mail or in writing that is anonymously processed information.
+In addition, anonymously processed information that has the same personal information items and processing methods is repeated and continuously
+When providing anonymously processed information to a third party in the same way, when first providing anonymously processed information to a third party
+When publishing items related to individuals, specify the period of provision or the fact that continuous provision is planned.
+By clarifying that it will be provided continuously, such as, after that, a third party
+It is understood that the publication of the anonymously processed information provided to the above was made by the previous publication.
+In addition, the act of disclosing anonymously processed information on the Internet etc. is also the third to the unspecified number of people.
+It is necessary to fulfill the above obligations in order to provide the service.
+
+(1) Items of personal information included in anonymously processed information provided to third parties
+Example) Date of birth after deleting the name from "Name, Gender, Date of Birth, Purchase History"
+By generalizing, deleting singular values, etc. from the purchase history, "Gender / Birth / Purchase shoes"
+When creating anonymously processed information related to "History" and providing it to a third party, the items to be published are:
+They are "gender", "year of birth", and "purchase history".
+
+(2) Method of providing anonymously processed information
+Case 1) Mail a hard copy
+Case 2) Upload to the server so that a third party can use anonymously processed information
+
+(* 1) "Providing" means placing anonymously processed information in a state where it can be used by a third party. Concealment
+Even if the name processing information is not physically provided, the network etc. can be used.
+By using it, if a third party can use the anonymously processed information (use it)
+(If authorized), it corresponds to "offering".
+(* 2) For the "in advance" period, provide anonymously processed information to a third party.
+It must ensure a sufficient period of time to inform the general public. concrete
+The period may vary depending on the type of business and the type of business, so it is specific.
+
+twenty one
+
+Page 25
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+It is necessary to make a judgment.
+(* 3) "Publication" is to inform the general public of one's intention (unspecified number of people know
+To announce so that it can be done). For details, see the general guidelines "2-11.
+(Publication) ”.
+(* 4) "Clarification" means that the information provided to a third party is anonymously processed information.
+It means to show in. The method of clarification is stipulated in Article 22, Paragraph 2 of the Regulations.
+As you can see, we will send an e-mail according to the nature of the business, the handling status of anonymously processed information, etc.
+The content of the content is the third party by an appropriate method such as a method of delivering a document or a method of delivering a document.
+Must be recognized by.
+
+3-6 Prohibition of identification (related to Article 36, Paragraph 5 and Article 38 of the Act)
+
+Law Article 36 (Section 5)
+Five The business operator handling personal information creates anonymously processed information and handles the anonymously processed information by itself.
+In the case of, identify the person related to the personal information used to create the anonymously processed information.
+Therefore, the anonymously processed information must not be collated with other information.
+
+Article 38 of the law
+Anonymously processed information handling business operators, when handling anonymously processed information, the anonymous processing information
+Deleted from the personal information to identify the person related to the personal information used to create the report
+Descriptions, etc. or personal identification codes or Article 36, Paragraph 1, individuals owned by administrative organs
+Information Protection Law (Act No. 58 of 2003) Article 44-10, Paragraph 1 (Article 2, Paragraph 2)
+Including the case where it is applied mutatis mutandis in. ) Or for the protection of personal information held by independent administrative agencies, etc.
+In the provisions of Article 44-10, Paragraph 1 of the Act (including the cases where it is applied mutatis mutandis in Paragraph 2 of the same Article).
+Obtain information about the processing method performed by, or use the anonymous processing information with other information.
+Do not match.
+
+When handling anonymously processed information (* 1), the personal information that was the source of the anonymously processed information
+The following actions must not be taken for the purpose of identifying the person in question.
+
+(1) When handling anonymously processed information created by a business operator handling personal information
+・ Collate the anonymously processed information created by yourself with other information (* 2) to identify the person.
+When.
+
+(2) When a business operator handling anonymously processed information handles anonymously processed information created by others
+
+twenty two
+
+Page 26
+
+Personal Information Protection Law Guidelines (Anonymously Processed Information)
+
+・ Received anonymous processing information, non-identification processing information of government agencies, or non-identification processing information of incorporated administrative agencies, etc.
+To obtain information such as the processing method of (* 3).
+-Collaborate the received anonymously processed information with other information (* 2) to identify the person.
+
+[Examples of handling that does not correspond to identification]
+Example 1) Creating statistical information by combining multiple anonymously processed information.
+Example 2) Anonymously processed information is information that is not related to individuals (example: weather information, traffic information, financial products, etc.)
+Statistical analysis of trends along with trading volume).
+
+[Case of handling corresponding to identification act]
+Case 1) Regarding the personal information and anonymously processed information that we hold, we select common descriptions, etc. and select them.
+To collate.
+Case 2) Anonymously processed information created by oneself is used as personal information from which the anonymously processed information was created.
+To collate.
+
+(* 1) Regarding anonymously processed information, the personal information that was the source of the creation of the anonymously processed information
+It is prohibited to collate with other information for the purpose of identifying the person. on the other hand,
+It does not prohibit collation when handling as personal information within the scope of the purpose of use
+I.
+(* 2) There is no limitation on "other information", and if it is an act performed for the purpose of identifying the person,
+The act of collating with all information including personal information and anonymously processed information is prohibited. Also,
+It does not matter what kind of technique or method is specifically used for collation.
+(* 3) "Administrative agency non-identification processed information" is related to the protection of personal information held by administrative agencies.
+Law (Act No. 58 of 2003) Refers to those stipulated in Article 2, Paragraph 9. Also, "Germany
+"Non-identified processed information of incorporated administrative agencies, etc." means protection of personal information held by incorporated administrative agencies, etc.
+Refers to those stipulated in Article 2, Paragraph 9 of the Act on Law (Act No. 59 of 2003). Na
+Oh, since that information is a concept included in anonymously processed information, their information
+Businesses that handle information are subject to discipline related to businesses that handle anonymously processed information.
+Is.
+
+twenty three
+
+

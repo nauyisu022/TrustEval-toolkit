@@ -1,0 +1,596 @@
+Page 1
+
+List of types of processing operations
+(not) subject to the requirement for
+personal impact assessment
+data
+Version 1.0
+
+Page 2
+
+Content:
+Introduction
+
+1
+
+Guidelines WP29
+
+1
+
+Administrator best practices
+
+2
+
+List of types of personal data processing operations not subject to protection impact assessment
+personal data
+
+4
+
+List of types of personal data processing operations subject to protection impact assessment
+personal data
+
+6
+
+1. Processing involving the monitoring of data subjects
+
+7
+
+2. Processing of critical data, data allowing direct identification and / or high data
+personal nature of data subjects
+
+8
+
+3. Processing of personal data which may expose data subjects to threats from the environment
+environment
+
+9
+
+4. Processing of large-scale personal data
+
+10
+
+5. Processing including scanning of publicly accessible spaces
+
+11
+
+6. Processing of personal data with limited influence by data subjects
+
+12
+
+7. Processing of personal data publicly available
+
+13
+
+8. Processing of personal data in technologically complex or advanced infrastructures
+or platforms
+
+13
+
+9. Processing of personal data with a link to other controllers or processors
+
+14
+
+10. Processing of personal data using new technological or organizational solutions 14
+
+© Office for Personal Data Protection
+
+Page 3
+
+Introduction
+Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data
+processing of personal data and on the free movement of such data and repealing the Directive
+95/46 / EC (General Data Protection Regulation or GDPR) provides for the elaboration
+personal data protection impact assessment in cases where the processing of personal data is
+result in a high risk to the rights and freedoms of individuals, taking into account
+to the nature, scope, context, purposes of processing and use of new technologies.
+The Regulation provides several guidelines in Article 35 (1) and (3) for determining the high level
+risks to the rights and freedoms of individuals with regard to the processing of personal data. They are emphasized
+in particular, such processing of personal data which involves (i) systematic and
+extensive evaluation of personal aspects, based on automated processing
+(including profiling) on ​which decisions based on physical ones are based
+legal effects to persons or have a similarly serious impact; (ii) for extensive processing
+specific categories of personal data or personal data relating to criminal convictions
+cases and crimes; (iii) or there is extensive systematic monitoring
+publicly accessible spaces.
+
+Guidelines WP29
+WP29 under WP248 Guidelines on Data Protection Impact Assessment and Determination,
+whether "data processing is likely to result in a high risk" for the purposes
+Regulation 2016/679 (hereinafter "the Guidelines") , intended in particular for administrators and supervisory authorities,
+provided more detailed starting points for determining risk (for example, for the definition of broad terms
+processing), but without more detailed criteria values.
+It set out 9 general criteria for determining the high risk of personal data processing:
+1. evaluation or scoring (of natural persons) is performed, including profiling and forecasting,
+2. automatic decision-making is made which has a legal or similar serious impact,
+3. systematic monitoring is carried out, including monitoring of publicly accessible areas,
+4. sensitive or highly personal data is processed,
+5. the processing is carried out on a large scale,
+6. Data files are assigned or merged (combined or linked
+data of various processing),
+7. processing of data concerning vulnerable data subjects takes place,
+8. new technological or organizational solutions are used or exploited,
+9. processing is carried out with difficult-to-enforce data subjects' rights - for processes
+carried out in a public area which they cannot avoid or processing which it aims at
+allow, modify or deny data subjects access to the service or the conclusion of the contract.
+
+1
+
+Page 4
+
+Some of the criteria set out in the Guidelines are a summary of several sub-criteria to be taken
+processing has been assessed as high risk to the rights and freedoms of data subjects, it must
+acquire certain values. E.g. Criterion 1 is commented as “rating or scoring
+including profiling or forecasting, in particular from aspects related to work performance
+the data subject, his or her economic situation, state of health, personal preferences or
+interests, reliability or conduct, place of residence or movement ’. Analysis of processing in this
+criterion is therefore based on a certain way of processing personal data (evaluation,
+profiling, forecasting), as well as on certain types of processed data (describing
+work performance, economic situation, health status, etc.) and partly also on location (place
+movement or residence of the data subject) and the vulnerability of the data subject.
+According to the Guidelines, in most cases, the data controller can process one that meets two of the above
+general criteria, be considered as processing for which an impact assessment is required
+protection of personal data.
+The guidelines also define the procedure for processing and evaluating the requirements for impact assessment
+protection of personal data.
+Pursuant to Article 35 (4) of the General Regulation, the Authority is required to draw up and publish
+a list of the types of processing operations subject to the impact assessment requirement. Office for
+The protection of personal data is issued by the List of types of personal data processing operations, which
+subject to a personal data protection impact assessment (hereinafter also the Positive List ).
+Pursuant to Article 35 (5) of the General Regulation, the Authority may also draw up and publish a list
+types of processing operations for which an impact assessment is not necessary. The Office therefore also issues
+List of types of personal data processing operations not subject to an impact assessment
+protection of personal data (hereinafter also Negative list ).
+
+Administrator best practices
+Own processing The personal data protection impact assessment can be divided into four stages:
+Stage 1 - gathering information on the processing of personal data.
+Stage 2 - analysis (based on the information according to the previous indent), whether it is mandatory to process
+impact assessment.
+Stage 3 - processing of impact assessment.
+Stage 4 - Monitoring compliance with measures and regular reviews of impact assessments.
+
+The obligation to carry out an impact assessment is imposed on the administrators who carry out the processing
+personal data resulting in high risks to the rights and freedoms of individuals. Designation,
+whether the administrator is subject to this obligation (see stage 2 above) can be done in two steps:
+
+2
+
+Page 5
+
+Step 1 - Insight into the list of types of processing operations that are not subject to assessment
+influence (see pages 4 and 5 of this material). If the processing manager does not find it,
+proceeds to step 2.
+Step 2 - the administrator analyzes the processing of personal data based on parameters
+this processing of personal data and a list of the processing operations to which they are subject
+impact assessment requirement (see pages 6 to 14 of this material). If based on
+The analysis concludes that this is not a high risk processing for rights and rights
+freedom of data subjects, then an assessment of the impact on the protection of personal data
+does not process. Otherwise, the Privacy Impact Assessment must
+process.
+If the administrator processes personal data in the list of types of processing operations that
+not subject to an impact assessment not found (Step 1) or not a high processing
+risk to the rights and freedoms of data subjects (step 2 analysis), this does not relieve the controller
+when processing personal data, the obligation to comply with the general regulation, e.g.
+obligations to adequately secure personal data, as well as general obligations to manage risks.
+
+3
+
+Page 6
+
+List
+types of personal data processing operations which are not subject to
+personal data protection impact assessment
+Taking into account the current supervisory practice, with an effort for minimal administrative
+burden on small and medium-sized administrators, the Office for Personal Data Protection publishes a list
+types of processing for which a personal data protection impact assessment is not required.
+This list follows the General Data Protection Regulation and the Guidelines and is for
+elaborates the needs of administrators.
+List of personal data processing operations not subject to protection impact assessment
+personal data is not definitive. The enumeration of processing will be subject to changes caused by
+practical knowledge and technological development.
+The negative list was modified and approved on the basis of the opinion of the Board for the Protection of Personal Data
+data of 10 July 2019 and further discussions.
+1. Processing (processing operations) personal data of employees with permanent 1 workplace
+on the territory of the Czech Republic, carried out only on the territory of the Czech Republic, within
+fulfillment of legal obligations in accounting, payroll, social and
+health insurance.
+2. Processing the personnel agenda of employees with a permanent workplace in the Czech Republic
+Republic, carried out only on the territory of the Czech Republic, unless it contains processing
+biometric data, evaluation and scoring of data subjects or systematic
+monitoring of data subjects. It is not included in the processing of the personnel agenda
+whistleblowing.
+3. Processing (processing operations) of customers' personal data carried out in full
+in the territory of the Czech Republic, relating to business activities (sales and provision of services,
+including the organization of competitions and the sending of newsletters), carried out only in the Czech language 2 ,
+provided that it does not involve the processing of specific categories of personal data,
+scoring or systematic monitoring of data subjects (except under point 4
+list).
+4. Processing (processing operations) associated with an individual customer visit to the web
+on the administrator's site, including customer profiling based on his selection of items
+or displaying items from the offer of goods, products and services placed on the web
+
+1 permanent
+2 the activity
+
+workplace means a workplace where workers stay for more than four hours during a work shift
+
+is therefore focused primarily or entirely on the Member State in whose language it is carried out, see the judgment of the Court of Justice
+
+European Union Ref. C-213/14
+
+4
+
+Page 7
+
+on the administrator page. No special processing takes place within this processing
+categories of personal data, data of a highly personal nature (see point 4 on page 11 of the
+WP248) and there is no focus on the processing of personal data at vulnerable entities
+data as a separate target group.
+5. Processing (processing operations) provided by a person authorized to provide
+non-employed health services. This person is using
+necessary personal data only for the provision of health services to the data subject (see
+recital 91 of the Regulation), without systematic transfers to third countries,
+for some operations the processing of personal data of patients is not used
+processor, or there is no sharing / linking of personal data of patients of two or
+more individual doctors.
+6. Processing (processing operations) provided by individual lawyers and notaries (lawyers
+and non-employed notaries) using the necessary personal data
+only to provide legal services for the data subject (see recital 91 of the Regulation), whereby
+there is no systematic transfer to third countries for some operations
+The processing of personal data about clients is not used by the processor or does not occur
+sharing / linking personal data of clients of two or more individual lawyers.
+7. Processing (processing operations) provided by individual business individuals
+persons providing social services (persons who are not in an employment relationship)
+using the necessary personal data only to provide social services for the data subject,
+with no systematic transfers to third countries for some operations
+The processing of personal data about clients is not used by the processor or does not occur
+sharing / linking personal data of clients of two or more individual providers
+social services.
+
+Note:
+The controller also does not have to carry out a privacy impact assessment before starting
+processing, if the legal regulation stipulates the obligation of specific processing of personal data
+(Section 10 of Act No. 110/2019 Coll., on the processing of personal data).
+
+5
+
+Page 8
+
+List
+the types of personal data processing operations to which they are subject
+personal data protection impact assessment
+This list follows the Guidelines and further develops them for the needs of administrators . There is no material
+definitive and exhaustive and may be subject to certain changes or additions
+from technological development, changes in legal regulations, etc. The list was amended and approved at
+based on the opinion of the Board for Personal Data Protection of 25 September 2018.
+
+Risk assessment - solution procedure
+The list consists of a total of 10 (criteria) processing. In addition, each criterion has a link in parentheses
+to an adequate criterion from the Guidelines. To assess the riskiness of processing operations, it is important that
+the controller expressed the nature of the processing of personal data by means of the processing characteristics
+personal data , which will allow any processing of personal data to be described and subsequently
+include these characteristics as high-risk processing for rights and freedoms
+data subjects or other processing. Defined is used for each characteristic
+scale or scale, ie a list of values ​or intervals of values (hereinafter only values) which it can
+acquire. Each processing will thus be described by a unique set of characteristics. Processing
+personal data is divided into three groups according to each of the characteristics, with each being marked
+group otherwise, ie:
+
+▪ CRITICAL VALUES
+▪ SIGNIFICANT VALUES
+▪ LOW VALUES
+The classification as high-risk processing for the rights and freedoms of data subjects shall be
+that:
+▪ if the level of two or more characteristics hits the critical ones , then the DPIA is processed,
+▪ if one level hits the critical and at the same time reaches at least five characteristics
+level is significant , then the DPIA is also processed,
+▪ each characteristic is counted only once (highest achieved) level
+Notice:
+When proposing a solution, the situation in which fulfillment would be considered in advance cannot be taken into account
+certain preconditions (for example, the fulfillment of some technical or organizational
+such as pseudonymisation of data) or due to certain factors (such as taking into account threats,
+
+6
+
+Page 9
+
+which affect the processing). These considerations are part of the protection impact assessment itself
+personal data, which is the next step (in cases where the analysis occurs
+concludes that there are high risks to rights and freedoms in the processing of personal data
+data subjects).
+
+1. PROCESSING INCLUDING MONITORING OF DATA SUBJECTS
+(criterion 3 of the Guidelines)
+1.1 DATA SUBJECTS ARE IDENTIFIABLE / IDENTIFIED AND LOCALIZABLE
+
+This mainly concerns the processing of data monitoring physical movement or residence
+identifiable data subjects, in particular through their
+coordinates. Common use of plain image recording and other monitoring
+employees are included here only if employee monitoring is to determine their employees
+movement or monitor their activities on an ongoing basis (the problem of a possible conflict with the Code
+work). In that case, however, the condition set out in the introduction must be met (minimum
+one more characteristic at the critical (red) or five significant level
+(blue) characteristics) in order to create an obligation to prepare an Impact Assessment
+for the protection of personal data. Localizability of the movement of subjects by using the series
+Cameras, even by various administrators, is a matter mostly for the security forces, however
+does not comply with Regulation 2016/679. This does not include sound recording for contractors
+purposes.
+1.2 DATA SUBJECTS ARE IDENTIFIABLE / IDENTIFIED AND RECOGNIZABLE
+
+It is mainly the processing of image records identifiable /
+identified data subjects in order to protect assets and increase security
+people, ie a conventional camera system.
+1.3 DATA SUBJECTS ARE IDENTIFIABLE / IDENTIFIED AND OTHERWISE MONITORED
+
+These are entities that are identifiable or identified through
+unique identifiers or a set of other data and records
+activities. This includes, for example, recording the monitoring of patients' vital signs,
+attendance systems, sound recordings, records of activities of subjects on the network.
+
+7
+
+Page 10
+
+2. PROCESSING OF CRITICAL DATA, ENABLING DATA
+DIRECT IDENTIFICATION AND / OR HIGHLY PERSONAL DATA
+NATURES OF DATA SUBJECTS (criterion 4 of the Guidelines)
+Two more levels are added for better analysis of personal data processing
+characteristics.
+2.1 CRITICAL DATA
+
+2.1.1 Special categories of data and data relating to criminal convictions
+and crime.
+2.1.2 Processing includes the keeping of personal data of racial or ethnic origin,
+on political views, on religion, on philosophical beliefs, on membership
+in trade unions, on health status, on the sexual life and sexual orientation of a natural person,
+genetic data, biometric data processed for the purpose of unique identification
+natural persons (including biometric cameras and similar devices), data relating to
+criminal convictions, etc.
+2.1.3 Data of a highly personal nature (eg data from logs, history of visitors)
+pages, call data, e-mail data, device data
+(eg ICT) used by the data subject, financial data (includes status data
+assets, amount of funds, debts or loans, payment morale), etc.).
+2.2 SIGNIFICANT INFORMATION
+
+2.2.1 Data enabling to act / act on behalf of the data subject in context
+meaning damage to honor, reputation, character, integrity (processing includes
+access data: name, password / PIN, role, pseudonym, recorded offenses or
+fines, participation in certain events, etc.).
+2.2.2 Data enabling the collection of services, goods and money to be collected on behalf of the data subject
+(processing includes data: name of the subject (together name and surname), date
+birth, credit card number, password / PIN, customer number, telephone number, e-mail
+address, address of residence, ownership of real estate, ownership of means of transport
+etc.).
+
+8
+
+Page 11
+
+2.2.3 Unique identifying data (processing includes data: name of the subject
+(together name, surname, titles, date of birth), registration number, social security number, number
+health insurance, OP number, passport number, ŘP number, AIFO, etc.).
+2.3 COMMON DATA
+
+2.3.1 Data related to the data subject 's behavior (processing includes data: participation
+at regular events, education, description of practice, interests, membership details, etc.).
+2.3.2 Other personal data, including some special cases (processing includes
+data such as weight, height, clothing size, hair color, eye color, gender, age
+etc., simple image records, identifiers of subjects that are not unique,
+data on purchases, etc.).
+
+3. PROCESSING OF PERSONAL DATA THAT MAY BE EXPOSED
+ENVIRONMENTAL DATA SUBJECTS FROM THE ENVIRONMENT
+(criterion 7 of the Guidelines)
+When considering a classification according to this processing characteristic, it is necessary to take into account whether it is
+processing focused exclusively on subjects of a defined group (pupils, patients, migrants).
+3.1 PERMANENT VULNERABILITY
+
+Entities can be classified as members of a defined group according to nationality,
+religion, sexual orientation, physical or mental disability, conviction
+for a crime, etc.
+3.2 LIMITED VULNERABILITY
+
+3.2.1 Time - limited vulnerability (entities are classifiable as defined members
+groups according to whether they are migrants, the sick, the elderly, children, adolescents, etc.).
+3.2.2 Situationally given vulnerability (subjects are classifiable as defined members
+groups according to whether they are applicants to the public administration, employees in a relationship
+to the employer, about the recipient towards the providers of health or social services,
+consumers of medicines, customers of erotic aids).
+3.3 WITHOUT SPECIAL VULNERABILITY
+9
+
+Page 12
+
+4. PROCESSING OF LARGE PERSONAL DATA
+(criterion 5 of the Guidelines)
+Two more levels are added for better analysis of personal data processing
+characteristics.
+4.1 PROCESSING OF LARGE PERSONAL DATA 3
+
+It is recommended (in accordance with WP243 and WP248) to take this into account when determining it
+in particular the following factors: the number of data subjects concerned, the volume of data and / or
+the scope of the processed data, the length or duration of the personal data processing activity,
+the geographical scope of the data processing activity and will therefore be determined individually.
+As support for administrators analyzing the processing of personal data of data subjects
+(especially from the Czech Republic to the Czech Republic) we recommend considering the following values ​for determination
+large-scale processing of personal data:
+o from 10001 data subjects or more than 1.0 ‰ of the population of the Czech Republic or the affected states,
+o and / or over 20 accessors / employees of the administrator,
+o and / or with more than 20 processing sites / branches,
+o and at the same time the level of the state (NUTS = NUTS1) in terms of origin / location of entities
+data.
+4.2 PROCESSING OF MEDIUM-SIZED PERSONAL DATA 4
+
+It is recommended (in accordance with WP243 and WP248) to take this into account when determining it
+in particular the following factors: the number of data subjects concerned, the volume of data and / or
+the scope of the processed data, the length or duration of the personal data processing activity,
+the geographical scope of the data processing activity.
+As support for administrators analyzing the processing of personal data of data subjects
+(especially from the Czech Republic to the Czech Republic) we recommend considering the following values ​for determination
+medium scope of personal data processing:
+o from 5001 to 10000 data subjects or between 0.5-1.0 ‰ of the population of the Czech Republic or
+States concerned,
+o and / or from 2 to 20 accessors / employees of the administrator,
+o and / or with 5-20 processing places / branches,
+
+3 The
+
+European Data Protection Board insists on the deletion of explicit values ​for processing under Article 35, paragraph 6
+
+(certain processing in several Member States).
+4 The
+
+European Data Protection Board insists on the deletion of explicit values ​for processing under Article 35, paragraph 6
+
+(certain processing in several Member States).
+
+10
+
+Page 13
+
+o and at the same time the level of at least the region (NUTS2) or region (NUTS3) in terms of
+origin / location of data subjects.
+4.3 PROCESSING OF SMALL PERSONAL DATA 5
+
+It is recommended (in accordance with WP243 and WP248) to take this into account when determining it
+in particular the following factors: the number of data subjects concerned, the volume of data and / or
+the scope of the processed data, the length or duration of the personal data processing activity,
+the geographical scope of the data processing activity.
+As support for administrators analyzing the processing of personal data of data subjects
+(especially from the Czech Republic to the Czech Republic) we recommend considering the following values ​for determination
+small-scale processing of personal data:
+o up to 5000 data subjects or less than 0.5 ‰ of the population of the Czech Republic or the affected states,
+o and / or up to 2 accessors / employees of the administrator,
+o and / or with 1-4 processing sites / branches,
+o and the level of at least the municipality in terms of origin / location of data subjects.
+
+5. PROCESSING INCLUDING SENSING OF PUBLIC ACCESSIBILITY
+SPACE (criterion 3 of the Guidelines)
+5.1 DETAILED LEVEL - PLACES PUBLICLY ACCESSIBLE
+
+These are public spaces, passages, airports, etc. - it applies to camera systems
+monitoring public spaces on a large scale.
+5.2 DETAILED LEVEL - PLACES PUBLICLY RESTRICTED OR INACCESSIBLE
+
+These are the owner's lands, interiors of buildings such as apartment buildings, industrial buildings,
+shops and also very limited (1-1.5 m) public spaces, closely adjacent
+to the monitored object - applies to other camera systems.
+
+5 The
+
+European Data Protection Board insists on the deletion of explicit values ​for processing under Article 35, paragraph 6
+
+(certain processing in several Member States).
+
+11
+
+Page 14
+
+6. PROCESSING OF PERSONAL DATA WITH LIMITED INFLUENCE
+DATA SUBJECTS (criterion 9 of the Guidelines, criterion 1 of the Guidelines)
+Two more levels are added for better analysis of personal data processing
+characteristics.
+6.1 DATA AFFECTABLE BY THE DATA SUBJECT AND TRANSFER
+
+It concerns processing which the data subject has the possibility to influence only to a very limited extent, ie
+processing, where the data subject can only partially enforce his or her rights
+Regulation 2016/679 or for certain rights (right to delete personal data) is
+he can't enforce at all. This is a processing whose execution has been modified by the administrator
+directly legal regulation or automated decision-making, etc.
+6.2. PROCESSED PROCESSING OR TRANSMISSION BY THE DATA SUBJECT
+
+It concerns processing that the data subject has the possibility to influence only partially, ie.
+processing, where the data subject can enforce only some of his rights under the Regulation
+2016/679 or other rights (right to delete personal data) can be enforced only
+limited, that is, the entity may exercise its rights, for example, to a limited extent
+for a period of time, or under defined conditions. This is, for example, processing,
+whose data is necessary for the exercise of rights and obligations arising from the law (but not
+directly regulated by law, such as the conclusion of contractual relations).
+6.3 DATA SUBJECT CONTROLLED BY THE DATA SUBJECT AND TRANSMISSION
+
+It concerns processing where the data subject enforces his or her rights without problems
+Regulation 2016/679.
+
+12
+
+Page 15
+
+7. PROCESSING OF PERSONAL DATA PUBLICLY AVAILABLE
+(partly criterion 4 of the Guidelines, partly criterion 9 of the Guidelines)
+Two more levels are added for better analysis of personal data processing
+characteristics.
+7.1 THE DATA IS PUBLICLY AVAILABLE TO AN UNLIMITED NUMBER OF ENTITIES
+This is data in the framework of processing made available to the public by the controller, for example on the basis of
+legislation.
+7.2 THE DATA IS PUBLICLY AVAILABLE TO A LIMITED NUMBER OF ENTITIES
+
+This is data within the processing made available by the controller limited (in advance
+defined) group of entities.
+7.3 THE DATA IS NOT PUBLICLY AVAILABLE
+
+This is data within the processing accessible only to the administrator or processor, or
+public authorities on the basis of legislation.
+
+8. PROCESSING OF PERSONAL DATA IN TECHNOLOGY COMPLEX
+OR
+
+ADVANCED
+
+INFRASTRUCTURES
+
+OR
+
+PLATFORMS (partly criterion 6 of the Guidelines, partly
+Criterion 5 of the Guidelines, in part Criterion 1 of the Guidelines)
+8.1 AUTOMATED EXPERT SYSTEMS, INCLUDING ARTIFICIAL INTELLIGENCE
+
+Systems used for analysis, profiling.
+8.2 SYSTEM WITH LINK TO OTHER PROCESSIONS CARRIED OUT BY THE SAME ADMINISTRATOR
+OR DATA OBTAINED FROM OTHER ADMINISTRATORS
+
+This is mainly the case where the data obtained is merged / grouped together
+for various purposes.
+8.3 SIMPLE OR COMPLEX SYSTEM WITHOUT CONNECTION TO OTHER PROCESSING
+PERFORMED BY THE SAME ADMINISTRATOR
+
+It is a simple concatenation of operations or operations with variable or multiple operations
+ties.
+13
+
+Page 16
+
+9. PROCESSING OF PERSONAL DATA RELATED TO ANOTHER ADMINISTRATOR
+OR PROCESSORS
+(partially Criterion 6 of the Guidelines, Criterion 9 of the Guidelines)
+9.1 WITH LINKS TO THE Unambiguously Defined Administrator
+
+The link is given, for example, only by the category of administrator (public administration bodies, hospitals,
+schools, members of business groups, etc.), because the list is not possible
+exhaustively determine or is variable, etc.
+9.2 WITH LINKS TO EASY-SPECIFIED ADMINISTRATORS AND / OR PROCESSORS
+
+An exhaustive list of administrators and / or processors may be provided.
+9.3 WITHOUT LINKS TO ANOTHER ADMINISTRATOR AND / OR PROCESSOR
+
+10. PROCESSING OF PERSONAL DATA USING NEW
+TECHNOLOGICAL OR ORGANIZATIONAL SOLUTIONS
+(criterion 8 of the Guidelines)
+10.1 BRAND NEW SOLUTION (PERSONAL DATA PROCESSING NOT YET IMPLEMENTED)
+
+These are new solutions for administrators, not implemented anywhere yet, with which there are none
+experiences.
+10.2 NEW SOLUTION (ALREADY KNOWN PROCESSING OF PERSONAL DATA) AT THE ADMINISTRATOR
+
+This is a new solution for the administrator, or the administrator can use the experience of another member
+consortium (including members in the EEC) or another entity (such as a supplier).
+10.3 SIMILAR SOLUTION WITH THE ADMINISTRATOR ALREADY DEPLOYED OR SOLUTION NEWLY DEPLOYED
+THE ADMINISTRATOR, BUT IT IS A REPEATED SOLUTION (OFFERED ON THE MARKET BY THE SUPPLIER
+SCALABLE SETTINGS)
+
+These are solutions with which the administrator already has experience, or solutions many times differently
+deployed and tested, "box solutions" or "turnkey solutions" supplied
+and customizable to the needs of the administrator.
+
+14
+
+

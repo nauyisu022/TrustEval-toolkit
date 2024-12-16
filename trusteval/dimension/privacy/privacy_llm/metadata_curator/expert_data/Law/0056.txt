@@ -1,0 +1,502 @@
+Page 1
+
+Set as homepage
+
+Saturday, June 5, 2021
+
+Add to Favorites Mobile version
+Traditional Chinese
+
+Please enter search keywords
+
+⾸⻚
+⻚
+
+Informatization
+Network communication
+International exchange
+Local letter
+office ⼯ Open networks
+for security
+
+The authority issued
+
+Law enforcement
+Policies
+inspection
+and regulations
+Interactive Center
+Education andIndustry
+training NewsFor topic
+
+Current position: ⾸⻚ >正
+正⽂
+
+Notice of the Central Information Office on the issuance of the "Emergency Plan for National Network Security Incidents"
+June 27, 2017 16:20
+
+Source: Chinese Letter
+
+【print】
+【Error correction】
+
+Wechat QR code
+
+Notice of the Central Information Office on the issuance of the "Emergency Plan for National Network Security Incidents"
+
+The Central Office of the People’s Republic of China issued (2017) No. 4
+Scan the code to enter the mobile version
+
+All provinces, autonomous regions, municipalities directly under the Central Government, the Xinjiang Production and Construction Corps Party Committee, the network security and informatization leadership team, the central and state organs, ministries and commissions, and civil organizations:
+
+The "National Network Security Incident Emergency Plan" has been approved by the Central Network Security and Informatization Leadership Team. It is now issued to you. Please organize and implement it carefully.
+
+Office of the Central Network Security and Informatization Leadership Team
+
+2017 1⽉10⽇
+Emergency Plan for National Network Security Incidents
+⬬ Record
+1 General
+
+1.1 Compilation of the target
+
+1.2 Basis for preparation
+
+1.3 Applicable scope
+
+1.4 Event classification
+
+1.5 Principles of Work
+
+2 Organization and Responsibilities
+
+2.1 Leading organization and responsibilities
+
+2.2 Offices and responsibilities
+
+2.3 Responsibilities of each department
+
+2.4 Responsibilities of provinces (autonomous regions and municipalities)
+
+3 Monitoring and early warning
+
+3.1 Early warning classification
+
+3.2 Early warning monitoring
+
+3.3 Early warning research, judgment and release
+
+3.4 Early warning response
+
+3.5 Release of warning
+
+4 Emergency treatment
+
+4.1 Incident report
+
+4.2 Emergency response
+
+4.3 End of emergency
+
+5 Investigation and evaluation
+
+6 Prevention
+
+6.1 Daily management
+
+6.2 Walkthrough
+
+6.3 Publicity
+
+6.4 Training
+
+6.5 Preventive measures during important events
+
+7 Safeguards
+
+7.1 Organization and staff
+
+7.2 Technical support team
+
+7.3 Expert team
+
+7.4 Social Resources
+
+7.5 Basic platform
+
+7.6 Technology research and development and industry promotion
+
+7.7 International cooperation
+
+7.8 Material guarantee
+
+7.9 Financial guarantee
+
+7.10 Responsibility and rewards and punishments
+
+8 Supplementary Provisions
+
+8.1 Plan management
+
+8.2 Interpretation of the plan
+
+8.3 Implementation time of the plan
+
+1 General
+
+1.1 Compilation of the target
+
+Establish and improve the national network security incident emergency response mechanism, improve the ability to respond to network security incidents, prevent and reduce the loss and harm caused by network security incidents, protect public interests, and safeguard the country.
+Home safety, public safety and social order.
+
+1.2 Basis for preparation
+
+"The People's Republic of China Emergency Response Law", "The People's Republic of China Network Security Law", "National Public Emergency Response Plan", "Emergency Emergency Response Plan Management Office"
+Law" and "Guidelines for the Classification and Classification of Information Security Technology Information Security Events" (GB/Z 20986-2007) and other relevant regulations.
+
+1.3 Applicable scope
+
+The network security incident referred to in this plan means that due to human causes, software and hardware defects or failures, natural disasters, etc., harm the network and information system or the data in it, and cause a negative impact on the society.
+The affected events can be divided into harmful program events, network attack events, information destruction events, information content security events, equipment and facility failures, catastrophic events, and other events.
+
+This plan is suitable for responding to network security incidents. Among them, special plans are separately formulated for the response to information content security incidents.
+
+1.4 Event classification
+
+Network security incidents are divided into four levels: particularly serious network security incidents, serious network security incidents, relatively large network security incidents, and general network security incidents.
+
+(1) A network security incident that meets one of the following circumstances is a particularly important network security incident:
+①Important networks and information systems have suffered particularly serious system losses, causing the system to become large and paralyzed and lose business processing capabilities.
+②The loss of state secret information, important sensitive information and key data or being stolen, tampered with, or counterfeited poses a particularly serious threat to national security and social stability.
+③Other network security incidents that pose a particularly serious threat to national security, social order, economic construction, and public interests, and cause particularly serious impacts.
+(2) A major network security event is a major network security event that meets one of the following circumstances and does not reach a particularly serious network security event:
+① Important network and information systems suffer serious system losses, causing long-term system interruption or partial paralysis, and business processing can be greatly affected.
+②The loss of state secret information, important sensitive information and key data or being stolen, tampered with, or counterfeited poses a serious threat to national security and social stability.
+③Other network security incidents that pose a serious threat to national security, social order, economic construction, and public interests, and cause serious impacts.
+(3) Those that meet one of the following circumstances and have not reached a major network security event are considered to be a major network security event:
+① Important network and information systems suffer major system losses, causing system interruptions, which obviously affects system efficiency and business processing capabilities.
+② The loss of state secret information, important sensitive information and key data or being stolen, tampered with, or counterfeited poses a serious threat to national security and social stability.
+③Other network security incidents that pose a serious threat to national security, social order, economic construction, and public interests, and cause serious impacts.
+(4) In addition to the above circumstances, network security incidents that pose a certain threat to national security, social order, economic construction, and public interests, and cause certain impacts, are general network security incidents.
+
+1.5 Principles of Work
+
+Persist in unified leadership and hierarchical responsibility; adhere to unified command, close coordination, rapid response, and scientific handling; adhere to prevention first, combining prevention with emergency; adhere to who is in charge and responsible, and who operates
+Who is responsible, give full play to the strengths of all parties, and work together to prevent and deal with network security incidents.
+
+2 Organization and Responsibilities
+
+2.1 Leading organization and responsibilities
+
+Under the leadership of the Central Network Security and Informatization Leadership Team (hereinafter referred to as the "Leadership Team"), the Office of the Central Network Security and Informatization Leadership Team (hereinafter referred to as the "Central Information Office") coordinated
+Coordinate and organize the national network security incident response work, establish and improve the inter-departmental linkage disposal mechanism, the Ministry of Industry and Information Technology, the Ministry of Public Security, the State Security Bureau and other relevant departments are responsible for the relevant tasks according to the division of responsibilities
+Respond to network security incidents. When necessary, a national network security incident emergency headquarters (hereinafter referred to as the “command headquarters”) shall be established, which is responsible for the organization, command and coordination of the handling of network security incidents.
+
+2.2 Offices and responsibilities
+
+The National Cyber ​Security Emergency Office (hereinafter referred to as the “Emergency Office”) is located in the Central Communications Office, and its specific tasks are undertaken by the Central Communications Office’s Cyber ​Security Coordination Bureau. The Emergency Office is responsible for the inter-department of network security and emergency
+Coordinating the work of the door, cross-regions and the affairs of the command headquarters, organizing and guiding the national network security emergency technical support team to do technical support for emergency response. The relevant departments are responsible for related work
+The comrades at the department and bureau level are the liaison officers who contact the emergency response office.
+
+2.3 Responsibilities of each department
+
+The central and state agencies are responsible for the prevention, monitoring, reporting, and emergency response of security incidents in their own departments, their own business networks, and information systems in accordance with their duties and powers.
+
+2.4 Responsibilities of provinces (autonomous regions and municipalities)
+
+The communications departments of all provinces (autonomous regions and municipalities), under the leadership of the regional party committee network security and informatization leadership team, coordinate and organize the prevention and supervision of network security incidents in the region’s network and information systems.
+Testing, reporting and emergency response operations.
+
+3 Monitoring and early warning
+
+3.1 Early warning classification
+
+The early warning levels of network security incidents are divided into four levels: red, orange, yellow, and blue are used in order from high to low, corresponding to the occurrence or possible occurrence of particularly severe, severe, severe, and severe. General network
+Security incident.
+
+3.2 Early warning monitoring
+
+In accordance with the requirements of "who is in charge, who is responsible for operations, who is responsible for operations", each unit organizes the implementation of network security monitoring work on the network and information system of the unit's construction and operation. Key industry supervisors or regulatory authorities
+Organize and guide to do a good job of monitoring the safety of the business network. The information departments of all provinces (autonomous regions and municipalities) combined with the actual conditions of the region to coordinate and organize the security monitoring of the network and information system in the region. Provinces
+(Districts, municipalities) and various departments report important monitoring information to the emergency response office, which organizes the sharing of cross-provincial (regional, municipal) and cross-departmental network security information.
+
+3.3 Early warning research, judgment and release
+
+All provinces (autonomous regions, municipalities) and departments organize research and judgment on monitoring information. If they believe that preventive measures are needed immediately, they should notify relevant departments and units in a timely manner.
+Information on network security incidents shall be reported to the Emergency Office in a timely manner. All provinces (autonomous regions, municipalities) and departments can issue early warnings of orange and below for their own regions and industries based on the monitoring, research and judgment.
+
+The Emergency Response Office organizes research and judgment, determines and issues red warnings and warnings involving multiple provinces (regions, cities), multiple departments, and multiple industries.
+
+The early warning information includes the category of the event, the warning level, the starting time, the possible impact range, the warning items, the measures to be taken and the time limit requirements, the issuing authority, etc.
+
+3.4 Early warning response
+
+3.4.1 Red early warning response
+
+(1) The Emergency Management Office organizes early warning response work, contacts experts and relevant agencies, organizes follow-up and research on developments, studies and formulates preventive measures and emergency response plans, and coordinates organizational resources.
+Various preparations for source scheduling and department linkage.
+
+(2) Relevant provinces (autonomous regions, municipalities) and departmental network security incident emergency command agencies are on duty 24 hours a day, and relevant personnel maintain smooth communication. Strengthen network security incident monitoring and developments
+Information collection work, organization and guidance of emergency support teams and relevant operation units to carry out emergency response or preparation, risk assessment and control work, and report important situations to the emergency response office.
+
+(3) The national network security emergency technology support team enters a standby state, studies and formulates response plans for early warning information, and inspects emergency vehicles, equipment, software tools, etc., to ensure that they are in good condition.
+state.
+
+3.4.2 Orange warning response
+
+(1) Relevant provinces (autonomous regions, municipalities) and departmental network security incident emergency command agencies initiate corresponding emergency plans, organize early warning and response operations, and do a good job in risk assessment, emergency preparedness and risk control
+Work.
+
+(2) Relevant provinces (autonomous regions, municipalities) and departments report the development of the situation to the emergency response office in a timely manner. The Emergency Office pays close attention to the development of the situation, and promptly informs relevant provinces (autonomous regions, municipalities) and departments of relevant important matters.
+
+(3) The national network security emergency technical support team maintains unimpeded communication, inspects emergency vehicles, equipment, software tools, etc., to ensure that they are in good condition.
+
+3.4.3 Yellow and blue early warning response
+
+The relevant regional and departmental network security incident emergency command agencies initiate corresponding emergency plans to guide the organization of early warning and response.
+
+3.5 Release of warning
+
+The early warning issuing department or region shall determine whether to cancel the early warning based on the actual situation, and release the early warning cancellation information in a timely manner.
+
+4 Emergency treatment
+
+4.1 Incident report
+
+After a network security incident occurs, the entity that caused the incident should immediately activate an emergency plan, implement handling, and report information in a timely manner. All relevant regions and departments immediately organized early disposal to control the situation and eliminate hidden issues.
+At the same time, organize research and judgment, pay attention to the preservation of evidence, and do a good job in reporting information. If the initial judgment is a particularly serious or serious network security incident, report to the Emergency Management Office immediately.
+
+4.2 Emergency response
+
+The emergency response to network security incidents is divided into four levels, corresponding to particularly serious, serious, relatively large and general network security incidents. Level I is the highest response level.
+
+4.2.1 Level I response
+
+In the event of a particularly serious network security incident, a Level I response will be initiated in a timely manner, and a command center will be established to perform the unified leadership, command, and coordination responsibilities of emergency response. The emergency office is on duty 24 hours a day.
+
+The emergency command agencies of relevant provinces (regions, cities) and departments enter the emergency state, and under the unified leadership, command, and coordination of the command center, they are responsible for the emergency response operations of the province (region, city) and the department.
+Assistance and support work, 24 hours a day, and dispatch personnel to participate in emergency operations.
+
+Relevant provinces (autonomous regions, municipalities) and departments track the development of the situation, check the scope of influence, and report the development and change of the situation and the progress of the disposal to the emergency office in a timely manner. The command department corresponds to the counter-commissioning decision-making department
+Departments, relevant provinces (autonomous regions, municipalities) and departments are responsible for organizing implementation.
+
+4.2.2 Level II response
+
+The level II response to a network security incident shall be determined by the relevant province (region, city) and department according to the nature and circumstances of the incident.
+
+(1) The emergency command organization of the province (autonomous region, municipality) or department where the incident occurred enters an emergency state, and performs emergency response actions in accordance with relevant emergency plans.
+
+(2) The province (region, city) or department where the incident occurred shall promptly report the development and change of the incident to the emergency response office. The Emergency Office will promptly notify relevant regions and departments of relevant important matters.
+
+(3) If the disposal requires the cooperation and support of other relevant provinces (autonomous regions, municipalities), departments and national network security emergency technical support teams, the business emergency response office shall coordinate. Relevant provinces (regions, cities), ministries
+The door and national network security emergency technical support teams should actively cooperate and provide support in accordance with their own responsibilities.
+
+(4) Relevant provinces (autonomous regions, municipalities) and departments will, in accordance with the emergency response office's notification, strengthen prevention in a targeted manner in light of their actual conditions, to prevent wider impacts and losses.
+
+4.2.3 Level III and Level IV response
+
+The region and department where the incident occurred will respond to the emergency in accordance with relevant plans.
+
+4.3 End of emergency
+
+4.3.1 End of Level I Response
+
+The Emergency Office puts forward suggestions and reports to the headquarters for approval, and informs relevant provinces (autonomous regions, municipalities) and departments in a timely manner.
+
+4.3.2 End of Level Ⅱ Response
+
+It is determined by the province (region, city) or department where the incident occurred, and reported to the emergency office, which will notify the relevant province (region, city) and department.
+
+5 Investigation and evaluation
+
+The emergency response office organizes relevant departments and provinces (autonomous regions, municipalities) to investigate, handle, summarize and evaluate the network security incidents that are particularly important, and report them in accordance with procedures. Major and following network security incidents are initiated by incidents
+The region or department organizes the investigation, processing and summary evaluation, and the summary investigation report related to network security incidents is reported to the Emergency Management Office. Summarize the investigation report and respond to the cause, nature, impact, and responsibility of the incident
+Wait for further analysis and evaluation, and put forward handling opinions and improvement measures.
+
+In principle, the investigation, handling and summary evaluation of the incident should be completed within 30 days after the emergency response.
+
+6 Prevention
+
+6.1 Daily management
+
+All regions and departments should do a good job in preventing network security incidents according to their responsibilities, formulate and improve relevant emergency plans, do a good job in network security inspection, hidden danger investigation, risk assessment and disaster recovery backup, and improve
+The network security information notification mechanism takes effective measures in a timely manner to reduce and avoid the occurrence and harm of network security incidents, and improve the ability to respond to network security incidents.
+
+6.2 Walkthrough
+
+The Central Information Office coordinates relevant departments to organize regular drills, examine and improve the plan, and improve actual combat capabilities.
+
+All provinces (autonomous regions, municipalities) and departments organize at least one plan drill every year, and report the drill to the Central Information Office.
+
+6.3 Publicity
+
+All regions and departments should make full use of various media and other effective forms of publicity to strengthen the publicity of relevant laws, regulations and policies on the prevention and handling of emergency network security incidents, and carry out
+Publicity activities on the basic knowledge and skills of network security.
+
+6.4 Training
+
+All regions and departments should list the emergency knowledge of network security incidents as the training content of the leadership and related personnel, strengthen network security, especially the training of network security emergency plans, and improve prevention
+Awareness and skills.
+
+6.5 Preventive measures during important events
+
+During important national events and meetings, all provinces (autonomous regions, municipalities) and departments should strengthen the prevention and emergency response of network security incidents to ensure network security. Emergency Office Coordinating and Coordinating Network Security Guarantee
+As needed, relevant provinces (autonomous regions and municipalities) and departments are required to initiate red warning response. Relevant provinces (autonomous regions, municipalities) and departments have strengthened network security monitoring, analysis and judgment, and timely warning may cause serious problems.
+For the risks and hidden dangers that are affected, key departments and key positions are kept on duty 24 hours to detect and deal with hidden dangers of network security incidents in a timely manner.
+
+7 Safeguards
+
+7.1 Organization and staff
+
+All regions, departments, and units must implement a network security emergency response system, assign responsibilities to specific departments, specific positions and individuals, and establish and improve emergency response mechanisms.
+
+7.2 Technical support team
+
+Strengthen the construction of network security emergency technology support team, and do a good job in monitoring and early warning, preventive protection, emergency handling, and emergency technical assistance for network security incidents. Support network security companies to improve emergency response
+Disposal capabilities and provide emergency technical assistance. The Central Information Office formulates evaluation and identification standards, organizes the evaluation and identification of national network security emergency technical support teams. All provinces (regions, cities) and departments should be equipped
+Necessary network security professional technical personnel, and strengthen communication and coordination with national network security-related technical units, and establish necessary network security information sharing mechanisms.
+
+7.3 Expert team
+
+Establish a national network security emergency expert group to provide technical consultation and decision-making suggestions for the prevention and handling of network security incidents. All regions and departments strengthen the construction of their own expert teams and give full play to
+The role of experts in emergency response.
+
+7.4 Social Resources
+
+Select network security professionals from education and scientific research institutions, enterprises, institutions, and associations, gather technology and data resources, and establish an emergency service system for network security incidents, so as to improve the response to special emphasis and emphasis.
+Ability to network security incidents.
+
+7.5 Basic platform
+
+All regions and departments have strengthened the construction of the network security emergency response basic platform and management platform to achieve early detection, early warning, and early response, and improve emergency response capabilities.
+
+7.6 Technology research and development and industry promotion
+
+Relevant departments have strengthened research on network security prevention technology, continuously improved technical equipment, and provided technical support for emergency response operations. Strengthen policy guidance and focus on supporting network security monitoring, early warning, and prevention
+Protection, handling and rescue, emergency services, etc., to enhance the overall level of the network security emergency industry and nuclear competition, and to enhance the industry's ability to prevent and deal with network security incidents.
+
+7.7 International cooperation
+
+Relevant departments establish international cooperation channels, sign cooperation agreements, and jointly respond to emergencies of network security through international cooperation when necessary.
+
+7.8 Material guarantee
+
+Strengthen the reserve of network security emergency equipment and tools, adjust and upgrade software and hardware tools in a timely manner, and continue to enhance emergency technical support capabilities.
+
+7.9 Financial guarantee
+
+The financial department provides necessary funding guarantees for emergency response to network security incidents. Relevant departments use existing policies and funding channels to support network security emergency technology to support team building and expert teams
+Construction, basic platform construction, technology research and development, plan drills, and material support were carried out. All regions and departments provide necessary financial guarantees for network security emergency operations.
+
+7.10 Responsibility and rewards and punishments
+
+The emergency response to network security incidents has implemented an accountability system.
+
+The Central Information Office and relevant regions and departments commend and reward advanced collectives and individuals who have made outstanding contributions to the emergency management of network security incidents.
+
+The Central Information Office and relevant regions and departments have not formulated plans and organized drills in accordance with regulations, delayed reporting, misreporting, underreporting, and underreporting important information about network security incidents, or in emergency management work.
+Other dereliction of duty or dereliction of duty shall be punished in accordance with relevant regulations; if a crime is constituted, criminal responsibility shall be investigated in accordance with the law.
+
+8 Supplementary Provisions
+
+8.1 Plan management
+
+In principle, this plan is evaluated once a year and revised in due course based on actual conditions. The revised work is under the responsibility of the Central Information Office.
+
+All provinces (autonomous regions, municipalities), departments, and units shall formulate or revise emergency plans for network security incidents in their regions, departments, industries, and units based on this plan.
+
+8.2 Interpretation of the plan
+
+This plan is explained by the Central Information Office.
+
+8.3 Implementation time of the plan
+
+This plan will be implemented from the date of self-issuance.
+
+annex:
+
+1. Network security incident classification
+
+2. Terminology
+
+3. Explanation of the degree of network and information system loss
+
+attachment1
+
+Network security incident classification
+
+Network security incidents are divided into harmful program incidents, network attack incidents, information destruction incidents, information content security incidents, equipment and facility failures, catastrophic incidents, and other network security incidents.
+
+(1) Harmful program incidents are divided into computer virus incidents, worm incidents, Trojan horse incidents, zombie network incidents, mixed program attack incidents, web page embedded malicious code incidents, and other incidents.
+Harmful program event.
+
+(2) Network attacks are divided into denial of service attacks, backdoor attacks, vulnerability attacks, network scanning and eavesdropping incidents, network phishing incidents, harassment incidents, and other network attacks
+Pieces.
+
+(3) Information destruction incidents are divided into information tampering incidents, information counterfeiting incidents, information leakage incidents, information theft incidents, information loss incidents, and other information destruction incidents.
+
+(4) Information content security incidents refer to the dissemination of information prohibited by laws and regulations through networks, the organization of non-law tandem, incitement to rallies, or hype up sensitive issues and endanger national security, social stability and public affairs.
+Events of public interest.
+
+(5) Equipment and facility failures are divided into software and hardware failures, peripheral support facility failures, damage accidents, and other equipment and facility failures.
+
+(6) Catastrophic events refer to network security incidents caused by natural disasters and other emergencies.
+
+(7) Other incidents refer to network security incidents that cannot be classified as above.
+
+Annex 2
+
+Noun term
+
+1. Important networks and information systems
+
+The network and information system that the business carried is closely related to national security, social order, economic construction, and public interests.
+
+(Reference basis: "Guidelines for the Classification and Classification of Information Security Technology Information Security Events" (GB/Z 20986-2007))
+⼆, important and sensitive information
+Information that does not involve state secrets, but is closely related to national security, economic development, social stability, and the interests of enterprises and the public. This information is disclosed, lost, misused, or altered without authorization
+Or destroyed, it may cause the following consequences:
+
+a) Damage to national defense and international relations;
+
+b) Damage to national property, public interest, personal property or personal safety;
+
+c) Influencing the country to prevent and combat economic and military espionage, political infiltration, organized crime, etc.;
+
+d) Influencing political agencies to investigate and deal with illegal or dereliction of duty according to law, or suspected of illegal or dereliction of duty;
+
+e) Interfering with government departments to carry out supervision, management, inspection, auditing and other political activities in accordance with law and impartially, and hindering government departments from performing their duties;
+
+f) Endanger the security of national critical infrastructure and government information systems;
+
+g) Affect the market order, cause unfair competition, and disrupt market laws;
+
+h) State secret matters can be deduced;
+
+i) Infringement of personal privacy, corporate trade secrets and intellectual property rights;
+
+j) Damage other interests and reputations of the country, enterprises and individuals.
+
+(Reference basis: "Guidelines for Information Security Technology Cloud Computing Service Security" (GB/T31167-2014))
+
+Annex 3
+
+Description of the degree of network and information system loss
+
+Network and information system losses refer to the damage to the system’s software, hardware, functions, and data due to network security incidents, resulting in the interruption of the system’s business, and the loss to the organization that caused the incident.
+It mainly considers the cost of restoring the normal operation of the system and eliminating the negative impact of security incidents. It is divided into particularly severe system loss, severe system loss, larger system loss, and smaller system loss.
+System losses, explained as follows:
+
+a) Particularly serious system loss: causing the system to become large and paralyzed, causing it to lose business processing capabilities, or the confidentiality, integrity, and availability of key data in the system are severely damaged, and the system is restored
+The cost of normal operation and elimination of the negative impact of security incidents is huge, which is unbearable for the incident organization;
+
+b) Serious system loss: cause the system to be interrupted for a long time or partially paralyzed, so that its business processing can be greatly affected, or the confidentiality, integrity, and availability of the key data of the system are broken
+In case of failure, the cost of restoring the normal operation of the system and eliminating the negative impact of the security incident is huge, but it is affordable to the incident organization;
+
+c) Major system loss: causing system interruption, significantly affecting system efficiency, affecting important information systems or general information system business processing, or the confidentiality of important system data,
+The integrity and availability are destroyed, and the cost to restore the normal operation of the system and eliminate the negative impact of the security incident is relatively high, but it is completely affordable for the incident organization;
+
+d) Relatively small system loss: causing a short interruption of the system, affecting the efficiency of the system, affecting the business processing of the system, or affecting the confidentiality, integrity, and availability of important system data
+The cost of restoring the normal operation of the system and eliminating the negative impact of security incidents is relatively small.
+
+

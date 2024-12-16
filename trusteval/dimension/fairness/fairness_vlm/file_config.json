@@ -1,0 +1,16 @@
+[
+    {
+      "file_name": "final_stereotype.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "modify_sentence_length",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "VLM_fairness_open_ended"
+    },
+    {
+      "file_name": "final_preference.json",
+      "judge_template": "VLM_preference_open_ended"
+    }
+  ]

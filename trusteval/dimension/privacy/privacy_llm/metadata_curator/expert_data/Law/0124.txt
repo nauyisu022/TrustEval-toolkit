@@ -1,0 +1,2594 @@
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+LAW NO. 06 / L-082
+ON PERSONAL DATA PROTECTION
+Assembly of the Republic of Kosovo,
+Pursuant to Article 65 (1) of the Constitution of the Republic of Kosovo,
+Miraton:
+
+LAW ON PERSONAL DATA PROTECTION
+CHAPTER I
+
+GENERAL PROVISIONS
+Not 1
+Purpose
+
+1. This law defines the rights, responsibilities, principles and punitive measures related to the
+protection of personal data and privacy of the individual. This law defines the responsibilities of the
+institution responsible for overseeing the legitimacy of data processing and access to public
+documents.
+2. This law is in accordance with Regulation (EU) 2016/679 of the European Parliament and of the
+Council of 27 April 2016 on the protection of natural persons with regard to the processing of
+personal data and the free circulation of such data, repealing Directive 95/46 /
+EC (Regulation on general data protection) “.
+No 2
+Scope
+1. This law applies to the processing of personal data by public and private bodies. This law does
+not apply to the processing of personal data if the processing is performed for purely personal
+purposes.
+2. This law also applies to diplomatic and consular offices, as well as to all other official
+representations of the Republic of Kosovo abroad.
+3. This law also applies to data controllers, who are not established in the Republic of Kosovo, but
+who for the purposes of personal data processing, use automatic or other equipment in the Republic
+of Kosovo, unless such equipment used only for transit purposes through the territory of Kosovo. In
+these circumstances, the auditors should appoint a representative registered in Kosovo.
+
+No 3
+Definitions
+1. The terms used in this law have the following meanings:
+1.1. Personal data - any information about an identified or identifiable natural person
+("data subject"); an identifiable natural person is one who, directly or indirectly, can be
+identified, in particular by referring to an identifier based on a name, an identification
+number, location information, an online identifier, or one or more factors specific to the
+physical, psychological, genetic, genetic, mental, economic, cultural or social identity of
+that natural person;
+1
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.2. Processing - any action or series of actions performed on personal data by
+automatic means or not, such as: collection, registration, organization, structuring,
+storage, adaptation or modification, withdrawal, consultation, use, publication through
+transmission, distribution or offering, unification or combining, restricting, deleting or
+destroying;
+1.3. Restriction of processing - marking of personal data stored in order to limit their
+processing in the future;
+1.4. Classification of personal data - marking personal data to indicate their sensitive
+nature. For the classified data should be defined the conditions, according to which,
+the user can do their processing. The classification must remain attached to sensitive
+personal data until they are deleted, destroyed, destroyed or anonymized;
+
+1.5. Profiling - any form of automatic processing of personal data which consists in
+the use of personal data to assess personal aspects related to a natural person, in
+particular to analyze or predict aspects related to the well-being of the person at work,
+economic status, his health, personal preferences, interests, credibility, behavior,
+location or movements;
+1.6. Nickname - processing of personal data in such a way that personal data does
+not continue to refer to a particular data subject without the use of additional information,
+provided that such additional information is kept separate and subject to technical and
+organizational measures to ensure that personal data do not refer to an identified or
+identifiable natural person;
+1.7. File system catalog - detailed description of the structure and content of file
+systems;
+1.8. File systems registry - a registry that enables a detailed overview of file systems;
+
+1.9. File system - a structured set of personal data that is accessible in accordance
+with specific criteria, centralized, decentralized or distributed on a functional or
+geographical basis;
+1.10. Connection code - personal identification number or any other special
+identification number, defined by law, related to the person, which number can be used
+for the discovery or retrieval of personal data from file systems, in which, it is also
+processed connection code;
+1.11. Data controller - any natural or legal person from the public or private sector
+who individually or together with others determines the purposes and ways of
+processing personal data;
+1.12. Written consent of the data subject - consent given under sub-paragraph
+1.11., Paragraph 1. of this Article, where in addition, the data subject must put his
+signature or mark on the written consent for the processing of data his or her;
+
+1.13. Verbal consent or other appropriate consent of the data subject - consent
+from sub-paragraph 1.11., Given orally, by means of telecommunications or any other
+appropriate means, through which it can be clearly concluded that the data subject has
+given his or her consent;
+
+2
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.14. Data processor - any natural or legal person, from the public or private sector,
+who processes personal data for and on behalf of the data controller;
+1.15. Recipient of data - any natural or legal person from the public or private sector
+to whom personal data is disclosed, whether third party or not. However, public
+authorities that may obtain personal data in the context of a separate investigation, in
+accordance with applicable law, are not considered recipients. The processing of this
+data by public authorities is in accordance with the applicable rules for data protection
+according to the purposes of processing;
+1.16. Third party - any natural or legal person from the public or private sector that is
+different from the data subject, controller, processor and persons who, under the direct
+authorization of the controller or processor, are authorized to process personal data;
+
+1.17. Data subject consent - the free expression of the freely given, specific, informed
+and clear will of the data subject through which he or she, by a declaration or a clearly
+affirmative action, expresses consent his / her for the processing of personal data
+related to him / her;
+1.18. Violation of personal data - any violation of security measures resulting in the
+destruction, loss, alteration, unauthorized declaration, accidental or illegal, or access
+to personal data transmitted, stored or otherwise processed;
+
+1.19. Genetic data - personal data relating to the inherited or acquired genetic
+characteristics of a natural person that provide unique information about the physiology
+or health of that natural person and that results, in particular, from an analysis of a
+biological sample by the person physical in question;
+1.20. Biometric data - all personal data resulting from specific processing relating to
+the physical, psychological or behavioral characteristics of a natural person that allows
+or confirms the unique identification of that natural person as well as visual images or
+fingerprinting, psychological data and behavior, which all individuals have, but which
+are specific and permanent to each individual, if in particular they can be used to
+identify an individual, such as: fingerprints, papillary finger lines, irida, retina , facial
+features and DNA;
+1.21. Health records - personal data relating to the physical or mental health of a
+natural person, including the provision of health care services, showing information
+relating to his or her state of health;
+1.22. Cross- border processing - processing of personal data carried out within the
+activities of authorities between states;
+1.23. Privacy - respect for private and family life, inviolability of the home and
+confidentiality of telephone correspondence and other communications, in accordance
+with applicable law;
+1.24. Blocking - stopping further data processing. The decision to block the data must
+be accurately indicated and must remain attached to the personal data as long as the
+reasons for the block exist;
+1.25. Sensitive personal data - personal data revealing ethnic or racial origin, political
+or philosophical views, religious affiliation, trade union membership or any record of
+health or sexual life, any inclusion in or removal from criminal records or misdemeanors
+that stored in accordance
+3
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+with the law. Biometric characteristics are also considered as sensitive personal data, if
+the latter enable the identification of a data subject in relation to any of the above
+circumstances in this sub-paragraph;
+1.26. Information and Privacy Agency (Agency) - an independent agency, responsible
+for overseeing the implementation of legislation on access to public documents and
+protection of personal data, in order to protect the fundamental rights and freedoms of
+natural persons, in relation to processing of personal data, as well as guaranteeing access
+to public documents;
+1.27. Commissioner - an independent body, appointed by the Assembly of Kosovo, within
+the Agency, which is responsible for ensuring the implementation of this law and the Law
+on Access to Public Documents;
+1.28. Inspection Officer - Inspector of the Agency, who performs inspection duties in
+accordance with this law, with the relevant Law on Access to Public Documents.
+No. 4
+Principles of personal data processing
+1. The principle of legality, fairness and transparency - personal data are processed impartially,
+legally and transparently, without compromising the dignity of data subjects.
+
+2. Principle of limitation of purpose - personal data are collected only for certain purposes, clear
+and legitimate and can not be further processed contrary to these purposes. Further processing for
+the purpose of archiving in the public interest, the purpose of scientific or historical research, or the
+statistical purpose, is not considered to be inconsistent with the original purpose.
+
+3. The principle of data minimization - personal data should be adequate, relevant and should
+not exceed the purposes for which they were collected or further processed.
+4. The principle of accuracy - personal data must be accurate and up to date. Every reasonable
+step must be taken to ensure that personal data that is inaccurate, given the purpose of the
+processing, is deleted and corrected without delay.
+5. Principle of limitation of storage - personal data can be stored only for as long as is necessary
+to achieve the purpose for which they are collected or further processed.
+Upon fulfillment of the purpose of processing, personal data are destroyed, deleted, destroyed,
+blocked or made anonymous, unless otherwise provided by the relevant Law on State Archives or
+any other relevant law.
+6. The principle of inviolability and confidentiality - personal data are processed in such a way
+as to guarantee their adequate security, including protection against unauthorized or unlawful
+processing and against loss, destruction or accidental damage, using appropriate technical and
+organizational measures .
+7. Principle of accountability - the controller must be responsible and able to comply with all the
+principles set out in this article.
+
+4
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+KREU II
+LEGITIMACY OF DATA PROCESSING
+No. 5
+Legal processing of personal data
+1. The processing of personal data is legal only if at least one of the following criteria is applied:
+
+1.1. if the data subject has given his consent to the processing of his personal data for
+one or more specific purposes;
+1.2. whether the processing is necessary for the performance of a contract to which the
+data subject is a contracting party or to take action on the data subject 's request prior
+to the conclusion of the contract;
+1.3. if the processing is necessary for the observance of the legal obligation to which
+the controller is subject;
+1.4. whether the processing is necessary to protect the vital interests of the data subject
+or other natural person;
+1.5. if the processing is necessary for the performance of a task of public interest or for
+the exercise of the official authority given to the controller;
+1.6. if the processing is necessary for the purposes of legitimate interests exercised by
+the controller or a third party, unless those interests outweigh the fundamental interests
+or rights and freedoms of the data subject seeking the protection of personal data, in
+particular if data is child. This does not apply to processing performed by public
+authorities for the performance of their duties.
+
+2. If the processing for a purpose other than that for which personal data have been collected is
+not based on the consent of the data subject or the relevant legislation in force, in order to
+determine whether the processing for another purpose is in accordance with the purpose for
+which personal data were initially collected, inter alia, takes into account:
+2.1. any link between the purposes for which the personal data were collected and the
+intended further processing purposes;
+2.2. the context in which the personal data were collected, in particular as regards the
+relationship between the data subjects and the controller;
+2.3. the nature of personal data, especially if special categories of personal data are
+processed, in accordance with Article 8 of this Law or if personal data related to
+convictions and criminal offenses are processed, in accordance with Article 9 of this
+Law;
+2.4. the possible consequences of further targeted processing for data subjects;
+2.5. the existence of appropriate guarantees, which may include encryption or
+anonymization.
+
+5
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+No. 6
+Conditions for consent
+1. If the processing is based on consent, the controller must be able to prove that the data subject has
+given consent for the processing of his personal data.
+2. If the consent of the data subject is given in the form of a written statement, which is also related to
+other issues, the request for consent must be submitted in a way that is clearly distinguishable from
+other issues, in a form understandable and easily accessible, using clear and simple language.
+
+3. The data subject has the right to withdraw his consent at any time. Withdrawal of consent does not
+affect the lawfulness of processing, based on consent before withdrawal and the data subject is notified.
+Withdrawal must be made in the same way as consent itself.
+
+4. In assessing whether consent has been given voluntarily, it must, above all, take into account whether,
+inter alia, the performance of the contract, including the provision of a service, is conditional on the
+consent to the processing of personal data which is not necessary for the implementation of that contract.
+
+Neni 7
+Conditions applicable to the consent of the child in relation to information society services
+
+1. The processing of the child's personal data is lawful where Article 5 sub-paragraph 1.1 applies. of
+this law in relation to the provision of information society services directly to the child, the processing of
+personal data of the child is legal when the child is at least sixteen (16) years old. When the child is
+under the age of sixteen (16) years, such processing is lawful only if and to the extent that consent has
+been given or authorized by the custodian of the child.
+
+2. The controller shall make reasonable efforts to verify in such cases that consent has been given or
+authorized by the parent with responsibility for the child, taking into account the technology available.
+
+3. Paragraph 1. of this Article shall not affect the law in force relating to the rules on the validity, formation
+or effect of a contract relating to a child.
+4. If the data processing is done under the age of sixteen (16) to fourteen (14) years, the controller shall
+make continuous efforts to verify that in these cases the consent for the child has been given or
+authorized by the parent or guardian of the child, consider the technology available.
+
+No. 8
+Processing of specific categories of personal data
+1. The processing of personal data showing racial or ethnic origin, political beliefs, religious or
+philosophical beliefs, membership in professional associations, as well as the processing of genetic
+data, biometric data for the purpose of identifying a natural person in a unique way; data related to the
+health or data related to the sexual life or sexual orientation of a natural person is prohibited.
+
+2. Paragraph 1. of this article does not apply if any of the following circumstances exist:
+
+6
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+2.1. the data subject has given explicit consent to the processing of that personal data
+for one or more specific purposes, except when the relevant legislation in force stipulates
+that the prohibition provided for in paragraph 1 of this Article may not be revoked by the
+data subject. data;
+2.2. processing is necessary for the fulfillment of obligations and the exercise of the
+specific rights of the controller or data subject in the field of employment law, social
+security and social protection, to the extent authorized by the relevant legislation in force
+or an agreement collective that guarantees the fundamental rights and interests of the
+data subject;
+2.3. processing is necessary to protect the vital interests of the data subject or another
+natural person if the data subject is not physically or legally able to give consent;
+
+2.4. whether they are processed for the purposes of legitimate activities and with
+appropriate guarantees by institutions, associations, associations, religious communities,
+trade unions or other non-profit organizations for political, philosophical, religious or trade
+union purposes, but only if the processing concerns their members or data subjects who
+are in regular contact with them and in connection with such purposes and if they do not
+disclose such data to others without the written consent of the data subject;
+2.5. whether the data subject has made them public without restricting their use in a
+proven or explicit manner;
+2.6. processing is necessary for the filing, exercise or defense of legal claims or whenever
+the courts act in their judicial capacity;
+2.7. processing is necessary for the essential public interest on the basis of relevant
+legislation;
+2.8. processing is necessary for the purposes of preventive or occupational medicine, for
+the assessment of the employee's working capacity, medical diagnosis, provision of
+social health care, treatment, management of health or social care systems and services
+on the basis of relevant legislation or in in accordance with the contracts with a health
+professional when those data are processed by a professional or under his responsibility
+which is subject to the obligation of professional secrecy under the relevant legislation,
+rules established by the competent national bodies or by any other person who is also
+subject to the obligation of secrecy;
+2.9. processing is necessary for reasons of public interest in the field of public health,
+such as protection against serious cross-border health threats or guaranteeing high
+standards of quality and safety of health care and medical products or medical devices,
+on the basis of relevant legislation ;
+2.10. processing is necessary for the purposes of archiving in the public interest, of
+scientific, historical, statistical research.
+3. The personal data referred to in paragraph 1. of this Article may be processed for the purposes
+referred to in sub-paragraph 2. of this Article, when such data are processed in proportion to the
+required purpose, their processing respects the essence. of the right to data protection and is
+done in accordance with the specific measures for the protection of the fundamental rights and
+interests of the data subject as provided in this law, including where necessary, professional
+secrecy.
+
+7
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+4. Special categories of personal data must be specially protected and classified in order to
+prevent unauthorized access and use, except in the cases from sub-paragraph 2.5. of paragraph
+2. of this article.
+No. 9
+Processing of personal data related to convictions and criminal offenses
+The processing of personal data related to sentences and criminal offenses or relevant security
+measures, based on Article 5. paragraph 1. of this law is performed only under the control of the
+official authority under the relevant law. Any comprehensive criminal record is kept only under the
+control of the official authority.
+Not 10
+Processing that does not require identification
+
+1. For the purposes for which a controller processes personal data does not require or continue
+to require the controller to identify a data subject, it is not obliged to retain, obtain or process
+additional information to identify its controller. data for the sole purpose of complying with this law.
+
+2. If in the cases referred to in paragraph 1. of this Article, the controller is able to demonstrate
+that he is not able to identify the data subject, in this case the controller, if possible, informs the
+data subject . In these cases, Articles 14 to 19 of this Law do not apply, except when the data
+subject, for the purposes of exercising his rights under these Articles, provides additional
+information, enabling his or her identification.
+
+KREU III
+DATA SUBJECT RIGHTS
+Not 11
+Transparent information, communication and modalities for exercising the rights
+of the data subject
+1. The controller shall take appropriate measures to provide any information referred to in Articles
+12 and 13 of this Law and any communication under Articles 14 to 21 and 33 of this Law in
+connection with the processing of personal data which are subject to a concise format, transparent,
+understandable and easily accessible, using clear and pure language, especially for any
+information specifically addressed to a child. The information is provided in writing or by other
+means, including, where appropriate, electronic means. If requested by the data subject, the
+information may be provided orally, provided that the identity of the data subject is proven by
+other means.
+2. The controller facilitates the exercise of the rights of the data subject, according to articles 14
+to 21 of this law. In the cases referred to in Article 10, paragraph 2, of this law, the controller shall
+not refuse to act upon the request of the data subject for the exercise of his or her rights under
+Articles 14 to 21 of this Law, unless the controller demonstrates that is unable to identify the data
+subject.
+3. The controller provides information on the actions taken with the request according to articles
+14 to 21 of this law for the data subject without undue delay and in any case, within one (1) month
+from the receipt of the request. This deadline may be extended by another two (2) months if
+necessary, taking into account the complexity and number of requests. The controller shall notify
+the data subject of any such extension within one (1) month of receipt of the request, together
+with the reasons for the delay. When the data subject makes a request with tools in the format
+8
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+electronically, the information is provided by electronic means, as the case may be, unless otherwise requested
+by the data subject.
+4. If the controller does not act in relation to the request for the data subject, the controller notifies the data
+subject without delay and not later than one (1) month from the receipt of the request for the reasons of
+inaction and on the possibility of submitting a complaint to Agency and filing a defense remedy.
+
+5. The information provided according to articles 12 and 13 of this law and any communication and measures
+taken according to articles 14 to 21 and 32 of this law are provided free of charge. If requests from a data
+subject appear to be unfounded or redundant, in particular because of their repetitive nature, the controller
+may:
+5.1. set a reasonable fee, taking into account the administrative costs of providing the information or
+communication, or taking the required measure, or;
+5.2. refuse to act in connection with the request;
+5.3. the controller has the burden of demonstrating the manifestly unfounded or excessive character
+of the request.
+6. Without prejudice to Article 10 of this Law, if the controller has reasonable doubts regarding the identity of
+the natural person making the request in relation to Articles 14 to 20 of this Law, the controller may request
+the provision of additional information necessary to confirm the the identity of the data subject.
+
+7. The information to be provided to data subjects in accordance with Articles 12 and 13 of this Law may be
+provided in combination with standardized (symbols) icons in order to provide an overview of the intended
+processing in a visible, understandable and easily readable way. If (symbols) icons are provided electronically,
+they should be readable automatically.
+
+CHAPTER IV
+
+INFORMATION AND ACCESS TO PERSONAL DATA
+No. 12
+Information to be provided if personal data is collected by the data subject
+
+1. If the personal data, in relation to a data subject, are obtained from the data subject, the controller, at the
+moment when he receives the personal data, gives to the data subject the following information:
+
+1.1. details of the identity and contact of the controller and, where appropriate, of the controller's
+representative;
+1.2. contact details of the data protection officer, as appropriate;
+1.3. the purpose of the processing, for which the personal data are intended, as well as the legal
+basis for the processing;
+1.4. if the processing is based on Article 5, paragraph 1., sub-paragraph 1.6. of this law, legitimate
+interests pursued by the controller or by a third party;
+1.5. recipients or categories of recipients of personal data, as appropriate;
+9
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.6. as the case may be, the fact that the controller intends to transfer personal data to a third
+country or international organization and the existence or absence of an suitability decision of
+the Agency.
+2. In addition to the information referred to in paragraph 1 of this Article, the controller, at the moment of
+receiving the personal data, shall provide the data subject with the following additional information
+necessary to guarantee a fair and transparent processing:
+2.1. the period for which personal data are stored, or if this is not possible, the criteria used to
+determine this period;
+2.2. the existence of the right to request from the controller the access and correction or
+deletion of personal data, or the restriction of processing in relation to the data subject, or to
+oppose the processing, as well as the right to data transferability;
+
+2.3. if the processing is based on Article 5 paragraph 1., sub-paragraph 1.1. of this law or
+article 8 paragraph 2., sub-paragraph 2.1. of this law the existence of the right to withdraw the
+consent at any time, without affecting the legality of the processing, based on the consent
+before its withdrawal;
+2.4. the right to file a complaint with the Agency;
+2.5. whether the provision of personal data is a legal or contractual requirement, or a
+requirement required to enter into a contract, as well as whether the data subject is obliged to
+provide personal data and the possible consequences of non-disclosure of such data ;
+
+2.6. the existence of automatic decision-making, including the profiling defined in Article 21
+paragraphs 1. and 4. of this law and at least in those cases, the necessary information
+regarding the relevant logic, as well as the importance and the foreseen consequences of this
+elaboration for the subject of data.
+3. If the controller intends to further process personal data for a purpose other than that for which the
+personal data were collected, the controller shall, prior to this further processing, provide the data
+subject with information on the other purpose and any other necessary information, as referred to in
+paragraph 2. of this Article.
+4. Paragraphs 1, 2 and 3 of this Article do not apply if and to the extent that the data subject has the
+information.
+Not 13
+Information to be provided if personal data has not been collected by the data subject
+
+1. If the information is not obtained from the data subject, the controller shall provide the data subject
+with the following information:
+1.1. details of the identity and contact of the controller and, where appropriate, of the controller's
+representative;
+1.2. contact details of the data protection officer, as appropriate;
+1.3. the purpose of the processing for which the personal data are intended, as well as the
+legal basis for the processing;
+
+10
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.4. relevant personal data categories;
+1.5. recipients or categories of recipients of personal data, as appropriate;
+1.6. as the case may be, that the controller intends to transfer personal data to a recipient in a
+country or international organization and the existence or absence of a relevant decision of the
+Agency.
+2. In addition to the information referred to in paragraph 1. of this Article, the controller shall provide the
+data subject with the following information to ensure a fair and transparent processing of the data subject:
+
+2.1. the period for which personal data are stored, or if this is not possible, the criteria used to
+determine this period;
+2.2. if the processing is based on Article 5 paragraph 1., sub-paragraph 1.6. of this law legitimate
+interests pursued by the controller or by a third party;
+2.3. the existence of the right to request from the controller the access, correction or deletion of
+personal data, or the restriction of processing in relation to the data subject, or to oppose the
+processing, as well as the right to transfer data;
+
+2.4. if the processing is based on Article 5 paragraph 1., sub-paragraph 1.1. of this law or in article
+8 paragraph 2., sub-paragraph 2.1. of this law the existence of the right to withdraw the consent at
+any time, without affecting the legality of the processing, based on the consent before its withdrawal;
+
+2.5. the right to file a complaint with the Agency;
+2.6. from which source did the personal data originate, and where appropriate, if they came from
+a publicly accessible source;
+2.7. the existence of automatic decision-making, including profiling, referred to in Article 21,
+paragraphs 1 and 4 of this Law and, at least in those cases, the appropriate information regarding
+the relevant logic, as well as the importance and the foreseen consequences of this elaboration
+for the data subject.
+3. The controller shall provide the information referred to in paragraphs 1 and 2 of this Article:
+3.1. within a reasonable time after receiving the personal data, but not later than one (1) month,
+taking into account the specific circumstances in which the personal data are processed;
+
+3.2. whether personal data will be used for communication with the data subject, not later than the
+first communication with that data subject, or;
+3.3. if the declaration to another recipient is foreseen, not later than when the personal data is first
+declared.
+4. If the controller intends to further process personal data for a purpose other than that for which the
+personal data were collected, the controller shall, prior to this further processing, provide the data subject
+with information on the other purpose and any other necessary information, as referred to in paragraph 2.
+of this Article.
+5. Paragraphs 1. to 4. of this article do not apply if and to the extent that:
+11
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+5.1. the data subject has the information;
+5.2. the provision of this information seems impossible or would involve a disproportionate
+effort, in particular for processing for public interest archiving purposes, scientific or
+historical research purposes, statistical purposes, in accordance with the conditions and
+guarantees referred to in Article 8, paragraph 3. of this law or to the extent that the
+obligation referred to in paragraph 1. of this article may make impossible or seriously
+jeopardize the achievement of the objectives of this elaboration. In such cases, the
+controller shall take appropriate measures to protect the rights, freedoms and legitimate
+interests of the data subjects, including the provision of information publicly;
+5.3. the receipt or declaration is expressly provided for by the relevant legislation to
+which the controller is subject and which takes appropriate measures to protect the
+legitimate interests of the data subject, or;
+5.4. whether personal data must remain confidential, subject to an obligation of
+professional secrecy, regulated by the relevant legislation, including a legal obligation
+of confidentiality.
+No. 14
+The right of access by the data subject
+1. The data subject has the right to receive confirmation from the controller, whether or not the
+data related to him are being processed and, if appropriate, to have access to personal data and
+the following information:
+1.1. processing purposes;
+1.2. relevant personal data categories;
+1.3. recipients or categories of recipients to whom personal data have been or will be
+disclosed, in particular recipients in third countries or international organizations;
+
+1.4. where applicable, the time limit within which personal data will be stored or, if not
+possible, the criteria used to determine that time limit;
+1.5. the existence of the right to request from the controller the correction or deletion of
+personal data or the restriction of the processing of personal data in relation to the data
+subject, or to oppose such processing;
+1.6. the right to submit a request to the Agency;
+1.7. if personal data are not collected by the data subject, any available information as
+well as their source;
+1.8. the existence of automated decision-making, including profiling, referred to in Article
+21, paragraphs 1 and 4 of this Law and, at least in those cases, the relevant information
+regarding the relevant logic, as well as the importance and the foreseen consequences
+of this processing for the data subject.
+2. If personal data are transferred to a foreign country or to an international organization, the
+data subject has the right to be informed of the appropriate guarantees in connection with the
+transfer.
+3. The controller provides a copy of the personal data to be processed. For each
+12
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+another copy required by the data subject, the controller may set an appropriate fee, based on
+administrative costs. If the data subject makes the request by electronic means and, unless otherwise
+requested by the data subject, the information is provided in a commonly used electronic format.
+
+4. The right to obtain the copy referred to in paragraph 3 of this Article does not adversely affect the
+rights and freedoms of others.
+
+CHAPTER V
+
+CORRECTION AND DELETE
+No. 15
+The right of correction
+The data subject has the right to benefit from the controller, without undue delay, the correction of
+inaccurate personal data in relation to it. Taking into account the purposes of the processing, the data
+subject has the right to supplement the incomplete personal data, including by making an additional
+declaration.
+No. 16
+Right to delete ('Right to be forgotten')
+1. The data subject has the right to ask the controller to delete the personal data related to him, without
+delay and the controller has the obligation to delete the personal data, without undue delay, if one of
+the following reasons applies. :
+1.1. personal data are no longer needed in connection with the purposes for which they were
+collected or processed;
+1.2. the data subject withdraws the consent on which the processing is based according to
+article 5 paragraph 1., sub-paragraph 1.1. or Article 8 paragraph 2., sub-paragraph 2.1. of this
+law and if there is no other legal reason for the processing;
+1.3. the data subject opposes the processing in accordance with Article 20 paragraph 1. of
+this Law and there are no legitimate overriding reasons for the processing, or the data subject
+opposes the processing in accordance with Article 20 paragraph 2. of this Law;
+1.4. personal data have been processed illegally;
+1.5. personal data must be deleted to fulfill a legal obligation to which the controller is subject;
+
+1.6. personal data have been collected in connection with the provision of information society
+services referred to in Article 7 paragraph 1. of this law.
+2. If the controller has made the personal data public and is obliged, according to paragraph 1. of this
+article, to delete the personal data, the controller, taking into account the available technology and the
+costs for the implementation, takes reasonable steps, including technical measures, to inform the
+controllers who are processing personal data that the data subject has requested the deletion from
+these controllers of any link or copy, or duplication of such personal data.
+
+3. Paragraphs 1 and 2 of this Article shall not apply to the extent that processing is necessary:
+3.1. for exercising the right to freedom of expression and information;
+13
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+3.2. for the fulfillment of a legal obligation requiring processing, to which the controller is subject,
+or for the fulfillment of a duty in the public interest or in the exercise of official authority vested in
+the controller;
+3.3. for reasons of public interest in the field of public health in accordance with Article 8
+paragraph 2., sub-paragraphs 2.8., 2.9. and paragraph 3. of this law;
+3.4. for the purposes of archiving in the public interest or for the purposes of scientific or historical
+research, or statistical purposes in accordance with Article 8, paragraph 3. of this Law to the
+extent that the right referred to in paragraph 1 of this Article may make it impossible or seriously
+jeopardize the achievement of the objectives of that processing, or;
+3.5. for raising, exercising or defending legal claims.
+No. 17
+The right to restrict processing
+1. The data subject has the right to obtain from the controller the processing restriction if one of the
+following criteria is applied:
+1.1. the accuracy of personal data is challenged by the data subject for a period that enables
+the controller to verify the accuracy of personal data;
+1.2. processing is illegal and the data subject opposes the deletion of personal data and instead
+seeks to restrict their use;
+1.3. controllers no longer need personal data for processing purposes, but they are required by
+the data subject to raise, exercise or defend legal claims;
+
+1.4. the data subject has objected to the processing in accordance with Article 20 paragraph 1.
+of this law pending verification whether the legitimate causes of the controller prevail over those
+of the data subject.
+2. If the processing is restricted according to paragraph 1. of this Article, these personal data, with the
+exception of storage, are processed only with the consent of the data subject for the establishment,
+exercise or protection of legal claims or for the protection of the rights of a another natural or legal person,
+or for reasons of significant public interest;
+3. A data subject that has obtained the processing restriction in accordance with paragraph 1. of this
+Article, shall be informed by the controller before revoking the processing restriction.
+No. 18
+Obligation to notify regarding the correction or deletion of personal data or the restriction of
+processing
+The controller communicates any correction or deletion of personal data or restriction of processing
+performed, in accordance with Article 15, Article 16 paragraph 1. and Article 17, of this law to each
+recipient to whom personal data have been declared, except when this seems impossible or is associated
+with disproportionate effort. The controller notifies the data subject about these receivers if the data
+subject so requests.
+Not 19
+The right to transfer data
+1. The data subject has the right to receive personal data about him, that he
+14
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+or it has given the controller, in a structured format, widely used and automatically readable and has
+the right to transmit that data to another controller, without hindrance from a controller, to whom the
+personal data has been given, if:
+1.1. processing is based on consent, in accordance with Article 5 sub-paragraph 1.1. or in a
+contract, in accordance with Article 6 paragraphs 1. and 2. or Article 8 sub-paragraph 2.1.
+of this law and;
+1.2. processing is done by automatic tools.
+2. In exercising his or her right of transfer, in accordance with paragraph 1. of this Article, the data
+subject has the right to transfer personal data from one controller to another, if technically possible.
+
+3. The exercise of the right mentioned in paragraph 1. of this article does not affect article 16 of this
+law. This right does not apply to the processing necessary for the performance of a task performed
+in the public interest or in the exercise of an official authority vested in the controller.
+4. The right referred to in paragraph 1. of this Article does not adversely affect the rights and
+freedoms of others.
+
+CHAPTER VI
+
+THE RIGHT TO OBJECT AND INDIVIDUAL AUTOMATIC DECISION MAKING
+Not 20
+The right to object
+1. The data subject has the right at any time to object to the processing of personal data in connection
+with it, due to a special personal situation, if based on Article 5 paragraph 1., sub-paragraph 1.6. or
+1.5. of this law including profiling based on these provisions. The controller does not continue to
+process personal data, except when the controller demonstrates legitimate compelling reasons for
+the processing that prevail over the interests, rights and freedoms of the data subject to raise,
+exercise or defend legal claims.
+
+2. If personal data are processed for direct marketing purposes, the data subject, at any time, has
+the right to object to the processing of personal data relating to him for this marketing, which includes
+profiling to the extent that he relates to this marketing.
+
+3. If the data subject objects to the processing for direct marketing purposes, the personal data shall
+not continue to be processed for those purposes.
+4. No later than the moment of the first communication with the data subject, the right referred to in
+paragraphs 1. and 2. of this Article, is explicitly brought to the attention of the data subject and is
+presented clearly and separately from each other information.
+5. If personal data are processed for the purposes of scientific or historical research, or for statistical
+purposes, the data subject, for reasons related to his or her particular situation, has the right to object
+to the processing of personal data in relation to of, except when processing is necessary for the
+performance of a task performed for reasons of public interest.
+
+15
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+No. 21
+Individual automated decision making, including profiling
+1. The data subject has the right not to be subject to a decision based solely on an automatic processing,
+including profiling which produces effects in relation to it or similarly affects it.
+
+2. Paragraph 1. of this article does not apply if the decision:
+2.1. is required to enter into or fulfill a contract between the data subject and a data controller;
+
+2.2. is authorized by a specific law, to which the controller is subject and which also determines
+the appropriate measures to guarantee the rights, freedoms and legitimate interests of the data
+subject, or;
+2.3 is based on the explicit consent of the data subject.
+3. In the cases referred to in paragraphs 2., sub-paragraphs 2.1. and 2.3. of this article, the data controller
+implements appropriate measures to guarantee the rights, freedoms and legitimate interests of the data
+subject, including the right to carry out human intervention by the controller, to express his point of view
+and to challenge the decision.
+4. Decisions referred to in paragraph 2 of this Article shall not be based on the specific categories of
+personal data referred to in Article 8, paragraph 1., of this Law, except when sub-paragraph 2.1. or 2.7. of
+Article 8 of this law applies and appropriate measures to guarantee the rights, freedoms and legitimate
+interests of the data subject are in force.
+No. 22
+RESTRICTIONS
+
+1. The rights of the data subject provided in articles 4, 11 to 21, and article 33 of this law to the extent that
+its provisions comply with the rights and obligations provided in articles 11 to 21 of this law, may restricted
+if such a restriction respects the essence of fundamental rights and freedoms and is a necessary and
+proportionate measure to guarantee:
+
+1.1. state security;
+1.2. protection;
+1.3. public safety;
+1.4. the prevention, investigation, detection or prosecution of criminal offenses or the execution
+of criminal convictions, including safeguards against the prevention of threats to public safety;
+
+1.5. other important objectives of the general public interest of the Republic of Kosovo, in
+particular a significant economic or financial interest of the Republic of Kosovo, including
+monetary, budgetary or tax matters, public health and social security;
+
+1.6. protection of judicial independence and judicial proceedings;
+1.7. preventing, investigating, detecting and prosecuting breaches of ethics for regulated
+professions;
+16
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.8. a monitoring, inspection or regulatory function related, even incidentally, to the
+exercise of official authority, in the cases referred to in sub-paragraphs 1.1. skin 1.5.
+and sub-paragraph 1.7. of this article;
+1.9. the protection of the data subject or the rights and freedoms of others;
+1.10. execution of claims under civil law.
+The measures from paragraph 1. of this article can be taken only to the extent necessary to
+achieve the purpose for which the restriction is given.
+KREU VII
+CONTROLLER AND PROCESSOR GENERAL OBLIGATIONS
+No. 23
+Controller responsibility
+1. Taking into account the nature, object, context and purposes of the processing, as well as the
+risks of change and severity of the rights and freedoms of natural persons, the controller shall
+implement appropriate technical and organizational measures to ensure the willingness to
+demonstrate that processing performed in accordance with this law. These measures are
+reviewed and updated as needed.
+2. If proportionate to the processing activities, the measures referred to in paragraph 1 shall
+include the implementation of appropriate data protection policies by the controller.
+
+No. 24
+Data protection in a concrete and random way
+1. Taking into account the state of the art, the cost of implementation and the nature, object,
+context and purposes of the processing, as well as the risks with variable possibilities and
+severity of the rights and freedoms of natural persons deriving from the processing, the controller,
+at the time of processing tools and at the time of self-processing, implements appropriate
+technical and organizational measures, such as pseudonymization, that are intended to apply
+the principles of data protection, such as data minimization, in an effective manner to integrate
+the necessary guarantees into the processing, in order to meet the requirements of this law and
+to protect the rights of data subjects.
+2. The controller shall take appropriate technical and organizational measures to ensure that,
+on a case-by-case basis, only the personal data necessary for each specific processing purpose
+are processed. This obligation applies to the entirety of personal data that has been collected,
+the extent of their processing, the term of their storage and access to them. In particular, these
+measures ensure that personal data do not become inaccessibly accessible without the
+intervention of the individual for an indefinite number of natural persons.
+3. An approved certification mechanism as referred to in Article 43 may be used as an element
+to demonstrate compliance with the requirements set out in paragraphs 1 and 2 of this Article.
+
+No. 25
+Common controllers
+1. If two (2) or more controllers jointly define the purposes and means of processing, they are
+called joint controllers. They determine, in a transparent manner,
+17
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+their respective responsibilities for compliance with the obligations under the law, in particular with regard
+to the exercise of the rights of data subjects and their respective duties to provide the information referred
+to in Articles 12 and 13 of this Law, through a measure between them. The measure may specify a point
+of contact for data subjects.
+2. The measure referred to in paragraph 1. of this Article reflects the roles and reports of the joint controllers
+vis-.-Vis data subjects. The essence of the measure is made known to the data subject.
+
+3. Notwithstanding the conditions of the measure referred to in paragraph 1. of this Article, the data subject
+may exercise his or her rights under this law in relation to and against any controller.
+
+No. 26
+Representatives of controllers or processors not established in Kosovo
+1. If Article 2, paragraph 3. of this Law applies, the controller or processor shall appoint a representative in
+writing in the Republic of Kosovo.
+2. The obligation provided in paragraph 1. of this article does not apply to:
+2.1. casual processing does not involve, to a large extent, the processing of specific categories
+of data referred to in Article 8, paragraph 1. of this Law or the processing of personal data relating
+to the sentences and criminal offenses referred to in Article 9 of this law and does not appear to
+result in a risk to the rights and freedoms of natural persons, taking into account the nature,
+context, object and purposes of the processing, or;
+
+2.2. a public authority or body.
+3. The representative is authorized by the controller or processor to invest, except or in place of the
+controller or processor, in particular the Agency and the data subjects, for all matters relating to the
+processing, for the purposes of ensuring compliance with this law.
+
+4. The appointment of a representative by the controller or processor shall not preclude legal proceedings
+which may be instituted against the controller or processor himself.
+Not 27
+Processor
+1. If processing is to be performed on behalf of a controller, it shall use only processors that provide
+sufficient guarantees to implement the appropriate technical and organizational measures in such a way
+that the processing meets the requirements of this law and guarantees the protection of data subject rights.
+
+2. The processor does not engage another processor without the specific or general prior written
+authorization of the controller. In the case of general written authorization, the processor shall inform the
+controller of any intended changes in connection with the addition or replacement of other processors,
+giving the controller the opportunity to object to such changes.
+
+3. Processing by a processor is regulated by a contract that is binding on the processor in relation to the
+controller and that defines the object and duration of processing, nature and purpose of processing, type
+of personal data and categories of data subjects and obligations and controller rights. This contract
+provides, in particular, that
+18
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+processor:
+3.1. process personal data only in accordance with instructions documented by the controller,
+including in connection with the transfer of personal data to a foreign country or an
+international organization, unless required to do so by a specific law to which the processor
+is subject; in such a case, the processor shall inform the controller of this legal requirement
+prior to processing, unless the law prohibits this information for important reasons of public
+interest. The processor shall immediately inform the controller if, in his opinion, any instruction
+is contrary to this law;
+
+3.2. ensures that persons authorized to process personal data have been subject to
+confidentiality or are under the appropriate legal obligation of confidentiality;
+
+3.3. takes all measures required under Article 31 of this law;
+3.4. respects the conditions referred to in paragraphs 2 and 4 of this Article for the
+engagement of another processor;
+3.5. taking into account the nature of the processing, assist the controller with appropriate
+technical and organizational measures, to the extent possible, in fulfilling the controller's
+obligation to respond to requests for the exercise of the data subject's rights;
+
+3.6. assists the controller in ensuring compliance with the obligations, in accordance with
+Articles 21 to 36 of this Law, taking into account the nature of the processing and the
+information provided to the processor;
+3.7. at the discretion of the controller, deletes or returns all personal data to the controller
+upon completion of the provision of services related to the processing and deletes existing
+copies, except when the Law on Archives requires the storage of data;
+3.8. provides the auditor with all information necessary to demonstrate compliance with the
+obligations set forth in this Article and allows and contributes to audits, including inspections,
+conducted by the auditor or another auditor authorized by the auditor.
+
+4. If a processor engages another processor to carry out specific processing activities, on behalf of
+the controller, the same data protection obligations, as provided in the contract between the controller
+and the processor, as referred to in paragraph 3. of this Article, assigned to the other processor
+through a contract, in particular providing sufficient guarantees for the implementation of appropriate
+technical and organizational measures in such a way that the processing meets the requirements of
+this law. If the other processor does not fulfill the data protection obligations, the first processor
+remains fully responsible to the controller for fulfilling the obligations of the other processor.
+
+Without prejudice to an individual contract between the controller and the processor, the contract
+referred to in paragraphs 3 and 4 of this Article may be based, in whole or in part, on the standard
+contractual clauses referred to in paragraphs 6 and 7 of this Article. article, including when they are
+part of a certification granted to the controller or processor in accordance with article 43.
+Compliance with the code of conduct adopted by the processor as referred to in Article 41 of this Law
+or the certification mechanism adopted as referred to in Article 43 of this Law may be used as an
+element by which sufficient guarantees are demonstrated as referred to in paragraphs 1. and 4. of
+this Article.
+19
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+7. The Agency may establish standard contractual clauses for matters referred to in paragraphs
+3 and 4 of this Article.
+8. The contract referred to in paragraphs 3 and 4 of this Article, is made in writing, including the
+electronic format.
+9. Without prejudice to Articles 57, 92 of this law, if a processor violates this law, defining the
+purposes and means of processing, the processor is considered to be a controller in relation to
+this processing.
+No. 28
+Processing under the authority of the controller or processor
+The processor and any person acting under the authority of the controller or processor who has
+access to personal data shall not process that data except as directed by the controller, unless
+required to do so by a specific law.
+Not 29
+Logs of processing activities
+1. Each controller, processor and, where applicable, their representatives shall keep a register
+of processing activities under their responsibility. This register contains all of the following
+information:
+1.1. the name and contact information of the controller and, where applicable, of the
+joint controller, the controller's representative and the data protection officer;
+
+1.2. processing purposes;
+1.3. a description of the data subject categories and personal data categories;
+
+1.4. the categories of recipients to whom personal information has been or will be
+disclosed, including recipients in third countries or international organizations;
+1.5. where applicable, the transfer of personal data to a third country or international
+organization, including the identification of that third country or international organization,
+the authorization under Article 49, paragraph 2 of this law and, in the case of transfers
+referred to in Article 49 sub-paragraph 1.9. of this law, documentation of appropriate
+protection measures;
+1.6. where possible, time limits for deleting different categories of data;
+
+1.7. where possible, a general description of the technical and organizational security
+measures referred to in Article 31, paragraph 1. of this Law.
+2. The registers referred to in paragraph 1. of this Article must be in writing, including in electronic
+form.
+3. The controller or processor and, where applicable, the representative of the controller or
+processor shall make the register available to the supervisory authority upon request.
+4. The obligations referred to in paragraph 1. of this Article shall not apply to an enterprise or
+organization employing less than two hundred and fifty (250) persons, unless the processing
+20
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+that they perform is likely to result in a risk to the rights and freedoms of data subjects, the processing
+is not random, or the processing involves specific categories of data referred to in Article 8 paragraph
+1. of this law or the data persons dealing with criminal convictions and criminal offenses referred to in
+Article 9 of this law.
+Not 30
+Cooperation with the agency
+The controller and the processor and, where appropriate, their representatives shall cooperate, upon
+request, with the Agency in the performance of their duties.
+
+CREW VIII
+PERSONAL DATA SECURITY
+No. 31
+Processing security
+1. Taking into account the state of the art, implementation costs and the nature, object, context and
+purposes of processing as well as the risk of the possibility of change, as well as the severity of the
+rights and freedoms of natural persons, the controller and processor implements appropriate technical
+measures and organizational to ensure an appropriate level of security for the risk, including, inter
+alia, as appropriate:
+1.1. pseudonymization and encryption of personal data;
+1.2. the ability to ensure the ongoing confidentiality, integrity, availability and consistency of
+processing systems and services;
+1.3. the ability to restore the availability and access to personal data in a timely manner, in
+the event of a physical or technical incident;
+1.4. A process of testing, regular evaluation of the effectiveness of technical and
+organizational measures to ensure the safety of processing.
+2. In assessing the appropriate level of security, special consideration shall be given to the risks
+arising from processing, in particular from destruction, loss, accidental or unlawful alteration,
+unauthorized declaration or access to personal data transmitted, stored or otherwise processed.
+
+3. The observance of an approved code of conduct, according to the reference in article 41 of this
+law or the certification approved according to the reference in article 43 of this law, can be used as
+an element through which to demonstrate the compliance with the requirements provided in paragraph
+1. of this article.
+4. The controller and the processor shall take steps to ensure that any natural person acting under
+the authority of the controller or processor, who has access to personal data, does not process them,
+except as instructed by the controller, unless required to do so. do this by any specific law.
+
+No. 32
+Contracted processing
+1. The data processor may be entrusted with the processing of personal data under a written contract,
+to carry out such activities in accordance with the procedures and security measures.
+
+21
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+2. The data processor may operate only within the limits of the powers of the data controller and
+may not process personal data for other purposes. Mutual rights and obligations must be determined
+by a written contract, which must also contain a detailed description of the procedures and measures
+in accordance with Article 32 of this law.
+
+3. The data controller must supervise the implementation of procedures and measures in accordance
+with Article 32 of this law. It should also include temporary visits to premises where personal data
+processing takes place.
+4. In the event of a dispute between the data controller and the data processor, the data processor
+shall immediately, at the request of the data controller, return all data which he or she possesses.
+The data processor is not allowed to keep copies and process them further.
+
+5. In case of interruption of data processor activities, personal data must be returned immediately
+to the data controller.
+No. 33
+Notification of the Agency for a violation of personal data
+1. In the event of a breach of personal data, the controller shall, without delay and as the case may
+be, no later than seventy-two (72) hours after being informed of it, notify the Agency of the breach
+of personal data, unless the breach of personal data may not result in a risk to the rights and
+freedoms of natural persons. If the notification of the Agency is not made within seventy two (72)
+hours, it shall be accompanied by the reasons for the delay.
+2. Processors shall notify the controller, without undue delay, upon becoming aware of a breach of
+personal data.
+3. The notice referred to in paragraph 1. of this Article, at least:
+3.1. describes the nature of the personal data breach, including, as appropriate, the
+categories and approximate number of data subjects and the categories with the
+approximate number of relevant personal data registers;
+3.2. communicates the name and contact details of the data protection officer and any
+other contact points if more information can be obtained;
+3.3. describes the possible consequences of violating personal data;
+3.4. describes the measures taken or proposed to be taken by the controller to address the
+breach of personal data, including, where appropriate, measures to mitigate potential
+adverse effects.
+4. If and to the extent that it is not possible for the information to be provided at the same time, the
+information may be provided in stages without further unnecessary delay.
+5. The controller documents any violation of personal data that consists of facts related to the
+violation of personal data, its effects and the corrective action taken. This documentation enables
+the Agency to verify compliance with this Article.
+No. 34
+Communication of personal data breach to the data subject
+1. Whether the violation of personal data may result in a high risk to the rights and
+22
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+freedoms of natural persons, the controller communicates the violation of personal data to the
+data subject without undue delay.
+2. The communication addressed to the subject of personal data, according to the reference in
+paragraph 1. of this article, describes in a clear and clear language the nature of the violation of
+personal data and contains at least the information and measures mentioned in paragraph 3.,
+sub-paragraphs 3.2., 3.3. and 3.4. of article 33 of this law.
+3. Communication addressed to the data subject, referred to in paragraph 1. of this Article, is
+not required if one of the following conditions is met:
+3.1. the controller has implemented appropriate technical and organizational safeguards
+and these measures have been applied to personal data affected by the breach of
+personal data, in particular those which make personal data incomprehensible to any
+person who is not authorized to access to them, such as encryption;
+3.2. the controller has taken continuous measures to ensure that the high risk to the
+rights and freedoms of data subjects, referred to in paragraph 1. of this Article, is no
+longer possible to be realized;
+3.3. would have to do with a disproportionate effort. In such a case, instead, there will
+be a public communication or a similar measure, through which, the data subjects are
+informed in an equally effective way.
+4. If the controller has not communicated the breach of personal data to the data subject, the
+Agency, taking into account the possibility that the breach of personal data will result in a high
+risk, may request to do so or decide to comply. one of the conditions referred to in paragraph 3.
+of this Article.
+
+KREU IX
+IMPACT ASSESSMENT ON DATA PROTECTION AND CONSULTATIONS
+PREVIEW
+No. 35
+Impact assessment on data protection
+1. If a type of processing, in particular the use of new technology and taking into account the
+nature, object, context and purposes of processing, may result in a high risk to the rights and
+freedoms of natural persons, the controller, before processing, an assessment of the impact of
+the envisaged processing operations on the processing of personal data is carried out.
+A single assessment can address a range of similar processing operations that pose similarly
+high risks.
+2. The controller seeks the advice of the data protection officer, if appointed, in conducting the
+impact assessment on data protection.
+3. An impact assessment on data protection, referred to in paragraph 1 of this Article, is
+particularly required in the case of:
+3.1. a systematic and extended assessment of personal aspects, in relation to natural
+persons, which is based on automatic processing, including profiling, and on which are
+based decisions that produce legal effects in relation to natural persons or similarly
+affect the natural person;
+3.2. large-scale processing of the specific categories of data mentioned
+23
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+in article 8, paragraph 1. of this law, or of personal data related to the punishments and criminal
+offenses mentioned in article 9 of this law, or;
+3.3. a systematic monitoring of an area with public access on a large scale.
+4. The Agency shall compile and make public a list of the type of processing operations subject to the
+requirement of a data protection impact assessment in accordance with paragraph 1 of this Article.
+
+5. The Agency may compile and make public a list of the type of processing operations for which a data
+protection impact assessment is not required.
+6. The evaluation, at least, contains:
+6.1. a systematic description of the processing operations envisaged and the purposes of the
+processing, including, where appropriate, the legitimate interest pursued by the controller;
+6.2. an assessment of the necessity and proportionality of the processing operations in relation
+to the purposes;
+6.3. an assessment of the risks to the rights and freedoms of data subjects, referred to in
+paragraph 1. of this Article, and;
+6.4. the measures envisaged to address the risks, including safeguards, security measures
+and mechanisms to ensure the protection of personal data and to demonstrate compliance
+with this law, taking into account the legitimate rights and interests of data subjects and persons
+other interested.
+7. The observance of the approved codes of conduct, referred to in Article 41 of this Law by the
+controllers or processors, shall be taken into account in the assessment of the impact of the processing
+operations performed by these controllers or processors, especially for the purposes of assessing the
+impact of data protection.
+8. As the case may be, the controller shall seek the views of the data subjects or their representatives
+on the intended processing, without prejudice to the protection of commercial or public interests or the
+security of the processing operations.
+9. If processing, in accordance with Article 5, paragraph 1., sub-paragraph 1.3. or 1.5. of this law has a
+legal basis in any specific law to which the controller is subject, this right regulates the specific
+processing operations or the set of operations in question and an assessment of the impact on data
+protection is carried out as part of an assessment of general impact in the context of the adoption of
+that legal basis, paragraphs 1. to 6. of this Article shall not apply, except in cases where the Agency
+deems it necessary to carry out such an assessment prior to processing activities.
+
+10. Where appropriate, the controller shall conduct a review to assess whether the processing is
+performed in accordance with the data protection impact assessment, at least when there is a change
+in the risk represented by the processing operations.
+No. 36
+Preliminary consultation
+1. The controller shall consult the Agency prior to processing if the assessment of the impact on data
+protection, in accordance with Article 35 of this Law, indicates that the processing would result in a high
+risk in the absence of measures taken by the controller to mitigate the risk.
+
+24
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+2. If the Agency is of the opinion that the intended processing, referred to in paragraph 1 of this
+Article, would violate this law, in particular if the controller has insufficiently identified or mitigated
+the risk, the Agency shall, within a period of up to eight ( 8) weeks after receiving the request for
+consultation, submits written advice to the controller and if applicable to the processor may use one
+of the powers mentioned in Article 64 of this law. This deadline can be extended to six (6) weeks,
+taking into account the complexity of the intended processing. The Agency shall inform the controller
+and, as the case may be, the processor, of any such extension within one (1) month of receiving
+the request for consultation together with the reasons for the delay. These deadlines may be
+suspended until the Agency has obtained the information it has requested for the purposes of the
+consultation.
+3. During the consultation with the Agency, in accordance with paragraph 1. of this Article, the controller shall submit
+to the Agency:
+
+3.1. where appropriate, the respective responsibilities of the controller, joint controller and
+processors involved in the processing, in particular for processing within a group of
+undertakings;
+3.2. purposes and means of intended processing;
+3.3. measures and guarantees provided to protect the rights and freedoms of data subjects
+in accordance with this law;
+3.4. where appropriate, contact details for the data protection officer;
+3.5. assessment of the impact of data protection, provided in Article 35 of this law, and;
+
+3.6. any other information required by the Agency.
+4. Notwithstanding paragraph 1 of this Article, the Agency may require controllers to consult and
+obtain prior authorization regarding processing by a controller to perform a task performed by the
+controller in the public interest, including processing related to protection. social and public health.
+
+CHAPTER X
+
+PERSONAL DATA PROTECTION OFFICER
+No. 37
+Appointment of a data protection officer
+1. The controller and the processor shall appoint a data protection officer in each case, if:
+1.1. processing is carried out by a public body, except for courts acting in their judicial
+capacity;
+1.2. The main activities of the controller or processor consist of processing operations that,
+due to their nature, object and / or purpose, require regular and systematic monitoring of
+the data subject on a large scale, or;
+1.3. The main activities of the controller or processor consist of the processing on a large
+scale of specific categories, in accordance with Article 8 of this law and personal data
+related to the sentences and criminal offenses referred to in Article 9 of this law.
+
+2. A group of undertakings may appoint a single data protection officer, with
+25
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+provided that a data protection officer is easily accessible from any facility.
+3. If the controller or processor is a public body, a single data protection officer may be appointed
+for several such bodies, taking into account their organizational structure and size.
+
+4. In cases other than those referred to in paragraph 1 of this Article, the controller or processor,
+or associations, or other bodies representing categories of controllers or processors, may
+designate a data protection officer. The Data Protection Officer may act for these associations
+or other bodies representing the controllers or processors.
+
+5. The data protection officer is appointed on the basis of professional qualities and in particular,
+expertise on the right to data protection, practice and ability to fulfill the tasks mentioned in Article
+39 of this law.
+6. The data protection officer may be a staff member of the controller or processor, or perform
+duties on the basis of a service contract.
+7. The controller or processor shall publish the contact details of the data protection officer and
+communicate them to the Agency.
+Not 38
+Position of data protection officer
+1. The controller and the processor shall ensure that the data protection officer is involved in a
+timely manner and in all matters relating to the protection of personal data.
+
+2. The controller and the processor shall support the data protection officer in fulfilling the tasks
+referred to in Article 39 of this Law by providing the necessary measures to perform those tasks
+and to access the personal data processing operations and for retain its expertise.
+
+3. The controller and the processor shall ensure that the data protection officer does not receive
+instructions regarding the performance of these tasks. He or she is not fired or penalized by the
+controller or processor for performing his or her duties. The data protection officer reports directly
+to the highest management level of the controller or processor.
+4. Data subjects may contact the data protection officer in relation to matters pertaining to the
+processing of their personal data and to the exercise of their rights under this law.
+
+5. The data protection officer shall be subject to confidentiality or confidentiality in connection
+with the performance of his or her duties.
+6. The data protection officer may perform other duties. The controller or processor ensures that
+any other such task does not result in a conflict of interest.
+No. 39
+Duties of the data protection officer
+1. The data protection officer has at least the following duties:
+1.1. informs and advises the controller or processor and the employees, who perform
+the processing on their obligations in accordance with this law and bylaws for data
+protection;
+26
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.2. provides advice, as appropriate, regarding the impact on data protection and monitors
+performance in accordance with Article 35 of this law;
+1.3. cooperates with the Agency;
+1.4. acts as a contact point for the Agency on matters relating to processing, including prior
+consultation, referred to in Article 36 of this Law and shall be consulted, as appropriate, on any
+other matter.
+2. The data protection officer, in the performance of his or her duties, shall take due account of the risks
+associated with the processing operations, taking into account the nature, object, context and purposes
+of the processing.
+Not 40
+Obligation to issue internal acts
+1. Controllers and data processors must take care, at all times, that data is protected and processed in
+the manner prescribed by this law.
+2. Data controllers and data processors must describe, in their internal acts, the procedures and
+measures established for the security of personal data and must appoint, in writing, the competent
+persons who are responsible for it. apply the rules under this law.
+
+No. 41
+Codes of conduct
+1. The Agency encourages the drafting of codes of conduct aimed at contributing to the proper
+implementation of this law, taking into account the specific characteristics of the various processing
+sectors.
+2. Associations and other bodies representing the categories of controllers or processors may prepare
+codes of conduct, or amend or extend such codes, in relation to:
+2.1. fair and transparent processing;
+2.2. legitimate interests pursued by controllers in specific contexts;
+2.3. personal data collection;
+2.4. pseudonymization of personal data;
+2.5. information provided to the public and data subjects;
+2.6. exercising the rights of data subjects;
+2.7. information provided to children and child protection, as well as the manner in which the
+consent of the holders of parental responsibility over the children must be obtained;
+2.8. the measures and procedures referred to in Articles 23 and 24 of this Law, and the
+measures to ensure the security of the processing referred to in Article 31 of this Law;
+2.9. notification of personal data violations to the Agency and communication of personal data
+violations to data subjects;
+2.10. transfer of personal data to third countries or international organizations, or;
+27
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+2.11. out-of-court procedures and other procedures for resolving disputes between controllers and
+data subjects related to processing, without prejudice to the rights of data subjects in accordance
+with Articles 52 to 54 of this law.
+
+3. In addition to compliance by controllers or processors subject to this law, codes of conduct adopted in
+accordance with paragraph 5 of this Article and having general validity under paragraph 6 of this Article may
+also be complied with by controllers or processors not subject to this law, in accordance with Article 2, in
+order to ensure appropriate safeguards in the framework of the transfer of personal data to third countries or
+international organizations.
+
+4. The Code of Conduct referred to in paragraph 2 of this Article shall contain mechanisms that enable the
+competent authority to carry out the mandatory monitoring of the compliance of controllers or processors
+who undertake its implementation with its provisions.
+5. Associations and other bodies referred to in paragraph 2 of this Article, which aim to prepare a code of
+conduct, or to amend or supplement any existing code, must submit to the Agency the draft code, amendment
+or supplement. The Agency will give an opinion if the draft code, amendment or supplement is in accordance
+with this law and approves that draft code, amendment or supplement if it finds that it provides sufficient
+safeguards.
+
+6. When the draft code, amendment or supplement, is approved in accordance with paragraph 5 of this
+Article, the Agency shall register and publish that code.
+No. 42
+Monitoring of approved codes of conduct
+1. Without prejudice to the tasks and competencies of the Agency under Articles 57, 64 and 65 of this Law,
+monitoring of compliance with the Code of Conduct may be performed by a body that has the appropriate
+level of expertise in relation to the thematic issue of the Code and which is accredited for that purpose by
+the Agency.
+2. The body, as referred to in paragraph 1. of this Article may be accredited to monitor compliance with the
+code of conduct when that body has:
+2.1. demonstrated its independence and expertise in relation to the thematic issue of code
+acceptable to the Agency;
+2.2. establish procedures that allow it to assess the suitability of the relevant controllers and
+processors for the implementation of the code, to monitor their compliance with its provisions and
+to periodically review its operation;
+2.3. establish procedures and structures to deal with complaints about code violations or the
+manner in which the code has been or is being enforced by the controller or processor, and to
+make those procedures and structures transparent to data subjects and the public, and;
+
+2.4. demonstrated to the Agency that its duties do not result in a conflict of interest.
+3. The Agency determines the criteria for accreditation of a body from paragraph 1. of this article.
+4. Without prejudice to the duties and competencies of the Agency, the body referred to in paragraph 1 of
+this Article, subject to appropriate protective measures, shall take appropriate measures in cases of violation
+of the code by the controller or processor, including suspension or exclusion.
+28
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+of the controller or processor in question from the code. He must inform the Agency of such actions and
+the reasons for taking them.
+5. The Agency revokes the accreditation of any body according to paragraph 1. of this Article if the
+conditions for accreditation are not met or cease to be met, or when the actions taken by the body violate
+this law.
+6. This article does not apply to processing carried out by public authorities and bodies.
+No. 43
+certification
+1. Controllers, processors and legal entities / enterprises, which process data according to the field of
+activity of this law, are given a certificate to perform the work related to personal data.
+
+2. The certificate is issued by the Agency based on the criteria and procedures provided by sub-legal act.
+
+3. To obtain the certificate, controllers, processors and legal entities / enterprises meet at least the
+following minimum requirements:
+3.1. prove that they possess adequate knowledge in the field of personal data protection;
+
+3.2. meet the required international safety standards where required;
+3.3. in cases where legal entities / enterprises engage controllers, processors and other personnel
+who have received certification;
+3.4. prove that the exercise of their functions in terms of data protection does not result in a
+conflict of interest.
+4. If the legal entity / enterprise possesses a certificate issued by a competent European institution or
+body, that certificate is also valid in the Republic of Kosovo.
+5. The controller, processor or legal person / enterprise that submits a request for certification, submits to
+the Agency all the information and gives it access to the processing activity, which are necessary to
+develop the certification procedure.
+6. The certificate is issued for a period of maximum three (3) years and can be renewed, under the same
+conditions, provided that the relevant requirements continue to be met. The certification is withdrawn, as
+applied, by the Agency, when the certification requirements are not met or do not continue to be met.
+
+7. In addition to compliance with this law by controllers or processors, the Agency may establish data
+protection certification mechanisms in order to demonstrate the existence of appropriate security measures
+provided by controllers or processors that are not subject to this law under Article 2 of this law within the
+framework of the transfer of personal data to third countries or to international organizations. Such
+controllers or processors, through contractual instruments, make binding and enforceable efforts to enforce
+those appropriate security measures, including the rights of data subjects.
+
+8. A certification, according to this article, does not reduce the responsibility of the controller or processor
+to implement this law and as such does not prejudice the duties and authorizations of the Agency.
+29
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+KREU XI
+TRANSFER OF PERSONAL DATA TO OTHER STATES AND ORGANIZATIONS
+THE INTERNATIONAL
+Not 44
+General provisions
+The transfer of personal data, which have been processed or will be processed in other countries and to
+international organizations, can be done only in accordance with the provisions of this law and if the
+country or international organization in question provides the appropriate level of data protection.
+
+No. 45
+Procedure for determining the appropriate level of personal data protection
+Countries and international organizations are considered to ensure an adequate level of data protection if
+the Agency has taken a formal decision and those countries or organizations are included in the relevant
+list issued by the Agency in accordance with this law.
+No. 46
+List of countries and international organizations with appropriate level of data protection
+
+1. The Agency maintains a list of countries and international organizations or one or more sectors specified
+within them, for which it finds that they ensure the appropriate level of data protection, in accordance with
+this law.
+2. In compiling the list provided for in paragraph 1 of this Article, the Agency may implement the decisions
+taken by the competent body of the European Union, if such countries and international organizations
+ensure an adequate level of data protection.
+3. The Agency publishes the list from paragraph 1. of this Article in the Official Gazette of the Republic of
+Kosovo and on its public website.
+No. 47
+Decisions on the appropriate level of data protection by other countries and international
+organizations
+1. The Agency, in its decision-making on the adequate level of personal data protection of another state
+or of an international organization, determines all the circumstances related to the transfer of personal
+data. In particular, taking into account the following elements:
+1.1. rule of law, respect for human rights and fundamental freedoms, relevant legislation, general
+and sectoral, including those relating to public safety, defense, state security and criminal law, as
+well as the access of public authorities to it personal data, as well as the implementation of such
+legislation, data protection rules, professional rules and security measures, including rules for the
+further transfer of personal data to another third country or international organization which apply
+in that country or international organization, precedents, as well as the effective and enforceable
+rights of data subjects and the effective administrative and judicial restoration of data subjects to
+whose personal data are transferred;
+
+1.2. the existence of the effective functioning of one or more independent supervisory authorities
+in a third country or to which an international organization is subject, with the responsibility to
+ensure and enforce compliance with the rules on protection
+30
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+data, including adequate enforcement powers, to assist and advise data subjects in exercising
+their rights and to cooperate with supervisory authorities;
+
+1.3. international commitments undertaken by a third country or international organization, or
+other obligations arising from legally binding conventions or instruments, as well as their
+participation in multilateral or regional systems, in particular with regard to the protection of
+personal data;
+1.4. the type of personal data to be processed;
+1.5. the purpose and duration of the proposed processing;
+1.6. legal regulation in the country of origin and the receiving state, including legal regulations
+for the protection of personal data of foreign citizens;
+1.7. measures to secure personal data used in such countries and international organizations.
+
+2. The Agency, in its decision-making from paragraph 1. of this Article, especially takes into account:
+2.1. whether the transferred personal data to be transferred will be or have been used only for
+the purpose for which they were transferred or if the purpose may change only on the basis of
+the permission of the data controller providing the data, or on the basis of consent personal
+data subject;
+2.2. whether the data subject has the ability to determine the purpose for which his / her data
+will be used, to whom it is being given and the possibility of correcting or deleting inadequate
+or outdated personal data, unless this is prevented due to secrecy of the procedure from
+binding international treaties;
+2.3. if the foreign data controller or processor performs adequate organizational and technical
+procedures and measures to protect the data;
+2.4. if a contact person has been appointed authorized to provide information to the data
+subject or to the Agency for the processing of transferred personal data;
+
+2.5. if the external (foreign) recipient of the data may further transfer personal data only on
+condition that another external recipient of the data, to whom
+personal data are disclosed, provides adequate protection of personal data for foreign citizens;
+
+2.6. whether effective legal protection has been provided to data subjects whose personal data
+were or are being transferred.
+3. The Agency shall periodically review this list, at least every four (4) years, which shall take into
+account any relevant developments in the third country or international organization that would affect
+the permanence of the list.
+4. In cases where there is information revealing that the third country, one or more sectors specified
+within the third country or an international organization, no longer offers an adequate level of protection
+within the meaning of paragraphs 1 and 2 of this Article, The Agency, to the extent necessary, improves
+or suspends the decision to include in the list through the implementation of acts without retroactive
+effect.
+
+31
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+Not 48
+Criteria for decision making
+The Agency, by sub-legal act, determines in detail what information is necessary to decide
+whether the other state or international organization provides the appropriate level of personal
+data protection, as provided by this law.
+No. 49
+Authorization for data transfer to the state or international organization that does not
+provide the appropriate level of data protection
+1. Notwithstanding Article 45 of this law, the Agency may authorize the transfer or publication of
+personal data to a State or international organization that does not provide an adequate level of
+data protection if one or more of the following conditions are met:
+1.1. thus provided by another law or by a binding international treaty;
+1.2. the data subject has given consent and is aware of the consequences of the transfer;
+
+1.3. the transfer is necessary for the implementation of a contract between the data
+subject and the data controller, or for the implementation of pre-contractual measures
+taken in response to the data subject's requests;
+1.4. the transfer is necessary for the conclusion or implementation of a contract entered
+into in the interest of the data subject between the data controller and the third party;
+
+1.5. the transfer is necessary and legally required on the basis of significant public interest;
+
+1.6. the transfer is necessary to protect the life and body of the data subject;
+
+1.7. the transfer is necessary for the establishment, exercise or protection of legal
+requirements;
+1.8. the transfer is made from a register which according to laws or regulations is intended
+to provide information to the public and which is open for consultation by the general
+public or by any person who may demonstrate legitimate interests, to the extent that the
+conditions are met submitted for consultation in this particular case. In this case, the
+transfer does not include the entirety of the personal data or all categories of personal
+data contained in the register. When the register is intended for consultation by persons
+of legitimate interest, the transfer is made only at the request of those persons or if they
+are expected to be recipients;
+1.9. the data controller applies adequate security measures for the protection of personal
+data and the fundamental rights and freedoms of individuals with regard to the exercise
+of the rights set forth. Such security measures may result from the provisions of the
+contract or the general terms of business activities governing the transfer of personal data.
+
+2. The data controller may transfer personal data only upon receipt of the authorization according
+to paragraph 1. of this Article. In his / her request for authorization, the data controller shall provide
+the Agency with all necessary information regarding the requested transfer of personal data. This
+includes, in particular, the categories of data, the purpose of
+32
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+transfer and applied security measures for the protection of personal data in another state or international
+organization.
+3. The Agency decides on the application from paragraph 2. of this Article without delay and determines
+by sub-legal act the details and internal procedures for fulfilling such requests. The above decision is
+final in the administrative procedure, but the administrative contest is accepted by the competent court.
+
+Not 50
+Registration of authorizations
+Authorizations regarding the transfer of personal data to another country or international organization,
+issued by the Agency, must be registered in accordance with sub-paragraph 1.5. of paragraph 1., of
+article 29 of this law.
+Not 51
+Recognition and enforcement of third country transfer requests
+Judgments and any decision of the administrative authorities of third countries requiring controllers or
+processors to transfer or disclose personal data may be recognized or enforced only on the basis of an
+international agreement between the requesting third country and the Republic of Kosovo, without
+prejudice against the reasons for transfer under this law.
+
+KREU XII
+MEANS OF APPEAL, RESPONSIBILITY AND PENALTIES
+No. 52
+The right to file a complaint to the agency
+1. Without prejudice to other administrative or judicial remedies, any data subject has the right to file a
+complaint with the Agency, if the data subject claims that the processing of personal data in connection
+with it violates this law.
+2. The Agency shall notify the complainant of the progress and outcome of the appeal, including the
+possibility of a judicial remedy, in accordance with Article 54 of this Law.
+No. 53
+The right to an effective remedy against the Agency
+1. Without prejudice to other administrative or non-judicial remedies, every natural or legal person has
+the right to an effective remedy against a legally binding decision of the Agency in relation to it.
+
+2. Without prejudice to other administrative or non-judicial remedies, any data subject shall have the
+right to an effective remedy if the Agency, within its competence, does not deal with a complaint or notify
+the subject matter. data within three (3) months on the progress or outcome of the complaint filed in
+accordance with Article 52 of this law.
+3. Against the final decision of the Commissioner, the dissatisfied party has the right to open an
+administrative dispute before the competent court.
+
+33
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+No. 54
+The right to an effective remedy against a controller or processor
+Without prejudice to any available administrative or non-judicial means of protection, including the right
+to lodge a complaint with the Agency, in accordance with Article 53 of this Law, any data subject shall
+be entitled to an effective remedy if he or she or she is of the opinion that his or her rights under this
+law have been violated as a result of the processing of his or her personal data in accordance with this
+law.
+Neni 55
+Representation of the data subject
+1. The data subject has the right to authorize a representative, a body, organization or non-profit
+association that has been established in a regular manner, in accordance with the legislation in force,
+that has legal objectives that are in the public interest and is active in the field. of the protection of the
+rights of data subjects, in relation to the protection of their personal data, to file a complaint on his / her
+behalf, to exercise the rights referred to in Articles 53, 54 and 55 of this Law in on his or her behalf and
+to exercise the right to receive the compensation referred to in Article 56 of this Law on his or her behalf.
+
+2. The authorization for the representative must be given in writing and certified by the competent body.
+No. 56
+The right to compensation and liability
+1. Any person who has suffered material or immaterial damage, as a result of a violation of this law,
+has the right to receive compensation from the controller or processor for the damage suffered.
+2. Each controller involved in the processing is responsible for the damage caused by the processing
+that violates this law. A processor is liable for the damage caused by the processing only if he has not
+fulfilled the obligations of this law, especially to the processors or if he has acted further or contrary to
+the lawful instructions of the controller.
+3. A controller or processor is exempt from liability, according to paragraph 2. of this article, if he proves
+that he is in no way responsible for the damage.
+4. If more than one controller or processor is involved, or a controller and a processor in the same
+processing and if they, according to paragraphs 2 and 3 of this Article, are responsible for any damage
+caused by the processing, each controller or the processor is held liable for all damages in order to
+guarantee effective compensation of the data subject.
+
+5. If a controller or processor, in accordance with paragraph 4 of this Article, has paid full compensation
+for the damage suffered, this controller or processor has the right to claim from the controllers or other
+processors involved in the same processing, that part of the compensation which corresponds to their
+part of the liability for the damage, in accordance with the conditions provided in paragraph 2. of this
+article.
+6. The party, for compensation of damage, has the right to file a lawsuit before the competent court.
+
+34
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+KREU XIII
+INSTITUTIONAL PERSONAL DATA PROTECTION INFORMATION AGENCY
+AND PRIVACY
+No. 57
+Agency Status
+1. The Agency is an independent authority, responsible for overseeing the implementation of this law and
+other regulations for the protection of personal data and access to public documents and information.
+
+2. The Agency acts with full independence in fulfilling its duties and exercising its competencies, in
+accordance with this law. It is accountable to the Assembly of Kosovo.
+3. The Agency, in fulfilling its duties and exercising its competencies, acts free from external influence,
+direct or indirect, and does not seek or receive instructions from anyone.
+
+4. The Agency shall be provided with the human, financial, technical, environmental and infrastructural
+resources necessary for the effective fulfillment of its tasks and the exercise of its powers.
+
+No. 58
+Organization of the Agency
+1. The Agency is headed by the Commissioner.
+
+2. The Commissioner represents the Agency, organizes and coordinates its work.
+3. The Agency has a General Director, who performs all duties of the Chief Administrative Officer, in
+accordance with the relevant legislation.
+4. The organizational structure of the Agency consists of two (2) special professional areas for access to
+public documents and protection of personal data.
+5. Special professional fields, defined in paragraph 4. of this article, are led and consist of civil servants,
+according to this law and relevant legislation.
+6. The officials of the Agency refrain from any action that conflicts with their duties and, during their
+mandate, do not engage in professions that conflict with their duties, whether with or without pay.
+
+7. In accordance with the relevant law in force, the Commissioner issues a sub-legal act for the organization
+and internal functioning of the Agency.
+8. The officials of the Agency, in accordance with this law, are subject to the duty of professional secrecy
+both during the mandate and after the end of the mandate, in relation to any confidential information they
+encounter while performing their duties or exercising their competencies.
+Not 59
+Criteria for the selection of the Commissioner
+1. Candidates for commissioner must meet the following criteria:
+1.1. To be citizens of the Republic of Kosovo;
+
+35
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.2. Have a university degree in one of the following fields: law, public administration or international
+relations;
+1.3. Have at least eight (8) years of professional work experience, of which, at least, five (5) years of
+experience in leadership positions;
+1.4. Have not been convicted by a final decision for a criminal offense or have not had an indictment
+during the last five (5) years.
+1.5. Have high moral and professional integrity;
+1.6. Have distinguished experience and knowledge in the field of human rights protection.
+
+1.7. Not to have been fired from work or civil service by disciplinary measure;
+1.8. Have not exercised any function in political parties during the last five (5) years.
+They must not be members of the Assembly in the Legislature of the Assembly of the Republic of Kosovo
+elected by them, or have been members of the Government Cabinet in the last term.
+
+Not 60
+Commissioner selection procedure
+1. The Commissioner is elected by the Assembly of Kosovo by a majority vote of all its deputies, for a term of five
+(5) years, with the possibility of re-election for an additional term.
+2. The election procedure begins with the announcement of the public competition for the election of the
+Commissioner, which is published in print and electronic media.
+3. The competition determines the criteria for the selection of the commissioner, provided by this law. The duration
+of the competition can not be shorter than fifteen (15) nor longer than twenty (20) days.
+
+4. After the expiration of the deadline provided in paragraph 3. of this Article, the selection panel, appointed by the
+Parliamentary Committee on Security of the Assembly of the Republic of Kosovo, within a period of fifteen (15)
+days, evaluates whether the candidates meet the conditions to 'was elected commissioner.
+
+5. The selection panel conducts an interview with each candidate, who meets the conditions to be elected
+commissioner and based on the data submitted and the results of the interview, prepares a short list of qualified
+candidates for voting by the Assembly of Kosovo.
+6. The shortlist contains three (3) candidates, except when within the number three (3), there are more candidates
+with equal evaluation points. The selection panel submits the list of candidates to the commission, which proposes
+the shortlist to the Assembly of Kosovo. The committee proposal proposes the reason why the panel has given
+priority to some candidates, compared to other candidates.
+
+7. In case of termination of the mandate, the Commissioner exercises his function until the election of the new
+commissioner.
+No. 61
+Termination of the mandate of the Commissioner
+1. The mandate of the Commissioner ends in cases when:
+36
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.1. completes the regular term;
+1.2. resignation;
+1.3. his / her death;
+1.4. reaches retirement age;
+1.5. permanent loss of capacity to act, ascertained by the competent court;
+
+1.6. becomes incapacitated for health reasons which make it impossible to exercise the function for
+more than three (3) months;
+1.7. is punished by a court decision of the criminal offense form which is punishable by more than six
+(6) months of imprisonment;
+1.8. discharged.
+
+2. The Assembly of Kosovo, upon the proposal of the functional committee for security issues, by a majority vote
+of all deputies may dismiss the Commissioner for the following reasons:
+
+2.1. for violation of the provisions of this law;
+2.2. in cases of performance of duties in incompatibility with his / her function.
+No. 62
+Agency Financing
+1. The Agency is financed from the Budget of the Republic of Kosovo, and has its own budget line which
+guarantees its independence.
+2. The Agency prepares the annual draft-budget in accordance with the Law on Public Financial Management and
+Accountability.
+3. The budget of the Agency is subject to audit in accordance with applicable law.
+No. 63
+Commissioner's salary
+1. The salary level of the Commissioner is determined in accordance with the relevant law on salaries in the public
+sector.
+2. Until the entry into force of the relevant law on salaries in the public sector, the salary of the Commissioner is
+equivalent to the salary of a member of the Assembly of Kosovo.
+No. 64
+Duties and competencies of the Agency
+1. Without prejudice to other duties defined by this law, the Agency performs the following duties:
+1.1. Oversees the implementation of this law;
+
+1.2. Provides advice to public and private bodies on data protection issues;
+
+37
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.3. Informs the public about issues and developments in the field of data protection;
+1.4. Promotes and upholds fundamental rights to the protection of personal data;
+1.5. Decide on the complaints of the data subject;
+1.6. Advises Parliament, Government, institutions and other internal bodies on legislative and
+administrative measures regarding the protection of the rights and freedoms of natural persons
+with regard to data processing;
+1.7. Conducts inspections related to the implementation of this law;
+
+1.8. As the case may be, conducts a periodic review of the certifications issued in accordance
+with Article 43 of this Law and may withdraw the certification, in case the certification criteria
+are not met;
+1.9. On its own initiative or upon request, gives opinions to public institutions and other bodies,
+as well as publishes on any issue related to the protection of personal data.
+No. 65
+Cooperation with other bodies
+1. The Agency cooperates with state, international and European Union bodies, on issues that are
+considered important for access to public documents and protection of personal data.
+
+2. In particular, the Agency shall establish measures for effective cooperation with the supervisory
+authorities of other States and international organizations, and shall provide relevant information and
+mutual assistance, in accordance with applicable law. Mutual assistance covers, in particular, requests
+for information and oversight measures, such as requests for authorizations and consultations,
+inspections and preliminary investigations.
+3. The Agency shall take all appropriate measures required to respond to the request of another
+supervisory authority without undue delay and no later than one month after receipt of the request.
+Such measures may include, in particular, the transmission of relevant information for the conduct of
+investigations.
+4. Requests for assistance shall contain all necessary information, including the purpose and reasons
+for the request. The information exchanged will be used only for the purpose for which it was requested.
+
+5. The Agency does not refuse the fulfillment of the request, unless:
+5.1. is not competent for the object of the request or for the measures required to execute, or;
+
+5.2. acting upon request would violate this law or other applicable laws.
+6. The Agency shall inform the requesting supervisory authority of the results or, where appropriate, of the progress of
+the measures taken to respond to the request. The Agency shall provide the reasons for the rejection of the request in
+accordance with paragraph 4. of this Article.
+
+7. The Agency, as a rule, provides the information required by other supervisory authorities by
+electronic means, using a standardized format.
+8. The Agency does not require any payment for the actions taken by them on the basis of requests
+for mutual assistance in terms of reciprocity.
+38
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+9. The Agency shall, where appropriate and in accordance with applicable law, conduct joint operations
+including joint investigations and joint enforcement measures, involving members or staff of the
+supervisory authorities of other States or international organizations.
+
+No. 66
+Annual work report
+1. The Agency shall submit an annual work report to the Assembly of Kosovo and shall publish it, no
+later than March 31 of the following year.
+2. The annual activity report provides an overview of the Agency's work and developments in the field of
+access to public documents and personal data protection in the previous year, and will provide relevant
+assessments and recommendations.
+No. 67
+Work-related publicity
+1. The Agency shall publish on its official website or in any other appropriate manner:
+1.1. an internal newspaper and professional literature;
+1.2. any decision of the courts of general jurisdiction regarding access to public documents and
+protection of personal data. In such cases, personal data relating to the parties, injured parties,
+witnesses or experts involved shall not be published;
+
+1.3. opinions on compliance with codes of professional ethics, general business conditions or
+draft regulations in the field of personal data protection;
+
+1.4. opinions, clarifications and positions on issues in the field of data protection;
+1.5. all instructions and recommendations regarding the protection of personal data in individual
+fields;
+1.6. public statements of inspections undertaken for individual cases;
+1.7. any other important notice.
+
+KREU XIV
+INSPECTIONS AND CONTROLS
+No. 68
+Scope of inspections
+1. The Agency, ex officio or on a complaint basis, may conduct inspections and controls to oversee
+compliance with data protection rules. Within the inspection competencies, the Agency:
+
+1.1. oversee the legality of personal data processing;
+1.2. oversee the adequacy of procedures and measures taken for the security of personal data
+in accordance with this law;
+
+39
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.3. supervises the implementation of the provisions of this law:
+
+1.3.1. registration of processing activities, according to article 29 of this law;
+1.3.2. notification for data violation, according to articles 33 and 34 of this law;
+1.3.3. assessment of the impact of data protection, according to articles 35 and 36 of this
+law;
+1.3.4. data protection officer, according to article 37 to 39 of this law;
+1.3.5. codes of conduct, according to articles 41 and 42 of this law;
+1.3.6. certification mechanisms, according to article 43 of this law;
+1.3.7. and receiver data disclosure records.
+No. 69
+Direct inspection development
+1. Inspections and controls are performed directly by inspection officers within the limits of their competencies;
+
+2. Inspection officers, during the inspection and control, must be identified with an official identification card,
+which contains: photograph, personal name, professional title and other necessary data.
+
+3. On the proposal of the Commissioner, the Government of Kosovo issues a sub-legal act, which determines
+the detailed manner of form and content of the card.
+Not 70
+Responsibilities of inspection officers
+1. During the inspection and control, inspection officers have the right to:
+1.1. control and confiscate any documentation related to the processing of personal data, in
+accordance with the relevant legislation on information classification, transfer of personal data to other
+countries and international organizations, as well as disclosure to external recipients;
+
+1.2. control the content of file systems in accordance with the relevant legislation on information
+classification and file system catalogs;
+1.3. check and confiscate any documentation and instructions governing the security of personal data;
+
+1.4. inspect the building in which personal data are processed and have the right to inspect and
+confiscate computers and any other equipment, as well as technical documentation;
+
+1.5. verify measures and procedures aimed at securing personal data and their implementation;
+
+1.6. perform any other task that is considered important for the performance of inspections and
+controls provided by this law.
+
+40
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+No. 71
+Inspection measures
+1. If the inspection officer notices a violation of this law or any law or regulation governing the
+processing of personal data, he or she has the right to:
+1.1. order the elimination of irregularities or deficiencies that he or she notices, in the
+manner and within a period previously determined by him or her. This may include the
+destruction, blocking, destruction, deletion or anonymization of personal data in accordance
+with the law;
+1.2. temporarily and permanently suspend the processing of personal data by controllers
+and processors in the public or private sectors, who have failed to implement the necessary
+measures and procedures for the provision of personal data;
+
+1.3. temporarily and permanently prohibit the processing of personal data, their
+anonymization, classification and blocking of personal data, whenever he or she concludes
+that personal data are being processed in violation of legal provisions;
+
+1.4. temporarily and permanently prohibit the processing of personal data in other countries
+and international organizations, or their disclosure to foreign recipients, if they have been
+transferred or disclosed in violation of legal provisions or international agreements;
+
+1.5. order the controller or processor to comply with the requirements of the data subject
+to exercise his or her rights in accordance with this law;
+1.6. to impose a fine for violations of this law;
+1.7. warn or advise in writing the data controller or data processor in cases of minor
+violations.
+2. In the event of irregularities or deficiencies, the data controller or data processor shall correct
+them immediately upon receipt of written instructions or advice from the inspection officer, to ensure
+lawful processing of the data.
+3. An appeal is not allowed against the final decision of the Agency from paragraph 1. of this Article,
+but an administrative dispute can be opened in the competent court.
+No. 72
+Obligation to provide support
+1. Public and private bodies are obliged to assist inspection officers in fulfilling their duties through:
+
+1.1. providing information in response to the Agency's inquiry and allowing the inspection
+of documents and file data, in particular stored data and data processing software, which
+relate to the processing of personal data , and;
+
+1.2. allowing access to their facilities at any time.
+
+41
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+CHAPTER XV
+
+DIRECT MARKETING
+No. 73
+Rights and responsibilities of data controllers
+1. Data controllers may use personal data that they have obtained from publicly accessible sources
+or within the limits of the lawful performance of activities for the purpose of providing goods, services,
+employment or the temporary performance of work through the use of postal services, telephone
+calls, e-mail or other means of telecommunication (hereinafter: direct marketing) in accordance with
+the provisions of this chapter, unless otherwise provided by the relevant law.
+
+2. For the purposes of direct marketing, data controllers may use only personal data collected in
+accordance with paragraph 1 of this Article: personal name, permanent or temporary residence
+address, telephone number, electronic mail (e-mail). Based on the prior consent of the data subject,
+data controllers may process other personal data, but sensitive personal data may only be processed
+if they possess written consent.
+
+3. When data controllers conduct direct marketing, they must inform data subjects of their rights under
+the provisions of this law.
+4. If the data controllers intend to disclose personal data from paragraph 2. of this Article, to other
+data recipients for the purpose of direct marketing, or to data processors, they are obliged to inform
+the data subject and obtain his or her written consent before such data is disclosed. The disclosure
+to the data subject regarding the disclosure in question must contain all information intended to be
+disclosed as well as to whom and for what purpose. Notification costs are covered by the data
+controller.
+
+No. 74
+The right to object
+1. The data subject may at any time request in writing that the data controllers permanently or
+temporarily suspend the use of his or her personal data for the purposes of direct marketing. Within
+eight (8) days after receiving the objection from the data subject, the data controllers must stop using
+personal data for direct marketing purposes and within the next five (5) days they must inform the
+subject in writing. data for the approval of their request.
+
+2. Expenses for the actions of the data controller in relation to the request from paragraph 1 of this
+article shall be borne by the data controller.
+
+CHAPTER XVI
+
+CAMERA SURVEILLANCE
+No. 75
+General provisions
+1. The provisions of this chapter apply to surveillance by camera, unless otherwise provided by the
+relevant law.
+2. Persons in the public or private sector who intend to install surveillance systems with
+42
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+the camera should place the notification on this. Public bodies shall take appropriate measures to
+identify the controller. Such notice must be visible and made public in order to enable data
+subjects to be informed of the measures without difficulty, at the latest when camera surveillance
+begins.
+3. The data collected by the camera surveillance may be processed or used, if necessary, to
+achieve the intended purposes and if there are no indications of a violation of the legitimate
+interests of the data subject. This data may be processed or used for other purposes only if
+necessary to prevent threats to the state and public safety, or to prosecute crimes.
+
+4. The camera surveillance system and surveillance recordings must be properly protected from
+unauthorized access and use.
+No. 76
+Surveillance of official and business buildings
+1. Persons in the public and private sector may install surveillance systems with cameras to
+monitor their buildings if deemed necessary for the safety of people and the security of property.
+Camera surveillance, in particular, may be necessary to monitor the entrances of buildings or
+where, due to the nature of their work, there is a potential threat to employees.
+
+2. Necessary decisions are taken by the competent official, director or any other person authorized
+by the public or private sector.
+3. The decision must contain the reasons for the installation of camera surveillance systems.
+4. Camera surveillance systems can monitor the exterior and entrance of the building, but not the
+entrance and interior of the apartments.
+5. Persons working in public and private buildings under camera surveillance shall be duly
+informed in writing of the installation of such systems and their rights.
+6. Each data controller must establish a file system for the recording of camera surveillance
+systems. The file system, separately from the recordings (images and / or sound), contains the
+date, place, time of the recording and where the recordings are stored.
+7. The registrations from paragraph 6. of this article can be kept for up to (1) months, unless
+otherwise required for legitimate purposes.
+No. 77
+Supervision of apartment buildings
+1. For the installation of camera surveillance systems in the apartment building, the written
+consent of at least seventy percent seventy percent (70%) of the owners is required.
+2. Camera surveillance can only be installed if it is necessary for the safety of people and the
+security of property.
+3. Camera surveillance in the apartment building can only monitor the entrance and common
+areas. Camera surveillance of the apartment's housekeeper and his or her workshop is prohibited.
+
+4. The transmission of surveillance recordings by camera through internal cable television, public
+cable television, internet or other means of telecommunications is prohibited, without
+43
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+consider whether it is done at the time of transmission or later.
+5. Entrances to individual apartments can be monitored with a camera surveillance system only
+if the owner so decides. The owner can keep records only for his or her needs.
+
+No. 78
+Camera surveillance in the employment sector
+Camera surveillance of workplaces may be carried out only in cases where it is necessarily
+required for the safety of people, the security of property and the storage of confidential
+information, if this purpose can not be achieved by easier means.
+2. Camera surveillance should be strictly limited to areas where interests are endangered from
+paragraph 1. of this article.
+3. Camera surveillance is prohibited in areas outside the workplace, especially in changing
+rooms, elevators, sanitary facilities and workplaces with the potential to violate the privacy of
+employees.
+4. Before installing the camera surveillance system, the employer must inform the data subjects
+in writing about their rights and the reasons for the surveillance. Supervised spaces should be
+marked by employers through appropriate signs.
+5. Before starting the installation of camera surveillance systems in the public or private sectors,
+the employer informs the union representatives, if applicable.
+6. Paragraphs 4 and 5 of this article do not apply in the areas of national protection, in the state
+security activities of intelligence in places where secret data are stored.
+No. 79
+Camera surveillance through drones
+1. Personal data received through drones are processed according to this law, unless otherwise
+provided by the relevant legislation governing the operation of drones.
+
+2. The Agency, together with the Civil Aviation Authority, issues a sub-legal act on the manner of
+data processing, which is obtained from the use of drones.
+
+CHAPTER XVII
+
+USE OF BIOMETRIC CHARACTERISTICS
+Not 80
+Processing of biometric features
+Determining and using the biometric characteristics of the data subject and comparing them to
+enable his or her identification is regulated by the provisions of this law.
+No. 81
+Use of biometric features in the public sector
+1. The public sector can use biometric features only if it is necessarily required for the security of
+people, property security or the protection of confidential data and business secrets, if this cannot
+be achieved by easier means.
+44
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+2. Notwithstanding paragraph 1 of this Article, the use of biometric features may be permitted in accordance
+with the obligations arising from binding international agreements or for the identification of persons
+crossing the state border.
+No. 82
+Access control
+Biometric features can be used in the public sector for access control reasons.
+In this case, the provisions of paragraphs 2, 3 and 4 of Article 84 of this Law shall apply mutatis mutandis.
+
+No. 83
+Use of biometric features in the private sector
+1. The private sector may use biometric features only if it is necessary to carry out activities for the security
+of people, for the security of property or for the protection of confidential data or business secrets.
+Employees should be informed in advance in writing about the use of their biometric features about the
+measures taken and their rights.
+
+2. Unless otherwise provided by the relevant law, the data controller shall, before taking measures for the
+use of biometric features, provide the Agency with a detailed description of the measures to be taken,
+including the information to be provided. data subject, reasons for taking measures and protective
+measures for personal data protection.
+
+3. Upon receipt of the information referred to in paragraph 2 of this Article, the Agency shall, within thirty (30)
+days, decide whether the information received regarding the measures is in accordance with the provisions
+of this law.
+
+4. Data controllers may apply measures for the use of biometric features, after obtaining authorization from
+the Agency.
+5. An appeal is not allowed against the decision from paragraph 3. of this article, but an administrative
+dispute can be opened in the competent court.
+
+CHAPTER XVIII
+
+RECORDS OF ENTRY AND EXIT FROM BUILDINGS
+No. 84
+recording
+1. The public and private sector bodies, in order to guarantee the safety of people and the security of
+property, may request from persons entering or leaving the buildings to provide them with the data from
+paragraph 2. of this article. If deemed necessary, personal data can be verified by examining identification
+documents.
+2. The registration data of persons entering or leaving the buildings may contain only the following personal
+data: personal name, number and type of identification document, permanent or temporary address, date
+and time as well as the reason for entering building.
+3. The data from paragraph 2. of this article are considered as official documents, if the data collection is
+required for the purposes of the police and the activities of the intelligence services.
+
+45
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+4. Personal data from registrations, according to paragraph 2. of this article, may be stored for up
+to three (3) years from the day of their registration and then must be deleted or destroyed, unless
+otherwise provided by law.
+
+KREU XIX
+PUBLIC BOOKS AND PERSONAL DATA PROTECTION
+Not 85
+Public books
+Personal data from public books, regulated by the relevant law, may be used only in accordance
+with the purpose for which they were collected or processed, if the legal purpose for their collection
+or processing has been determined or is determinable.
+
+CHAPTER XX
+
+INTERLOCK OF FILE SYSTEMS
+No. 86
+Official documents and public books
+1. File systems from official documents and public books may be merged if this is provided by law.
+
+2. The controller or controllers of data intending to interconnect two (2) or more file systems held
+for different purposes, before doing so, must notify the Agency in writing.
+
+3. If, at least, one of the interconnected file systems contains sensitive data or if the interconnection
+would result in the detection of sensitive data, or the implementation of the interconnection requires
+the use of the interconnection code, the interconnection is not allowed without the prior authorization
+of Agency.
+4. The Agency may authorize the interconnection, by decision, according to paragraph 3. of this
+Article, if it determines that the data controller ensures the appropriate level of data protection.
+5. Against the decision from paragraph 4. of this article, the appeal is not allowed but the administrative
+dispute can be opened in the competent court.
+
+No. 87
+Prohibition of interconnection of file systems
+The interconnection of criminal file and misdemeanor systems with other file systems as well as the
+interconnection of systems between criminal and misdemeanor files is prohibited.
+Neni 88
+Distribution of official documents and public books
+Personal data from the file systems of official documents and public books should be kept separately
+in the register of file systems.
+No. 89
+Personal data from previous institutions
+1. If, before 12 June 1999, personal data have been stored by previous institutions,
+46
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+mainly for self-determined administrative tasks, which had to be performed by the authorities, institutions
+and other public bodies of the state, by the socialist republics, communities, associations of local
+authorities, or other public bodies, the right to these data belongs to the holders of public administration,
+responsible for administrative duties.
+2. The former institutions, as defined in paragraph 1, of this Article, are the former state bodies or
+economically active bodies, collective factories, operations or commercial facilities, as well as the social
+organizations of the former Socialist Federal Republic of Yugoslavia.
+Not 90
+Processing of personal data by previous institutions
+1. The processing of personal data by previous institutions is allowed to the bodies referred to in Article
+89, paragraph 1. of this law if:
+1.1. knowledge of these data is needed for the legal fulfillment of any task, which is within the
+scope of responsibilities of these bodies;
+1.2. repeated collection of this data requires disproportionate effort;
+1.3. the data subject did not object to the processing;
+1.4. the competencies and responsibilities of data processing bodies are clearly defined.
+
+1.5. personal data, which can be processed according to sub-paragraph 1.1. of this article, are
+considered as having been saved in advance for the purpose determined in accordance with
+article 89, paragraph 1. of this law.
+
+CHAPTER XXI
+
+PENALTY PROVISIONS
+No. 91
+General conditions for imposing administrative fines
+1. The Agency, for controllers and data processors, who, during data processing, violate the provisions
+of this law, imposes a fine directly, taking into account the following criteria:
+
+1.1. the nature, significance and duration of the violation, taking into account the nature, object
+or purpose of the relevant processing, as well as the number of data subjects affected and the
+level of damage suffered by them;
+1.2. intentional and negligent nature of the violation;
+1.3. any action taken by the controller or processor to mitigate the damage suffered by the
+data subjects;
+1.4. the degree of responsibility of the controller or processor, taking into account the technical
+and organizational measures implemented by them in accordance with Articles 24, 25 and 32
+and 33 of this law;
+1.5. any previous relevant violations by the controller or processor;
+1.6. the degree of cooperation with the Agency, in order to correct the violation and
+47
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+to mitigate the potential negative effects of the breach;
+1.7. categories of personal data affected by the breach;
+1.8. the manner in which the breach became known to the Agency, in particular if and to
+what extent the controller or processor has notified the breach;
+1.9. if the measures referred to in the competences of the Agency have been previously
+ordered to the relevant controller or processor in relation to the same matter, compliance
+with these measures;
+1.10. compliance with approved codes of conduct and other internal acts.
+1.11. any other aggravating or mitigating factors for the circumstances of the case, such as
+financial gain or loss, directly or indirectly from the breach.
+2. If a controller or processor, intentionally or negligently, for the same or related operations, violates
+certain provisions of this law, the total amount of the fine for minor offenses does not exceed the
+maximum amount of twice the maximum penalty. with a fine determined by this law.
+
+No. 92
+General violations of the provisions of this law
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense,
+with a fine from twenty thousand (20,000 €) to forty thousand (40,000 €), if:
+1.1. processes personal data without legal basis or personal consent of the data subject
+according to this law;
+1.2. entrusts an individual task related to the processing of personal data to another person
+without concluding a written contract in accordance with paragraph 2. of Article 32 of this
+law;
+1.3. processes sensitive, special personal data, contrary to Article 6, Article 8. of this Law,
+or does not protect them in accordance with Article 7 of this Law, paragraph 4 of Article 8 of
+this Law.
+1.4. processes personal data in contradiction with articles 10 and 12 of this law;
+1.5. collects personal data for purposes that are not clearly defined and illegally, or if it
+continues to process them in violation of Article 5 of this law;
+
+1.6. equip the data recipient with personal data in contradiction with paragraph 3. of article
+8 of this law;
+1.7. does not inform the data subject about the processing of personal data in accordance
+with articles 10 and 12 of this law;
+1.8. use the same binding code in contradiction with paragraph 3. of article 86 of this law;
+
+1.9. does not destroy, destroy, block or make anonymous personal data when the purpose
+for which they were collected and / or processed has been achieved in accordance with
+paragraph 5. of Article 4 of this law;
+48
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.10. fails to ensure that the catalog of the file system contains information guaranteed by Article 29 of this law;
+
+1.11. fails to notify the Agency for information regarding the register of file systems, according to article 30 of
+this law;
+1.12. acts in contradiction with article 14 of this law;
+1.13. acts in contradiction with articles 46 and 49 of this law and transfers personal data to other countries or
+international organizations.
+2. The responsible person of the legal entity or of the person exercising independent activity shall be punished for a minor
+offense with a fine from two thousand (2,000) to four thousand (4,000) €, for the violations from sub-paragraph 1.13,
+paragraph 1. of this neni.
+3. The responsible person of the state body is punished for a minor offense with a fine from one thousand (1,000) to two
+thousand (2,000) € uro for violation from paragraph 1. of this article.
+4. The individual is punished for a minor offense with a fine from four hundred (400) to one thousand (1,000) € for violation
+from paragraph 1. of this Article.
+No. 93
+Violation of the provisions on contractual processing
+1. A legal entity or a person exercising independent activity, shall be punished for a minor offense with a fine from twenty
+thousand (20,000) to forty thousand (40,000) €, if it exceeds the authorization expressed in the contract from paragraph
+2. of article 32 of this law or does not return personal data in accordance with paragraph 4. of article 32 of this law.
+
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for a minor
+offense with a fine from one thousand (1,000) to four thousand (4,000) € for the violations from paragraph 1. of this Article.
+
+3. The responsible person of the state body is punished for a minor offense with a fine from five hundred (500) to two
+thousand (2,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from two hundred (200) to eight hundred (800) € for violation
+from paragraph 1. of this Article.
+No. 94
+Violation of the provisions on personal data security
+1. A legal person or a person exercising independent activity shall be punished for a minor offense with a fine from eight
+thousand (8,000) to forty thousand (40,000) €, if during the processing of personal data it fails to guarantee an adequate
+level to ensure the protection of personal data according to article 31 of this law.
+
+2. The responsible person of the legal entity or of the person exercising independent activity, shall be punished for a minor
+offense with a fine from one thousand (1,000) to four thousand (4,000) € for violation from paragraph 1. of this Article.
+
+3. The responsible person of the state body is punished for a minor offense with a fine from one thousand (1,000) to eight
+thousand (8,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from one thousand (1,000) to two thousand (2,000) € for
+violation from paragraph 1. of this Article.
+49
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+Not 95
+Violation of the provisions on direct marketing
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine from
+four thousand (4,000) to ten thousand (10,000) €, if in accordance with this law processes personal data for direct
+marketing purposes and does not act in accordance with articles 73 or 74 of this law.
+
+2. The responsible person of the legal entity or of the person exercising independent activity shall be punished for
+minor offense, with a fine from eight hundred (800) to two thousand (2,000) € for violation from paragraph 1. of
+this Article.
+3. The individual is punished for a minor offense with a fine from four hundred (400) to one thousand (1,000) €
+for violation from paragraph 1. of this Article.
+Neni 96
+Violation of the general provisions on camera surveillance
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine from
+four thousand (4,000) to ten thousand (10,000) € if:
+1.1. does not publish the notification in the manner provided in paragraph 2. of article 75 of this law;
+
+1.2. the notification does not contain the necessary information from paragraph 3. of article 75 of this
+law;
+1.3. does not protect the camera surveillance system and the recordings used to conduct camera
+surveillance in violation of paragraph 4. of Article 76 of this law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for a
+minor offense with a fine from eight hundred (800) to two thousand (2,000) € for violation from paragraph 1. of
+this Article.
+3. The responsible person of the state body is punished for a minor offense with a fine from five hundred (500) to
+two thousand (2,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from two hundred (200) to eight hundred (800) € for
+violation from paragraph 1. of this Article.
+Not 97
+Violation of the provisions on camera surveillance regarding access to official and business buildings
+
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine from
+four thousand (4,000) to ten thousand (10,000) €, if:
+1.1. implements camera surveillance systems without a necessary written decision or without any legal
+basis from article 76 of this law;
+1.2. implements camera surveillance systems for the purpose of surveillance of the interior of buildings
+in violation of paragraph 4. of Article 76;
+1.3. has not informed the employees in writing from paragraph 5. of article 76;
+
+50
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.4 stores personal data in contradiction with paragraph 7. of article 76 of this law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from five hundred (500) to two thousand (2,000) € for violation from paragraph 1. of
+this Article.
+3. The responsible person of the state body is punished for a minor offense with a fine from five hundred (500)
+to two thousand (2,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from two hundred (200) to eight hundred (800) € for
+violation from paragraph 1. of this Article.
+No. 98
+Violation of the provisions on camera surveillance in apartment buildings
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine
+from four thousand (4,000) to twelve thousand (12,000) € if it implements camera surveillance systems in
+violation of Article 77 of this Law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from four hundred (400) to two thousand (2,000) € for violation from paragraph 1. of
+this Article.
+3. The responsible person of the state body is punished for a minor offense with a fine from eight hundred (800)
+to two thousand (2,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from two hundred (200) to four hundred (400) € for
+violation from paragraph 1. of this Article.
+Not 99
+Violation of the provisions for camera surveillance in work spaces
+1. A legal entity or a person exercising independent activity shall be punished by a fine of eight thousand (8,000)
+to forty thousand (40,000) € if it implements camera surveillance systems in the workplace in violation of Article
+78 of this law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from two thousand (2,000) to four thousand (4,000) € from paragraph 1. of this
+Article.
+3. The responsible person of the state body is punished for a minor offense with a fine from one thousand
+(1,000) to two thousand (2,000) € from paragraph 1. of this Article.
+4. The individual is punished with a fine from eight hundred (800) to one thousand (1,000) € for violation from
+paragraph 1. of this article.
+Not 100
+Violation of the provisions on biometric characteristics in the public sector
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine
+from eight thousand (8,000) to forty thousand (40,000) € if it implements biometric measures in contradiction
+with article 81 of this law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from two thousand (2,000) to four thousand (4,000) € for violation from paragraph 1.
+of this Article.
+51
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+3. The responsible person of the state body is punished with a fine from one thousand (1,000) to two thousand
+(2,000) € for violation from paragraph 1. of this article.
+Not 101
+Violation of the provisions on biometric features in the private sector
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine
+from eight thousand (8,000) to forty thousand (40,000) € if it implements biometric measures contrary to Article
+83 of this Law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from two thousand (2,000) to four thousand (4,000) € for violation from paragraph 1.
+of this Article.
+No. 102
+Violation of the provisions for entry and exit registers of the building
+1. A legal entity or a person exercising independent activity shall be punished for a minor offense with a fine
+from four thousand (4,000) to eight thousand (8,000) €:
+1.1. if he uses the records of entering and leaving the building as official documents in contradiction
+with paragraph 3. of article 85 of this law;
+1.2. if it acts in contradiction with paragraph 4. of article 84 of this law.
+2. The responsible person of the legal entity or the person exercising independent activity shall be punished for
+a minor offense with a fine from two hundred (200) to eight hundred (800) € for violation from paragraph 1. of
+this Article.
+3. The responsible person of the state body is punished for a minor offense with a fine from two hundred (200)
+to eight hundred (800) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from two hundred (200) to eight hundred (800) € for
+violation from paragraph 1. of this Article.
+No. 103
+Violation of the provisions for interconnection of file systems
+1. The responsible person of the state body is punished for a minor offense with a fine from one thousand
+(1,000) to five thousand (5,000) €, which interconnects the file systems in contradiction with article 87 of this law.
+
+2. The responsible person of the state body shall be punished for a minor offense with a fine from eight hundred
+(800) to two thousand (2,000) €, if he connects the file systems from the criminal records or the records of minor
+offenses with other file systems, or connects the file systems. from criminal records with the file system from
+evidence of minor offenses according to article 87 of this law.
+No. 104
+Violation of the provisions on supervision by the person responsible for personal data
+protection
+1. A legal entity shall be punished for a minor offense with a fine from eight thousand (8,000) to forty thousand
+(40,000) €:
+1.1. if it performs the control in contradiction with article 39 of this law;
+
+52
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+1.2. if it does not keep a note or other records according to article 39 of this law.
+2. The responsible person of the legal entity shall be punished for a minor offense with a fine from one thousand
+(1,000) to two thousand (2,000) € for violation from paragraph 1. of this Article.
+
+3. The responsible person of the state body is punished for a minor offense with a fine from one thousand (1,000)
+to two thousand (2,000) € for violation from paragraph 1. of this Article.
+4. The individual is punished for a minor offense with a fine from five hundred (500) to one thousand (1,000) €
+for violation from paragraph 1 of this article.
+No. 105
+Serious and large violations of legal provisions
+In case the Agency finds that there is a serious and widespread violation of personal data, it can impose a fine
+from twenty thousand (20,000) € to forty thousand (40,000) €, or in the case of a company or enterprise, it can
+impose a fine of 2% to 4% of the total annual turnover of the previous financial year in accordance with Regulation
+(EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural
+persons with regard to processing of personal data and free circulation of this data.
+
+Neni 106
+Other responsibilities
+The imposition of punitive provisions, according to this law, does not exclude other responsibilities under the
+legal provisions in force, in particular the liability of controllers and data processors for damages arising from
+illegal processing and criminal liability as defined in the Criminal Code of the Republic of Kosovo.
+
+No. 107
+fees
+Fees for notifications and authorizations, according to this law, are regulated by sub-legal act of the Agency.
+
+CHAPTER XXII
+
+TRANSITIONAL AND FINAL PROVISIONS
+No. 108
+Transfer of assets, rights and obligations, budget and personnel
+1. With the entry into force of this law, all physical assets, rights and obligations arising from the concluded
+contracts, and budget allocations of the State Agency for Personal Data Protection are transferred to the Agency
+for Information and Privacy.
+2. With the entry into force of this law, the staff of the State Agency for Personal Data Protection is transferred to
+the Agency for Information and Privacy, together with their positions held, according to appointments, decisions
+and employment contracts.
+3. The Agency for Information and Privacy within three (3) months, from the day of entry into force of this law,
+formalizes the contractual obligations with the transferred personnel, issuing new acts-appointments, according
+to this law and relevant legislation.
+
+53
+
+Machine Translated by Google
+OFFICIAL GAZETTE OF THE REPUBLIC OF KOSOVO / NO. 6/25 FEBRUARY 2019, PRISTINA
+
+LAW NO. 06 / L-082 ON PERSONAL DATA PROTECTION
+
+Not 109
+Bylaws
+1. Bylaws provided by this law are issued within six (6) months from its entry into force.
+
+2. The bylaws that are in force continue to be implemented, until the issuance of new bylaws, provided
+that they are not in conflict with this law.
+No. 110
+WITHDRAWAL
+
+After the entry into force of this law, Law no. 03 / L-172, on the Protection of Personal Data.
+
+No. 111
+Entry into Force
+This law enters into force fifteen (15) days after publication in the Official Gazette of the Republic of
+Kosovo.
+
+Law no. 06 / L-082
+January 30, 2019
+
+Promulgated by decree no. DL-59-2019, dated 14.02.2019 by the President of the Republic of
+Kosovo Hashim Thaçi
+
+54
+
+

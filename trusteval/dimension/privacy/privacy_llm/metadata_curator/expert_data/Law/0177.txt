@@ -1,0 +1,1811 @@
+Page 1
+
+Personal data protection
+in the workplace
+A guide for employers
+
+GDPR guide
+October 2018
+
+Page 2
+
+2
+
+Page 3
+
+Table of Contents
+1. INTRODUCTION
+
+6
+
+2. JOB SEARCH
+
+7
+
+2.1 Data required from the candidate in the course of recruitment
+
+7
+
+2.2
+
+Does the employer have to inform job applicants about the processing of their personal data?
+9
+
+2.3 Importance of consent to the processing of personal data
+
+11
+
+2.4 Online recruitment
+
+13
+
+2.5
+
+14
+
+Is it possible to search for employees under the so-called recruiting "blind", "hidden"?
+
+2.6 Employment Agencies
+
+14
+
+3. RECRUITMENT PROCESS
+
+15
+
+3.1 What data can the employer collect during the interview?
+
+15
+
+3.2
+
+Is it possible to contact the candidate's previous employer for information on his or her?
+
+topic?
+
+16
+
+3.3
+
+Can a potential employer ask a university for confirmation or?
+
+job candidate obtained a diploma in it?
+
+16
+
+3.4
+
+How long can the data of job applicants be processed?
+
+17
+
+3.5
+
+Can the employer process the data of job applicants after recruitment for the purpose of
+
+securing against their possible claims?
+3.6
+
+17
+
+Does the possibility of a discrimination claim justify longer storage?
+
+data?
+
+17
+
+3.7 What should a civil service employer do when they receive a CV (or other
+recruitment documents), although there is no recruitment?
+3.8
+
+18
+
+What principles should an employer from the civil service sector follow when publishing information
+
+related to the ongoing recruitment?
+
+18
+
+3.9
+
+19
+
+Is it possible to create the so-called "Blacklists" of job applicants?
+
+3.10 The CV of a potential candidate is submitted to the employer, but he does not recruit. Whether
+keep the data sent there for the purposes of future recruitments?
+
+19
+
+3.11 Can a potential employer obtain candidate's data from social networks?
+
+twenty
+
+3.12 Can the prospective employer screen the candidate or communicate with him for
+through industry social networks, e.g. LinkedIn?
+
+twenty
+
+4. PERIOD OF EMPLOYMENT
+
+22
+
+4.1 Specific issues related to data processing during the employment period.
+
+22
+
+4.1.1 Conclusion of the employment contract and the employee's personal file
+
+23
+
+3
+
+Page 4
+
+4.1.2 Disclosure of and Access to Personal Data in the Employment Context
+
+24
+
+4.1.3 Data processing for the purposes of granting benefits from the Company Benefits Fund
+Social (ZFŚS)
+
+26
+
+4.2
+
+27
+
+Sharing employee data with external entities.
+
+4.2.1 Processing of personal data of employees as part of the employer's relationship with the organization
+union.
+
+28
+
+4.2.2 Processing of employees' data as part of the implementation of tasks in the field of occupational medicine
+
+28
+
+4.2.3 Processing of employee data as part of training courses organized by employers
+
+29
+
+4.2.4 Provision of data in connection with additional benefits offered by the employer
+employees
+
+31
+
+4.2.5 Transfer of information on employees between companies of a group of enterprises (e.g. to some
+project, tasks or work).
+
+32
+
+4.3
+
+34
+
+Use of internal telecommunications resources
+
+4.3.1 Employee email monitoring
+
+34
+
+4.3.2 Keeping track of working time with the use of modern technologies
+
+35
+
+5. TYPES OF EMPLOYMENT OTHER THAN SPECIFIED IN THE LABOR CODE AND TEMPORARY WORK 39
+5.1
+
+Processing of personal data in connection with the performance of tasks based on contracts
+
+civil law
+5.2
+
+39
+Processing data of temporary employees.
+
+42
+
+4
+
+Page 5
+
+5
+
+Page 6
+
+01
+.
+
+1. INTRODUCTION
+
+The guide is an updated and extended version of the published material
+by the Inspector General for the Protection of Personal Data 1 , which takes into account
+changes resulting from the provisions of the General Data Protection Regulation 2 and
+amendment to the Labor Code introduced by the Act of May 10, 2018 on the protection of data
+personal data 3 .
+Trying to meet the trends prevailing on the labor market, the guide will cover issues related to
+employment on the basis of an employment relationship and on the basis of the so-called civil law or non-employment forms
+employment that employers decide on more and more often, e.g. when the nature of the job requires it
+work or want a more flexible form of shaping the relationship between the parties to the contract. By employment relationship
+on the other hand, we are living a situation in which an employee, in return for remuneration, undertakes to perform
+for the benefit of the employer of work of a certain type, under his direction and at the place and time by him
+designated. It is characterized, therefore, at least by official and paid subordination
+the nature of the work, which is additionally performed at the risk of the employer. With hiring on the basis of
+The employment relationship entails numerous rights and obligations for both the employee and the employer.
+Its main idea is the so-called the principle of employee preference. The legislator assumed that
+that due to the inequality of the parties to such an agreement, certain specific (minimum) rights of the employee should
+be clearly indicated in the law, and the provisions governing the employment relationship may not be from
+less favorable them.
+The publication of the guide was preceded by extensive public consultations, which met with a great response.
+The President of the Office for Personal Data Protection would like to thank all stakeholders for sending
+comments and suggestions. Not all of the issues raised during the consultations were reflected
+in the content of the guide, but it will be systematically supplemented, or these issues will be addressed elsewhere
+UODO materials.
+The guide is intended to help employers in their daily work. Therefore, it was abandoned
+in it from presenting extensive legal analyzes, focusing on practical tips.
+The information contained in the guide does not take into account the proposed changes to the Labor Code, which they still have
+project status.
+
+1 Cf.
+
+Recruiter's Decalogue, which was published at: https://giodo.gov.pl/pl/259/10318 and the document entitled Privacy protection
+in the workplace. A guide for employees, which was published at: https://giodo.gov.pl/pl/1520155/7917 .
+2 Regulation
+
+(EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons
+with regard to the processing of personal data and on the free movement of such data, and repealing the directive
+95/46 / EC (general regulation on data protection) (Journal of Laws UE L 119 of 04/05/2016, page 1, as amended), hereinafter referred to as: GDPR.
+3 Act
+
+of 10 May 2018 on the protection of personal data (Journal of Laws of 2018, item 1000).
+
+6
+
+Page 7
+
+2. JOB SEARCH
+
+Regardless of how the employer will search for job applicants, the process is always there
+will involve the acquisition of personal data contained in the recruitment documents
+(CV, cover letters, employment certificates, reference letters, certificates etc.). Employer
+
+02
+.
+
+should process only such data that is necessary for the purpose of collecting them, which is to take them
+by him the decision to hire a new employee. In other words, an employer cannot demand that a candidate
+date of redundant data that is not necessary for recruitment. Personal data cannot
+be stockpiled, "just in case", i.e. without demonstrating the lawful purpose of their acquisition and
+preaching their necessity for the realization of this purpose by the administrator. In addition, a request by the employer from
+job candidates with information that goes beyond what is primarily provided for by law
+work may violate both the provisions of the GDPR and the provisions of labor law, giving rise to, for example, a charge of discrimination
+nation.
+
+2.1
+
+Data required from the candidate in the course of recruitment
+
+The employer may expect the job applicant to provide him with data that we can generally define,
+as data:
+• identification (name, surname, parents' names, date of birth);
+• contact (home address) and
+• about education, skills, professional experience (completed schools and studies,
+training and courses completed, previous employers, positions held and
+professional bundles) 4 .
+It is a catalog of data that the employer may request from a job applicant in order to take action to change
+contracting to conclude a contract with him 5 . Importantly, due to the specificity of the recruitment process, to conclude this
+the contract does not have to be finally concluded.
+
+4 The
+
+scope of data that the employer may require from a job applicant is indicated in art. 22 1 of the Labor Code
+
+and the regulation of the Minister of Labor and Social Policy of 28 May 1996 on the scope of management by employers
+documentation on matters related to the employment relationship and the manner of keeping the employee's personal files.
+5 Art.
+
+6 sec. 1 lit. b GDPR
+
+7
+
+Page 8
+
+Important!
+Taking into account the purpose of collecting this data, i.e. taking a decision by the employer to
+hiring an employee, which will be based on the assessment of his suitability for work on a specific basis
+position, the information provided by the employee must be specific, i.e. not restrictive
+only to the perfunctory information that he took some courses or graduated from university, without specifying what
+exactly.
+
+What data cannot an employer require from a job applicant?
+The employer may not demand data from the candidate exceeding the scope indicated in the
+laws, redundant data, in particular those that are not related to the purpose of
+hiring an employee (e.g. data on marital status, religion, religious views or sexual orientation)
+alna). It may of course happen that a candidate for a specific position will have to meet
+certain legal requirements, e.g. the requirement of a criminal record, and then the employer will be entitled
+to obtain information about him in this regard.
+
+Can the employer collect information about the candidate's criminal record?
+A certificate of no criminal record is a document containing data on convictions, offenses
+implemented or related security measures contained in the National Criminal Register, whose function
+cation is regulated by the provisions of the Act of May 24, 2000 on the National Criminal Register
+(Act on KRK). Pursuant to Art. 6 sec. 1 point 10 of the KRK Act, the right to obtain information about persons whom
+personal data have been collected in the register, are due to employers, to the extent necessary for the
+hiring an employee for whom the provisions of the Act require no criminal record, full use
+public rights, as well as determining the right to occupy a specific position, perform certain
+a successful profession or running a specific business.
+The employer may demand from the future and current employee documents resulting also from the regulations
+special words relating to specific regulations on the performance of specific professions. Onehowever, the employer must bear in mind that with regard to criminal record data, it must follow this
+straight from the law. This means that the employer cannot demand every document for all
+decree, e.g. a certificate of no criminal record, unless he is authorized to do so by law
+
+Example:
+There are professions where access is restricted due to the requirement of a criminal record:
+•
+
+teachers (Article 10 (8a) of the Act - Teacher's Charter),
+
+•
+
+border guards (Article 31 (1) of the Border Guard Act),
+
+•
+
+detectives (Article 29 (2) of the Act on detective services),
+
+•
+
+a person applying for employment in financial sector entities (Article 3 of the Act of April 12, 2018
+
+on the principles of obtaining information on the clean record of persons applying for employment and persons employed in the entities
+financial sector) - in the scope relating to the conviction by a final judgment for the offenses specified in this Act.
+
+8
+
+Page 9
+
+Can an employer who is looking for employees with an impeccable reputation?
+give them information about the criminal record?
+No. Special provisions regulating the performance of certain professions often indicate that
+of poor opinion, which is a vague term and is an indefinite phrase referring to the message
+discretionary, of an evaluation nature. However, it does not constitute grounds for an employer to have
+the right to process the employee's data about his clean criminal record, because it does not result directly from the regulations
+rights. The employer may not process the data referred to in art. 10 of the GDPR, even with the consent of the
+nika. It should also be emphasized that the premise of consent, considered under labor law, indicates that
+equality of subjects, therefore, in the case at hand, it would not apply. Belongs
+also emphasize that the information that a given person does not appear in the National Criminal Register is also informative
+tation containing the data specified in art. 10 GDPR. So, every criminal record that will be
+contained information on convictions or information that the person had not been convicted,
+will be information on convictions and prohibited acts within the meaning of the GDPR.
+
+2.2
+
+Does the employer have to inform job candidates about the processing of
+their personal data?
+
+Yes. Each potential employer that collects data from job applicants is obliged to inform
+at 6 o'clock these people :
+• full name and address of its registered office,
+• contact details of the data protection officer (if appointed),
+• the purpose of data processing and the legal basis for processing,
+• data recipients known to him at the time of data collection (broadly understood) or their category
+riach,
+• the intention to cross-border data processing (if any),
+• the period during which the data will be processed or the criteria for determining this period,
+• its rights to request access to data, including receipt of a copy of it, rectification
+to delete, delete or limit their processing,
+• the right to withdraw consent at any time without affecting the lawfulness of processing
+which was made on the basis of consent before its withdrawal (if the data is collected on the basis of
+consent),
+• the right to lodge a complaint with the President of the Personal Data Protection Office,
+• voluntary or obligation to provide data and the consequences of not providing it.
+
+6 Art.
+
+13 GDPR
+
+9
+
+Page 10
+
+The employer is required to inform the job applicant of these circumstances at the time of the sourcing
+these data in a clear, legible and easily accessible way for the candidate. This can be done, for example, in the text of an advertisement
+for a job or in the feedback immediately after receiving the job application from the candidate.
+
+An example of an information clause
+Administrator
+The administrator of your data processed as part of the recruitment process is X, as the employer.
+Data protection officer
+You can contact the data protection officer at: ...
+Purpose and basis of processing
+Your personal data in the scope indicated in the provisions of the labor law will be processed in order to carry out the present
+recruitment procedure (Article 6 (1) (b) of the GDPR) , while other data, including contact details, based on
+consent (Article 6 (1) (a) of the GDPR) , which may be revoked at any time.
+X will process your personal data, also in subsequent recruitment of employees, if you give your consent
+(Article 6 (1) (a) of the GDPR) , which may be revoked at any time.
+If the documents contain the data referred to in Art. 9 sec. 1 GDPR, you will need your consent to process them
+revocation (Article 9 (2) (a) of the GDPR) , which may be revoked at any time.
+Labor law provisions: Art. 22 of the Labor Code and §1 of the Regulation of the Minister of Labor and Social Policy of May 28, 1996.
+on the scope of keeping records by employers in matters related to the employment relationship and the manner
+keeping the employee's personal files.
+Recipients of personal data
+The recipient of your personal data will be .....
+Data storage period
+Your data collected in the current recruitment process will be stored until the end of the recruitment process.
+If you consent to the use of personal data for the purposes of future recruitment, you
+the data will be used for 9 months.
+Rights of data subjects
+You have the right to:
+1) the right to access your data and receive a copy of it
+2) the right to rectify (correct) your personal data;
+3) the right to limit the processing of personal data;
+4) the right to delete personal data;
+5) the right to lodge a complaint with the President of the Personal Data Protection Office (to the address of the Personal Data Protection Office, ul. Stawki 2, 00-193
+Warsaw)
+Information on the requirement to provide data
+Providing your personal data in the scope resulting from art. 22 1 of the Labor Code is necessary to participate
+in the recruitment procedure. Providing other data by you is voluntary.
+
+10
+
+Page 11
+
+2.3
+
+The importance of consent to the processing of personal data
+
+Consent is one of the legal grounds for data processing. Current practice
+inclusion in the CV cover letter consent to the processing of data for recruitment purposes is not
+proper. Consent, and in particular express consent to the processing of selected data, may be necessary
+only in certain situations.
+
+Important!
+"Consent" of the data subject means voluntary, specific, informed and unambiguous demonstration of the will to which the person,
+data subject, in the form of a declaration or a clear affirmative action, allows the processing of
+her personal data.
+
+Can the employer process the data included by the candidate in the CV that go beyond this,
+what are the provisions of the labor law?
+It happens that job applicants provide more data on their own initiative than indicated in the
+job description. In such a situation, the candidate's personal data, unless they fall into a specific category of data,
+are processed by the potential employer on the basis of consent, which may be based on a declaration
+or behavior that, in a given context, clearly indicates that the data subject has accepted
+the proposed processing of her personal data. The candidate's application is usually a response to
+the employer's job advertisement, the candidate is aware of the entity to which he / she applies and to which
+the purpose of its data is to be processed. The candidate also knows the scope of data provided by the
+donor. This means that ordinary personal data that goes beyond the scope regulated by law
+work, are processed by the employer on the basis of the candidate's consent, which is manifested by action,
+for example, sending your employer your CV and cover letter.
+Personal data can be divided into three categories:
+a) the so-called ordinary , such as name, surname, address, date and place of birth, telephone number,
+important profession, image, e-mail address, etc.,
+b) special categories of personal data (previously called sensitive data ), listed in art. 9 GDPR discloses
+nurturing:
+-
+
+racial or ethnic origin,
+
+-
+
+political views,
+
+-
+
+religious or philosophical beliefs,
+
+-
+
+membership of trade unions,
+
+-
+
+genetic data,
+
+-
+
+biometric data to uniquely identify a natural person,
+
+-
+
+data relating to that person's health, sexuality or sexual orientation,
+
+Important!
+
+11
+
+(c) data on criminal convictions and offenses or related security measures listed
+in Art. 10 of the Regulation (previously also classified as sensitive data ).
+
+Page 12
+
+The job applicant has included special categories of data in their CV (so-called sensitive data).
+Can the employer process them?
+In the course of recruitment, it may happen that the candidate submits to the administrator on his own initiative
+personal data, e.g. about your health condition. If the job applicant does not express a separate consent to the processing of
+providing this type of personal data, and the employer does not possess the legal provision that he obliges
+processing, the employer should remove the data from its resources. Possible consent to
+the processing of special categories of data should be explicit, e.g. in the form of a separate statement.
+There are, however, certain situations in which a potential employer will be entitled to process specific
+different categories of data on the basis of separate legal provisions. Examples of such regulations are e.g. regulations
+
+concerning the health conditions that must be met by a candidate for the position of a police officer.
+
+Example
+Art. 25 sec. 2 of the Act of 6 April 1990 on the police (i.e. Journal of Laws of 2017, item 2067) provides that the admission of a candidate for service
+in the police after the qualification procedure is carried out to determine whether the candidate meets the requirements
+periods of admission to service in the police and determination of his predisposition to perform this service. Qualification procedure,
+consists of, among others with a physical fitness test, a psychological test and the determination of physical and mental fitness for service in
+the police.
+
+Can the employer use the data of job candidates obtained in a specific process?
+recruiters for future recruitments?
+
+No, if the candidate has not consented to it. After completing the recruitment process, the employer should remove
+the candidate's personal data, if, however, the candidate for work, documents submitted to the potential employer
+mentions, consented to the processing of his data in order to participate in future recruitments
+commissioned by the employer, the data may be processed for this purpose.
+
+Example 1:
+"I consent to the processing of my data in order to use them in subsequent recruitment conducted by X for a period
+the next 6 months. "
+Example 2:
+"I consent to the processing of special categories of data referred to in art. 9 sec. 1 GDPR, which I have posted
+in the cover letter and the documents attached thereto. "
+
+12
+
+Page 13
+
+Important!
+The candidate must be informed about the possibility and method of withdrawing consent. The way to withdraw consent should be as well
+easy as was her expression.
+
+Can an employee withdraw his consent?
+Yes. The consent to the processing of data for recruitment purposes may be withdrawn at any time.
+In such a situation, the employer loses the right to further process this data and should immediately
+not delete them. The employer should inform the employee of the right to withdraw consent at the time
+obtaining his data.
+
+2.4
+
+Conducting on-line recruitment
+
+Online data collection is one of the most popular methods of creating databases today
+data, often used also in the recruitment process. If a potential employer
+decides to obtain candidate data via the Internet, he should implement appropriate technical measures
+and organizational to ensure a level of security corresponding to the risk of violating their rights and freedoms
+people related to the specificity of cyberspace. This obligation also applies to administrators
+other than employers, e.g. employment agencies. Because every administrator, regardless of the way
+data collection, must comply with the provisions on the protection of personal data.
+
+What should the employer pay attention to when deciding to search for employees for
+the medium of websites?
+Depending on whether the task of the entity dealing with the publication of job advertisements is only
+failure to provide tools for their publication or processing of candidates' data, the employer
+should consider whether to conclude a contract for entrusting the processing of personal data with such an entity.
+The entrustment agreement should be concluded if the entity dealing with the publication of job advertisements will
+processed candidates' data only on behalf of and for the benefit of the employer. It should specify, inter alia, character
+and purpose of processing, subject and duration of processing, type of personal data and categories of persons
+(in this case, data of job applicants) to whom the data pertain, as well as the obligations and rights of the administration
+Torah. It should be reminded that the employer may only use the services of processors,
+which provide sufficient guarantees for the implementation of appropriate technical and organizational measures
+so that the processing meets legal requirements and protects the rights of data subjects, i.e. persons
+zicals (job candidates). Therefore, before entrusting data, the employer must assess whether the level of
+the security of the personal data used by the processor is adequate.
+
+13
+
+Page 14
+
+2.5
+
+Is it possible to search for employees under the so-called recruiting "the blind",
+"Hidden"?
+
+Conducting recruitment processes in which the employer commissioning the recruitment company to conduct
+no recruitment procedure, reserves anonymity, is an increasingly common phenomenon on
+labor market. The motives of employers who decide to conduct them are different - from the will to keep them secret
+recruitment in front of the employee they intend to lay off (most often when he is employed on an independent basis)
+position, e.g. chief accountant), the desire to gather a database of candidates in some way "in reserve".
+To carry out "hidden" recruitment, internet portals are usually used, which indirectly
+they participate in recruitment by providing the tool used to publish advertisements. This type of recruitment,
+cannot be considered compliant with the provisions on the protection of personal data, because the job applicant does not
+has knowledge of which entity collects his personal data and towards which entity it can exercise its own
+rights. We cannot talk about the correct fulfillment of the information obligation also in a situation where
+when the information clause is sent by a potential employer in response to the received one
+the application, because the obligation to inform, inter alia, about the identity of the employer should be pursued
+by him at the stage of collecting personal data, and not at the stage of their recording. Data exporter
+personal information should be aware of who they are making available to. This is of particular importance
+in connection with situations where job advertisements are a way of phishing personal data by
+dishonest entities for their own purposes not related to hiring employees.
+
+2.6
+
+Employment agencies
+
+A solution enabling the employer to maintain anonymity at the initial stage of recruitment may
+may be commissioned by other entities, e.g. employment agencies, whose activities
+is legally obliged to process the personal data held in accordance with the
+writing on the protection of personal data.
+
+What will be the role of an employment agency in the processing of data of job applicants? IWhat are the obligations of the future employer and what agency?
+When an employer commissions the recruitment of an employment agency, candidates may submit their applications to the agency,
+who in such a situation will act as the administrator of their data. It will process personal data
+candidates on the basis of their consent expressed in the application in order to carry out the first stage of recrutation - obtaining a CV and selecting employees. In this situation, the information obligation during the acquisition
+data validation should be the responsibility of the agency. Information obligation on the part of the employer, which previously did not
+revealed his identity arises at the time when the data of the candidates selected by the agency are to be
+handed over to him. Then the selected candidates should be informed before the data are transferred
+by the agency about the data of the potential employer and consent to the transfer of their applications. Workthe donor receives personal data only from those candidates who give their consent.
+14
+
+Page 15
+
+3. RECRUITMENT PROCESS
+
+03
+.
+
+In the course of the recruitment, the employer may usually wish to meet the candidate in person to check him or her
+experience and skills and make sure that he is the right person for the position for which he is applying (e.g.
+during an interview or a knowledge and skills test). It also happens during this process
+collecting personal data.
+
+3.1
+
+What data the employer may collect during the interview
+job interview?
+
+During the interview, the employer may ask you a number of specific questions relating to you
+to the information that the candidate for employee has included in his CV. However, he must remember that they should
+only refer to issues related to the position for which he or she is applying. Asking should be avoided
+questions that a candidate for employment may embarrass or violate their right to privacy or good
+personal (e.g. regarding religion, sexual orientation, political beliefs, private life, family
+legacy or planned offspring). In some situations, however, provided it results directly from
+of the law, the employer may be entitled to ask indiscreet questions (e.g. asking an applicant
+applying for a teaching position in a public school or having been punished for an offense committed intentionally).
+
+"Personal Data" means any information that is identified or identifiable
+a natural person (" data subject "); an identifiable natural person is a person
+which can be directly or indirectly identified, in particular on the basis of the identifier
+such as: name and surname, identification number, location data, online identifier or
+one or several specific factors determining the physical, physiological, genetic, mental,
+the economic, cultural or social identity of a natural person.
+
+15
+
+Page 16
+
+3.2
+
+Is it possible to contact the candidate's previous employer in order to
+get information about it?
+
+It is unacceptable for a potential employer to obtain information about a candidate for an employee
+from his previous employer, if he does not have the applicant's consent to the above. You should also remember
+that the submission of the so-called The references do not entitle the employer to contact them
+issuing party in order to obtain additional information about the candidate. Remember that sharing
+the employer of personal data takes the form of a declaration of the data subject. Potential
+the employer cannot therefore ask the previous employer for information which tasks
+has licked the candidate with this entity and what opinion he has about the candidate for the job. During the recruitment process
+It should be the applicant himself who should be the source of information about the course of work.
+
+3.3
+3.2
+
+Can a potential employer apply to the university with a request
+for confirmation whether the candidate has obtained a diploma in it?
+
+No. Confirming the truthfulness of the university diploma as well as other data contained in
+documents submitted by the candidate in the course of recruitment, by sending inquiries to the entities
+those that issued these documents is inadmissible. As a rule, the Polish legislator does not provide for
+the rights of the employer to apply to other entities for confirmation or
+checking the authenticity of documents and data contained in them submitted by candidates in progress
+recruitment.
+Such an action is also not supported by the premise specified in Art. 6 sec. 1 lit. f GDPR. It should be remembered
+that pursuant to Art. 22 1 § 3 of the Labor Code, the disclosure of personal data to the employer takes place in the form of
+statements of the data subject, therefore it should be considered that the practice of additional verification
+information obtained from the candidate would violate the rights and freedoms of the person. The Polish legislator decided to
+provided the form in which the employer should obtain information about a candidate for a job.
+It should be pointed out that the practice of obtaining consents from the candidate for verifying the truthfulness
+the statements and data contained in the documents are also not supported by the provisions of the GDPR.
+It should be emphasized that one of the conditions for the effectiveness of consent is its freedom, which means that
+the data subject should not bear any negative consequences if he or she refuses to
+destruction. Candidate's refusal to consent to contact with the university by the employer (even for reasons
+subjective, e.g. a conflict with the university), may cause a potential employer to reject his
+datura.
+If the employer has suspicions that the submitted document has been forged, he should submit a notification
+property about the possibility of committing the offense specified in art. 270 § 1 of the Criminal Code.
+
+16
+
+Page 17
+
+3.4
+.3
+
+How long can the data of job applicants be processed?
+
+The period of data storage of the job applicant should be adapted to the rules of data processing
+and predetermined by the administrator. As a rule, the employer should permanently delete personal data
+of the candidate (e.g. by destroying or sending back) with whom he has decided not to enter into a contract
+employment, immediately after completing the recruitment process, i.e. signing an employment contract with the newly employed person
+an employee, unless other conditions authorizing the administrator to process them have met. Horsethe specific purposes for processing personal data should be clear, legitimate and timely
+collecting them. Extending the storage period of data contained in the application should therefore be an exception
+from the rule of their immediate removal and should be particularly justified.
+
+3.5
+.4
+
+Can the employer process the data of job applicants after the end of
+recruitment in order to protect against possible claims
+calls?
+
+It is unacceptable to process data only to protect against possible future and
+uncertain claim of the person they concern. Otherwise there may be a question of how long
+personal data should be processed if that person decides not to bring an action against
+employers. No obligation relationship arises between the candidate during the recruitment process
+work, and the employer. There is no mutual settlements or the possibility of accusing the other party
+non-performance of the contract or its improper performance. So there is no basis for considering that the employer
+is entitled to process data due to the need to establish or not to establish the existence of a claim.
+The employer's action would be to process the applicant's data "just in case".
+
+3.6
+.5
+
+Does the possibility of making a claim for discrimination justify?
+longer data storage?
+
+In the case of claims resulting from discrimination against a job applicant, it is the job applicant's responsibility to
+bundles of facts from which the presumption of unequal treatment results, and then
+the donor is shifted with the burden of proving that he did not treat the candidate worse than others or that,
+treating him differently from others, he was guided by objective and justified reasons. Employer
+he may, for example, prove to the court why he hired another person for the position for which he applied
+candidate. In the recruitment process, the employer undertakes activities aimed at employing an employee.
+
+17
+
+Page 18
+
+It is common practice to invite job applicants to an interview. It's mostly in hers
+As a result, you may feel that you are being discriminated against.
+At the same time, it should be remembered that the candidate's personal belief that he or she is being discriminated against is not
+tantamount to making the occurrence of discrimination probable.
+Therefore, a situation may arise in which the candidate, according to his CV, has extensive experience,
+compared to other candidates, he is highly qualified, but he does not receive a job offer,
+due to the fact that the interview did not go well (e.g. he was rude or did not know the answer
+to substantive questions asked by the recruiter), as a result of which the employer does not employ such candydata. The candidate, on the other hand, believes that he did not get the job due to gender discrimination. Behindboth in this and in other cases, the storage of personal data of such a job applicant after
+completion of recruitment cannot be considered necessary for the employer.
+The essence of a claim for discrimination based on some feature or belief is substantiation,
+that it was for this reason that the candidate was treated in a worse way than the rest of the candidates, while
+and only then the employer has to prove that this feature did not influence his performance
+negative assessment, for which it is not necessary to process the data contained in the curriculum vitae of the candidate
+work.
+
+3.7
+.6
+
+How should a civil service employer behave when
+he receives a CV (or other recruitment documents), although it is not
+recruitment carried out?
+
+With art. 28 sec. 1 of the Act of November 21, 2008 on the Civil Service (Journal of Laws of 2018, item 1559, i.e.
+the obligation of the director general of the office to disseminate information about vacancies
+by placing announcements about the recruitment in a place generally accessible at the seat of the office, in the Bulletin
+Public Information Office, and in the Public Information Bulletin of the Chancellery of the Prime Minister.
+In a situation where the office receives documents of a potential candidate for work, and the office is not conducted
+recruitment for a vacant position, the CEO is not allowed to hire such a person. Either it must
+promptly remove the candidate's data from its resources or contact the candidate
+date to obtain the candidate's consent to the processing of his personal data contained therein
+in such documentation for the purposes of future recruitment for vacancies at the office.
+
+3.8
+.6
+
+What principles should an employer from the cybersecurity service sector follow
+Wilna by publishing information related to the recruitment process?
+
+There are legal provisions that specifically regulate issues related to recruitment, e.g.
+in the civil service. And yes, art. 31 of the Civil Service Act provides that the Director General of Office immediately
+18
+
+Page 19
+
+after the recruitment, it disseminates information about the recruitment result by placing it in the place
+widely available at the seat of the office, in the Office's Bulletin and in the Office's Bulletin.
+The provisions of the act do not specify the period for which such information is to be available to the public. In such a case
+in this case, the personal data controller should follow the principle of limitation of storage (retention
+cji) personal data specified in art. 5 sec. 1 lit. e GDPR. According to this principle, personal data must be there
+kept for no longer than is necessary for the purposes for which the data are processed.
+The purpose of publishing the data of the selected candidate is the implementation of the principle of openness, which allows for
+social control of the correctness of the recruitment procedure. Thus, the time of publication of such data
+should be sufficient to enable such an inspection to be carried out in the near future
+on the choice made, i.e. at the time when candidates or third parties may be interested in the data
+recruitment and will want to exercise the right to such information as they have under Art. 31 of this act.
+It seems that the optimal period of time during which such information may be disclosed pursuant to Art.
+31 of the Act is a period of three months from the date of their publication. For such a period of time may indicate Art.
+33 of the Act, which constitutes an exception to the principle of the obligation to conduct recruitment 7 . For oneit must be remembered early on that the provision of Art. 29 of the Civil Service Act considers the recruitment results as information
+public, and therefore any person interested in the result of the recruitment may submit an application for
+information in a situation when they are removed from the Office's Bulletin, the Law Firm's Bulletin or they cease to be
+be available at the seat of the office to which the recruitment was carried out.
+
+3.9
+
+Is it possible to create the so-called "Black lists" of job applicants
+no no?
+
+No. The creation of the so-called "Blacklists" of job applicants.
+Moreover, there is no legal basis for the exchange of information between employers about a candidate
+tachs for work that they do not want to hire. Moreover, it should be remembered that the creation of data sets of the nature of
+negative theory can lead to discrimination and unfavorable decisions being made
+based on often unreliable, unjustified information.
+
+3.10
+.8
+
+It does flow to the employer's resume of a potential job applicant, however
+he is not recruiting. Whether to save the transferred data in it for
+future recruitment needs?
+
+7 If,
+
+within 3 months from the date of commencing the employment relationship with a person selected through recruitment, there is a need to repeat the employment
+fill the same position, the Director General of Office may recruit another person from among
+candidates referred to in art. 29a paragraph. 1
+
+19
+
+Page 20
+
+There are situations where jobseekers on their own initiative, regardless of whether or not they
+potential employer conducts the recruitment process or not, they send their applications to various entities.
+After receiving such a candidacy, the employer should consider whether he wants to start recruiting or not
+is interested in hiring new employees. In the event that he decides that he is interested in
+in the employment of a new person, should immediately fulfill the obligation to inform
+and start taking actions aimed at concluding a contract (e.g. carrying out a
+qualification speech, gathering the necessary documentation). However, if the employer determines that it is not
+interested in expanding his staff, should immediately delete the data concerning the candidate from
+your resources.
+
+3.11
+9
+
+Can a potential employer obtain candidate's data on the basis of
+social decks?
+
+As a rule, it is unacceptable for employers and recruitment agencies to collect information about
+placed by candidates for work on themselves in social media and other generally
+available sources. It is true that the development of the information society allows for "building" by potential
+potential candidates to work their image on the web, also in the eyes of the future employer, through
+posting various information about yourself on the Internet, but this does not mean that this information can stay
+used in the recruitment process. Also, be aware that such an action can potentially have
+negative impact on the candidate's assessment of the job and lead to profiling it on the basis of the available ones
+on the data internet.
+
+3.12
+
+Can a potential employer verify the candidate or
+communicate with him via industry social portals
+for example, LinkedIn?
+
+As we live in the age of the information society, future employers more and more often use the
+the possibility of verifying candidates for work or communicating with them, using dedicated websites
+important for such purposes. Such portals, enabling job candidates or employers to contact each other,
+allow you to find a job or an employee effectively. Users of such portals (jobseekers) most
+more often, before they start using the services offered by portals, they must read the regulations, policies,
+privacy policy and accept them.
+
+If the possibility of using such a portal will involve the obligation to provide data, maybe so
+be, because to set up an account and that the data from this account can be made available to potential employers,
+
+twenty
+
+Page 21
+
+the portal must have a legal basis for this. A recipe that allows for obtaining, collecting,
+the provision of data of users (candidates) for work will be the consent of the data subject 8 or
+also / or the need to perform the contract (possibly taking action at the request of the data subject,
+before concluding the contract) 9 . Another issue will be the possibility of contacting (processing data
+therefore) by the employer with the candidate in a different form, e.g. by e-mail (outside the portal where
+rhyme was contacted).
+
+8 Art.
+
+9
+
+6 sec. 1 lit. a GDPR
+
+Art. 6 sec. 1 letter b of the GDPR
+
+21
+
+Page 22
+
+4. PERIOD OF EMPLOYMENT
+
+04
+.
+
+As part of the employment relationship, there is a constant need to exchange information, including information about the employee. Her necessity
+This may result from the employer's obligations under the law or the nature of the performance
+by the working employee or due to the interest of the employer or the employee himself. Please note
+
+that the protection of the employee's personal data is not absolute and does not always depend on his consent. At the same time
+whether or not this processing is lawful should be assessed on a case-by-case basis.
+
+4.1
+
+Specific issues related to data processing during the employment period
+not.
+
+Along with the establishment of an employment relationship, certain rights and obligations of the employer and employee arise, which
+implementation obviously involves the need to process employee data.
+Pursuant to Art. 22 1 § 2 and 4 of the Labor Code, the employer has the right to demand from the employee he has chosen
+employ, apply, regardless of personal data that could be obtained from him in the course of recruitment, also:
+• his / her other personal data, as well as the names and surnames and dates of birth of his children, if any
+such data is necessary due to the use of special rights by
+as seen in labor law;
+• his PESEL number,
+• other personal data than obtained in the recruitment process and indicated above, if required
+their application results from separate regulations.
+
+22
+
+Page 23
+
+4.1.1
+
+Conclusion of an employment contract and employee's personal files
+
+The establishment of an employment relationship generates a number of obligations on the part of the employer related to documenting
+the course of the employee's work, including in particular the keeping of personal files 10 .
+
+Can the employer make a photocopy of the employee's identity document?
+Usually, there is no legitimate need to make a copy of this type of document. Furthermore
+having it will lead to the collection of redundant data unrelated to the one performed by
+employee's work.
+
+Can the employer keep information related to the personal life of employees in their files?
+personal?
+It will not always be the case that the employee's personal file will contain only information related to
+related to his employment relationship. Typically, an employee will be able to exercise certain powers
+had to provide the employer with information about his personal life. An example may be the
+related to the fulfillment of his civil and public obligations, etc. (marriage, death of a relative, donation
+no blood, summons, etc.).
+
+If an employee is hired, does the employer have to fulfill the obligation to him again?
+informative?
+Since the data of an already employed employee will be processed by the employer for a purpose other than the
+date and the group of recipients of this data will change, the employee should obtain information in this regard.
+This goal can be achieved by including the above information as part of the information clause to be communicated
+candidates in the course of recruitment (by supplementing it with information on the purpose of data processing
+
+and indication of data recipients in the event of employment of a candidate) or by supplementing this information
+after hiring an employee.
+
+Pursuant to Art. 94 point 9a of the Labor Code, the employer is obliged to keep documentation in matters related to
+work relationship and employees' personal files, and the scope of keeping this documentation by employers and the manner of
+Acting of personal files is regulated by the provisions of the Regulation of the Minister of Labor and Social Policy of May 28, 1996 on the scope
+keeping documentation by employers in matters related to the employment relationship and the manner of keeping personal files
+of the employee (i.e. Journal of Laws of 2017, item 894).
+
+10
+
+23
+
+Page 24
+
+4.1.2
+
+Disclosure and Access to Personal Data in the Employment Context
+
+The employee's data is confidential and may not be disclosed without his consent or any other legal basis.
+
+What information about an employee can be included in the employee attendance list?
+The law does not specify the method of confirming an employee's presence at work. A common
+Saturday is to sign the attendance list. In many situations on these lists, available to everyone
+of employees, it was possible to find information that the employee is sick or is on vacation
+"on demand". This practice is inappropriate and information such as on sick leave or leave "on
+request ", so about special types of absences should be included in the records of working time to which
+In addition to the employee to whom the card relates, access may also be granted to the persons responsible for
+HR matters and the person representing the employer (direct superior, people managing the company
+work). Summing up, the absence symbol should not be included in the attendance list. An indication is enough
+whether the employee is present or not. Otherwise it may violate the rules of minimization and
+confidentiality of personal data. Working time is one of the key elements of work for both employees and
+nika and employers. How the issue of confirming the presence at work by an employee will be
+valid should be specified in the regulations or other internal document, regardless of whether it will be an attendance list
+or the contactless card system - this is an internal matter of the employer himself - it is important to be with these
+activities do not violate the rights and freedoms of their employees.
+
+Can the employer put photos of employees on ID cards?
+Due to the fact that the employee's image is not included in the data indicated in the Labor Code, in order to
+the donor could obtain them and put them on, for example, an ID badge, he must have the consent of the employee. Belongs
+however, note that consent must be given voluntarily, i.e. obtaining consent by the employer
+it will be possible if the employee has the opportunity to refuse to grant it and do not meet him
+therefore no negative consequences. It is worth adding that consent may be revoked at any time
+Aug.
+However, there are exceptional situations when the image of the employee is closely related to the performance by
+the profession or nature of work as well as showing the image of an employee are explicitly provided for in the regulations
+rights. As an example, we can give security guards, for whom - for security reasons,
+stwa - it should be possible to identify them. Then the employer is not obliged to obtain
+consent for this very purpose.
+
+Example:
+Article 9a of the Act of August 22, 1997 on the protection of persons and property (i.e. Journal of Laws of 2017, item 2213)
+provides that the identity card of a qualified physical security worker or a qualified employee
+technical security includes, among others his current photo.
+24
+
+Page 25
+
+Can the employer put employees' personal data on their website as theirs?
+names and surnames, positions, telephone numbers or e-mail addresses?
+Information about an employee, such as his name and surname, or just a business e-mail address, are closely related
+related to the employee's professional life and the performance of his / her duties. These data
+can be used (e.g. shared) by the employer even without the consent of the employee they are
+concern. The employer must not be prevented from revealing the names of the employees who are occupied
+specific positions within the institution and in contact with external entities - counterhentami, clients. The opposite position would paralyze or severely limit the
+the employer's ability to act, without any reasonable justification to protect the interests and rights of the
+nika. For this reason, it should also be considered admissible to put the first and last names of employees on
+doors at workplaces, on personal stamps, letters drawn up in connection with the work and prepublishing in information brochures about institutions and enterprises. Such issues should be regulated
+stay in the work regulations, and the employee should be aware of this before entering into an employment relationship.
+Can the employer put an image on his website along with his contact details?
+worker's?
+No. Publication of the employee's image on the website will require its voluntary acquisition
+consent.
+Can the employer post photos of employees on the Intranet?
+The situation of placing photos of an employee on the Intranet is a special situation, because access to this inof the internal system has a strictly defined circle of people, i.e. employees who know each other and with attention
+for the purpose of this type of activities of the employer, which is to improve the management process and
+internal communication in the company. If the employer is a private sector entity, you can
+determine whether such action will fall within the limits of its justified purpose, in accordance with Art.
+6 sec. 1 lit. f GDPR. It should be remembered that in some situations it may even be necessary to enable
+visual identification of an employee resulting, for example, from the scope of his duties, the nature of
+job or the employer's needs related to a specific job. So far as the placement
+photos on the Intranet serve only to improve and streamline company management, and they do not have access to them
+outsiders, it can be accepted as acceptable.
+If, however, in the opinion of the employee, the above-mentioned practice is against his / her good, he may take advantage of the
+Art. 21 sec. 1 of the GDPR regulating the right to object for reasons related to a particular situation
+such a person.
+
+Whether, and if so, to what extent the employer may use the work e-mail address after the former
+what?
+Due to the dynamic development of new technologies, one of the basic methods of communication
+in relations between companies and institutions there is electronic mail. Broadcasting is common practice
+employees of e-mail addresses consisting of the first and last name, the first letter of the first name and surname
+or in some cases from a pseudonym. Both such an e-mail address, as well as those without a name and
+surnames, but linked to a specific person, is considered employment-related personal data. Proerror occurs in the event of termination of employment. If the e-mail address of the former employee is personal data
+b, then such address should be removed upon termination of employment and prior to removal
+25
+
+Page 26
+
+accounts, all data related to the work performed should be provided to the employer. Employer
+may oblige the employee to contact the people with whom the employee remained in service
+relations to inform them of the removal of the e-mail address. However, after the end of cooperation
+the employer can configure the mail server so that the correspondence is redirected to another address,
+and that the sender receives a reply message stating that there is no such user.
+
+4.1.3
+
+Data processing for the purposes of granting benefits from
+of the Social Benefit Fund (ZFŚS)
+
+Despite the fact that the functioning of the Company Social Benefit Fund (ZFŚS) is determined by regulations
+law 11 , and the terms and conditions of using the services and benefits financed from it as well as the principles of allocation
+The funds of the Company Social Benefits Fund are specified by the employer in the regulations, while the issue of collecting remains unregulated
+data that are to prove the material situation of the employee entitling him to take advantage of the financial
+benefits from the Fund.
+
+Whether and what data of an employee can be obtained to verify whether he or she has the right to obtain
+benefits from the Fund?
+The law makes the granting of concessionary services and benefits and the amount of subsidies from the Fund dependent on those specified
+criteria, i.e. the life, family and material situation of the entitled person. Granting benefits, as well as them
+the amount depends on the fulfillment of certain criteria by the person applying for this benefit
+social. The criterion concerning the employee's family and financial situation means that when determining the amount
+Benefit bone is important is the life and financial situation of all members of his family with whom
+runs a common household. Therefore, if the granting of benefits depends on
+welfare, this means that the situation of an employee or other person entitled to use the Fund
+requires that it be specified each time, i.e. the processing of personal data of the employee and members of his work
+days. The processing of these data may not, however, lead to their collection in a wider scope than
+it is necessary to achieve the purpose for which the data is obtained, because the adequacy of the data in relation to
+for the purpose of their processing should be understood as a balance between the person's right to
+renew their data and the interest of the data controller (employer).
+
+Is it possible to require an employee to submit an annual tax return (PIT) in order to prove the
+income for the needs of the Company Social Benefits Fund?
+The employer's right to request relevant information and to submit relevant documents
+of reasons justifying the granting of benefits from the Fund should therefore be justified in the rethe gulamin referred to above, which should specify the terms and conditions of using the services and
+financed from the Fund and the procedure for examining applications for their granting. However, you should have on
+respect that the akazane is irrelevant data collection and data with greater than necessary
+
+11 Issues
+
+related to the functioning of the ZFSŚ were regulated in the Act of March 4, 1994 on the company benefits fund
+
+social security (Journal of Laws of 2017, item 2191, as amended).
+
+26
+
+Page 27
+
+level of detail, as well as data collected "for the future". Therefore, the need to verify the situation
+material claim of a person applying for funds from the Company Social Benefits Fund may be
+dies in a different way than obtaining by the employer, e.g. a copy of the tax return (PIT) of a person who is
+family member of the employee. Presentation of such a document will only be available for inspection by the employer
+fully sufficient for such verification. It is also worth considering adopting solutions
+consisting in respecting declarations on the amount of income per one member of the
+an indication of how many people and at what age make up the employee's family. You should also indicate
+that the form of the declaration indicates that its submission is voluntary. An employee who will want to use
+he will be obliged to fill in the entitlements he / she is entitled to, e.g. a holiday subsidy
+statement. In a situation where he does not want to submit an appropriate declaration, the employer will not
+on the other hand, it had grounds for paying the benefit in question because it was the granting of concessionary services and benefits
+and the amount of subsidies from the Fund depends on the criteria specified in the Act.
+
+For how long can the employee's data made available for the purpose of considering his application be processed
+by ZFSŚ?
+Personal data should be kept by the employer for no longer than is necessary
+to grant discounted services and benefits as well as subsidies from the Fund and to determine their amount, and by
+the period of asserting rights or claims against them. The employer should also systematically, e.g.
+annually, reviewing personal data to determine which personal data are necessary for their further processing
+storage and delete the data whose further storage is unnecessary. For example, if you
+As part of the Company Social Benefits Fund, the employer supports the employee by co-financing holidays, the so-called vacations in the countryside,
+it should delete data from previous years. The employer has no basis for collecting personal data
+"For the future" and data unnecessary to pay the benefit due, bearing in mind the principle of
+data dissemination. Therefore, the employee's declaration on the amount of income per one
+of a family member with an indication of how many people and at what age makes up the employee's family
+be fully sufficient and in line with the principles of purpose limitation, data minimization, transparency and accountability.
+These data may be processed by the employer to the extent necessary until the necessary settlements are made and
+reporting (in the case of e.g. public entities).
+
+4.2
+
+Sharing employee data with external entities.
+
+During the employment relationship, the employer is often forced to disclose employees' data
+to other entities in order to exercise their rights or in connection with their offering to the benefit
+the employer and his employees certain services. In any such situation, the employer must have a basis
+legal, both to provide employee data and request them from another entity
+
+27
+
+Page 28
+
+4.2.1
+
+Processing personal data of employees as part of a legal relationship
+donors with a trade union organization.
+
+Issues related to the rights of trade unions and their mutual relations with the employer,
+which are obviously related to the processing of employee data, are specified in the provisions of law 12 . Youit is possible, however, that they do not exhaustively regulate the method of sharing and the scope of the data they provide
+entities can exchange with each other.
+
+Does the employer have the right to require the trade union organization to present a full list of
+under her protection when she has no intention of firing them?
+The provisions of the labor law provide for the cooperation of the employer with the trade union organization in an individual
+dual matters from the employment relationship. The employer is obliged to cooperate in such matters
+a trade union organization representing the employee by virtue of his membership in a trade union
+or expressing consent to defend the rights of an unaffiliated employee in accordance with the act on trade unions
+professional. However, these regulations cannot be the basis for an employer sourcing from a union
+professional, all personal data of employees benefiting from the protection of this union. They do
+because they relate to the protection of the employment relationship of an individual employee with respect to whom the employer
+for example, he wants to terminate an employment contract. This means that obtaining information about trade union membership
+in the course of consultations with trade unions is justified in the event of an intention to dissolve
+an employment contract with a specific employee. However, there are no grounds for
+a donor from a trade union of personal data in relation to all employees
+protection of a given trade union, in a situation where the employer has no intention of dismissing them
+from work.
+
+4.2.2
+
+Processing of employee data as part of the implementation of tasks related to
+end of occupational medicine
+
+The Labor Code obliges the employer to refer employees to initial, periodic and control examinations
+medical examinations (collectively referred to as preventive examinations) and to store the decisions issued on their basis
+pond. In turn, the question of how to refer an employee to these tests is regulated by the provisions of the Act on
+labor medicine 13 , which stipulate that initial, periodic and control tests of employees as well as other benefits
+health services are performed on the basis of a written agreement concluded by the entity obliged to do so
+
+12 Issues
+
+related to the functioning of trade unions were regulated in the Act of May 23, 1991 on trade unions
+professional (i.e. Journal of Laws of 2015, item 1881).
+13 Act
+
+of 27 June 1997 on the occupational medicine service (i.e. Journal of Laws of 2018, item 1155).
+
+28
+
+Page 29
+
+providing (the employer) with the basic unit of the occupational medicine service (entities performing
+curative in order to provide preventive health care for the employed).
+
+When sending employees for preventive examinations, does the employer have to conclude with a medical service unit
+Tin work entrustment agreement?
+No. The employer and the basic occupational health service unit concluding the agreement referred to above,
+operate independently of each other (each of them independently sets the purposes and means of personal data processing
+out). Thus, they are like separate data controllers.
+
+Whether, and if so, to what extent the employer may process employee data related to the
+preventive examinations carried out against them?
+
+After the preventive examination, the doctor who conducts the preventive examination makes the
+in the medical records of the employee's description of the examination and the entry of the content of the decision, and then issues a judgment
+medical examination of the examined person and the employer. For storing documentation of preventive examinations
+the generally applicable provisions on medical documentation shall apply accordingly. Please note with
+the fact that the data contained in the medical documentation and the data contained in the documentation (research documentation
+and psychological judgments), are covered by professional and professional secrecy. This data can be shared
+only entities specified in separate regulations and on the terms specified in these regulations.
+
+4.2.3
+
+Processing of employee data as part of organized by
+training employers
+
+Each employer strives to improve the qualifications of their employees by directing them to different employees
+type of training. In addition to training, which the employer is obliged to carry out on the basis of
+legal provisions, e.g. in the field of health and safety, employers can offer employees training to improve them
+professional qualifications (e.g. regulated by the provisions of collective labor agreements, collective
+regulations, work regulations, work statutes, employment contracts). Due to the entity that organizes the training
+zuje, we can distinguish internal training - organized by the employer and by the employer with
+own employees or people hired (from outside) or external - organized by training companies
+training or other institutions. Sending an employee to training is obviously associated with the
+processing his data.
+
+Can OSH trainers process the data of trained employees?
+Training in the field of occupational health and safety may be conducted by an employee of the employer designated, for example, for occupational health and safety
+or an external entity (natural person or company). Occupational health and safety employee or external entity that is a person
+29
+
+Page 30
+
+physical persons should be authorized to process the data of persons participating in the training. In turn
+the external company will have to conclude an agreement with the employer entrusting the processing of personal data
+out.
+
+The employer wants to offer employees training to raise their professional qualifications. How
+does this relate to the processing of their personal data by training entities?
+
+As in the case of OSH training, if the training is conducted by the employer's designated employee
+to conduct such training, it can train employees. If the external training company sends
+the offer of trainings to the employer and the employer's employees will decide to take advantage of these trainings and then
+the company will not provide forms (applications) to be filled in by the
+(by entering their personal data), then such a company will be the administrator of their data
+personal. In this case, the training company may process the employee's personal data on the basis of
+his consent. However, if the employer deals with the distribution of the above-mentioned forms for employees i
+then the completed forms will be collected from them (to be passed on to the training company) then by the company
+training will have to conclude an agreement with this employer entrusting the processing of personal data
+employees.
+
+What obligations will the employer have towards employees if they are ordered to be
+lazy to an external company?
+If the training takes place in such a way that the employee participates in the training for which he enrolled himself
+in an external company, while the employer only finances this employee's participation in the training, it is the company
+external, as a separate administrator, processes the employee's personal data and will have to perform
+in relation to him, information obligations and other tasks specified in the GDPR.
+If the external training company is an entity entrusted by the employer with the processing of data,
+personal data, then it will have to fulfill the obligations incumbent on such an entity and those included
+in the entrustment agreement.
+
+What employee data can the external entity conducting the training process?
+Adequate to the purpose of obtaining, i.e. name, surname, official position, place of work. Such data
+may be necessary, for example, to prepare an attendance list, check it or issue a school certificate
+lazy. Please note that the so-called the employee's business data is also personal data.
+
+thirty
+
+Page 31
+
+Important!
+Ordering employee training will not always involve the processing of their data. If that's him not
+will happen, e.g. an external company will only train employees without obtaining any information about them (e.g. in the form of
+an attendance list, other documents), the employer does not have to conclude a processing agreement with her or otherwise regulate it
+data processing issues.
+
+How can employees' data be transferred to an external entity for the purpose of
+training?
+Employee data can be provided in the form of a list of employees. The handover can also take place
+in forms of an external company, filled in by employees.
+
+Can the employer register an employee for training without his consent and therefore also?
+transfer his personal data without his consent?
+
+Yes, but under certain conditions. If the employer conducts internal training or concludes a contract
+entrust the processing of data with an external company, it is authorized to provide personal data
+for this purpose, also to an external company. Entrusting the processing of personal data
+it does not change the basis for the processing of personal data, resulting only in the fact that it processes them under
+third litter at the employer's request.
+
+4.2.4
+
+Transmission of data in connection with offered by the employer
+additional employee benefits
+
+Increasingly, employers, in order to encourage employees to take up employment in their companies, offer various
+other amenities, such as gym tickets, private health care or additional insurance
+employee. Due to the fact that the use of these facilities is fully voluntary, the employer does not
+may disclose personal data of employees without their knowledge and consent to service providers
+these services. The disclosure of personal data by the employer takes place on the basis of the consent expressed
+by an employee. Processing by entities providing this type of services of personal data of employees
+cows or other people reported to the program is therefore on the basis previously expressed by
+their consent, i.e. pursuant to art. 6 sec. 1 lit. a GDPR. These entities become data controllers of personal
+persons using their services, nevertheless, all claims arising from concluded
+they are owed to employers, not to the beneficiary employees. A consequence of recognition
+of such an entity as the administrator of personal data, it is necessary to determine that such entities are
+31
+
+Page 32
+
+obliged to inform data subjects about the circumstances indicated in art. 13 GDPR, e.g.
+in the declaration of accession. At the same time, the institution of entrusting the processing of data does not apply
+personal data. It should be emphasized that the essence of entrusting the processing of personal data consists, inter alia, on
+the fact that it is not required to obtain the consent of the data subject to entrust his data.
+
+Should an entrustment agreement be concluded with an entity offering benefits?
+The essential issue for deciding whether an entity that processes personal data is their controller
+rem is to determine whether it decides about the purposes and means of processing. It should be noted that the employer
+processes personal data of employees to the extent and for the purpose necessary to perform the duties incumbent on them
+bundles resulting from the employment relationship. On the other hand, service providers process the personal data of employees
+for the purpose and scope of the services they provide. So we are dealing here with two separate sets
+personal data kept by separate data administrators. Therefore, the employer cannot
+demand from medical entities or insurers with whom he has signed a contract for the provision of services
+towards their employees, transfer of personal data, e.g. on their health.
+
+What data of employees can the employer provide?
+The scope of personal data provided by the employer is limited and closely related to the subject matter
+activity of the service provider. It must therefore be indispensable for the performance of the service in question.
+It should be emphasized that if the provided data cover special categories of data referred to in Art. 9
+paragraph 1 GDPR, it is necessary to obtain a separate consent from the employee (Article 9 (2) (a) of the GDPR).
+
+4.2.5
+
+Transmission of information on employees between group companies
+enterprises (e.g. for some project, task or job).
+
+Pursuant to Art. 4 point 19 of the GDPR , the group of companies consists of the controlling company and
+enterprises by uncontrolled. On the other hand, in accordance with recital 37 of the GDPR, the company
+a controlling enterprise is an enterprise which may exert a dominant influence over other enterprises
+due to, for example, the ownership structure, financial participation or regulations governing its business
+the power or the power to order the implementation of the provisions on the protection of personal data. For the group
+enterprises should be considered an enterprise which controls the processing of personal data in the enterprise
+related companies, including those companies.
+The concept of control in the provisions of the GDPR is not the same as ownership control, but it does
+understood as a control defined by the processing of personal data. It is worth noting that not only
+the parent company (as defined in the Commercial Companies Code) may exercise control, but
+any other company within the group of companies may also be responsible for this.
+
+32
+
+Page 33
+
+Is it possible to transfer data of employees within the group of enterprises to which the employee belongs
+giver?
+Administrators that are part of a group of companies or institutions affiliated with the central
+may have a legitimate interest in the transmission of personal data within the corporate group
+for internal administrative purposes, which also applies to the processing of personal data of customers
+employees or employees 14 . This means that personal data is transferred within a group of companies
+employees of individual entities from the group (e.g. in connection with the centralization of specific processes in the
+human resources and payroll) may be based on the legitimate interest of the employer 15 .
+
+What are the administrative purposes for which you can process employee data within a group
+enterprises?
+Administrative purposes should be understood as all activities directly related to the relationship
+work, e.g. transferring an employee to another place, including delegating him to work in another place for some time
+company within the group, activities related to employee development - organization of training, approval of
+salary, or keeping statistics on employment in the group, as well as recruiting
+staffing (a subsidiary established for the purpose of recruitment). The only limitation is the situations in
+which override the legitimate interest of the employer by the interests or
+new rights and freedoms of the data subject, requiring the protection of personal data.
+What will be the duties of the data controller of employees processed within the group of companies
+partnerships?
+Administrators who are part of a group of companies should consider cooperation on administrative
+personal data. The specificity of the joint administration relationship consists primarily in the fact that adThe ministers jointly determine the purposes and methods of processing, and jointly perform the resulting obligations
+from the provisions and undertake processing processes. Thus, between these entities there is no
+believe or share data, because they process data jointly, within the set purposes. Onit should be remembered that:
+
+• Joint controllers shall transparently identify the appropriate ones by mutual agreement
+the scope of their responsibility regarding the fulfillment of obligations under the regulations
+nations, in particular with regard to the exercise by the data subject, are entitled to
+its rights, and their information obligations, unless their obligations and their scope
+determines the law of the Union or the law of a Member State to which those controllers are subject.
+
+• The main content of the agreements is made available to data subjects - the requirement to transpose
+profitable and transparent communication to the data subject of key information
+processing its data.
+
+• The arrangement may designate a contact point for data subjects. Maybe it was
+take care by entrusting this function to the data protection officer. These people can contact you
+
+14 Recital
+
+15 Art.
+
+48 GDPR.
+
+6 sec. 1 lit. f GDPR
+
+33
+
+Page 34
+
+contact the data protection officer in all matters related to the processing of their data
+personal data and exercising their rights. Thus, there are no obstacles for the inspector to give as well
+information on arrangements between joint controllers.
+
+• The data subject may exercise his rights under the GDPR against
+each of the administrators, regardless of the arrangements between the joint administrators.
+
+4.3
+
+Use of internal telecommunications resources
+
+In recent years, advances in technology have led us to replace typewriters with computer keyboards,
+and we are increasingly replacing paper prints with electronic documents. The world in terms of new
+technology is not just rushing, and we have to meet this challenge, whether we like it or not. New
+technologies also allow the employer to use internal telecommunications resources
+to monitor employees. Nevertheless, he must remember that he has no right to infringe
+employee in the workplace (for example, by monitoring phone calls, tracking
+e-mail correspondence or checking parcels addressed to an employee) without serious reason
+related to the nature of his work 16 .
+
+4.3.1
+
+Employee e-mail monitoring
+
+On what basis can the employer monitor the employee's e-mail?
+The employer can monitor his employees' e-mail, but must remember that the
+this does not only apply to business e-mail. It has the right to do so if it is necessary to provide
+work organization enabling full use of working time and proper use of the
+working tools. Such an employer's right is provided for in Art. 22 3 of the Code
+work.
+Can the employer control the employee's work e-mail?
+Yes. The employer may control the activity of his employees while they are at his disposal
+position in the workplace, i.e. it can check that employees do not use prohibited websites or from
+other websites that are not intended to perform their job duties. After all, the employer cares
+that employees use their working time to the fullest extent possible to perform their duties, and
+that they properly use the tools made available to them for this purpose. Importantly, the control must not violate
+confidentiality of correspondence and other personal rights of the employee. Such control is intended to ensure that
+the employee was not too busy with work and used the tools entrusted to him for professional purposes
+out.
+
+16 More information on
+
+video surveillance in the workplace can be found in the Guidelines of the President of the Personal Data Protection Office on use
+
+video monitoring, which are available at: https://uodo.gov.pl
+
+34
+
+Page 35
+
+Can the employer control his employee's private mailbox?
+The employer cannot control the private correspondence of his employees, it is even prohibited.
+Such behavior would violate the constitutional right to privacy. Email monitoring no
+may violate the confidentiality of correspondence and other personal rights of the employee.
+
+What are the obligations of the employer towards employees in terms of monitoring their mail
+electronic?
+• First of all, the employer must determine the purpose, scope and method of using mail monitoring
+electronic in a collective labor agreement or work regulations, or in a notice - if not
+is covered by a collective labor agreement or is not obliged to establish work regulations. About the goal
+the extent and method of application of the monitoring must inform employees.
+• The employer must inform employees about the planned launch of the monitoring,
+two weeks before its launch (except for situations where such monitoring is already used)
+important). In the case of new employees, the fulfillment of this obligation should take place before
+letting them go to work 17 . In addition, in the case of workers who have already been admitted to
+work, the employer should inform them about the intention to carry out the monitoring. Incorrectat the same time, it is necessary to monitor the activity covering the period before
+the employee's intention to conduct it. For evidence purposes, it will be good to document
+do so in writing.
+• Additionally, the employer must remember to perform in relation to the monitored employees
+information obligations set out in the GDPR 18 .
+
+4.3.2
+
+Keeping track of working time using modern technologies
+
+By recording working time, the employer may check whether the employees of his company are at his disposal.
+as long as it results from the provisions of law or the contract that has shaped the relationship with the employee. Owaccurate recording of employees' working time is also the responsibility of the employer. However, it is necessary to
+keep in mind that the Labor Code does not impose a method of confirming presence at work by the employer. WorkTherefore, the donor has a lot of freedom in confirming the employee's presence at work. However, he must
+keep in mind that while recording the working time is a legal requirement, the activities of recording the current
+Employee nobility, whether in the form of an attendance list or using other process control devices
+work does not constitute a record of working time. These activities are only an auxiliary and technical element, a
+
+17
+
+Art. 22 2 § 6 of the Labor Code
+
+18
+
+Art. 13, Art. 15 GDPR
+
+35
+
+Page 36
+
+which the employer can use by way of work regulations or information about the conditions
+employment to shape the process of recording the attendance of your employees at work.
+
+Can the employer choose any type of recording of the attendance of his employees?
+
+Not exactly. It was mentioned above that recording the attendance of employees is only an internal
+organization, internal work attendance procedures, entry and exit procedures, and so on
+similar operations. The law in this element gives a lot of freedom, but also introduces requirements. One of them
+there is a categorical ban on the use of biometric data for timesheets. Progress
+Due to technological reasons, methods based on the use of data are gaining more and more popularity
+biometric employees such as a fingerprint, a photo of the iris, the retina of the eye, the vein system in the hand or
+ear shape biometry. These elements are specific to each person and enable their identification.
+
+Can the employer scan the individual characteristics of the human body (e.g. fingerprints)
+belonging to their employees as part of the attendance check?
+No. The employer cannot scan or download employee biometric data for registration
+hours in and out of the establishment, even with the consent of the worker. Downloading biometric data
+from employees does not serve the purpose of recording working time, but only restricting access to places,
+in relation to which the employer may require special rights due to the secrecy of precompanies or a limited range of people with professional skills that can get on to a certain
+protected area. An accountability employer would not be able to demonstrate why it is applying
+monitoring of biometric data for work attendance purposes. You also need to remember that
+biometric data are data of a special category and may only be processed exhaustively
+situations, among which there is no question of recording the employee's presence at work.
+Important!
+As stated by the Supreme Administrative Court in its judgment of 1 December 2009 (reference number I OSK 249/09):
+•
+
+The imbalance in the employer-employee relationship calls into question the voluntary consent to
+
+collection and processing of personal (biometric) data. For this reason, the legislator limited by the provision of Art. 22
+Of the Labor Code, a catalog of data that the employer may request from the employee. Recognizing the fact of giving consent as a circumstance
+legalizing the collection of other data from an employee than those indicated in art. 22 of the Labor Code would be a workaround for this
+recipe.
+•
+
+The risk of violation of civil liberties and fundamental rights must be proportionate to the purpose it serves.
+
+Since the principle of proportionality is the main criterion when making decisions regarding the processing of bio-data
+metrics, it should be stated that the use of biometric data to control the working time of employees is
+proportionate to the intended purpose of their processing. The employer can monitor the e-mail of his employees
+users, but must remember that this permission applies only to work e-mail. He has this right if it is not
+unnecessary for a work organization that allows full use
+
+36
+
+Page 37
+
+4.3.3
+
+Monitoring using GPS locating devices
+
+In addition to monitoring employee e-mail, employers often monitor their own activities
+employees using GPS locating devices. Companies carrying out commercial activities,
+a public port and, above all, road transport companies in order to be as efficient as possible
+use of resources and cost optimization benefit from the help of new technologies, thanks to which they can
+gain a competitive advantage while developing your market position. Sometimes monitoring
+the location of vehicles is the legal obligation of the employer, an example of which are the provisions of the Act on
+monitoring the carriage of goods by road.
+
+Can the entrepreneur monitor his employees using locating devices (eg GPS)?
+The Labor Code introduces the possibility of using other forms of monitoring than video surveillance or
+e-mail monitoring, if the application of such monitoring serves the purpose of ensuring
+work organization enabling full use of working time and proper use of the
+working tools. As in the case of monitoring e-mail, the work
+the donor is obliged to inform the employee about the use of car monitoring devices (GPS) before
+the employee commences work or two weeks before starting the monitoring. Employer
+is obliged to inform the employee in writing about the purposes, scope and method of monitoring the device
+also to place in a visible place in the car a picture symbol informing about that,
+that the vehicle route and its use will be monitored by a locating device and what
+data will be collected with the help of such a device, where it will be recorded, how long it will be stored and by whom
+will have access to them. The employer must remember that the new legal regulations in the field of monitoring
+they are a help for him, but also a duty. The data it will record must fit the purpose it is
+it is necessary to ensure the efficient organization of work, and the rules for collecting and using data must
+be reliable and transparent, clearly defined and available to the employee.
+
+What employee data can be obtained using GPS devices?
+Often, during monitoring with the use of vehicle locating devices, the employer may
+also obtain data on the driving style of a given driver, where he stops and where he refueled,
+where is eating. There is therefore a risk that the employer can get more from locating monitoring
+more information than he needs. An additional problem arises when the company vehicle was used
+it is also valid for private purposes. In such a situation, the employer is collecting data about the vehicle at the same time
+obtains information about the employee, e.g. where he is currently staying. The employer is not entitled to
+such data, unless there is an exceptional situation, e.g. car theft or
+the need to establish the employee's liability for damage to the vehicle.
+
+37
+
+Page 38
+
+Is it possible to process the employee's data obtained with the use of GPS and concerning his activity in time?
+free?
+The solution is to precisely define that the company car is only used for business purposes.
+Otherwise, the regulations governing the use of a company car must be adjusted or changed to
+private purposes. In such a situation, the employee's consent to the processing of this data should be obtained and
+fulfill the information obligation towards him.
+
+Is the placement of information about goals in the collective labor agreement, work regulations or announcement,
+the scope and method of application of monitoring is sufficient?
+Not exactly, it is important that the purpose of the processing is actually in line with the data we process and use
+we stand. We cannot use the data using the GPS system installed in the user
+the fleet of vehicles we use to protect property, while the employer in the work regulations
+defined a different goal, e.g. organization of working time by setting the shortest and fastest routes of needs to carry out the transport. The employer must remember that the purpose entered in the documentation must
+be identical with the purpose of using the device and the data thus obtained. It doesn't change that
+the fact that the goals, scope and method of application of this form of monitoring must also be established in a
+on a collective labor day or in the work regulations or in a notice, if the employer is not covered by the
+a collective labor office or is not obliged to establish work regulations.
+
+38
+
+Page 39
+
+05
+.
+
+5. OTHER THAN SPECIFIED IN THE WORK CODE
+EMPLOYMENT FORMS AND WORK
+TEMPORARY
+As non-employment forms of employment, we distinguish, among others:
+• a contract for specific work (Article 627 of the Civil Code);
+• contract of mandate (Article 734 of the Civil Code);
+• contract for the provision of services (Art. 750 of the Civil Code);
+• self-employment.
+At the same time, the chapter discusses selected issues related to the provision of temporary work.
+
+5.1
+
+Processing of personal data in connection with the performance of tasks
+on the basis of civil law contracts
+
+What data can be collected about a person who performs tasks under a civil law contract?
+Due to the multitude of possible legal forms and the nature of cooperation between the parties, it will be different
+a set of personal data that is necessary for the conclusion and implementation of such contracts. In contrast to the
+forms of employment, the provisions of civil law do not explicitly define the scope of data that can
+be obtained by the employing entity under non-employment forms of employment. Civil law
+it establishes the principle of freedom of contract, which allows any form of the content of contracts, as long as it does not object
+it is the nature and nature of the obligation relationship. In such a situation, the employing entity should
+analyze the scope of data the collection of which is necessary in connection with the performance of the contract and incumbent
+obligations arising from the contract (e.g. payment of remuneration) or legal provisions (e.g. payment of
+social security contributions). He does not have complete freedom here, as he is bound by requirements
+specified by the provisions of the GDPR, and in particular must ensure compliance with the principles of limitation
+purpose and data minimization.
+
+39
+
+Page 40
+
+What data about an entrepreneur can be collected when you intend to cooperate with him?
+If a natural person conducting business activity concludes an agreement with another person conducting business activity
+economic viability, from the legal point of view, it should be recognized that there is no "stronger" side of the relationship between
+binding. Economic activity is conducted for profit and is organized
+and is performed on its own behalf, on its own account, therefore on both sides of the contract
+we are dealing with professional entities. Thus, in line with the principle of freedom of contract, both parties
+contracts are equal and together they should define the scope of the data they need. However, this does not mean that
+completely arbitrary definition of the scope of the data, as this scope must comply with the purpose limitation principle, and
+the principle of data minimization.
+
+How long can data about co-workers performing their tasks be processed on the basis of
+civil law contracts?
+In accordance with the principle of storage limitation, personal data may be stored for a period not
+longer than is necessary for the purposes for which the data are processed.
+When determining the storage period, the entity employing such associates should take note of
+attention:
+▪ duration of the contract,
+▪ the period of possible claims related to the contract (claims limitation period),
+▪ obligations resulting from legal regulations.
+The basis for the processing of personal data in connection with the performance of the service on the basis of a civil contract
+law is the necessity to perform the contract to which the data subject is a party or not
+redundancy to take action at the request of the data subject before concluding the contract. Part of the data
+however, it may be collected due to binding legal obligations (e.g. in connection with the application to
+health insurance 19 ).
+
+Whether you should inform the person you intend to cooperate with about the related circumstances
+with the processing of its data?
+Yes. The employing entity must fulfill the information obligation towards such a person in accordance with the GDPR.
+In particular, he should inform the person from whom he directly collects data (also when
+it is this person who is the initiator submitting the offer) about important issues regarding this processing (data
+data of the administrator, the purpose of processing, storage period, etc.). The information obligation may be
+fulfilled in writing or electronically (e.g. in the content of the contract, in the announcement), as well as the circumstances
+may argue in favor of providing this information orally in a place where
+on average, data is collected from such people. The data controller should be able to demonstrate compliance with this
+
+19 Announcement
+
+of the Minister of Family, Labor and Social Policy of March 29, 2018 on the publication of a uniform text of
+
+the ordinance of the Minister of Labor and Social Policy on specifying forms of applications for social insurance and insurance
+personal health reports, personal monthly reports and personal monthly corrective reports, payer's notifications, settlement declarations
+counting and correcting settlement declarations, reports of data about work in special conditions or of a special nature
+rakterem and other documents, i.e. Of Laws of 2018, item 804 ( http://dziennikustaw.gov.pl/DU/2018/804/1)
+
+40
+
+Page 41
+
+obligation. It should be emphasized that when collecting data directly from the data subject, other
+the formations should be submitted at the time of data collection at the latest. In practice, it should also be very
+be careful to exclude the necessity to fulfill this obligation when the data subject,
+already has information about the processing of its data. Citing the above-mentioned exclusion, for example,
+would be justified when concluding a second contract of the same type and scope.
+
+Whether, and if so, on what terms do persons performing services under civil law contracts have?
+access to data at the disposal of their administrator?
+The question often arises under what legal framework are natural persons performing services under contracts
+civil law, including persons performing tasks under the so-called self-employment, they can obtain
+provide access to personal data at the disposal of the entity employing these persons in these forms
+mach. It should be remembered that the processor and any person acting under the authority of the administrator
+tor or processor having access to personal data, process them only on
+administrator's order, unless other regulations provide for an exception to this. In case of staying by
+an employee with an employer in an employment relationship, he may process personal data administered by the
+the donor on the basis of the granted authorization. In a situation where the administrator also uses civil law
+legal forms of employment (including self-employment), where the people employed in this way are
+the processing of personal data use the means and organizational solutions of the administrator (e.g. system
+subjects, rooms), and in addition, they do so on the administrator's order, the authorization should also be recognized,
+as a condition allowing data processing. The administrator, in line with the principle of accountability, should
+be able to prove the fact of granting the authorization to process data. In such situations, as a rule
+therefore, data processing is not entrusted.
+
+On what basis entrepreneurs performing selected operations on personal data at their request
+administrator have access to them?
+In the case of a typical outsourcing of some personal data processing operations (branches - e.g. HR data,
+and payroll) to other entities that are separated from the administrator's organizational unit, to
+they process in their own systems, possibly transferring the result to the controller
+your actions. Consequently, it should be recognized that such entities do not constitute the broadly understood
+the administrator, which means that they process data on the basis of entrustment. It is determined by the
+the ability to conclude a sub-processing agreement with them. For example, this could include bookkeeping by
+an accounting office, hosting, or recruitment or training activities carried out outside the structure
+employer's turn.
+
+Is it permissible to process data relating to contractors with whom you are not currently dealing?
+cooperates, but such cooperation can be restarted in the future?
+If the administrator has his database of contractors (natural persons), the basis for
+the production of their data for the purposes of future cooperation should be seen in the consent granted. In the event of a constant
+cooperation between entities, one may also indicate the necessity of data processing for purposes
+resulting from the legitimate interests pursued by the administrator. Legitimate Interest
+the controller should be identified in advance and made known to the data subject.
+41
+
+Page 42
+
+5.2
+
+Processing data of temporary employees.
+
+A special feature of the employment of temporary workers is that the temporary employment agency employs
+an employee under a fixed-term employment contract or an employment contract for the duration of the work
+solely for the purpose of delegating it to the user employer who uses and supervises the work 20 .
+
+I am hiring a temporary worker. Who is the data controller of such employee: the agency
+temporary work or a user employer?
+A temporary worker is a person employed by a temporary employment agency. Basically, therefore, the administration
+the temporary employment agency is the controller of personal data of temporary workers. At the same time,
+temporary employment relationship requires the agency to conclude a contract with the user employer
+the processing of data of persons providing temporary work, which would define the scope and purpose of the processing
+by him data. However, the need for the employer-user to perform certain
+stipulated in the Act on the Employment of Temporary Employees, the rights and obligations of the employer (e.g.
+regarding the keeping of records of the temporary employee's working time to the extent and on the terms and conditions
+in relation to his employees) causes that in this respect he will be entitled to the status of adthe minister of personal data of persons providing temporary work with him. The user employer will
+is therefore the administrator of personal data of all employees, including temporary employees
+included, e.g. in the records of working time.
+For this reason, it is the employer-user, as the data controller, who should regulate the issue of access
+to personal data directly with the temporary employee and give him the appropriate authorization to
+processing of personal data, unless, of course, as part of the performance of the duties entrusted to him
+official have access to them.
+
+20 The
+
+legal situation of temporary workers is regulated by the provisions of the Act of July 9, 2003 on the employment of temporary workers
+
+owls (i.e. Journal of Laws of 2018, item 594).
+
+42
+
+Page 43
+
+43
+
+Page 44
+
+Office for Personal Data Protection
+ul. Stawki 2, 00-193 Warsaw
+https://uodo.gov.pl
+
+44
+
+

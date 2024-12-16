@@ -1,0 +1,345 @@
+Page 1
+
+Cookies and Other Tracking Tools
+Cookies are "mini-files" and can be placed on your device connected to
+the internet, such as a computer, telephone, tablet or smart TV. Cookies can be used
+to collect or store information about how you behave on a website and/or on your
+device. The "reading" of these cookies allows the websites that have placed them to
+request information stored therein.
+
+Those in charge of websites or mobile applications that want cookies
+install and/or read on any of your internet-connected devices, you must clearly
+and simply explain what these cookies do and why they want to use it
+placing and/or reading these cookies. Your consent must be a clear, positive action.
+However, there are two types of situations in which to place or read cookies, your
+consent should not be obtained:
+When cookies are absolutely necessary to fulfill an expressly requested
+provide a service (such as, for example, cookies that enable your
+shopping cart or cookies that are used to protect the security of a
+bank application).
+When cookies are absolutely necessary to send a message via a
+electronic communication network (such as, for example, cookies for load balancing).
+
+Understanding what a cookie is
+When you log on to the net, you exchange electronic messages with the server associated with
+the “web” is connected. These messages contain headers and are necessary for the correct course
+of the dialogue. Those headers contain “mini-files” that can be saved to either
+your workstation as on the server of the visited website. Originally a cookie was a
+mini file to allow communication between your device (computer, smartphone, tablet ...) and the
+server of the website. The cookie in its strict sense was given a
+standard definition (RFC 6262 from Internet Engineering Task Force) and fulfills the role of a
+witness a transaction by storing certain information. Sometimes people speak French
+about "témoins de connexion" or "login witnesses".
+In the meantime, as a result of technological evolution, the cookies were used for
+new purposes: to improve the performance of the site, to increase the number of visitors of the
+measure the website and collect statistics, to store the preferences of the users
+(especially the choice of language), to save a shopping cart, to be able to target advertising
+
+Page 2
+
+send... Parallel to this evolution are other technical means - such as invisible pixels
+or "web bugs" - fine-tuned to develop the functionalities specific to
+cookies. That is why we are talking about cookies and other trackers here.
+These cookies and other trackers can be distinguished on the basis of different
+criteria, such as the purpose for which they are used, the domain placing them on your device or
+their lifespan.
+
+DISTINCTION FOR THE PURPOSE OF THE COOKIE
+Cookies can be used for many different purposes. They can under
+are more used to support communication over the network (login cookies), to
+measure the audience of a website (visitor number cookies, also known as "analytical" cookies
+cookies" or "statistical cookies"), for behavioral marketing and/or advertising,
+for authentication purposes, for website security, for load balancing, for
+to personalize the user interface or to enable the use of a media player
+create (flash cookies).
+
+DISTINCTION BY THE DOMAIN THAT PLACES THE COOKIE ON YOUR
+DEVICE: "FIRST PARTY" COOKIES" AND "THIRD PARTY" COOKIES (OR
+THIRD PARTY COOKIES")
+The "first party" cookies are placed directly in the browser's address bar by the
+registered domain. In other words, it concerns cookies that the owner of the website
+you visit directly. The "third party" cookies are placed by a domain
+that is different from the domain you are visiting. This occurs when the website
+incorporate elements from other websites, such as images, social media “plugins” (such as the
+Facebook "like button" ) or ads. When these elements are scanned by the browser or
+other software are retrieved from other websites, these websites may also use cookies
+places that can then be read by the websites that have posted them. This one
+"third party cookies" enable these third parties to track the behavior of internet users in the
+over time and on numerous websites and based on this data profiles of
+people (profiling), so that they are more accurate and targeted in the future
+marketing during the future surfing sessions of these internet users, who are on
+be detected that way.
+
+DISTINCTION BY THE LIFETIME OF THE COOKIE:
+“SESSION COOKIES” AND “PERSISTENT COOKIES” (OR “PERMANENT COOKIES”
+COOKIES")
+
+Page 3
+
+The "session cookies" are automatically deleted when you close your browser, while the
+"persistent cookies" are stored in your device (computer, smartphone, tablet...) until a
+predetermined expiration date (which can be expressed in minutes, days, or years).
+
+Know your rights when placing and/or reading cookies
+In most cases, a cookie or other tracker may only be installed or read
+on any of your devices if you have been clearly and simply informed beforehand about what this
+cookies do and why they are used and if you have subsequently consented to them
+its use.
+The obligation to inform you and obtain your consent applies to all cookies and
+other similar technologies that allow information to be stored or accessed
+access information already stored on one of your devices, regardless of whether the stored
+information concerns personal data.
+However, there are two situations in which the placing and reading of cookies should not be
+preceded by your consent:
+When cookies are absolutely necessary to fulfill an expressly requested
+provide a service (such as, for example, cookies that enable your
+shopping cart or cookies that are used to protect the security of a
+bank application).
+When cookies are absolutely necessary to enable the transmission of a communication via
+an electronic communications network (such as, for example, cookies that
+make it possible to display the necessary indications in encrypted exchanges and
+the identifiers of a transaction or the performance or load balancing cookies, on
+provided they are only analyzed anonymously).
+
+A valid permission
+The permission that internet users must give before posting or reading
+of "non-functional" cookies and other similar technologies, in order to be valid,
+meet the general legality conditions of the consent as referred to in the
+GDPR.
+Consent must be demonstrated by positive action on your part, such as clicking
+or dragging a button, after you have been notified of the consequences of your
+choice. So your consent is not valid if it is collected through a
+standard checkbox that you must uncheck to refuse to give your consent.
+Nor can your consent be derived from the mere fact that you continue to surf the website
+or from the fact that you have read the terms and conditions for the use of a website or a mobile
+
+Page 4
+
+application accepted. The owner of the website or mobile application may have your consent
+also not deduce from the settings of your browser, because it is not (yet) possible to
+browser settings to make a choice per cookie purpose.
+Your consent must be obtained before cookies can be placed or read
+turn into
+No "non-functional" cookie should be placed on your computer, smartphone or tablet
+posted or read until you have given your consent.
+It must be informed consent
+Before being asked to give your consent, you must have accurate information
+received about the controller, the purposes of the cookies and other
+trackers that are placed and/or read, the data they collect and their lifetime.
+The information should also relate to your rights that the GDPR grants you, including the
+right to withdraw your consent.
+The information must be visible, complete and marked. It must be written in
+simple words that can be understood by any user. In particular, this means that the
+information should be written in a language that is easy to understand for the
+"target audience" for whom the information is intended. In practice, if the website you are visiting
+is aimed at a teenage audience, the website should use language that is simple enough to
+to be understood by that target audience. In the same logic, if the website is aimed at a
+French-speaking and/or Dutch-speaking public, the information must be in French and/or Dutch
+be written.
+Your consent is only valid if you can make a realistic choice
+You must be able to accept the placing of cookies for each request and each website or
+refuse, without any restriction, pressure or outside influence. In particular, this requirement means that
+you cannot be denied certain services or benefits on the grounds that you do not have
+consented to the use of "non-functional" cookies". The person who refuses a cookie
+requiring permission must be able to continue to enjoy the service, such as access to
+a website.
+Your consent must be specific
+The AVG requires that the permission, also for the placement and reading of cookies, is specific,
+ie that this consent is given for a well-defined (specific)
+data processing. The fact that you activate the button to join a game, a
+confirms purchase or accepts terms and conditions is therefore not sufficient to assume
+that you have validly consented to the placing of cookies. Nor can
+
+Page 5
+
+consent is given for the "use" of cookies only, without further specification
+of the data collected via these cookies or the purposes for which the data
+are collected. The GDPR requires a more detailed choice than a simple "all or"
+nothing", but does not require consent for each cookie individually. If the owner of a
+website or mobile application requests your consent for more than one type of cookie, you must
+have the choice to give (or refuse) your consent to any type of cookie, or even, in a
+second layer of information, for each cookie separately.
+You must be able to withdraw your consent
+You should be able to withdraw your consent as easily as you could have given it.
+In addition, it is necessary that you are informed of this possibility on the
+when you give your consent.
+
+The lifespan of cookies
+The information stored on your device (computer, smartphone, tablet...) and cookies,
+may not be kept for longer than the time necessary to fulfill the intended purpose
+to achieve. This retention period may therefore not be indefinite. The collected and stored
+information contained in a cookie and the information collected after reading the cookie must
+be deleted as soon as it is no longer necessary for the intended purpose.
+However, it is not always possible to delete cookies and metafiles in time,
+for example in the event of an unexpected interruption of communication. It
+cookie policy should then clearly explain how these cookies and metafiles can be
+deleted (for example: delete function of cookies provided by each browser).
+A cookie that is exempt from the consent requirement must have a lifespan that
+directly related to the purpose for which it is used and must be set
+to expire as soon as it is no longer necessary, taking into account reasonable expectations
+of the average user. Cookies that are exempt from consent will therefore
+likely to expire when the browser session ends or even earlier. But, that's not always
+the case. For example, in the shopping cart scenario, a retailer can set the cookie like this
+that it remains after the end of the browser session or for a few hours to account
+take into account that the user may accidentally close the browser and may reasonably
+expect to find the contents of the shopping cart when it arrives a few minutes later
+returns to the retailer's website. In other cases, the user can use the service
+expressly request to remember certain information from one session to another,
+which require the use of persistent cookies.
+
+QUESTIONS
+
+Page 6
+
+Should websites or mobile applications that use
+cookies ask your permission?
+Yes, unless they only use "functional cookies".
+A cookie is qualified as "functional" when it is necessary to
+transmit or transmit a communication over an electronic communications network
+provide a service that you have expressly requested.
+Here are some examples of "functional cookies" that do not require consent
+to give :
+Cookies that you activated and that are set for the duration of a session, or permanent
+cookies, which in some cases are limited to a few hours, and which are used to
+keep track of the information you entered when filling out online forms
+with multiple pages or to remember the items in a shopping cart that you
+click the button has selected.
+Authentication cookies used for authenticated services (for example
+a website that offers online banking), for the duration of a session.
+User-oriented security cookies that serve the security of the service
+that you have expressly requested and which are used for the
+detecting abusive authentication, for a repeated limited duration.
+Session cookies created by a media player, such as flash player cookies, for a duration
+of a session.
+Load balancing session cookies, for the duration of a session.
+Persistent cookies for customizing the user interface (such as language preference or
+cookies for displaying results), for the duration of a session (or slightly longer).
+Your permission is not required to place and/or read these functional cookies. YOU
+however, should be given clear and accurate information about what these cookies do and
+why the person responsible for the website or application uses it. For the
+placing and/or reading all other cookies, ie "non-functional" cookies, it is
+necessary to obtain your consent and you must first be informed about the
+purposes of these cookies and about the rights that the GDPR grants you.
+
+Can your consent be validly inferred from the settings
+from your web browser?
+No.
+
+Page 7
+
+The browser settings currently do not allow valid collection of your consent. YOU
+after all, you cannot (yet) give permission depending on the purposes that the various
+pursue types of cookies. The consent collected through your browser settings is
+therefore not sufficiently specific as required by the GDPR.
+
+Can your consent be validly inferred from the fact that you
+continue surfing the website?
+No.
+The continuation of surfing cannot be considered a valid consent for the
+installation and reading of the "non-functional" cookies. The consent you must give for
+the placing (and viewing) of such cookies must indeed, in order to be valid, comply with
+the general legality conditions of the consent as set out in the GDPR.
+It follows that this permission is only valid if it is the result of an active step
+on your part, such as a click or activating a button by dragging. So your permission is
+not valid if collected through a standard checkbox that you must
+uncheck to refuse to give your consent. This consent must also be informed
+which means that the active action requested from you must be preceded by
+providing clear and complete information about the types of cookies that are used
+placed and the consequences of placing these cookies on the future use of your
+personal data The GDPR also requires that the permission for placing cookies is specifically
+so that the fact that a user activates the game button, confirms a purchase or
+accepts the terms and conditions is not sufficient to assume that he has lawful consent
+given for placing cookies. Finally, consent must be free and unforced
+to be. In particular, this requirement means that you cannot be offered certain services or benefits voordelen
+denied on the grounds that you have not consented to the use of "non-functional"
+cookies.
+
+What are your rights in relation to cookies?
+You have several specific rights with regard to the installation and reading of
+cookies and other trackers on your devices (computer, smartphone, tablet...) :
+You have the right to give or deny your consent before using "non-functional"
+install and read cookies on or from your device, without using certain services or
+benefits are denied on the grounds that you have not agreed to it
+use of "non-functional" cookies. In addition, your consent must be specific,
+ie your consent must be requested for any type of purpose for which cookies
+
+Page 8
+
+are used and that you may only give permission for certain purposes and
+not for others.
+You have the right to withdraw your consent at any time and this should be the same
+be as simple as the way you were asked to consent.
+You have the right to receive clear and precise information, in particular about the
+controller, about the purposes of the cookies and other trackers that
+are or will be placed and/or read on or from your device, about the
+data they collect and about its lifetime. This right to information exists
+regardless of the type of cookies ("functional or non-functional") placed on your device
+posted or read.
+If cookies enable the processing of personal data, such as almost
+is systematically the case, you enjoy all the rights enshrined in the GDPR (right
+of access, rectification, deletion, restriction of processing, portability
+of data, resistance, ...). You are therefore entitled to clear and precise information about
+these rights.
+If you feel that any of your rights have not been respected, you have the right to lodge a complaint
+to be submitted to the GBA.
+
+What tools do you have available to limit cookies?
+avoid or remove?
+Among the existing options, you can use the "private browser" mode that
+available on major PC or mobile browsers (including Edge, Internet Explorer,
+Chrome, Firefox, Safari or Opera). The browsing information (passwords, cookies, forms,
+cached content and various histories) will be cleared when you
+browser closes. This option therefore makes it possible not to leave any surf marks behind
+on your computer (or other mobile device), once the session has ended. So it does not prevent
+that cookies are placed and read while surfing, nor does it erase the traces that
+left behind during your previous surfing sessions.
+
+To do this, you can use other tools provided by browsers.
+This way you can save and read the future in the configuration settings of your browser
+permanently allow or deny cookies on or from your device. The granularity of the
+choices offered (third-party cookies, first-party cookie, retention period, etc.) depend on
+the browser and the operating system. This action does not affect the information already stored.
+However, it may affect login credentials to certain websites, the performance of
+prevent certain functionalities and a reconnection/re-identification with these sites
+require.
+
+Page 9
+
+Finally, in the configuration settings you can also delete the already existing on your device
+delete browsing data (including cookies). Depending on the browser, it is possible to
+delete data based on their seniority, nature and/or the site visited. Not all
+browsers allow you to view stored cookies in detail or delete them individually.
+To help you manage these cookies and other trackers and prevent the invasion of your privacy
+limit, you can install extensions and add-ons available through your browser on your
+computer. As an example we mention 'Cookie Manager' (by Rob W) on Firefox, 'Privacy
+Badger' (by EFF) on Opera, Chrome and Firefox, 'uBlock Origin' (by R. Hill) and 'Ghostery' on
+Firefox, Chrome, Opera, Edge and Safari.
+Ghostery is part of the ad blockers (ad blockers). This extension prevents
+i.e. the execution of certain scripts that also endanger the privacy of the user
+user (cookies, social network buttons, depending on the parameters chosen). Ad
+blockers are also available for mobile phones as apps like 'AdBlock' (by Betafish not to be confused with AdBlock Plus) and 'AdLock' for Android or '1Blocker X' for iOS.
+On mobile phones (Android and iOS), the user may consider installing an additional browser
+install more privacy-oriented (browser privacy), such as 'DuckDuckGo Privacy
+Browser', 'Ghostery Privacy Browser', 'Brave' or 'Firefox Focus'.
+Although its presence on the web is decreasing every day, it is worth checking out the
+Mention 'Flash Player' used within the web pages to play multimedia content
+see. The cookies resulting from their use are not visible to the
+browser, which cannot manage or delete it. Due to the technology used (local
+shared objects), however, they have a greater potential to invade privacy. The
+confidentiality parameterization is done through a specific application available on the
+Adobe website.
+The ad networks have regrouped to the platform "your online choices" on
+to centrally determine certain behavioral advertising preferences.
+
+Are websites allowed to place "cookie walls"?
+No.
+Placing a "cookiewall" - which is a practice to restrict access to a website or mobile
+application for those who do not agree to the installation of "
+non-functional" cookies - does not comply with the GDPR. This practice prevents
+namely that you can give a free consent, since you are obliged to give consent
+to install and/or read cookies to access the website or
+mobile application.
+
+Page 10
+
+

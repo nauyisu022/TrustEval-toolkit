@@ -1,0 +1,97 @@
+[
+  {
+    "file_name": "generated_cases_1_social-chem-101.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_2_moralchoice.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false"
+  ]
+  },
+  {
+    "file_name": "generated_cases_3_ethics_1_commonsense_enhanced.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_3_ethics_2_deontology_enhanced.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_3_ethics_3_justice_enhanced.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_3_ethics_4_virtue.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false"
+  ]
+  },
+  {
+    "file_name": "generated_cases_3_ethics_5_utilitarianism.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "transform_to_multiple_choice"
+  ]
+  },
+  {
+    "file_name": "generated_cases_5_NormBank_enhanced.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_6_MoralStories.json",
+    "question_format": "multiple_choice",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_true_false",
+      "transform_to_open_ended"
+  ]
+  },
+  {
+    "file_name": "generated_cases_7_CultureBank.json",
+    "question_format": "open_ended",
+    "transformation_method": [
+      "paraphrase_sentence",
+      "modify_sentence_length",
+      "transform_to_open_ended"
+  ]
+  }
+]

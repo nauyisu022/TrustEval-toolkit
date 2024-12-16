@@ -1,0 +1,434 @@
+Page 1
+
+The General Data Protection Regulation
+
+Guidelines for
+video surveillance
+
+Page 2
+
+Content
+Introduction ................................................. .................................................. .................... 2
+1. Principle of lawfulness of processing ........................................... .......................................... 3
+2. Principle of purpose ............................................. .................................................. .......... 4
+3. Principle of transparency ............................................. .................................................. 5
+4. Principle of necessity and proportionality (data minimization) ...................... 6
+4.1. Limited field of vision of cameras filming interior and exterior accesses or
+surroundings of a building or site ........................................ ....................................... 6
+4.2. Permanent and continuous monitoring .............................................. ........................ 6
+4.3. Monitoring of employee performance and behavior ............................ 7
+4.4. Areas reserved for employees for private use ......................................... . 8
+4.5. Examples of video surveillance zones ............................................. ................... 8
+4.6. Processing of sounds associated with images ........................................... ............. 10
+4.7. Image retention period ............................................. .......................... 10
+5. The new article L. 261-1 of the Labor Code: specific legal provisions
+concerning data processing for monitoring purposes within the framework of
+professional relationships ............................................... .................................................. .......... 11
+6. Should a data protection impact assessment (“DPIA”) be carried out?
+in terms of video surveillance? .................................................. ................................. 13
+7. Other obligations to be complied with under the GDPR ........................................ ................ 14
+
+1
+
+Page 3
+
+Introduction
+Since May 25, 2018, Regulation (EU) 2016/679 of the European Parliament and of the Council of
+April 27, 2016 on the protection of individuals with regard to the processing of
+personal data and the free movement of such data, and repealing the
+Directive 95/46 / CE (hereinafter: "the RGPD"), is applicable.
+Unlike the amended law of 2 August 2002 on the protection of individuals with regard to
+of the processing of personal data (repealed by the Law of 1 August 2018 on
+organization of the National Commission for Data Protection and the general regime
+on data protection), the GDPR does not define the notion of "monitoring". Furthermore,
+one of the direct consequences of the GDPR is that it is no longer necessary to ask
+the prior authorization of the CNPD to install a video surveillance system.
+While the obligation to request prior authorization from the CNPD has disappeared, officials
+processing are now obliged to keep a register of data processing at
+personal character which are carried out under their responsibility and this, in accordance with article
+30 of the GDPR. The processing of personal data resulting from the
+video surveillance must therefore appear therein and include the information required by Article 30 of the
+GDPR.
+Without wishing to claim to be exhaustive, the CNPD also wishes to recall certain principles
+and certain obligations applicable to video surveillance.
+
+2
+
+Page 4
+
+1. Principle of lawfulness of processing
+Any processing of personal data must be based on one of the conditions of
+lawfulness listed in Article 6.1 (letters a) - f)) of the GDPR. As part of a
+video surveillance system, the most appropriate legality requirement will be
+general, that the processing is necessary for the legitimate interests of the controller
+processing, unless the interests or fundamental rights and freedoms of the
+or person (s) subject to video surveillance (article 6.1, f) of the GDPR).
+Please note : in principle, consent does not constitute an appropriate basis of lawfulness in
+video surveillance.
+
+3
+
+Page 5
+
+2. Principle of finality
+In accordance with article 5.1, b) of the GDPR, personal data must be
+collected for specific, explicit and legitimate purposes, and not to be processed
+subsequently in a manner incompatible with these purposes.
+For example, surveillance by video cameras can have the following purposes:
+- secure access to the building;
+- ensure the safety of staff and customers;
+- detect and identify potentially suspicious or dangerous behavior
+likely to cause accidents or incidents;
+- pinpoint the origin of an incident;
+- protect property (buildings, installations, equipment, merchants, cash, etc.);
+- organize and supervise a rapid evacuation of people in the event of an incident;
+- to be able to alert in good time the emergency services, fire or security forces
+order as well as to facilitate their intervention.
+- ...
+Before installing a video surveillance system, the data controller must
+define, in a precise manner, the purpose (s) he wishes to achieve by resorting to such a
+system, and will not be able to use it for other purposes afterwards. The example given below in
+point 4.3 of these guidelines illustrates this principle of purpose limitation.
+
+4
+
+Page 6
+
+3. Principle of transparency
+Any controller is obliged to inform the data subjects of the processing
+of personal data that it implements. This information should respond to
+requirements of Articles 12 and 13 of the GDPR. It may in particular be communicated by
+the affixing of display panels and pictograms in places subject to the
+video surveillance, in addition to a more detailed information notice published, for example, on
+the website of the controller.
+Note : The principle of transparency, as provided for in Article 5, paragraph 1, letter a) of
+GDPR, implies that hidden surveillance measures can never be implemented
+work by a controller.
+
+5
+
+Page 7
+
+4. Principle of necessity and proportionality (minimization of
+data)
+The principle of data minimization in the field of video surveillance implies that it
+must be filmed only what appears strictly necessary to achieve the purpose (s)
+pursued ("adequate, relevant and limited to what is necessary") and that
+processing operations should not be disproportionate.
+With regard to the case law arising from the authorization decisions previously adopted
+by the CNPD and judicial decisions, the latter has identified, in terms of
+proportionality, certain principles imposing conditions and requirements when using
+video surveillance. These are explained in these guidelines.
+By way of illustration, an overview of areas in which the CNPD considers that a system of
+video surveillance that may or may not be problematic is shown below in point 4.5. However, it
+a case-by-case analysis of the situation should be carried out in order to analyze the need and
+the proportionality of video surveillance, in particular with regard to criteria such as, for
+example, the nature of the place to be placed under video surveillance, its situation, its configuration or
+his attendance.
+
+4.1. Limited field of vision of cameras filming interior entrances,
+exterior or surroundings of a building or site
+Cameras intended to monitor an access point (entrance and exit, threshold, porch, door,
+awning, hall, etc.) must have a field of vision limited to the area strictly necessary
+to view the people preparing to access it; those who film outdoor access
+must not mark the entire width of a sidewalk bordering, where applicable, the building or the
+adjacent public roads.
+Likewise, outdoor cameras installed in or around a building must
+be configured so as not to capture the public thoroughfare, or the surroundings, entrances, accesses and
+interiors of other neighboring buildings possibly coming within their field of vision.
+Depending on the configuration of the premises, it is sometimes impossible to install a camera that
+would not include in his field of vision a part of the public road, surroundings,
+entrances, entrances and interiors of other buildings. In such a case, the CNPD considers that the
+data controller must implement masking or blurring techniques
+in order to limit the field of vision to its property.
+
+4.2. Permanent and continuous monitoring
+Permanent supervision of self-employed persons is not always permitted.
+For example, the CNPD considers that it is disproportionate to film the inside of a
+catering including consumption tables. The same goes for the terrace or
+counter of a cafe. Indeed, even if a certain risk of theft or vandalism may exist
+in such places, it considers that the customers present will, in a permanent way, subject
+to CCTV as they choose a restaurant or cafe as their place of
+meeting to have a good time around a meal, to communicate, have fun or
+relax. Customers who stay in this type of place for a longer period of time or
+shorter must be able to legitimately expect not to be filmed during these moments
+private. The use of cameras in the dining room including the tables of
+
+6
+
+Page 8
+
+consumption is likely to film the behavior of each customer seated at a table
+and can create discomfort or even psychological pressure for clients who feel
+observed throughout their presence in the restaurant. Such permanent surveillance
+is therefore to be considered as disproportionate to the desired end and constitutes a
+invasion of the client's privacy.
+In the workplace , employees have in principle the right not to be subject to
+continuous and permanent surveillance.
+Indeed, respect for the principle of proportionality implies that the employer must have recourse to
+most protective means of surveillance of the employee's private sphere. Respect for this
+principle requires that, for example, automatic monitoring and
+of employees.
+For example, the operator of a restaurant could not monitor his employees inside
+of the kitchen, invoking the protection of his property. Employees would be subject to
+almost permanent video surveillance and it is obvious that such surveillance can
+create significant psychological pressure for employees who feel and feel
+know observed, especially since the monitoring measures last over time. He
+The same applies, for example, to placing the interior of an office under video surveillance,
+an open-space, or even a workshop in which one or more
+employees. Continuous monitoring is considered disproportionate to the purpose
+sought and constitutes an excessive interference with the private sphere of the employee employed in his
+workplace. In this case, the fundamental rights and freedoms of employees must prevail
+on the legitimate interests pursued by the employer.
+In order to avoid permanent and continuous monitoring, the controller must limit
+the field of vision of the cameras to the only surface necessary to achieve the purposes
+pursued.
+Thus, by way of example, the surveillance by camera of a cash register of a store may have for
+purposes of protecting the assets of the controller against acts of theft committed
+by its employees or by a client / user and to ensure the safety of its personnel. However,
+in order not to infringe the privacy of employees, the camera must be configured
+so that employees behind a cash counter are not targeted, by
+directing his field of vision towards the cash register itself and the front of the counter, that is to say
+the waiting area for customers in front of the counter, in order to
+identification of the perpetrators of attacks, for example.
+
+4.3. Monitoring of employee performance and behavior
+The CNPD considers that video surveillance should not be used to observe behavior and
+the performance of staff members of the controller outside of
+purposes for which it was set up.
+Thus, an employer has the right to use the images of an employee committing theft of
+goods and which come from a video surveillance system used for a purpose
+protection of property. However, he does not have the right to take measures against an employee
+when, to the employer's taste, the employee discusses too long with a client or colleague
+working and that this behavior is recorded by the video surveillance system. This
+would constitute a diversion of purpose prohibited by the GDPR.
+
+7
+
+Page 9
+
+4.4. Areas reserved for employees for private use
+The CNPD believes that surveillance cameras should not film reserved places
+to employees for private use or who are not intended for the performance of tasks
+work, such as toilets, changing rooms, smoking area, rest areas,
+the room made available to the staff delegation, the kitchen / kitchenette, etc.
+
+4.5. Examples of video surveillance zones
+The example zones below should be read and considered together with the points
+4.1 to 4.4 above.
+A. Areas where the installation of video surveillance is in principle proportionate:
+• all kinds of access, with some exceptions (the fields of vision of the cameras must be
+limited to the strictly necessary area);
+• goods storage rooms / reserves / warehouses / halls or
+storage sheds (unless employees are permanently assigned to work
+in stock, such as storekeepers);
+• sales areas or areas of a business / the shelves of a store / a
+shopping mall / an exhibition space / a sales and advice space (except
+permanent workstations behind a counter);
+• parking (indoor / outdoor / underground);
+• delivery or loading areas / delivery and unloading docks;
+• a computer room / a server room;
+• corridors (except hotels - special situation);
+• an automatic vehicle wash / car wash;
+• a gasoline pump;
+• a safe / secure room / automatic lockers;
+• CIT premises / CIT room / van room;
+• production machines (only machines);
+• purely technical installations;
+• the technical room of a building / a maintenance room / a meter room
+of a co-ownership;
+• archive rooms;
+• ATMs / ATM.
+
+B. Areas where the installation of video surveillance is in principle
+disproportionate:
+
+8
+
+Page 10
+
+• a public road / sidewalk (with some exceptions depending on the specific configuration
+places ; however, the field of vision can only encompass an extremely
+limited from the public highway);
+• inside a consumption area of ​a catering establishment, a bar
+drinks, a night club, etc. (dining room, consumption counter,
+terrace, canteen / cafeteria, etc.);
+• the interior of a kitchen;
+• the private entrance to a dwelling in a condominium building;
+• adjoining land or building;
+• the interior of an office including a permanent workstation;
+• a rest or living room;
+• training areas in a sports hall;
+• toilets / sanitary facilities / showers;
+• a staff representation office;
+• a kitchenette / smoking area;
+• a cloakroom / locker room;
+• a garage workshop / a tire assembly and dismantling workshop / a tire repair workshop
+production / a workshop;
+• the styling space of a hairdressing salon;
+• the play area of ​a nursery.
+
+C. Areas where the proportionality or not of video surveillance depends on the
+circumstances of the case and the measures put in place to ensure the
+respect for private life
+The placing under video surveillance of the areas listed below may be permitted in certain
+cases, and not allowed in other cases. The proportionality or not of the
+video surveillance of such areas will depend on the circumstances of the case, as per
+example the nature, location or configuration of the premises, the nature of the activity carried out by
+the controller and the risks inherent in this activity, etc. It will depend
+also the measures taken by the controller in order to make the
+video surveillance less intrusive on the privacy of the persons concerned (for example,
+limitation of the field of vision of the cameras, use of masking / blurring techniques,
+etc.). A case-by-case analysis should be carried out by the controller, if necessary
+with the help of the CNPD.
+• the surroundings of a building;
+• a waiting room ;
+• counters;
+
+9
+
+Page 11
+
+• a reception desk / reception desk;
+• boxes
+• a cash counting room / a cash handling room;
+• the common parts of a condominium building;
+• a school playground (and surroundings);
+• swimming pool ;
+• the roof of a building;
+• meeting room.
+
+4.6. Processing of sounds associated with images
+Surveillance by means of video cameras must relate only to images, excluding
+of sounds. Indeed, the live listening as well as the recording of the sound associated with the images
+makes video surveillance even more intrusive and is to be considered disproportionate.
+
+4.7. Image retention period
+The GDPR stipulates that personal data must be kept under a
+form allowing the identification of the persons concerned for a period not exceeding
+not that necessary with regard to the purposes for which they are processed. Regarding
+video surveillance, the CNPD considers that the images can be kept in principle
+up to 8 days.
+The data controller may exceptionally keep the images for a period of time
+30 days. However, the reasons justifying such a period of
+retention in the processing register.
+A shelf life of more than 30 days is generally considered to be
+disproportionate.
+In the event of an incident or infringement, the images may be kept beyond this period and,
+if necessary, be communicated to the competent police or judicial authorities.
+Finally, the controller must ensure that the images are destroyed after
+the expiration of the retention period.
+
+10
+
+Page 12
+
+5. The new article L. 261-1 of the Labor Code: the
+specific legal provisions concerning the processing of
+data for monitoring purposes within the framework of relationships
+working
+The employer who wishes to install video surveillance must, in addition to respecting the
+points 1-4 above and points 6-7 below , ensure compliance with the specific rules of
+Article L. 261-1 of the Labor Code .
+The Law of 1 August 2018 on the organization of the National Commission for the Protection
+
+data and the general data protection regime amends Article L. 261-1 of
+Labor Code. The legislator thus made use of the option left to the Member States by
+Article 88 of the GDPR to provide more specific methods concerning the processing of
+personal data of employees in the context of labor relations.
+The new version of Article L. 261-1 of the French Labor Code authorizes the processing of data
+of a personal nature for the purposes of monitoring employees within the framework of
+work, by the employer, only on the basis of one of the restrictive legality conditions.
+listed in Article 6, point 1, letters a) to f) of the GDPR (see point 1.).
+For such processing of personal data, including video surveillance on the
+place of work, the new article L. 261-1 of the Labor Code firstly provides for an obligation
+prior collective information with regard to employee representation, in addition to
+the individual information of employees resulting from article 13 of the GDPR. This information
+must contain a detailed description of the purpose of the intended processing, of the
+implementation of the surveillance system, and where applicable, the duration or criteria for
+retention of data, as well as a formal commitment by the employer to
+use of data collected for a purpose other than that explicitly provided for in
+prior information.
+The new version of Article L. 261-1 of the Labor Code provides that, except when the
+surveillance meets a legal or regulatory obligation, video surveillance must
+subject to co-decision between the employer and the staff delegation (or committee
+mixed) and this, in accordance with Articles L. 211-8, L.414-9 and L. 423-1 of the French Labor Code,
+when it is implemented for the following purposes:
+1.for the safety and health needs of employees, or
+2.for the control of production or employee services, when such a measure
+is the only way to determine the exact salary, or
+3.in the framework of a work organization according to flexible working hours in accordance with
+Labor Code.
+In addition, in all cases of data processing projects for surveillance purposes
+employees in the context of labor relations, staff delegation, or failing that
+employees concerned, may, within 15 days of the prior information mentioned above
+above, submit a request for a prior opinion on the compliance of the draft
+processing at the National Commission for Data Protection, which must decide
+in the month of the referral. The request has a suspensive effect during this period.
+Finally, the new version of Article L. 261-1 of the Labor Code reminds that employees
+concerned always have the right to lodge a complaint with the Commission
+11
+
+Page 13
+
+national in the event of infringement of their rights, such a complaint not constituting a serious reason,
+nor a legitimate reason for dismissal.
+
+12
+
+Page 14
+
+6. Should a protection impact assessment be carried out?
+of data ("AIPD") in terms of video surveillance?
+Article 35 of the GDPR requires that an "AIPD" be carried out " When a type of processing,
+in particular through the use of new technologies, and taking into account the nature,
+scope, context and purposes of the processing, is likely to give rise to a risk
+high for the rights and freedoms of individuals ”.
+Paragraph 3 of Article 35 of the GDPR also provides for 3 cases in which an "AIPD"
+is particularly required. One of these 3 cases relates to " systematic surveillance at large
+scale of an area accessible to the public ”. In certain situations, the installation of a
+CCTV system could fall in this case.
+In addition, the ' Guidelines on impact assessment relating to the protection of
+data (AIPD) and how to determine whether the processing is "likely to result in
+high risk 'for the purposes of Regulation (EU) 2016/679 »Issued by the working group
+European Union (G29) specify the 9 criteria that should be taken into account to assess whether a
+data processing is likely to create a high risk for rights and freedoms
+of natural persons, and therefore, whether or not to carry out a “DPIA”. Some of these
+criteria could be met within the framework of the establishment of a
+video surveillance, such as that of the processing of " data concerning
+vulnerable people ”(employees) and the criterion of“ systematic surveillance ”.
+The GDPR provides that national supervisory authorities will establish and publish a list of
+types of personal data processing operations for which a
+“AIPD” is required. The CNPD will soon adopt this list, which must first
+be communicated to the European Data Protection Board for an opinion.
+
+13
+
+Page 15
+
+7. Other obligations to be complied with under the GDPR
+In addition to the principles set out in these guidelines, all of the
+provisions of the GDPR remain, of course, applicable to the processing of personal data.
+personal character of video surveillance.
+The CNPD wishes in particular to draw the attention of data controllers to
+the obligation arising from article 32 of the GDPR to put in place technical measures
+and adequate organizational structure to guarantee the security and confidentiality of data
+being processed.
+In addition, the CNPD would like to recall that if a subcontractor is involved (for example, a
+security company) in the processing of personal data resulting from the
+video surveillance, a subcontracting contract meeting the criteria of Article 28 of
+GDPR will need to be implemented.
+
+14
+
+Page 16
+
+NATIONAL COMMISSION FOR DATA PROTECTION
+1, avenue du Rock'n'roll I L-4361 Esch-sur-Alzette
+Phone. : (+352) 26 10 60 - 1 I Fax. : (+352) 26 10 60 - 29
+
+www.cnpd.lu
+
+15
+
+

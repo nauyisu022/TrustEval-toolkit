@@ -1,0 +1,2923 @@
+Page 1
+
+TC260-PG-20204A
+
+Cybersecurity Standard Practice Guide
+—Mobile Internet application (App) system permission application
+Please use the guide
+
+(V1.0-202009)
+
+Secretariat of the National Information Security Standardization Technical Committee
+September 2020
+This document is available from the following URL:
+www.tc260.org.cn/
+
+Page 2
+
+Preface
+"Network Security Standard Practice Guide" (hereinafter referred to as "Practice Guide")
+Is the National Information Security Standardization Technical Committee (hereinafter referred to as "Information Security Standards Committee")
+The technical documents related to standards developed and released by the Secretariat are designed to focus on the network
+Security laws, regulations, policies, standards, network security hotspots and incidents, etc., to declare
+Disseminate standards and knowledge related to network security, and provide standardized practice guidelines.
+
+I
+
+Page 3
+
+statement
+The copyright of this "Practice Guide" belongs to the Secretariat of the Standards Commission for Information Security, without the Secretariat
+Written authorization, not to copy or translate any part of the "Practice Guide" in any way
+section. If you reprint or quote the opinions and data of this "Practice Guide", please indicate
+"Source: Secretariat of the National Information Security Standardization Technical Committee".
+
+Technical Support Unit
+This "Practice Guide" has been approved by China Electronics Standardization Institute, Huawei
+Technology Co., Ltd., Tsinghua University, Xiaomi Technology Co., Ltd., Alibaba
+Pakistan (Beijing) Software Service Co., Ltd., 360 Technology Group Co., Ltd.,
+China Mobile Communications Group Co., Ltd., Beijing Jingdong Shangke Information Technology Co., Ltd.
+Company, JD Digital Technology Holdings Co., Ltd., Shanghai Junzheng Network Technology Co., Ltd.
+Company, Zhejiang Ant Small and Micro Financial Services Group Co., Ltd., Beijing Sankuai Branch
+Technology Co., Ltd., Shenzhen Tencent Computer System Co., Ltd., Beijing Baidu.com
+Technology Co., Ltd., Zhejiang Daily Interactive Network Technology Co., Ltd., North
+Beijing ByteDance Technology Co., Ltd., Beijing Xiaoju Technology Co., Ltd. and other units
+Technical Support.
+II
+
+Page 4
+
+Summary
+In accordance with the requirements of laws, regulations and policy standards, this practice guide aims at App application
+Please use the compulsory, frequent, and excessive claims of system permissions, as well as bundled authorizations,
+Typical problems such as privately invoking permissions to upload personal information, sensitive permissions abuse, etc., give
+The basic principles and security requirements for the App to apply for system permissions are out, and it is recommended that App
+Providers refer to this practice guide to standardize App system permission application and use behavior,
+Prevent personal information security risks caused by improper use of system permissions.
+
+III
+
+Page 5
+
+table of Contents
+1 Scope................................................ ....................... 1
+2 Definition of terms............................................ .................... 1
+3 Principles and requirements of permission application............................................ ............ 2
+3.1 Basic Principles of Permission Application............................................ ........ 2
+3.2 General requirements for permission application............................................ ........ 2
+4 Principles and requirements for the use of permissions ... ............ 4
+4.1 Basic Principles for the Use of Permissions............................ ........ 4
+4.2 General requirements for the use of permissions ... ........ 4
+5 Application and use requirements for typical permissions of Android system........................................ ... 6
+5.1 Calendar authority (CALENDAR) ............................................ ..... 6
+5.2 Call Log Permission (CALL_LOG) ........................................... .. 6
+5.3 Camera permission (CAMERA) ............................................ ....... 6
+5.4 Contacts permissions (CONTACTS) ................................. .... 6
+5.5 LOCATION ............................................ ..... 6
+5.6 Microphone authority (MICROPHONE)............................................ . 7
+5.7 Phone Authority (PHONE) ............................................ ........ 7
+5.8 Sensor permissions (SENSORS) ............................................ .... 8
+5.9 Short Message Authority (SMS) ............................................ .......... 8
+5.10 Storage Authority (STORAGE) ............................................ ..... 8
+5.11 Other requirements ... ............. 9
+Appendix A Permission to Collect Personal Information... ........ 1 0
+A.1 Android's permission to collect personal information......................................... ..... 1 0
+A.2 iOS Permission to Collect Personal Information......................................... ..... 1 4
+Appendix B Android Special Sensitive Permissions............................................ ......... 1 7
+Appendix C Frequently Asked Questions about System Permission Application... ... 1 8
+C.1 Frequently Asked Questions about Permission Application... ......... 1 8
+C.2 Frequently Asked Questions about the Use of Permissions... ......... 2 0
+Appendix D Android system permissions that are not recommended for common service types...21
+
+IV
+
+Page 6
+
+1 Scope
+This practice guide gives the mobile Internet application (App) application and use system
+Basic principles and general requirements of permissions, as well as address book, SMS, call history, location, etc.
+As used herein, Andrew 10 based systems typically requires permission 1 .
+This practice guide is suitable for App providers to regulate system permission application and use behavior, and also
+Can be used for App developers, mobile Internet application distribution platform operators and mobile smart terminal manufacturers
+The supplier provides reference.
+
+2 Definition of terms
+2.1 Mobile Internet applications
+Obtain and run on mobile smart terminals through pre-installation, downloading, etc., to provide users with
+The application software for the service, referred to as App.
+Note: The apps in this practice guide do not include the basic component applications of mobile smart terminal operating systems.
+
+2.2 Mobile Internet application provider
+The owner or operator of mobile Internet applications, referred to as App provider.
+2.3 Permission to collect personal information
+The mobile smart terminal operating system is open to the App and has the ability to collect personal information
+System permissions, referred to as system permissions or permissions, refer to Appendix A for the scope.
+2.4 Permission application
+Declare to the mobile smart terminal operating system and request authorization from the user to obtain
+The process of moving intelligent terminal data or ability to access permission.
+
+1 This
+
+practice guide is mainly for Android and iOS system permissions. The full text content is applicable to Android. Chapter 2, Chapter 3, Chapter 4, Appendix
+A and Appendix C are for iOS.
+
+1
+
+Page 7
+
+3 Principles and requirements of permission application
+3.1 Basic principles of permission application
+a) Principle of Least Necessity: Only apply for permissions necessary for App business functions, do not apply
+Permissions not related to App business functions.
+b) User-knowable principle: all the permissions applied for should have clear and reasonable usage scenarios,
+And inform the user of the purpose of the permission application.
+c) The principle of non-mandatory and non-bundling: It should not be mandatory to apply for system permissions, and users should not be
+Sub-authorization agrees to open multiple system permissions.
+d) Dynamic application principle: The permissions required by the App should be moved when the corresponding business function is executed
+State application. When the user does not trigger the relevant business function, do not apply in advance for the current business function
+Can have nothing to do with permissions.
+3.2 General requirements for permission application
+a) The permission application should meet the "least necessary" principle, and the system has nothing to do with business functions
+Permissions are not declared to the operating system, for example, irrelevant Android system permissions are not available
+Declared in the AndroidManifest.xml file.
+Note 1: The "Business Function Examples" in Table A.1 in Appendix A gives examples of business functions related to permissions.
+Note 2: Appendix D shows the Android system permissions that are less relevant to common service types and are not recommended to apply for.
+
+b) When applying for permission, the purpose of permission application should be notified simultaneously, and the purpose should be clear and easy to understand.
+Does not contain advertisements and any description of fraud, deception, or misleading user authorization.
+c) App (including the embedded SDK) to apply for the required permissions should be in the declaration file (such as
+AndroidManifest.xml) strictly follow the format specification one by one.
+d) If you only need to use part of the permissions in the permission group, you should not declare the same in the permission declaration file.
+A permission group and other permissions, for example, when the App only needs to use the calendar write permission, it should not be
+2
+
+Page 8
+
+The permission to read the calendar is declared in AndroidManifest.xml.
+e) If the user refuses or withdraws the non-essential system permissions granted to a certain service type, the App should not
+Forcibly quit or close, and does not affect the use of business functions unrelated to this authority.
+Note: For the necessary system permissions of the service type, please refer to "Information Security Technology Mobile Internet Application (App)
+The minimum necessary personal information for the common service types in the Basic Regulations for the Collection of Personal Information shall be judged.
+
+f) If the user explicitly rejects the permissions required for the App’s business functions, the App should not frequently apply for the system
+System authority interferes with the normal use of the user, unless the user actively triggers the function and does not have the authority
+Participation in this business function cannot be achieved. "Frequent" forms include but are not limited to:
+1) After the user denies permission for a single scene, a pop-up window prompts the user to open within 48 hours
+The number of system permissions exceeds 1 time;
+2) Every time you reopen the App or use a certain business function, you will be asked
+Want or prompt the user for lack of relevant system permissions.
+g) App should not collect unique devices that cannot be changed except only for safety and risk control scenarios
+Identification code (such as IMEI, MAC address).
+h) When identifying users in directional push and user portrait scenarios, a resettable logo should be used
+Identifier, and the identifier is not the same as the unique device identification code that can identify the user’s identity information or unchangeable
+Associated.
+i) If the permission required by the App business function is rejected by the user and the user chooses to prohibit it, it will not be mentioned again
+It is indicated that when the user uses this function again, it should be in a way that does not interfere with the user (such as text prompts)
+Guide the user to the system settings to enable the required permissions.
+j) App should respect the user's permission settings, and should not deceive or force users to agree to unnecessary
+If possible, it is advisable to provide alternative solutions for users who refuse to authorize.
+Note: For example, if the user refuses the location permission in a non-navigation scenario, the function of manually entering the address can be provided.
+
+3
+
+Page 9
+
+k) Apps with built-in third-party SDKs should require the SDK to expressly apply for the system rights to the App
+Limit and application purpose.
+l) App should review the application permission of the embedded third-party SDK to ensure its application
+The requested authority corresponds to the business function scenario, and does not exceed the agreed scope.
+
+4 Principles and requirements for the use of permissions
+4.1 Basic principles for the use of permissions
+a) Consistency principle: The use of permissions should be consistent with those described in the privacy policy when applying for permissions
+The stated purposes, usage scenarios and rules are consistent.
+b) The principle of non-proliferation: The data and capabilities obtained by the app through system permissions should not be
+It is provided to the applet or other apps on the terminal without authorization by the user.
+c) The principle of explicit access: use system permissions (such as camera, microphone, position
+When obtaining personal sensitive information, users should be reminded in an explicit way to avoid using hidden information.
+Ways to collect user personal information.
+4.2 General requirements for the use of permissions
+a) After the permission application is authorized, the App should only access the minimum that meets the needs of business functions
+Personal information, for example, when reading the calendar, if you only need to read the schedule information for a certain date, you should not
+Read the schedule of other dates.
+b) The frequency of automatic collection of personal information after permission application should be in the realization of App business functions
+The necessary minimum reasonable frequency range.
+c) App should not change the system permission authorization status of its settings without the user's consent, such as
+When the App is updated, the permissions set by the user are automatically restored to the default state.
+d) If the purpose of system permission application and usage scenarios change, users should be notified again.
+4
+
+Page 10
+
+e) When the external interface provided by the App involves personal information and the permissions defined by the operating system
+When the purpose cannot be achieved, the App should access the external interaction of personal information through custom permissions
+Set reasonable access permissions for the components.
+f) App custom permissions should be defined and named strictly in accordance with the operating system permission requirements, and ensure
+Ensure completeness, clarity, and accuracy, and configure reasonable protection levels for permissions.
+g) The following operations should be actively triggered by the user and executed under the knowledge of the user:
+1) Perform operations such as making phone calls and sending text messages;
+2) Turn on or off Wi-Fi, Bluetooth, GPS, etc.;
+3) Shooting, recording, screenshots, screen recordings, etc.;
+4) Read and write personal information such as user text messages and contacts.
+h) Personal information should not be collected concealedly. When recording, shooting, screen recording, positioning and other sensitive functions
+When it can be executed in the background, significant methods (such as flashing icons, prompts in the status bar, customized
+Prompts, etc.) to prompt the user.
+i) It should not be read and uploaded in a concealed manner without the user’s knowledge or authorization.
+Pass the personal information contained in the clipboard and the personal information in the public storage area.
+j) If the operating system supports it, the App can collect personal information when applying for camera, location, microphone, etc.
+The authority of sensitive information should provide users with the option of temporary single authorization.
+k) For apps that provide mini programs to access the platform, the mini programs should be required to explain their application to the access platform.
+Please request the system permissions and application purpose.
+l) The app that provides the mini program access platform should provide the function of rights management for the mini program,
+Mini Programs should allow users to close or revoke authorization for Mini Programs to collect personal information.
+
+5
+
+Page 11
+
+5 Application and usage requirements for typical permissions of Android system
+This chapter gives the application and application of typical permissions for Android system for Android 11 and below.
+Please refer to Appendix A Table A.1 for usage requirements and examples of permission-related business functions.
+5.1 calendar rights ( CALENDAR )
+App should be careful to apply for permissions in the calendar permission group, and access to the calendar should be controlled by the user.
+Action trigger.
+5.2 Call log permission ( CALL_LOG )
+Except for the user to actively set the App as the default phone application, or to implement call record management
+Management, backup and recovery, harassing call interception, etc. Otherwise, the App should not apply to the user for communication
+Record the permissions in the permission group.
+5.3 Camera permissions ( CAMERA )
+When the app accesses the camera, it should present the user with a shooting interface in the foreground.
+5.4 Address Book Authority ( CONTACTS )
+a) The behavior of reading and writing the address book should be triggered by the user, for example, after adding the address book
+In the case of friends, only when the user actually uses the App’s "add address book friends" and other functions
+At that time, apply for permission from the user and only read the address book at this time.
+Note: In addition to the user's initiative to trigger the reading and writing of the address book, there are also applications that automatically read and write the address book under certain conditions.
+Use scenario, if authorized by the user to automatically recommend App friends to the user based on changes in the address book, this scenario should be used
+The user expressly agrees to the authorization and triggers strictly within the scope of use authorized by the user.
+
+b) The necessity of returning user contact data should be clarified, if relevant functions are not required
+To return user contact data, it should not be returned.
+5.5 Location permissions ( LOCATION )
+a) Apps whose business functions are not related to the user's location should not apply for location rights
+6
+
+Page 12
+
+limit.
+b) If supported by the operating system, users should be allowed to always allow (foreground and background),
+Allowed (only at the front desk), single allowed (temporary single authorization), prohibited when using the application
+Obtain location information to select authorization from four location states.
+c) In addition to map navigation, sports and fitness, etc., services that may require continuous location acquisition in the background
+
+c) In addition to map navigation, sports and fitness, etc., services that may require continuous location acquisition in the background
+In addition to the type, other service types should not apply for background location permissions
+(ACCESS_BACKGROUND_LOCATION).
+d) With access to rough location permissions (ACCESS_COARSE_LOCATION)
+App that can realize related business functions. It is not recommended to apply for precise location permissions
+(ACCESS_FINE_LOCATION).
+5.6 Microphone permissions ( MICROPHONE )
+a) The application for use of the microphone should be actively triggered by the user.
+b) When the app continues to use the microphone, it should remind the user in an explicit way at the front desk.
+c) After the user finishes using it, the App should immediately stop accessing the microphone.
+5.7 Phone authority ( PHONE )
+The phone permission group protects more data and capabilities, and the App should be combined with the needs of business functions.
+To apply for only the necessary sub-permissions.
+a) Permission to read phone status
+1) Except for security risk control scenarios, apps should not use READ_PHONE_STATE
+Permission to read unchangeable unique device identifiers (such as IMEI, etc.), it is recommended
+According to the needs of the application, the changeable marking scheme shall be adopted first;
+2) App can monitor the call status of the device through the interface PhoneStateListener or
+7
+
+Page 13
+
+Request AudioFocus implementation, no need to apply for any permissions.
+b) Call permission
+1) Unless the user takes the initiative to set the App as the default phone application or calls for help
+In this case, otherwise the App should not apply to the user for the permission to make calls;
+2) It is recommended that the App adopt other alternatives that do not require permissions to achieve related functions
+Yes, for example, use Intent.ACTION_DIAL to pull up through startActivity
+Dial in the way of the system dial.
+5.8 Sensor permissions ( SENSORS )
+In addition to relying on the authority to obtain body sensor information (BODY_SENSORS) to provide heart
+Except for apps with functions such as rate measurement, other apps should not apply for sensor permissions.
+5.9 Short Message Authority ( SMS )
+a) Unless the user actively sets the App as the default SMS application or implements SMS management
+Functions such as management, backup and recovery, and SMS emergency help, otherwise the App should not apply to the user for short
+Letter of authority.
+b) It is recommended that the App adopt other alternatives to implement related functions, such as using
+Intent.ACTION_SENDTO pulls up the system SMS interface by the user through startActivity
+Click to send, this method of sending SMS does not need to apply for any permission.
+5.10 Storage permissions ( STORAGE )
+a) If the App does not have the actual business function of downloading and reading external storage files, you can
+Save directly in the App's own directory. It is not recommended to apply for external storage permissions.
+b) It is recommended to give priority to using MediaStore or SAF framework to realize business functions instead of applying
+The external storage permission can be read directly.
+8
+
+Page 14
+
+5.11 Other requirements
+a) The target API level of the Android App should not be lower than 23
+(TargetSdkVersion>=23), the target API level should be updated in time to adapt to the new version of Android
+this.
+Note: As of the release of this practice guide, it is recommended to set the target API level not lower than 28.
+
+b) Except for special business function requirements and the user’s express consent, the Android App does not
+You should apply for special features such as device manager, accessibility, monitoring notification bar, and floating window permissions.
+Special sensitive permissions.
+Note: Special sensitive authority refers to the authority to access special sensitive functions of mobile smart terminal, once it is maliciously exploited
+May affect device, system, application security or violate user privacy. For the scope of Android's special sensitive permissions, please refer to the attachment
+Record B.
+
+c) If the Android App really needs to apply for the use of device manager, auxiliary functions, and monitoring notifications
+Special sensitive permissions such as column and floating window permissions should be explained to the user in detail for the purpose of the application, and
+It is manually opened by the user in the system settings.
+
+9
+
+Page 15
+
+Appendix A Permission to Collect Personal Information
+Appendix A shows the scope of permissions for personal information collection on Android and iOS.
+A.1 "Sample business function" gives examples of business functions related to permissions. App
+The provider can refer to it when applying for permission.
+A.1 Android can collect personal information permissions
+Android can collect personal information permissions, usually the protection level predefined by the Android operating system
+(Protection Level) is a dangerous (dangerous) level of authority. Such permissions and usage
+User privacy and device security are closely related, and the App needs to dynamically apply to the user during runtime. An
+Please refer to Table A.1 for details of the permission to collect personal information for Zhuo 11 and below.
+Table A.1 Android can collect personal information permissions
+sequence
+Accessible individuals
+Permission groupingPermission name Function description
+Business function example
+number
+information
+READ_CALE
+NDAR read
+calendar
+
+1
+CALENDAR
+calendar
+2
+
+WRITE_CAL
+ENDAR
+Edit calendar
+
+3
+
+READ_CALL
+_LOG read
+call records
+
+Allow App to read
+User calendar data system calendar
+Schedule planning, events
+Schedule, preparation
+Reminders, tickets
+Forget, itinerary, etc.
+Reservation etc.
+Allow App to write interest
+User calendar data
+
+Allow App to read
+User call log
+User call log
+
+4
+
+CALL_LOG
+call records
+
+5
+
+Call record tube
+Management, backup and recovery
+Reply, harassment interception,
+
+WRITE_CAL
+L_LOG edit
+call records
+
+Allow App to write
+User call log
+
+PROCESS_O
+UTGOING_C
+ALLS monitor
+Outgoing call
+
+Allow App to view
+Outgoing call monitoring
+Number being dialedUser's outgoing call
+Scenes, children's hands
+Code, and monitor and
+Phone
+control
+number, call
+Table, harassment blocking
+Control or terminate Status
+the outgoing
+and other
+callinformation
+Wait
+phone
+
+SOS urgent help
+Wait
+
+10
+
+Page 16
+
+sequence
+Accessible individuals
+Permission groupingPermission name Function description
+Business function example
+number
+information
+
+CAMERA shoot Allow App to use
+Photo
+webcam
+
+CAMERA
+camera
+
+6
+
+READ_CON
+TACTS read
+Address book
+
+7
+
+Take a photo
+Photo or video letterFrequency, scanning two-dimensional
+interest
+Code/barcode, person
+Face recognition, etc.
+
+Allow App to read
+User address book
+Contact data
+
+WRITE_CON
+CONTACTS
+Address book TACTS edit
+Address book
+
+8
+
+Allow App to write
+User address book
+
+Allow app to be accounted
+GET_ACCO
+Account service
+UNTS acquisition From the customer service
+App account list
+App account
+App account list
+
+9
+
+ACCESS_FI
+Allow App to obtain
+Precise location
+NE_LOCATI
+Based on GPS etc.
+ON access fine
+information
+Precise location
+Quasi-positioning
+
+10
+
+LOCATION
+position
+
+ACCESS_CO
+ARSE_LOCA
+TION visit
+Rough location
+
+11
+
+Address book management and
+Backup, add link
+Department, etc.
+
+Allow App to obtain
+Based on base station,
+Rough
+IP, etc.
+location
+Rough geographic location
+information
+Set
+
+Account login scenario
+Wait
+Locate current user
+Location, photo record
+Photo shooting position
+Home, social sharing
+Location, O2O on
+For door service positioning
+Household location and other needs
+User precise location
+Scene
+Takeaway, local students
+Live service and other partitions
+Domain information recommendation,
+Based on city or place
+News push
+Based on rough
+User geographic location
+Scene
+
+11
+
+Page 17
+
+sequence
+Accessible individuals
+Permission groupingPermission name Function description
+Business function example
+number
+information
+
+Allow the app to follow
+Use when the station is running
+ACCESS_BA
+Location informationReal-time
+(required geographic
+Map
+location
+navigation, net
+CKGROUND
+Information, whereabouts
+Car hire, sports
+_LOCATION
+App gets access
+Support background
+visit location or visit
+Rough
+trace
+Fitness and other scenes
+Ask location
+Ask for precise location right
+limit)
+
+12
+
+MICROPHO
+RECORD_A
+NE microphone UDIO recording
+
+13
+
+Voice instant messaging
+Allow App to use
+Letter, voice recognition,
+Microphone for recording
+Recording content Audio and video recording,
+sound
+Voice input such as live broadcast
+Into the scene
+
+App can pass this
+Permission to obtain equipment
+Make user favorites
+IMSI (International Move
+Mobile user identification
+Unique device identification
+The identification of the device,
+READ_PHO
+Code), IMEI (countryInformation (such asCan be used for monitoring
+NE_STATE
+Read phone status International Mobile IMEI,
+Deviceequipment
+Recognition
+sequence
+App account exception
+state
+Do not code) and other
+Column
+equipment
+number)
+only For login and association
+One identification information to
+Household behavior
+And mobile phone call status
+State and so on
+
+14
+PHONE
+words
+
+READ_PHO
+Allow App to read
+NE_NUMBE
+User's local machine cellphone number
+RS read this machine
+Phone number
+telephone number
+
+15
+
+Read local number
+Scenarios, such as operations
+Fast
+One-click login function
+
+12
+
+Page 18
+
+sequence
+Accessible individuals
+Permission groupingPermission name Function description
+Business function example
+number
+information
+
+CALL_PHON
+E Make a call
+
+16
+
+Emergency call or
+Provide phone management
+Features
+
+Allow App directly
+dial number
+
+Real-time call behavior
+In driving mode
+Answer the call directly
+Wait
+
+17
+
+ANSWER_P
+Allow App to answer
+HONE_CAL
+Incoming call
+LS answer the call
+
+18
+
+ADD_VOICE
+MAIL add
+Voice mail
+
+19
+
+Allow App to dial/
+Real-time Internet call
+Answer and dial the network
+USE_SIP enables
+Listen to SIP network
+Use internet phone
+behavior
+Phone, etc.
+phone
+
+20
+
+ACCEPT_HA
+Allow the app to continue
+NDOVER following
+Proceed in other
+Real-time Internet call
+Continued from
+Initiated in the app behavior
+Of other apps
+call
+call
+
+SENSORS
+twenty one
+sensor
+
+Allow app access
+Internal body condition
+Sports fitness, health
+BODY_SENS
+Related sensors
+Heart rate and otherHealth
+body transmission
+App and
+ORS get body
+Body sensor signalData, generally specifically
+Sensor data
+Wearable device display
+interest
+Number of heart rate sensors
+Heart rate and other conditions
+according to
+
+twenty two
+
+SEND_SMS
+send messages
+
+Allow App to post
+Add voice to file
+Voice mail content
+annex
+
+Allow App to send
+SMS
+
+RECEIVE_S
+Allow App to receive
+MS
+receive
+short
+twenty three
+SMS
+SMS text message
+letter
+
+SMS
+
+READ_SMS
+Read text message Allow App to read In SMS, MMS
+Message (text or color
+SMS or MMS
+Content
+letter)
+
+twenty four
+
+SMS management, short
+Letter backup and recovery,
+Mobile phone number registration
+Or log in
+Certificate code scene,
+SOS urgent help
+Wait
+
+13
+
+Page 19
+
+sequence
+Accessible individuals
+Permission groupingPermission name Function description
+Business function example
+number
+information
+
+25
+
+SMS management,
+RECEIVE_W
+Allow App to receiveWAP push message
+AP_PUSH connection
+WAP message push
+interest
+WAP
+push
+message
+Receive WAP push
+Send scenes, etc.
+
+26
+
+RECEIVE_M
+Allow App to receive
+MMS
+MS receiving color
+MMS
+letter
+
+27
+
+READ_EXTE
+Allow App to read
+RNAL_STOR
+AGE read outside External storage
+Memory
+
+28
+
+WRITE_EXT
+ERNAL_STO
+RAGE write
+External storage
+
+STORAGE
+storage
+
+SMS management, receiving
+MMS receiving scene, etc.
+
+Document management, reading
+Reader, etc. to open the book
+Scene of the local file
+Wait
+External memory storage
+Stored personal dataStore photos taken
+Films and videos, and
+Allow App to write
+Download file, required
+External storage
+To download a lot of resources
+Source game scene
+Wait
+
+29
+
+Allow App to read
+ACCESS_ME
+Photo file package Photo shooting location
+Show photo shoot
+DIA_LOCAT
+ION read photos Included shooting locations
+information
+Location, scene, etc.
+Piece location information
+information
+
+30
+
+Track user steps
+Specific physical activity
+And calorie consumption
+ACTIVITY_
+Change information (e.g.
+Allow App to recognize
+Consumption, need to be used
+RECOGNITI
+Not moving, walking,
+ON identification Physical activity
+Physical activity
+Running, cycling,
+Physical activity
+Field for classification
+By car, etc.)
+Jing et al
+
+ACTIVITY_
+RECOGNITI
+ON body alive
+move
+
+Note: Support background access location (ACCESS_BACKGROUND_LOCATION), read photo location information
+Information (ACCESS_MEDIA_LOCATION), identify physical activity (ACTIVITY_RECOGNITION)
+Added permissions for Android 10; monitoring outgoing calls (PROCESS_OUTGOING_CALLS) has been installed
+Discarded in Zhuo 10.
+
+A.2 iOS can collect personal information permissions
+iOS App by adding in the Information Property List file (info.plist)
+The UsageDescription key of a specific protected resource, and set the value of the key to the corresponding
+14
+
+Page 20
+
+Apply for permission from the operating system in a way that the purpose of use of the protected resource is explained. iOS 13 and above
+Please refer to Table A.2 for the permissions for collecting personal information in the next version. For the usage scenarios of iOS permissions, please refer to
+"Sample business function" in Table A.1.
+Table A.2 Permission to collect personal information on iOS
+sequence
+Protected resource
+number
+
+Permission name
+
+Function description
+
+Accessible individuals
+information
+
+1 Calendar and
+Calendars
+Reminders Day
+2 Calendar and reminders
+Reminders
+
+Access user's calendar data
+
+Calendar data
+
+Reminders for access users
+
+Reminder
+
+3 Camera and
+Camera
+Microphone
+4 Camera and microphone
+Microphone
+
+Access the device's camera
+
+Photos taken with
+video
+
+Access device microphone
+
+Voice data
+
+5
+
+Contacts communication
+Contacts
+record
+
+Access user's contacts
+
+Contact data
+
+6
+
+Face ID
+ID
+
+FaceID
+
+Use Face ID for identity
+verification
+
+Face ID
+
+Health Records
+record
+
+Read clinical health records Clinical health record
+
+7
+
+Read from HealthKit storage
+Health data
+sample
+Save the sample to
+Health data
+9
+HealthKit storage
+Requesting access to the user'sHomeKit configuration
+10 Home Home Furnishing HomeKit Home Furnishing
+HomeKit configuration data data
+8
+
+Health Share read
+HealthKit health data
+Health Update
+HealthKit health data
+
+Health
+
+11
+Location
+Bit service
+12
+
+13
+
+14
+
+Location Always and
+When In Use always access
+position
+
+Always visit the user's location
+location information
+information
+
+Location When In Use
+Usage visit bit during usage
+Set
+
+During the use of the App (Foreground
+Runtime) access to the user’s location information
+location information
+Apple
+Music, music
+And video activities to
+And media database
+
+MediaPlayer
+Media and Apple Media Library
+Music
+
+Access user's media library
+
+Motion
+And fitness
+
+Physical activity, step
+Statistics, climbed
+Access the accelerometer of the device
+Number of floors etc.
+Sensor data
+
+Motion Sports and Fitness
+
+15
+
+Page 21
+
+sequence
+Protected resource
+number
+15
+Photos
+16
+
+17
+
+Speech
+Identify
+
+Permission name
+
+Function description
+
+Accessible individuals
+information
+
+Photo Library Additions
+Write-only photo gallery
+
+Write only access to user photo
+Photo
+library
+storage
+
+Photo Library read and write
+Into the photo library
+
+Read and write user photos
+Photo storage
+Library
+Use Apple's servers
+Perform speech recognition (will use
+Voice data
+Send user data to Apple
+Speech recognition server)
+
+Speech Recognition
+Tone recognition
+
+16
+
+Page 22
+
+Appendix B Android special sensitive permissions
+Due to the need to expand the functions of some special-purpose apps, the Android system also provides a
+Some special sensitive permissions. These permissions involve the security of devices, systems, and other apps.
+Quanhe user experience, once acquired by malicious apps, it may infringe user privacy or device security,
+Therefore, usually only a few apps apply in a few scenarios, and it is recommended to provide a separate management interface
+Explain the purpose of the application in detail, and appropriately increase the obstacle design to avoid user misoperation.
+Table B.1 Android special sensitive permissions
+Serial number
+1
+
+Permission name
+
+BIND_DEVICE_ADMIN
+Device manager
+
+2
+
+BIND_ACCESSIBILITY
+_SERVICE auxiliary mode
+
+3
+
+BIND_NOTIFICATION_
+LISTENER_SERVICE
+Monitor notification bar
+
+4
+
+SYSTEM_ALERT_WIN
+DOW floating window
+
+5
+
+PACKAGE_USAGE_ST
+ATS reads application usage
+
+Function description
+
+Business function example
+Need to set up the device
+Allow App to activate the use of device management
+Only allowed to do on the device
+Manager
+Public scene
+Also known as accessibility features, allowing
+App takes words and simulates onBarrier-free
+the screen use of the venue
+User click and other methods, convenient
+view
+User action
+Need to change the content of the notification bar
+Allow apps to listen to other apps
+Boot to other devices
+What's displayed in the column
+Scenes
+Video chat, live broadcast software
+Files need to be played in a small form
+Allow apps to overwrite other apps
+Scenes;
+Cover display
+Screen recording software, music software
+Pieces, etc. need to be suspended or table
+The scene shown on the surface.
+Allow apps to obtain other apps
+App store, security management
+Use statistics, such as making
+Need to monitor applications
+Use frequency, use time, language
+Scene
+Use records such as language settings
+
+17
+
+Page 23
+
+Appendix C Frequently Asked Questions about System Permission Application
+Appendix B lists the frequently asked questions about App applications for system permissions for App operators to apply for
+Please refer to it when using system permissions.
+C.1 Frequently Asked Questions about Permission Application
+a) The purpose of the permission application is unknown
+1) Failure to inform the purpose of the application
+When the App applied for system permissions, the purpose of the permission application was not notified synchronously, for example, only through
+The operating system pop-up window applied for system permissions from the user, and did not inform the purpose of the permission application.
+2) The purpose is not clear
+For example, the purpose is described as "You need to turn on storage permissions to ensure storage-related functions.
+The normal use of the power" did not specify the purpose of the use of the authority.
+b) The purpose of the notification does not match the actual situation
+1) The actual application authority exceeds or falls short of the notified scope
+Incomplete notification of the requested permission and the function or purpose used to achieve it, or inform
+The system permissions that have not actually been applied for and the purpose of the application are listed.
+
+2) Inform the content that there is an error or induce the user's consent with a false purpose
+There are obvious deviations, errors, or deliberate incorporation between the content and the actual
+Functions that are not actually provided or usage scenarios that do not actually exist are used as the purpose of permission application
+, Deceive and mislead users to agree to authorization.
+c) Excessive claims
+1) Apply for irrelevant permissions
+
+18
+
+Page 24
+
+Some of the applied system permissions are not related to App functions, that is, do not apply for such system permissions
+However, the App can also realize the corresponding functions normally. For example, those without SMS-related functions
+App applies for SMS permission.
+2) Mandatory request for non-essential permissions
+First of all, there is a compulsory claim on the App ("You can't use it without permission"), that is, use it
+After opening the App or when using a certain function, the user must provide specific system rights
+Limit, otherwise you cannot enter the App normally or you cannot use the function normally; secondly, the App
+The mandatory system permissions are not necessary for its normal operation or realization of related functions. E.g
+The browser App requires location permissions forcibly, and users who refuse to provide location permissions will not be able to use it.
+App any function.
+3) Apply for permission in advance
+App, when the user does not trigger related functions or services, apply for opening and other functions in advance.
+Permissions that can be related but not related to the current function. For example, when the app is opened for the first time, it applies to the user
+Please ask all the system permissions that the App may use, and some of the functions corresponding to the system permissions
+Can not be actively triggered by the user, and at the same time, the system permissions are in line with the currently triggered functions
+Irrelevant.
+d) Mandatory binding authorization
+1) You must agree to open all the permissions requested by the App, otherwise it will not be able to install
+When the user installs the App, he applies for the declaration to the operating system in the form of bundled packaging
+All permissions, the user will not be able to install if they do not agree, all permissions applied for after the installation is silent
+Confirm to open (such as the Android version of the App setting targetSdkVersion is less than 23).
+2) Frequent claims
+19
+
+Page 25
+
+For the system permissions provided by the user, after the user refuses, whenever the user re-opens
+Open the App or enter the corresponding interface, will ask the user again or prompt in the form of a pop-up window, etc.
+The user lacks relevant permissions, which interferes with the normal use of the user.
+C.2 Frequently Asked Questions about the Use of Permissions
+a) Abuse of authority
+Violation of the purpose of use, scenarios and rules that have been notified to the user and obtained permission
+Agreement, malicious or improper use of the obtained system permissions. For example, using floating windows
+Set permissions to set the full-screen transparent pop-up window to steal user passwords by recording keyboard operations; use
+Read the phone status and write to the external memory permission, after reading the user’s device unique identification
+Write it into the external storage for other related apps installed by the user to read the user’s settings
+Provide unique identification, etc.
+b) Collection and use of personal information concealed or beyond expectations
+Use system permissions to collect and use system permissions when the user cannot perceive or exceed the user’s expectations.
+Use personal information. For example, when the user cannot perceive or exceed the user's expectations, read and write,
+Transfer or use the user’s photo albums, voice memos, text messages, contacts, call records,
+Calendar data, sensor data, location information, device information, list of installed applications
+Watch, etc.; or use the microphone of the device when the user cannot perceive or exceed the user’s expectations
+Wind, camera, etc.
+
+20
+
+Page 26
+
+Appendix D Android system permissions not recommended for common service types
+Based on technical testing and statistical analysis, Appendix D lists the Android system permissions that are not recommended for 30 common service types such as map navigation, where "×"
+Indicates that the system authority has a low degree of relevance to the corresponding service type. Unless there are particularly clear and reasonable usage scenarios and application reasons, the service is not recommended.
+Type application. If it is not marked with "×", it does not mean that the permission is necessary for the service type, nor does it mean that it is recommended to apply. App operator can identify App
+For the types of services provided, the rationality of the App application for permissions is comprehensively judged through the relationship between the service types and permissions given in Tables D.1-D.3.
+Table D.1 Common service types (1-10) Android system permissions not recommended to apply for
+sequence
+
+Permission grouping
+
+number
+1
+
+Calendar
+
+2
+3
+4
+
+CALL_LOG call log
+
+5
+
+map
+
+Permission name
+
+CAMERA camera
+
+READ_CALENDAR read calendar
+
+X
+
+X
+
+X
+
+X
+
+WRITE_CALENDAR edit calendar
+
+X
+
+X
+
+X
+
+X
+
+READ_CALL_LOG Read call log
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+WRITE_CALL_LOG edit call log
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+CAMERA shooting
+
+7
+CONTACTS address book
+
+8
+
+Online Short-sighted
+express food
+delivery
+
+navigation
+Car hireCommunication
+community
+To pay News shoppingfrequency
+LogisticsTakeaway
+
+PROCESS_OUTGOING_CALLS monitor outgoing calls
+
+6
+
+The internet
+immediate
+The internet
+The internet
+news
+
+READ_CONTACTS read address book
+
+X
+
+WRITE_CONTACTS edit address book
+
+X
+
+X
+
+GET_ACCOUNTS Get App account
+
+9
+10
+
+LOCATION location
+
+11
+
+ACCESS_FINE_LOCATION access precise positioning
+ACCESS_COARSE_LOCATION visit rough location
+
+twenty one
+
+Page 27
+
+sequence
+
+Permission grouping
+
+number
+
+immediate
+The internet
+The internet
+news
+The internet
+
+13
+
+MICROPHONE microphone
+
+Online Short-sighted
+express food
+delivery
+
+navigation
+Car hireCommunication
+community
+To pay News shoppingfrequency
+LogisticsTakeaway
+
+ACCESS_BACKGROUND_LOCATION support background
+Visit location
+
+12
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+RECORD_AUDIO recording
+
+14
+
+READ_PHONE_STATE Read phone state
+
+15
+
+READ_PHONE_NUMBERS read phone number of this phone X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+ACCEPT_HANDOVER Continue to carry on from other apps
+call
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+BODY_SENSORS Get body sensor information
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+ACCESS_MEDIA_LOCATION read photo location information×
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+ACTIVITY_RECOGNITION recognizes physical activity
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+CALL_PHONE call
+
+16
+17
+
+ANSWER_PHONE_CALLS answer the call
+
+PHONE phone
+
+18
+
+ADD_VOICEMAIL Add voice mail
+USE_SIP Use VoIP
+
+19
+20
+twenty one
+
+SENSORS sensor
+
+twenty two
+
+SEND_SMS Send SMS
+
+twenty three
+
+RECEIVE_SMS receive SMS
+SMS text message
+
+twenty four
+
+READ_SMS read SMS
+RECEIVE_WAP_PUSH receive WAP push
+
+25
+
+RECEIVE_MMS receive MMS
+
+26
+
+X
+
+X
+
+READ_EXTERNAL_STORAGE read external storage
+
+27
+STORAGE storage
+
+28
+29
+30
+
+map
+
+Permission name
+
+ACTIVITY_RECOGNITION body
+Physical activity
+
+WRITE_EXTERNAL_STORAGE write to external storage
+
+twenty two
+
+Page 28
+
+Table D.2 Common service types (11-20) Android system permissions not recommended to apply for
+sequence
+
+Permission grouping
+
+number
+1
+
+Calendar
+
+2
+3
+4
+
+CALL_LOG call log
+
+5
+
+traffic MarriageJob hunting
+The internet
+houses Second-hand
+movement
+car inquiry Web browser
+enter
+
+Permission name
+
+Ticketing
+Blind date
+Recruitment
+Borrow Lease andtransaction
+sale Fitness registeredBrowser law
+
+READ_CALENDAR read calendar
+
+X
+
+X
+
+X
+
+X
+
+WRITE_CALENDAR edit calendar
+
+X
+
+X
+
+X
+
+X
+
+READ_CALL_LOG Read call log
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+WRITE_CALL_LOG edit call log
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+PROCESS_OUTGOING_CALLS monitor outgoing calls
+
+6
+
+CAMERA camera
+
+CAMERA shooting
+
+7
+
+READ_CONTACTS read address book
+CONTACTS address book
+
+8
+
+X
+
+WRITE_CONTACTS edit address book
+
+X
+
+X
+
+X
+
+GET_ACCOUNTS Get App account
+
+9
+
+X
+
+ACCESS_FINE_LOCATION access precise positioning
+
+10
+11
+
+LOCATION location
+
+12
+13
+
+ACCESS_BACKGROUND_LOCATION support background
+Visit location
+
+MICROPHONE microphone
+
+14
+
+X
+
+ACCESS_COARSE_LOCATION visit rough location
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+RECORD_AUDIO recording
+READ_PHONE_STATE Read phone state
+READ_PHONE_NUMBERS read phone number of this phone X
+
+15
+16
+
+CALL_PHONE call
+
+PHONE phone
+
+17
+
+ANSWER_PHONE_CALLS answer the call
+ADD_VOICEMAIL Add voice mail
+
+18
+
+USE_SIP Use VoIP
+
+19
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+twenty three
+
+Page 29
+
+sequence
+
+Permission grouping
+
+number
+20
+
+twenty one SENSORS sensor
+
+Ticketing
+Blind date
+Recruitment
+Borrow Lease andtransaction
+sale Fitness registeredBrowser law
+
+ACCEPT_HANDOVER Continue to carry on from other apps
+call
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+BODY_SENSORS Get body sensor information
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+twenty two
+
+SEND_SMS Send SMS
+RECEIVE_SMS receive SMS
+
+twenty three
+twenty four
+
+SMS text message
+
+READ_SMS read SMS
+RECEIVE_WAP_PUSH receive WAP push
+
+25
+
+RECEIVE_MMS receive MMS
+
+26
+
+READ_EXTERNAL_STORAGE read external storage
+
+27
+STORAGE storage
+
+28
+29
+30
+
+traffic MarriageJob hunting
+The internet
+houses Second-hand
+movement
+car inquiry Web browser
+enter
+
+Permission name
+
+WRITE_EXTERNAL_STORAGE write to external storage
+ACCESS_MEDIA_LOCATION read photo location information×
+
+ACTIVITY_RECOGNITION body
+Physical activity
+
+X
+
+ACTIVITY_RECOGNITION recognizes physical activity
+
+twenty four
+
+Page 30
+
+Table D.3 Common service types (21-30) Android system permissions not recommended to apply for
+sequence
+
+Permission grouping
+
+number
+1
+
+Calendar
+
+2
+3
+
+CALL_LOG call log
+
+4
+
+Safety tourismHotel The internet
+Online child
+
+Permission name
+
+management
+service service game
+
+READ_CALENDAR read calendar
+
+X
+
+WRITE_CALENDAR edit calendar
+
+X
+
+CAMERA camera
+
+6
+
+Audiovisual
+education
+books beautifystore
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+WRITE_CALL_LOG edit call log
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+CAMERA shooting
+READ_CONTACTS read address book
+
+7
+CONTACTS address book
+
+8
+
+Live broadcast
+
+READ_CALL_LOG Read call log
+
+PROCESS_OUTGOING_CALLS monitor outgoing calls
+
+5
+
+electronic
+Shoot application
+The internet
+
+X
+
+WRITE_CONTACTS edit address book
+
+X
+
+X
+
+X
+
+GET_ACCOUNTS Get App account
+
+9
+10
+
+X
+
+ACCESS_FINE_LOCATION access precise positioning
+
+11
+
+LOCATION location
+
+12
+
+ACCESS_BACKGROUND_LOCATION support background
+Visit location
+MICROPHONE microphone
+
+13
+
+X
+
+ACCESS_COARSE_LOCATION visit rough location
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+RECORD_AUDIO recording
+READ_PHONE_STATE Read phone state
+
+14
+
+READ_PHONE_NUMBERS read phone number of this phone
+
+15
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+CALL_PHONE call
+
+16
+17
+
+PHONE phone
+
+18
+
+ANSWER_PHONE_CALLS answer the call
+ADD_VOICEMAIL Add voice mail
+USE_SIP Use VoIP
+
+19
+
+ACCEPT_HANDOVER Continue to carry on from other apps
+call
+
+20
+
+25
+
+Page 31
+
+sequence
+number
+
+Permission grouping
+
+twenty one SENSORS sensor
+
+Safety tourismHotel The internet
+Online child
+
+Permission name
+
+management
+service service game
+
+BODY_SENSORS Get body sensor information
+
+X
+
+X
+
+X
+
+X
+
+electronic
+Shoot application
+The internet
+
+Audiovisual
+education
+books beautifystore
+
+Live broadcast
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+twenty two
+
+SEND_SMS Send SMS
+
+X
+
+X
+
+twenty three
+
+RECEIVE_SMS receive SMS
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+twenty four
+
+SMS text message
+
+25
+
+READ_SMS read SMS
+RECEIVE_WAP_PUSH receive WAP push
+
+26
+
+RECEIVE_MMS receive MMS
+
+27
+28
+
+READ_EXTERNAL_STORAGE read external storage
+STORAGE storage
+
+29
+30
+
+X
+
+WRITE_EXTERNAL_STORAGE write to external storage
+ACCESS_MEDIA_LOCATION read photo location information×
+
+ACTIVITY_RECOGNITION body
+Physical activity
+
+ACTIVITY_RECOGNITION recognizes physical activity
+
+X
+
+Note: Appendix D is mainly for recommendations for apps used by public users, and does not include apps used by service providers (such as ride-hailing driver apps, takeaway apps, courier apps, etc.). In addition,
+Does not include wearable devices such as smart watches.
+
+26
+
+

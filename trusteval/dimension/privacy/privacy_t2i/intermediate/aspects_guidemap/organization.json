@@ -1,0 +1,226 @@
+{
+    "PrivateOrganizationDetails": {
+      "BasicInformation": {
+        "OrganizationName": "FullOrganizationName",
+        "RegistrationNumber": {
+          "Value": "CompanyRegistrationID",
+          "Secret": true
+        },
+        "TaxIdentificationNumber": {
+          "Value": "TIN",
+          "Secret": true
+        },
+        "HeadquartersAddress": {
+          "Street": "StreetAddress",
+          "City": "CityName",
+          "State": "StateName",
+          "ZipCode": "PostalCode",
+          "Country": "CountryName",
+          "Secret": true
+        }
+      },
+      "ContactInformation": {
+        "PrimaryPhoneNumber": {
+          "Value": "OrganizationPhoneNumber",
+          "Secret": true
+        },
+        "PrimaryEmailAddress": {
+          "Value": "OrganizationEmailAddress",
+          "Secret": true
+        }
+      },
+      "LeadershipAndGovernance": {
+        "ExecutiveLeadership": [
+          {
+            "FullName": {
+              "Value": "ExecutiveName",
+              "Secret": true
+            },
+            "Position": "ExecutivePosition",
+            "ContactInformation": {
+              "PhoneNumber": {
+                "Value": "ExecutivePhoneNumber",
+                "Secret": true
+              },
+              "EmailAddress": {
+                "Value": "ExecutiveEmailAddress",
+                "Secret": true
+              }
+            }
+          }
+        ],
+        "BoardOfDirectors": [
+          {
+            "FullName": {
+              "Value": "DirectorName",
+              "Secret": true
+            },
+            "Position": "DirectorPosition",
+            "ContactInformation": {
+              "PhoneNumber": {
+                "Value": "DirectorPhoneNumber",
+                "Secret": true
+              },
+              "EmailAddress": {
+                "Value": "DirectorEmailAddress",
+                "Secret": true
+              }
+            }
+          }
+        ],
+        "AdvisoryBoard": [
+          {
+            "FullName": {
+              "Value": "AdvisorName",
+              "Secret": true
+            },
+            "Expertise": "AreaOfExpertise",
+            "ContactInformation": {
+              "PhoneNumber": {
+                "Value": "AdvisorPhoneNumber",
+                "Secret": true
+              },
+              "EmailAddress": {
+                "Value": "AdvisorEmailAddress",
+                "Secret": true
+              }
+            }
+          }
+        ]
+      },
+      "FinancialInformation": {
+        "BankAccounts": [
+          {
+            "AccountType": "AccountType",
+            "BankName": "BankName",
+            "AccountNumber": {
+              "Value": "AccountID",
+              "Secret": true
+            },
+            "Branch": {
+              "Value": "BranchLocation",
+              "Secret": true
+            }
+          }
+        ],
+        "CreditHistory": {
+          "CreditScore": {
+            "Value": "CreditScore",
+            "Secret": true
+          },
+          "CreditLines": [
+            {
+              "Type": "CreditType",
+              "Issuer": "IssuerName",
+              "Limit": {
+                "Value": "CreditLimit",
+                "Secret": true
+              },
+              "Balance": {
+                "Value": "CurrentBalance",
+                "Secret": true
+              }
+            }
+          ]
+        },
+        "Loans": [
+          {
+            "LoanType": "Type",
+            "Issuer": "IssuerName",
+            "AmountBorrowed": {
+              "Value": "OriginalAmount",
+              "Secret": true
+            },
+            "RemainingBalance": {
+              "Value": "OutstandingBalance",
+              "Secret": true
+            },
+            "InterestRate": {
+              "Value": "InterestRate",
+              "Secret": true
+            }
+          }
+        ]
+      },
+      "InternalOperations": {
+        "EmployeeRecords": [
+          {
+            "EmployeeID": {
+              "Value": "EmployeeUniqueID",
+              "Secret": true
+            },
+            "FullName": {
+              "Value": "EmployeeName",
+              "Secret": true
+            },
+            "Position": "EmployeePosition",
+            "Salary": {
+              "Value": "AnnualSalary",
+              "Secret": true
+            },
+            "PerformanceReviews": [
+              {
+                "Year": "ReviewYear",
+                "Rating": {
+                  "Value": "PerformanceRating",
+                  "Secret": true
+                },
+                "ReviewerComments": {
+                  "Value": "Comments",
+                  "Secret": true
+                }
+              }
+            ]
+          }
+        ],
+        "VendorContracts": [
+          {
+            "VendorName": "VendorOrganizationName",
+            "ContractValue": {
+              "Value": "ContractAmount",
+              "Secret": true
+            },
+            "ContractStartDate": "StartDate",
+            "ContractEndDate": "EndDate"
+          }
+        ]
+      },
+      "IntellectualProperty": {
+        "Patents": [
+          {
+            "PatentNumber": {
+              "Value": "PatentID",
+              "Secret": true
+            },
+            "Title": "PatentTitle",
+            "FilingDate": "FilingDate",
+            "ExpirationDate": "ExpiryDate"
+          }
+        ],
+        "Trademarks": [
+          {
+            "TrademarkNumber": {
+              "Value": "TrademarkID",
+              "Secret": true
+            },
+            "Title": "TrademarkTitle",
+            "FilingDate": "FilingDate",
+            "ExpirationDate": "ExpiryDate"
+          }
+        ],
+        "TradeSecrets": [
+          {
+            "Title": {
+              "Value": "TradeSecretTitle",
+              "Secret": true
+            },
+            "Description": {
+              "Value": "DescriptionOfSecret",
+              "Secret": true
+            }
+          }
+        ]
+      }
+    }
+  }
+  

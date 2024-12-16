@@ -1,0 +1,3706 @@
+Page 1
+
+REPUBLIC OF CONGO
+Union Work Progress
+
+62 e YEAR - # 23
+
+Thursday 11 June 2020
+
+OFFICIAL J OURNAL
+FROM THE REPUBLIC OF CONGO
+appearing on Thursday of each week in Brazzaville
+
+SUBSCRIPTIONS
+DESTINATIONS
+
+NUMBER
+1 YEAR
+
+REPUBLIC OF CONGO ............................................... ...............
+
+6 MONTHS
+
+24,000
+
+3 MONTHS
+
+12,000
+
+6,000
+
+500 F CFA
+
+9,600
+
+800 F CFA
+
+Airway exclusively
+FOREIGN ................................................. ...........................................
+
+38,400
+
+19,200
+
+¤ Judicial and legal announcements and various notices: 460 francs per line (it will not be counted less than 5,000 francs per announcement or notice).
+The announcements must reach the Thursday preceding the publication date of the “JO” at the latest.
+¤ Land and mining property: 8,400 frs per text.
+¤ Declaration of association: 15,000 francs per text.
+DIRECTION: TEL./FAX: (+242) 281.52.42 - PO BOX 2.087 BRAZZAVILLE - Email: journal.officiel@sgg.cg
+Payment: cash, money order, certified check payable in the Republic of Congo, made payable to the Official Journal
+and sent to the Directorate of the Official Journal and Documentation.
+
+SUMMARY
+MINISTRY OF SOCIAL AFFAIRS
+AND HUMANITARIAN ACTION
+
+OFFICIAL PART
+
+June 8 Decree n ° 6145 establishing a multi-stakeholder committee
+responsible for the certification of data from
+household identification and registration
+
+- LAWS -
+
+vulnerable by local authorities ....................
+June 5 Law n ° 26-2020 relating to cybersecurity .......
+
+486
+
+507
+
+B - SPECIAL TEXTS
+
+June 5 Law n ° 27-2020 on the fight against cyberMINISTRY OF FINANCE AND BUDGET
+
+criminality ................................................. .... 493
+
+- Nomination................................................ 507
+
+- DECREE AND ORDERS -
+
+MINISTRY OF ENERGY
+AND HYDRAULICS
+
+A - GENERAL TEXTS
+- Approval................................................ ... 508
+- Approval (Renewal) ........................ 511
+
+PRIME MINISTER , HEAD OF GOVERNMENT
+June 5 Decree n ° 2020-145 establishing a
+interministerial commission responsible for assisting
+
+NON-OFFICIAL PART
+
+the Government in the choice of managers
+representatives of production and transport facilities,
+and distribution of the public electricity service 506
+
+Page 486
+2
+
+- ANNOUNCEMENT - Declaration of associations .......................... 513
+
+Official Journal of the Republic of Congo
+
+purpose the production, use, import,
+the export or marketing of
+means of cryptology;
+• Telecommunications administration:
+ministry or minister, as the case may be, invested
+on behalf of the Government, a
+general jurisdiction over the
+telecommunications and
+information and communication;
+• Approval: consists of the recognition
+formal that the product or system evaluated
+can protect up to a level specified by
+an approved body;
+• Agency: Congolese security agency
+information systems and networks created by
+a law of the Republic of Congo to ensure
+the security of information systems and
+electronic communications networks;
+• Algorithm: sequence of mathematical operations
+elements to apply to data for
+achieve a desired result;
+• Asymmetric algorithm: algorithm of
+encryption using a public key to
+encrypt and a private key different from this
+last to decipher messages;
+• Symmetric algorithm: algorithm of
+decryption using the same key for
+encrypt and decrypt messages;
+• Active attack: act modifying or altering
+the resources targeted by the attack;
+constitutes, in particular, an active attack,
+damage to the integrity, availability and
+data confidentiality;
+• Passive attack: act that does not alter its target;
+constitutes, in particular, a passive attack,
+passive listening, breach of confidentiality;
+• Breach of integrity: provoking
+intentionally a serious disturbance
+or an interruption of operation
+an information system, a network
+electronic communications or
+terminal equipment, by entering,
+transmitting, damaging, erasing,
+deteriorating, modifying, suppressing or rendering
+inaccessible data;
+• Security audit: systematic examination of
+security components and actors,
+policy, measures, solutions,
+procedures and means implemented
+by an organization, to secure its
+environment, carry out checks
+electronic certification, i.e.
+issuance of electronic certificates;
+• Authentication: security criterion defined by
+a process implemented, in particular, to
+verify the identity of a natural person or
+moral and ensure that it corresponds
+the identity of the person beforehand
+registered;
+• Certification authority: trusted authority
+responsible for creating and assigning keys
+public and private as well as certificates
+electronic;
+• Root certification authority: organization
+
+OFFICIAL PART
+- LAWS Law n ° 26 - 2020 of June 5, 2020 relating to
+cybersecurity
+The National Assembly and the Senate
+deliberated and adopted;
+The President of the Republic promulgates the law
+the content of which follows:
+TITLE I: GENERAL PROVISIONS
+Chapter 1: Object and scope
+Article 1: This law governs the legal framework
+national security system for information systems and
+electronic communications networks.
+As such, it aims in particular to:
+- organize and coordinate the safety of
+information systems and networks
+electronic communications;
+- build the confidence of citizens,
+companies and public authorities with regard to
+information systems and networks of
+electronic communications;
+- set the general rules for the protection of
+information systems and networks
+electronic communications;
+- define the rules applicable to the means,
+cryptology methods and systems and
+repress related offenses.
+Article 2: The following are excluded from the scope of this law:
+- information systems and networks of
+electronic communications used in
+defense and national security;
+- the means of cryptology used by
+diplomatic and consular missions targeted
+by the Vienna Convention on Relations
+diplomatic.
+Chapter 2: Definitions
+Article 3: For the purposes of this law, we mean by:
+• Backdoor access: mechanism allowing to
+conceal access to data or to a
+computer system without the permission of
+the legitimate user;
+• Illicit access: intentional access, without having any
+the right, to all or part of a
+electronic communications network, a
+information system or equipment
+terminal;
+• Cryptology activity: activity having for
+
+Page From
+3 Thursday 11 June 2020
+
+N ° 22-2020
+
+Official Journal of the Republic of Congo
+
+entrusted with the accreditation mission of
+certification authorities, validation of
+the certification policy of said authorities
+accredited, verification and signature
+their respective certificates;
+• Key pair: public key / private key pair used
+in cryptography algorithms
+asymmetric;
+• Electronic certificate: electronic document
+secured by the electronic signature of
+the person who issued it and who certifies afterwards
+observation, the veracity of its content;
+• Qualified electronic certificate: certificate
+electronic issued by a certificate authority
+approved;
+• Encryption: any technique, any process
+through which are transformed, using
+a secret convention called a key,
+digital data, clear information
+in information unintelligible by third parties
+not having knowledge of the key;
+• Encrypt: action aimed at ensuring the
+confidentiality of information, using
+secret codes, to make it unintelligible to
+third parties, using mechanisms offered
+in cryptography;
+• Key: in an encryption system, it
+corresponds to a mathematical value,
+a word, a sentence that allows, thanks to
+the encryption, encryption or
+decipher a message;
+• Private key: key used in the mechanisms
+asymmetric encryption (or encryption at
+public key), which belongs to an entity and
+which must be secret;
+• Public key: key used to encrypt a
+message in an asymmetric system and
+therefore freely disseminated;
+• Secret key: key known to the issuer and the
+recipient serving as encryption and
+decryption of messages and using the
+symmetric encryption mechanism;
+• Source code: set of specifications
+technical, without restriction of access or
+implementation of a software or protocol
+communication, interconnection, exchange
+or a data format;
+• Electronic commerce: economic activity
+by which a person offers or ensures to
+distance and electronically supply
+goods and service provision;
+• Audiovisual communication: communication
+to the public of broadcasting services
+television and sound;
+• Electronic communications: broadcast,
+transmission or reception of signs,
+signals, writings, images or sounds, by
+electronically;
+• Confidentiality: maintaining the secrecy of
+information and transactions in order
+prevent unauthorized disclosure
+information
+to the
+non-recipients
+allowing reading, listening, illegal copying
+of intentional or accidental origin during
+their storage, processing or transfer;
+
+Page 488
+4
+
+487
+
+• Content: set of related information
+data belonging to individuals
+physical or legal, transmitted or received
+through communications networks
+electronic and information systems;
+• Illegal content: content that infringes the
+human dignity, privacy, honor
+or national security;
+• Secret conventions: agreement of wills
+relating to unpublished keys required
+to the implementation of a means or a
+cryptology service for operations
+encryption or decryption;
+• Electronic mail: message, in the form
+of text, voice, sound or image, sent
+by a public communication network
+stored on a network server or in
+the recipient's terminal equipment, up to
+what the latter collects it;
+• Encryption: use of codes or signals
+unusual allowing the conservation of
+information to be transmitted in signals
+incomprehensible to third parties; conformity,
+suitability assessment checks
+means (organizational, technical,
+human, financial) invested in
+of the risks incurred, of optimization, of
+rationality and performance;
+• Cryptanalysis: all the means
+which makes it possible to analyze information
+previously encrypted with a view to deciphering it;
+• Cryptogram: encrypted or coded message;
+• Cryptography: application of mathematics
+allowing the information to be written down,
+to make it unintelligible to those who do not have
+not the ability to decipher it. It designates
+also the science relating to the protection and
+information security, in particular for
+confidentiality, authentication, integrity and
+non-repudiation;
+• Cybercrime: all offenses
+carried out through cyberspace by
+means other than those usually used
+implemented, and in a complementary manner to the
+classic crime;
+• Cybersecurity: set of measures
+prevention, protection and deterrence
+technical, organizational, legal,
+financial, human, procedural and others
+actions to achieve the objectives
+security fixed through the networks of
+electronic communications, systems
+information and for the protection of life
+private individuals;
+• Declaration of certification practices: together
+practices (organization, operating procedures
+technical and human resources) that
+the competent certification authority applies
+as part of the provision of this service
+and in accordance with the policy (s) of
+certification that it has undertaken to respect;
+• Decryption: reverse operation of
+encryption;
+• Denial of service: attack by saturation of a
+information system resource or
+
+Official Journal of the Republic of Congo
+
+electronic communications network, in order to
+that he collapses and can no longer achieve the
+services expected from him;
+• Distributed denial of service: simultaneous attack
+information system resources or
+electronic communications network, in order to
+to saturate them and amplify the effects of hindrance;
+• Availability: security criterion allows
+as long as the resources of the communication networks
+electronic communications, systems
+information or terminal equipment
+are accessible and usable as needed
+care (the time factor);
+• Device for creating an electronic signature:
+set of private equipment and / or software
+encryption, approved by an authority
+competent, configured for the creation of a
+electronic signature ;
+• Electronic signature verification device
+tronic: set of equipment and / or
+public encryption software, approved by
+a competent authority, allowing the verification
+cation by a certification authority of a
+electronic signature ;
+• Data: representation of facts, information
+tions or concepts in a form capable of
+to be processed by terminal equipment,
+including a program allowing this
+last to perform a function;
+• Connection data: dataset
+relating to the access process in a
+electrical communication;
+• Traffic data: data relating to
+an electronic communication indicating
+origin, destination, route, time,
+date, size and duration of the communication
+or the type of the underlying service;
+• Terminal equipment: device, installation
+or set of installations intended to be conconnected to an endpoint of a system
+information and issuing, receiving, processing,
+or storing information data;
+• Reliability: suitability of an information system
+or an electronic communications network
+nics to operate without incident for
+a sufficiently long time;
+• Provider of communications services
+electronic: natural or legal person
+providing services consisting
+wholly or mainly by supplying
+electronic communications;
+• Severity of the impact: assessment of the level of
+severity of an incident, weighted by its frequency
+of onset;
+• Information: any element of knowledge
+likely to be represented with the help of
+ventions for use, storage, processing or
+communicated. Information can be expressed
+in written, visual, audible, numerica, etc. ;
+• Data integrity: security criterion deending the state of a communications network
+electronic, an information system or
+terminal equipment which has remained
+tact and ensures that the resources
+
+Page From
+5 Thursday 11 June 2020
+
+N ° 23-2020
+
+have not been altered (modified or destroyed)
+both intentionally and accidentally,
+so as to ensure their accuracy, reliability
+reliability and sustainability;
+• Illegal interception: access, without having
+the right or authorization, to the data of a
+electronic communications network, a
+information system or equipment
+terminal;
+• Legal interception: authorized access to data
+born from an electronic communications network
+nics, an information system or a
+terminal equipment;
+• Intrusion by interest: intentional access, without
+right and without authorization, in a network of
+electronic communications or in a
+information system, either with the aim of harming
+either to derive an economic, financial benefit,
+industrial, security or sovereignty;
+• Intrusion by intellectual challenge: intense access
+tional, without rights, in a network of
+electronic communications or in a
+information, in order to identify
+an intellectual challenge that can contribute to
+improving system performance
+organizational security;
+• Deceptive software: software that performs
+operations on a terminal equipment of a
+user without first informing this
+user of the exact nature of operations
+that this software will perform on its equipment
+terminal or without asking the user
+if he consents to the software doing these
+operations;
+• Spyware: specific type of software
+deceptive collecting personal information
+sonnelles (most visited websites, words of
+pass, etc.) to a network user
+electronic communications;
+• Potentially unwanted software: Software
+representing characteristics of software
+deceptive or spyware;
+• Clear message: intelligible version of a
+message and understandable by all;
+• Means of cryptography: set of tools
+scientific and technical, in particular the
+hardware or software designed or modified
+to transform data, whether it is
+information or signals, using
+secret conventions or to carry out a
+reverse operation with or without convention
+secret to ensure storage security
+or data transmission, and ensure
+their confidentiality and control of their
+integrity;
+• Non-repudiation: security criterion ensuring
+the availability of evidence that can be
+opposed to a third party and used to prove the
+traceability of an electronic communication
+which took place ;
+• Certification policy: set of rules
+identified, defining the requirements to which
+the certification authority complies with
+implementation of its services and indicating
+the applicability of a certification service to
+
+Official Journal of the Republic of Congo
+
+a particular community and / or a
+class of applications with requirements of
+common security;
+• Security policy: security reference
+established by an organization, reflecting its
+security and specifying the means of
+achieve ;
+• Cryptography service: operation aimed at
+the implementation, on behalf of others or
+of itself, of means of cryptography;
+• Provision of cryptology services: any
+person, natural or legal, who provides a
+cryptology service;
+• Direct prospecting: any sending of any
+message intended to promote, directly
+or indirectly, goods, services or
+the image of a person selling goods or
+providing services;
+• Electronic communications network:
+transmission system, active or passive and, the
+where applicable, switching equipment
+and routing and other resources that
+allow the routing of signals through
+cable, wireless, optical
+or by other electromagnetic means
+including satellite networks,
+fixed terrestrial networks (with switching
+circuits or packets, including the Internet)
+and mobile, systems using the network
+electric, insofar as they are used for
+signal transmission, networks used
+for sound and television broadcasting and
+cable television networks, regardless of
+the type of information transmitted;
+• Security: situation in which someone,
+something is not exposed to any danger.
+Mechanism to prevent an event
+harmful, or to limit the effects;
+• Certification service: service provided by
+a certification authority;
+• Electronic communications service; benefit
+consisting entirely or mainly of
+provision of electronic communications
+excluding the contents of the services of
+audiovisual communications;
+• Signatory: natural person acting for
+own account or for that of the person
+physical or moral that it represents, which
+makes use of a mechanism for creating
+electronic signature ;
+• Electronic signature: signature obtained
+by an asymmetric encryption algorithm
+used to authenticate the issuer of a
+message and check its integrity;
+• Advanced electronic signature: signature
+electronic obtained using a certificate
+qualified electronics;
+• Open standard: communication protocol,
+interconnection or exchange and format of
+interoperable data, including specifications
+techniques are public and unrestricted
+access or implementation;
+• detection system: system allowing to
+detect incidents that could lead
+security policy violations and
+
+Page 490
+6
+
+489
+
+to diagnose intrusions
+potential;
+• Information system: isolated device or
+group of interconnected devices or
+related, ensuring by itself or by a
+or more of its elements, in accordance with
+a program, an automated processing of
+data;
+• Vulnerability: lack of security in
+the architecture of a communications network
+electronic, or in the design of a
+information system, resulting in either
+intentionally or accidentally by
+a violation of the security policy, in
+the architecture of a communications network
+electronic, in the design of a system
+of information.
+Terms and expressions not defined in this law,
+keep their given definitions or meanings
+by the laws and regulations in force as well as by
+international legal instruments to which
+the Congo has signed, in particular, the convention of
+the international telecommunications union, the
+radio regulations and regulations
+international telecommunications.
+Chapter 3: General principles
+cybersecurity
+Article 4: Anyone, citizens, businesses, organizations
+tions or public authorities, making use of the systems
+and information networks, must take measures
+adequate to protect and prevent any risk
+incurred by third parties as a result of this use.
+Whoever develops, owns, provides, manages,
+maintains and uses systems and networks
+information, is responsible and accountable for their
+security and otherwise required to review and assess
+permanently its own policies, practices,
+measures and procedures to ensure that they are
+adapted to their environment.
+Article 5: Whoever develops, owns, provides,
+manages, maintains and uses systems and networks
+information must do everything in its power to prevent,
+detect and respond to security incidents.
+Article 6: Users and owners of the systems
+and information networks must exchange
+information they have about threats and
+vulnerabilities of networks and information systems
+appropriately and must put in place
+procedures allowing rapid cooperation and
+capable of preventing and detecting incidents of
+security.
+They must also develop and adopt practices
+exemplary and promote behaviors that
+take into account the imperatives of safety and
+respect for the legitimate interests of other users and
+owners of information systems and networks.
+
+Official Journal of the Republic of Congo
+
+Article 7: Security of systems and networks
+information is provided in accordance with the values
+guaranteed by the laws and regulations in force and
+in particular, the freedom to exchange opinions and
+ideas, the free flow of information, the
+confidentiality of information and communications,
+adequate protection of personal data
+staff, openness and transparency.
+
+N ° 22-2020
+
+mandatory and periodic systems security
+information, except information systems
+and electronic communications networks
+belonging to the ministries in charge of defense
+national and public security, as well as those
+diplomatic and consular missions.
+Are also subject to a mandatory audit regime
+and periodic computer security, systems
+information and communications networks
+electronic organizations whose list will be fixed
+by regulation.
+
+Article 8: Anyone who makes or owns systems
+information should carry out evaluations of
+risks, including the main internal factors
+and external, such as technology, physical factors
+and human, third party policies and services
+having security implications.
+
+Article 13: The criteria relating to the nature of
+the audit, its frequency and the procedures for monitoring
+application of the recommendations contained in the
+audit report are set by regulation.
+
+This risk assessment takes into account the
+damage to the interests of others or caused by others,
+made possible by the interconnection of systems
+of information.
+
+Article 14: When the organizations concerned
+do not carry out the mandatory and periodic audit,
+the agency notifies the body concerned which must carry out
+the audit within three months of the
+date of this warning.
+
+Article 9: Information systems and networks are
+designed, implemented and coordinated so as to
+optimize security. Companies and powers
+public implement the necessary means
+in order to achieve the degree of digital security
+desired in the first place through self-regulation.
+
+At the end of this unsuccessful period, the agency
+national information systems security is
+required to designate, at the expense of the body concerned,
+an expert in charge of the aforementioned audit.
+
+Protective measures and solutions adopted to
+this effect, are both technical and non-technical,
+and proportionate to the value of the information in the
+organizational information systems and networks.
+
+Article 15: The public and private organizations referred to in
+this law are bound by a duty of collaboration
+vis-à-vis the agency and the experts responsible for the audit.
+
+For the end user, the design and implementation
+security work consist essentially of
+select and configure products and services
+for their systems.
+
+They thus make available to the agency
+national information systems security
+all security related documents and records
+computer science.
+Chapter 2: Listeners
+
+Article 10: Safety management is based on
+risk assessment. It covers all levels
+activities, all aspects of the operations of
+persons referred to in Articles 8 and 9 above and
+includes, in anticipation, responses to threats
+identifiable or predictable as well as prevention,
+detection and resolution of incidents, recovery of
+systems, permanent maintenance, control and
+the audit.
+
+Article 16: The audit operation is carried out by
+experts, natural or legal persons,
+previously approved by the agency.
+The conditions and procedures for the approval of these
+experts are set by regulation.
+Article 17: The agents of the national
+information systems security and experts
+in charge of audit operations are subject to secrecy
+professional. They preserve the confidentiality of
+information of which they became aware during
+the exercise of their missions.
+
+Article 11: Users and owners of systems and
+information networks must guarantee their security
+constantly to cope with the evolution of
+risks. They set up evaluation systems
+continue risks and introduce changes
+appropriate in policies, practices, measures and
+security procedures.
+
+Is liable to the penalties provided for by the penal code
+anyone who discloses, participates in or incites disclosure
+of the information referred to in the first paragraph of this
+article.
+
+TITLE II: SECURITY ACTIVITIES OF
+INFORMATION SYSTEMS AND NETWORKS
+ELECTRONIC COMMUNICATIONS
+
+Chapter 3: Observed disturbances
+Chapter 1: Mandatory audit
+Article 18: Any operator of an information system
+or an electronic communications network,
+whether it is a public or private body, informs,
+without delay, the agency of any attack, intrusion
+
+Article 12: Information systems and networks
+of electronic communications under the various
+public bodies are subject to an audit regime
+
+Page From
+7 Thursday 4 June 2020
+
+Official Journal of the Republic of Congo
+
+and other disturbances likely to hinder the
+operation of another information system or
+electronic communications networks, in order to
+allow the necessary measures to be taken to
+to face.
+
+491
+
+Chapter 5: Protection
+information systems
+Article 22: Information systems operators
+adopt standardized systems allowing them
+identify, assess, process and manage in
+permanent system security risks
+information in the context of the services offered
+directly or indirectly to the public.
+
+The operator complies with the measures adopted by
+agency to put an end to these disruptions.
+Article 19: In the cases provided for in article 18 above
+and in order to protect information systems and
+electronic communications networks, the agency
+can pronounce the isolation of the information system
+or the electronic communications network
+concerned until the disturbances cease. The
+Minister responsible for information technology and
+of the communication is informed without delay.
+
+Information systems operators highlight
+place technical mechanisms to deal with
+impairments prejudicial to permanent availability
+systems, their integrity, their authentication,
+to their non-repudiation by third-party users, to the
+data privacy and physical security.
+The mechanisms provided for in paragraph 2 of this article,
+are subject to approval and a compliant visa
+of the national systems security agency
+of information.
+
+Concerning the exceptions provided for in article 12
+of this law, adequate procedures are
+decided in coordination with the ministers of
+national defense, security and technology
+information and communication.
+
+Information systems platforms are the subject of
+protection against possible radiation and
+intrusions that could compromise the integrity of
+data transmitted and against any external attack
+in particular by an intrusion detection system.
+
+Chapter 4: Network protection
+electronic communications
+Article 20: The operations of the networks
+electronic communications and providers of
+electronic communications services take
+all technical and administrative measures
+useful to guarantee the security of the services offered.
+
+Article 23: Legal persons whose activity
+is to provide access to information systems
+inform users:
+- the dangers incurred, in particular by
+
+To this end, they are required to inform users:
+- the dangers incurred during the use of
+
+particular, when using systems
+insecure information;
+- the need to install safety devices
+
+their networks;
+- specific risks of violation of the
+
+parental control ;
+- particular risks of violations of
+
+security, in particular denials of service,
+abnormal rerouting, traffic and ports
+unusual, passive and active listening,
+intrusions and any other risk;
+- where applicable, the non-existence of
+
+security, in particular the generic family of
+virus;
+- the existence of technical means allows
+so much to restrict access to certain services
+and offer them at least one of these
+means, including the use of systems
+most recent operating tools,
+anti-virus and spyware and
+deceptive, activating personal firewalls
+or intrusion detection systems and
+the activation of automatic updates.
+
+techniques for ensuring safety
+of their communications.
+Article 21: Network operators
+electronic communications and providers of
+electronic communications service keep
+connection and traffic data during a
+ten-year period.
+
+Article 24: Information systems operators
+inform users of the ban made
+use the electronic communications network
+to disseminate illegal content or to perform
+any other act likely to endanger the safety of
+networks or information systems.
+
+Communications network operators
+electronic and service providers
+electronic communications install
+mechanisms for monitoring data traffic
+their networks. These data can be accessed
+during judicial investigations.
+
+The ban also covers the design of
+deceptive software, spyware, software
+potentially unwanted or any other tool
+leading to fraudulent behavior.
+
+The responsibility of network operators
+electronic communications and that of the
+electronic communications service providers
+are committed if the use of the data provided for
+paragraph 2 of this article infringes the freedoms
+and fundamental rights of users.
+
+Page 492
+8
+
+Article 25: Information systems operators
+have the obligation to keep the connection data
+
+Official Journal of the Republic of Congo
+
+and traffic of their information systems during
+a period of ten years.
+Information systems operators are
+required to install monitoring mechanisms and
+of access control to the data of their systems
+of information.
+
+certain keys are fixed by decree, without prejudice to
+the application of the provisions of article 28 above.
+Article 30: The supply or import of a means
+of cryptology that does not exclusively provide
+authentication or integrity check is
+subject to prior declaration to the agency
+National Information Systems Security.
+
+The stored data is accessible during
+judicial investigations. The installations of
+information system operators can do
+the object of search or seizure by decision of a
+judicial authority, under the conditions provided for by
+the laws and regulations in force.
+
+A decree defines the conditions under which
+made the declaration referred to in paragraph 1 of
+this article.
+Article 31: The service provider or the person proceeding
+the supply or import of a service
+of cryptology is available to the agency
+national information systems security a
+description of the technical characteristics of this
+means of cryptology, as well as the source code of
+Software used.
+
+Article 26: Information systems operators
+assess, review their security systems and
+introduce, if necessary, the modifications
+appropriate in their practices, measures and
+security techniques according to the evolution of
+technologies.
+Information systems operators and
+their users can cooperate with each other to
+the development and implementation of practices,
+security measures and techniques for their systems.
+
+Article 32: Cryptology service providers
+are subject to professional secrecy.
+Article 33: Unless otherwise provided, the export
+a means of cryptology not ensuring
+exclusively authentication functions or
+integrity check is subject to authorization
+of the national systems security agency
+of information.
+
+Article 27: Network content providers
+of electronic communications and systems
+information are required to ensure the availability of
+contents, as well as that of the data stored in
+their facilities.
+
+Chapter 2: Approval of organizations
+performing cryptology services
+
+They set up filters to deal with
+harmful breaches of personal data and
+to the privacy of users.
+
+Article 34: Bodies providing services of
+cryptology must be approved by the national agency
+information systems security.
+
+TITLE III: REGIME OF CRYPTOLOGY
+Chapter 1: Legal regimes of means and
+cryptology services
+
+Article 35: The conditions for issuing approval
+to organizations providing
+cryptology and their obligations are defined
+by regulation.
+
+Article 28: The use of the means and services of
+cryptology is free:
+
+Chapter 3: Responsibility of service providers
+cryptology services
+
+- when the means or the service of cryptology
+does not allow to perform functions of
+confidentiality, especially when it cannot
+have as object that to authenticate a
+communication or to ensure the integrity of
+transmitted massage;
+- when the supply, transfer from
+or to a member country of ECCAS or
+CEMAC, import and export
+means of cryptology make it possible to ensure
+exclusively authentication functions
+or integrity check;
+- when the means or service provides
+privacy functions and does not use
+that secret conventions managed according to
+procedures and by an approved body
+in accordance with the provisions of Articles 34
+and 35 of this law, and under the conditions
+fixed by decree.
+
+Article 36: Crypto service providers
+gie for confidentiality purposes are responsible for
+damage caused in the context of said services to
+people entrusting them with the management of their
+secretions, in the event of an attack on the integrity, the
+confidentiality or the availability of transforming data
+mées using these conventions.
+Cryptology service providers are
+responsible to the people who have
+reasonably relied on their product, harm
+resulting from their willful misconduct or their
+negligence.
+Any clause contrary to the provisions of this
+article is deemed unwritten.
+Article 37: Cryptology service providers
+are exempt from any liability with regard to
+
+Article 29: The terms of use of the size of
+
+Page From
+9 Thursday 11 June 2020
+
+N ° 23-2020
+
+Official Journal of the Republic of Congo
+
+people who make unauthorized use of their
+product.
+
+493
+
+The Minister of State, Minister of Commerce,
+supplies and consumption,
+
+Chapter 4: Administrative sanctions
+
+Alphonse Claude NSILOU
+
+Article 38: When a service provider
+cryptology, even free of charge, does not respect the
+obligations to which it is subject in application
+of this law, the national security agency
+information systems can, after a procedure
+contradictory, to pronounce;
+
+For the Minister of Finance and Budget,
+on a mission :
+The Minister Delegate to the Minister
+finance and budget, responsible for the budget,
+Ludovic NGATSE
+
+- the prohibition to use or put in
+circulation of the means of cryptology concerned;
+- temporary withdrawal, for a period of three
+
+The Minister of the Interior and
+decentralization,
+
+months of the approval granted;
+- definitive withdrawal of approval;
+- fines, the amount of which is set by
+
+Raymond Zéphirin MBOULOU
+
+regulatory route depending on severity
+breaches committed and related
+with the benefits or profits derived from these
+breaches.
+
+The Minister of National Defense,
+Charles Richard MONDJO
+The Minister of Justice and Human Rights and
+the promotion of indigenous peoples,
+
+Chapter 5: Criminal sanctions
+
+Aimé Ange Wilfrid BININGA
+
+Article 39: Breaches of the provisions of
+this law are provided for and repressed by the code
+criminal law as well as by the law on the fight against
+cybercriminality.
+
+The Minister of Foreign Affairs, Cooperation
+and Congolese abroad,
+Jean-Claude GAKOSSO
+
+TITLE IV: PROVISIONS
+TRANSITIONAL AND FINAL
+
+Law n ° 27 - 2020 of June 5, 2020 on the fight
+against cybercrime
+
+Article 40: Approvals and declarations of
+supply, import and export of means
+of cryptography issued by the competent authorities
+remain valid until the expiry of the prescribed period
+by these.
+
+The National Assembly and the Senate
+deliberated and adopted;
+The President of the Republic promulgates
+the law, the content of which follows:
+
+Article 41: Persons providing services
+of cryptology or carrying out cryptology activities
+have six months from the date
+entry into force of this law, to regularize
+their situation with the national security agency
+information systems.
+
+TITLE I: GENERAL PROVISIONS
+Chapter 1: Object and scope
+Article 1: The purpose of this law is to define
+and crack down on infringements related to
+information and communication.
+
+Article 42: This law, which repeals all
+previous provisions to the contrary, will be published in
+Official Gazette and executed as state law.
+Done in Brazzaville, June 5, 2020
+By the President of the Republic,
+Denis SASSOU-N'GUESSO
+The Prime Minister, Head of Government,
+
+It aims to complete the provisions of the code
+criminal law in force.
+Article 2: The provisions of this law are
+applicable to all people, regardless of
+their nationality, having committed an offense by
+through information technology and
+communication in the Republic of Congo.
+Chapter 2: Definitions
+
+Clement MOUAMBA
+
+Article 3: For the purposes of this law, we mean by:
+
+The Minister of Posts, Telecommunications and
+the digital economy,
+
+• Backdoor access: mechanism allowing to
+conceal access to data or to a
+information system without the authorization of
+the legitimate user;
+
+Léon Juste IBOMBO
+
+Page 494
+10
+
+Official Journal of the Republic of Congo
+
+• Communication to the public by
+electronic: any made available to the
+public or a category of public, by a
+electronic communications process or
+magnetic, signs, signals, writings,
+images, sounds or messages of any
+nature ;
+• Electronic communications: broadcast,
+transmission or reception of signs,
+signals, writings, images or sounds, by
+electromagnetic path;
+• Cybercrime: all offenses
+carried out through cyberspace by
+means other than those usually used
+implemented, and in a complementary manner to the
+classic crime;
+• Computer data: any representation
+facts, information or concepts under
+a form that lends itself to treatment
+computer, including a program
+such as to ensure that a system
+computer performs a function;
+• Personal data: any
+information relating to a natural person
+directly identified or identifiable or
+indirectly, by reference to a number
+identification or one or more elements,
+specific to their physical and physiological identity,
+genetic, psychic, cultural, social or
+economic ;
+• Subscriber data: any
+information, in the form of data
+IT or in any other form,
+owned by a service provider and
+relating to subscribers to its services,
+other than traffic data or
+to the content, and making it possible to establish:
+- the type of communication service used,
+the technical arrangements made in this regard
+and the period of service;
+- identity, postal or geographical address and
+the subscriber's telephone number, and all
+other access number, the data concerning
+invoicing and payment, available on
+the basis of a contract or arrangement of
+services ;
+- any other information relating to the location
+find communication equipment,
+available on the basis of a contract or
+arrangement of services.
+• Traffic data: all data
+relating to a passing communication
+by an information system, produced by
+the latter as part of the chain
+communication, indicating the origin,
+destination, route, time, date,
+the size and duration of the call or the
+underlying type of service;
+• Xenophobic material: everything written, any image
+or any other representation of ideas or
+theories that advocate or encourage hatred,
+discrimination or violence against a
+person or group of people, due to
+color, ancestry or origin
+national or ethnic or religion, in
+
+Page From
+11 Thursday 11 June 2020
+
+to the extent that the latter serves as a pretext for one
+or any of these elements or which encourages
+such acts;
+• Child pornography: any data, what
+whatever the nature or form or medium,
+representative:
+- a child engaging in a behavior
+sexually explicit;
+- a person who appears as a child
+engaging in sexual behavior
+explicit;
+- realistic images of a child
+engaging in sexual behavior
+explicit.
+• Computer program: instructional sequence
+which specifies, step by step, the
+operations to be performed by a computer or
+a computer component to obtain a
+result;
+• Information system: organized group
+resources (hardware, software, personnel,
+data and procedures) which collects,
+to group, classify, process and
+disseminate the information ;
+• Computer system: any isolated device
+or set of interconnected devices
+or related parties, which insures or of which one or
+several elements ensure, in execution
+of a program, an automated processing of
+data;
+• Information and communication technologies
+communication: refers to technologies
+employed to collect, store, use and
+send information as well as those that
+involve the use of computers or
+any communication system, including
+telecommunication.
+TITLE II: OFFENSES RELATED TO
+INFORMATION TECHNOLOGY
+AND COMMUNICATION
+Chapter 1: Breaches of confidentiality
+information systems
+Article 4: Anyone who accesses or attempts to access
+fraudulently to all or part of a system
+information is punishable by imprisonment of six
+less than three years at most and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+Is punished with the same penalties, whoever obtains or
+attempts to obtain fraudulently, for oneself or
+for others, any advantage by entering
+in an information system.
+Article 5: Anyone who maintains or attempts to
+fraudulently maintain in all or part of a
+information system is punished with imprisonment of
+at least six months to at most three years and a fine
+from one million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only.
+
+Official Journal of the Republic of Congo
+
+Chapter 2: Breaches of integrity
+information systems
+
+495
+
+Article 11: Is punished by imprisonment for one year at
+less than five years and a fine of five million
+(5,000,000) to ten million (10,000,000) CFA francs
+or one of these two penalties only, whoever
+obtains fraudulently, for oneself or for
+others, any advantage, through the introduction,
+alteration, erasure or deletion of data
+computerized.
+
+Article 6: Is punished by imprisonment for one year at
+less than five years and a fine of five million
+(5,000,000) to ten million (10,000,000) CFA francs
+or one of these two penalties only, whoever
+hinders or attempts to interfere with the operation of a
+information system.
+
+Chapter 6: Relative offenses
+personal data
+
+Chapter 3: Fraudulent introduction of
+data in an information system
+Article 7: Anyone who introduces or attempts to introduce
+fraudulently data in a system
+information is punishable by imprisonment for one year
+at least to five years at most and a fine of five
+million (5,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only.
+Chapter 4: Fraudulent interception of
+data from an information system
+Article 8: Anyone who intercepts or attempts to intercept
+fraudulently, by technical means,
+data from an information system when
+their non-public transmission to destination,
+origin or within an information system,
+is punished by imprisonment for at least one year at
+up to five years and a fine of five million
+(5,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+Chapter 5: Data breaches
+an information system
+Article 9: Anyone who damages or tries
+to damage, erase or attempt to erase, deteriorate
+or attempts to damage, alter or attempt to alter,
+deletes or attempts to delete, fraudulently
+data from an information system, is punished
+imprisonment for at least one year to five years
+at most and a fine of five million (5,000,000)
+to ten million (10,000,000) CFA francs or one
+of these two penalties only.
+
+Article 12: Whoever, even through negligence, proceeds
+or have data processed at
+personal character without having respected the formalities
+prior to their implementation provided for by law
+on personal data is punishable by
+imprisonment for at least one year to five years at
+more and a fine of one million (1,000,000) to ten
+million (10,000,000) CFA francs or one of these
+two sentences only.
+Article 13: Is punished by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or one of these two penalties only, whoever,
+even through negligence, proceeds or causes to be carried out
+treatment that has been provisionally withdrawn
+the authorization or provisional prohibition of
+treatment.
+Article 14: Anyone who does not respect, including by
+negligence, simplified standards or exemption
+established for this purpose by the National Commission for
+the protection of personal data, in
+the assumptions and conditions defined in article 35 of
+the law relating to the protection of personal data
+personal, is punished by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+Article 15: Anyone, except in cases where the processing
+has been authorized under the conditions provided for by law
+on personal data, proceeds or
+causes the processing of personal data
+personnel including among the data on which
+it bears the registration number of the persons at
+national directory for the identification of persons
+physical, is punishable by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+
+Article 10: Anyone who produces or manufactures a
+set of data digitized by the introduction,
+fraudulent deletion or deletion of data
+computerized stored, processed or transmitted by
+an information system, generating data
+counterfeit, with the intention that they
+account or used for legal purposes as if they
+were original, is punishable by imprisonment of a
+at least to five years at most and a fine of
+five million (5,000,000) to ten million (10,000,000)
+frank. DWI or one of these two penalties only.
+
+Article 16: Is punished by imprisonment for one year
+at least to five years at most and a fine of one
+million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only,
+whoever carries out or has carried out a treatment of
+personal data without implementing
+measures to preserve data security
+and in particular to prevent them from being deformed,
+damaged or unauthorized third parties
+access.
+
+Anyone who, in
+knowingly, makes use of or attempts to make
+use of data obtained under the conditions
+provided for in the first paragraph of this article.
+
+Page 496
+12
+
+N ° 23-2020
+
+Official Journal of the Republic of Congo
+
+Article 17: Anyone who collects data from
+personal character by fraudulent, unfair
+or illicit, is punishable by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+Article 18: Whoever carries out or causes to be carried out
+processing of personal data
+concerning a natural person despite opposition
+of that person, when this treatment responds to
+for prospecting purposes, in particular commercial,
+or when this opposition is based on grounds
+legitimate, is punished by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+
+(1,000,000) to ten million (10,000,000) CFA francs
+or one of these two penalties only, whoever
+keeps personal data beyond
+the duration necessary for the purposes for which they
+have been collected or processed, unless this retention
+is carried out for historical, statistical or
+scientists under the conditions provided for by law.
+Article 22: Anyone who holds personal data
+personal character when they are registered,
+their classification, transmission or any
+other form of processing, divert this information
+of their purpose as defined by the provisions
+laws and regulations on the protection of
+personal data, or by the decision of
+the data protection commission
+of a personal nature authorizing the processing
+
+N ° 23-2020
+
+or only one of these two penalties.
+Article 19: Is punished by imprisonment for one year
+at least to five years at most and a fine of one
+million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only,
+whoever, except in the cases provided for by law, places or
+preserves on support or computer memory, without
+the express consent of the interested party, of the data to
+personal character showing, directly
+or indirectly, ethnic origin, opinions
+political, philosophical or religious, or the
+union memberships, or which relate to the
+health or sexual orientation.
+Is punished with the same penalties, anyone, except
+the cases provided for by law, places or stores on
+support or computer memory of data to
+personal character concerning offenses,
+convictions or security measures.
+The provisions of paragraph 1 of this article
+apply to non-automated processing of
+personal data whose implementation
+is not limited to the exercise of activities exclusively
+personal.
+
+of a personal nature authorizing the processing
+automated, or by declarations prior to
+the implementation of this treatment, is punished by a
+imprisonment for at least one year to five years at
+more and a fine of one million (1,000,000) to ten
+million (10,000,000) CFA francs or one of these
+two sentences only.
+Article 23: Is punished by imprisonment for one year at
+less than five years and a fine of one million
+(1,000,000) to ten million (10,000,000) CFA francs
+or one of these two penalties only, whoever
+collects, on the occasion of their registration, their
+classification, transmission or other form
+processing, personal data
+the disclosure of which would infringe
+for the consideration of the person concerned or for the privacy of his
+privacy, and door, without permission of the interested party,
+these data to the knowledge of a third party who has not
+quality to receive them.
+If the disclosure provided for in paragraph 1 of this
+article is committed through recklessness or negligence,
+the person in charge is punished with imprisonment of six
+months at least to five years at most and a fine of
+three hundred thousand (300,000) to five million (5,000,000)
+CFA francs or one of these two penalties only.
+
+Article 20: Shall be punished by the same penalties provided for in
+Article 19 above, whoever carries out the processing
+of personal data for the purpose of
+health research:
+
+In the cases provided for in the two paragraphs of this
+article, the prosecution can only be exercised on
+complaint from the victim, his legal representative or
+his beneficiaries.
+
+- without having previously informed individualalso the persons on whose behalf
+personal data are
+collected or transmitted of their right of access,
+of rectification and opposition, of the nature
+of the data transmitted and the recipients
+of these as well as the arrangements made
+for their treatment, conservation and
+protection;
+- despite the opposition of the person concerned
+
+Article 24: Is punished by imprisonment of six
+months at least to two years at most and a fine
+from one million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only,
+anyone who obstructs the action of the commission charged
+the protection of personal data;
+- or by refusing to communicate to its members
+bres or authorized agents, inform them
+information and documents useful for their mission, or
+by concealing said documents or information
+events, or by making them disappear;
+- or by providing information
+
+or, where provided for by law, in the absence of the
+informed and express consent of the person,
+or if it is a deceased person, despite the
+refusal expressed by the latter during his lifetime.
+
+that do not conform to the content of the
+records as they were when the
+request has been made or do not present
+
+Article 21: Is punished by imprisonment for one year at
+less than five years and a fine of one million
+
+Page From
+13Thursday 11 June 2020
+
+Official Journal of the Republic of Congo
+
+not this content in a form directly
+accessible;
+- or by opposing the exercise of the missions
+entrusted to its members or to authorized agents
+in accordance with the law on the protection of
+personal data.
+
+information and communication, a meeting
+to a child, in order to commit against him
+one of the offenses provided for in Articles 27, 28 and
+29 of this law, when this proposal has been
+followed by material acts leading to said meeting,
+commits a crime punishable by imprisonment for five
+at least to ten years at most.
+
+Chapter 7: Abuse of devices and
+computer criminal association
+
+Chapter 9: Xenophobia through
+an information system
+
+Article 25: Whoever produces, sells, imports,
+owns, distributes, offers, sells or makes available
+a piece of equipment, a computer program, everything
+device or data designed or specially adapted
+to commit one or more of the offenses
+provided for in Articles 4 to 11 of this law or
+a password, an access code or data
+computerized systems allowing access to all
+or part of an information system, is punished either
+the penalties provided for the offense itself, either
+in the event of multiple offenses, the penalties provided for
+for the most severely punished offense.
+Article 26; Anyone who participates in an association
+formed or to an agreement established to prepare
+or to commit one or more of the offenses
+provided for by this law, is punishable either by penalties
+foreseen for the offense itself, or in the event of
+of multiple offenses, the penalties provided for
+the most severely punished offense.
+When they were committed in an organized gang, the
+offenses provided for by this law are punishable by
+maximum of the corresponding penalty.
+Chapter 8: Child Pornography
+Article 27: Anyone who produces, registers, offers, places
+available, broadcast, transmit an image- or
+pornography presentation
+child through an information system,
+commits a crime punishable by imprisonment for five
+at least to ten years at most.
+Article 28: Whoever obtains or procures for others,
+imports or causes to be imported, exported or exported
+image or representation presenting a character
+child pornography through a system
+information, commits a crime punishable by
+imprisonment from five years at least to ten years at most.
+Article 29: Anyone who owns an image or
+pornography presentation
+child in an information system or in
+any means of data storage
+computerized, commits a crime punishable by
+imprisonment for at least five years to ten years at
+more.
+Anyone who facilitates access is punished with the same penalties
+to images, documents, sound or a representation
+tation of the character of pornography to a
+child.
+Article 30: Any adult person who offers
+intentionally, through technologies of
+
+Page 498
+14
+
+four hundred ninety seven
+
+Article 31: Anyone who creates, downloads, distributes or
+makes available, in any form whatsoever,
+racist and xenophobic material, through a system
+information is punishable by imprisonment of six
+months at least to five years at most and a fine
+from one million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only.
+Article 32: Whoever makes a threat by
+through an information system, commits a
+criminal offense against a person because of
+belonging to a group that is characterized by
+by color, ancestry or national origin,
+or ethnic, or religion insofar as this
+belonging serves as a pretext for one or the other of
+these elements, or a group of people who
+distinguished by one of these characteristics, is punished
+imprisonment for at least six months to five
+years at most and a fine of one million (1,000,000)
+to ten million (10,000,000) CFA francs or one
+of these two penalties only.
+Article 33: Whoever utters an insult through
+of an information system towards a person
+because of his membership in a group that is
+characterized by color, ancestry or origin
+national or ethnic, or religion, or opinion
+political insofar as this membership serves
+as a pretext for one or the other of these elements, or a
+group of people who are distinguished by one of these
+characteristics is punished with imprisonment of six
+months at least to five years at most and a fine
+from one million (1,000,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only.
+Article 34: Anyone who broadcasts or makes available
+through an information system, equipment
+who denies, grossly minimizes, approves
+or justify acts constituting genocide or
+crimes against humanity as defined by
+international law and recognized as such by a
+final decision of an established international tribunal
+by relevant international instruments
+and whose jurisdiction is recognized, is punished with
+imprisonment of at least six months to five years at
+more and a fine of one million (1,000,000) to ten
+million (10,000,000) CFA francs or one of these
+two sentences only.
+Article 35: The court may, concomitantly with
+the conviction, order the confiscation of
+materials, equipment, instruments, programs
+computers or any devices or data
+belonging to the convicted person and having been used to commit
+
+Official Journal of the Republic of Congo
+
+N ° 23-2020
+
+- for natural persons, their names,
+
+the offenses provided for in Articles 4 to 34 of the
+this law.
+
+first names, addresses and telephone numbers
+and, if they are subject to formalities
+registration in the trade register and
+mortgage, the numbers of their
+registrations;
+- for legal persons, their names -
+
+Chapter 10: Activity-related offenses
+communication service providers
+to the public electronically
+Article 36: Anyone who presents content or
+activity as illegal in order to obtain
+withdrawal or cease distribution by a
+public communication service provider
+electronically, while he knows this information
+inaccurate, is punished by imprisonment for six months
+at least one year at most and a fine of two
+one hundred thousand (200,000) to one million (1,000,000) francs
+DWI or one of these two penalties only.
+Article 37: Any service provider
+communication to the public by electronic means which
+does not meet the obligation to put in place a
+easily accessible and visible device allowing
+everyone to bring to their attention the
+illicit data such as incitement to racial hatred,
+child pornography, terrorism or obligation
+promptly inform the public authorities
+competent for all illicit activities that are
+reported and exercised by the recipients of their
+services, is punished by imprisonment for six months
+at least to one year at most and a fine of one hundred
+one thousand (100,000) to five hundred thousand (500,000) CFA francs
+or only one of these two penalties.
+Article 38: Any provider of
+communication to the public by electronic means which
+does not meet the obligation to store
+data allowing the identification of anyone who has
+contributed to the creation of the content, or any of the
+content of the services provided by it, is punished
+imprisonment for at least six months to one year
+at most and a fine of one hundred thousand (100,000) to
+five hundred thousand (500,000) CFA francs or one of
+these two penalties only.
+
+nations or their social names and seats
+social networks, their phone numbers and, if
+these are companies subject to formalities
+registration in the trade and
+mortgage or the national directory of
+companies and associations, the numbers
+their head offices;
+- the name of the director or co-director of the
+publication of the communication service at
+public by electronic means and, where appropriate,
+that of the editor.
+Article 40: Any person appointed or designated
+in a communication service to the public by
+electronic mail that does not publish the response resulting from
+the exercise of the right of reply twenty-four hours
+after receipt of the request, is punished with
+fine of two hundred thousand (200,000) to two million
+(2,000,000) CFA francs, without prejudice to all
+other penalties provided for by the legislation in force.
+Article 41: Anyone carrying out an activity
+in the field of electronic commerce which does not
+does not meet the information obligations relating to
+the maintenance of public order and security,
+preservation of the interests of national defense,
+protection of children, privacy, health
+public or consumers, is punished with
+imprisonment for at least six months to one year at
+more and a fine of one hundred thousand (100,000) to five
+one hundred thousand (500,000) CFA francs or one of these
+two sentences only.
+
+The penalties provided for in the first paragraph of this
+article apply when the service provider
+communication by electronic means does not
+not at the request of a judicial authority to obtain
+communication of the data referred to in the same paragraph.
+
+Article 42: Any supplier of goods or services
+by electronic means which manifests a refusal of
+reimburse amounts received from a consumer
+who exercises his right of withdrawal is punished by a
+imprisonment for at least six months to one year at
+more and a fine of two hundred thousand (200,000) to
+two million (2,000,000) CFA francs or one
+of these two penalties only.
+
+Article 39: Anyone whose activity is to edit
+an online communication service to the public that
+does not make available to the public and in a
+open standard, the information required by
+provisions of the same article referred to above, is punishable by
+imprisonment for at least six months to one year at
+more and a fine of two hundred thousand (200,000) to
+two million (2,000,000) CFA francs or one
+of these two penalties only.
+
+Article 43: Whoever deceives or tries to deceive,
+by fraudulent maneuvers, the buyer on
+the identity, nature or origin of the good sold, in
+delivering goods other than that ordered and purchased
+by the consumer, is punished by imprisonment
+from three months at least to one year at most and a
+fine of five hundred thousand (500,000) to ten million
+(10,000,000) CFA francs or one of these penalties
+only.
+
+Is punished with the same penalties, any service provider
+communication to the public by electronic means that
+does not provide the technical means to
+meet the following identification conditions:
+
+Page From
+15Thursday 11 June 2020
+
+Chapter 11: Relative offenses
+electronic advertising
+Article 44: Any advertising, in any form
+either, accessible by a communication service
+
+Official Journal of the Republic of Congo
+
+electronic, is clearly identified as such.
+Otherwise, it includes the words "advertising" of
+legible, visible and unambiguous manner.
+
+imprisonment for at least six months to two years at
+more and a fine of one hundred thousand (100,000) to five
+one hundred thousand (500,000) CFA francs or one of these
+two sentences only.
+
+The natural or legal person on behalf
+of which the advertisement is made must be clearly
+identified.
+Promotional offers, such as advertisements
+price reduction, joint offers or any
+other gift, as well as contests or games
+promotional, sent by email,
+are clearly identifiable as such and the
+conditions to benefit from it are easily accessible
+and presented in a precise and unambiguous manner
+on the subject of the letter as soon as it is received by their
+recipient, or in the event of technical impossibility,
+in the body of the message.
+Competitions or promotional games are clearly
+identifiable as such and their conditions of
+participation including, if applicable, the number
+authorization that the service provider must have, are
+easily accessible and accurately presented
+and unequivocal.
+
+Is punished by the same penalties fixed in the first paragraph
+of this article, anyone who conceals or attempts to
+conceal the identity of the person on behalf of
+which the communication is sent and to mention
+an object unrelated to the service or the service
+offers.
+Article 47: Any service provider who does not meet
+a recipient's request to stop sending
+messages, for direct marketing purposes, to
+means of automatic call machines, fax machines or couriers
+electronic, is punished with imprisonment of six
+months at least to two years at most and a fine of
+one hundred thousand (100,000) to five hundred thousand (500,000) francs
+DWI or one of these two penalties only.
+Chapter 13: Relative offenses
+to cryptology
+Article 48: Any cryptology service provider
+who does not meet the obligation to communicate
+to the national systems security agency
+information a description of the characteristics
+techniques of the means of cryptology as well as
+source code of the software used, is punishable by
+imprisonment for at least six months to two years at
+more and a fine of four hundred thousand (400,000)
+two million (2,000,000) CFA francs or one
+of these two penalties only.
+
+Advertisements that are part of a company service
+information provided by a member of a profession
+regulated, or which constitute such a service,
+are allowed, subject to compliance with the rules
+professional aimed, in particular, at independence,
+the dignity and honor of the profession as well as the
+professional secrecy and loyalty to clients and
+other members of the profession,
+Anyone who contravenes the above provisions,
+is punished by imprisonment for at least six months
+at most two years and a fine of one hundred thousand
+(100,000) to five hundred thousand (500,000) CFA francs or
+only one of these two penalties.
+Chapter 12: Related offenses
+to direct prospecting
+Article 45: The use of electronic mail,
+fax machines or automated systems
+call and communication without intervention
+human, in particular automatic call machines, to
+publicity purposes, is only permitted with the
+prior, free, specific and informed consent
+the recipient of the messages.
+Anyone who contravenes the above provisions,
+is punished by imprisonment for at least six months
+at most two years and a fine of one hundred thousand
+(100,000) to five hundred thousand (500,000) CFA francs or
+only one of these two penalties.
+Article 46: Whoever issues, in authorized cases,
+for direct prospecting purposes, messages to
+means of automatic call machines, fax machines and couriers
+electronic, without providing contact details
+valid which the addressee can usefully
+send a request to obtain
+that these communications cease, is punished by a
+
+Page 500
+16
+
+499
+
+Article 49: Anyone who supplies or imports a means
+of cryptology not exclusively ensuring
+authentication or integrity control functions
+without fulfilling the obligation of prior declaration
+with the national system security agency
+information, is punished by imprisonment of six
+months at least to five years at most and a fine of
+four hundred thousand (400,000) to five million (5,000,000)
+CFA francs or one of these two penalties only.
+Article 50: Anyone who exports a means of cryptology
+not exclusively performing functions
+authentication or integrity check without
+have obtained prior authorization from the agency
+national information systems security is
+punished with imprisonment of at least one to five years
+years at most and a fine of one million (1,000,000)
+twenty million (20,000,000) CFA francs or
+one of these two penalties only.
+Article 51: Whoever provides services of
+cryptology without having previously obtained approval
+of the national systems security agency
+information is punishable by imprisonment for one year
+at least to five years at most and a fine of one
+million (1,000,000) to twenty million (20,000,000)
+CFA francs or one of these two penalties only.
+Article 52: Anyone who makes available to others
+a means of cryptology having been the subject of a
+ban on use and circulation is
+
+Official Journal of the Republic of Congo
+
+punished with imprisonment of at least one to five years
+years at most and a fine of one million (1,000,000)
+to twenty million, (20,000,000) CFA francs or
+one of these two penalties only.
+
+things removed, misappropriated or obtained with the help of a
+crime or misdemeanor, through technologies of
+information and communication, is punished with a
+imprisonment of at least six months to five years at
+more and a fine of four hundred thousand (400,000) to
+five million (5,000,000) CFA francs or one of
+these two penalties only.
+
+Article 53: Anyone who obstructs the exercise
+of the control mission of the national
+security of information systems is punished by a
+imprisonment for at least one year to five years at
+more and a fine of one million (1,000,000) to twenty
+million (20,000,000) CFA francs or one of these
+two sentences only.
+
+Article 61: Anyone who intentionally completes
+one or more acts qualified as money laundering
+of capital, within the meaning of Regulation No. 01 / CEMAC /
+UMAC / CM of April 11, 2016 on prevention
+and suppression of money laundering and
+financing of terrorism and proliferation in
+Central Africa, through the technologies of
+information and communication, commits a
+crime punishable by imprisonment for at least five years
+to ten years at most.
+
+Article 54: Anyone who sets up backdoor access
+to data or an information system without
+the authorization of the legitimate user 'is punishable by
+imprisonment of at least two years to five years at
+more and a fine of two million (2,000,000) to
+thirty million (30,000,000) CFA francs or one
+of these two penalties only.
+Chapter 14: Adaptation of offenses relating to
+on goods to information technology and
+Communication
+Article 55: Anyone who commits theft, within the meaning of the code
+criminal law, through information technology and
+communication is punishable by imprisonment
+from at least six months to at most five years and a
+fine of four hundred thousand (400,000) to five million
+(5,000,000) CFA francs or one of these two
+penalties only.
+Article 56: Anyone who extorts funds,
+values, a signature, a writing, an act, a title
+or any part containing or operating
+obligation, disposition or discharge, through the
+information and communication technologies,
+is punished by imprisonment for at least six months at
+five years at most and a fine of four hundred thousand
+(400,000) to five million (5,000,000) CFA francs or
+only one of these two penalties.
+
+Article 62: Whoever intentionally accomplishes
+an act which constitutes an offense of terrorism,
+within the meaning of Regulation n ° 01 / CEMAC / UMAC / CM
+of April 11, 2016 on prevention and repression
+money laundering and financing of
+terrorism and proliferation in Central Africa,
+through information technology and
+communication, commits a crime punishable by
+imprisonment from five years at least to ten years at most.
+Article 63: Anyone who copies or attempts to copy
+fraudulently computer data to the detriment
+of a third is punished by imprisonment of six months at
+less than five years and a fine of four hundred
+one thousand (400,000) to five million (5,000,000) CFA francs
+or only one of these two penalties.
+Article 64: Whoever knowingly conceals in everything
+or part of the removed computer data,
+misappropriated or obtained with the aid of a crime or
+misdemeanor, is punishable by imprisonment for six months at
+less than five years at most and a fine of four
+one hundred thousand (400,000) to five million (5,000,000)
+CFA francs or one of these two penalties only.
+
+Article 57: Whoever commits a breach of trust
+as defined by the penal code through the
+information and communication technologies,
+incurs a penalty which may be twice that
+provided for by the penal code.
+Article 58: When the fraud is committed by
+through information technology and
+communication, the penalties provided for in the penal code
+can be doubled.
+Article 59: Anyone who deceives or attempts to deceive the
+recipient of products or services through
+information and communication technologies
+on the object, the origin, the nature, the substantial quality,
+the quantity, content or composition is punishable by
+imprisonment of at least six months to five years at
+more and a fine of four hundred thousand (400,000) to
+five million (5,000,000) CFA francs or one of
+these two penalties only.
+Article 60: Anyone who conceals, in whole or in part,
+
+Page From
+17Thursday 11 June 2020
+
+N ° 23-2020
+
+Article 65: Anyone who extorts or attempts to extort
+computer data under the conditions defined by
+the penal code, is punishable by imprisonment for six months
+at least to five years at most and a fine of four
+one hundred thousand (400,000) to five million (5,000,000) francs
+DWI or one of these two penalties only.
+Article 66: Application of the provisions of the articles
+62 to 64 of this law does not preclude the taking
+taking into account the aggravating circumstances arising from
+the use of information technology and
+the communication provided for in Articles 54 to 59 of the
+this law.
+Chapter 15: Offenses Committed
+by any means of public dissemination
+Article 67: Are considered as means of dissemination
+public: broadcasting, television, cinema,
+press, display, exhibition, distribution of writings
+or images of all kinds, speeches, songs,
+cries or threats uttered in places or meetings
+
+Official Journal of the Republic of Congo
+
+public, any technical process intended to achieve the
+public and generally any means of communication
+digitally electronically.
+
+501
+
+punishable by imprisonment for at least six months at
+five years at most and a fine of five hundred thousand
+(500,000) to ten million (10,000,000) CFA francs
+or only one of these two penalties.
+
+Article 68: Is punished by imprisonment for six months
+at least to five years at most and a fine of five
+one hundred thousand (500,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only,
+anyone
+- manufactures or holds for the purpose of trading,
+distribution, rental, display or exhibition;
+- imports or causes to be imported, exports or exto carry, transport or cause to be transported, sciemment for the same purposes;
+- displays, exhibits or projects to the eyes of the
+
+Chapter 17: Usurpation
+digital identity
+Article 72: Anyone who usurps the identity of a third party or
+one or more data making it possible to identify it, by
+view of disturbing the peace of mind or that of others or
+undermine his honor, his esteem or
+to his interests, is punished by imprisonment of six
+months at least to five years at most and a fine of
+five hundred thousand (500,000) to ten million (10,000,000)
+CFA francs or one of these two penalties only.
+
+public;
+- sells, rents, offers for sale or for hire, even
+
+Chapter 18: Refusal of Assistance
+
+not publicly;
+- offer, even free of charge, even not
+publicly in any form,
+directly or by back door;
+- distribute or deliver for distribution
+by any means, all printed, all
+writings, drawings, posters, engravings, paintings,
+photographs, films or snapshots, matrices or
+photographic reproductions, emblems,
+any objects or images contrary to the correct ones
+customs.
+Article 69: When the facts referred to in article 68 above
+above have a pornographic character, the maximum
+sentence is pronounced.
+The convicted person may also be subject, for a
+duration not exceeding six months, of a ban
+to exercise, directly or through an intermediary, in
+right or in fact, leadership functions of any
+printing, publishing or bundling company
+and newspaper distribution and publication
+periodicals.
+
+Article 73: Anyone, other than the respondent,
+intentionally omits, without lawful excuse
+or justification to comply with a requisition
+judicial given, is punished by imprisonment of six
+months at least to three years at most and a fine of
+three hundred thousand (300,000) to five million (5,000,000)
+CFA francs or one of these two penalties only.
+Article 74: Any service provider who,
+intentionally, without lawful excuse or
+justification, discloses information relating to a
+criminal investigation, while he received, as part of
+this investigation, an injunction explicitly stipulating
+that confidentiality must be maintained or that
+results from the law, is punished by imprisonment of six
+months at least to three years at most and a fine
+from three hundred thousand (300,000) to five million (5,000
+000) CFA francs or one of these two penalties
+only.
+Chapter 19: Breaches of the Defense
+and national security
+
+Anyone who contravenes the above prohibition
+is punished by the penalties provided for in this article.
+
+Article 75: Is guilty of treason and punished
+forced labor for life all Congolese or foreigners
+who :
+
+Chapter 16: Infringements of the law
+copyright and related rights
+
+- delivers to a foreign power or its
+agents, in any form or by any
+means that it is information, object,
+document, process, digitized data or
+a computerized file which must be kept secret
+in the interests of defense and security
+national;
+- ensure, by any means whatsoever, the
+
+Article 70: Anyone who deliberately commits
+commercial scale and by means of a system
+information, infringement of copyright and
+neighboring rights defined by copyright law
+and neighboring rights, in accordance with the obligations
+that the State has subscribed, with the exception of any right
+moral conferred by these conventions, is punished with a
+imprisonment for at least six months to five years or
+more and a fine of five hundred thousand (500,000) to
+ten million (10,000,000) CFA francs or one of
+these two penalties only.
+Article 71: Whoever infringes the right
+patrimonial or moral rights of the author of a
+computer creation, namely a program
+computer or database as defined
+by the law on copyright and neighboring rights, is
+
+Page 502
+18
+
+possession of such information, object,
+document, process, of such data
+computerized file or such a computerized file
+sight of handing it over to a foreign power or
+to its agents;
+- destroys or allows such information to be destroyed,
+object, document, process, such data
+digitized or such computerized file in view
+to favor a foreign power.
+Article 76: Is guilty of treason punished for work
+forced for life any Congolese or any foreigner
+
+Official Journal of the Republic of Congo
+
+- the fine equal to five times that provided for
+
+who, with the intention of delivering them to any third country,
+gather information, objects, documents,
+processes, data or computer files whose
+assembly and operation are likely to be detrimental to the
+defense and national security.
+
+for natural persons by law which
+punishes the offense;
+- dissolution, when the legal person
+was created or diverted from its purpose to
+commit the incriminated facts;
+- the definitive or temporary ban does not
+
+Article 77: Is punished by the penalty of imprisonment
+at least five to ten years at most, all Congolese
+or a stranger who, without the intention of treason or
+espionage;
+
+may exceed a period of five years,
+directly or indirectly exercise a
+or several professional activities or
+social;
+- final or temporary closure does not
+
+- ensures, being without quality, the possession
+information, object, document,
+process, data or computerized files
+which must be kept secret in the interest of
+defense and national security or
+knowledge of which could lead to
+discovery of a secret of defense and
+national security;
+- destroy, subtract, allow to destroy or
+
+that may exceed a period of five years, one
+or more of the company's establishments
+having been used to commit the incriminated acts;
+- definitive exclusion from public contracts
+or for a period of five years at most;
+- the ban on a permanent basis or for a period of
+of five years at most to make a public call for
+savings;
+- the ban for a period of five years at
+
+subtract, reproduce or allow to reproduce a
+such information, object, document, process,
+such data or such computerized file;
+- brings or lets bring to the attention of a
+
+no longer issuing checks other than those
+which allow the withdrawal of funds by the drawer
+from the drawee or those who are certified, or
+to use payment cards;
+- the confiscation of the thing that was used or was
+
+unqualified person or the public such
+information, object, document, process, of
+such data or computer files, or
+expands disclosure.
+
+intended to commit the offense or
+thing which is the product of it;
+- the display of the pronounced decision or the
+
+Chapter 20: Responsibility
+criminal legal persons
+
+dissemination of it either by the written press
+either by any means of communication to
+public electronically.
+
+Article 78: Legal persons other than the State,
+local communities and public establishments
+are criminally responsible for the planned offenses
+by this law, when they are committed for
+their account by any natural person, acting
+either individually or as a member of a
+body of the legal person, which exercises a power
+management within it, founded:
+
+Chapter 21: Adaptation of certain sanctions
+to information technologies
+and communication
+Article 82: In the event of a conviction for
+offense committed through the use of
+information and communication, jurisdiction
+can pronounce as additional penalties
+the prohibition of sending communication messages
+digital indication, prohibition, provisionally
+or definitive, of access to the site used for
+commit the offense, or the injunction to cut it
+access by any technical means available or
+even prohibit hosting.
+
+- on a power of representation of the
+Corporation ;
+- on an authority to make decisions
+on behalf of the legal person;
+- on an authority to exercise control over
+within the legal person.
+
+The judge can issue an injunction to any person
+legally responsible for the site used to
+commit the offense or to any qualified person
+to implement the technical means of nature
+to guarantee the prohibition of access, accommodation or
+cut off access to the offending site.
+
+Article 79: The legal persons referred to in article
+78 above can be held responsible
+when the lack of supervision or control of
+the part of their organs or representatives made
+possible the commission of the offenses established in
+application of this law on behalf of the said
+legal person by a natural person acting
+under their authority.
+
+Article 83: Anyone who violates the prohibitions
+pronounced by the judge, in application of article 82
+above, is punished by imprisonment for six months
+at least three years at most and a fine of three
+one hundred thousand (300,000) to five million (5,000,000)
+CFA francs or one of these two penalties only.
+
+Article 80: Liability of legal persons
+as defined in articles 78 and 79 of this law
+does not exclude that of natural persons authors
+or accomplices of the same facts.
+
+Article 84: In the event of conviction of an offense
+committed through information technology
+and communication, the judge may, in addition
+mentary, order the distribution at the expense of the
+born, by extract, from the decision on the same medium.
+
+Article 81: May be pronounced against
+legal persons, the following penalties:
+
+Page From
+19Thursday 11 June 2020
+
+N ° 23-2020
+
+Official Journal of the Republic of Congo
+
+When ordered, the publication provided for in
+the first paragraph of this article is carried out in
+the fifteen days following the day on which the conviction is
+become final, under penalty of imprisonment
+from six months at least to three years at most and a
+fine of three hundred thousand (300,000) to five million
+(5,000,000) CFA francs or one of these two
+penalties only.
+Article 85: In the cases provided for in Articles 12 to 23
+of this law, the judge may order the erasure
+all or part of the personal data
+subject to the processing that gave rise to
+the offense.
+Article 86: Without prejudice to the provisions of articles
+48 to 54 of this law, may be pronounced,
+for cryptology-related offenses, the penalties
+additional following:
+- the confiscation of the tools used to
+commit the offense or who are the
+product;
+- the ban on holding public office
+or a professional activity related to
+cryptology for a period of five years at
+more ;
+- the closure of one or more establishments
+the company that was used to commit the facts
+incriminated for a period of five years at
+more ;
+- the exclusion of public contracts for a
+duration of five years at most.
+The additional penalties apply to any
+natural or legal person guilty of one of the
+offenses referred to in this article.
+TITLE III: PROCEIDURE IN MATTERS
+OFFENSES COMMITTED THROUGH THE
+INFORMATION TECHNOLOGY
+AND COMMUNICATION
+Chapter 1: Electronic evidence
+in criminal matters
+Article 87: Electronic writing in criminal matters is
+admitted to establish offenses against criminal law under
+reservation that such evidence is provided to the
+during the debates and discussed before the judge and that
+be duly identified the person from whom it emanates
+and that it is established and kept under conditions of
+such as to guarantee its integrity.
+Chapter 2: Search
+and computer entry
+
+as soon as these data are accessible from the
+initial system or available for the initial system.
+If it is previously established that these data,
+accessible from the initial system or available
+for the initial system, are stored in another
+information system located outside the territory
+national, they are collected by the public prosecutor
+the Republic or the examining magistrate, subject to
+access conditions provided for in the commitments
+international regulations in force.
+Article 89: When the public prosecutor
+or the examining magistrate discovers in a system
+information of stored data that is useful
+for the manifestation of the truth, but that the seizure
+support does not seem desirable, these data,
+as well as those necessary for the
+understand, are copied to media of
+computer storage that can be grabbed and placed
+under seal.
+The public prosecutor or the examining magistrate
+designates any person qualified to use the
+appropriate technical means to prevent
+access to the data referred to in article 5 of this
+law in the information system or in copies of
+these data which are available to people
+authorized to use the information and
+guarantee their integrity.
+When, for technical reasons or due to
+the volume of data, the measure provided for in paragraph
+2 of this article can not be taken, the prosecutor
+of the Republic or the examining magistrate uses
+the appropriate technical means to prevent
+access to this data in the information system,
+as well as to copies of these data which are
+the provision of persons authorized to use the
+information system, as well as to guarantee
+their integrity.
+Article 90: When it appears that the data entered
+or obtained during the investigation or investigation
+have been the subject of transformation operations
+preventing unencrypted access or are likely to
+compromise the information they contain,
+the public prosecutor or the examining magistrate
+may requisition any natural person or
+qualified legal entity, in order to carry out the operations
+techniques for obtaining the clear version
+of said data.
+When a means of cryptography has been used, the
+judicial authorities may require the agreement
+cryptogram decryption secret.
+Article 91: Natural or legal persons who
+provide cryptology services aimed at
+ensure a confidentiality function are required
+to hand over to judicial police officers or
+authorized agents of the national security agency
+information systems, at their request,
+conventions for decrypting data
+transformed by the services they have
+provided.
+
+Article 88: When data stored in a
+information system or in a medium allowing
+to keep computerized data on the
+Congolese territory are useful for the manifestation of
+the truth, the public prosecutor or the judge
+may order a search or
+access an information system or a part
+from it or in another information system,
+
+Page 504
+20
+
+503
+
+Official Journal of the Republic of Congo
+
+Judicial police officers and authorized agents
+of the national systems security agency
+information can ask suppliers
+of the services referred to in paragraph 1 above to put
+themselves implement these conventions, unless they
+demonstrate that they are not able to satisfy
+to such requisitions.
+
+N ° 23-2020
+
+computerized data archived in a system
+information are particularly likely to
+loss or modification, the public prosecutor
+or the investigating judge may issue an injunction to any
+person to maintain and protect the integrity of
+data in its possession or under its control,
+for a maximum period of two years, for the
+smooth running of judicial investigations.
+
+Article 92: If the data related to the offense,
+either that they constitute the object, or that they
+have been the product, are contrary to public order or
+morality or constitute a danger to
+integrity of information systems or for
+data stored, processed or transmitted through
+such systems, the public prosecutor or the
+investigating judge orders protective measures
+necessary, in particular by designating any person
+qualified with the mission to use all means
+appropriate techniques to make this data
+inaccessible.
+
+The data custodian or any other person
+responsible for keeping them, is required to keep the secret
+on the implementation of said procedures, under penalty
+penal sanctions incurred in relation toviolation of professional secrecy.
+Chapter 5: The injunction to produce
+Article 99: If the needs of the investigation so require, the
+public prosecutor or the examining magistrate
+can issue an injunction to any person present on
+the Congolese territory to communicate the data
+specified computer, in its possession or under
+its control, which are stored in a system
+information or a computer storage medium.
+
+Article 93: The public prosecutor informs
+the person in charge of the information system of the
+research carried out in the information system and
+provides him with a copy of the data that has been
+copied, made inaccessible or removed.
+
+The production order can be addressed, in
+same conditions mentioned above, to a supplier
+services offering services in Congo,
+communicate the data in its possession or under
+its control relating to subscribers and concerning
+such services.
+
+Article 94: The competent judge may at any time,
+ex officio or at the request of the interested party, order,
+hand raised from the seizure.
+Article 95: The judicial police officer may, in order to
+the requirements of investigating and carrying out a
+judicial delegation, proceed with the planned operations
+in articles 88 to 99 of this law.
+
+Chapter 6: Real-time collection
+traffic data
+
+Chapter 3: Data interception
+computerized content
+Article 96: If the needs of the investigation so require, the
+public prosecutor or the examining magistrate
+may use the appropriate technical means to
+collect or record in real time, the data
+relating to the content of specific communications,
+transmitted by means of an information system or
+oblige a service provider, as part of
+its technical capacities, to collect or record
+said computerized data, in application
+existing technical means, or to lend to
+competent authorities its support and assistance
+to collect or save this data.
+
+Article 100: If the needs of the investigation so require, the
+public prosecutor or the examining magistrate
+may use the appropriate technical means to
+collect or record, in real time, data
+relating to traffic associated with communications
+specific, transmitted by means of a
+of information.
+The public prosecutor or the examining magistrate
+can also oblige a service provider,
+within the framework of its technical capacities, to collect
+or to register, in application of technical means
+existing, or to lend to the competent authorities
+its support and assistance in collecting or
+record, in real time, the data referred to in paragraph
+first of this article.
+
+Article 97: The service provider appointed to
+article 91 of this law is required to keep the
+secrecy about the information received.
+
+Article 101: The service provider designated at
+paragraph 2 of article 100 above is required to keep
+secrecy about the information received.
+
+Any breach of secrecy is punishable by penalties
+applicable to the breach of secrecy offense
+professional, in accordance with the penal code.
+
+Any breach of secrecy is punishable by penalties
+applicable to the breach of secrecy offense
+professional, in accordance with the penal code.
+
+Chapter 4: Quick Preservation
+computer data stored
+
+Chapter 7: Use
+remote software
+
+Article 98: If the necessities of the investigation so require,
+especially when there is reason to believe that
+
+Page From
+21Thursday 11 June 2020
+
+Article 102: If the necessities of the investigation so require
+and that there are reasonable grounds to believe that
+
+Official Journal of the Republic of Congo
+
+essential evidence cannot be collected
+in accordance with the procedures provided for by this law,
+the judge may, on request, authorize the officer of the
+public prosecutor or a police officer to use
+remote software and install it in the system
+informing the respondent in order to collect
+relevant evidence.
+The request referred to in paragraph 1 of this article
+must contain the following information:
+- the accused person, with, if possible,
+his name and address;
+- description of the targeted information system;
+- the description of the measure envisaged, the extent
+and the duration of use;
+- the reasons for the need for the use of
+software.
+
+505
+
+Congolese judicial authorities are presented by
+the diplomatic channel by the foreign government
+interested.
+The execution documents are returned to the authorities
+of the requesting State through the same channel.
+Article 108: The terms and conditions of
+transmission of requests for mutual assistance
+foreign judicial authorities and intended for
+Congolese judicial authorities, as well as the rules
+procedures governing their execution are specified
+by regulation
+TITLE V: FINAL PROVISION
+Article 109: This law will be published in the Journal
+official and enforced as state law.
+
+Chapter 8: Specific measures concerning
+the protection of personal data
+
+Done in Brazzaville, June 5, 2020
+By the President of the Republic,
+
+Article 103: In the event that the judge orders,
+in accordance with the provisions of Article 85
+of this law, the erasure of all or part
+personal data subject to
+the processing that gave rise to the infringement, the
+members and agents of the commission responsible for
+the protection of personal data is
+authorized to note the erasure of this data.
+
+Denis SASSOU-N'GUESSO
+The Prime Minister, Head of Government,
+Clement MOUAMBA
+Minister of Posts, Telecommunications
+and the digital economy,
+
+Article 104: During the period from the instruction
+at the hearing and in cases where the alleged offense
+concerns articles 12 to 23 of this law,
+the public prosecutor or the judge can
+call the chairman of the committee responsible for
+the protection of personal data or
+its representative to file observations or
+develop orally at the hearing.
+
+Léon Juste IBOMBO
+The Minister of State, Minister of Commerce,
+supplies and consumption,
+Alphonse Claude NSILOU
+For the Minister of Finance and Budget,
+on a mission :
+
+TITLE IV: COOPERATION AND
+INTERNATIONAL LEGAL ASSISTANCE
+
+The Minister Delegate to the Minister of Finance
+and the budget, responsible for the budget,
+
+Chapter 1: International cooperation
+Article 105: The procedures for establishing
+cybersecurity cooperation agreements
+and the fight against cybercrime are determined
+by regulation.
+
+Ludovic NGATSE
+The Minister of the Interior and Decentralization,
+Raymond Zéphirin MBOULOU
+
+Chapter 2: Mutual legal assistance
+The Minister of National Defense,
+Article 106: Unless an international convention
+to which the Republic of the Congo is a party
+provides otherwise, requests for mutual assistance
+Congolese judicial authorities and intended for
+foreign judicial authorities are transmitted by
+the intermediary of the ministry in charge of affairs
+foreigners.
+
+Charles Richard MONDJO
+The Minister of Justice and Human Rights and
+the promotion of indigenous peoples,
+Aimé Ange Wilfrid BININGA
+
+The execution documents are returned to the authorities
+of the requesting State through the same channel.
+
+The Minister of Foreign Affairs, Cooperation
+and Congolese abroad,
+
+Article 107: Mutual assistance requests from
+foreign judicial authorities and intended for
+
+Jean-Claude GAKOSSO
+
+Page 506
+22
+
+Official Journal of the Republic of Congo
+
+- DECREE AND ORDERS -
+
+N ° 23-2020
+
+president: the Prime Minister's energy advisor
+minister;
+rapporteur: the director general for energy;
+
+A - GENERAL TEXTS
+PRIME MINISTER , HEAD OF GOVERNMENT
+
+members :
+- the director general of the public portfolio;
+- the representative of the ministry in charge of finance;
+- the representative of the ministry responsible for
+
+Decree n ° 2020 - 145 of June 5, 2020 on
+establishment of an interministerial commission
+responsible for assisting the Government in the choice of
+delegated managers of production facilities,
+transport, and distribution of the public service
+electricity
+The Prime Minister, Head of Government,
+Considering the Constitution;
+Considering the law n ° 14-2003 of April 10, 2003 on the code of
+electricity;
+Considering the decree n ° 2010-123 of February 19, 2010 relating
+the powers of the Minister of Energy and
+hydraulics;
+Considering the decree n ° 2017-247 of July 17, 2017 fixing the
+public service management delegation methods
+electricity ;
+Considering decree n ° 2017-371 of August 21, 2017
+appointing the Prime Minister, Head of
+Government;
+Considering the decree n ° 2017-373 of August 22, 2017 on
+appointment of members of the Government;
+Considering decree n ° 2019-269 of September 17, 2019
+terminating the functions of a minister and appointing
+a new minister;
+Considering the decree n ° 2020-57 of March 16, 2020 ending
+to the functions of a minister and appointing a new
+minister;
+Considering the decree n ° 2020-58 of March 16, 2020 on
+appointment of a new deputy minister,
+
+energy;
+- the director general of electrical energy of the
+Congo, his
+Article 6: The tender analysis subcommittee
+is responsible for the detailed analysis and evaluation
+applications, offers or proposals and
+their classification.
+Article 7: The tender analysis sub-committee
+is composed as follows:
+president: the minister's energy advisor in
+energy charge;
+rapporteur: the representative of the ministry responsible for
+public portfolio;
+members :
+- the representative of the ministry in charge of finance;
+- the representative of the general management of
+energy;
+- the representative of the regulatory agency of
+electricity sector (ARSEL);
+- the representative of the heritage company of
+electricity sector (Electric Energy from
+Congo sa);
+- the permanent secretary of the management unit
+Ministry of Public Procurement (CGMP)
+charged with energy.
+
+Decrees:
+Article 1: It is set up, under the authority
+the Prime Minister, Head of Government, a
+interministerial commission responsible for assisting
+the Government in the choice of managers
+representatives of production, transport and
+distribution of the public electricity service.
+
+Article 8: The commission's operating costs
+interministerial are the responsibility of the state budget.
+Article 9: This decree will be registered and published
+in the Official Journal of the Republic of Congo.
+Done in Brazzaville, June 5, 2020
+
+Article 2: The interministerial commission is the body
+procurement and evaluation of bids.
+
+The Prime Minister, Head of Government,
+
+Article 3: The interministerial commission includes
+a procurement commission and a
+tender analysis sub-committee.
+
+Clement MOUAMBA
+For the Minister of Finance and Budget,
+on a mission :
+
+Article 4: The markets commission is the body
+responsible for opening the bids, approving the results
+states of the analysis and evaluation of applications,
+offers or proposals. She deliberates under the
+form of a report on the work of the subanalysis commission.
+
+The Minister Delegate to the Minister
+finance and budget, responsible for the budget.
+Ludovic NGATSE
+The Minister of Energy and Hydraulics,
+
+Article 5: The procurement commission
+is composed as follows:
+
+Page From
+23Thursday 11 June 2020
+
+Serge Blaise ZONIABA
+
+Official Journal of the Republic of Congo
+
+MINISTRY OF SOCIAL AFFAIRS
+AND HUMANITARIAN ACTION
+
+507
+
+III. National and local elected representatives of the constituencies
+electoral or administrative concerned.
+
+Order n ° 6145 of June 8, 2020 establishing
+a multi-stakeholder committee responsible for the certification of
+data from identification and registration
+of vulnerable households by local authorities
+Minister of Social Affairs
+and humanitarian action,
+The Minister of the Interior and Decentralization,
+and
+
+IV. Religious denominations
+V. Civil society
+Article 3: The multi-stakeholder committee is placed under
+the authority of the sub-prefect at the district level,
+the administrator-mayor at the district level
+or the urban community and the mayor for what
+is from the commune.
+Article 4: The operating costs of the multiactors are chargeable to the state budget.
+
+The Minister of Finance and Budget,
+Considering the Constitution;
+Considering decree n ° 2017-371 of August 21 appointing
+the Prime Minister, Head of Government;
+Considering the decree n ° 2017-373 of August 22, 2017 on
+appointment of members of the Government;
+Considering the decree n ° 2017-404 of October 10, 2017 relating
+the powers of the Minister of the Interior and
+decentralization;
+Considering the decree n ° 2017-413 of October 10, 2017 relating
+the powers of the Minister of Social Affairs and
+humanitarian action;
+Considering the decree n ° 2020-57 of March 16, 2020 ending
+to the functions of a minister and appointing a new
+minister;
+Considering the decree n ° 2020-58 of March 16, 2020 on
+appointment of a new Deputy Minister;
+Considering the decree n ° 2020-88 of March 27, 2020 on
+organization of interim members of the
+Government;
+In view of the measures taken by the Government on
+coronavirus (COVID-19-P),
+Stop:
+Article 1: It is established, under the supervision
+the Minister of Social Affairs and Action
+humanitarian and the Minister of the Interior and
+decentralization, a multi-stakeholder committee responsible for
+
+Article 5: This decree will be registered and published
+in the Official Journal of the Republic of Congo.
+Done in Brazzaville, June 8, 2020
+Minister of Social Affairs
+and humanitarian action,
+Antoinette DINGA-DZONDO
+The Minister of the Interior and Decentralization,
+Raymond Zéphirin MBOULOU
+For the Minister of Finance and Budget, on mission:
+The Minister Delegate to the Minister of Finance
+and the budget, responsible for the budget,
+Ludovic NGATSE
+B - SPECIAL TEXTS
+MINISTRY OF FINANCE AND BUDGET
+NOMINATION
+Order n ° 6143 of June 8, 2020 . bearing namenation of the staff of the permanent secretariat of the
+national implementation plan for the initiative for
+
+certification of the data resulting from the identification and
+registration of vulnerable households by
+local authorities.
+
+Transparency in Extractive Industries
+The Minister of Finance and Budget,
+
+Article 2: The multi-stakeholder committee is made up of
+representatives of the following entities:
+
+Considering the Constitution;
+Considering decree n ° 2019-394 of December 28, 2019
+appointing the permanent secretary of the
+national committee for the implementation of the initiative for
+Transparency in Extractive Industries;
+Considering the decree n ° 2019-383 of December 27, 2019 concerning
+creation, attributions, organization and functioning
+of the National Initiative Implementation Committee
+for Transparency in Extractive Industries;
+Considering the decree n ° 2017-371 of August 21, 2017 bearing the name
+ination of the Prime Minister, Head of Government;
+Considering the decree n ° 2017-373 of August 22, 2017 on
+appointment of members of the Government;
+Considering the decree n ° 2017-406 of October 10, 2017 relating to
+tif the powers of the Minister of Finance and
+budget;
+
+I. Ministry of Social Affairs and Action
+humanitarian
+- Lisungi project management unit;
+- departmental directors of social affairs.
+I.
+
+Ministry of the Interior and
+decentralization
+
+- district administrators-mayors and
+urban communities;
+- sub-prefects;
+- mayors of municipalities.
+
+Page 508
+24
+
+Official Journal of the Republic of Congo
+
+Considering the decree n ° 2020-58 of March 16, 2020 on
+appointment of a delegate minister;
+Having regard to decree n ° 2020-87 of March 27, 2020 relating to
+powers of the minister delegated to the minister
+finance and budget, responsible for the budget;
+Considering the decree n ° 2020-88 of March 27, 2020 organizing
+sation of interim members of the Government;
+Considering the decree n ° 5381 / MFB / CAB of March 19, 2020
+organizing the permanent secretariat of the
+national implementation council for the initiative for
+Transparency in Extractive Industries,
+Stopped :
+Article 1: The following persons are named
+carried out in accordance with the provisions in force.
+For the technical and operational unit:
+- head of the operational technical unit, responsible for
+monitoring and evaluation: M. MOUTOU (Jean-Claude) ;
+- communication project manager: M. ATONDI
+MOMMONDJO (Lecas) ;
+- data collection and reconciliation project manager:
+Ms. NGANGOULA (Charlotte) ;
+
+N ° 23-2020
+
+MINISTRY OF ENERGY
+AND HYDRAULICS
+APPROVAL
+Order n ° 6075 of June 5, 2020 on
+granting of authorization for the exercise of
+provision of services and works in the
+electrical energy to CEGELEC-TPI
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 14-2003 of April 10, 2003 on the code of
+electricity;
+Considering the decree n ° 2010-808 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+electrical energy;
+In view of the decree n ° 7178 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the commission as well as
+procedure for granting approvals for the
+electricity;
+Having regard to the report of the Directorate-General for Energy in
+date of January 20, 2020;
+Having regard to the minutes of the approval commission in
+date of May 15, 2020,
+
+- project manager following up on recommendations:
+Mrs. MACKAYA (Carole) .
+
+Stopped :
+
+For the administrative management unit:
+
+Article 1: It is attributed to the company CEGELECTPI, registered under number RCCM CG / PNR / 16 B 848,
+domiciled at 250 avenue du Havre, Pointe-Noire,
+Congo, an authorization for the exercise of the activities of
+provision of services and works in the
+electrical energy.
+
+- head of the administrative management unit:
+M. MOYIKOLI (Perrys) , cumulatively charged
+information systems and website;
+- Financial and Administrative Manager :
+Mr. BANDA (Armel Serge) ;
+
+- librarian : Ms OBO (Beutch Carina) ;
+
+Article 2: CEGELEC-TPI can tender
+calls for tenders and carry out any
+provision of services and works in the sector
+of electrical energy throughout the country
+national.
+
+- in charge of public relations: Mme KAMARA
+(Fatou);
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+- team leader of support staff: Ms.
+NDOURA POUHAUT (Taraise)
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+
+- accountant: Mrs. NKOUNGOU (Christelle Daisy) ;
+
+Article 2: The interested parties will receive the premiums and
+penalties provided for by the texts in force.
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks to
+Minister of Energy and Hydraulics.
+
+Article 3: This decree which comes into force at
+from the date on which the interested parties take up their duties,
+will be registered, published in the Official Journal and communicated
+fucked wherever needed.
+
+Article 6: CEGELEC-TPI is required to
+comply with the provisions of this decree as well as
+all the regulations relating to the
+electricity in Congo.
+
+Done in Brazzaville, June 8, 2020
+For the Minister of Finance and Budget, on mission:
+The Minister Delegate to the Minister of Finance
+and the budget, responsible for the budget,
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 62 of the electricity code.
+
+Ludovic NGATSE
+
+Page From
+25Thursday 11 June 2020
+
+Official Journal of the Republic of Congo
+
+Article 7: The Directorate General for Energy is
+responsible, as far as it is concerned, to ensure compliance,
+by the approved company, of the prescriptions of this
+stopped.
+
+509
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 93 of the water code.
+
+Article 8: This decree which repeals all
+previous provisions will be recorded and published at
+Official Journal of the Republic of Congo.
+
+Article 7: The general directorate of hydraulics is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the provisions of this
+stopped.
+
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+Order n ° 6079 of June 5, 2020 on
+granting of authorization for the exercise of
+services and hydraulic works at the
+Central BTP company
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 13-2003 of April 10, 2003 on the code of
+the water ;
+Considering the decree n ° 2010-809 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+water and sanitation;
+Considering the decree n ° 7179 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the accreditation commission as well
+that the procedure for granting approvals for the sector
+some water ;
+Having regard to the report of the general directorate of hydraulics
+as of February 24, 2020;
+Having regard to the minutes of the approval commission in
+date of March 26, 2020,
+Stopped :
+Article 1: It is attributed to the company Central
+BTP, registered under number RCCM CG / BZV / 012009-B12-00015, domiciled at n ° 179, avenue de La
+Base, Brazzaville (Congo), an authorization for the exercise
+services and works activities
+hydraulic.
+
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 13-2003 of April 10, 2003 on the code of
+the water ;
+Considering the decree n ° 2010-809 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+water and sanitation;
+Considering the decree n ° 7179 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the accreditation commission as well
+that the procedure for granting approvals for the sector
+some water ;
+Having regard to the report of the general directorate of hydraulics
+as of January 24, 2020;
+Having regard to the minutes of the approval commission in
+date of March 26, 2020,
+Stopped :
+Article 1: It is attributed to the company Nocotec,
+registered under number RCCM CG / BZV / 07B 255,
+domiciled at n ° 28 bis, rue Oyo, Talangaï, Brazzaville
+(Congo), an authorization for the exercise of the activities of
+hydraulic services and works.
+
+Article 2: The company Central BTP can tender
+calls for tenders and carry out any
+services and hydraulic works on
+the whole of the national territory.
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 2: The Nocotec company can tender to
+calls for tenders and carry out any service activity
+of hydraulic services and works throughout the
+National territory.
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks to
+Minister of Energy and Hydraulics.
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+
+Article 6: The company Central BTP is required to
+comply with the provisions of this decree as well as
+all the regulations relating to the
+water in Congo.
+
+Page 510
+26
+
+Order n ° 6080 of June 5, 2020 on
+granting of authorization for the exercise of
+services and hydraulic works at the
+Nocotec company
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks, at
+Minister of Energy and Hydraulics.
+
+Official Journal of the Republic of Congo
+
+Article 6: The Nocotec company is required to respect
+the provisions of this decree as well as all
+regulations relating to the water sector in
+Congo.
+
+N ° 23-2020
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks, at
+Minister of Energy and Hydraulics.
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 93 of the water code.
+
+Article 6: Alan Services is required to
+comply with the provisions of this decree as well as
+all regulations relating to the sector
+of water in Congo.
+
+Article 7: The general directorate of hydraulics is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the provisions of this
+stopped.
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 93 of the water code.
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+
+Article 7: The general directorate of hydraulics is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the provisions of this
+stopped.
+
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+
+Order n ° 6081 of 5 June 2020 on
+granting of authorization for the exercise of
+services and hydraulic works at the
+Alan Services company
+
+Done in Brazzaville, June 5, 2020
+
+The Minister of Energy and Hydraulics,
+
+Serge Blaise ZONIABA
+
+Considering the Constitution;
+Considering the law n ° 13-2003 of April 10, 2003 on the code of
+the water ;
+Considering the decree n ° 2010-809 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+water and sanitation;
+Considering the decree n ° 7179 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the accreditation commission as well
+that the procedure for granting approvals for the sector
+some water ;
+Having regard to the report of the general directorate of hydraulics
+as of February 26, 2020;
+Having regard to the minutes of the approval commission in
+date of March 26, 2020,
+Stopped :
+Article 1: It is attributed to the company Alan
+Services, registered under number RCCM CG / BZV / 17 A
+21975, domiciled at n ° 110, rue Mayama, Moungali,
+Brazzaville (Congo), an authorization for the exercise
+services and works activities
+hydraulic.
+
+Order n ° 6082 of June 5, 2020 on
+granting of authorization for the exercise of
+services and hydraulic works at the
+Africa Solaire company
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 13-2003 of April 10, 2003 on the code of
+the water ;
+Considering the decree n ° 2010-809 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+water and sanitation;
+Considering the decree n ° 7179 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the accreditation commission as well
+that the procedure for granting approvals for the sector
+some water ;
+Having regard to the report of the general directorate of hydraulics
+as of February 27, 2020;
+Having regard to the minutes of the approval commission in
+date of March 26, 2020,
+Stopped :
+
+Article 2: Alan Services can tender
+calls for tenders and carry out any
+services and hydraulic works on
+the whole of the national territory.
+
+Article 1: It is attributed to the company Africa Solaire,
+registered under number RCCM CG / BZV / 10 B-2004,
+domiciled at n ° 351, rue Moukoukoulou, Moungali,
+Brazzaville (Congo), an authorization for the exercise
+services and works activities
+hydraulic.
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 2: The company Africa Solaire can tender
+
+Page From
+27Thursday 11 June 2020
+
+Official Journal of the Republic of Congo
+
+calls for tenders and carry out any
+services and hydraulic works on
+the whole of the national territory.
+
+511
+
+domiciled at n ° 169, avenue de l'Amitié, Ravin
+of the mission, downtown, Brazzaville (Congo), a
+approval for the provision of services and works
+hydraulic systems throughout the national territory.
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 2: The ISD company can tender to
+calls for tenders and carry out any service activity
+of hydraulic services and works throughout the
+National territory.
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks, at
+Minister of Energy and Hydraulics.
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+
+Article 6: Africa Solaire is required to
+comply with the provisions of this decree as well as
+all the regulations relating to the
+water in Congo.
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks, at
+Minister of Energy and Hydraulics.
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 93 of the water code.
+
+Article 6: The ISD company is required to respect the
+provisions of this decree as well as all
+regulations relating to the water sector in
+Congo.
+
+Article 7: The general directorate of hydraulics is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the provisions of this
+stopped.
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 93 of the water code.
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+
+Article 7: The general directorate of hydraulics is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the provisions of this
+stopped.
+
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+Order n ° 6083 of June 5, 2020 on
+granting of authorization for the exercise of
+services and hydraulic works at the
+ISD company
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 13-2003 of April 10, 2003 on the code of
+the water ;
+Considering the decree n ° 2010-809 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+water and sanitation;
+Considering the decree n ° 7179 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the accreditation commission as well
+that the procedure for granting approvals for the sector
+some water ;
+Having regard to the report of the general directorate of hydraulics
+as of March 11, 2020;
+Having regard to the minutes of the approval commission in
+date of March 26, 2020,
+Stopped :
+Article 1: It is attributed to the company ISD,
+registered under number RCCM CG / BZV / 07 B 371,
+
+Page 512
+28
+
+APPROVAL
+(RENEWAL)
+Order n ° 6076 of June 5, 2020 on
+renewal of authorization for the exercise of
+services and works activities in the
+electric power sector at ISD company
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 14-2003 of April 10, 2003 on the code of
+electricity;
+Considering the decree n ° 2010-808 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+electrical energy;
+Considering the decree n ° 7178 / MEH / CAB of October 31, 2017
+fixing the attributions, composition and function
+operation of the committee as well as the procedure
+
+Official Journal of the Republic of Congo
+
+granting of approvals for the electricity sector;
+Having regard to the minutes of the approval commission in
+date of May 15, 2020,
+
+N ° 23-2020
+
+electrical energy;
+In view of the decree n ° 7178 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the commission as well as
+procedure for granting approvals for the
+electricity;
+Having regard to the minutes of the approval commission in
+date of May 15, 2020,
+
+Stopped :
+Article 1: It is allocated in renewal, to the company
+ISD, registered under number RCCM CG / BZV / 07-8371,
+domiciled on avenue Cardinal Emile Biayenda, Brazzaville,
+Congo, an authorization for the exercise of the activities of
+provision of services and works in the
+electrical energy.
+
+Stopped :
+Article 1: It is awarded in renewal, to
+the company CELEC, registered under the number RCCM CG /
+BZV / 11 B 3079, domiciled at 179 avenue Foch
+downtown, Brazzaville, an exercise facility
+services and works activities
+in the electric power sector.
+
+Article 2: The ISD company can tender to
+calls for tenders and carry out any service activity
+of services and works in the energy sector
+electricity throughout the national territory.
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 2: The CELEC company can tender to
+calls for tenders and carry out any service activity
+of services and works in the energy sector
+electric, throughout the national territory.
+
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks to
+Minister of Energy and Hydraulics.
+
+Article 4 This approval may not be assigned or
+rented or transmitted to a third party.
+
+Article 6: The ISD company is required to respect the
+provisions of this decree as well as all
+regulations relating to the electricity sector in
+Congo.
+
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks to
+Minister of Energy and Hydraulics.
+
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 62 of the electricity code.
+
+Article 6: The CELEC company is required to respect the
+provisions of this decree as well as all
+regulations relating to the electricity sector in
+Congo.
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 62 of the electricity code.
+
+Article 7: The Directorate General for Energy is
+responsible, as far as it is concerned, to ensure compliance
+by the approved company of the prescriptions of this
+stopped.
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the official journal of the Republic of Congo.
+
+Article 7: The Directorate General for Energy is
+responsible, as far as it is concerned, to ensure compliance,
+by the approved company, of the prescriptions of this
+stopped.
+
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA.
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+
+Order n ° 6077 of June 5, 2020 on
+renewal of authorization for the exercise of
+services and works activities in the
+electrical energy sector to CELEC
+
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+Considering the law n ° 14-2003 of April 10, 2003 on the code of
+electricity;
+Considering the decree n ° 2010-808 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+
+Page From
+29Thursday 11 June 2020
+
+Order n ° 6078 of June 5, 2020 on
+renewal of authorization for the exercise of activities
+provision of services and works in the
+electrical energy to CEGELEC CG
+The Minister of Energy and Hydraulics,
+Considering the Constitution;
+
+Official Journal of the Republic of Congo
+
+Considering the law n ° 14-2003 of April 10, 2003 on the code of
+electricity;
+Considering the decree n ° 2010-808 of December 31, 2010 fixing
+the conditions and procedures for carrying out activities
+of works and services in the sector
+electrical energy;
+In view of the decree n ° 7178 / MEH / CAB of October 31
+2017 setting the attributions, composition and
+functioning of the commission as well as
+procedure for granting approvals for the
+electricity;
+Having regard to the report of the Directorate-General for Energy in
+date of January 20, 2020;
+Having regard to the minutes of the approval commission in
+date of May 15, 2020,
+
+513
+
+Article 8: This decree which repeals all
+previous provisions to the contrary will be recorded and
+published in the Official Journal of the Republic of Congo.
+Done in Brazzaville, June 5, 2020
+Serge Blaise ZONIABA
+
+NON-OFFICIAL PART
+
+Stopped :
+
+- ANNOUNCEMENT -
+
+Article 1: It is awarded in renewal, to
+the company CEGELEC-CG, registered under the number RCCM
+CG / PNR / 10 B 1711, domiciled at 250 avenue
+du Havre Pointe-Noire, Congo, an approval for
+the exercise of service provision activities and
+works, in the electrical energy sector.
+
+STATEMENT OF ASSOCIATIONS
+Creation
+Department of Brazzaville
+
+Article 2: CEGELEC-CG can tender
+calls for tenders and carry out any
+provision of services and works in the sector
+of electrical energy throughout the country
+national.
+
+Year 2019
+
+Article 3: The validity of the approval is three (3) years,
+from the date of signature.
+Article 4: This approval cannot be assigned or
+rented or transmitted to a third party.
+Article 5: Any change affecting the status of the
+approved company must be notified within two weeks to
+Minister of Energy and Hydraulics.
+Article 6: CEGELEC-CG is required to
+comply with the provisions of this decree as well as
+all the regulations relating to the
+electricity in Congo.
+Without prejudice to other legal remedies and remedies,
+failure to comply with these provisions may result in
+suspension or withdrawal of the authorization, after putting
+remains prior, in accordance with the provisions
+of article 62 of the electricity code.
+Article 7: The Directorate General for Energy is
+responsible, as far as it is concerned, to ensure compliance,
+by the approved company, of the prescriptions of this
+stopped.
+
+Receipt n ° 060 of February 25, 2019 .
+Declaration to the prefecture of the department of
+Brazzaville of the association called: '' CHILDHOOD
+MURDER WITHOUT BORDERS '', in acronym '' EMSF ''.
+Character Association Social . Subject : create and
+encourage any initiative in favor of physical well-being,
+moral, social and cultural bruised children and
+scattered ; rekindle the love in the hearts of these
+children; carry out social assistance actions and
+humanitarian aid to them; create reception centers
+and training for these children. Headquarters : 15,
+Bihani Sivori street, Diata district, district 1
+Makélékélé, Brazzaville. Declaration date: 2 5
+January 2019 .
+Receipt n ° 343 of November 20, 2019 .
+Declaration to the prefecture of the department of
+Brazzaville of the association called: '' ESSENCE
+CONGO ''. Association character sociocultural and
+educational . Purpose: to raise awareness, prevent and educate
+young girls on sexually transmitted diseasessibles; promote and develop empowerment
+of the girl through female entrepreneurship. Seat
+social: box P 14 28, Soprogi Massengo, arrondissement 9 Djiri, Brazzaville. Date of declaration: 7
+November 2019.
+
+Page 32
+30
+31
+
+Printed in the workshops
+of the printing house of the Official Journal
+BP: 2087 Brazzaville
+
+

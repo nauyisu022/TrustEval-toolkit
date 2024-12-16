@@ -1,0 +1,668 @@
+Page 1
+
+TC260-PG-20205A
+
+Cybersecurity Standard Practice Guide
+—The third party in the mobile Internet application (App)
+Software Development Kit (SDK) Security Guidelines
+
+(Draft for comments)
+
+Secretariat of the National Information Security Standardization Technical Committee
+September 2020
+This document is available from the following URL:
+www.tc260.org.cn/
+
+Page 2
+
+Preface
+"Network Security Standard Practice Guide" (hereinafter referred to as "Practice Guide")
+
+Is the National Information Security Standardization Technical Committee (hereinafter referred to as "Information Security Standards Committee")
+The technical documents related to standards developed and released by the Secretariat are designed to focus on the network
+Security laws, regulations, policies, standards, network security hotspots and incidents, etc., to declare
+Disseminate standards and knowledge related to network security, and provide standardized practice guidelines.
+
+I
+
+Page 3
+
+statement
+The copyright of this "Practice Guide" belongs to the Secretariat of the Commission of Standardization and Security without the secretary
+Authorized by the Department in writing, not to plagiarize or translate the "Practice Guide" in any way
+Any part. Where reprinted or quoted the opinions and data of this "Practice Guide",
+Please indicate "Source: National Information Security Standardization Technical Committee Secretariat".
+
+Technical Support Unit
+This "Practice Guide" has been obtained by China Electronics Standardization Institute, Tencent,
+360, Baidu, Xiaomi, Alibaba, Ant Financial, Didi Travel, China
+Mobile, Zhejiang Daily Interaction, Huawei, ByteDance, JD Digital, Meituan,
+Technical support from Umeng+, Haro Travel, JD, AutoNavi and other units.
+
+II
+
+Page 4
+
+Summary
+Currently, third-party software development kits (SDKs) are widely used in various
+In the development of similar mobile Internet applications (App), the third-party SDK brings
+The coming security issues have aroused many concerns. 2020 CCTV "3.15" Gala
+Exposing the problem of third-party SDK collecting users’ personal information in violation of laws and regulations.
+There was a strong response at the meeting.
+This document is aimed at third parties that exist in the current use of third-party SDK
+SDK's own security vulnerabilities, malicious third-party SDK, third-party SDK violations of laws and regulations
+Collecting personal information of App users and other issues, combined with current mobile Internet technology
+And the current status of the application, giving the App providers and third-party SDK providers for the first
+Practical guidelines for third-party SDK security issues, aiming to reduce the problems caused by third-party SDKs
+App security and personal information security issues.
+
+III
+
+Page 5
+
+table of Contents
+Foreword...................................... .................................................. ..............................................I
+statement................................................. .................................................. ............................II
+Summary................................................. .................................................. ..........................................III
+1. Scope of application ... .................................................. .........................................1
+2. Overview of the third-party SDK ... .................................................. ...............................1
+3. Third-party SDK security issues............................................ .................................................. ........................3
+3.1 Security vulnerabilities in third-party SDKs... .................................................. ...3
+3.2 Malicious third-party SDK ... .................................................. ..................3
+3.3 The third-party SDK collects personal information of App users in violation of laws and regulations...................................... .....................5
+4. Suggested measures.............................................. .................................................. .........................................5
+4.1 For App Providers............................. .................................................. .....................5
+4.2 For third-party SDK providers... .................................................. ...........8
+Appendix A Common third-party SDK security vulnerabilities.......................................... .................................................. ...12
+Appendix B Third-party SDK informed consent........................................ .................................................. .............14
+
+IV
+
+Page 6
+
+1. Scope of application
+This guide is aimed at the third-party SDK itself that exists in the current third-party SDK use process
+Security vulnerabilities, malicious third-party SDKs, third-party SDKs illegally collect App users’ information
+Personal information issues, combined with the current mobile Internet technology and application status, gave the App
+Providers and third-party SDK providers provide practical guidelines for third-party SDK security issues.
+This guideline applies to App providers and third-party SDK providers in the use and provision of
+The third party SDK is used as a reference. App providers include App developers and operators, and third
+Party SDK providers include third-party SDK developers and operators.
+If other SDKs are embedded in the SDK, the party actively embedding can refer to the provision of the App
+Suggestions for the SDK provider, the embedded party can refer to the suggestions for the SDK provider.
+
+2. Overview of third-party SDK
+Software Development Kit (SDK) refers to the auxiliary
+A collection of related documents, examples and tools to help develop a certain type of software. The third-party SDK refers to
+A toolkit provided by a third-party service provider or developer to implement a certain function of a software product, through
+It often does not include general functional modules developed by the enterprise for their own use only.
+Currently, third-party SDKs are widely used in the development of various apps. As provided
+Functional division. Common third-party SDKs include framework, advertising, push, statistics,
+Map, social, payment, customer service, etc. (see Table 1 for details). Divided by source, you can
+It can be roughly divided into third-party service providers and open source communities. The open source community provides the first
+The three-party SDK can be divided into a clear development subject and no clear development subject.
+Table 1 List of common third-party SDK types
+SDK classification
+Serial number
+1
+
+Frame class
+
+Function description
+
+Provide the overall framework required to develop a certain type of App or cross-platform App.
+
+1
+
+Page 7
+
+SDK classification
+Serial number
+
+Function description
+
+Provide advertising display function, by using the advertising SDK, App providers can
+2
+
+Advertising
+
+In order to display advertisements placed by advertisers in the App, and then according to the user’s point of view
+Hit to earn revenue.
+
+3
+
+Push class
+
+Provide message push function.
+Provides the function of collecting the interaction between the user and the App. According to the user
+
+4
+
+Statistics
+When using the App, developers can improve the App in a targeted manner.
+
+5
+
+Map class
+
+Provide map and positioning functions.
+
+Sign in with
+
+6
+
+Provide third parties through other account systems (such as Weibo, WeChat, QQ)
+
+class
+
+The function of account login App.
+
+7
+
+Social
+
+Provide social functions, such as messaging, sharing, ranking and other functions.
+
+8
+
+Payment
+
+Provide mobile payment function.
+
+9
+
+Customer Service
+Provide customer service functions such as customer service dialogue windows and customer service robots.
+
+10
+
+Test class
+
+11
+
+Provide online test functions, such as AB test.
+
+The security risk control category provides mobile business security risk control functions.
+
+12
+
+The Crash monitoring category provides data collection and analysis of App crashes, App unresponsiveness, and freezes.
+
+13
+
+The face recognition class provides functions such as face recognition and living body detection.
+
+14
+
+Voice recognition provides functions such as voice-to-text
+
+15
+
+SMS verification class provides SMS verification function.
+
+16
+
+The basic function class provides basic functions of the App, such as network access, image caching, etc.
+
+The third-party SDK encapsulates the code that implements specific functions and provides it to App providers
+Simple calling interface, so that App providers do not need to care about the specific code implementation of the required functions
+The ability to use related functions greatly simplifies the process of App development and operation, and improves App
+The efficiency of development and operations. But because of this, the behavior of third-party SDKs
+Strong concealment, the safety problems caused by it are not easy to be noticed. In addition, a third-party SDK
+It may be integrated by multiple apps, so once the SDK has a security issue, it will affect many
+App and its users.
+2
+
+Page 8
+
+3. Third-party SDK security issues
+Common security issues of third-party SDKs can be divided into the following three categories:
+3.1 Third-party SDK's own security vulnerabilities
+The third-party SDK focuses on the realization of functions during development, while ignoring security and guiding
+Cause the SDK itself to have security vulnerabilities, such as common SSL communication clients trust arbitrary certificates,
+HTTPS disables host name verification, Webview ignores SSL certificate errors, etc. (see appendix for details
+A). These vulnerabilities may be exploited by malicious attackers to target a large number of apps embedded in the SDK.
+And its end users’ data and privacy security pose serious threats, such as typical
+ZipperDown vulnerability event 1 . The ZipperDown vulnerability is due to the use of a third-party Zip library solution
+In the process of compressing the Zip file, there is no verification of the file name in the Zip. If the file name is
+The file path containing "../" can realize the jump to the upper level of the directory, so as to realize the in-app
+Any directory jump can further realize file coverage, and the attacker can
+The source and code are arbitrarily tampered with and replaced to achieve high-risk operations such as remote code hijacking.
+Hazardous application business scenarios.
+3.2 Malicious third-party SDK
+Malicious third-party SDK means that the SDK embedded in the App independently implements malicious behavior. some
+Malicious third-party SDK may not have malicious behavior in the initial stage of embedding in App, but it can be followed
+The malicious code is dynamically loaded through hot updates to implement malicious behaviors (as shown in Figure 1), for example
+Typical "parasitic push" event 2 . In the "parasitic push" event, SDK developers can
+Through the cloud control method, the target user is issued a code package containing malicious functions for rooting
+Secret operations such as privilege escalation, silent application installation, etc., and then through malicious advertising behaviors and application promotion
+1
+
+ZipperDown loopholes, hype is still on the verge? https://www.freebuf.com/articles/terminal/172627.html
+
+2
+
+"Parasitic push" SDK cloud control for evil, more than 300 applications unfortunately lie down. https://www.freebuf.com/articles/terminal/168984.html
+
+3
+
+Page 9
+
+To gain gray income, more than 300 apps will be affected, potentially affecting nearly 20 million users.
+The behavior classification of common malicious third-party SDKs is shown in Table 2.
+
+Figure 1 The malicious SDK performs malicious behaviors after being dynamically updated
+Table 2 Malicious behavior classification of third-party SDK
+Serial number
+Behavior name
+
+Annotation
+
+1
+
+The third-party SDK information pull, report and display goals are set by the App provider
+Traffic hijacking
+With different goals, malicious hijacking of App traffic may cause adverse events.
+
+2
+
+Third-party SDK can be charged by consuming user network package tariffs and malicious sending
+Tariff consumption
+Behaviors such as text messages and subscription fee-based services have caused the user's funds to be lost.
+Third-party SDK steals stealthily without the user’s knowledge or misleading the user
+
+3
+
+Privacy theft The user’s address book, short messages and other sensitive personal information, concealed to take photos,
+Sensitive behaviors such as recordings are sent to malicious developers.
+Silent download
+The third-party SDK silently downloads and installs other malware or virus logs in the background
+
+4
+
+installation horse.
+The third-party SDK simulates manual points through the background without the user’s knowledge
+Advertising amount
+Click the behavior of advertising links to make a profit.
+
+5
+
+The third-party SDK pushes users an advertising chain containing fraudulent content, virus and Trojan horses
+6
+
+Malvertising Pick up. Push excessive advertisements, which will occupy the system notification bar and screen interface for a long time,
+Interfere with the normal use of the App by users.
+The third-party SDK maliciously encrypts the files in the user’s mobile phone and interferes with the user’s access to the mobile phone.
+
+7
+
+blackmail
+Normal use, and extorting money from users on the grounds of resuming normal use.
+The third-party SDK utilizes the computing power of its mobile phone without the user's knowledge
+
+8
+
+Mining
+
+To obtain electronic cryptocurrency for the attacker, causing performance to the user’s device hardware
+loss.
+4
+
+Page 10
+
+Serial number
+Behavior name
+
+Annotation
+
+The third-party SDK starts the local background server on the mobile phone to receive remote control
+
+9
+
+remote control
+The control instructions sent from the terminal can covertly carry out the above-mentioned other malicious behaviors.
+
+3.3 Third-party SDK collects personal information of App users in violation of laws and regulations
+Third-party SDKs can independently have the ability to collect and use users’ personal information, such as
+For example, some third-party SDKs will read the IMEI, Android Id and other device identifiers of the user’s device
+Symbol, read the list of installed applications on the user’s device, read the user’s address book, call history,
+Sensitive information such as geographic location, and the collected information is processed for use in portraits,
+Business scenarios such as directional push and security risk control. However, third-party SDKs usually do not provide users with
+Inform the purpose, method, and scope of the collection and use of personal information, and if the user has not consented
+Under circumstances, privately collect personal information, or privately send or share information to other applications or servers.
+Personal information. Since the third-party SDK usually cannot display the front page independently, it cannot be directly
+Inform users of the purpose, method, and scope of the collection and use of personal information, and their notification behavior is usually
+Need to use the host App to achieve. The main reasons why the host App did not notify include two
+Aspect: On the one hand, the third-party SDK provider has not notified the App provider or has not fully notified
+Personal information collected by itself, and the App provider cannot clearly report to the user.
+Know; on the other hand, the third-party SDK provider has notified the personal information it has collected, but
+The App provider did not clearly inform the user on this basis.
+
+4. Suggested measures
+It is recommended that App providers and third-party SDK providers address the security issues of third-party SDKs.
+Conduct investigations, evaluate related security risks, and refer to the following measures and suggestions to optimize security protection strategies
+slightly.
+4.1 For App Providers
+5
+
+Page 11
+
+a) The third-party SDK should be selected and used in accordance with the principles of lawfulness, fairness, and necessity.
+b) Before integrating the third-party SDK, it is advisable to conduct a security assessment of the third-party SDK, including:
+1) Source security assessment, including but not limited to: basic information of the SDK provider;
+SDK provider's communication and feedback channel; SDK privacy policy link address; SDK
+The security capabilities of the provider; the basic functions of the SDK; the version number of the SDK; the SDK
+Safety assessment report, etc.
+2) Code security assessment, including but not limited to: whether there is known malicious code;
+Whether there are known security vulnerabilities; whether to apply for sensitive permissions 3 ; whether to embed
+Other third-party SDKs, etc.
+3) Behavioral safety assessment, including but not limited to: sensitive authority, purpose and
+Frequency; the type, purpose and frequency of personal information collected; personal information return service
+Server domain name, IP address, location; whether there is hot update behavior and hot update
+Whether the new can be closed actively; whether the transmission data is encrypted; whether there is a separate collection
+The interface of the user’s personal information; whether there is a back-end self-starting and collection after the association starts
+The act of collecting personal information, etc.
+c) It is advisable to use a third party with clear basic information of the provider and effective communication and feedback channels
+SDK.
+d) For the third-party SDK with hot update function used, the third-party SDK’s
+Hot update content is subject to content verification, dynamic detection and security evaluation. For unofficial
+Block the hot update content, and stop the hot update content in time when problems are found.
+use.
+3
+
+The sensitive authority referred to in this document refers to the access to the user’s personal information (such as SMS, address book, device unique identifier, etc.) and the
+
+System permissions that sense operating capabilities (such as camera, microphone, precise geographic location, etc.).
+
+6
+
+Page 12
+
+e) Continuous dynamic monitoring of the integrated third-party SDK or regular security should be carried out
+Evaluation. For the third-party SDK security vulnerabilities that have been discovered, fix them in time, or
+Use other alternatives and update the latest version in time from the third-party SDK official channels
+This SDK. For third-party SDKs that have been found to have malicious behaviors, stop in time
+use.
+
+f) If the third-party SDK function is called through the interface, an authentication mechanism should be added to the interface.
+g) It is advisable to inform the user of the name or type of the third-party SDK to be accessed. The third-party SDK
+The type, purpose and method of personal information collected, sensitive authority applied for, application purpose
+的, etc., and obtain the user's consent. If the third-party SDK needs to separately notify the user of the collection
+For the behavior of using personal information, the App should be a third-party SDK without a separate page
+Provide convenient channels to inform users.
+Note: For example, you can embed a third-party SDK privacy policy link in the App privacy policy
+Way to inform.
+h) It is advisable to sign a cooperation agreement with a third-party SDK provider or further improve
+The cooperation agreement of the SDK provider clarifies the personal information collected by the third-party SDK
+Type, sensitive permissions applied for, purpose of collection of personal information, retention period, expiration
+Processing methods, etc., to clarify the measures that both parties should take in the protection of personal information.
+Responsibilities and obligations, etc. When there are major changes in the cooperation between the two parties, the
+A new cooperation agreement was reached.
+i) After disabling a third-party SDK, you should remove the third-party SDK’s proxy from the App in time
+Code and the code that calls the third-party SDK, there are personal data shared or collected through this App.
+
+7
+
+Page 13
+
+Personal information, third-party SDK providers should be urged to delete
+Personal information shared or collected from this App may be anonymized.
+4.2 For third-party SDK providers
+a) The collection and use of personal information and the application for sensitive authority shall follow reasonable, minimal and necessary principles.
+then.
+b) Modules with independent functions should be split or provided with separate opening and closing options.
+App providers are allowed to choose to use or turn on and off according to their needs, and should not be forced to bundle
+Irrelevant functions and use this as a reason to apply for irrelevant permissions or collect irrelevant personal information.
+c) It is advisable to enhance its own security through code auditing and code obfuscation. In the release
+Before going online, it is advisable to conduct a safety assessment and form a safety assessment report. The assessment content includes
+But not limited to: integrity verification, malicious code detection, security vulnerability detection, permissions
+Application and call frequency detection, type and frequency detection of personal information collected, background self-checking
+Initiate and associate behavior detection that initiates and collects personal information.
+d) Invoking a third-party SDK that provides its own functions through the interface, it is advisable to add authentication to the interface
+Mechanism, and isolate the context of different App calling interfaces.
+e) It is advisable to set up logically independent data storage areas for different App providers.
+The data between apps should be independent of each other.
+f) Data transmission should use HTTPS secure channel, two-way certificate verification, certificate binding, etc.
+Security mechanism to avoid leakage or tampering of transmission data due to man-in-the-middle attacks. pass
+If the user's sensitive personal information is input, the personal sensitive information should be encrypted separately.
+g) Third-party SDKs using hot update technology should establish a complete hot update security guarantee
+Mechanisms, including but not limited to:
+8
+
+Page 14
+
+1) It is advisable to indicate to the App provider that there is a hot update mechanism for its SDK;
+2) It is advisable to explain this hot update to the App provider at least 5 working days before the hot update is pushed.
+The time node of the update package update, the specific content of the hot update, and the possible problems after the update
+The impact of the hot update package, the effective verification method of the hot update package, etc.; if the hot update content involves
+And changes in the purpose, method, and scope of personal information collection and use, and changes in security
+More or major functional changes should be reached one by one through emails, text messages, etc.
+Inform the App provider in a way;
+3) It is advisable to provide the option of individually controlling the on and off of the hot update function, indicating that the hot update is turned off
+The impact of new features, and keep the App provider from accepting hot update features
+Under the circumstance, the right to use other functions of the SDK can still be used normally.
+h) App providers should be notified of the relevant information of the third-party SDK, and the information should be complete
+Complete, accurate, and timely, and there is no deliberate concealment or deception. Inform content pack
+Including but not limited to: basic information of the SDK provider, communication and feedback channels, security capabilities
+Power; SDK’s basic functions, version number, privacy policy link address, security review
+Report; the sensitive authority and purpose of the application; the type of personal information collected and
+Collection purpose 4 ; the location of the personal information return server; the hot update mechanism and its
+Open and close methods; whether there is a separate interface to collect user personal information; embedded
+Other third-party SDKs that can collect personal information; whether to share with other applications or services
+Send and share the collected personal information of users, etc.
+
+4
+
+For sensitive permissions that must be applied for or personal information that must be collected, it is advisable to further explain its necessity.
+
+9
+
+Page 15
+
+i) Collecting and using users’ personal information as a joint or independent controller of personal information
+Information third-party SDK should separately inform users of the collection and use of personal information
+And obtain the user's consent. (Please refer to Appendix B for the written notice of consent).
+j) On the premise of ensuring safety, it should be prioritized in the local App private storage space memory
+Store and process personal information. Store and process sensitive personal information locally, should be separate
+Encrypted.
+k) A changeable identifier should be used to replace the unalterable device unique identifier
+l) It is advisable to establish mechanisms for responding to personal information subjects’ requests and complaints, and before accessing the App
+Inform the App provider of the corresponding request and complaint channels in time for personal information owners
+Body query and use.
+m)
+
+It is advisable to establish an "Opt-out" exit mechanism, when the subject of personal information does not want to use
+
+For services provided by a third-party SDK, the subject of personal information can use the "Opt-out" machine
+The exercise of the right to withdraw from the system 5 . It should be disclosed on the official website or personal information protection policy
+"Opt-out" links to allow personal information subjects to exercise their rights.
+n) It is advisable to improve the cooperation agreement with the App provider to clarify the individuals collected by the third-party SDK
+Type of information, sensitive permissions applied for, purpose of use of personal information, retention period,
+Overdue processing methods, etc., to clarify what the parties should take in terms of personal information protection
+Measures, responsibilities and obligations, etc. When there are major changes in the cooperation between the two parties, they should
+Reached a cooperation agreement.
+
+For example, Umeng+, terminal equipment Opt-out.
+https://outdip.umeng.com/opt_out.html?spm=a213m0.13887608.0.0.3cb275ef0jDEVu
+5
+
+10
+
+Page 16
+
+o) After an App stops accessing, if there is any personal information shared or collected from the App,
+The personal information shared or collected from the App shall be deleted in accordance with the agreement stipulated in the cooperation agreement or
+Do anonymization.
+
+11
+
+Page 17
+
+Appendix A Common third-party SDK security vulnerabilities
+Table 3 Common third-party SDK security vulnerabilities
+Types of
+
+name
+Risk of no obfuscation of Java code
+Private function call risk
+AES weak encryption vulnerability
+
+Source file security
+
+RSA algorithm insecure use vulnerability
+Unsafe use of random numbers
+Sensitive function call risk
+Custom permissions for low protection levels
+PengdingIntent is not safe to use
+Implicit intent call
+Dynamic registration broadcast
+FFmpeg file reading
+
+Intent Scheme URLs attack
+Internal data exchange security
+Provider file directory traversal
+Fragment injection
+Webview does not remove the hidden interface
+Webview save password in plain text
+Activity binding browserable and custom protocol
+Existing clipboard read or write operation vulnerability detection
+SSL communication server detects and trusts any certificate
+SSL communication client detects and trusts any certificate
+HTTPS turns off hostname verification
+Webview
+has a local Java interface
+Communication data transmission
+security
+Webview ignores SSL certificate error
+Open socket port
+Webview enables access to file data
+
+12
+
+Page 18
+
+getdir read and write permission configuration error
+The global file read and write permissions are incorrectly configured
+Local data storage security Configuration file read and write permissions are incorrectly configured
+AES/DES hard coded key
+Open or create database file permission configuration error
+Dynamic loading of DEX files
+External loading so file vulnerability
+Compiler stack protection technology is not used
+Unused address space randomization technology
+unzip unzip (ZipperDown)
+The dynamic link library contains the execution command function
+Defensive detection
+
+Libupnp stack overflow vulnerability
+Webview component remote code execution (call getClassLoader)
+The risk of saving a plaintext digital certificate
+Risk of tampering/secondary packaging
+Risk of resource file leakage
+so file cracking risk
+
+13
+
+Page 19
+
+Appendix B Third-party SDK informed consent
+The third-party SDK provider shall make it clear to the user before collecting and using the user’s personal information
+The purpose, method and scope of the collection and use of personal information, the type and purpose of the calling authority,
+And obtain the user's consent. If it involves information return or sharing, users should also be notified.
+Taking into account the different use scenarios and product forms of third-party SDKs, third-party SDKs and
+The legal relationship between apps is different, it should be combined with product form and specific scenario design to inform consent
+In the form of, users can understand the data controller and personal information processing rules in this scenario:
+(1) If the SDK provider independently determines the purpose and type of personal information collected, the SDK
+For the data controller, or there is a user-visible interface in the SDK, where the product form allows
+In this case, the SDK should display it to the user through a pop-up window or other friendly interface.
+The content should be notified, and at least the identity of the SDK service provider should be displayed through the product interface.
+Note: such as payment SDK on e-commerce website, click on the icon of payment SDK service provider to
+Jump to the page corresponding to the SDK to log in and pay, and pay for the SDK in this scenario
+Independently collect and process payment-related personal information. Payment SDK should be registered in the user or use
+Inform the user when using the service, display the content that should be notified, and obtain the user's consent.
+(2) If the SDK provider is the data processor, follow the requirements of the App provider
+To process personal information, or if the SDK has no user-visible interface, the App provider should start the App
+Before using the relevant SDK, inform users of the relevant content of the personal information collected by the SDK. SDK provided
+Developers should publish SDK collections in their contracts with App providers, public developer documents, etc.
+The personal information, the calling authority and the purpose of the information (can be an independent "XX SDK
+Privacy Policy" document). In this case, the form of notification can refer to the following text:
+1 , SDK Privacy Policy text:
+
+14
+
+Page 20
+
+____ SDK is developed by ____ (the SDK provider) and is integrated in the ____ App product
+Among products or services, products used to provide users with ____ services. In this scenario, ____ App
+As the data controller, the provider decides the purpose and method of processing user data, ____ (SDK
+Provider) As a data processor in the process of providing ____ services to users, accept ____
+The App provider entrusts and processes user data in accordance with the instructions of the ____ App provider. In order to say
+Explain how ____ SDK will collect, use and store your personal information and what rights you have
+We will explain relevant matters to you through this privacy policy. Please read carefully "____
+SDK Privacy Policy" and make sure to understand our handling rules for your personal information. If you don't
+Agree to any terms in the agreement, please submit a claim to the ____ App provider to stop using
+____ SDK service or contact ____ (SDK provider) through ____ (contact information)
+system.
+(The following is the content of the text, refer to the "Information Security Technology Personal Information Security Specification"
+Use the product privacy policy template)
+2 , SDK developer documentation developer's official website open / public statement:
+In order to ensure that your company legally use ____ SDK services, it is recommended to include it in the privacy policy of the App
+Add the following terms, or obtain user consent in other ways.
+"Our products or services may include third-party products or services, and may also collect
+And use your personal information. For example, we integrate ____ SDK for ____ service,
+____ (third-party SDK provider) will act as the data processor and follow the company’s instructions
+To collect and process your data, ____ (third-party SDK provider) will follow the "____ SDK
+Collect, process and protect your personal information as described in the "Privacy Policy" (with link). "
+3 , SDK and App contract examples provider:
+
+15
+
+Page 21
+
+(1) When the SDK provider independently determines the purpose and type of personal information collected, the SDK
+When you are the data controller:
+If the App provider uses ____ SDK service, ____ (third-party SDK provider)
+Personal information necessary to provide services will be collected. Therefore, ____ (provided by third-party SDK
+Person) should ensure that the end user’s consent is obtained in advance so that ____ SDK has the right to collect and use its
+Personal information provides corresponding services. If the end user does not give consent, the SDK does not
+Data collection and processing should be carried out, and App providers should not continue to use ____ SDK
+service.
+Both parties agree to comply with applicable end-user data collection, use, disclosure and protection related
+Laws, regulations, policies and industry standards, and to ensure compliance with such laws, regulations, policies and practices
+Industry standards.
+____ The specific collection and use behaviors of the user’s personal information by the SDK include: (Specifically
+Explain the type, method and scope of personal information collected and used, etc.). ____ SDK promises to abide by
+Applicable privacy laws, regulations and specifications, and perform data in accordance with the instructions of the APP provider
+deal with....
+(2) When the SDK provider is the data processor
+If the App provider uses ____ SDK service, ____ (third-party SDK provider)
+Personal information necessary to provide services will be collected. Therefore, ____ (provided by third-party SDK
+者) It is strongly recommended that App providers carefully read ____ (third-party SDK provider) announcements
+Statement, including the key terms in the privacy policy of the App provider’s products for end users
+And ensure that the link is accurate and effective, that is, the App provider should ensure that the terminal
+The user agrees so that ____ SDK has the right to collect and use their personal information to provide corresponding services. Such as
+16
+
+Page 22
+
+If the end user does not give consent, the App provider should not continue to use the SDK service.
+The aforementioned key terms ____ (third-party SDK provider) has drafted a template for your reference. you
+It can be revised or improved according to actual business scenarios, but completeness and authenticity should be ensured. Such as
+Because the App provider has not obtained the end user’s prior consent so that the SDK has the right to collect and use
+Relevant responsibilities arising from using their personal information to provide ____ services shall be borne by the App provider.
+____ SDK is responsible for ensuring the authenticity and accuracy of the content provided.
+App providers agree to comply with applicable end-user data collection, use, disclosure and protection
+Protect relevant laws, regulations, policies and industry standards, and ensure compliance with such laws, regulations,
+According to the regulations and industry standards, ____ SDK service is used. Use as ____ SDK service
+The App provider must formulate and publish your privacy policy and obtain the end user’s consent,
+And the policy should not be lower than the privacy protection standard of ____ SDK. However, ____ (third party
+SDK provider) does not control how the App provider uses
+The end user’s data should not be held responsible for this either.
+____ The specific collection and use behaviors of the user’s personal information by the SDK include: (Specifically
+Explain the type, method and scope of personal information collected and used, etc.). ____ SDK promises to abide by
+Applicable privacy laws, regulations and specifications, and perform data in accordance with the instructions of the APP provider
+deal with....
+
+17
+
+

@@ -1,0 +1,2038 @@
+Page 1
+
+Regulation (EU) 2016/679 General Data Protection Regulation
+
+Guideline
+
+Compiled by Dr. Matthias Schmidl
+(revised by Mag. Franziska Wollansky and Mag. Marek Gerhalter, LL.M.)
+Status: March 2021
+
+1
+
+Page 2
+
+content
+Foreword ................................................. .................................................. ............................... 3
+Introduction ................................................. .................................................. ........................... 4
+1) Structure of the GDPR ............................................. .................................................. ........... 5
+2) Chapter I .............................................. .................................................. ............................. 6
+3) Chapter II .............................................. .................................................. ............................ 8th
+4) Chapter III .............................................. .................................................. .......................... 10
+5) Chapter IV .............................................. .................................................. .......................... 14
+6) Chapter V .............................................. .................................................. ........................... 17
+7) Chapter VI .............................................. .................................................. .......................... 19
+8) Chapter VII .............................................. .................................................. ......................... 20
+9) Chapter VIII .............................................. .................................................. ........................ 22
+10) Chapters IX to XI ............................................ .................................................. ................ 25
+11) The Austrian Data Protection Act ............................................. ............................ 26
+12) Frequently asked questions ............................................. .................................................. ... 29
+a) General ............................................... .................................................. ................. 29
+b) I am affected - my rights ....................................... ..................................... 31
+c) I am the controller / processor - my duties .............................. 35
+d) International data transfer to recipients in a third country or in a
+international organization ................................................ ............................................. 49
+e) Brexit ............................................... .................................................. ........................... 51
+f) Proceedings before the data protection authority ............................................ ............................. 52
+13) Further reading .............................................. .................................................. .56
+
+2
+
+Page 3
+
+Preface
+These guidelines provide comprehensive information on data protection
+Basic Regulation (GDPR), which facilitate work with the GDPR and provide assistance
+to offer to specific questions.
+It is not intended to be conclusive . Advice from specialists
+The guidelines cannot replace institutions or legal advice.
+The guide does not constitute binding information that the data protection authority provides in
+any procedures, but reflects the level of knowledge and experience of the
+Employees at the current time.
+The guide is regularly evaluated and updated in order to
+To be able to incorporate innovations (especially at European level).
+The following innovations in particular have been included in this update:
+• Further guidelines from the European Data Protection Board
+
+3rd
+
+Page 4
+
+introduction
+The GDPR (full title: Regulation (EU) 2016/679 of the European Parliament
+and the Council of April 27, 2016 for the protection of natural persons with regard to processing
+personal data, the free movement of data and the repeal of the directive
+95/46 / EG ) was announced on May 4th, 2016 in OJ No. L119 p. 1, followed on the 20th day
+its publication in force and has been in effect since May 25, 2018.
+It repeals the data protection guideline 95/46 / EG (DSRL) and forms the since 25th May 2018
+Backbone of EU general data protection.
+The regulation is directly applicable and in principle does not need any further
+national implementation act.
+The GDPR contains numerous "opening clauses" that the national legislator
+oblige and / or authorize to regulate certain matters more closely by law.
+There is therefore still a national data protection law in Austria in addition to the GDPR
+(For more details, see point 11 of the guide).
+The objectives of the GDPR are
+• Uniform legal protection for all those affected in the EU
+• Uniform rules for data processing within the EU
+• the guarantee of a strong and uniform enforcement
+
+The data protection terminology is new in certain areas.
+For example, the previous client becomes the “responsible person” and the service provider becomes the
+“Processor” (although the terms are not always congruent).
+Some essential aspects are highlighted below.
+
+4th
+
+Page 5
+
+1) Structure of the GDPR
+The GDPR comprises 173 recitals and 99 articles.
+It is divided into 11 chapters:
+• Chapter I: General provisions (Art. 1 to 4)
+• Chapter II: Principles (Articles 5 to 11)
+• Chapter III: Rights of the data subject (Articles 12 to 23)
+• Chapter IV: Controller and processor (Articles 24 to 43)
+• Chapter V: Transfers of personal data to third countries or to
+international organizations (Articles 44 to 50)
+• Chapter VI: Independent supervisory authorities (Articles 51 to 59)
+• Chapter VII: Cooperation and coherence (Articles 60 to 76)
+• Chapter VIII: Remedies, liability and sanctions (Articles 77 to 84)
+• Chapter IX: Regulations for special processing situations (Articles 85 to 91)
+• Chapter X: Delegated acts and implementing acts (Articles 92 to 93)
+• Chapter XI: Final provisions (Articles 94 to 99)
+
+5
+
+Page 6
+
+2) Chapter I.
+Material scope (Art. 2):
+The GDPR applies to fully or partially automated processing
+personal data as well as for the non-automated processing of
+personal data that is stored or stored in a file system 1
+should be.
+The GDPR does not apply to the following areas :
+• Activities that do not fall within the scope of EU law
+• Activities within the framework of the common foreign and security policy
+• Use of data in the context of exclusively personal or family activities
+• Activities of the competent authorities to prevent, investigate, detect or
+Prosecution of criminal offenses or the execution of sentences, including protection against
+and averting threats to public safety 2
+Spatial scope (Art. 3) 3 :
+Like the Data Protection Directive 95/46 / EC (GDPR), the GDPR is primarily linked to the
+Use of data in the context of a branch of a controller or a
+Processor to 4 ; if this branch is located in the Union area , the GDPR
+applicable.
+According to Art. 3 Para. 2, the GDPR also applies if the data processing is carried out by
+a controller or processor not established in the Union territory
+takes place and the data processing is related to it
+
+For the term “file system”, see also the judgment of the ECJ of July 10, 2018, C-25/17.
+2 The DSRL-PJ applies to these areas; the guideline for the protection of natural persons in the
+Processing of personal data by the competent authorities for the purpose of prevention,
+Investigation, detection or prosecution of criminal offenses or the execution of sentences as well as for free
+Traffic and repealing Council Framework Decision 2008/977 / JHA
+(Data protection guideline police justice - DSRL-PJ) was published on 04.05.2016 in the official gazette no.L119 p. 89
+promulgated and came into force the day after it was promulgated.
+3 See EDPB guidelines 3/2018 on the spatial scope, available in
+German under
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_3_2018_territorial_scope_after_con
+sultation_de.pdf .
+4 On the concept of establishment, see the judgments of the ECJ of October 1, 2015, C-230/14, Weltimmo, and
+dated July 28, 2016, C-191/15, VKI; on the term “in the context of the activity of a branch” cf.
+Judgment of the ECJ of May 13, 2014, C-131/12, Google.
+1
+
+6th
+
+Page 7
+
+• Offer goods or services to data subjects in the Union
+(regardless of the payment) or
+• to monitor the behavior of data subjects, as far as their behavior in the Union
+he follows.
+The GDPR also applies if the person responsible or
+Processor is not established in the Union territory, but in a place that
+is subject to the law of a Member State based on international law.
+Definitions (Art. 4):
+The definitions of terms of the GDPR (Art. 4) often take over the
+Definitions of the DSRL, but also contain new terms, such as
+• Profiling (Art. 4 Z 4)
+• Pseudonymization (Art. 4 Z 5)
+• Violation of the protection of personal data (Art. 4 Z 12; Data Breach)
+• genetic and biometric data as well as health data (Art. 4 Nos. 13 to 15)
+• Head office (Art. 4 Z 16)
+• Representatives, companies and group of companies (Art. 4 Nos. 17 to 19)
+• Supervisory authority and affected supervisory authority (Art. 4 Z 21 and 22)
+• Cross-border processing (Art. 4 Z 23)
+• Relevant and well-founded objection (Art. 4 No. 24)
+• Information society service (Art. 4 No. 25)
+• international organization (Art. 4 Z 26)
+
+7th
+
+Page 8
+
+3) Chapter II
+The principles of data processing are largely identical to those of the GDPR.
+Art. 6 - lawfulness of processing - ties in with Art. 7 of the GDPR. Therefore
+the concept remains that the processing of data is impermissible unless it is
+a reason for justification (prohibition with exceptions).
+Based on the case law of the ECJ on Art. 7 of the DSRL 5 , it can be assumed that
+also Art. 6 contains a final list of permissible interventions and the
+Member States cannot stipulate any additional reasons for interventions.
+The principle of earmarking according to Article 5 (1) (b) is modified by Article 6 (4).
+Accordingly, data can also be used for others under strict conditions
+Purposes than those for which they were originally collected. 6th
+Art. 7 lays down the conditions for consent 78 (in more detail than previously the
+DSRL tat) 9 , Art. 8 expressly refers to the conditions for the consent of a
+Child in relation to information society services; thus the circumstance becomes the
+advancing digitization and the use of social networks
+Minors taken into account.
+Art. 9 contains - as already Art. 8 of the DPD - the requirements for
+Use of sensitive data (= special categories of personal data).
+
+Cf. lastly the judgment of October 19, 2016, C-582/14, Breyer.
+6 This approach was viewed critically by Austria in the course of the legislative process; see.
+on this Fercher / Riedl , GDPR: History and problems from Austrian
+View in Knyrim (ed.), General Data Protection Regulation [2016] p. 22 ff; see also Kotschy ,
+Earmarking principle and permissible further processing, contribution to the debate on data protection
+Basic Regulation (version 23.06.2016), available at http://bim.lbg.ac.at/de/themen/datenschutzbasic regulation .
+7 For more information, see EDSA guidelines 5/2020 on consent, available in English at
+https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052020-consent-underregulation-2016679_en .
+8 See also the decision of the data protection authority of July 31, 2018, GZ DSB-D213.642 / 0002DSB / 2018.
+9
+See Dürager / Kotschy , Innovations in Consent (Consent) according to the GDPR,
+Debate on the General Data Protection Regulation (Version 02.12.2016), as well as Dürager / Kotschy ,
+Changes to approval: Is there a general ban on coupling under the GDPR?
+Debate on the General Data Protection Regulation (Version 09.01.2017), both available at
+http://bim.lbg.ac.at/de/themen/datenschutz-grundverordnung .
+5
+
+8th
+
+Page 9
+
+Art. 10 specifies the conditions under which personal data are transferred
+criminal convictions and offenses may be processed. 10 Whether among these
+The term also includes dates of administrative criminal proceedings is currently the subject of a
+Preliminary ruling before the ECJ. 11
+Art. 11 finally standardizes the not insignificant fact that data is not just
+must therefore be kept in order to be able to identify a person (e.g. um
+to be able to comply with a request for information).
+
+By definition, this “criminal data” is not considered sensitive data. They were defeated in Austria
+but already so far a special protection; cf. § 8 Para. 4 DSG 2000 as well as the
+Case law of the Administrative Court on this (decision of October 22, 2012, Zl. 2009/03/0162).
+11 Rs C-439/19.
+10
+
+9
+
+Page 10
+
+4) Chapter III
+Chapter III regulates the data protection rights that a data subject has.
+The rights of the data subjects, i.e. those rights that the data subjects under the GDPR or the DSG
+can deduce arise
+• from the constitutional provision of § 1 DSG or
+• from Art. 12 to 22 GDPR
+
+As far as the GDPR is concerned, Art. 12 GDPR is a horizontal provision for the
+Exercise all data subjects' rights, because this is the modalities of exercise
+specifies.
+Accordingly, the following applies:
+The person responsible has to facilitate the exercise of the rights of the data subject as far as possible by
+he
+• Information and messages in easy-to-understand language (especially for children) for
+Provides;
+• provides information and communications in writing, possibly electronically;
+• also provides information and communications orally, provided that the
+The identity of the data subject has been proven in another way.
+Measures based on a request for information, correction or deletion,
+an objection or a request to restrict processing or to
+Data portability must be communicated to the person concerned within one month
+become. This period can be extended by two more months in justified cases ,
+the data subject is indicated by the person responsible within the first month
+of the reasons to inform about the extension of the deadline. If a request is made by a concerned
+Person electronically, it is to be done electronically if possible
+teach unless otherwise stated.
+If the request of a person concerned is not complied with, the person concerned is within a
+To be notified in writing about the month stating the relevant reasons. He is
+to indicate the possibility of submitting a complaint to the supervisory authority.
+
+10
+
+Page 11
+
+The exercise of the data subject's rights is free of charge for the data subject . At
+manifestly unfounded or - especially in the case of frequent repetition Excessive requests from a data subject can be the responsibility of the controller
+• either demand an appropriate fee (taking into account the
+Administrative costs for information or communication or implementation
+the requested measure) or
+• to refuse , due to the application to intervene . 12th
+
+The person responsible is responsible for providing proof of the existence of these reasons.
+If the person responsible has justified doubts about the identity of the person concerned, can
+he additional information to confirm the identity of the data subject
+request. The identity of the information seeker is regularly in the form of a copy of a
+official photo ID 13 proven. However, proof is also possible in form
+a qualified electronic signature. 14 If a request for information is made by a
+A lawyer brought in for a client, the request for information is the power of attorney
+of the tenant to be connected. This does not apply when facing a lawyer
+domestic authorities and courts intervenes because here the mere appeal to the
+granted power of attorney is sufficient (§ 8 RAO). 15th
+If, on the other hand, there is sufficient evidence to establish the identity of the information applicant
+To confirm unequivocally, the person responsible may not provide any further proof of identity
+(e.g. photo ID). 16
+Articles 13 and 14 - as already Articles 10 and 11 of the GDPR - lay down the
+Information obligations 17 towards those affected. Accordingly, those affected are about it
+
+12th
+
+Please refer to
+the
+Notification
+the
+Data protection authority
+from
+GZ DSB-D123.051 / 0002-DSB / 2018 (not legally binding) or the decision of the BVwG of
+March 2nd, 2020, W214 2224106-1.
+13 As proof of identity, the VwGH pronounced that this was in the form of a public
+Certificate can be proven. According to the Rsp of the VwGH, for example, the submission of one is sufficient
+Confirmation of registration not issued; Finding from 04.07.2016, Zl. Ra 2016/04/0014.
+14 Art. 3 Z 12 eIDAS-VO (Regulation (EU) No. 910/2014 on electronic identification and
+Trust services for electronic transactions in the internal market and repealing the directive
+1999/93 / EG, OJ No. L 257 of August 28, 2014 p. 73, in the version of the correction OJ No. L 257
+dated January 29, 2015 p. 19); See also the decision of the BVwG of May 27, 2020, GZ W214 2228346-1.
+15 See again the decision of the VwGH of July 4th, 2016.
+16
+Please refer to
+the
+Notification
+the
+Data protection authority
+from
+GZ DSB-D123.901 / 0002-DSB / 2019.
+17 See in more detail the guidelines of the Art. 29 Group on Transparency, WP 260, available in German
+at https://www.dsb.gv.at/dam/jcr:17cb6862-7bc0-4039-8c4797bc09602214 / guidelines% 20f% C3% BCr% 20Transparency% 20 according to% C3% A4% C3% 9F% 20der% 20Ver
+11
+
+Page 12
+
+inform by whom, on what legal basis and for what purpose your data
+processed and to whom they are transmitted. The ECJ measures these information requirements
+great value because they create the conditions for those affected to have their
+Exercise rights (information, correction, deletion, objection). 18th
+In addition to the previously known rights to information (Art. 15), correction (Art. 16),
+Erasure (Art. 17; extends to the “right to be forgotten”) are new rights
+introduced.
+
+07/06/2018,
+
+07/31/2019,
+
+Thus, Art. 18 provides the right to restriction of processing , according to which a
+The data subject can request the controller to restrict processing if
+e.g. the correctness of the data is disputed.
+Art. 20 gives an interested party the right to data portability a 19 . So should
+ensure that the data provided by a data subject
+personal data stored with a (private) provider in a specific technical
+Environment, in certain cases without a change of provider
+Transferring technical barriers for those affected into a new technical environment
+can be.
+The right to object (Art. 21) 20 differs significantly from the right to object
+according to § 28 DSG 2000, and has a special effect against direct mail (Art. 21 Para. 3).
+Also as a horizontal provision, Art. 23 GDPR regulates the conditions under which
+Affected rights can be restricted.
+This may be necessary for reasons
+a) national security;
+b) national defense;
+c) public safety;
+
+regulation% 202016-679.pdf. These guidelines have been expressly adopted by the EDPS:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+18 See the judgment of the ECJ of October 1, 2015, C-201/14, Smaranda Bara et al.
+19 See also WP 242 rev. 01, guideline of Art. 29 Group of December 13, 2016 on data portability,
+available at https://www.dsb.gv.at/dam/jcr:01ff1101-f5bf-494b-a7d264392db10b78 / guidelines% 20to% 20Recht% 20auf% 20Daten% C3% BCransferability,% 20pdf.pdf.
+These
+Guidelines
+were
+from
+EDSA
+expressly
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+20 The right to object also applies to the use of data by authorities; see.
+on this, the judgment of the ECJ of March 9, 2017, C-398/15, Manni.
+
+accepted:
+
+12th
+
+Page 13
+
+d) the prevention, investigation, detection or prosecution of criminal offenses or the
+Enforcement of sentences, including protection against and averting dangers for
+public safety;
+e) the protection of other important objectives of the general public interest
+Union or a Member State, in particular an important economic or
+financial interests of the Union or a member state, for example in monetary,
+Budgetary and taxation as well as in the field of public health and the
+social security;
+f) the protection of the independence of the judiciary and the protection of
+Legal proceedings;
+g) the prevention, detection, investigation and prosecution of violations of the
+professional rules of regulated professions;
+h) the control, monitoring and order functions, which are permanent or temporary
+are connected with the exercise of official authority;
+i) the protection of the data subject or the rights and freedoms of others
+People;
+j) the enforcement of civil law claims.
+In Austria, it was mainly in the matter data protection amendment laws 21
+Made use of.
+According to the case law of the ECJ, however, such restrictions are subject to control
+of the ECJ, as well as restrictions that Member States can impose in the
+Scope of application of Union law fall. 22nd
+
+Cf. in particular the Material Data Protection Adjustment Act 2018, Federal Law Gazette I No. 32/2018,
+and the 2nd Material Data Protection Adjustment Act 2018, Federal Law Gazette I No. 37/2018, where from
+Restrictions within the meaning of Art. 23 GDPR have been used.
+22 See the judgment of December 21, 2016, C-203/15, Tele 2 Sverige AB, and C-698/15, Watson.
+21
+
+13th
+
+Page 14
+
+5) Chapter IV
+The GDPR takes more responsibility than the GDPR and the GDPR 2000 and
+Processors in duty.
+Art. 27 obliges controllers and processors who are not in the Union
+settled are a representative to call in a Member State. The representative is
+in addition to the person responsible / processor or instead point of contact for
+Affected parties and supervisory authorities. 23
+The DVR reporting procedure and the DVR itself no longer exist ( elimination of the DVR
+Reporting obligation ). Instead, Art. 30 obliges controllers and processors
+Directory of processing activities 24
+
+to lead that at the request of the
+
+Is to be submitted to the supervisory authority. This obligation does not apply to companies or
+Facilities that employ fewer than 250 people, unless
+• The processing carried out by them poses a risk to the rights and
+Freedoms of the data subjects,
+• the processing is not only occasional or
+• Special categories of data are processed in accordance with Art. 9 Paragraph 1
+(sensitive data) or the processing of personal data via
+criminal convictions and offenses within the meaning of Art. 10.
+In addition, those responsible are obliged to start a new one
+Data processing system to carry out a data protection impact assessment 25 and
+possibly with the supervisory authority as part of a consultation process
+to work together (Articles 35 and 36).
+
+For the responsibility of the representative, see guidelines 3/2018 of the EDPB on spatial
+Scope of application, available in German at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_3_2018_territorial_scope_after_con
+sultation_de.pdf , p. 19 ff.
+24 See in more detail Horn , Possible extensions to the processing directory according to Art. 30
+GDPR on a comprehensive compliance tool, JusIT 5/2017 p. 183 ff.
+25 See WP 248 rev. 01, guidelines of Art. 29 Group of 04/04/2017 on data protection
+Impact assessment, available at
+https://www.dsb.gv.at/dam/jcr:ba295358-cf65-41a6-911da88cae94ba20 / guidelines% 20 to% 20 data protection impact assessment-wp248-rev-01_de.pdf .
+23
+
+14th
+
+Page 15
+
+Responsible parties are required to report violations of protection
+to submit personal data to the supervisory authority (Art. 33) and, if necessary,
+To inform those affected of the violation (Art. 34). 26
+The mandatory appointment of a data protection officer in certain areas is also new
+Areas (Art. 37 to 39) 27 , who performs his duties as a data protection officer
+carried out independently of instructions and reported directly to the highest management level.
+The following
+
+Responsible / processor
+
+to have
+
+imperative
+
+one
+
+To appoint a data protection officer:
+• Authorities and public bodies (with the exception of courts, unless the
+monocratic administration of justice concerns);
+• if the core activity involves regular and systematic monitoring of
+Represents people;
+• if the core activity is the extensive processing of sensitive data after
+Art. 9 and criminal data according to Art. 10 exists.
+Art. 40 ff build the system already provided for in Art. 27 of the DPD
+Code of conduct continues. Accordingly, associations and other associations that
+Categories of responsible persons or processors represented, data protection law
+Create rules of conduct and submit them to the supervisory authority for approval.
+Compliance with the approved rules of conduct is monitored by a for
+particularly suitable body to be accredited by the supervisory authority . 28
+Articles 42 and 43 stipulate that controllers and processors determine
+Can have processing operations certified to prove that the
+Processing is carried out in accordance with the GDPR (data protection seal, test mark).
+
+See WP 250 rev.01, guidelines of the Art. 29 group of 03.10.2017 for the reporting of
+Personal data breaches in accordance with Regulation (EU) 2016/679,
+retrievable
+in
+German
+under
+https://www.dsb.gv.at/dam/jcr:17c191cd-521d-4604-bafe92ff60e8cc18 / guidelines% 20f% C3% BCr% 20the% 20report% 20of% 20injuries% 20des% 20Sch
+Uses% 20 personal% 20 data% 20 according to% C3% A4% C3% 9F% 20der% 20 regulation% 20 (EU)
+% 202016-679.pdf. These guidelines have been expressly adopted by the EDPS:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+27
+See also WP 243 rev. 01, guideline of Art. 29 Group from December 13, 2016 to
+Data protection officer, available at https://www.dsb.gv.at/dam/jcr:a279307b-ce48-416e-9c285bae42e0038c / guidelines_in_Bezug_auf_Datenschutzbeauftragte.pdfThese guidelines were adopted by
+EDSA expressly adopted:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+28 For more information, seehttps://www.dsb.gv.at/haben-taetigkeiten/genehmigung-vonrules of conduct.html provided.
+26
+
+15th
+
+Page 16
+
+The certification is carried out either by the supervisory authority itself or by
+Certification bodies appointed by the supervisory authority or the national accreditation body
+be specially accredited for this purpose in accordance with Regulation (EC) No. 765/2008. 29 In Austria the
+Accreditation exclusively by the data protection authority (Section 21 (3) DSG).
+
+See EDSA guidelines 1/2018 on certifications and certification criteria
+Art. 42 and 43 GDPR, available in German at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_201801_v3.0_certificationcriteria_an
+nex2_de_0.pdf , and the guidelines 4/2018 on the accreditation of certification bodies
+Art. 43 GDPR, available in German at
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_201804_v3.0_accreditationcertificati
+onbodies_annex1_de.pdf .
+29
+
+16
+
+Page 17
+
+6) Chapter V
+Chapter V regulates the detailed requirements for data traffic with recipients in
+Third countries 30 or international organizations 31 .
+Such a data flow is, in addition to compliance with the general processing
+principles, only permitted under the following additional conditions:
+• Existence of an adequacy decision by the European Commission
+(Art. 45) 32
+• Availability of suitable guarantees (Art. 46). This includes above all from the
+European Commission standard data protection clauses 33 , by a
+Standard data protection clauses accepted by the supervisory authority (Art. 46 Para. 2 lit. d)
+and binding internal data protection regulations (Binding Corporate Rules, BCRs,
+Art. 47) as well as new mechanisms such as rules of conduct (Art. Art. 40) and
+Certifications (Art. 42).
+Art. 49 provides for exceptions for certain cases, whereby a restrictive application of there
+provided exceptions is necessary. 34
+The ratio behind Chapter V is that the transmitted data is received by the recipient in the third country
+or in the case of the international organization one of the same in substance
+Protection level as in the EU should be subject. Most transfers are supposed to
+be permit-free.
+Those responsible in the field of public safety must observe
+that according to §§ 58 and 59 DSG special provisions for transmissions to recipients in
+
+In this sense, third countries are all countries outside the EU or the EEA area.
+These include on the basis of an international agreement or a corresponding one
+Agreement between two or more entities established by international law to understand how
+e.g. the United Nations. Organizations under private law and non-governmental associations (NGOs)
+without a mandate under international law, on the other hand, do not fall under this term.
+32
+A list of the adequacy decisions currently in force is available below
+https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protectionpersonal-data-non-eu-countries_en available.
+33 The “standard contractual clauses” issued under Directive 95/46 / EC apply in accordance with Art. 46 Paragraph 5
+GDPR until it is changed, replaced or canceled. The validity of the
+Standard contractual clauses in accordance with the resolution of the European Commission 2010/87 / EU as amended. of
+Decision 2016/2297 was examined by the ECJ and confirmed in principle (see C-311/18).
+34 See the guidelines of the EDPB 2/2018 on the exceptions according to Article 49 of the
+Regulation 2016/679, available in German at https://www.dsb.gv.at/dam/jcr:db22aec8-5c71-4ae49c30-b06d07f79335 / guidelines22018% 20to% 20the% 20exceptions% 20to% 20Article49% 20of the% 20Regulation 2016-679.pdf .
+30
+31
+
+17th
+
+Page 18
+
+Third countries or in international organizations in the context of processing
+personal data for security police purposes, including police
+State protection, military self-protection, the reconnaissance and prosecution of
+Criminal offenses, the execution of sentences and the execution of measures.
+
+Note:
+In the decision known as "Schrems II" of July 16, 2020, C-311/18,
+the "Privacy Shield", which is relevant for a large part of the data transfers to the USA
+Decision "(Implementing Decision (EU) 2016/1250 of the European Commission) for
+Invalid , as the US legal order is not a matter of fact
+equivalent level of protection standardized. The ECJ justified its decision
+especially with the passing of extensive, not to the absolutely necessary
+Measure limited the powers of intervention and access of the US American authorities to
+personal data that is transmitted from the Union territory to the USA,
+as well as inadequate legal protection options for those affected. 35 At the same time he has
+pronounced that the standard contractual clauses in accordance with the resolution of the
+European Commission 2010/87 / EU as amended by Decision 2016/2297 with the
+Are compatible with Union law. In certain cases they have to go through so-called
+"Additional guarantees" are added, ie that those responsible in addition to the agreement of
+Standard data protection clauses may have to take additional measures,
+to ensure compliance with a level of protection that is equivalent to the matter. 36
+
+35
+
+For detailed information on this, see the EDSA FAQs in English at
+https://edpb.europa.eu/sites/edpb/files/files/file1/20200724_edpb_faqoncjeuc31118_en.pdf.
+36 See in detail the recommendations 01/2020 of the EDPB on measures to supplement
+Transmission tools to ensure the level of protection under Union law for personal
+Data, available in German at https://edpb.europa.eu/our-work-tools/public-consultations-art704/2020 / recommendations-012020-measures-supplement-transfer_en; cf. also the
+version on the website of the data protection authority at https://www.dsb.gv.at/habenactivities / international-data-traffic.html .
+18th
+
+Page 19
+
+7) Chapter VI
+
+37
+
+There is at least one independent supervisory authority in each Member State. In Austria
+the data protection authority has this function.
+The tasks and powers are considerably expanded by the GDPR (Art. 57 and 58).
+Art. 58 standardizes three types of powers:
+• Investigative powers (including the right to enter certain
+Premises)
+• Remedial powers (these are powers that allow the supervisory authority to
+to stop illegal behavior, for example by means of specific orders or
+the imposition of fines of up to 20 million euros or 4% of the total
+annual turnover achieved worldwide in the previous financial year)
+• Authorization and advisory powers.
+
+Courts are exempt from supervision, provided they are within the scope of their judicial
+Act activity. Conversely, organs of jurisdiction are therefore subject to the
+Supervision if they act in the context of the monocratic administration of justice. 38 Whether a
+judicial activity of a court has to be assessed on a case-by-case basis. 39
+Whether legislative bodies (National Council, Federal Council, Ombudsman Board, Court of Auditors)
+subject to supervision by the data protection authority is currently the subject of a
+Revision proceedings before the VwGH. 40
+
+37
+
+See in detail Schmidl , tasks and powers of the supervisory authorities as well
+Legal protection options according to the GDPR, ÖBA 1/17 p. 27 ff; Flendrovsky , The Regulatory Authorities,
+in Knyrim (eds.) loc. cit. p. 281 ff.
+38 See Schmidl in Gantschacher / Jelinek / Schmidl / Spanberger , comment on data protection
+Basic Regulation1 [2017] Art. 55 Note 3; Nguyen in Gola (Ed.), General Data Protection Regulation
+[2017] Art. 55 margin no. 13.
+39
+See.
+to
+the
+Notices
+the
+Data protection authority
+from
+GZ DSB-D123.848 / 0001-DSB / 2019, and from 04.02.2019, GZ DSB-D123.937 / 0001-DSB / 2018.
+40 Note: The DSB takes the view that this is not the case, the BVwG in a decision
+however, yes.
+
+01/22/2019,
+
+19th
+
+Page 20
+
+8) Chapter VII
+
+41
+
+Since cross-border issues are the norm in the digital age , the
+GDPR also means increased cooperation between the individual
+Supervisory authorities . If there is a cross-border situation, should under
+With the involvement of all supervisory authorities concerned, a coordinated decision was made
+will then be sent to the controller or processor at the headquarters of his
+Is to be delivered to the main branch.
+The supervisory authority at the headquarters of the main branch acts as the lead
+Supervisory authority 42 , which is responsible for the involvement of the (otherwise) affected supervisory authorities
+coordinated and prepared a draft decision and with those concerned
+Coordinating supervisory authorities.
+The recipient is, if he does not oppose the decision, obliged to make the decision
+to be implemented in all of its branches in the EU.
+Chapter VII also sees the obligation to mutual administrative assistance (Art. 61) and the
+Possibility to carry out joint measures by the supervisory authorities (Art. 62)
+in front.
+The cooperation procedure does not apply if the
+Responsible / processor around an authority or an entrusted legal entity
+acts (Art. 55 Para. 2).
+The European Union set up in accordance with Art. 68 plays an essential role
+Data Protection Committee (EDPS) 43 , in which the supervisory authorities of all member states,
+the European Data Protection Supervisor and the European Commission are represented.
+According to Art. 70, the committee has a wide range of tasks, including the adoption of
+Guidelines on certain topics of the GDPR, but also the submission of opinions
+
+See in detail Leissler / Wolfbauer , The One Stop Shop in the GDPR, in Knyrim (ed.) Loc . Cit
+P. 291 ff; Schmidl , cooperation of the supervisory authorities in cross-border cases, in Knyrim
+(Ed.) Loc. Cit. P. 303 ff.
+42 See also WP 244, guideline of the Art. 29 group of 13.12.2016 to determine who is in charge
+Supervisory authority,
+retrievable
+under
+https://www.dsb.gv.at/dam/jcr:59cd262c-c7b4-45ad-b127ad58767cdc33 / guidelines% 20f% C3% BCr% 20the% 20determination% 20of the% 20federf% C3% BChrenden
+% 20Supervisory authority% C3% B6rde% 20a% 20Responsible person.pdf. These guidelines have been prepared by the EDPS
+expressly adopted:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf.
+43 See alsohttps://edpb.europa.eu/ .
+41
+
+20th
+
+Page 21
+
+as well as the drafting of binding resolutions (Articles 64 and 65). 44 He is doing it by one
+Secretariat provided by the European Data Protection Supervisor.
+
+The decisions adopted under the so-called “consistency process” are
+under https://edpb.europa.eu/our-work-tools/consistency-findings_en available.
+44
+
+21
+
+Page 22
+
+9) Chapter VIII
+Art. 77 regulates the right to lodge a complaint with a supervisory authority.
+Against binding decisions by the supervisory authority or against inaction by
+The supervisory authority has recourse to a court of law (Art. 78). Responsible for such
+Complaints are the courts of the member state in which the authority is based.
+The procedure before the supervisory authority is free of charge for the complainant, except for
+Complaints are obviously unfounded or - in particular because of them
+Accumulation - excessive. In these cases the supervisory authority can refuse to act
+or prescribe reasonable costs.
+Art. 79 standardizes the right to an effective judicial remedy against those responsible
+or processors. According to the case law of the Supreme Court (OGH) 45
+can be used against persons responsible and processors in the private sector (these are in
+Essentially private individuals, groups of persons and legal entities of the
+Private law, such as associations, GmbH, etc.) brought an action before the competent civil court
+become.
+This means that there is a right to choose when it comes to legal protection : complaint to the
+Data protection authority or legal action in a civil court.
+The local and factual jurisdiction of the civil court is based on the
+Jurisdiction Standard (JN). Only for claims for damages according to Art. 82 GDPR is in § 29
+DSG expressly stipulates jurisdiction.
+Please note that - in contrast to a complaint procedure before the
+Data protection authority - a civil law action at least with costs (court
+fees) and you are from a dispute value of more than 4,000 euros
+must be represented by a lawyer (and subject to a fee).
+Against authorities, offices, etc. however, a civil action is not possible. Here is
+only the possibility of a complaint to the data protection authority.
+
+See the decisions of December 20, 2018, GZ 6 Ob 131 / 18k, and of May 23, 2019,
+GZ 6 Ob 91 / 19d.
+45
+
+22nd
+
+Page 23
+
+According to Art. 80, data subjects can withdraw from specialized institutions,
+Non-profit organizations or associations
+Represent the supervisory authority and bring legal action for damages . The
+Member States can also provide that these bodies are independent of a
+Authorization to submit a complaint to the supervisory authority. The
+However, it is not possible to assert claims for damages without a mandate. 46
+Please note that the institutions mentioned do not have any in Austria
+Can bring claims for damages (§ 28 DSG)! 47
+Art. 82 standardizes the possibility of material and immaterial damage suffered
+To demand compensation 48 from the controller or processor. 49 Are on
+If several controllers or processors are involved in a processing, everyone is liable
+by them for the total damage (Art. 82 Para. 4).
+Art. 83 contains fines as well as those reasons that are aggravating or mitigating
+are to be taken into account when determining the penalty.
+The fines , which are administrative penalties , range up to 50
+20 million euros or, in the case of a company, up to 4% of the total worldwide
+achieved annual sales of the previous financial year, depending on which
+Amount is higher. It is up to the Member States to determine whether or not to use fines
+can be imposed on authorities and public bodies. 51
+If the legal system of a member state does not provide for fines, Art. 83 can do so
+apply that the supervisory authority files a criminal complaint with the court and the
+Fine is imposed by a court. 52
+
+before the
+
+See EG 142. This is to prevent class actions.
+47 See also OGH 11/26/2019, GZ 4 Ob 84 / 19k
+48 For the limits of damages according to the GDPR, see OGH 27.11.2019, GZ 6 Ob 217 / 19h.
+49
+See also Tretzmüller , Private Enforcement - Immaterial Damage
+Data protection violations, in: Jahnel (Ed.) Datenschutzrecht. Yearbook 17 (2017) p. 199 ff.
+50 This is clear from a comparison of the language versions; the English language version
+speaks of "administrative fines", the French of "amendes administratives". With fines
+46
+
+It is therefore a matter of penalties and not of any other sanction (see on fines in
+In the area of ​procurement, e.g. the decision of the VwGH from December 16, 2015, Zl. Ro 2014/04/0065).
+51 For Austria see on the inadmissibility of imposing an administrative fine on a
+highest body VfSlg. 19.988 / 2015. According to Section 30 (5) DSG, authorities and public
+No fines are imposed (see point 11 below).
+52 Flendrovsky argues on the basis of the (old) Rsp of the VfGH that such high fines in
+Austria would have to be imposed by a court and not by an administrative authority;
+cf. Flendrovsky , The Supervisory Authority, in Knyrim (eds.) loc. cit. p. 287; this is right view
+overtaken by the decision of the Constitutional Court of 13.12.2017, GZ G 408/2016 and others.
+23
+
+Page 24
+
+Article 84 obliges the member states to impose additional sanctions, especially those that are criminally punishable by law
+Facts to normalize.
+
+24
+
+Page 25
+
+10) Chapters IX to XI
+Chapter IX sets out special processing situations (e.g. freedom of expression,
+Access to official documents, employment context). The member states are
+urged to make these processing situations closer by legal provisions
+determine in order to bring them in line with the GDPR.
+According to Article 99, the regulation entered into force on the twentieth day after its publication in the OJ
+Kraft (that was May 24th, 2016) and has been in effect since May 25th, 2018.
+
+25th
+
+Page 26
+
+11) The Austrian Data Protection Act
+In implementation of the GDPR and implementation of the data protection guideline for the area
+Police and Justice (DSRL-PJ) 53 the Austrian legislature introduced the data protection
+Amendment Act 2018 54 passed, which entered into force on May 25, 2018. There was
+two amendments in 2018 (Federal Law Gazette I No. 23/2018 and Federal Law Gazette I No. 24/2018), with Federal Law Gazette I
+No. 14/2019, the DSG was last amended and changes will also be made in the future
+calculate.
+The core of the new regulation is the federal law for the protection of natural persons
+the processing of personal data (Data Protection Act - DSG). That became
+formerly applicable DSG 2000 stripped of the simple statutory provisions that
+Constitutional provisions (in particular the fundamental right to data protection according to § 1) remain
+largely exist or have been adjusted.
+The DSG is divided into five main parts. The 1st main part standardizes the implementation of the
+General data protection regulation and supplementary regulations, the 2nd main part regulates the
+Organs (of data protection), the 3rd main part the implementation of the DSRL-PJ, the
+4th main part the special penal provisions and 5th main part the
+Final provisions.
+For those responsible and processors, the first main part , which can be found in
+divided into three sections .
+The first section contains general provisions (e.g. on the data protection officer
+or data secrecy).
+The 2nd section regulates data processing for specific purposes (such as for
+Purposes of scientific research and statistics).
+The third section regulates the image processing (formerly "video surveillance"). The
+However, the Federal Administrative Court (BVwG) has ruled that these provisions are not
+
+Directive (EU) 2016/680 of the European Parliament and of the Council of April 27, 2016 to
+Protection of natural persons when processing personal data by the responsible
+Authorities for the purpose of preventing, investigating, detecting or prosecuting criminal offenses or the
+Enforcement of sentences as well as the free movement of data and the repeal of the framework decision
+2008/977 / JHA of the Council - Data Protection Directive-Police Justice (DSRL-PJ), OJ No. L 119 of
+May 4, 2016 p. 89.
+54 Federal Law Gazette I No. 120/2017.
+53
+
+26th
+
+Page 27
+
+are to be applied. 55 Image processing in the private sector is therefore based on the
+Art. 5 and 6 GDPR. 56
+Other key points are:
+• The data protection authority will act as a supervisory authority with all powers
+( including the imposition of fines 57 ) under the GDPR and the
+DSRL-PJ set up.
+• Fines can also be imposed directly on legal persons and
+not only towards the responsible agent (§ 9 des
+Administrative Penal Act 1991 - VStG); against authorities and public bodies
+no fines can be imposed.
+• The data protection authority makes binding decisions on all complaints (ie also
+about those for which, according to the previous legal situation, civil law recourse according to § 32
+DSG 2000 was to be followed).
+• Legal action is pending against binding decisions by the data protection authority
+the Federal Administrative Court unreservedly open.
+• Affected persons can leave institutions, organizations or associations without
+Intention to make a profit who are active in the field of data protection before the
+Be represented by the data protection authority and before the Federal Administrative Court ; a
+Intervention by institutions, organizations or associations without a mandate
+(ie without authorization) is not provided 58 .
+• There will be - in addition to the fines according to the GDPR - also
+Administrative violations standardized by the data protection authority with
+A fine of up to 50,000 euros is punishable.
+• The from the Data Protection Authority to leading lists (need for
+execution
+
+one
+
+Data protection impact assessment,
+
+conditions
+
+at
+
+See the decisions of November 20, 2019, GZ W256 2214855-1, and of November 20, 2019,
+GZ W211 2210458-1.
+56
+See the information at https://www.dsb.gv.at/download-links/fragen-undreply.html # video monitoring_ by_private_including_der_privateconomy_management_
+the_public_hand_.
+57
+On the admissibility of the imposition of substantial fines by
+Administrative authorities see the decision of the Constitutional Court of December 13, 2017, GZ G 408/2016 and others.
+58 See OGH 4 Ob 84 / 19k.
+55
+
+27
+
+Page 28
+
+Certification bodies, criteria for the accreditation of a body) are in the form of a
+To publish the ordinance in the Federal Law Gazette 59
+
+See the pagehttps://www.dsb.gv.at/verordnung-in-osterreich. The have already been issued
+Data Protection Impact Assessment Exceptions Ordinance (DSFA-AV), Federal Law Gazette II No. 108/2018, and
+the regulation on processing operations for which a data protection impact assessment
+is to be carried out (DSFA-V), Federal Law Gazette II No. 278/2018, and the regulation on the requirements for
+a monitoring body for rules of conduct (ÜStAkk-V), Federal Law Gazette II No. 264/2019.
+59
+
+28
+
+Page 29
+
+12) Frequently Asked Questions
+a) General
+Since when has the GDPR been in effect?
+Since May 25, 2018.
+Can I contact the
+Contact the data protection authority?
+The data protection authority provides the parties with substantive information on their pending
+Proceedings before the data protection authority.
+The data protection authority is obliged in accordance with Article 57 (1) (e) GDPR, upon request
+each data subject information about the exercise of their rights based on this
+Regulation to provide. However, this support is not suitable for a
+To replace a lawyer and may not anticipate the outcome of a proceeding.
+We therefore ask for your understanding that no
+legal assessments on the application and interpretation of legal provisions and
+content-related consulting services can be carried out. Binding decisions
+can only ever occur at the end of a specific procedure.
+What is a "public body"?
+The data protection authority cannot carry out a specific case-by-case check as to whether
+a body is to be regarded as a public body or not.
+• Basically, it is up to the person responsible to make this classification
+in accordance with the given legal basis. In addition to various
+German-language comments (see point 13 of these guidelines) as well as the
+Guideline of the Art. 29 Group on the Data Protection Officer 60 , which indications
+for the interpretation of the concept of the public body is in particular that
+Refer to the Data Protection Act 61 . It is found in § 30 para. 5 DSG a
+Definition which can be used. As "public bodies" can
+accordingly in particular in forms of public law as well as private law
+
+Available at
+https://www.dsb.gv.at/europa-internationales/europaeischer_datenschutzausschuss_edsa.html.
+61 Available on Parliament's website atwww.parlament.gv.at .
+60
+
+29
+
+Page 30
+
+Established bodies that act on a statutory basis and corporations of the
+public law.
+If the specified characteristics are not met by the responsible person, will
+It will hardly be possible to classify it as a public body.
+Is there still a national data protection law after the GDPR comes into force?
+Yes. The Austrian Parliament has passed the Data Protection Adjustment Act for this purpose
+(see also point 11 of the guideline). The Data Protection Act (DSG) continues to exist.
+Does data protection law also apply to legal entities?
+Legal persons (e.g. an association, a GmbH, an AG, a cooperative)
+obliged by the GDPR to adhere to certain requirements.
+As a rule, however, you cannot invoke the GDPR to exercise rights (such as
+Information, deletion, objection, etc.) because the GDPR is only natural
+Protects people. The ECJ only allows an appeal to the GDPR if in the
+Company / name of the legal person the name of a natural person occurs
+(e.g. Max Mustermann GmbH).
+§ 1 DSG - unlike the DSGVO - still protects legal rights in Austria
+People. 62
+This means that legal persons in "internal cases" (ie cases without a foreign connection)
+can assert the following rights:
+• Confidentiality
+• Information desk
+• Correction
+• deletion
+
+How can I distinguish the DSFA-AV from the DSFA-V?
+If the question arises whether (no) a data protection impact assessment should be carried out,
+should first read the two ordinances of the DPO and the explanations for them (available at
+the website of the DSB).
+
+62
+
+See also the decision of the data protection authority dated May 25, 2020 on the GZ: 2020-0.191.240.
+30th
+
+Page 31
+
+Only if a processing activity does not appear in the DPIA-AV does it arise
+Question of a data protection impact assessment.
+The DSFA-V gives priority to the DSFA-AV (see § 2 DSFA-V, where it says:
+" If [...] there is no data processing in accordance with the [DSFA-AV], according to the
+to carry out a data protection impact assessment in any case according to the following provisions ”).
+
+b) I am affected - my rights
+What rights do I have (rights of data subjects) and where can I assert them
+do?
+The GDPR brings a new catalog of rights, some of which are used to date
+Rights match. Note that these rights are usually only natural
+Persons are entitled to.
+In almost all cases, the controller must be asked to grant the right
+before a complaint is possible. The Data Protection Agency offers on their website
+non-binding the appropriate forms 63 .
+
+63
+
+Available athttps://www.dsb.gv.at/dokumente .
+31
+
+Page 32
+
+1. The right to information (Art. 15 GDPR) . The person concerned is allowed a confirmation
+request whether data concerning him are processed, including a
+Negative information. If data is processed, the person concerned has the right to
+following informations:
+a. Processing purposes;
+b. Data categories;
+c. Copy (e.g. printout) of the processed data content;
+d. Data recipients or recipient categories;
+e. planned storage period (or criteria for determining it);
+f. Existence of a correction, deletion, restriction or
+Right of objection;
+G. Existence of a right to lodge a complaint with a supervisory authority;
+H. available information about the origin of the data;
+i. Consist
+
+one
+
+automated
+
+decision making
+
+included), logic and scope of such procedures.
+The GDPR shortens the period for providing information to one month.
+An extension to three months is possible.
+The right to information is a right to information about the company's own data
+Affected. A copy of the processed data content must be designed in such a way that
+the data protection rights of other persons are not violated.
+2. The right to correction (Art. 16 GDPR) relates to data content. New in
+the GDPR is the right to complete data - possibly through a
+additional note. The deadline for rectification is set by the GDPR to a
+Month shortened. An extension to three months is possible.
+
+32
+
+Page 33
+
+3. The right to erasure (Art. 17 GDPR) (including the "right to
+To be forgotten ”). The right to delete presupposes that one of the following
+Circumstances exist or have occurred:
+a. Loss of processing purpose
+b. Revocation of the consent of the person concerned
+c. effective objection to data processing
+d. initial unlawfulness of the data processing
+e. legal obligation to delete (e.g. law, judgment, notification)
+f. Lack of consent from a child's legal guardian
+New: If the person responsible has made the data public (e.g. on the Internet), then must
+he will take all reasonable measures, including technical ones, in order to delete
+responsible data recipients (in particular search engine operators)
+inform that the data subject the deletion or removal of links, copies
+or wants replications (= "right to be forgotten").
+The right to erasure can be exercised through the right to freedom of expression
+Legal obligations of the person responsible, interests of legal defense and
+public interests (public health, scientific and archival purposes)
+be limited.
+The GDPR shortens the period for deletion to one month. UU is a
+Extension to three months possible.
+4. New: The right to restrict processing (Art. 18 GDPR) . It deals
+a time-limited or conditional right. The prerequisites are:
+a. the correctness of the data is disputed;
+b. the legality of the data processing is disputed, the data subject
+but rejects the deletion itself;
+c. the data subject needs the data, the processing purpose of which has ceased to exist,
+for the assertion of legal claims;
+d. the person concerned has lodged an objection to the data processing.
+Data on which the right to restrict processing has been exercised
+may only be asserted with the consent of the person concerned
+
+33
+
+Page 34
+
+of legal claims, to protect the rights of others or from important
+public interests are processed.
+In the cases a. and d. is the restriction on the duration of the examination of the
+Main claim (to deletion) limited. The person concerned must prior to the lifting of the
+Restriction.
+Data recipients are, if this is not impossible or disproportionate
+There is an effort involved in informing about restrictions. The person concerned can
+request to be informed about the recipients of the data.
+The deadline for restricting processing is one month. UU is a
+Extension to three months possible.
+5. New: The right to data portability (Art. 20 GDPR) . It is supposed to ensure
+that the person concerned own data, which he himself a (private) responsible person
+announced (“made available”), received it back or to a new one
+Can hand over those responsible. Think of profiles you have created yourself in
+social networks. If possible, those responsible should provide a direct,
+Ensure technical transferability, but this is not mandatory
+required. The data of other persons than the data subject are not subject
+this right. It can only be invoked if there is a basis for that
+Data processing either the consent of the data subject or a contract
+is.
+6. The right to object (Art. 21 GDPR) . By exercising this right
+the data subject can with a data processing, which without his express or
+implicit consent takes place (e.g. on the basis of a legal authorization
+or because of predominantly justified claims made by the person responsible
+Interests), an examination of the reasons he has put forward for termination
+request processing. Against data processing for the purposes of
+Direct mail and associated profiling (automatic evaluation of a
+Person and their behavior, e.g. purchasing power assessment, classification in a
+Marketing target group) is an objection at any time without giving reasons
+possible. If the objection is justified, the data must be deleted.
+The deadline for deciding on an objection is one month. UU is a
+Extension to three months possible.
+
+34
+
+Page 35
+
+(Profiling
+
+7. Rights regarding automated individual decisions and profiling (Art. 22
+GDPR) . The GDPR prohibits such decisions (e.g. when imposing
+Administrative penalties,
+
+Tax regulations,
+
+decision
+
+above
+
+Job applications, granting of credit, conclusion of contracts in general, classification
+in a marketing target group) initially, but sees some exceptions
+in front. Exceptions are legally prescribed use cases,
+express and verifiable consent of the person concerned and due diligence
+on the occasion of a contract. For the applicability of the provision must
+the entire decision-making process is not exclusively automated. He
+may only be used under special conditions and never exclusively on sensitive ones
+Data (special data categories according to Art. 9 Para. 1 GDPR). The
+Those affected can especially review the automated decision
+request a person and has a special right to information regarding the
+Automated Decision Making Logic.
+The deadline for deciding on rights regarding the automated
+Decision making takes a month. UU is an extension to three
+Months possible.
+
+c) I am the controller / processor - mine
+Duties
+Am I responsible or processor?
+Defining your own role is essential.
+The person responsible within the meaning of the GDPR is who determines which data is to be sent
+which purposes are processed with which means ("master of the data").
+Being more responsible does not depend on the organizational or legal form, but
+from a functional point of view. 64
+
+The person responsible also meets the sole one
+
+Decision as to whether data will be changed, corrected or deleted. He / she is the addressee of
+Rights of those affected and must comply with them.
+Possibly there is a joint responsibility (Art. 26 GDPR), ie that two or more
+Those responsible make the above decisions. It is not necessary to
+that the tasks and duties are evenly distributed; what is crucial, however, is that everyone
+
+See also the finding of BVwG W258 2221952-1 / 3E of March 31, 2020 or Art-29Data protection group WP 169.
+64
+
+35
+
+Page 36
+
+Participants can at least - even if only minimally - make decisions (cf.
+the judgments of the European Court of Justice of June 5, 2018, C-210/16, and of July 10, 2018, C-25/17).
+A processors , however, processed data "in order", ie transfer and
+under the supervision of a responsible person. A data processing for own purposes
+is not scheduled.
+As a rule, the following persons / offices are not processors :
+• Members of the liberal professions (ie lawyers, doctors, tax consultants, etc.) - these
+are subject to their own professional rules or see the relevant statutory rules
+Provisions for independent data processing
+• Telecommunications companies - these are subject to the provisions of the TKG 2003, which
+it obliges to process data independently
+• Credit bureaus - these are subject to the trade regulations and process data
+independently for the purpose of providing information about a person's creditworthiness
+Does the GDPR only apply to large companies?
+No. The GDPR applies to small and one-person businesses as well as to associations and
+for authorities and public bodies. There are some exceptions for small and small
+One-person company provided (e.g. in Art. 30 Para. 5 GDPR relating to management
+a directory of processing activities).
+I have the consent of those affected (e.g. customers) for data processing
+caught up. Will the GDPR change anything about that?
+If the consent obtained meets the requirements of Art. 7 GDPR,
+nothing changes. If necessary, consent must be obtained again.
+What does consent include?
+Consent is one of several ways to process data in a legally compliant manner
+( Legal basis for data processing ). The person concerned agrees with the consent
+to the fact that his data are processed for a specific purpose. Consent can
+can be revoked at any time.
+However, consent is not included
+• Deviations from necessary data security measures (e.g. consent,
+that messages are transmitted in a certain - insecure - way)
+
+36
+
+Page 37
+
+• Consultation of processors (this decision is solely up to the
+Responsible person)
+This cannot be legally approved.
+What do I have to inform data subjects about when collecting their data? Is there
+exceptions to this?
+If you collect the data directly from the respective data subject, you must use the
+Communicate all information to those affected as provided for in Art. 13 GDPR. A
+Exception from the information obligation only exists if the person concerned already has
+have this information.
+If you want to process data that you have not collected from the data subjects yourself,
+you must provide the data subject with all information as provided in Art. 14 GDPR
+notify. This can be omitted if the person concerned already has the information
+make it impossible to provide the information or with disproportionate effort
+is connected, the processing is provided for by law or the data is
+Subject to professional secrecy (see Art. 14 Paragraph 5 GDPR).
+Please note the guidelines of the EDPB on transparency (more detailed information on this
+at the beginning of Chapter III)
+
+Excursus:
+In this context, it should be noted that consent to cookies
+"Voluntarily for the specific case, in an informed manner and unambiguously"
+got to. “Silence, boxes already ticked or inaction” cannot
+Represent consent within the meaning of the GDPR. 65
+
+What are the obligations for controllers and processors?
+The following is a brief overview of the most important obligations, which
+those responsible or the processors meet through the GDPR:
+➢ Directory of processing activities (Art. 30 GDPR)
+Responsible persons must write a list of all processing activities (=
+Data applications), which are subject to their responsibility. This directory has
+
+65
+
+See the decision of the ECJ of October 1, 2019, C-673/17.
+37
+
+Page 38
+
+in any case to contain: the name and contact details of the person responsible, data of a
+joint responsibility with him (if available), data of his representative (if
+available), data of the data protection officer if available), the purposes of
+Processing, the description of the categories of data subjects and the categories
+personal data (= affected groups of people and data types), categories of
+Recipients (including recipients in third countries or international organizations);
+if possible: deletion deadlines, technical and organizational description
+Activities.
+The directory can be kept internally in any language. However, if there is one
+Submission to the data protection authority , the directory must be in German
+to submit as the data protection authority foreign language documents in their procedures
+can not take into account (official language German according to Art. 8 para. 1 federal
+Constitutional law; see also the decision of the Administrative Court of
+May 17, 2011, No. 2007/01/0389).
+Even processors must write a list of all categories of commissioned
+activities carried out by the person responsible. The person in charge and be
+Processors or their representatives, if applicable, have the data protection authority on
+Request to provide the directory.
+Companies or institutions that employ fewer than 250 people meet the
+Duty to keep a directory is not, unless that made by them
+Processing poses a risk to the rights and freedoms of data subjects who
+Processing does not only take place occasionally or special processing takes place
+Data categories according to Art. 9 Para. 1 GDPR (data on racial and ethnic
+Origin, political opinions, religious or ideological convictions,
+Union membership, genetic data, biometric data to identify a
+natural person, health data or data on sex life or sexual
+Orientation) or a processing of personal data about criminal law
+Convictions and criminal offenses within the meaning of Art. 10 GDPR.
+
+For information :
+As of May 25, 2018, the reporting obligation according to §§ 17 ff Data Protection Act 2000 (DSG 2000) is on
+the data processing register is omitted. DVR messages are no longer provided
+(see also the information under point 11).
+
+38
+
+Page 39
+
+Since the creation and management of a directory according to Art. 30 GDPR is exclusive
+Is the responsibility of the controller / processor, it remains in the opinion of the
+The data protection authority also leaves them to decide how to structure their directory in terms of content
+want. The data protection authority has no specifications / no template for this.
+Former DVR reports can be used as a template for a directory,
+however, this is not mandatory.
+
+➢ Cooperation with the supervisory authority (Art. 31 GDPR)
+
+The person responsible and the processor, if necessary their representative, have with
+cooperate with the data protection authority at their request. Failure to follow this
+Duty is threatened with a fine of up to 10 million euros.
+➢ Security of processing (Art. 32 GDPR)
+The person responsible and his processor must use suitable technical and
+organizational measures ensure an appropriate level of protection, this can
+evidenced by approved rules of conduct (Art. 40 GDPR) or
+based on approved certification procedures (Art. 42 GDPR).
+➢ Reporting violations of the protection of personal data to the
+Supervisory authority (Art. 33 GDPR)
+A person responsible has a report in the event of a breach of protection
+to reimburse personal data to the data protection authority, if this results in a
+There is a risk to the rights and freedoms of those affected; this immediately and
+if possible within 72 hours after he became aware of the injury. Furthermore
+is the necessary information (description of the injury, number of people affected
+or the data sets, measures, probable consequences, documentation, etc.) of the
+To transmit data protection authority. The data protection authority is hiring on its website
+Sample form ready for reports 66 .
+
+66
+
+Available athttps://www.dsb.gv.at/dokumente
+39
+
+Page 40
+
+➢ Notification of a violation of personal protection
+Data subject (Art. 34 GDPR)
+A person responsible has data subjects about the data protection violations he has caused
+to notify if there is a high risk to rights and freedoms of data subjects
+consists; this without undue delay (exceptions are possible here)
+➢ Data protection impact assessment (Art. 35 GDPR)
+
+Has some form of processing, especially when using new technologies,
+based on the type, scope, circumstances and purposes of the processing
+likely to pose a high risk to the rights and freedoms of natural persons
+Consequence, the person responsible has an advance assessment of the consequences of the intended
+Carry out processing operations for the protection of personal data.
+A data protection impact assessment is particularly necessary in the following cases:
+• Systematic and comprehensive assessment of personal aspects more natural
+Persons based on automated processing including profiling
+and which in turn serves as the basis for decisions, the legal effect
+unfold towards natural persons or this in a similarly significant manner
+affect;
+• extensive processing of special categories of personal data
+according to Art. 9 Para. 1 GDPR or of personal data about
+criminal convictions and offenses according to Art. 10 GDPR or
+• Systematic extensive monitoring of publicly accessible areas.
+
+The data protection authority has to create a list of the processing operations
+for which a data protection impact assessment must be carried out in any case
+(see the Data Protection Impact Assessment Ordinance - DSFA-V, Federal Law Gazette II
+No. 278/2018). It also has a list of processing operations that do not have any
+Data protection impact assessment is to be carried out, published (the data protection
+Impact Assessment Exceptions Ordinance - DSFA-AV, Federal Law Gazette II No. 108/2018 67 ). Also
+Legislation can provide for a mandatory data protection impact assessment.
+The data protection impact assessment must at least contain:
+
+67
+
+Available athttps://www.dsb.gv.at/verordnung-in-osterreich
+40
+
+Page 41
+
+• a systematic description of the planned processing operations and the
+Purposes of processing, possibly including that of the
+Responsible persons pursued legitimate interests;
+•a
+
+rating
+
+the
+
+need
+
+and
+
+Proportionality
+
+the
+
+Processing operations related to the purpose;
+• an assessment of the risks to the rights and freedoms of data subjects
+and
+• The corrective actions planned to address the risks, including
+Guarantees, Precautions and Procedures by which the Protection
+personal data is ensured and evidence is provided that
+this regulation is respected, taking into account the rights and legitimate interests
+the data subjects and other data subjects are taken into account.
+For the investigation of several similar processing operations with similarly high risks
+a single data protection impact assessment can be carried out.
+
+Note :
+O
+
+The guidelines of the Art. 29 Working Party on data protection impact assessment 68 are
+listed nine criteria that are necessary for the implementation of a data protection
+Impact assessment can be crucial.
+
+O
+
+In the guideline mentioned there are references to already established procedures for
+Data protection impact assessments.
+
+O
+
+For already existing processing operations (data applications)
+In principle, do not carry out a data protection impact assessment if this
+Processing operations by the data protection authority to an earlier one
+Time in the course of a DVR registration as part of a
+Prior control procedure according to § 18 Data Protection Act 2000 (DSG 2000)
+have been approved. With automatic registration via DVR-Online or in
+Cases in which the data protection authority has registered a data application,
+however, there was in fact no prior checking case (this concerns
+Reports that do not require prior checking before September 1, 2012 or reports
+
+Available athttps://www.dsb.gv.at/dam/jcr:ba295358-cf65-41a6-911da88cae94ba20 / guidelines% 20 to% 20 data protection impact assessment-wp248-rev-01_de.pdf.
+These guidelines have been expressly adopted by the EDPS:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf .
+68
+
+41
+
+Page 42
+
+where the client mistakenly identified the presence of the prior check
+ticked), this is not an option.
+O
+
+If there is a change in existing processing operations, however, is very
+probably to carry out a data protection impact assessment if the
+Requirements of Art. 35 Paragraph 1 GDPR apply. It is generally recommended
+allow existing data processing operations to be evaluated on a regular basis
+subject to whether conditions have changed. If so, would be - at
+All prerequisites are met - a data protection impact assessment
+perform. It is also recommended to document from which
+Reasons no data protection impact assessment has been carried out.
+
+O
+
+The data protection impact assessment can be carried out in any language and internally
+be recorded in writing. However, if there is a submission to the
+Data protection authority (e.g. in the case of a consultation procedure), the data protection
+Impact assessment must be submitted in German, as the data protection authority
+cannot take foreign-language documents into account in their procedures.
+
+➢ Prior consultation (Art. 36 GDPR)
+The person responsible must inform the data protection authority before processing begins
+consult if from a data protection impact assessment according to Art. 35 GDPR
+shows that the processing would result in a high risk, provided that the
+Responsible person does not take any measures to contain the risk.
+Should the data protection authority come to the conclusion that the planned processing
+would not be in accordance with the GDPR, in particular because the person responsible is taking the risk
+has not sufficiently determined or not adequately contained, submits it to the
+The person responsible (and, if applicable, the processor) in writing
+Recommendations and can exercise their powers mentioned in Art. 58 GDPR.
+The data controller has the following in the context of a consultation with the data protection authority
+To provide information:
+• If applicable, information on the respective responsibilities of the person responsible who
+jointly responsible persons and those involved in the processing
+Processors, especially when processing within a group of
+Companies;
+• the purposes and means of the intended processing;
+
+42
+
+Page 43
+
+• to protect the rights and freedoms of data subjects in accordance with the
+GDPR measures and guarantees;
+• if applicable, the contact details of the data protection officer;
+• the data protection impact assessment in accordance with Art. 35 GDPR and
+• any other information requested by the supervisory authority.
+
+In addition, those responsible can be obliged by legal provisions in which
+Processing to fulfill a task in the public interest, including
+processing for social security and public health purposes, the
+Consult the supervisory authority and obtain their prior approval.
+➢ Appointment of a data protection officer (Art. 37 GDPR)
+
+The controller and the processor have a data protection officer
+name if:
+• the processing is carried out by an authority or public body, with
+Exception of courts that act in the context of their judicial activity;
+• the core activity of the controller or the processor in the
+Execution of processing operations exists, which due to their nature, their
+Extensive, regular and systematic in scope and / or purposes
+Make monitoring of data subjects necessary, or
+• the core activity of the controller or the processor in the
+extensive processing of special categories of data in accordance with Art. 9 GDPR
+or of personal data about criminal convictions and
+There is a criminal offense in accordance with Art. 10 GDPR.
+Other controllers or processors can contact a data protection officer
+order on a voluntary basis. A group of companies or public institutions
+can appoint a joint data protection officer. The contact details of the
+Data protection officers are to be published and reported to the data protection authority.
+Do I need a data protection officer?
+You first have to decide yourself whether you “need” a data protection officer
+decide. For the majority of companies, the order is basically optional
+be. It is mandatory to appoint a data protection officer due to the GDPR
+Authorities or public bodies (with the exception of courts, unless they are in
+
+43
+
+Page 44
+
+Within the framework of the administration of justice) and in companies that focus on
+operate in a specific business area. You can find the relevant regulations
+in Art. 37 GDPR.
+When is a data protection officer mandatory (in my company)?
+to order?
+The controller or processor must have a data protection officer
+order if
+a. the core activity is the execution of processing operations, which
+due to their nature, their scope and / or their purposes an extensive
+regular and systematic monitoring of data subjects is required
+do, or
+b. the core activity in the extensive processing of special categories of
+Data (according to Art. 9 GDPR) or personal data about
+there are criminal convictions and offenses (according to Art. 10 GDPR).
+What is the position 69 of the data protection officer and must he be one
+Be an employee?
+The position of the data protection officer is regulated in more detail in Art. 38 GDPR. Therefore
+the data protection officer does not receive any instructions in the performance of his duties and
+may not be dismissed or disadvantaged because of the performance of his duties. The
+Data protection officer reports directly to the highest management level. Further
+the controller and the processor must contact the data protection officer
+support him in the fulfillment of his tasks and those for the fulfillment of these tasks
+make necessary resources available.
+The data protection officer can be an employee of the controller or of the
+Processor his or her duties on the basis of a
+Fulfill service contract (Art. 37 Para. 6 GDPR).
+For federal ministries and their subordinate departments or institutions
+§ 5 DSG provides that the data protection officer is aware of the status of the respective
+Must belong to a ministry or agency or institution.
+
+69
+
+See also the guidelines on data protection officers, available at
+https://www.dsb.gv.at/dam/jcr:a279307b-ce48-416e-9c285bae42e0038c / guidelines_in_Bezug_auf_Datenschutzbeauftragte.pdf. These guidelines were dated
+EDSA expressly adopted:
+https://edpb.europa.eu/sites/edpb/files/files/news/endorsement_of_wp29_documents_en_0.pdf .
+44
+
+Page 45
+
+Social insurance agencies or self-governing bodies where only one
+Federal supervisory law does not fall under Section 5 of the DSG.
+Can a data protection officer be the responsible officer according to § 9 VStG?
+The Information Commissioner has, according to the data protection authority advisory
+Function . Binding orders are to be made by the management level. Therefore
+the data protection authority is of the opinion that a data protection officer is not considered
+responsible agent can be appointed.
+Does the data protection officer need a certain (academic) training?
+No. According to Art. 37 Para. 5 GDPR, the data protection officer is based on
+his professional qualifications and, in particular, the specialist knowledge he has on the
+Area of ​data protection law and data protection practice, as well as based on
+his ability to fulfill the tasks of the data protection officer in accordance with Art. 39
+GDPR.
+Do political parties and trade unions need a data protection officer?
+Yes. Political parties and trade unions do not fall under the concept of
+“Public body”, but its core activity is extensive processing
+sensitive data according to Art. 9 GDPR (here: political opinion and
+Union membership, possibly also religious or ideological
+Beliefs).
+Does a single doctor or lawyer need one
+Data protection officer?
+No. Extensive processing of sensitive data or criminal data per se would be
+a prerequisite for the need to appoint a data protection officer,
+However, the GDPR sees relief on this point for the individual doctor or
+Attorney before. According to recital 91, the processing should be personal
+Data is not considered to be extensive if the processing of personal data by
+Patients or by clients concerned and by a single doctor, others
+Health professional or lawyer.
+What are rules of conduct?
+According to Art. 40 GDPR, rules of conduct explain the content-specific legal situation in more detail,
+by specifying the application of the GDPR in certain areas. Associations and
+other associations, the categories of controllers or processors
+represented, can develop such rules of conduct and submit them to the supervisory authority
+45
+
+Page 46
+
+Submit approval. With the monitoring of compliance with approved
+Code of conduct is to be entrusted to a body accredited by the supervisory authority.
+Compliance with the rules of conduct according to Art. 40 GDPR can be used as a point of view
+be used to fulfill the obligations of the person responsible or
+To prove the contract processor.
+The data protection authority has already approved rules of conduct and provides general
+Instructions for rules of conduct are available on their website. 70
+What is certification and who does it?
+Data protection specific
+
+Certification process,
+
+Privacy seal
+
+Data protection certification marks serve as evidence of factual compliance with the requirements of the
+GDPR for certain processing operations. Certification is provided by the
+Data Protection Authority or bodies specifically accredited by it on the basis of the
+Certification criteria of an approved certification procedure granted. The maximal
+Certification is valid for three years, with a (multiple) extension of each
+a maximum of three years is possible.
+What does the GDPR mean for the use of cloud services?
+
+and
+
+Most cloud services (especially storage) are a form of order processing. It
+It should be noted that the use of cloud services may result in a
+Data transfer to a third country takes place for which there is a separate legal basis
+needs (e.g. standard contractual clauses). Will use a cloud service provider
+taken, a secure data processing must be guaranteed by this.
+If there is a breach of the protection of personal data in the cloud (e.g.
+due to a hacker attack or similar) is responsible for data protection (including
+claims for damages) externally the person responsible (i.e. those
+Person / institution using cloud services).
+What do I have to be liable for?
+Any (natural) person who, through a violation of the GDPR, constitutes a material or
+immaterial damage has occurred is entitled to compensation against the
+Responsible or against the processor. Everyone responsible for the
+was involved in the processing entirely. The processor is liable if he has his
+special obligations are not fulfilled or the instructions of the person responsible are not fulfilled (for
+
+70
+
+See alsohttps://www.dsb.gv.at/haben-taetigungen/genehmigung-von-verlösungenregel.html .
+46
+
+Page 47
+
+In full). In the internal relationship, the claimant can be in the relationship of
+Regress responsibility to other parties involved.
+This is to ensure effective legal protection.
+No liability arises if neither the person responsible nor the client is responsible for the
+Circumstance through which the damage occurred is responsible.
+What is the legal situation at clubs?
+The GDPR makes little reference to certain legal and organizational forms. Societies,
+who process personal data are responsible.
+The
+
+Data Protection Impact Assessment Exceptions Regulation
+
+(DSFA-AV),
+
+BGBl. II
+
+No. 108/2018, takes over the membership administration of associations and groups of persons
+(DSFA-A03 member administration). This exception is due to the management of
+Membership registers, evidence of membership and sponsorship fees and traffic
+limited with members or sponsors.
+For associations with a religious, ethnic or other ideological background
+special categories of personal data are processed. According to Art. 9 Para. 2
+lit.d GDPR, such data may be used by a political, ideological, religious or
+unionized foundation, association or other organization without
+Earning intent to be processed:
+• on the basis of appropriate guarantees;
+• in the course of their lawful activities;
+• Provided that the processing is limited to the members
+or former members of the organization or to persons who are in the
+Maintain regular contact with her in connection with her purpose of activity,
+relates and
+• not the personal data without the consent of the data subjects
+be disclosed to the outside world.
+The other provisions of the GDPR also apply without restriction to clubs (especially the
+Duty to inform data subjects according to Art. 13 GDPR as well as the management of a
+List of processing activities according to Art. 30 GDPR).
+
+47
+
+Page 48
+
+How long can I save data?
+In some cases, there are legal deadlines within which data must be retained (e.g.
+7 years according to § 132 of the Federal Tax Code - BAO).
+If no statutory period provided it is for the / key staff independently
+determine how long data will be stored (see, for example, Section 51 Paragraph 3
+Doctors Act).
+The following factors can be decisive:
+• Pending or specific threatened litigation (the mere assumption that it could
+to complain is not enough)
+• Time that has elapsed since the data was discovered (the older the data, the less
+They have relevance)
+• Data are (no longer) required to fulfill a contract (e.g.
+Insurance contract)
+A general (ie not justified) retention period for
+at least 30 years (general limitation period according to the general civil
+Code of Law - ABGB for the assertion of certain rights).
+Can I only send encrypted messages / documents electronically?
+The GDPR does not provide that messages / documents are only in encrypted form
+Form can be sent electronically (e.g. by encrypted mail).
+Encrypted transmission can, however - depending on the respective circumstances (data type,
+Processing purposes, reliability of the system) - be recommended.
+Important: Affected parties cannot legally request a declaration of consent
+that you consent to certain types of transmission (e.g. transmission via
+Messenger services or email).
+Can I use video surveillance / image processing?
+For more information, see https://www.dsb.gv.at/fragen-und-endungen >
+Video surveillance by private individuals (including private sector administration by the
+public hand).
+
+48
+
+Page 49
+
+d) International data transfer to recipients in a third country
+or in an international organization
+What happens when data is transmitted to recipients in a third country or in a
+international organization? What happened to previous
+Permits?
+The GDPR means that there is extensive freedom of approval in the international market
+Data traffic (Art. 44-50 GDPR). It is important to ensure that all processing operations
+are first permitted in Germany before a data export is permitted (so-called "two-stage
+Exam").
+
+The legal instruments for data export already known under Directive 95/46 / EC
+have been preserved and are supplemented by some new options:
+Personal data may be sent to recipients in a third country or in an international
+national organization if there is an adequate level of protection
+was established (Art. 45 GDPR). The determination is made by the European
+Commission, its adequacy decisions will be published. 71
+Furthermore, the transmission is permitted if between the data exporter and the
+Data importer
+
+a
+
+contractual
+
+agreement
+
+under
+
+use
+
+of
+
+Standard data protection clauses have been concluded or binding internal
+Data protection regulations (Binding Corporate Rules, BCRs) exist. These instruments existed
+it already under the RL 95/46 / EG, albeit the binding internal
+Data protection regulations are only expressly codified with the GDPR. To the new ones
+Legal instruments include rules of conduct (Art. 40 GDPR) and
+Certification mechanisms (Art. 42 GDPR). Art. 46 para. 3 GDPR contains the
+Possibility of obtaining approval for further instruments (e.g. individual contractual clauses)
+by the supervisory authority, whereby it should be noted that for such cases
+in principle the coherence procedure according to Art. 63 GDPR (ie in particular the
+Involvement of the European Commission and the European Data Protection Board)
+is to be applied.
+Art. 49 GDPR contains some exceptions for special cases, some of which with
+comply with the rules in the previous § 12 DSG 2000 (approval, fulfillment of the contract,
+
+An overview including further information on the adequacy decisions according to Art 45
+GDPR
+finds
+yourself in
+English
+under
+https://ec.europa.eu/info/law/law-topic/dataprotection / international-dimension-data-protection / adequacy-decisions_en .
+71
+
+49
+
+Page 50
+
+public interest, defense of legal claims, vital interests) and
+some that have been added (submitting an excerpt from a public
+Register). However, all of these exceptions must be applied restrictively.
+
+ATTENTION: There are guidelines of the EDPB on Art. 49 GDPR! 72
+
+The GDPR brings fewer administrative channels and more responsibility for the
+Responsible for data protection law. In particular, it is necessary to own
+To know data processing as well as its purposes and (if for the relevant
+Third country does not have an adequacy decision by the European Commission) itself
+decide which legal instruments or suitable guarantees (including any
+additional measures) for data transfer to recipients in a third country or in
+an international organization.
+Data subjects are also obliged to provide information if data is transferred to a third country or in
+an international organization should be transmitted (Art. 13 para. 1 lit. f and 14 para. 1
+lit.f GDPR).
+Already granted permits remain in principle valid (Art. 46 Para. 5 first sentence
+GDPR).
+
+ATTENTION: The so-called "Privacy Shield decision" was made by the decision of the European Court of Justice
+of July 16, 2020, C-311/18 declared invalid . The ECJ justified its decision
+essentially so that by US law none of the matter
+is standardized according to the equivalent level of protection. 73
+
+Does the GDPR also apply to international organizations such as the UN, the OSCE
+ua?
+It depends primarily on the agreement that the international organization has with the
+concludes the respective (European) seat state (seat state agreement = under international law
+Contract). In most cases, the international organizations commit themselves to
+Laws of the country of residence - and thus also the GDPR - must be observed. However included
+the agreements usually provide provisions on privileges and immunities from
+
+72
+
+available in German at
+https://www.dsb.gv.at/dam/jcr:db22aec8-5c71-4ae4-9c30b06d07f79335 / guidelines22018% 20to% 20the% 20exceptions% 20to% 20Article49% 20of the% 20Regulation 2016-679.pdf.
+73
+For detailed information on this, see the EDSA FAQs in English at
+https://edpb.europa.eu/sites/edpb/files/files/file1/20200724_edpb_faqoncjeuc31118_en.pdf .
+50
+
+Page 51
+
+international organizations and their employees, in particular the
+Inviolability of the official seat, immunity from state prosecution (ie also from
+Procedural acts of the data protection supervisory authorities), etc ..
+
+e) Brexit
+What effects does the so-called "Brexit" have on the transmission of personal
+Data to recipients in the UK?
+The UK voted in a referendum on June 23, 2016
+Leaving the European Union and leaving it at the end of January 31, 2020.
+A withdrawal agreement 74 was signed beforehand and will come into force on February 1, 2020
+has entered and are significant aspects of the UK's withdrawal from the
+European Union and the European Atomic Energy Community.
+The exit agreement saw a transition period until December 31, 2020
+("Transition period"), in which the Union law (and consequently also the GDPR) for the
+United Kingdom and in the United Kingdom in principle continued to apply. In this
+During the period, there were therefore no direct consequences for the data transfer.
+Shortly before the end of the transition period, the European Union and the
+United Kingdom a trade and cooperation agreement 75
+
+negotiated,
+
+which has been provisionally applied since January 1, 2021.
+With regard to data protection law, the trade and cooperation agreement contains a
+Another bridging solution , according to which the transmission of personal
+Data from the European Union to recipients in the United Kingdom in one
+Period of a maximum of six months after its entry into force is not considered
+Transmission to a third country within the meaning of Union law applies . The condition for this is that
+UK data protection law currently in force during that period
+does not change and the UK does not have any of its new during this period
+Exercises powers in this area.
+
+Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the
+European Union and the European Atomic Energy Community, OJ L 2020/29, p. 7 as amended. L 2020/443,
+P. 3.
+75 trade and cooperation agreements between the European Union and the European
+Atomic Community of the one part and the United Kingdom of Great Britain and Northern Ireland
+on the other hand, OJ L 2020/444, p. 14.
+74
+
+51
+
+Page 52
+
+The bridging solution will therefore end no later than June 30, 2021 ,
+so that when personal data is transmitted to recipients in
+United Kingdom also the provisions of Chapter V of the GDPR (resp.
+of the DSRL-PJ) must be observed .
+The European Commission has been working on so-called
+Adequacy decisions (cf. Art. 45 GDPR or Art. 36 GDPR-PJ) with regard to
+the United Kingdom accepted and two drafts submitted in the meantime ,
+which gives the UK an adequate level of protection for those coming from the EU or
+attest to personal data transmitted to the EEA. Should both
+Adequacy decisions in the currently available form by the end of June at the latest
+2021, personal data can also be issued beyond that
+generally without further arrangements to recipients in the UK
+be transmitted. Otherwise, a transfer of personal data would only be at
+The existence of corresponding guarantees (cf. Art. 46 GDPR or Art. 37 GDPR-PJ) or
+Exceptions (cf. Art. 49 GDPR or Art. 38 GDPR-PJ) are permissible.
+
+f) Proceedings before the data protection authority
+In which language can I submit documents to the data protection authority or in
+what language are proceedings conducted?
+All documents that the controller / processor or the complainant
+has to be submitted to the data protection authority in the course of a procedure, in
+German language (official language in accordance with Article 8, Paragraph 1 of the Federal Constitutional Act; see
+also the decision of the Administrative Court of May 17, 2011,
+Zl. 2007/01/0389). If this is not the case, the data protection authority is not
+obliged to accept these documents. Complaints in any other than the
+German language are introduced after unsuccessful rectification of the defect
+rejected (see the decision of 21.09.2018, GZ DSB-D130.092 / 0002DSB / 2018).
+The obligation to submit German-language documents applies in any case to the
+Data protection impact assessment according to Art. 35 GDPR, that of the data protection authority for example
+must be submitted in the context of the "consultation" according to Art. 36 GDPR, as well as for the
+Directory of processing activities in accordance with Art. 30 GDPR, which is usually the
+Will be the basis for the data protection impact assessment.
+
+52
+
+Page 53
+
+What fines can the supervisory authority impose and for what?
+The GDPR provides for fines. The fines are considered by the data protection authority
+Administrative penalties against companies (company owners) or individuals
+impose each as the person responsible for data processing or
+Processors act. The number of criminal behaviors (violations) was increasing
+extended. Negligence is also punishable.
+The heavy fines envisaged in the GDPR are intended to create an opportunity, too
+to put very high-turnover players in their place. The data protection authority becomes theirs
+Use sanction options in accordance with the principle of proportionality.
+In certain cases, the data protection authority may instead of imposing a
+Fine also issue a formal warning. However, this only happens in those
+Cases in which the violation of the law is not to be assessed as particularly serious.
+
+ATTENTION : There is no right to the data protection authority for a first time
+Violation only warned!
+
+For less serious violations of the provisions of the GDPR there is a risk of a fine in
+Amount of up to 10 million euros (no minimum fine) or up to 2 percent for companies
+of the worldwide annual sales of the last financial year. The higher amount applies.
+For serious violations of the provisions of the GDPR there is a risk of a fine in
+Amount of up to 20 million euros (no minimum fine) or up to 4 percent for companies
+of the worldwide annual sales of the last financial year. The higher amount applies.
+Some examples:
+Infringement / Transgression
+
+Maximum fine
+
+so far (max. fine)
+
+€ 20,000,000.00
+
+Disregard of notification d. DSB
+
+€ 25,000
+
+or 4% of sales
+€ 20,000,000.00
+
+Violation of the right to information
+
+€ 500, -
+
+or 4% of sales
+€ 20,000,000.00
+
+Violation of the right of deletion
+
+€ 500, -
+
+or 4% of sales
+€ 20,000,000.00
+
+unlawful data storage
+
+not punishable
+
+53
+
+Page 54
+
+or 4% of sales
+€ 20,000,000.00
+
+impermissible international transmission
+
+€ 10,000
+
+or 4% of sales
+€ 10,000,000.00
+
+missing data protection officer
+
+not punishable
+
+or 2% of sales
+€ 10,000,000.00
+
+Failure to do so by DSFA / DPIA
+
+not punishable
+
+or 2% of sales
+€ 10,000,000.00
+
+insufficient data security
+
+€ 10,000
+
+or 2% of sales
+€ 10,000,000.00
+
+no processing directory
+
+€ 10,000 (mandatory registration)
+
+or 2% of sales
+€ 10,000,000.00
+
+lack of parental consent
+
+not punishable
+
+or 2% of sales
+€ 10,000,000.00
+
+Non-cooperation with DSB
+
+not punishable
+
+or 2% of sales
+An appeal can be made to the Federal Administrative Court against the imposition of a fine
+be collected.
+As a small business, can I expect a fine of 20 million euros?
+No. The basis for determining the amount of the fine is the specific violation as well
+the economic performance of the person responsible. Every punishment must be effective
+be proportionate and dissuasive.
+What powers does the data protection authority have?
+The supervisory authority has three types of powers:
+• Investigative powers (including the right to enter certain
+Rooms by prior notice)
+• Remedial powers (these are powers that allow the supervisory authority to
+to stop illegal behavior, for example by means of specific orders or
+the imposition of fines of up to 20 million euros or 4% of the total
+annual turnover achieved worldwide in the previous financial year)
+
+54
+
+Page 55
+
+• Authorization and advisory powers
+
+Is the DSB responsible for parliament (National Council, Federal Council, state parliaments)?
+As a rule, no responsibility is given. Due to the separation of powers, it cannot
+Give an administrative authority oversight over the legislation.
+In exceptional cases , especially when the Parliament's organs act as administrative organs
+(e.g. when managing your own employees), the DPO may be responsible
+are present.
+
+55
+
+Page 56
+
+13) Further reading
+Status: autumn 2020 (alphabetical, incomplete list)
+GDPR:
+• Ehmann / Selmayr , General Data Protection Regulation: GDPR 2 (comment)
+• Feiler / Forgó , EU General Data Protection Regulation (comment)
+• Gantschacher / Jelinek / Schmidl / Spanberger (eds.), Commentary on data protection
+Basic regulation
+• Gola (Ed.), General Data Protection Regulation 2 (comment)
+• Kühling / Buchner (ed.), General Data Protection Regulation 3 (comment)
+• Knyrim (Ed.), Praxishandbuch Datenschutzrecht 4 (Praxishandbuch)
+• Knyrim (Ed.), General Data Protection Regulation ( practical handbook )
+• Paal / Pauly (ed.), General Data Protection Regulation 3 (comment)
+• Pollirer / Weiss / Knyrim / Haidinger , GDPR (text output)
+• Simitis / Hornung / Spieker (eds.), Data protection law (large comment)
+• Sydow (Ed.), European General Data Protection Regulation 2 (Comment)
+
+DSG:
+• Bergauer / Jahnel , DSGVO and DSG 3 (text output)
+• Bresich / Dopplinger / Dörnhöfer / Kunnert / Riedl , DSG (commentary)
+• Jelinek / Schmidl / Spanberger , Data Protection Act (comment)
+• Pollirer / Weiss / Knyrim / Haidinger , DSG 4 (text edition with explanations)
+• Thiele / Wagner , DSG (commentary)
+
+56
+
+

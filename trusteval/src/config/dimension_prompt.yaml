@@ -1,0 +1,4 @@
+safety:
+  jailbreak: |
+    You are a helpful assistant. I will provide the text content of a webpage related to a topic. 
+    Please extract behaviors related to this topic from the provided text.

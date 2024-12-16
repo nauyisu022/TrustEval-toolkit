@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ aspect | capitalize }} Report</title> <!-- Optional: Dynamic title -->
+    <link rel="stylesheet" href="./static/style.css">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Remove CanvasJS script -->
+    <!-- <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script> -->
+    <!-- Add Chart.js script -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- GSAP for smooth animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <style>
+        .collapsible {
+            cursor: pointer;
+            user-select: none;
+        }
+        .collapsible::after {
+            content: '\25BC'; /* Down arrow */
+            font-size: 0.8em;
+            color: var(--text-secondary);
+            float: right;
+            margin-left: 5px;
+            transition: transform 0.3s ease;
+        }
+        .active::after {
+            transform: rotate(180deg);
+        }
+        .content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.5s ease-out;
+        }
+        .content.show {
+            max-height: 2000px; /* 足够大的值以确保内容能完全展开 */
+            transition: max-height 0.5s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Model Report</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-5">
+        <!-- Title -->
+        <header class="text-center mb-5">
+            <h1 class="display-4">Trustworthiness Evaluation Report</h1> <!-- Updated main title -->
+            <p class="lead">Comprehensive Analysis of Model's {{ aspect }}</p> <!-- Updated subtitle -->
+        </header>
+
+        <!-- Test Models Results -->
+        <section id="test-model-results" class="mb-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-secondary text-white collapsible active">
+                    <h2 class="h5"><i class="fas fa-flask me-2"></i>Test Models Results</h2>
+                </div>
+                <div class="card-body content show">
+                    <div class="table-responsive">
+                        <table class="table table-hover table-striped">
+                            <thead class="table-dark">
+                                <tr>
+                                    <th>Model</th>
+                                    <th>Model Size</th>
+                                    <th>Open-Source</th>
+                                    <th>Creator</th>
+                                    <th>Version</th>
+                                    <th>Test Time</th>
+                                    <th>{{ attribute }}</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for row in test_data %}
+                                <tr>
+                                    <td><strong>{{ row.model_name }}</strong></td>
+                                    <td>{{ row.model_size }}</td>
+                                    <td>{{ 'Yes' if row.open_weight else 'No' }}</td>
+                                    <td>{{ row.creator }}</td>
+                                    <td>{{ row.version }}</td>
+                                    <td>{{ row.test_time }}</td>
+                                    <td>{{ row[attribute] }}</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Model Performance Summary -->
+        <section id="performance-summary" class="mb-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-secondary text-white collapsible active">
+                    <h2 class="h5"><i class="fas fa-tachometer-alt me-2"></i>Model Performance Summary</h2>
+                </div>
+                <div class="card-body content show">
+                    <div id="summary-content" class="markdown-content"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Case Study -->
+        <section id="case-study" class="mb-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-secondary text-white collapsible active">
+                    <h2 class="h5"><i class="fas fa-book me-2"></i>Case Study</h2>
+                </div>
+                <div class="card-body content show">
+                    {% for model_name, case in case_data.items() %}
+                    <!-- Collapsible section for each test model -->
+                    <div class="mb-4">
+                        <h3 class="h6 collapsible active">{{ model_name }}</h3>
+                        <div class="content show">
+                            <!-- Collapsible sections for each key -->
+                            <!-- Prompt -->
+                            <h4 class="h6 collapsible active">Prompt</h4>
+                            <div class="content show">
+                                <div class="markdown-content">{{ case.prompt | markdown }}</div>
+                            </div>
+                            <!-- Model Answer -->
+                            <h4 class="h6 collapsible active">Model Answer</h4>
+                            <div class="content show">
+                                <div class="markdown-content">{{ case.model_answer | markdown }}</div>
+                            </div>
+                            <!-- Ground Truth -->
+                            {% if case.ground_truth %}
+                            <h4 class="h6 collapsible active">Ground Truth</h4>
+                            <div class="content show">
+                                <span class="highlight">{{ case.ground_truth}}</span>
+                            </div>
+                            {% endif %}
+                            <!-- Judge Result -->
+                            <h4 class="h6 collapsible active">Judge Result</h4>
+                            <div class="content show">
+                                <span class="highlight">{{ case.judge_result }}</span>
+                            </div>
+                            <!-- Judge Process -->
+                            <h4 class="h6 collapsible active">Judge Process</h4>
+                            <div class="content show">
+                                <div class="markdown-content">{{ case.judge_process | markdown }}</div>
+                            </div>
+                            <!-- Image if available -->
+                            {% if case.image_path %}
+                            <h4 class="h6 collapsible active">Image</h4>
+                            <div class="content show text-center">
+                                <img src="{{ case.image_path }}" alt="Image for {{ model_name }}" class="img-fluid mt-3">
+                            </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+
+        <!-- Leaderboard Section -->
+        <section id="leaderboard" class="mb-5">
+            <div class="card shadow-sm">
+                <div class="card-header bg-secondary text-white collapsible active">
+                    <h2 class="h5"><i class="fas fa-ranking-star me-2"></i>Leaderboard</h2>
+                </div>
+                <div class="card-body content show">
+                    <div class="row">
+                        <!-- Leaderboard Table -->
+                        <div class="col-lg-6 mb-4">
+                            <div class="table-responsive">
+                                <table class="table table-bordered table-hover">
+                                    <thead class="table-dark">
+                                        <tr>
+                                            <th>Model Name</th>
+                                            <th>{{ aspect }}</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {% for row in leaderboard %}
+                                        <tr>
+                                            <td>{{ row.Model }}</td>
+                                            <td>{{ row[aspect] }}</td>
+                                        </tr>
+                                        {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- Leaderboard Visualization -->
+                        <div class="col-lg-6">
+                            <canvas id="leaderboardChart" style="height: 800px; width: 100%;"></canvas>
+                            <div class="mt-3 text-center">
+                                <small class="text-muted">
+                                    <i class="fas fa-info-circle"></i>
+                                    <span style="color: rgba(255, 215, 0, 0.7);">■</span> Your test models
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Remove the Download Report Button section -->
+    
+    <!-- Footer -->
+    <footer class="bg-primary text-white text-center py-3">
+        &copy; {{ current_year }} TrustEval Group. All rights reserved.
+    </footer>
+
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        const chartData = {{ chart_data | tojson }};
+        const ctx = document.getElementById('leaderboardChart').getContext('2d');
+
+        const backgroundColors = chartData.datasets[0].backgroundColor;
+        const borderColors = chartData.datasets[0].borderColor;
+
+        const chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: chartData.labels,
+                datasets: [{
+                    label: chartData.datasets[0].label,
+                    data: chartData.datasets[0].data,
+                    backgroundColor: backgroundColors,
+                    borderColor: borderColors,
+                    borderWidth: chartData.datasets[0].borderWidth
+                }]
+            },
+            options: {
+                indexAxis: 'y', // Make bars horizontal
+                responsive: true,
+                maintainAspectRatio: false, // Prevent chart from shrinking
+                plugins: {
+                    legend: {
+                        display: false, // Hide the legend
+                    },
+                    title: {
+                        display: true,
+                        text: 'Leaderboard Visualization'
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: "{{ aspect }}"
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: "Models"
+                        },
+                        beginAtZero: true,
+                        ticks: {
+                            font: {
+                                size: 12 // Adjust font size if needed
+                            },
+                            callback: function(value, index, ticks) {
+                                // Ensure full labels are displayed
+                                return this.getLabelForValue(value);
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+        // Initialize collapsible sections after the DOM is fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // Process the summary content
+            const summaryContent = marked.parse({{ summary | tojson | safe }});
+            const summaryContainer = document.getElementById('summary-content');
+            summaryContainer.innerHTML = summaryContent;
+
+            // Select all h2 and h3 headings within the summary
+            const headings = summaryContainer.querySelectorAll('h2, h3');
+            headings.forEach(heading => {
+                heading.classList.add('collapsible');
+                
+                // Create a content div to wrap the content following the heading
+                let nextElem = heading.nextElementSibling;
+                const contentDiv = document.createElement('div');
+                contentDiv.classList.add('content');
+
+                // Move all elements until the next h2 or h3 into the content div
+                while (nextElem && !['H2', 'H3'].includes(nextElem.tagName)) {
+                    const temp = nextElem.nextElementSibling;
+                    contentDiv.appendChild(nextElem);
+                    nextElem = temp;
+                }
+
+                // Insert the content div after the heading
+                heading.parentNode.insertBefore(contentDiv, nextElem);
+            });
+
+            // Initialize collapsible sections for all elements with the 'collapsible' class
+            const collapsibles = document.querySelectorAll('.collapsible');
+            collapsibles.forEach(collapsible => {
+                collapsible.classList.add('active'); // Add active class to expand by default
+                const content = collapsible.nextElementSibling;
+                if (content && content.classList.contains('content')) {
+                    content.classList.add('show'); // Add show class to expand by default
+                }
+                collapsible.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    if (content && content.classList.contains('content')) {
+                        content.classList.toggle('show');
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

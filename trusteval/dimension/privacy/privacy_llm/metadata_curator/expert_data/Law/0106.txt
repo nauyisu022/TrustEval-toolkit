@@ -1,0 +1,640 @@
+Page 1
+
+INSTRUCTIONS FOR
+PROCESSOR
+1. In general
+The EU Data Protection Regulation 2016/679 (pvrg.) Makes special demands on processors that they
+need to be aware of and follow, as they could be held liable in the event of a security breach.
+The regulation is intended to increase the privacy of individuals and makes high demands on security
+personal information of all responsible and processing parties, whether located within the EEA
+of the area or outside it.
+Processors are discussed in Articles 28 and 29, paragraph 2. Article 30, cf. and the 8th paragraph. Article 4 pvrg.
+Table of contents
+1. General ............................................... .................................................. .............................. 1
+2. Who is a processor within the meaning of the Privacy Regulation? .................................... 2
+3. Does the Privacy Regulation apply to processors? .................................................. ............ 3
+4. What are the main changes for processors according to the new one
+Privacy Policy? .................................................. .................................................. ..... 3
+Current situation: .............................................. .................................................. ........................... 3
+Since the new legislation comes into force on 25 May 2018: ..................................... ........ 4
+5. What are the obligations of the processor from 25 May 2018? .................................................. ........... 4
+5.1 Transparency and traceability .............................................. .................................................. ..... 4
+5.2 Built-in and default privacy must be considered .......................................... ......... 4
+5.3 The processor must ensure the security of personal information ........................................... ........ 5
+5.4 It is obligatory to assist, draw attention to and advise ....................................... ....................... 5
+6. Where should processors start? .................................................. ..................................... 6
+6.1 Check whether the processor needs to appoint a privacy officer ................................. 6
+6.2 Analysis and revision of production contracts ............................................. ....................... 7
+7. What are the obligations of a processor if he hires another processor / subprocessor? . 7
+
+Page 2
+
+8. Does the processor need to review existing contracts with customers? .............................. 8
+9. What is the role of the processor if there is a security breach? .............................................. 8
+10. What is the role of the processor in assessing the impact on privacy (MAP)? ................... 9
+11. Can a processor take advantage of the one-stop shop rule? ............ 9
+12. What are the requirements for a processor located outside the EEA? .......................... 9
+13. What is the risk if the processor does not fulfill its obligations according to Art. the regulation? ........ 10
+14. Example of fixed contractual provisions in production contracts ................................. 10
+
+2. Who is a processor within the meaning of the Privacy Regulation?
+The processor is the person who processes personal information for, according to instructions and under control
+guarantor. The responsible party, on the other hand, is the one who determines the purpose and methods of processing.
+Many service providers can be considered processors within the meaning of the Regulation. The role of the processor can
+be very different in scope, from more specific processing to general and varied
+processing services for an institution / company. However, special attention should be paid to individual employees
+guarantors are not considered processors, but fall within the set of guarantors.
+Processors are mainly:
+• IT companies providing computer services, such as hosting, supervision, maintenance, etc.,
+network security companies or companies that provide advice in the field of information technology and have access to
+personal information,
+• marketing or communications companies that process personal information on behalf of customers,
+• any kind of institution / company that provides services involving the processing of personal information
+on behalf of other institutions / companies,
+• individual governments or organizations could also fall under this category.
+Those who do not work with or have access to personal information, such as software publishers and
+manufacturers of equipment (eg medical equipment), are generally not considered processors under the Regulation.
+Note, however, that:
+• an institution / company that is a processing party, on the other hand, is responsible for processing when processing
+is for the benefit of that particular institution / company and not for the customers (the institution / company
+takes care of its own tasks).
+• When an institution / company decides the purpose and method of processing, that party is not counted
+the processing party holds a responsible party with regard to that processing, cf. Paragraph 10 Article 28 pvrg.
+
+2
+1st edition, February 2018
+
+Page 3
+
+Examples of different roles of processors and guarantors
+Company A provides Company B with the service of sending letters for marketing purposes based on
+customer information B.
+A is the processor for B as long as the processing of the customer information in question is B
+necessary to send the letters on behalf of Company B or in accordance with its instructions.
+Company B is responsible for the processing of personal information about the customer group with regard to
+to the marketing letter.
+However, company A is responsible for the processing of personal information about its own employees.
+In order to assess who is the processor and who is the responsible party in each case, the following factors must be considered:
+• How does the service provider affect the service?
+• How is the customer's supervision of the service in question?
+• Does the service provider have expertise in the field in question?
+• Do registered individuals who use the customer's services know the service provider?
+For further information, see Article 4. and the 10th paragraph. Article 28 pvrg.
+
+3. Does the Privacy Regulation apply to processors?
+The Privacy Regulation applies to processors in the following cases:
+• if they are established within the EEA
+• if they are established outside the EEA and the processing involves:
+o offer of a product or service within the EEA, or
+o supervision of individuals within the EEA.
+See further Article 3. pvrg. about the scope.
+
+4. What are the main changes for processors according to the new one
+Privacy Policy?
+Current situation:
+Today, first and foremost, demands are made on those responsible for the processing of personal information. Since
+processors are involved in processing, they work primarily under the responsibility of the guarantor.
+According to current privacy laws, ie. Act no. 77/2000 on privacy and treatment
+personal information, the responsible party may negotiate with the processor to handle, in whole or in part,
+the processing of personal information for which he is responsible. However, it is subject to the condition that the guarantor has
+previously verified that the processor in question can take appropriate security measures and maintain internal
+monitoring.
+3
+1st edition, February 2018
+
+Page 4
+
+Then Act no. 77/2000 requirement that an agreement is in force between the processor and the guarantor, ie.
+so-called processing contract. The processing agreement shall, among other things, state that the processing party is only
+may operate in accordance with the instructions of the responsible party and the provisions of the Act on the obligations of the responsible party
+also applies to the processing carried out by the processor.
+Since the new legislation comes into force on 25 May 2018:
+The Privacy Regulation establishes a new principle in the processing of personal information, ie.
+liability , which means that all those involved in the processing of personal information are responsible for
+comply with the rules and must be able to demonstrate this to both the Data Protection Authority and the data subject
+from the moment such processing concerns individuals located within the EEA.
+The liability obligation also means that special obligations are imposed on the processor. For example
+they shall assist the guarantor specifically in ensuring that their processing complies with and is consistent
+with the regulation.
+For further information, see Article 28, paragraph 2. Article 30 and Article 37. pvrg. on the obligations of processors.
+
+5. What are the obligations of the processor from 25 May 2018?
+When a processing party undertakes a task that involves the processing of personal information on behalf of the responsible party
+he must provide the guarantor / customer with sufficient assurance that he will do so
+appropriate technical and organizational measures to ensure that the processing complies with the requirements of the Regulation; and
+that the protection of the data subject is ensured. (See further Article 28 pvrg.)
+The processor may need to assist and advise customers / guarantors on how
+do not fulfill certain obligations that rest on it (this refers, for example, to obligations to assess the impact on
+privacy, security breach notification, security, data deletion and contribution to audits).
+In practice, this means the following:
+5.1 Transparency and traceability
+The processor must:
+• enter into a production agreement with the customer / guarantor or other legal document where
+the obligations and role of each party are stated, cf. instructions in Article 28. of the Regulation.
+• make a written list of the customer's / guarantor's instructions for processing
+personal information to prove that the work is carried out in accordance with the written instructions of the responsible party.
+• obtain written permission from the customer / guarantor if the processor hires another
+processor / subcontractor, eg foreign host (cloud service).
+• provide the customer / guarantor with all necessary information to demonstrate
+compliance and give him the opportunity to audit for supervision.
+• keep a production register according to Paragraph 2 Article 30 of the Regulation and specify the processing activities
+implementation for each responsible party.
+5.2 Built-in and default privacy needs to be considered
+4
+1st edition, February 2018
+
+Page 5
+
+The processor shall take appropriate technical and organizational measures to ensure that the processing
+implementation is on behalf of the client / guarantor meets the requirements of the regulation and that
+the protection of registered persons is ensured. That means:
+• that data protection must be built in (ie data protection by design), ie that the devices,
+the production, software or services provided by the processor to the customer take into account
+principles of effective privacy and the necessary safeguards
+are incorporated into the processing to meet the requirements of the Regulation and ensure rights
+individuals, and
+• that data protection must be default (data protection by default), ie. to equipment, manufacturing,
+the software or services of the processor ensure that only that personal information is processed
+which are necessary for the processing, in view of the amount of information
+collected, to what extent they are processed, how long they are stored and the number of them
+have access to them.
+This includes:
+• that the customer has the option to configure a system, at least in terms of data collection, and
+that it is not made a technical condition to fill in fields that are only optional, e.g.
+entering an ID number in a trading system,
+• that it is a matter of course that only the necessary personal information is processed
+due to the purpose of the processing (data minimization),
+• that active databases are automatically or manually cleared at the end of the specified
+period,
+• have active access control as well as personal information being available when the person registered
+requests access to information.
+5.3 The processor must ensure the security of personal information
+• The processor must ensure that employees involved in the processing of personal information by him
+has signed a declaration of confidentiality or is subject to a statutory duty of confidentiality.
+• The processor must notify the customer / guarantor of a security breach as soon as possible
+he becomes theirs was.
+• The processor must ensure that safety is in accordance with the risk, for example by preparing a risk assessment and
+decision on security measures.
+• The processor is required, at the end of the service / performance of the contract and in accordance with instructions
+customer / guarantor:
+o to delete personal information or return it to the customer, unless required to do so
+store the information in accordance with law, and
+o to delete copies unless required to be kept by law.
+5.4 It is obligatory to assist, draw attention to and advise
+• If the processor considers that the customer's / guarantor's instructions violate the rules on
+privacy, he must inform the responsible party without delay.
+5
+1st edition, February 2018
+
+Page 6
+
+• When the data subjects wish to exercise their rights under the Regulation (eg by
+request access to personal information, its correction, deletion or transfer, or with
+to oppose processing, or to exercise their rights in connection with automatic decision-making, including
+use of personal profiles) the processor should assist the customer / guarantor as much as possible
+is.
+• In view of the information in the hands of the processor, he must assist
+the customer / guarantor in ensuring compliance, for example by ensuring processing safety,
+report security breaches and assess the impact on privacy.
+
+6. Where should processors start?
+6.1 Check whether the processor needs to appoint a privacy officer
+The role of the Privacy Officer is to oversee compliance with the Privacy Act.
+relevant institution / company. Processors must appoint a Privacy Officer when:
+• they are a government
+• the main activity of the processor relates to processing operations on behalf of the customer / guarantor
+which include extensive, regular and systematic monitoring of individuals.
+• the main activity of the processor is extensive processing, on behalf of the customer / guarantor, on
+sensitive personal information or personal information relating to criminal convictions
+and criminal offenses.
+In cases where there is no direct obligation, cf. above, to appoint a Privacy Officer
+is nevertheless recommended that it be appointed so that the company has a specialist at its disposal
+which oversees the implementation and follow-up of compliance with the provisions of the Regulation.
+Example 1
+A small family business sells home appliances in a small town and uses the services of a processor. Main activity
+the processor is providing services for the analysis of the family business website and assistance with that
+find audiences for your ads. The activities of the family business do not involve extensive
+processing of personal data about customers, in view of the small number of customers and that
+the company has very limited operations. On the other hand, the processing of personal information is considered
+the processor, which has many customers like this small business, be extensive.
+The processor must therefore appoint a privacy representative according to Art. paragraph 1 (b) Article 37
+of the Privacy Regulation. However, the small family business is not required to nominate
+Privacy Officer.
+Example 2
+A medium-sized production company negotiates with an external processor to handle
+health care for employees. The processor has many comparable customers.
+The processor must appoint a privacy representative, cf. paragraph 1 (c) Article 37 pvrg., if the processing is
+extensive. However, the production company is not obliged to do so.
+If a privacy officer is appointed, he or she also oversees the processor's other processing
+personal information.
+6
+1st edition, February 2018
+
+Page 7
+
+For further information, see Article 37. pvrg. on the obligation of the processor to appoint a privacy officer.
+6.2 Analysis and revision of production contracts
+The processing agreement must address the following issues:
+• subject and duration of processing,
+• the nature and purpose of the processing,
+• the type of personal information processed on behalf of the customer,
+• categories of the registered,
+• the rights and obligations of the customer as guarantor,
+• obligations of processors according to Article 28 pvrg.
+Chapter 14 contains a model of provisions that are included in a production contract, according to the 8th paragraph. 28.
+gr. pvrg. It must be borne in mind that production contracts must nevertheless be tailored to that processing
+in question.
+See further on the content of processing agreements in Article 28. pvrg.
+6.3 Register of processing activities
+The processor must keep a record of the processing activities carried out by him on behalf of
+of the customer / guarantor.
+The file must be in writing and contain:
+• the name and contact information of each customer and, as the case may be, joint ventures
+guarantor,
+• the name and contact details of the subcontractor, where applicable;
+• name and contact information of the privacy officer,
+• information on categories of registered persons,
+• information on the transfer of personal data outside the EEA area to which the processor is entrusted
+perform, if applicable,
+• a description of the technical and organizational safety measures taken by the processor
+performed, if possible.
+It should be noted that since the processor is also responsible for its own operations, it is necessary
+he also keeps a record of the processing activities for which he is responsible, for example for processing
+personal information about own employees or customers / guarantors. He may therefore need to
+keep two process files. See Article 30 (2) and (1). pvrg. on a list of processing activities.
+Further information on compiling a list of processing activities can be found in the forthcoming instructions
+Privacy on that subject.
+
+7. What are the obligations of the processor if he hires another
+processor / subprocessor?
+
+7
+1st edition, February 2018
+
+Page 8
+
+Subprocessors are often used by processors to handle certain parts
+of the processing operations. This may, for example, be a cloud service provided by a third party
+or other highly specialized computer services not available to the original processor.
+Processor
+can
+only
+council
+another
+processor / subprocessor
+the customer / guarantor agrees in writing. The approval can be with two
+quit:
+
+ef
+
+• Special approval: Due to employment / contracting with a specific processor.
+• General approval: May cover any use of a sub-processor. If used
+For general approval, the processor must notify the customer / guarantor of all
+proposed changes include the addition of a processor or its replacement and release
+giving the customer / guarantor the opportunity to oppose the changes.
+A sub-processor hired by another processor must meet the same requirements as are made
+of the original processor in his contract with the customer / guarantor. He needs to provide
+sufficient assurance that he will take technical and organizational measures for processing
+personal information meets the requirements of the regulation.
+Attention is drawn to the fact that if the sub-processor does not fulfill its obligations, the original processor is
+fully responsible to the customer / guarantor.
+See further on the employment of sub-processors in the second and fourth paragraphs. Article 28 pvrg.
+
+8. Does the processor need to review existing contracts with customers?
+Yes - when the regulation is implemented, all existing agreements need to be in place, whether they apply
+guarantor or subcontractor, to meet the requirements of the Regulation for such contracts.
+It is therefore very important that processors immediately begin work on reviewing their production contracts
+with the responsible party so that certain provisions take effect from the time the regulation enters into force in this country, but
+It is planned that it will be May 25, 2018.
+From the date on which the legislation is implemented, processors must carry out regular inspections
+and an audit to ensure compliance with the provisions of the Regulation on obligations
+processor and make the necessary adjustments if necessary.
+
+9. What is the role of the processor if there is a security breach?
+Security breach means a breach of security that results in the unintentional or unlawful deletion of personal data,
+sent, stored or otherwise processed, or lost, altered, displayed or accessed
+granted to them without permission.
+The processor shall notify its customer / guarantor of this without delay when it becomes available
+for security breaches concerning the protection of personal data.
+
+8
+1st edition, February 2018
+
+Page 9
+
+On the basis of this notification, the customer, as the responsible party, shall notify the Data Protection Authority
+(and, if applicable, other data protection authorities within the EEA) on the security breach according to Art. Article 33 pvrg. and, if
+applies to the registered individuals according to Art. Article 34 pvrg.
+The customer / guarantor may entrust the processor, in an agreement between them, to take care of
+announcements on their behalf.
+For further information, see the 12th paragraph. Articles 4, 33 and 34 pvrg.
+
+10. What is the role of the processor in assessing the impact on privacy (MAP)?
+The client of the processor, as the responsible party, may need to assess the impact on privacy as a result
+planned processing of personal information according to Article 35 pvrg. It is therefore not the role of the processor to
+prepare such an assessment. The processor, however, has the role of assisting
+the customer / guarantor in the assessment and provide the necessary information. This role
+the processor must be defined in an agreement between the processor and
+of the customer / guarantor.
+For further information, see the third paragraph. Article 28 pvrg.
+
+11. Can a processor take advantage of the one-stop shop rule?
+Yes, if a processor is established in more than one state within the EEA, the rule of one service point comes
+to good use.
+The rule of one service point gives companies operating in more than one state within the EEA the opportunity
+should seek a single data protection authority to take decisions concerning all processing plants and
+that decision then also applies in other states. This organization is called the Leadership Authority.
+The Leadership Authority is the data protection authority in the country where the company is headquartered
+are located.
+If the company has no headquarters within the EEA, reference should be made to the place where
+its main processing activities take place.
+For further information, see the 16th paragraph. Article 4, Article 56 and foreword 36 of the Regulation, as well as the guidelines of Article 29.
+of the working group on which institution is the lead supervisory authority of the processor or responsible party and also
+forthcoming guidelines from the Data Protection Authority on that subject.
+
+12. What are the requirements for a processor located outside the EEA?
+A processor that is not established within the EEA may be covered by the Privacy Regulation if:
+• the processing carried out for registered individuals located within the EEA
+9
+1st edition, February 2018
+
+Page 10
+
+• the processor on behalf of the guarantor, sells products, supplies or monitors the registered
+individuals within the EEA.
+In these cases, the processor must appoint a representative within the EEA as the contact person for the data subject
+individuals and data protection authorities and to be responsible for the processing of personal data by the company.
+For further information, see Articles 3 and 27. pvrg.
+
+13. What is the risk if the processor does not fulfill its obligations according to Art.
+the regulation?
+A person who has suffered damage (material or immaterial) as a result of a breach of the provisions of the Regulation shall
+are entitled to damages from the guarantor or processor for the damage he has suffered.
+If a processor violates the provisions of the Regulation, data protection authorities may impose
+a fine of up to 2% or 4% of the total annual turnover of a company on the world market or
+up to 10 or 20 million euros, whichever is higher. The amount of the fine depends on the severity of the offense.
+Administrative fines may, for example, be imposed on companies in the following circumstances:
+• If the processor goes beyond the legitimate instructions of the customer / guarantor or acts
+something contrary to the instructions given by the guarantor
+• If the processor does not assist the customer / guarantor in fulfilling its obligations,
+for example due to security breaches or when assessing the risk of privacy
+• If the processor does not provide the customer / guarantor with information to demonstrate
+compliance or does not allow the responsible party to withdraw from the operation
+• If the processor does not inform the customer / guarantor that there are no instructions
+in accordance with the provisions of the Privacy Regulation
+• If the processor hires a sub-processor without the permission of the customer / guarantor
+• If the subcontractor does not meet the requirements for adequate safety
+• If the processor does not appoint a privacy officer when required
+• If the processor does not keep a record of the processing activities carried out under his responsibility.
+For further information, see Articles 82 and 83. pvrg., guidelines Article 29 of the group on administrative fines and forthcoming
+Privacy Policy on the same subject.
+
+14. A precedent for fixed contractual provisions in production contracts
+Please note that this is for illustrative purposes only. Processor required
+always make sure that the provisions reflect the processing of personal information entrusted to him. Af
+on the part of the Data Protection Authority, it is planned to include fixed contractual provisions in processing contracts in accordance
+with the 8th paragraph. Article 28 pvrg. and guarantors and processors are therefore encouraged to keep an eye on the website
+Privacy in this regard.
+Example:
+10
+1st edition, February 2018
+
+Page 11
+
+[Company name], established in [country], hereinafter referred to as "responsible party"
+AND
+[Company name], established in [country], hereinafter referred to as "processor"
+conclude such a processing agreement, in accordance with Article 28. Regulation of the European Parliament and of the Council
+(EU) 2016/679 of 27 April 2016:
+I.
+
+Purpose of contract
+The purpose of these contractual provisions is to specify the obligations that the processor performs on behalf of
+responsible party, in connection with the processing activities covered by the agreement, see further
+chapter [...]
+The Parties shall be bound by all applicable legal provisions relating to processing
+their personal data and in particular Regulation of the European Parliament and of the Council (EU)
+2016/679, of 27 April 2016, on the protection of individuals in connection with processing
+personal data and on the free dissemination of such information and the repeal of the Directive
+95/46 / EC (General Data Protection Regulation) which comes into force 25.
+May 2018.
+
+II.
+
+Description of the processing agreed with its processor (subprocessor, if
+it applies)
+The processor may process, on behalf of the responsible party, the personal information that is
+necessary for him to provide the following services [here shall list the services which
+processor shall provide]
+The nature of the processing activity in question is [...]
+The purpose of processing is [...]
+Processors may process the following types of personal information: [...]
+The processor may work with the following categories of registered individuals: [...]
+In order for a processor to be able to provide the requested service, the responsible party shall provide the processor
+the following information: [...]
+
+III. Validity of the contract
+This agreement is valid from [date] to [date].
+IV.
+
+Obligations of processors towards guarantors
+The processor shall:
+1. only process personal information in accordance with the purpose of the processing, cf. contract
+these
+2. only process personal information in accordance with the written instructions of the responsible party,
+attached to this Agreement. In cases where the processor considers the instructions
+responsible party does not comply with the General Privacy Regulation or others
+11
+
+1st edition, February 2018
+
+Page 12
+
+he must notify the relevant legal provisions concerning the processing of personal data
+the guarantor without delay. The processor shall notify the guarantor if
+the processor is obliged by law to transfer personal data to third countries or
+international organizations, unless the law prohibits such disclosure.
+3. ensure the confidentiality of the processing of the personal data covered by this Agreement; and
+4. ensure that those employees who have access to personal information in connection with
+the implementation of the agreement has signed a confidentiality agreement or is bound
+confidentiality under the law and that they receive appropriate training in protection
+
+personal information.
+5. Ensure that devices and tools, products, applications and services are designed with built-in and
+default privacy.
+6. Use of a sub-processor
+Option A (general agreement): The processor may negotiate with another party
+("Subprocessor") to perform certain processing operations. Before intended
+changes take effect both when a sub-processor is added and when they are made
+changes to the sub-processors already in use, or in the case of
+additions or changes to the current arrangements for processing operations, the processing party shall
+inform the responsible party in writing of the changes. It shall specifically state which
+processing operations the subprocessor intends to undertake, the name and contact information
+the subcontractor together with the date of the contract. The guarantor has [x
+days / months] from the date on which he receives information on the change of use
+sub-processor to oppose it. The use of a sub-processor is only permitted
+when the guarantor has not objected to it within the time limit.
+Option B (special approval): The processor may use the service [name
+company], hereinafter referred to as "sub-processors", to carry out the following processing operations:
+[...]
+When a processor intends to use the services of a sub-processor, he is obliged to
+obtain special written consent from the guarantor before entering into an agreement with
+the subprocessor.
+7. The data subjects' right to information.
+Here you can choose between two options:
+A) The responsible party is responsible for providing the data subject with information (education) about
+the processing activities before or as soon as processing begins, in accordance with the provisions
+of the General Privacy Regulation on information to be provided to others
+registered, cf. including Articles 13 and 14. her.
+B) The processing party provides the registered person with information about the processing activities immediately
+personal information is obtained, in accordance with general provisions
+of the Privacy Regulation on information to be provided to data subjects,
+sbr. including Articles 13 and 14. her. The guarantor must approve the training provided
+is provided and its form before the processing of personal information begins.
+8. Granting of rights to the data subject
+To the extent possible, the processor must assist the controller in handling it
+its duty to respond to the errands of registered individuals for their rights, so
+12
+1st edition, February 2018
+
+Page 13
+
+as for the right of access, the right to rectify and delete information and to
+oppose or restrict processing, transport rights and the right not to be subjected to
+automatic decision-making, including the use of personal profiles. Here you can choose between
+two options:
+A) When the data subject submits a request to exercise his rights with the processor
+the processor shall forward such request without delay to the [name / position of the employee at
+guarantor].
+B) The processor undertakes to respond to the data subjects' requests to consume
+their rights with respect to the personal information covered by this Agreement.
+The processor shall respond to the requests in question in the name and on behalf of the responsible party and within
+the time limits required by the General Privacy Regulation.
+9. Notification of security breach
+The processor shall notify the responsible party [by telephone, e-mail or other means]
+about any kind of security breach no later than [...] hours after it was discovered
+we broke. The notification shall be accompanied by the necessary documents or documents
+are for the responsible party to be able to report the breach to the appropriate regulatory body
+(Privacy).
+[OPTIONAL:
+The responsible party may instruct the processor to report safety breaches on his behalf
+the relevant supervisory authority, cf. Article 33 of the General Privacy Regulation, without
+undue delay, and, if possible, no later than 72 hours. after he becomes
+of the violation was, unless it is considered unlikely that the violation leads to a risk to rights and freedoms
+individuals. If the supervisory authority is not notified of the violation within 72 hours. shall reasons
+for the delay follow the notification. The notification shall contain at least
+information about:
+• the nature of the security breach, including, where applicable, the categories and the rough
+the number of individuals affected by the offense, and the categories and quantities
+of the records in question,
+• name and contact information of the privacy officer or other contact there
+for more information,
+• what are the probable consequences of the security breach,
+• what action has been taken or proposed to be taken in response
+to the offense, including, where appropriate, actions to reduce the impact of the offense
+per person.
+When not all information can be provided immediately, it can be passed on
+a few steps. This shall be done without delay.
+The guarantor may also agree that the processor informs, on behalf of the guarantor, the other
+immediately report the security breach when the breach is likely to affect rights and
+freedom of individuals.]
+The information sent to the data subject must be clear and simple and descriptive
+at least:
+13
+1st edition, February 2018
+
+Page 14
+
+• the nature of the security breach, including, where applicable, categories and roughly planned
+the number of individuals affected by the offense and categories and
+the quantity of the records in question,
+• name and contact information of the privacy officer or other contact person
+where you can get more information,
+• what are the probable consequences of the security breach,
+• what action has been taken or proposed to be taken in response
+to the offense, including, where appropriate, actions to reduce the impact of the offense
+per person,
+• what actions individuals can take to minimize their damage, e.g.
+change password.
+10. Assistance to the guarantor in fulfilling the general conditions
+of the Privacy Regulation
+The processor shall assist the responsible party in carrying out an impact assessment
+privacy.
+The processor shall assist the responsible party in complying with the provisions of the Regulation on
+prior consultation with the supervisory authority (Privacy).
+11. Security measures
+The processor shall implement the following safety precautions:
+[A description of the relevant technical and organizational requirements must be provided here
+the security measures that need to be taken to ensure the security of information with regard to
+risks, including:
+• the use of pseudo-identifiers and encryption of information
+• Possibilities to ensure continued confidentiality, reliability, availability and
+load-bearing capacity of the systems used and the services offered,
+• the ability to restore availability and access to personal information
+within the appropriate time limits following a deviation, whether actual or not
+of a technical nature.
+• procedures for periodic testing and evaluation of the effectiveness of the technical and
+organizational measures taken to ensure safety
+of processing.]
+The processor undertakes to implement safety measures in accordance with [Code of Conduct,
+certification, ISO standard.]
+[To ensure the best possible compliance, it is recommended that the agreement be precise
+laid down what each party is responsible for when it comes to
+implementation of security measures.]
+[See examples of safety-related instructions in the draft Annex to the Agreement
+Network Security Council. ]
+12. What happens to personal information at the end of processing
+14
+1st edition, February 2018
+
+Page 15
+
+When a service is terminated under this agreement, the processor agrees to [as required
+responsible for choosing what happens to the information]:
+Delete all personally identifiable information, or
+• submit all personally identifiable information to the responsible party, or
+• submit all personally identifiable information to another processor,
+nominated by the guarantor.
+When submitting information, you must also delete all copies of personally identifiable information
+information that can be found in the systems of processors. Once the information has been deleted
+the processor shall demonstrate this in writing.
+13. Privacy Officer
+The processor shall send the guarantor name and contact information
+his data protection officer, if he has been nominated, cf. Article 37
+of the Regulation.
+14. List of processing activities
+The processor shall keep a record of all processing activities carried out for the responsible party.
+It shall include the following:
+• the name and contact details of the processor, one or more, and each
+the responsible party for whom the processor acts on behalf of and, as the case may be,
+a representative of the responsible party or processor and a privacy representative,
+• categories of processing carried out on behalf of each responsible party,
+• if applicable, the transfer of personal data to a third country or an international organization, incl
+which third country or international organization is involved, and, if any
+dissemination referred to in the second subparagraph of paragraph 1; Article 49, data on relevant
+protective measures,
+• if possible, a general description of the technical and organizational aspects
+
+V.
+
+the security measures referred to in paragraph 1; Article 32
+15. Documentation of proof of compliance
+The processor shall provide the responsible party with all necessary documents to be able to demonstrate
+compliance and for the guarantor or auditor to be able to perform audits, including
+opinions, and provide assistance with such audits.
+Obligations of the responsible party towards the processing party
+The guarantor shall:
+1. provide the processor with the data mentioned in Chapter II.
+2. record in writing all instructions regarding the processing addressed to the processor.
+3. ensure, before and during processing, that it operates in accordance with those requirements
+made to him under the General Privacy Regulation, and
+4. oversee the processing, including performing audits and
+inspections by the processor.
+
+Prepared in January 2018 from a summary of the French Privacy Agency, CNIL (Commission)
+Nationale Informatique & Libertés), ed. in September 2017.
+
+15
+1st edition, February 2018
+
+

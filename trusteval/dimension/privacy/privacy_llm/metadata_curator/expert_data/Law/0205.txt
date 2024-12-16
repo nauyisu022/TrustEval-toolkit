@@ -1,0 +1,1681 @@
+Law on Protection of Personal Data in 100 Questions
+KVKK Publications
+ISBN: 978-975-19-6883-8
+April 2018, Ankara
+Personal Data Protection Authority
+Address: Nasuh Akar Mahallesi 1407. Sokak No: 4 Balgat/ANKARA/TURKEY
+Phone: +90 312 216 50 50
+Web: www.kvkk.gov.tr
+Printing: Güngörler Matbaacılık San. Trade Ltd. Sti
+Address: İvedik Mah. 1323. Cad. no:28/4 Yenimahalle/Ankara
+Phone: +90 312 394 28 82
+CONTENTS
+1) Why is the Protection of Personal Data Needed?
+2) What is the Basis of the Right to Protection of Personal Data and Is This Right an Unlimited Right?
+3) When was the Personal Data Protection Law Enforced?
+4) What is the Purpose of the Personal Data Protection Law?
+5) Who Covers the Law on the Protection of Personal Data?
+6) Are There Any Persons Not Covered by the Law?
+7) Will these provisions of law be applied for all kinds of data processing activities?
+8) What are the Full Exceptions Under the Law?
+9) What are the Partial Exceptions Under the Law?
+10) What Does Personal Data Protection Mean?
+11) What is Personal Data?
+12) What Does Sensitive Personal Data Mean?
+13) What are Private Personal Data?
+14) What is Personal Health Data?
+15) Who is the Related Person?
+16) What Does the Processing of Personal Data Mean?
+17) What does Personal Data Processing by Automatic Ways Mean?
+18) What Does Non-Automated Processing of Personal Data Mean?
+19) What is Data Recording System?
+20) What is Explicit Consent?
+21) Is Explicit Consent Subject to Any Form Conditions?
+22) Can express consent be revoked?
+23) Who is the Data Controller?
+24) Who is the Data Processor?
+25) Any Natural or Legal Person is Both the Data Controller and the Data Person at the Same Time
+Can It Work?
+26) In Terms of Fulfillment of Obligations Regarding Data Processing Enumerated in the Law
+Who is Mainly Responsible?
+27) What are the General (Basic) Principles in the Processing of Personal Data?
+28) What Does Compliance with the Law and Integrity Rules Mean?
+29) What Does Being Accurate and Up-to-Date Mean?
+30) What Does the Principle of Processing for Specific, Explicit and Legitimate Purposes Mean?
+31) What Does It Mean for a Legitimate Purpose?
+32) The Principle that Personal Data is Related to the Purpose for which they are Processed, Limited and Measured
+What does it mean?
+33) Personal Data is Only Necessary for the Purpose of Processing or Envisioned in the Relevant Legislation
+What Does It Mean to Be Conserved for the Time Given?
+34) What are the Processing Conditions of Personal Data?
+8
+10
+11th
+12
+13
+14
+14
+15
+16
+17
+18
+20
+20
+21
+21
+22
+23
+24
+25
+26
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+35) What Does It Mean for Personal Data to be Public?
+36) Provided that it does not harm the Fundamental Rights and Freedoms of the Data Controller,
+What Does It Mean That Data Processing Is Mandatory For Legitimate Interests?
+37) Consideration for Determining the Legitimate Interest of the Data Controller
+What are the Required Matters?
+38) What are the Processing Conditions of Private Personal Data?
+39) What is the Deletion of Personal Data?
+40) What is Personal Data Destruction?
+41) What is Anonymization of Personal Data?
+42) What is the Difference Between Anonymous Data and Anonymized Data?
+43) Under Which Conditions Should Personal Data Be Deleted, Destroyed or Anonymized?
+44) How is the Domestic Transfer of Personal Data Regulated in the Law?
+45) How is the Transfer of Personal Data Abroad regulated in the Law?
+46) In Determining Whether There Is Adequate Protection In The Foreign Country And Adequate
+Board Allowing Data to be Transferred Abroad in the absence of Protection
+What Criteria Will It Take into Consideration?
+47) What is the Scope of the Data Controller's Obligation to Light?
+48) Is There a Form Condition in Fulfilling the Lighting Obligation?
+49) What are the Rights of the Related Person?
+50) What are the Obligations of the Data Controller regarding Data Security?
+51) By Another Real or Legal Person on behalf of the Data Controller of Personal Data
+Responsibility of Data Controller Regarding Data Security in Case of Processing
+How Is It Organized?
+52) To whom are applications made within the scope of the Protection of Personal Data?
+53) Are There Any Conditions for Applying to the Data Controller?
+54) Is there any fee foreseen for the application to the Data Controller?
+55) In Which Period Does the Data Controller Fulfill the Request of the Related Person?
+56) What Can the Data Controller Do at the Request of the Relevant Person?
+57) How does the Data Controller Notify the Response to the Related Person?
+58) Within what period should a complaint be made to the Board?
+59) Can a complaint be made directly to the Board?
+60) Is there a prerequisite for filing a complaint with the Board?
+61) Is it possible to go to the judiciary at the same time as complaining to the Board?
+62) Does the Related Person Have the Right to File a Compensation Case?
+63) Does the Board Have Ex officio Investigation Authority?
+64) Are Any Conditions Provided for Complaints to the Board?
+65) In What Period Should the Data Controller Have to Respond to the Board?
+66) Can the Board Request All Kinds of Documents from the Data Controller?
+42
+43
+44
+45
+46
+47
+47
+48
+48
+49
+50
+52
+53
+53
+54
+55
+56
+57
+58
+58
+59
+59
+60
+60
+61
+61
+62
+62
+63
+63
+64
+64
+67) In Which Period Should the Board Respond to the Related Person?
+68) What Happens If the Board Does Not Respond to the Related Person within the Predicted Time?
+69) By whom and within what period of time are the Board's Decisions Regarding Violation Implemented?
+70) Can the Board Take a Policy Decision?
+71) Does the Board Have the Authority to Stop Data Processing?
+72) What is Data Controllers Registry?
+73) When does the registration in the Data Controllers Registry Start?
+74) Who Should Register in the Data Controllers Registry?
+75) How do non-resident data controllers register in the Registry?
+76) Is there an exception to the obligation to register in the Data Controllers Registry?
+77) Which Elements Are Included in Notification to the Data Controllers Registry?
+78) What does it mean for the Data Controllers Registry to be Public?
+79) Protection of Personal Data Regarding Offenses and Penal Sanctions Regarding Personal Data
+What Kind of Arrangement Does the Law Provide?
+80) Administrative Sanctions Regarding Which Subjects in the Law on Protection of Personal Data
+Is it foreseen?
+81) Who can the Board Decide on Administrative Sanctions?
+82) What is the Legal Status of the Personal Data Protection Authority?
+83) How Personal Data Protection Authority and Personal Data Protection Board are in the Law
+Edited?
+84) What are the Duties of the Institution?
+85) How Many People Does the Board Consist and How Are Board Members Selected?
+86) Which Conditions Are Required to Be Selected as a Board Member?
+87) How is the Chairman of the Board and the Vice-Chairman Elected?
+88) What is the Term of Duty of the Board Members?
+89) How and Where Do Board Members Take the Oath?
+90) Can Board Members Perform Any Other Duties?
+91) Can Board Members Be Terminated?
+92) What are the Duties of the Board?
+93) What are the Working Principles of the Board?
+94) Do Board Members Have a Confidentiality Obligation?
+95) What is the Status of the President?
+96) What are the Duties of the President?
+97) How is the Presidency Formed?
+98) What are the Duties of the Presidency?
+99) What are the Budget and Revenues of the Institution?
+100) Is There a Transition Period for Personal Data Processed Prior to the Law's Publication?
+65
+65
+66
+66
+67
+67
+68
+69
+69
+70
+70
+71
+72
+72
+73
+73
+74
+74
+75
+75
+76
+76
+77
+77
+78
+79
+80
+80
+81
+81
+82
+83
+84
+85
+PREFACE
+Today, various data on individuals
+With the effect of developing technology, every day is different.
+can be easily processed on platforms and
+can be transferred. Processing of this data
+in terms of individuals and those who provide goods and services
+Although it provides some conveniences and advantages
+with the risk of data being misused.
+brings. Therefore, personal data
+a legal infrastructure to protect
+creation becomes a necessity.
+At the core of the protection of personal data
+personality preservation. From this point
+the right to the protection of personal data,
+a special form of the right to privacy
+with the protection of the dignity and personality of the person
+individual to freely develop his personality.
+fundamental rights and freedoms of personal data
+intended to protect during processing.
+As a result of the change made in 2010
+With the paragraph added to Article 20 of the Constitution,
+Protection of personal data Constitutional guarantee
+and protection of personal data
+procedures and principles regarding
+has been adjudicated. In this context, numbered 6698
+Law on Protection of Personal Data 07.04.2016
+entered into force on
+By law, the discipline of processing personal data
+unlimitedly and haphazardly
+collection, making it accessible to unauthorized persons,
+disclosure or misuse or misuse
+violation of personal rights as a result of
+is intended to be prevented. For this purpose,
+control over the processing of personal data
+mechanisms, these data
+preventing unlawful processing
+is targeted.
+Law
+personal
+data
+to be processed
+does not limit, on the contrary, data-based
+to be more competitive in the economy
+Procedure for processing personal data on behalf of
+and lays down the principles. In other words,
+With the right to the protection of personal data in the law
+establishing a balance between the data-driven economy
+is to be observed.
+Law, natural persons whose personal data are processed
+with this data fully or partially automatically.
+or any data recording system
+non-automatic, provided
+on natural and legal persons operating in
+is implemented.
+Protection of Personal Data in 100 Questions
+Study on the law, the law and its justification
+It has been prepared in the framework of the question and answer approach in this regard and is useful for those concerned.
+intended.
+Best regards
+prof. Dr. Faruk BILIR
+Head of Institution
+1) Why the Protection of Personal Data is Needed
+heard?
+Both public and private institutions and organizations
+performance of a task or the provision of a service.
+in connection with personal data,
+They have been collecting for a long time. This situation is sometimes
+sometimes due to the consent of persons or a
+based on the contract, sometimes the transaction
+depending on its nature. specify
+It is necessary that the fundamental rights and freedoms of individuals are subject to data processing.
+Conservation is one of the top priorities.
+In addition, social and economic life is in order.
+maintenance, effective delivery of public services,
+goods and services in accordance with the requirements of the economy.
+for the development, distribution and marketing of
+While the collection of data is inevitable, personal data is unlimited and indiscriminate.
+collection, unauthorized access, disclosure, misuse or misuse
+It is necessary to prevent the violation of personal rights as a result of its use.
+In addition, by the Council of Europe, in all member states, personal data is the same.
+prepared in order to protect the standards and to determine the principles of cross-border data flow.
+“Protection of Individuals Against Automatic Processing of Personal Data”
+108 numbered agreement, was opened for signature on 28 January 1981 and was signed by our country.
+has also been signed. This agreement was published in the Official Gazette dated 17 March 2016 and numbered 29656.
+published and incorporated into domestic law. Within the framework of Article 4 of Convention No. 108,
+8
+It has become necessary to make legal arrangements for the protection of personal data in domestic law.
+has arrived.
+As a matter of fact, the Constitutional Court dated 9 April 2014 and numbered E:2013/122, K:2014/74.
+in its decision; “The right to the protection of personal data is the protection of a person's human dignity.
+and as a particular form of the right to freely develop his personality,
+Determining that they aim to protect their freedoms during the processing of personal data […]”,
+“As a result of personal data becoming a valuable asset for commercial enterprises,
+Risks created by private sector elements become more widespread and significant.
+and the increase in the activities of terrorist and criminal organizations to seize personal data
+Personal data is protected much more than in the past due to factors such as
+stated to be in need.
+9
+2) Basis for the Right to Protection of Personal Data
+What is it and This Right is Unlimited
+Is it right?
+With the constitutional amendment made in 2010, the
+Article 20, which regulates the privacy of private life, “Everyone,
+request the protection of personal data concerning him/her
+has the right. This right; one's own personal
+being informed about the data, accessing these data,
+request their correction or deletion
+and whether it is used for its intended purpose.
+includes learning. Personal data, but only in the Law
+It can be processed in stipulated cases or with the explicit consent of the person.
+Principles and procedures regarding the protection of personal data
+by adding a clause such as “regulated by law”, personal
+Data protection is expressly constitutionally guaranteed.
+taken.
+The right to demand the protection of personal data, which is regulated as a fundamental right, is enshrined in the Constitution.
+in the section on the rights and duties of the person. However, all rights and
+As with freedoms, the right to protect personal data is also enshrined in the Constitution.
+may be limited in favor of other rights and freedoms within the framework of borders. Accordingly, personal
+implementation of each right recognized in Article 20 on data protection and other
+Regulations regarding the limitation of rights in favor of rights can only be made by law.
+10
+3) When the Law on Protection of Personal Data
+Entered into force?
+Within the scope of harmonization with the European Union
+prepared
+Personal
+of data
+Protection
+law
+bill
+On January 18, 2016, the Turkish Grand National Assembly
+It was sent to the President.
+The text in question is 24 March.
+General Assembly in 2016
+approved by the board
+enacted and dated 7 April 2016
+and in the Official Gazette No. 29677
+published and entered into force.
+11th
+4) Purpose of the Law on Protection of Personal Data
+What?
+Considering international documents, comparative law practices and the needs of our country.
+Processing personal data in contemporary standards with the Law prepared by
+intended to be protected. In this context, the purpose of the Law is to
+the processing conditions, the fundamental rights and freedoms of individuals in the processing of personal data.
+protection and the obligations of natural and legal persons who process personal data
+to regulate the principles and procedures. Protection of personal privacy and data security
+provision is also considered in this context.
+Unlimited and arbitrary collection of personal data by law, unauthorized persons
+access, disclosure or misuse or misuse of personal rights.
+in order to prevent infringement.
+12
+5) Who is the Law on the Protection of Personal Data
+Does it cover?
+Act, the fact that personal data is processed
+these data with persons completely or
+partially automatic or any
+data recording system (for certain
+processed according to the criteria
+registration system)
+reality operating in non-automatic ways
+and legal persons.
+In this direction, activities in the private sector
+public institutions and organizations
+a distinction in terms of
+has not been carried out, the prescribed procedure and
+all institutions and organizations
+application has been adopted.
+Natural persons whose data are processed in the law
+having the right to be mentioned
+Everyone is covered by the Law.
+13
+6) Are There Any Persons Not Covered by the Law?
+In the law, “personal data processed
+Since the expression "natural persons" is used,
+legal entities whose personal data are processed
+It is excluded from the scope of the law.
+Persons performing data processing activities
+In terms of natural person legal
+No distinction was made between individuals. However, data
+data without being part of the record system
+outside the scope of the law
+has been kept.
+7) This Law for All Kinds of Data Processing Activities
+Will its provisions be enforced?
+Article 28 of the Law states that the provisions of the Law will not be applied in some cases.
+is indicated. In this framework, the cases not covered by the Law are completely covered in Article 28.
+or partially out of scope. It
+Full exceptions are arranged in the first paragraph of the article, and partial exceptions are arranged in the second paragraph.
+While the provisions of the Law are not applied in any way in case of full exception, partial exception
+cases, only some provisions of the Law (obligation to enlighten, rights of the person concerned)
+and data controllers registry) is not applied.
+14
+8) What are the Full Exceptions Under the Law?
+In the following cases, the Law
+its provisions will not apply;
+• Personal data to third parties
+regarding data security
+real, provided that the obligations are complied with.
+completely by himself
+or with family members living in the same residence
+processing within the scope of related activities,
+•
+Research, planning by anonymizing personal data with official statistics
+and processing for statistical purposes,
+•
+Personal data can be used to protect national defense, national security, public security, public order,
+not to violate economic security, privacy or personal rights; or
+for artistic, historical, literary or scientific purposes or for expression
+processed within the scope of freedom,
+•
+Personal data can be used to protect national defense, national security, public security, public order or
+public authorities that have been given the duty and authority by law to ensure economic security.
+preventive, protective and intelligence activities carried out by institutions and organizations
+processing under
+•
+Regarding the investigation, prosecution, trial or execution of personal data
+processed by judicial authorities or enforcement authorities.
+15
+
+9) Partial Exceptions Under the Law
+What are they?
+As a rule, the following cases are only exempted from certain provisions of the Law, and they are subject to the provisions of the Law other than this. purpose of the law and
+Provided that it is in accordance with the basic principles and proportional
+Article 10, which regulates the liability of the data subject, Article 11, which regulates the rights of the data subject, except for the right to demand the compensation of the damage, and registration in the Data Controllers Registry.
+The provisions of Article 16, in which the liability is regulated, are limited to the specified fields of activity.
+not applicable. In this context, the purpose and basic principles of the Law
+The cases that are exempted from certain provisions, provided that they are appropriate and proportional, are as follows;
+a) Processing personal data for the prevention of crime or for criminal investigation
+be necessary,
+b) Processing of personal data made public by the person concerned,
+c) Responsible and authorized public institution based on the authority given by the law for personal data processing.
+and institutions and professional organizations in the nature of public institutions, auditing or
+necessary for the conduct of enforcement duties and for disciplinary investigation or prosecution.
+to be,
+ç) Economic and financial issues of the State regarding the budget, tax and financial issues of personal data processing.
+necessary for the protection of their financial interests.
+16
+10) What Does Personal Data Protection Mean?
+Protection of personal data is fundamental with the discipline of processing personal data.
+protection of rights and freedoms.
+Protection of personal data is basically not the data, but the persons to whom this data is related.
+aims to protect. In other words, data protection; people, they
+fully or partially automated or non-automatic
+aimed at protecting personal data from damages arising from the processing of personal data
+It refers to the administrative, technical and legal measures embodied in the principles regarding the protection of It
+protection of personal data, collection and storage of personal data,
+It covers all stages of data processing processes such as the use and transfer of data.
+In this way, it can be said that it aims to regain the right of control to individuals. This purpose
+protection of personal data within the scope of
+means the right to determine. At the same time, this protection is the protection of human dignity and personality.
+is also a requirement.
+17
+11) What is Personal Data?
+Personal data, an identified or identifiable fact
+means any information about a person. Personal
+In order to be able to talk about data, the data must be given to a natural person.
+be related and that person is also specific or identifiable
+must be of quality. According to this;
+1. Relating to a real person: Personal data, real
+personal data, and the data relating to legal entities are personal.
+beyond the definition of data. Hence, a company
+pertaining to legal entity such as trade name or address
+information (where they can be associated with a natural person)
+Except for cases) will not be considered as personal data.
+2. Making the person specific or identifiable: Personal data is the direct identity of the person concerned.
+While not directly revealing the identity of that person, any
+It also includes all the information that enables the person to be identified as a result of associating with the record.
+3. All kinds of information: This expression is extremely broad and a natural person; name, surname, birth
+not only the information that reveals the identity of the individual, such as the date and place of birth; telephone
+number, motor vehicle license plate, social security number, passport number, curriculum vitae,
+pictures, images and sound recordings, fingerprints, e-mail address, hobbies, preferences, interacting
+directly or indirectly, such as contacts, group memberships, family information, health information.
+All data that makes it indirectly identifiable are considered personal data.
+18
+In the law, there is a limited counting way regarding which information will be considered as personal data.
+it is possible to expand its scope. The important thing is to share the data with the person.
+being associated or being able to define it.
+For example, when nicknames are used alone or combined with other sources,
+Such data is also considered as personal data if it is capable of providing identification.
+In addition, the customer associated with an identified or identifiable natural person, which is frequently used
+complaint reports, employee performance evaluation reports, interview evaluation
+such as reports, audio or video recordings, pictures, user action logs
+records, resume, payroll, invoices, bank statements, credit card statements, identity card
+documents such as photocopies and letters, invitation letters, etc.
+data can also be considered as personal data.
+However, whether these are personal data or not, depending on the characteristics of each concrete case,
+should be evaluated by taking into account its ability to identify”.
+19
+12) What Does Sensitive Personal Data Mean?
+Special categories of personal data, others
+relevant if known by
+that the person may be a victim or
+to be discriminated against
+why is that
+may be
+of nature
+are data. In law, which personal
+personal data of special nature
+It has been stated individually that this
+Special qualifications other than those listed
+cannot be considered as personal data.
+In this regard, personal
+It is accepted that the data are counted as limited.
+is done.
+13) What are Private Personal Data?
+Special categories of personal data; race, ethnic origin, political opinion, philosophical belief, religion,
+sect or other beliefs, clothing, association, foundation or union membership, health,
+data on sexual life, criminal convictions and security measures, as well as biometric and
+are genetic data.
+Accordingly, sensitive data is a small group of personal data that is more protected.
+can be evaluated as
+20
+14) What is Personal Health Data?
+Personal health data, physical and mental
+presented to the person with all kinds of data related to his/her health.
+information about health care. For example; all kinds
+as a result of the analysis, the diseases the person had, the use
+Data such as medicines are personal health data. Personal
+health data is personal data of special nature. Hence
+Special categories of personal data regulated in the law
+subject to processing conditions.
+15) Who is the Related Person?
+The data subject is the real person whose personal data is processed.
+means. In the law, only natural persons
+legal entity whose data is protected
+personal data outside the scope of the law
+has been kept.
+As per the definition of personal data in the law,
+any factual data of a legal person
+to identify or make identifiable
+case, these data are also within the scope of the Law.
+is under protection. However, the interest protected here is not the legal person, but the regulation.
+shall belong to the real person determined or to be determined in accordance with the priority on which it is based.
+Because the Law does not regulate the protection of data belonging to legal persons in any way.
+21
+16) What Does the Processing of Personal Data Mean?
+The processing of personal data is wholly or partially automated or
+by non-automatic means, provided that they are part of any data recording system
+acquisition, recording, storage, preservation, modification, reuse
+regulated, disclosed, transferred, taken over, made available,
+carried out on data such as classification or prevention of use
+refers to any transaction.
+For example, storing personal data only on a hard disk, CD, server,
+It is a data processing activity even if no other processing is done with the data.
+Therefore, within the scope of data processing
+The actions entered are not limited in number,
+obtaining personal data for the first time
+data starting from
+all operations performed on
+represents the types.
+22
+17) What is the Processing of Personal Data by Automatic Ways
+Means?
+The law does not define what automatic processing is. However, in the reasoning
+While explaining the scope of the law, “Today, these data are used by both the private sector and the
+It is frequently used by the public sector through automated means through information systems.” It is stated that automatic processing indirectly is the activities carried out over information systems.
+In this context, processing that is fully or partially automated; recording data, minimizing the need for human intervention or assistance
+or performing arithmetic operations, changing, deleting, recovering or transferring data by automatic or partially automatic methods.
+In other words, automatic data processing; computer, phone, clock etc. performed by devices with processors,
+software or hardware specifications
+prepared in advance
+human within the scope of algorithms
+It is a processing activity that takes place spontaneously without intervention.
+23
+18) Non-Automated Ways of Personal Data
+What Does Processing Mean?
+Automatically linked to a data logging system
+processing by non-manual means
+prepared but limited access and interpretation.
+refers to the processing activity that facilitates
+As mentioned above, personal data is automatically
+although they are not processed, a “data record
+also when processed through the “Law System”.
+subject to its provisions. In other words
+The law prohibits data processing by non-automated means.
+does not completely exclude it from the scope of the Law,
+non-automatic data processing if a data
+data processing activity, if it is part of the registry system
+It is accepted under the law.
+24
+19) What is Data Recording System?
+Data recording system, personal data
+processed according to the criteria
+refers to the registration system. One
+can be described as a filing system.
+data recording system electronic or physical
+can be created in the environment. According to this,
+personal data in the data recording system, name,
+via surname or ID number
+can be classified
+as,
+for example
+for those who do not pay their loan debt
+This is a classification to be created.
+evaluated in scope.
+For example, depending on any criteria
+just randomly without
+people's names and surnames on a piece of paper
+included in the scope of the Law
+although not included, the
+names on a sheet of paper according to certain criteria
+In case of recording, this data recording
+are considered within the scope of
+25
+20) What is Explicit Consent?
+Explicit consent is a free will statement based on information regarding a particular subject.
+Explicit consent has three elements:
+1. Relating to a specific subject: In order for the consent given to process data to be valid,
+Consent must be related to and limited to a particular subject. Accordingly, a general will
+An open-ended and indefinite consent with a statement of “I accept the processing of my personal data” cannot be considered as express consent in the context of the Law alone. In other words
+Blanket consents are legally void.
+2. Consent is based on information: Explicit consent is a declaration of will and the person's free will.
+In order to consent in this way, he must know what he is consenting to. In this context, the person
+The information to be made must be done before the data is processed and
+should be carried out in a clear and understandable manner on all relevant matters.
+26
+The purposes for which the personal data to be obtained while providing information will be used are clearly
+belirtilmeli, kişinin anlamayacağı terimler ya da yazılı bilgilendirme yapıldığında okumakta
+güçlük çekeceği oranda küçük puntolar kullanılmamalıdır.
+3. Özgür iradeyle açıklanması: Kişinin irade beyanı olan rıza, kişinin yaptığı davranışın
+bilincinde ve kendi kararı olması halinde geçerlilik kazanacaktır. Cebir, tehdit, hata ve hile
+gibi iradeyi sakatlayan hallerde kişinin özgür biçimde karar vermesi mümkün değildir.
+Örneğin, işçiye rıza göstermeme imkânının etkin bir biçimde sunulmadığı veya rıza göstermemenin işçi açısından muhtemel bir olumsuzluk doğuracağı durumlarda, rızanın özgür
+iradeye dayandığı kabul edilemez.
+Açık rızanın özgür irade ile açıklanması gerektiğinden, ilgili kişinin açık rızasının alınması,
+bir ürün veya hizmetin sunulmasının ya da ürün veya hizmetten yararlandırılmasının ön
+şartı olarak ileri sürülmemelidir.
+Örneğin, bir hizmetten yararlanılmasının üyelik şartına bağlandığı yerlerde, üye olmak isteyen ilgili kişinin parmak izinin alınması ve işlenmesinin üyelik sözleşmesinin kurulması
+için zorunluluk olarak öngörülmesi hukuka aykırı olacaktır. Çünkü bu şekilde alınan açık
+rıza özgür irade ile açık rıza verilmesi ilkesine ve ölçülülük ilkesine aykırı olacaktır.
+27
+​21) Açık Rıza Herhangi Bir Şekil Şartına Tabi midir?
+Açık rıza beyanı herhangi bir şekil şartına tabi değildir. Önemli olan açık rızanın Kanundaki
+unsurları taşıması ve ispatlanabilir olmasıdır. Dolayısı ile sözlü, yazılı, elektronik ortam
+vb. yöntemlerle açık rıza alınması mümkündür. Bununla birlikte, açık rızanın yazılı olduğu
+durumlarda, açık rıza metinleri açık, anlaşılır ve yalın bir şekilde kaleme alınmalıdır. Ayrıca,
+açık rızanın, olumlu bir irade beyanı içermesi gerekmektedir. Diğer bir ifade ile, açık
+rızanın şüpheye yer vermemesi gerekmekte, rızanın talep edilmesine ve alınmasına ilişkin
+işlemler, ilgili kişinin bu konudaki niyetini açık bir şekilde ortaya koyar nitelikte olmalıdır.
+Açık rızanın alındığı konusundaki ispat yükü ise veri sorumlusuna aittir.
+28
+​22) Açık Rıza Geri Alınabilir mi?
+Açık rıza geri alınabilir. Çünkü bu kişiye sıkı sıkıya bağlı bir haktır. Ayrıca kişisel verilerin
+geleceğini belirleme hakkı ilgili kişiye aittir. Bu bağlamda kişi dilediği zaman veri
+sorumlusuna vermiş olduğu açık rızasını geri alabilir. Ancak geri alma işlemi ileriye yönelik
+sonuç doğurur. Geri alma beyanın veri sorumlusuna ulaştığı andan itibaren veri sorumlusu
+tarafından açık rızaya dayalı olarak gerçekleştirilen tüm faaliyetler durdurulmalıdır. Geri
+alma beyanı veri sorumlusuna ulaştığı andan itibaren hüküm doğurur.
+29
+​23) Veri Sorumlusu Kimdir?
+Veri sorumlusu, kişisel verilerin işleme amaçlarını ve
+vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve
+yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi ifade
+eder. Bu kişiler, gerçek kişiler olabileceği gibi, kamu kurumları,
+şirketler, dernekler veya vakıflar gibi tüzel kişiler de olabilecektir.
+Veri sorumlusu, işleme faaliyetinin “neden” ve “nasıl” yapılacağı
+sorularının cevabını verecek kişidir.
+Veri sorumlusunun tespiti için kişisel verilerin işlenmesi ve
+işlenme amacı, işlenecek kişisel veri türleri, işlenen kişisel
+verilerin hangi amaçlarla kullanılacağı, hangi kişilerin kişisel
+verilerinin işleneceği, kişisel verilerin paylaşılıp paylaşılmayacağı,
+paylaşılacaksa kimlerle paylaşılacağı, ne kadar süreyle
+saklanacağı, ilgili kişilerin erişim hakkı ve diğer haklarının uygulanıp
+uygulanmayacağı gibi hususlara kimin karar verdiği dikkate alınır.
+Burada belirtilmesi gereken diğer bir husus ise, eğer veri işleme faaliyeti bir tüzel kişilik
+tarafından gerçekleştiriliyorsa, burada veri sorumlusu tüzel kişinin kendisidir. Tüzel kişiliğin
+içerisinde veri işleme faaliyetlerinden sorumlu olan gerçek kişiler Kanunun uygulanması
+bakımından veri sorumlusu sayılmazlar. Veri sorumlusunun tüzel kişi olması halinde, veri
+sorumlusu yükümlülüğü ilgili tüzel kişilik üzerinde doğacaktır. Bu yükümlülük tüzel kişiliği
+temsil ve ilzama yetkili organlar veya kişiler eliyle yerine getirilecektir. Tüzel kişiliği temsil ve
+ilzama yetkili olan organ veya kişiler tüzel kişilik içerisinde tüzel kişiliğin sahip olduğu veri
+sorumlusu yükümlülüklerini yerine getirmek üzere kişi veya kişileri görevlendirebilirler.
+Bu görevlendirme tüzel kişiliğin veri sorumlusu yükümlülüğünü ortadan kaldırmaz ve
+ilgili gerçek kişilerin de veri sorumlusu olarak tanımlanmasını sağlamaz. Bu konuda
+kamu hukuku tüzel kişileri ve özel hukuk tüzel kişileri bakımından da Kanunda bir farklılık
+gözetilmemiştir. Bu çerçevede hukuki ve cezai sorumluluk bakımından, tüzel kişilerin
+sorumluluğuna ilişkin özel hukuk ve kamu hukukundaki genel hükümler uygulanır.
+30
+​24) Veri İşleyen Kimdir?
+Veri işleyen, veri sorumlusu adına kişisel verileri kendisine verilen talimatlar çerçevesinde
+işleyen gerçek veya tüzel kişilerdir. Veri işleyenin faaliyetleri veri işlemenin daha çok teknik
+kısımları ile sınırlıdır. Burada önemli olan, veri işleyenin bu kapsamdaki kişisel veri işleme
+faaliyetlerini veri sorumlusundan aldığı talimatlar doğrultusunda gerçekleştirmesidir.
+Örneğin, veri sorumlusunun verdiği yetkiye dayanarak veri sorumlusu adına faaliyet
+gösteren, dışarıdan hizmet alınması suretiyle çağrı merkezi hizmeti veren bir şirket bu
+faaliyet kapsamında veri işleyen olarak kabul edilecektir.
+31
+​25) Herhangi Bir Gerçek veya Tüzel Kişi Aynı
+Zamanda Hem Veri sorumlusu Hem de Veri
+İşleyen Olabilir mi?
+Veri sorumlusu ve veri işleyen sıfatı, veri işleme faaliyetinin niteliğine göre ilgili tarafı
+tanımlamaktadır. Dolayısıyla, herhangi bir gerçek veya tüzel kişi yürüttüğü farklı faaliyetleri
+nedeniyle aynı zamanda hem veri sorumlusu hem de veri işleyen olabilir. Örneğin, bir bulut
+bilişim hizmeti sunan şirket kendi çalışanlarının verileri bakımından “veri sorumlusu” iken,
+müşterilerinin verileri bakımından “veri işleyen” sıfatıyla hareket etmektedir.
+32
+​26) Kanunda Sayılan Veri İşlenmesine İlişkin
+Yükümlülüklerin Yerine Getirilmesi Bakımından
+Esas Sorumlu Kimdir?
+Kanunda,
+kişisel
+veri
+işleme
+faaliyetlerine
+ilişkin
+hukuki
+yükümlülüklerin yerine getirilmesinde
+veri sorumlusu esas alınmaktadır. Veri
+sorumlusu, kişisel verilerin işlenme
+amaçlarını ve vasıtalarını belirleyen,
+veri kayıt sisteminin kurulmasından
+ve yönetilmesinden sorumlu olan
+gerçek veya tüzel kişidir. Veri işleyen
+ise, veri sorumlusunun verdiği yetkiye
+dayanarak onun adına kişisel veri
+işleyen gerçek veya tüzel kişidir. Buna
+göre, veri işleyenin veri sorumlusunun
+talimatlarını yerine getirdiği açıktır.
+33
+​27) Kişisel Verilerin İşlenmesinde Genel (Temel)
+İlkeler Nelerdir?
+Kişisel verilerin işlenmesinde her zaman Kanunda ortaya konulan genel ilkelere uygun
+davranılmalıdır. Kişisel verilerin işlenmesinde genel ilkeler şunlardır:
+a. Hukuka ve dürüstlük kurallarına uygun olma,
+b. Doğru ve gerektiğinde güncel olma,
+c. Belirli, açık ve meşru amaçlar için işlenme,
+ç. İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma,
+d. İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza
+edilme.
+Kişisel verilerin işlenmesine ilişkin ilkeler, tüm kişisel veri işleme faaliyetlerinin özünde
+bulunmalı ve tüm kişisel veri işleme faaliyetleri bu ilkelere uygun olarak gerçekleştirilmelidir.
+34
+​28) Hukuka ve Dürüstlük Kurallarına Uygun Olma
+Ne Demektir?
+Hukuka ve dürüstlük kuralına uygun olma ilkesi, diğer ilkeleri de kapsayıcı bir özelliğe
+sahiptir.
+Hukuka uygun olma, kişisel verilerin işlenmesinde kanunlarla ve diğer hukuksal
+düzenlemelerle getirilen ilkelere uygun hareket edilmesi zorunluluğunu ifade etmektedir.
+Dürüstlük ilkesi ise, ilgili kişi aydınlatılmadan hiçbir şekilde kişisel verisinin toplanmaması
+ve işlenmemesi, ilgili kişiye karşı haksızlığa yol açacak şekilde kullanılmaması, toplanma
+amacının aşılmamasını ifade eder. Veri işleme faaliyetinde bulunanların, ilgili kişilerin
+çıkarlarını ve makul beklentilerini göz önüne almaları dürüstlük kuralının gereğidir. Haklı
+bir gerekçe olmaksızın ilgili kişinin özel hayatının gizliliğini, otonomisini, onurunu ihlal
+edecek şekilde veri işlenmesi, şüphesiz bu ilkeye aykırılık teşkil edecektir. Bu kapsamda,
+dürüstlük ilkesi uyarınca, kişilerin kendilerine veri işleme konusunda izin ya da emir veren
+hukuk kurallarına dayanarak gerçekleştirdikleri fiillerde, bu hukuk kuralının amacına göre
+işlenebilecek en az miktarda veri işlemeleri, veri sahiplerinin öngöremeyeceği biçimde
+hareket etmemeleri, veri sahiplerinin çıkarlarını ve makul beklentilerini göz önüne almaları
+gibi davranışları gerektirir.
+Bu ilkelere riayet edilmeksizin veri işlenmesi dürüstlük kuralına dolayısıyla hukuka uygun
+veri işlenmesine aykırı olacaktır.
+35
+​29) Doğru ve Gerektiğinde Güncel Olma Ne
+Demektir?
+Veri, hakkında bilgi vermesi gereken şeyi doğru şekilde
+anlatabilmelidir. Kişisel verilerin doğruluğunun ve güncelliğinin
+önemini vurgulayan bu ilke Kanunda öngörülen ilgili kişinin
+verilerin düzeltilmesini talep etme hakkı ile uyumludur.
+Kişisel verilerin doğru ve güncel bir şekilde tutulması, veri
+sorumlusunun çıkarına uygun olduğu gibi ilgili kişinin temel
+hak ve özgürlüklerinin korunması açısından da gereklidir.
+Veri sorumlusu eğer kişisel verilere dayalı olarak ilgili kişiye
+dair bir sonuç yaratıyor ise kişisel verilerin doğru ve gerektiğinde güncel olmasının
+sağlanması noktasında veri sorumlusunun aktif özen yükümlülüğü bulunmaktadır. Bunun
+dışında veri sorumlusu her zaman ilgili kişinin bilgilerini doğru ve güncel olmasını temin
+edecek kanalları açık tutmalıdır. Aksi takdirde, kişilerin, güncel olmayan veya yanlış tutulan
+kişisel verileri nedeniyle maddi ve manevi zarar görmesi mümkündür. Örneğin bir kişinin
+veri sorumlusunun sisteminde kayıtlı telefon numarasının doğru olmaması ya da artık ilgili
+kişi tarafından kullanılmıyor oluşu, o kişiye ilişkin gerçek bir veriyi yansıtmadığından hatalı
+sonuçların ortaya çıkmasına neden olabilmektedir. Yine, adres bilgisi yanlış kaydedilen bir
+kişinin kendisine ait tebligatları zamanında alamaması veya söz konusu tebligatların yanlış
+bir kişiye tebliğ edilmesi durumunda ilgili kişi maddi ve manevi zarar görebilir.
+Kişisel verilerin doğru ve güncel tutulabilmesini teminen; kişisel verilerin elde edildiği
+kaynaklar belirli olmalı, kişisel verilerin toplandığı kaynağın doğruluğu test edilmeli,
+kişisel verilerin doğru olmamasından kaynaklı talepler göz önünde bulundurulmalı ve bu
+kapsamda makul önlemler alınmalıdır.
+36
+​30) Belirli, Açık ve Meşru Amaçlar İçin İşlenme İlkesi
+Ne Demektir?
+Kişisel verilerin işlenme amaçlarının belirli, meşru ve açık olması ilkesi;
+•
+Kişisel veri işleme faaliyetlerinin ilgili kişi tarafından açık bir şekilde anlaşılabilir
+olmasını,
+•
+Kişisel veri işleme faaliyetlerinin hangi hukuki işleme şartına dayalı olarak
+gerçekleştirildiğinin tespit edilmesini,
+•
+Kişisel veri işleme faaliyetinin ve bu faaliyetin gerçekleştirilme amacının belirliliğini
+sağlayacak detayda ortaya konulmasını
+sağlamaktadır.
+Kişisel veri işleme amaçlarının belirli, meşru ve açık olması ilkesi özellikle açık rıza ve
+aydınlatma metinlerinin kaleme alınması sırasında; kişisel veri işleme faaliyetlerinin
+hukuka uygun olarak gerçekleştirildiğinin tespitinin sağlanması noktasında önem taşır.
+Açıklandığı hukuki işlem ve metinlerde (açık rıza, aydınlatma, ilgili kişinin başvurularını
+cevaplama, veri sorumlusu siciline olan başvuru) belirlilik ve açıklık ilkesine uyumda
+hassasiyet gösterilmesi, anlaşılmayan terminoloji kullanımından kaçınılmasıdır. Bu esasa
+uygun davranma aynı zamanda dürüstlük ilkesine uyum bakımından da önemlidir.
+37
+​31) Amacın Meşru Olması Ne Demektir?
+Amacın meşru olması; veri sorumlusunun işlediği verilerin, yapmış olduğu iş veya
+sunmuş olduğu hizmetle bağlantılı ve bunlar için gerekli olması anlamına gelmektedir.
+Örneğin, bir hazır giyim mağazasının, müşterilerinin kimlik ve iletişim bilgilerini işlemesi
+meşru amaç kapsamındayken, anne kızlık soyadını işlemesi meşru amaç kapsamında
+değerlendirilemeyecektir.
+38
+​32) Kişisel Verilerin, İşlendikleri Amaçla Bağlantılı,
+Sınırlı ve Ölçülü Olması İlkesi Ne Demektir?
+“Amaçla sınırlılık” kişisel verilerin korunmasında hâkim olan en önemli ilkelerden biridir.
+Kişisel veriler işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olmalıdır. Mevcutta olmayan
+ve sonradan gerçekleşmesi düşünülen amaçlarla kişisel veri toplanmamalıdır. Kişisel veri
+işleme faaliyetinin gerçekleşmesi için gerekli olmayan ölçüde kişisel veri toplanmamalı
+ve/ veya işlenmemelidir. Buna göre kişisel veriler yalnızca belirli amaçlar için ve gerektiği
+kadar toplanmalı, amacın gerektirdiği yerlerde kullanılmalıdır.
+Bu bakımdan, kişisel veriler toplandıktan sonra, ileride ortaya çıkabilecek yeni işleme
+amaçları dâhilinde işleme yapılması için, verilerin ilk defa toplanması sırasında sağlanması
+gereken şartlar yeni amaçlar için de tekrar aranmalıdır. Örneğin, bir taşımacılık firması
+tarafından taşıma sözleşmesi kapsamında kaydedilen adres bilgileri, sonrasında pazarlama
+faaliyeti için de kullanılacaksa, bu amaçla kullanım yapılabilmesi için kişisel veri işleme
+şartlarının karşılanıp karşılanmadığının yeniden değerlendirilmesi gerekmektedir.
+Bunun yanı sıra işlenen veri, sadece veri işleme amacının gerçekleştirilmesi için gerekli
+olanla sınırlı tutulmalıdır. Örneğin, bir tekstil firması tarafından müşterilere ilişkin kimlik
+ya da iletişim verilerinin tutulması satış işlemlerinin takibi vb. amaçlarla bağdaşırken,
+müşterilerin finansal geçmişine ilişkin verilerin toplanmasının amaçla bağlantılı ve ölçülü
+olduğu söylenemez.
+Bunun yanında amaçla bağlantılı, sınırlı ve ölçülü olma şartının her ilgili kişi ve süreç için
+ayrı ayrı değerlendirilmesi gerekmektedir. Çünkü belirli bir kişi ve süreç için gerekli olan
+bilgi, bir diğer kişi için ölçüsüz olabilecektir. Bu hususa özellikle özel nitelikli kişisel veriler
+konusunda dikkat edilmesi gerekir. Bir iş yerinde insan kaynakları birimince çalışanların
+mali haklarının belirlenebilmesi için sendika üyeliği verisinin alınması ölçülü kabul
+edilecekken, aynı iş yerinin AR-GE birimince söz konusu verinin alınması ölçülü olarak
+kabul edilmeyecektir.
+39
+​33) Kişisel Verilerin Ancak İlgili Mevzuatta
+Öngörülen veya İşlendikleri Amaç İçin Gerekli Olan
+Süre Kadar Muhafaza Edilmesi Ne Demektir?
+Kişisel verilerin, ancak ilgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre
+kadar muhafaza edilmesi zorunludur. Buna göre, veri sorumluları, ilgili mevzuatta verilerin
+saklanması için öngörülen bir süre varsa bu süreye uyacak, kişisel verileri ancak işlendikleri amaç
+için gerekli olan süre kadar muhafaza edebilecektir. Bir verinin daha fazla saklanması için geçerli
+bir sebep bulunmaması halinde, o veri silinecek, yok edilecek ya da anonim hale getirilecektir.
+İleride tekrar kullanılabileceği düşünülerek ya da herhangi bir başka gerekçe ile kişisel verilerin
+muhafaza edilmesi yoluna gidilemeyecektir.
+Ayrıca veri sorumlusu, Kanunun 16. maddesi uyarınca Veri Sorumluları Siciline kayıt için başvuru
+yaparken kişisel verilerin işlenme amacı için gerekli azami süreyi bildirmek zorundadır.
+Veri sorumlusu tarafından Sicile bildirilen veri kategorilerinin işleme amaçları ve bu amaçlara
+dayalı olarak işlenmeleri için gerekli olan azami muhafaza edilme süreleri ile mevzuatta öngörülen
+
+süreler farklı olabilir. Bu durumda mevzuatta azami muhafaza edilme süresi öngörülmüşse
+öngörülen bu süre yoksa bunlardan en uzun süre esas alınarak bu veri kategorisi için Sicile bildirim
+yapılır.
+Burada önemle belirtmek gerekir ki, mevzuat kapsamında öngörülen bu sürelere uyum için
+yapılan saklama faaliyetleri veri sorumlusu tarafından belirlenen saklama sürelerini aşıyorsa, bu
+faaliyetler yalnızca ilgili mevzuatta belirtilen yükümlülükleri yerine getirmekle sınırlı bir saklama
+ve işleme faaliyeti olarak yürütülmelidir. Hem veri sorumlusunun hukuki yükümlülükleri gereği
+tabi olduğu mevzuat kapsamında öngörülen sürelerin, hem de veri sorumlusunun belirlediği
+saklama sürelerinin aşılması durumunda, kişisel verilerin veri sorumlusu tarafından Kişisel
+Verilerin Silinmesi, Yok Edilmesi ve Anonim Hale Getirilmesi Hakkında Yönetmeliğe göre silinmesi,
+yok edilmesi veya anonim hale getirilmesinin temin edilmesi gerekir.
+40
+​34) Kişisel Verilerin İşlenme Şartları Nelerdir?
+Kanunun 5. maddesinde kişisel verilerin işlenme şartları düzenlenmiştir. Özel
+nitelikli kişisel verilerin işlenme şartları ise Kanunun 6. maddesinde farklı esaslara
+bağlanmıştır. Bu çerçevede, özel nitelikli olmayan kişisel verilerin hangi hallerde
+hukuka uygun olarak işlenebileceği Kanundaki esaslara göre aşağıdaki şekilde
+düzenlenmiş olup, bu şartlardan sadece bir tanesinin bulunması özel nitelikli
+olmayan kişisel verilerin işlenmesi için yeterli hukuki şartı oluşturacaktır.
+1. İlgili kişinin açık rızasının varlığı
+2. Kanunlarda açıkça öngörülmesi,
+3. Fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya
+rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı
+veya beden bütünlüğünün korunması için zorunlu olması,
+4. Bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin
+taraflarına ait kişisel verilerin işlenmesinin gerekli olması,
+5. Veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması,
+6. İlgili kişinin kendisi tarafından alenileştirilmiş olması,
+7. Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması,
+8. İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru
+menfaatleri için veri işlenmesinin zorunlu olması.
+Kişisel verilerin işlenme şartları, yani hukuka uygunluk halleri, Kanunda sınırlı sayıda sayılmış
+olup, bu şartlar genişletilemez.
+Kişisel veri işleme, Kanunda bulunan açık rıza dışındaki şartlardan birine dayanıyorsa, bu durumda
+ilgili kişiden açık rıza alınmasına gerek bulunmamaktadır. Veri işleme faaliyetinin, açık rıza dışında
+bir dayanakla yürütülmesi mümkün iken açık rızaya dayandırılması, aldatıcı ve hakkın kötüye
+kullanımı niteliğinde olacaktır. Nitekim, ilgili kişi tarafından verilen açık rızanın geri alınması halinde
+veri sorumlusunun diğer kişisel veri işleme şartlarından birine dayalı olarak veri işleme faaliyetini
+sürdürmesi hukuka ve dürüstlük kurallarına aykırı işlem yapılması anlamına gelecektir.
+41
+​35) Kişisel Verilerin Aleni Olması Ne Demektir?
+Herhangi bir şekilde ilgili kişi tarafından kamuoyuna
+açıklanmış olan bir başka ifadeyle ilgili kişinin
+kendisi tarafından alenileştirilen kişisel verileri
+alenileştirme amacına uygun bir şekilde açık
+rıza aranmaksızın işlenebilecektir. Çünkü ilgili
+kişi tarafından alenileştirilen ve böylelikle herkes
+tarafından bilinebilecek hale gelen bu tür verilerin
+işlenmesinde, korunması gereken hukuki yararın
+ortadan kalktığı kabul edilmektedir.
+Kişisel verinin, aleni kabul edilebilmesi için ait olduğu kişinin aleni olmasını istemesi
+gerekir. Başka bir ifade ile, alenileştirmenin gerçekleştirilebilmesi için alenileştirme
+iradesinin varlığı gerekir. Yoksa bir kişinin kişisel verisinin herkesin görebileceği bir yerde
+olması aleni olmasını sağlamaz. Ayrıca, alenileştirme durumunda kişisel verinin amacı
+dışında da kullanılmaması gerekmektedir. Örneğin, ikinci el araç satışı yapılan internet
+sitelerinde aracını satmak isteyen ilgili kişinin iletişim bilgilerinin pazarlama amaçlarıyla
+kullanılması mümkün değildir.
+42
+​36) İlgili Kişinin Temel Hak ve Özgürlüklerine Zarar
+Vermemek Kaydıyla, Veri Sorumlusunun Meşru
+Menfaatleri İçin Veri İşlenmesinin Zorunlu Olması Ne
+Anlama Gelmektedir?
+Kanuna göre, ilgili kişinin temel hak ve
+özgürlüklerine zarar vermemek kaydıyla,
+veri sorumlusunun meşru menfaatleri için
+veri işlenmesinin zorunlu olması durumunda
+“TEMEL HAK VE
+kişisel verilerin işlenebileceği düzenlenmiştir.
+ÖZGÜRLÜK”
+Veri sorumlusunun meşru menfaati,
+gerçekleştirilecek olan işlenme sonucunda
+elde edeceği çıkara ve faydaya yöneliktir. Veri
+sorumlusunun elde edeceği fayda; meşru,
+ilgili kişinin temel hak ve özgürlüğü ile
+yarışabilecek düzeyde etkin, belirli ve mevcut bir menfaatine ilişkin olmalıdır.
+Örneğin bir şirket sahibi, çalışanlarının temel hak ve özgürlüklerine zarar vermemek
+kaydıyla, onların terfileri, maaş zamları yahut sosyal haklarının düzenlenmesinde ya da
+işletmenin yeniden yapılandırılması sürecinde görev ve rol dağıtımında esas alınmak üzere
+çalışanların kişisel verilerini işleyebilecektir. Burada, işletmenin yeniden yapılandırılması
+ya da ehliyetli ve liyakatli çalışanların terfi almaları, veri sorumlusu statüsündeki şirket
+sahibinin meşru menfaatinedir.
+Bu şarta dayalı olarak veri işlenebilmesi için, veri sorumlusunun meşru menfaatinin
+bulunması ve ilgili kişinin temel hak ve özgürlüklerine zarar verilmemesi gerekmektedir.
+43
+​37) Veri Sorumlusunun Meşru Menfaatini Tespit
+Etmek İçin Göz Önünde Bulundurulması Gereken
+Hususlar Nelerdir?
+Veri sorumlusunun meşru menfaat şartına dayanması durumunda bu şartın varlığını
+tespit etmek için aşağıda sıralanan hususların değerlendirilmesi gerekir:
+a. Menfaatin veri sorumlusuna ait olması: Kanunda varlığı aranması gereken meşru
+menfaatin veri sorumlusuna ait olması gerektiği düzenlenmiştir. Veri sorumlusu dışında
+üçüncü bir kişinin meşru menfaati bu veri işleme şartının kapsamı dışında kalmaktadır.
+b. Menfaatin meşruluğu: Veri işleme şartının varlığından bahsedebilmek için veri
+sorumlusunun menfaatinin mevcut olması değil, söz konusu menfaatin meşru olması
+da gerekmektedir. Menfaatin ileride doğma ihtimali üzerine, ilgili kişinin kişisel verilerinin
+elde edilmesi mümkün değildir. Madde kapsamında kabul edilen meşru menfaat kavramı,
+hali hazırda mevcut olan bir menfaati ifade etmektedir.
+c. Veri sorumlusunun meşru menfaati ile ilgili kişinin temel hak ve özgürlükleri
+arasında dengenin varlığı: Veri sorumlusunun meşru menfaatinin varlığı, ilgili kişinin
+temel hak ve özgürlüklerine zarar vermemelidir. Bu durumun tespiti için iki aşamalı
+bir denge testi uygulanmalıdır. Bu kapsamda yapılacak olan ilk değerlendirmede
+veri sorumlusunun meşru menfaatinin olup olmadığı belirlenmeli, yapılacak ikinci
+değerlendirmede kişisel verisi işlenecek olan ilgili kişinin temel hak ve özgürlüklerinin
+neler olduğu tespit edilmeli ve belirtilen hak ve menfaatler değerlendirilerek hangisinin
+üstün geldiğine karar verilmelidir. Ancak bu değerlendirme yapılırken veri sorumlusunun
+meşru menfaati ile kişisel verileri işleme amacı birbirine karıştırılmamalıdır. Bu iki terim
+birbiriyle ilişkili olsa da farklı anlama gelmektedir. Kişisel verileri işleme amacı, özel olarak
+verinin neden işlendiği ile alakalıdır.
+Önemle belirtmek gerekir ki, veri sorumlusunun meşru menfaat şartına dayanması
+durumu, maddede yer alan diğer haller uygulanamadığı takdirde başvurulacak son çare
+olmadığı gibi, her şeyi kapsamına dâhil edebilecek ve tüm kişisel verilerin işlenmesi
+faaliyetlerini hukuka uygun kılacak bir unsur da değildir.
+44
+​38) Özel Nitelikli Kişisel Verilerin İşlenme Şartları
+Nelerdir?
+Özel nitelikli kişisel veriler öğrenilmesi halinde
+ilgili kişiler hakkında ayrımcılık yapılmasına veya
+mağduriyete neden olabilecek nitelikteki verilerdir.
+Bu nedenle, diğer kişisel verilere göre çok daha sıkı
+şekilde korunmaları gerekmektedir.
+Kanun, bu verilere özel bir önem atfetmekte ve bu
+verilerle ilgili farklı bir düzenleme getirmektedir.
+Kanun bunları özel nitelikli kişisel veri ya da hassas
+veriler olarak kabul etmektedir. Özel nitelikli kişisel
+veriler ilgili kişinin açık rızası ile ya da Kanunda sayılan
+sınırlı hallerde işlenebilir.
+Kanun, özel nitelikli kişisel veriler arasında da bir
+ayrım yapmıştır. Buna göre sağlık ve cinsel hayata ilişkin kişisel veriler ile bunlar dışındaki
+özel nitelikli kişisel verilerin, açık rıza olmaksızın işlenebileceği haller, Kanunda farklı
+düzenlenmiştir.
+Sağlık ve cinsel hayat dışındaki özel nitelikli kişisel veriler, ancak kanunlarda öngörülen
+hâllerde ilgili kişinin açık rızası aranmaksızın işlenebilir.
+Sağlık ve cinsel hayata ilişkin kişisel veriler ise ancak kamu sağlığının korunması, koruyucu
+hekimlik, tıbbî teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetleri ile
+finansmanının planlanması ve yönetimi amacıyla, sır saklama yükümlülüğü altında
+bulunan kişiler veya yetkili kurum ve kuruluşlar tarafından ilgilinin açık rızası aranmaksızın
+işlenebilir.
+Belirtmek gerekir ki, bütün durumlarda, özel nitelikli kişisel verilerin işlenmesinde, ayrıca
+Kurul tarafından belirlenen yeterli önlemlerin alınması şarttır.
+45
+​39) Kişisel Verilerin Silinmesi Nedir?
+Kişisel verilerin silinmesi, kişisel verilerin ilgili kullanıcılar için hiçbir şekilde erişilemez ve
+tekrar kullanılamaz hale getirilmesi işlemidir. Kişisel Verilerin Silinmesi, Yok Edilmesi veya
+Anonim Hale Getirilmesi Yönetmeliğin 4. maddesinde ilgili kullanıcı; “verilerin teknik olarak
+depolanması, korunması ve yedeklenmesinden sorumlu olan kişi ya da birim hariç olmak
+üzere veri sorumlusu organizasyonu içerisinde veya veri sorumlusundan aldığı yetki ve
+talimat doğrultusunda kişisel verileri işleyen kişiler” olarak tanımlanmıştır.
+Buna göre ilgili kullanıcı, veri sorumlusu uhdesinde olmakla birlikte verilerin teknik olarak
+depolanması, korunması ve yedeklenmesinden sorumlu olan arşiv sorumlusu ve/veya veri
+tabanı yöneticisi gibi bir kişi ya da birim hariç olmak üzere veri sorumlusu organizasyonu
+içerisinde yer alan tüm çalışanlar ve birimler ya da veri sorumlusundan aldığı yetki ve
+talimat ile bu alanda hizmet veren üçüncü kişiler gibi veri işleyenleri tanımlamaktadır.
+Örneğin bir veri sorumlusu ile bilgi işlem altyapısı iş ve işlemlerini onun yetki ve talimatları
+çerçevesinde yerine getirmek üzere anlaşma yapmış olan ve bu konuda çalışan bir firma
+veri işleyen sayılacaktır. Bu durumda bu veri sorumlusunun veri tabanı yöneticiliği yapan
+birim ya da personeli bulunmuyorsa tüm çalışanları ilgili kullanıcı olacaktır. Ayrıca veri
+işleyen firmanın da veri tabanı yöneticisi hariç geri kalan tüm çalışanları da ilgili kullanıcı
+kavramı içerisinde yer alacaktır.
+Kişisel verilerin silinmesi ve
+yok edilmesi arasındaki fark da
+ilgili kullanıcı kavramına göre
+şekillenmiştir.
+46
+​40) Kişisel Verilerin Yok Edilmesi Nedir?
+Yok etme, kişisel verilerin hiç kimse tarafından hiçbir şekilde
+erişilemez, geri getirilemez ve tekrar kullanılamaz hale
+getirilmesi işlemidir. Kişisel verilerin yok edilmesi için, verilerin
+bulunduğu tüm kopyalar tespit edilir ve verilerin bulunduğu
+sistemlerin türüne göre de-manyetize etme, fiziksel yok etme,
+üzerine yazma gibi yöntemlerden bir ya da bir kaçı kullanılır.
+41) Kişisel Verilerin Anonim Hale Getirilmesi Nedir?
+Anonim hale getirme kişisel verilerin başka verilerle eşleştirilse dahi kimliği belirli veya
+belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hale getirilmesidir. Diğer bir ifade
+ile anonim hale getirme bir veri kümesindeki tüm doğrudan ve dolaylı tanımlayıcıların
+çıkarılarak veya değiştirilerek ilgili kişinin kimliğinin saptanabilmesinin engellenmesi
+ya da bir grup veya kalabalık içinde ayırt edilebilir olma özelliğini, bir gerçek kişi ile
+ilişkilendirilemeyecek şekilde kaybetmesidir. Bu kapsamda, veri üzerinden bir izleme
+yapılarak başka verilerle eşleştirme ve destekleme sonrasında verinin kime ait olduğu
+anlaşılabiliyorsa, bu verinin anonim hale getirildiği kabul edilemez.
+Anonim hale getirilen veri artık kişisel veri niteliklerine
+sahip olmayacağından, Kanun hükümleri kapsamında
+değerlendirilemeyecektir. Veri setleri anonim hale getirilme
+işlemlerine tabi tutuldukları ana kadar kişisel veri niteliklerine
+sahip olduklarından, bu veriler üzerinde gerçekleştirilecek
+her türlü işlem kişisel verilerin işlenmesi olarak kabul
+edilmektedir.
+47
+​42) Anonim Veri ve Anonim Hale Getirilmiş Veri
+Arasındaki Fark Nedir?
+Anonim veri başından beri belirli bir kişiyle ilişkilendirilmesi mümkün olmayan veriyi ifade
+ederken, anonim hale getirilmiş veri daha öncesinde bir kişiyle ilişkilendirilmiş ancak artık
+bağlantısı kalmamış veridir.
+43) Kişisel Veriler Hangi Şartlarda Silinmeli, Yok
+Edilmeli veya Anonim Hale Getirilmelidir?
+Kanunda yer alan kişisel verilerin işlenmesine ilişkin şartların tamamının ortadan kalkması
+durumunda kişisel veriler resen veya ilgili kişinin talebi üzerine veri sorumlusu tarafından
+silinir, yok edilir veya anonim hale getirilir.
+48
+​44) Kişisel Verilerin Yurtiçinde Aktarılması Kanunda
+Nasıl Düzenlenmiştir?
+Kanunda, kişisel verilerin ilgilinin açık rızası olmak şartıyla üçüncü kişilere aktarılabileceği
+öngörülmektedir. Bununla birlikte, Kanunun 5. ve 6. maddesindeki şartların sağlanması
+halinde yeterli önlemler alınarak kişisel verilerin açık rıza aranmaksızın yurtiçinde
+aktarılmasına da imkan tanınmıştır. Bu kapsamda;
+1. Kişisel veriler açısından Kanunun 5. maddesinin 2. fıkrasında sayılan işleme şartlarından
+en az birinin bulunması,
+2. Özel nitelikli kişisel veriler açısından ise yeterli önlemler alınmak kaydıyla Kanunun
+6. maddesinin 3. fıkrasında belirtilen şartlardan birinin bulunması
+halinde ilgili kişinin açık rızası aranmaksızın kişisel verilerinin aktarılması mümkündür.
+49
+​45) Kişisel Verilerin Yurt Dışına Aktarılması Kanunda
+Nasıl Düzenlenmiştir?
+Kanunun 9. maddesinin 1. fıkrasında kişisel verilerin ilgili kişinin açık rızası olmak şartıyla
+yurt dışına aktarılabileceği düzenlenmiştir. Bununla birlikte maddenin 2. fıkrasında,
+Kanunun 5. maddesinin 2. fıkrası kapsamındaki kişisel veriler ile 6. maddesinin 3. fıkrasında
+belirtilen özel nitelikli kişisel verilerin ilgili kişinin açık rızası olmaksızın işlenmesine izin
+veren şartlar esas alınmakta ve bu şartlardan birinin varlığı halinde, kişisel verilerin
+aktarılacağı yabancı ülkede yeterli korumanın bulunması kaydıyla, ilgili kişinin açık rızası
+aranmaksızın kişisel verilerin yurt dışına aktarılmasına imkân tanındığı belirtilmektedir.
+Buna göre;
+1. İlgili kişinin açık rızasının bulunması
+2. Kanunun 5. maddesinin 2. fıkrasında ve Kanunun 6. maddesinin 3. fıkrasında belirtilen
+şartlardan birinin bulunması ve verinin aktarılacağı ülkede;
+a) Yeterli korumanın bulunması,
+b) Yeterli korumanın bulunmaması durumunda Türkiye’deki ve ilgili yabancı
+ülkedeki veri sorumlularının yeterli bir korumayı yazılı olarak taahhüt etmeleri
+ve Kurulun izninin bulunması
+kaydıyla kişisel verilerin yurt dışına aktarılması mümkündür.
+50
+​Yeterli korumanın bulunduğu ülkeler Kurulca belirlenerek ilan edilecektir. Bu kapsamda,
+yabancı ülkede yeterli koruma bulunup bulunmadığına ve yeterli koruma bulunmaması
+halinde Türkiye’deki ve ilgili yabancı ülkedeki veri sorumlularının yeterli bir korumayı
+taahhüt etmeleri şartıyla söz konusu kişisel verilerin yurtdışına aktarılıp aktarılmayacağına
+Kurul tarafından karar verilecektir.
+İlave olarak, Kanunun 9. maddesinin 5. fıkrasında kişisel verilerin, uluslararası sözleşme
+hükümleri saklı kalmak üzere, Türkiye’nin veya ilgili kişinin menfaatinin ciddi bir şekilde
+zarar göreceği durumlarda, ancak ilgili kamu kurum ve kuruluşunun görüşü alınarak
+Kurulun izniyle yurt dışına aktarılabileceği hükme bağlanmıştır.
+51
+​46) Yabancı Ülkede Yeterli Koruma Bulunup
+Bulunmadığının Belirlenmesinde ve Yeterli
+Korumanın Bulunmaması Halinde Verilerin
+Yurtdışına Aktarılmasına İzin Verirken Kurul Hangi
+Kriterleri Dikkate Alacaktır?
+Kişisel verilerin yurtdışına aktarılmasında yeterli
+korumanın bulunup bulunmadığına, yeterli
+korumanın bulunmaması durumunda Türkiye’deki
+ve ilgili yabancı ülkedeki veri sorumlularının yeterli
+bir korumayı yazılı olarak taahhüt etmeleri kaydıyla
+kişisel verilerin yurtdışına aktarılmasına Kurul;
+a. Türkiye’nin taraf olduğu uluslararası
+sözleşmeleri,
+b. Kişisel veri talep eden ülke ile Türkiye arasında
+veri aktarımına ilişkin karşılıklılık durumunu,
+c. Her somut kişisel veri aktarımına ilişkin olarak, kişisel verinin niteliği ile işlenme amaç
+ve süresini,
+ç. Kişisel verinin aktarılacağı ülkenin konuyla ilgili mevzuatı ve uygulamasını,
+d. Kişisel verinin aktarılacağı ülkede bulunan veri sorumlusu tarafından taahhüt edilen
+önlemleri
+değerlendirmek ve ihtiyaç duyması hâlinde ilgili kurum ve kuruluşların görüşünü de
+dikkate almak suretiyle karar verir.
+52
+​47) Veri Sorumlusunun Aydınlatma Yükümlülüğünün
+Kapsamı Nedir?
+Veri sorumlusu veya yetkilendirdiği kişi, aydınlatma yükümlülüğü
+kapsamında veri sorumlusunun ve varsa temsilcisinin kimliği,
+veri işleme amacı, işlenen verilerin kimlere ve hangi amaçla
+aktarılabileceği, veri toplamanın yöntemi ve hukuki sebebi ile
+Kanunun 11. maddesinde sayılan diğer hakları konusunda ilgili
+kişiyi bilgilendirmekle yükümlüdür. Aydınlatma yükümlülüğünün
+yerine getirilmesi ilgili kişinin onayına tabi değildir.
+Kişisel veri işleme faaliyeti kapsamında kişisel verinin elde edilmesi sırasında veri
+sorumlusu tarafından ilgili kişilerin aydınlatılması gerekmektedir. Bununla birlikte
+aydınlatma yükümlülüğü yerine getirilirken ilgili kişiye verilecek bilgiler, eğer Veri
+Sorumluları Siciline kayıt yükümlülüğü varsa, Veri Sorumluları Siciline açıklanan bilgilerle
+uyumlu olmalıdır. Kayıt yükümlüğü yoksa Kanunun 10. ve 11. maddeleri kapsamında
+aydınlatma yükümlülüğü yerine getirilmelidir.
+Veri işleme faaliyetinin ilgili kişinin açık rızasına bağlı olmadığı ve faaliyetin Kanundaki
+başka şartlar kapsamında yürütüldüğü durumlarda da veri sorumlusunun ve yetkilendirdiği
+kişinin ilgili kişiyi aydınlatma yükümlülüğü devam etmektedir.
+48) Aydınlatma Yükümlülüğünün Yerine
+Getirilmesinde Şekil Şartı Var mıdır?
+Aydınlatma yükümlülüğünün yerine getirilmesi konusunda bir şekil şartı bulunmamaktadır.
+Tek taraflı bir beyanla aydınlatma yükümlülüğü yerine getirilebilir. Aydınlatma
+yükümlülüğünün yerine getirildiğinin ispatı ise veri sorumlusuna aittir.
+53
+​49) İlgili Kişinin Hakları Nelerdir?
+Kanunun 11. maddesi çerçevesinde herkes, veri sorumlusuna başvurarak kendisiyle
+ilgili;
+a. Kişisel verilerinin işlenip işlenmediğini öğrenme,
+b. Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+c. Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını
+öğrenme,
+ç. Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+d. Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini
+isteme,
+e. Kanunun 7. maddesinde öngörülen şartlar çerçevesinde kişisel verilerin silinmesini
+veya yok edilmesini isteme,
+f. Maddenin (d) ve (e) bentlerinde belirtilen düzeltme, silme ve yok etme talepleri
+doğrultusunda yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere
+bildirilmesini isteme,
+g. İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle
+kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+ğ. Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde
+zararın giderilmesini talep etme
+haklarına sahiptir.
+54
+​50) Veri Sorumlusunun Veri Güvenliğine İlişkin
+Yükümlülükleri Nelerdir?
+Veri sorumlusu, kişisel verilerin hukuka
+aykırı olarak işlenmesini ve verilere hukuka
+aykırı olarak erişilmesini önlemek ile verilerin
+muhafazasını sağlamak için uygun güvenlik
+düzeyini temin etmeye yönelik gerekli her türlü
+teknik ve idari tedbirleri almakla yükümlüdür.
+Ayrıca, veri sorumlusu, kurum ve kuruluşunda
+Kanun hükümlerinin uygulanmasını sağlamak
+amacıyla gerekli denetimleri yapmak ve
+yaptırmak zorundadır.
+Veri sorumluları öğrendikleri kişisel verileri
+Kanun hükümlerine aykırı olarak başkalarına
+açıklayamaz ve işleme amacı dışında kullanamazlar. Bu yükümlülükleri görevden
+ayrılmalarından sonra da devam eder. Öte yandan, veri sorumluları için düzenlenen sır
+saklama yükümlülüğü Kanunda ile veri işleyenler için de getirilmiştir.
+Veri sorumlusunun bir diğer yükümlülüğü ise, işlenen kişisel verilerin kanuni olmayan
+yollarla başkaları tarafından elde edilmesi halinde de veri sorumlusunun bu durumu
+Kurula bildirme yükümlülüğüdür. Kurul, gerekmesi halinde bu durumu, kendi internet
+sitesinde ya da uygun göreceği başka bir yolla ilan eder.
+55
+​51) Kişisel Verilerin Veri Sorumlusu Adına Başka
+Bir Gerçek veya Tüzel Kişi Tarafından İşlenmesi
+Durumunda Veri Güvenliğine İlişkin Olarak Veri
+Sorumlusunun Sorumluluğu Nasıl Düzenlenmiştir?
+Kişisel verilerin kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi
+durumunda, veri sorumlusu kişisel verilerin hukuka aykırı olarak işlenmesinin, verilere
+hukuka aykırı olarak erişilmesinin önlemesini ve verilerin muhafazasını sağlamak için
+uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirlerin
+alınması hususunda bu kişilerle birlikte müştereken sorumludur. Dolayısıyla veri işleyenler
+de veri güvenliğinin sağlanması için tedbir alma yükümlülüğü altındadır.
+56
+​52) Kişisel Verilerin Korunması Kapsamındaki
+Başvurular Kime Yapılır?
+Kanunun 13. maddesinde, ilgili kişinin Kanunun uygulanması ile ilgili taleplerine ilişkin
+veri sorumlusuna başvuru yolu düzenlenmiştir. Buna göre, ilgili kişilerin Kanunun
+uygulanmasıyla ilgili taleplerini, öncelikle veri sorumlusuna iletmeleri zorunludur.
+57
+​53) Veri Sorumlusuna Başvuru Yolu İçin Herhangi Bir
+Şart Bulunmakta mıdır?
+Kanunda ilgili kişilerin, taleplerini veri
+sorumlusuna yazılı olarak ya da uygulamada
+oluşacak ihtiyaca göre Kurulun belirlediği
+diğer yöntemlerle iletebilmelerine imkân
+sağlanmıştır.
+54) Veri Sorumlusuna Başvuru İçin Herhangi Bir
+Ücret Öngörülmüş müdür?
+Veri sorumlusu başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede ve
+en geç otuz gün içinde ücretsiz olarak sonuçlandırır. Ancak, işlemin ayrıca bir maliyeti
+gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir. Buna göre, ilgili kişinin
+başvurusuna yazılı olarak cevap verilecekse, on sayfaya kadar başvuru ücreti alınmaz.
+On sayfanın üzerindeki her sayfa için 1 Türk Lirası başvuru ücreti alınabilir. Öte yandan,
+başvurunun cevabının bir kayıt ortamında verilmesi halinde veri sorumlusu tarafından talep
+edilebilecek ücret kayıt ortamının maliyetini geçemez. Başvurunun veri sorumlusunun
+hatasından kaynaklanması hâlinde ise alınan ücret ilgiliye iade edilir.
+58
+​55) Veri Sorumlusu İlgili Kişinin Talebini Hangi Süre
+İçinde Yerine Getirir?
+Veri sorumlusunun ilgili kişinin talebini, talebin
+niteliğine göre en kısa sürede ve en geç otuz
+gün içinde kabul veya gerekçesini açıklayarak
+reddetmesi, ayrıca cevabı ilgili kişiye bildirmesi
+gerekmektedir.
+56) Veri Sorumlusu İlgili Kişinin Talebi Üzerine Neler
+Yapabilir?
+Veri sorumlusu talebi kabul eder veya
+gerekçesini açıklayarak reddeder. Başvuruda
+yer alan talebin kabul edilmesi hâlinde, veri
+sorumlusunca gereği yerine getirilir.
+59
+​57) Veri Sorumlusu Cevabını İlgili Kişiye Nasıl
+Bildirir?
+Veri sorumlusu cevabını ilgili kişiye
+yazılı veya elektronik ortamda bildirir.
+58) Kurula Şikâyet Hangi Süre İçinde Yapılmalıdır?
+İlgili kişi, veri sorumlusunun cevabını öğrendiği tarihten itibaren otuz ve her halde veri
+sorumlusuna başvuru tarihinden itibaren altmış gün içinde Kurula şikâyette bulunabilir.
+60
+​59) Doğrudan Kurula Şikâyet Yoluna Gidilebilir mi?
+Veri sorumlusuna yapılan başvurunun reddedilmesi, verilen cevabın yetersiz bulunması
+veya süresinde başvuruya cevap verilmemesi hallerinde ilgili kişi, Kurula şikâyette
+bulunabilir. Kanun, kişisel verilerin korunması kapsamındaki başvurular için kademeli bir
+başvuru usulü öngörmüştür. Bu kapsamda, ilgili kişilerin Kanunun uygulanması ile ilgili
+taleplerini öncelikle veri sorunlusuna iletmeleri zorunludur. Bu yol tüketilmeden Kurula
+şikâyet yoluna gidilemez.
+60) Kurula Şikâyet Yoluna Gitmenin Bir Ön Şartı
+Var mıdır?
+Kişisel verilerin korunması ile ilgili taleplerde öncelikle veri sorumlusuna başvuru yapılması
+zorunlu olup, bu yol tüketilmeden şikâyet yoluna gidilemez. Böylece uyuşmazlıkların belirli
+bir kısmının veri sorumluları tarafından giderilmesi amaçlanmaktadır. Dolayısıyla başvuru
+yoluna gitmek zorunlu, şikâyet yoluna gitmek ise ihtiyaridir.
+61
+​61) Kurula Şikâyet Yoluna Gidilirken Aynı Zamanda
+Yargı Yoluna Gidilebilir mi?
+Başvuru yoluna gitmenin zorunlu, şikâyet yoluna gitmenin
+ise ihtiyari olması sebebiyle, başvurusu zımnen veya
+açıkça reddedilen ilgili kişinin bir yandan Kurula şikâyette
+bulunabilmesi, aynı zamanda veri sorumlusuna karşı
+doğrudan yargı yoluna gidebilmesi mümkündür.
+62) İlgili Kişinin Tazminat Davası Açma Hakkı
+Var mıdır?
+Kişilik hakları ihlal edilenlerin, genel hükümlere göre
+tazminat hakları vardır. Bu kapsamda, ilgili kişiler
+yargı yoluna gidebilirler.
+62
+​63) Kurulun Resen İnceleme Yetkisi Var mıdır?
+Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi
+halinde resen, görev alanına giren konularda gerekli
+incelemeyi yapabilir. Bu inceleme şikâyete ya da resen
+öğrenilen şikâyet konusuna münhasır olacaktır.
+64) Kurula Şikâyet İçin Herhangi Bir Şart
+Öngörülmüş müdür?
+İhbar ve şikayetlerin, işleme konulabilmesi için 3071
+sayılı Dilekçe Hakkının Kullanılmasına Dair Kanunun 6.
+maddesinde belirtilen hükümlere uygun olarak Kuruma
+sunulması gerekmektedir. Bu şartları taşımayan ihbar
+ve şikâyetler incelemeye alınmamaktadır.
+İlgili kişilerin haklarını kullanma konusunda veri
+sorumlusuna başvuru yapmadan şikâyette bulunmaları
+mümkün değildir. Bu nedenle Kurula şikâyette
+bulunmanın ön şartlarından birisi de veri sorumlusuna
+başvuru yapmak olarak kabul edilmektedir.
+63
+​65) Veri sorumlusunun Hangi Süre İçerisinde Kurula
+Cevap Vermesi Gerekir?
+Veri sorumlusu talep edilen bilgi ve belgeleri
+Kurula onbeş gün içinde göndermek
+zorundadır.
+66) Kurul Her Türlü Belgeyi Veri Sorumlusundan
+İsteyebilir mi?
+Veri sorumluları, devlet sırrı niteliğindeki bilgi ve
+belgeler hariç, talep edilen bilgi ve belgeleri Kurula
+göndermek veya gerektiğinde yerinde inceleme
+yapılmasına imkân sağlamak zorundadır.
+64
+​67) Kurul Hangi Süre İçinde İlgili Kişiye Cevap
+Vermelidir?
+Kurulun, altmış günlük süre içinde ilgili
+kişiye bir cevap vermesi öngörülmüştür.
+68) Kurul Öngörülen Süre İçinde İlgili Kişiye Cevap
+Vermezse Ne Olur?
+Kanunda Kurulun, şikâyet üzerine yapacağı inceleme sonunda şikâyet tarihinden itibaren
+altmış gün içinde ilgiliye bir cevap verilmezse söz konusu talebin reddedilmiş sayılacağı
+hükme bağlanmıştır.
+65
+​69) Kurulun İhlale İlişkin Kararları Kim Tarafından
+Hangi Süre İçinde Yerine Getirilir?
+Şikâyet üzerine veya resen yapılan inceleme sonucunda, ihlalin varlığının anlaşılması
+hâlinde Kurul, tespit ettiği hukuka aykırılıkların veri sorumlusu tarafından giderilmesine
+karar vererek ilgililere tebliğ eder. Bu karar, tebliğden itibaren gecikmeksizin ve en geç
+otuz gün içinde yerine getirilir.
+70) Kurul İlke Kararı Alabilir mi?
+Şikâyet üzerine veya resen yapılan inceleme sonucunda,
+ihlalin yaygın olduğunun tespit edilmesi hâlinde, ilgili
+kurum ve kuruluşların da görüşlerini alarak Kurul bu
+konuda ilke kararı alır ve yayımlar.
+66
+​71) Kurulun Veri İşlenmesini Durdurma Yetkisi
+Var mıdır?
+Kanunda telafisi güç veya imkânsız zararların
+doğması ve açıkça hukuka aykırılık olması hâlinde,
+Kurula veri işlenmesinin veya verinin yurt dışına
+aktarılmasının durdurulmasına karar verme
+yetkisi tanınmıştır.
+72) Veri Sorumluları Sicili Nedir?
+Veri Sorumluları Sicili, veri sorumlularının
+kaydedildiği, Kişisel Verileri Koruma
+Kurulunun
+gözetiminde
+Başkanlık
+tarafından kamuya açık olarak tutulan
+sicildir.
+67
+​73) Veri Sorumluları Siciline Kayıt Ne Zaman Başlar?
+Kanunun Geçici 1. maddesinde, Kanunun
+yürürlüğe
+girmesi
+akabinde
+veri
+sorumlularınca yerine getirilecek hususlar
+belirlenmiştir.
+Anılan maddenin 2. fıkrasında, “Veri
+sorumluları, Kurul tarafından belirlenen
+ve ilan edilen süre içinde Veri Sorumluları
+Siciline kayıt yaptırmak zorundadır.” hükmü
+yer almaktadır. Bu kapsamda öncelikle
+Kişisel Verileri Koruma Kurulunca kayıt yükümlülüğü için bir başlangıç tarihinin belirlenmesi
+gerekmektedir. Söz konusu tarihin Kurul tarafından belirlenerek ilan edilmesiyle Veri
+Sorumluları Siciline kayıt yükümlülüğü başlayacaktır.
+Veri Sorumluları Siciline kayıt yükümlülüğü olan veri sorumluları, kişisel veri işleme
+faaliyetine başlamadan önce Sicile kayıt olmak zorundadır.
+Öte yandan, anılan maddenin 5. fıkrasında “Bu Kanunun yayımı tarihinden itibaren bir yıl
+içinde, kamu kurum ve kuruluşlarında bu Kanunun uygulanmasıyla ilgili koordinasyonu
+sağlamak üzere üst düzey bir yönetici belirlenerek Başkanlığa bildirilir.” hükmü yer
+almaktadır. Buna göre, veri sorumlusunun bir kamu kurumu olması halinde, Kanunun
+uygulanmasıyla ilgili iletişim sağlamak üzere üst düzey bir yönetici belirlenmesi Kuruma
+bildirilmesi gerekmektedir.
+68
+​74) Veri Sorumluları Siciline Kimler Kayıt Olmalıdır?
+Kişisel verileri işleyen gerçek ve tüzel kişiler, veri işlemeye başlamadan önce Veri
+Sorumluları Siciline kaydolmak zorundadır. Ancak, işlenen kişisel verinin niteliği, sayısı,
+veri işlemenin kanundan kaynaklanması veya üçüncü kişilere aktarılma durumu gibi
+Kurulca belirlenecek objektif kriterler göz önüne alınmak suretiyle, Kurul tarafından, Veri
+Sorumluları Siciline kayıt zorunluluğuna istisna getirilebilir. Ayrıca Kanunun 28. maddede
+kapsamındaki hallerde de veri sorumlularının sicile kayıt yükümlülüğü bulunmamaktadır.
+75) Türkiye’de Yerleşik Olmayan Veri Sorumluları,
+Sicile Nasıl Kayıt Yaptırır?
+Türkiye’de yerleşik olmayan veri sorumluları, kişisel veri işlemeye başlamadan önce veri
+sorumlusu temsilcisi marifetiyle Veri Sorumluları Siciline kaydolmak zorundadır.
+Veri sorumlusu temsilcisi, Türkiye’de yerleşik olmayan veri sorumlularını Veri Sorumluları
+Sicili Hakkında Yönetmelikte belirtilen konularda asgari temsile yetkili Türkiye’de yerleşik
+tüzel kişi ya da Türkiye Cumhuriyeti vatandaşı gerçek kişiyi ifade etmektedir. Kanunun
+uygulanmasıyla ilgili olarak Kurum tarafından veri sorumlusuyla kurulacak her türlü
+iletişim; Türkiye’de yerleşik olmayan veri sorumluları için, Sicile bildirilen veri sorumlusu
+temsilcisi vasıtasıyla gerçekleştirilir.
+69
+​76) Veri Sorumluları Siciline Kayıt Olma
+Yükümlülüğünün İstisnası Var mıdır?
+Kanunun 28 inci maddesinde sayılan hallere ilave olarak, işlenen verinin niteliği, sayısı,
+veri işlemenin kanundan kaynaklanması veya üçüncü kişilere aktarılma durumu gibi
+Kurul tarafından belirlenecek objektif kriterler göz önüne alınmak suretiyle, Sicile kayıt
+zorunluluğuna Kurul tarafından istisna getirilebilir.
+77) Veri Sorumluları Siciline Bildirim Hangi
+Unsurları İçerir?
+Sicile kayıt başvurusu bir bildirimle yapılır ve bu bildirim şu hususları
+içerir:
+a. Veri sorumlusu ve varsa temsilcisinin kimlik ve adres bilgileri,
+b. Kişisel verilerin hangi amaçla işleneceği,
+c. Veri konusu kişi grubu ve grupları ile bu kişilere ait veri kategorileri
+hakkındaki açıklamalar,
+ç. Kişisel verilerin aktarılabileceği alıcı veya alıcı grupları,
+d. Yabancı ülkelere aktarımı öngörülen kişisel veriler,
+e. Kişisel veri güvenliğine ilişkin alınan tedbirler,
+f. Kişisel verilerin işlendikleri amaç için gerekli olan azami süre
+70
+​78) Veri Sorumluları Sicilinin Kamuya Açık Olması
+Ne Demektir?
+Arama Motoru
+6698 Sayılı Kanunun 16 inci maddesinde
+Veri Sorumluları Sicilinin kamuya açık
+olarak tutulması öngörülmüştür. Buna
+göre, VERBİS’e veri sorumlularınca
+girilen bilgiler kurum internet sayfamız
+olan
+www.kvkk.gov.tr
+adresi
+üzerinden paylaşılacaktır.
+Sicil kamuya açık olarak tutulmakla
+birlikte Kişisel Verileri Koruma Kurumunun da çeşitli teknik ve idari tedbirleri alması
+gerektiğinden, ilgili kişilerce çeşitli doğrulama yöntemleri kullanılmak suretiyle söz
+konusu bilgilere erişim sağlanabilecektir 6698 sayılı Kanunun Geçici 1 inci maddesinin
+5 inci fıkrasına istinaden; kamu kurum ve kuruluşlarında bu Kanunun uygulanmasıyla
+ilgili koordinasyonu sağlamak üzere üst düzey bir yöneticinin belirlenerek Kişisel Verileri
+Koruma Kurumuna bildirilmesi gerekmektedir.
+Veri Sorumluları Sicili hiçbir şekilde kişisel veri barındırmayacaktır. VERBİS sistemine, ilgili
+kişilerin kişisel verileri değil, aksine başlıklar halinde kategorik bazda hangi tür kişisel
+verilerin hangi amaçlarla işlendiği, ne kadar süreyle muhafaza edileceği ve kategorik bazda
+nerelere aktarılabileceği gibi bilgiler girilecektir. Bu nedenle, VERBİS kesinlikle kişisel veri
+içermeyecek ve dolayısıyla da kişisel verilerin kamuya ifşa edilmesi gibi bir durum da söz
+konusu olmayacaktır.
+Kanunun 16 ncı maddesi gereği veri sorumlusu veya veri sorumlusu temsilcisinin adı
+soyadı ve adresi ile irtibat kişisinin adı soyadı ve adresi bilgisi ilgili kişilerce gerektiğinde
+başvuru yapılabilmesi için yayımlanmak zorunda olduğundan VERBİS’te bu bilgiler yer
+alacaktır.
+71
+​79) Kişisel Verilere İlişkin Suçlar ve Cezai
+Yaptırımlar Konusunda Kişisel Verilerin Korunması
+Kanunu Nasıl Bir Düzenleme Öngörmektedir?
+Kişisel verilere ilişkin suçlar ve cezai yaptırımlar 5237 sayılı
+Türk Ceza Kanununun ilgili hükümlerine (md. 135-140) atıf
+yapılmak suretiyle düzenlenmiştir. Ayrıca, kişisel verileri yok
+etmeyenlerin ise Türk Ceza Kanununun 138. maddesine
+göre cezalandırılacağı hüküm altına alınmıştır.
+Türk Ceza
+Kanunu
+80) Kişisel Verilerin Koruması Kanununda Hangi
+Konulara İlişkin İdari Yaptırımlar Öngörülmüştür?
+Kanunda öngörülen yükümlülüklere aykırı davranılması halinde
+uygulanacak idari yaptırımlar 18. maddede düzenlenmiştir. Bu
+kapsamda; aydınlatma ve veri güvenliğini sağlama, Kurul kararlarını
+yerine getirme ile Sicile kayıt ve bildirim yükümlülüklerine aykırı
+davranılması kabahat olarak öngörülerek idari para cezası
+yaptırımına bağlanmıştır. İdari yaptırımlara Kurul tarafından karar
+verilecek olup, verilen yaptırım kararlarına karşı yargı yolu açıktır.
+72
+​81) Kurul Kimler Hakkında İdari Yaptırım Kararı
+Verebilir?
+İdari para cezaları veri sorumlusu olan gerçek kişiler ile özel hukuk tüzel kişileri hakkında
+uygulanır. Kabahat kapsamında sayılan eylemlerin kamu kurum ve kuruluşları ile kamu
+kurumu niteliğindeki meslek kuruluşları bünyesinde işlenmesi halinde, Kurulun yapacağı
+bildirim üzerine, ilgili kamu kurum ve kuruluşunda görev yapan memurlar ve diğer kamu
+görevlileri ile kamu kurumu niteliğindeki meslek kuruluşlarında görev yapanlar hakkında
+disiplin hükümlerine göre işlem yapılır ve sonucu Kurula bildirilir.
+82) Kişisel Verileri Koruma Kurumunun Hukuki
+Statüsü Nedir?
+Kişisel Verileri Koruma Kurumu,
+idari ve mali özerkliğe sahip, kamu
+tüzel kişiliğini haizdir.
+73
+​83) Kişisel Verileri Koruma Kurumu ve
+Kişisel Verileri Koruma Kurulu Kanunda Nasıl
+Düzenlenmiştir?
+Kanunda Kurumun Başbakanlıkla ilişkili olduğu ve merkezinin Ankara olduğu hüküm
+altına alınmıştır. Kurum, Kurul ve Başkanlıktan oluşmaktadır. Kurumun karar organı ise
+Kuruldur.
+84) Kurumun Görevleri Nelerdir?
+Kişisel Verileri Koruma Kurumunun başlıca görevleri şunlardır:
+a.Görev alanı itibarıyla, uygulamaları ve mevzuattaki gelişmeleri takip etmek, değerlendirme
+ve önerilerde bulunmak, araştırma ve incelemeler yapmak veya yaptırmak,
+b.İhtiyaç duyulması hâlinde, görev alanına giren konularda kamu kurum ve kuruluşları,
+sivil toplum kuruluşları, meslek örgütleri veya üniversitelerle iş birliği yapmak,
+c.Kişisel verilerle ilgili uluslararası gelişmeleri izlemek ve değerlendirmek, görev alanına
+giren konularda uluslararası kuruluşlarla iş birliği yapmak, toplantılara katılmak,
+ç.Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan Haklarını
+İnceleme Komisyonuna ve Başbakanlığa sunmak,
+d.Kanunlarla verilen diğer görevleri yerine getirmek
+74
+​85) Kurul Kaç Kişiden Oluşur ve Kurul Üyeleri
+Nasıl Seçilir?
+Kurul dokuz üyeden oluşur, beş
+üye Türkiye Büyük Millet Meclisi,
+iki üye Cumhurbaşkanı, iki üye ise
+Bakanlar Kurulu tarafından seçilir.
+86) Kurul Üyeliğine Seçilebilmek İçin Hangi Şartlar
+Aranır?
+Kurula üye olabilmek için; Kurumun görev alanındaki konularda bilgi ve deneyim sahibi
+olmak, Devlet memuru olmaya ilişkin genel şartları taşımak, herhangi bir siyasi parti
+üyesi olmamak, en az dört yıllık lisans düzeyinde yükseköğrenim görmüş olmak ve kamu
+kurum ve kuruluşlarında, uluslararası kuruluşlarda, sivil toplum kuruluşlarında veya
+kamu kurumu niteliğindeki meslek kuruluşlarında ya da özel sektörde toplamda en az on
+yıl çalışmış olmak gerekmektedir.
+75
+​87) Kurul Başkanı ve İkinci Başkan Nasıl Seçilir?
+Kurul, üyeleri arasından Başkan ve İkinci Başkanı seçer.
+Kurulun Başkanı, Kurumun da başkanıdır.
+88) Kurul Üyelerinin Görev Süresi Kaç Yıldır?
+Kurul üyelerinin görev süresi dört yıldır. Süresi biten
+üye yeniden seçilebilir. Görev süresi dolmadan
+herhangi bir sebeple görevi sona eren üyenin
+yerine seçilen kişi, yerine seçildiği üyenin kalan
+süresini tamamlar.
+76
+​89) Kurul Üyeleri Nasıl ve Nerede Yemin Ederler?
+Kurul Üyeleri, Yargıtay Birinci
+Başkanlık Kurulu huzurunda;
+“Görevimi Anayasaya ve kanunlara
+uygun olarak, tam bir tarafsızlık,
+dürüstlük, hakkaniyet ve adalet
+anlayışı içinde yerine getireceğime,
+namusum ve şerefim üzerine
+yemin ederim.” şeklinde yemin
+ederler.
+90) Kurul Üyeleri Başka Bir Görev Yapabilirler mi?
+Kurul üyeleri özel bir kanuna dayanmadıkça,
+Kuruldaki resmî görevlerinin yürütülmesi
+dışında resmî veya özel hiçbir görev alamaz,
+dernek, vakıf, kooperatif ve benzeri yerlerde
+yöneticilik yapamaz, ticaretle uğraşamaz,
+serbest meslek faaliyetinde bulunamaz,
+hakemlik ve bilirkişilik yapamazlar. Ancak,
+Kurul üyeleri, asli görevlerini aksatmayacak
+şekilde bilimsel amaçlı yayın yapabilir, ders
+ve konferans verebilir ve bunlardan doğacak
+telif hakları ile ders ve konferans ücretlerini
+alabilirler.
+77
+​91) Kurul Üyelerinin Görevine Son Verilebilir mi?
+Kurul üyelerinin süreleri dolmadan herhangi bir nedenle görevlerine son verilemez.
+Kurul üyelerinin; seçilmek için gereken şartları taşımadıklarının sonradan anlaşılması,
+görevleriyle ilgili olarak işledikleri suçlardan dolayı haklarında verilen mahkûmiyet
+kararının kesinleşmesi, görevlerini yerine getiremeyeceklerinin sağlık kurulu raporuyla
+kesin olarak tespit edilmesi, görevlerine izinsiz, mazeretsiz ve kesintisiz olarak on beş
+gün ya da bir yılda toplam otuz gün süreyle devam etmediklerinin tespit edilmesi ve bir
+ay içinde izinsiz ve mazeretsiz olarak toplam üç, bir yıl içinde toplam on Kurul toplantısına
+katılmadıklarının tespit edilmesi hâllerinde Kurul kararıyla üyelikleri sona erer.
+78
+​92) Kurulun Görevleri Nelerdir?
+Kurulun görev ve yetkileri şunlardır:
+1. Kişisel verilerin, temel hak ve özgürlüklere uygun şekilde işlenmesini sağlamak,
+2. Kişisel verilerle ilgili haklarının ihlal edildiğini ileri sürenlerin şikâyetlerini karara
+bağlamak,
+3. Şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda resen görev alanına giren
+konularda kişisel verilerin kanunlara uygun olarak işlenip işlenmediğini incelemek ve
+gerektiğinde bu konuda geçici önlemler almak,
+4. Özel nitelikli kişisel verilerin işlenmesi için aranan yeterli önlemleri belirlemek,
+5. Veri Sorumluları Sicilinin tutulmasını sağlamak,
+6. Kurulun görev alanı ile Kurumun işleyişine ilişkin konularda gerekli düzenleyici işlemleri
+yapmak,
+7. Veri güvenliğine ilişkin yükümlülükleri belirlemek amacıyla düzenleyici işlem yapmak,
+8. Veri sorumlusunun ve temsilcisinin görev, yetki ve sorumluluklarına ilişkin düzenleyici
+işlem yapmak,
+9. Bu Kanunda öngörülen idari yaptırımlara karar vermek,
+10.Diğer kurum ve kuruluşlarca hazırlanan ve kişisel verilere ilişkin hüküm içeren mevzuat
+taslakları hakkında görüş bildirmek,
+11.Kurumun; stratejik planını karara bağlamak, amaç ve hedeflerini, hizmet kalite
+standartlarını ve performans kriterlerini belirlemek,
+12.Kurumun stratejik planı ile amaç ve hedeflerine uygun olarak hazırlanan bütçe teklifini
+görüşmek ve karara bağlamak,
+13.Kurumun performansı, mali durumu, yıllık faaliyetleri ve ihtiyaç duyulan konular
+hakkında hazırlanan rapor taslaklarını onaylamak ve yayımlamak,
+14.Taşınmaz alımı, satımı ve kiralanması konularındaki önerileri görüşüp karara bağlamak,
+15.Kanunlarla verilen diğer görevleri yerine getirmek,
+16.Kurulun Çalışma Usul ve Esasları Hakkında Yönetmelikte verilen diğer görevleri yerine
+getirmek.
+79
+​93) Kurulun Çalışma Esasları Nasıldır?
+Kurulun toplantı günlerini ve gündemini Başkan belirler. Başkan gereken hâllerde Kurulu
+olağanüstü toplantıya çağırabilir. Kurul, başkan dâhil en az altı üye ile toplanır ve üye
+tam sayısının salt çoğunluğuyla karar alır. Kurul üyeleri çekimser oy kullanamaz. Kurul
+üyelerinin kendilerini, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarını,
+evlatlıklarını ve aralarındaki evlilik bağı kalkmış olsa bile eşlerini ilgilendiren konularla ilgili
+toplantı ve oylamaya katılmaları yasaklanmıştır. Kurulda görüşülen işler tutanağa bağlanır.
+Kararlar ve varsa karşı oy gerekçeleri karar tarihinden itibaren en geç on beş gün içinde
+yazılır. Kurul, gerekli gördüğü kararları kamuoyuna duyurur. Aksi kararlaştırılmadıkça,
+Kurul toplantılarındaki görüşmeler gizlidir.
+94) Kurul Üyelerinin Sır Saklama Yükümlülüğü
+Var mıdır?
+Kurul üyeleri çalışmaları sırasında ilgililere ve üçüncü
+kişilere ait öğrendikleri sırları bu konuda kanunen
+yetkili kılınan mercilerden başkasına açıklayamazlar
+ve kendi yararlarına kullanamazlar. Bu yükümlülük
+görevden ayrılmalarından sonra da devam eder.
+80
+​95) Başkanın Statüsü Nasıldır?
+Başkan, Kurul ve Kurumun başkanı sıfatıyla Kurumun en üst amiri olup Kurum hizmetlerini
+mevzuata, Kurumun amaç ve politikalarına, stratejik planına, performans ölçütlerine ve
+hizmet kalite standartlarına uygun olarak düzenler, yürütür ve hizmet birimleri arasında
+koordinasyonu sağlar. Başkan, Kurumun genel yönetim ve temsilinden sorumludur.
+Bu sorumluluk, Kurum çalışmalarının düzenlenmesi, yürütülmesi, denetlenmesi,
+değerlendirilmesi ve gerektiğinde kamuoyuna duyurulması görev ve yetkilerini kapsar.
+96) Başkanın Görevleri Nelerdir?
+Başkanın görevleri şunlardır:
+1. Kurul toplantılarını idare etmek,
+2. Kurul kararlarının tebliğini ve Kurulca gerekli görülenlerin kamuoyuna duyurulmasını
+sağlamak ve uygulanmalarını izlemek,
+3. Başkan Yardımcısını, daire başkanlarını ve Kurum personelini atamak,
+4. Hizmet birimlerinden gelen önerilere son şeklini vererek Kurula sunmak,
+5. Stratejik planın uygulanmasını sağlamak, hizmet kalite standartları doğrultusunda
+insan kaynakları ve çalışma politikalarını oluşturmak,
+6. Belirlenen stratejilere, yıllık amaç ve hedeflere uygun olarak Kurumun yıllık bütçesi ile
+mali tablolarını hazırlamak,
+7. Kurul ve hizmet birimlerinin uyumlu, verimli, disiplinli ve düzenli bir biçimde çalışması
+amacıyla koordinasyonu sağlamak,
+8. Kurumun diğer kuruluşlarla ilişkilerini yürütmek,
+9. Kurum Başkanı adına imzaya yetkili personelin görev ve yetki alanını belirlemek,
+10. Kurumun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
+81
+​97) Başkanlığın Oluşumu Nasıldır?
+Başkanlık, Kurumun ve Kurulun idari ve mali işleri ile sekretarya hizmetlerini yerine
+getirir. Başkanlık; Başkan Yardımcısı ve Daire Başkanlıkları şeklinde teşkilatlanan hizmet
+birimlerinden oluşmaktadır. Kanunda Başkan Yardımcısı ve Daire Başkanlarının nitelikleri
+ve atanma usulü ile Başkanlığın görevleri ayrıntılı olarak düzenlenmiştir. Hizmet birimleri
+ile bu birimlerin çalışma usul ve esasları Bakanlar Kurulu kararı ile yürürlüğe konulacak
+yönetmelikle düzenlenecektir.
+82
+​98) Başkanlığın Görevleri Nelerdir?
+Başkanlığın görevleri şunlardır:
+1. Veri Sorumluları Sicilini tutmak,
+2. Kurumun ve Kurulun büro ve sekretarya işlemlerini yürütmek,
+3. Kurumun taraf olduğu davalar ile icra takiplerinde avukatlar vasıtasıyla Kurumu temsil
+etmek, davaları takip etmek veya ettirmek, hukuk hizmetlerini yürütmek,
+4. Kurul üyeleri ile Kurumda görev yapanların özlük işlemlerini yürütmek,
+5. Kanunlarla mali hizmet ve strateji geliştirme birimlerine verilen görevleri yapmak,
+6. Kurumun iş ve işlemlerinin yürütülmesi amacıyla bilişim sisteminin kurulmasını ve
+kullanılmasını sağlamak,
+7. Kurulun yıllık faaliyetleri hakkında veya ihtiyaç duyulan konularda rapor taslaklarını
+hazırlamak ve Kurula sunmak,
+8. Kurumun stratejik plan taslağını hazırlamak,
+9. Kurumun personel politikasını belirlemek, personelin kariyer ve eğitim planlarını
+hazırlamak ve uygulamak,
+10. Personelin atama, nakil, disiplin, performans, terfi, emeklilik ve benzeri işlemlerini
+yürütmek,
+11. Personelin uyacağı etik kuralları belirlemek ve gerekli eğitimi vermek,
+12. 10.12.2003 tarih ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu çerçevesinde
+Kurumun ihtiyacı olan her türlü satın alma, kiralama, bakım, onarım, yapım, arşiv,
+sağlık, sosyal ve benzeri hizmetleri yürütmek,
+13. Kuruma ait taşınır ve taşınmazların kayıtlarını tutmak,
+14. Kurul veya Başkan tarafından verilen diğer görevleri yapmak.
+83
+​99) Kurumun Bütçesi ve Gelirleri Nelerdir?
+Kurumun bütçesi, 5018 sayılı Kanunda
+belirlenen usul ve esaslara göre hazırlanır
+ve kabul edilir. Kurumun gelirleri; genel
+bütçeden yapılacak hazine yardımları,
+Kuruma ait taşınır ve taşınmazlardan elde
+edilen gelirler, alınan bağış ve yardımlar,
+gelirlerinin değerlendirilmesinden elde
+edilen gelirler ve diğer gelirlerden oluşur.
+84
+​100) Kanunun Yayımından Önce İşlenmiş Kişisel
+Veriler İçin Bir Geçiş Süresi Var mıdır?
+Kanunun Geçici 1. maddesinin 3. fıkrasında, hâlihazırda işlenmiş kişisel verilerin durumu
+düzenlenmiştir. Buna göre, Kanunun yayımı tarihinden önce işlenmiş olan kişisel verilerin,
+Kanunun yayımı tarihinden itibaren iki yıl içinde Kanun hükümlerine uygun hâle getirilmesi
+gerekmektedir. Bu süreç içerisinde, Kanun hükümlerine aykırı olduğu tespit edilen kişisel
+veriler ise derhâl silinir, yok edilir veya anonim hâle getirilir.
+85
+​86
+
+

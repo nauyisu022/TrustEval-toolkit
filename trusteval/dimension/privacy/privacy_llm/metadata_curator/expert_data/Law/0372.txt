@@ -1,0 +1,2413 @@
+Page 1
+
+Regarding the proper handling of specific personal information
+Guidelines (Business Edition)
+
+December 11, 2014
+(Final revision on May 25, 2nd year of Reiwa)
+Personal Information Protection Commission
+
+Page 2
+
+table of contents
+1st Introduction ......................................................... ...... 1
+Definition of the second term, etc .................................................. ..... 3
+Third general remarks ..................................................... .......... 6
+3-1 Purpose .................................................................. ...... 6
+3-2 Applicable targets of this guideline ....................... 6
+3rd-3 Positioning of these guidelines, etc ........................ 7
+3-4 Protective Measures Concerning Specific Personal Information under the Number Act ..................... 7
+No. 3-5 Proactive efforts to protect specific personal information .......... 10
+3rd-6 Responses in the event of leakage of specific personal information ........ 10
+3-7 Review of these guidelines ........................ 11
+Fourth detailed theory ..................................................... ......... 1 2
+4-1 Restrictions on the use of specific personal information ................................................ 12
+No. 4-1 (1) Restrictions on the use of personal numbers ........................ 12
+No. 4-1 (2) Restrictions on creating specific personal information files ................ 17
+No. 4-2 Safety management measures for specific personal information, etc ..................... 18
+No. 4-2-2 (1) Handling of consignment ..................................... 18
+No. 4-2-2 (2) Safety management measures ..................... 21
+No. 4-3 Restrictions on provision of specific personal information, etc ........................ 22
+No. 4-3-⑴ Request for provision of personal number ...................................... 22
+No. 4-3-⑵ Restriction on request for provision of personal number, provision of specific personal information
+Limits ............................................. 2 4
+No. 4-3-⑶ Collection / storage restrictions .................................. 29
+No. 4-3-⑷ Identity verification .................................................. 32
+No. 4-4 Handling regarding suspension of provision to third parties ........................ 35
+4th-5th Specific Personal Information Protection Evaluation .................................. 36
+4-6 Main provisions of the Personal Information Protection Law ........................ 37
+No. 4-7 In the health insurance association, etc., which is the person who implements the personal number use office work
+Measures, etc ................................................. . 4 3
+(Attachment) Safety management measures for specific personal information (Business operator edition) ........... 48
+
+Page 3
+
+1st Introduction
+"Act on the Use of Numbers to Identify Specific Individuals in Administrative Procedures, etc."
+Social security based on "Ritsu" (Act No. 27 of 2013, hereinafter referred to as "Number Act")
+The tax number system (hereinafter referred to as the "number system") is for social security, tax and disaster countermeasures.
+Efficient administrative management in the field, highly convenient for the people, fairness
+It will be introduced as a social infrastructure to realize a just society.
+On the other hand, with the introduction of the number system, centralized management of personal information by the state, specific individual
+Concerns have been raised about fraudulent tracking and matching of personal information, property and other damages.
+From the perspective of proper handling of personal information, general matters related to the protection of personal information
+As a law, "Act on Protection of Personal Information" (Act No. 57 of 2003, hereinafter
+It is called "Personal Information Protection Law". ), "Regarding the protection of personal information held by government agencies
+"Law to do" (Law No. 58 of 2003) and "Personal information held by incorporated administrative agencies, etc."
+"Act on the Protection of Information" (Act No. 59 of 2003; hereinafter "Incorporated Administrative Agencies, etc. Individuals"
+It is called "Information Protection Law". ) There are three laws, and in local governments, individuals
+Various protective measures are stipulated in the ordinances on the protection of information.
+In the number law, as a special case of measures stipulated in the general law, personal numbers are used.
+The range of use of personal information (hereinafter referred to as "specific personal information") included in the contents of
+Strict protective measures are stipulated.
+This guideline is for businesses that handle personal numbers (personal information such as incorporated administrative agencies).
+Incorporated Administrative Agencies, etc. and "Local Incorporated Administrative Agencies" stipulated in Article 2, Paragraph 1 of the Protection Law
+(Act No. 118 of 2003) Excludes local incorporated administrative agencies stipulated in Article 2, Paragraph 1.
+Hereinafter referred to as "business operator". ) To ensure the proper handling of specific personal information
+It establishes specific guidelines.
+In this guideline, "must" and "must not"
+If you do not comply with these matters, it will be judged as a violation of the law.
+It may be refused. On the other hand, for matters described as "desirable"
+Failure to comply with this will not immediately result in a violation of the law,
+Based on the purpose of the numbering method, respond as much as possible according to the characteristics and scale of the business operator.
+Is desired.
+
+1
+
+Page 4
+
+Below, the structure of this guideline is as follows.
+In "Definition of the second term, etc.", the terms used in this guideline are defined.
+It describes the righteousness.
+In the "Third General Remarks", the position of this guideline, specific personal information
+Explains the outline of protective measures under the Number Act.
+In the "4th theory", the main points are shown in a frame for each item, and
+Explains protective measures and safety management measures under the Number Act. Also, in practice
+In addition to describing the guidelines and concrete examples of
+Is underlined.
+* Marks describe specific cases in line with the actual office work of the business operator.
+In addition, the description of the case shows a typical example for the purpose of helping understanding.
+Therefore, it is not intended to cover all cases.
+
+2
+
+Page 5
+
+Definition of the second term, etc.
+Regarding the definitions of terms used in this guideline, follow the legal definitions, etc.
+Yes, as shown in the following table.
+Item number
+
+the term
+
+Definition etc.
+
+① Personal information
+
+Information about living individuals, in each of the following items
+Anything that falls under any of the above.
+(I) Name, date of birth, etc. included in the information
+Descriptions (documents, drawings or electromagnetic records (electromagnetic)
+Human method (electronic method, magnetic method, etc.)
+There is a method that cannot be recognized depending on the sense
+U. Smell of Article 2, Paragraph 2, Item 2 of the Personal Information Protection Law
+Same. ) Is a record made. Article 18 of the law
+Same for paragraph 2. ), Or
+Recorded or using voice, action or other methods
+All matters represented by (excluding personal identification code)
+Ku. ). same as below. ) By a specific individual
+What can be identified (easy with other information)
+Can be matched to a specific individual
+Including those that will be able to identify
+Mu. )
+(Ii) Those containing a personal identification code
+[Number Law, Article 2, Paragraph 3, Personal Information Protection Law, Article 2, Paragraph 3]
+Item 1]
+* The personal number of a surviving individual corresponds to the personal identification code.
+(Personal Information Protection Law, Article 2, Paragraph 1, Item 2 and Paragraph 2,
+"Law Enforcement Ordinance on the Protection of Personal Information" (2003 Government)
+Ordinance No. 507. Hereinafter referred to as "Personal Information Protection Law Enforcement Ordinance"
+U. ) Article 1, item 6).
+
+② Personal number
+
+Living in accordance with the provisions of Article 7, Paragraph 1 or 2 of the Number Act
+This is the number obtained by converting the folk card code.
+Know the person who is related to the resident's card on which the resident's card code is written
+It means what is specified to separate (numbering method 2)
+Articles 6 and 7, Articles 8 and 48 and
+In Article 3, Paragraphs 1 to 3 and Paragraph 5 of the Supplementary Provisions
+Personal number).
+[Number Law, Article 2, Paragraph 5]
+
+3
+
+Page 6
+
+Item number
+
+the term
+
+Definition etc.
+
+③ Specific personal information Individual number (corresponds to the individual number and substitutes for the individual number
+Numbers, symbols and other codes used throughout
+Including those other than the resident's card code. Numbering method 7th
+Articles 1 and 2, Articles 8 and 48 and
+Supplementary Provisions Article 3, Paragraphs 1 to 3 and Paragraph 5 are excluded
+Ku. ) Is included in the content.
+[Number Law, Article 2, Paragraph 8]
+* Specific personal information about the personal number of the surviving individual
+(Personal Information Protection Law, Article 2, Paragraph 1, Item 2, No.
+Article 2, Paragraph 8 of the No. Law).
+
+④ Personal information data
+
+A collection of information, including personal information, a specific individual
+
+Base etc.
+
+Searching for human information using a computer
+In addition to those systematically configured so that
+To make it easy to search for certain personal information
+Personal Information Protection Law is enforced as a systematic structure
+It means what is specified by the ordinance.
+[Personal Information Protection Law, Article 2, Paragraph 4, Personal Information Protection Law
+Enforcement Ordinance Article 3]
+
+⑤ Personal information phi
+
+Personal information database, etc.
+
+Le
+
+Those owned by persons other than incorporated administrative agencies.
+[Number Law, Article 2, Paragraph 4]
+
+⑥ Specific personal information A personal information file that includes a personal number in its contents
+Isle
+
+U.
+[Number Law, Article 2, Paragraph 9]
+
+⑦ Personal data
+
+The personal information that makes up the personal information database, etc.
+U.
+[Personal Information Protection Law, Article 2, Paragraph 6]
+
+⑧ Retained personal data Personal information handling business operator (item number ⑭) discloses and details
+Correction, addition or deletion, suspension of use, erasure and third
+Has the authority to suspend the provision to
+Personal data, the existence or nonexistence of which becomes clear
+As a result, the public interest and other interests shall be harmed.
+Specified by the Personal Information Protection Law Enforcement Ordinance or 6 months
+Anything other than the one that will be erased within
+U.
+[Personal Information Protection Law, Article 2, Paragraph 7, Personal Information Protection Law
+Enforcement Ordinance Articles 4 and 5]
+
+Four
+
+Page 7
+
+Item number
+
+the term
+
+Definition etc.
+
+⑨ Information provision, etc.
+
+Minister of Internal Affairs and Communications, information inquirers and informants or ordinances
+
+Record
+
+Business-related information inquirer and ordinance business-related information provider
+According to the provisions of Article 19 No. 7 or No. 8 of the Number Act
+Specific individual using the information provision network system
+When there is a request or provision of personal information,
+That connected to the information provision network system
+Computers used by the Minister of Internal Affairs and Communications
+Information inquirers and information providers
+Information provider or ordinance office work related information inquirer and article
+Example Name of office-related information provider, request and proposal of provision
+Record the date and time of the service, items of specific personal information, etc.
+It is said that the record is concerned (→ No. 4-72)
+B).
+[Number Law Articles 23 and 26]
+
+⑩ Use of personal number
+
+Administrative agencies, local public bodies, incorporated administrative agencies, etc.
+
+Duties
+
+The person who handles the administrative affairs of
+Is the specific personal information that it holds pursuant to the provisions of paragraph 2.
+Efficiently search for personal information in files
+Use your personal number to the extent necessary to manage it
+(→ 4-1-1 ⑴ 1A
+a).
+[Number Law, Article 2, Paragraph 10]
+
+⑪ Personal number related matters
+Use of personal numbers pursuant to the provisions of Article 9, Paragraph 3 of the Number Act
+Duties
+
+Required limit for the personal number of others performed in relation to business
+Refers to the office work performed in (→ No. 4-1-1 ⑴ 1A
+b).
+[Number Law, Article 2, Paragraph 11]
+
+⑫ Use of personal number
+
+Person who handles personal number use office work and use of personal number
+
+Business performer
+
+A person who has been entrusted with all or part of the office work.
+[Number Law, Article 2, Paragraph 12]
+
+⑬ Personal number related matters
+Person who handles personal number related office work and personal number related
+Business performer
+
+A person who has been entrusted with all or part of the office work.
+[Number Law, Article 2, Paragraph 13]
+
+⑭ Handling of personal information
+We use personal information database etc. for business
+Trader
+
+Persons (national organizations, local public bodies, incorporated administrative agencies, etc.)
+And local incorporated administrative agencies are excluded. ).
+[Personal Information Protection Law, Article 2, Paragraph 5]
+
+Five
+
+Page 8
+
+Third general remarks
+3-1 Purpose
+The Personal Information Protection Commission (hereinafter referred to as the "committee") is the Personal Information Protection Law No. 1.
+Based on Article 60, proper and effective use of personal information will create new industries.
+To contribute to the realization of a vibrant economic society and affluent national life.
+To protect the rights and interests of individuals while considering the usefulness of other personal information
+Ensuring the proper handling of personal information (personal number related office worker or
+Take guidance and advice and other measures for the individual number use office worker
+including. ) Is the mission. This guideline is based on Article 4 of the Numbering Law and individuals.
+Based on Article 60 of the Information Protection Law, businesses ensure proper handling of specific personal information
+It establishes specific guidelines for doing so.
+3-2 Application target of this guideline, etc.
+(1) Applicable to this guideline
+The numbering method is applied to administrative agencies (administrative agencies, local public bodies, independent administrative agencies, etc.)
+Refers to a local incorporated administrative agency. same as below. ) Or individual regardless of the business operator
+This guideline is applicable to all persons who handle personal numbers.
+It is intended for businesses among those who are subject to the numbering method.
+Regarding financial operations performed by financial institutions among business operators, "Fourth Each
+Regarding the part corresponding to "Theory", "(separate volume) Specific personal information in financial business"
+"Guidelines for proper handling of information" shall be applied.
+⑵ Scenes where businesses are subject to the numbering method
+All businesses are restricted from requesting the provision of personal numbers (Article 15 of the Number Act).
+Restrictions on the provision of specific personal information (Article 19 of the same law) and restrictions on collection, etc. (Article 19 of the same law)
+20) is subject to the provisions. In addition, the business operator is subject to the provisions of the Numbering Law.
+The main office work is as follows.
+・ The business operator receives an individual number from employees, etc. and uses it as salary income.
+Withholding slip, salary payment report, health insurance / welfare annuity insurance insured qualification
+Fill in the necessary documents such as acquisition notification, tax office chief, municipal mayor, Japanese pension
+Office work to be submitted to the Organization, etc. (Article 9, Paragraph 3 of the same law)
+・ A financial institution receives an individual number from a customer and pays dividends, etc.
+Office work to be submitted to the tax office chief in the record (Article 9, Paragraph 3 of the same law)
+・ Health insurance association, Japan Health Insurance Association, etc. (hereinafter referred to as "health insurance association, etc."
+U. ) Searches and manages personal information using personal numbers (No. 1 of the same law)
+Article 9 Paragraph 1)
+・ Financial institutions use their personal numbers in the event of a catastrophic disaster.
+Office work to pay money (Article 9, Paragraph 4 of the same law)
+In addition, the business operator handles personal numbers from government agencies or other business operators.
+Even if you are entrusted with office work, the numbering method will be applied.
+
+6
+
+Page 9
+
+3rd-3 Positioning of these guidelines, etc.
+(1) Relationship between the Numbering Law and the Personal Information Protection Law
+All businesses have the part where the numbering law stipulates specific personal information.
+Apply.
+Businesses handling personal information exclude parts that are exempt from application under Article 30 of the Number Act.
+For specific personal information, the provisions of the Personal Information Protection Law, which is a general law, are applied.
+Also receive.
+⑵ Positioning of this guideline
+This guideline is specific about the proper handling of specific personal information.
+It sets guidelines.
+In addition, regarding specific personal information, there is no special provision in the Numbering Law and personal information protection
+Regarding the part to which the law applies, "Regarding the protection of personal information" set by the committee
+"Guidelines for the law to be done" etc. (hereinafter "Personal Information Protection Law Guideline"
+Inn etc. " ) Is observed.
+3-4 Protective Measures Concerning Specific Personal Information under the Number Act
+⑴ Outline of protective measures
+Personal numbers provide personal information in the fields of social security, tax and disaster preparedness.
+It is linked between multiple institutions, and one for every person who has a resident card.
+It is a number obtained by converting the resident's card code so that there is no duplication in one number.
+To Therefore, if your personal number is misused or leaked, your personal information
+Unauthorized pursuit and matching may lead to infringement of personal rights and interests.
+Therefore, in the numbering method, regarding specific personal information, the Personal Information Protection Law
+It has various more stringent protective measures. This protective measure is "specific individual
+"Restrictions on the use of personal information", "Safety management measures for specific personal information, etc." and "Specific individuals"
+It is roughly divided into three categories: "restrictions on the provision of personal information, etc."
+A. Restrictions on the use of specific personal information
+The Personal Information Protection Law specifies the purpose of use of personal information as much as possible.
+(Article 15 of the Personal Information Protection Law), and in principle, the scope of the purpose of use
+It is said that it can be used only within (Article 16 of the same law), but personal information
+There are no particular restrictions on the scope of office work in which information can be used.
+On the other hand, in the number method, personal numbers can be used.
+Scope is limited to specific affairs related to social security, tax and disaster countermeasures
+(Article 9 of the Numbering Law). In addition, it is exceptionally beyond the original purpose of use.
+Regarding the range in which specific personal information can be used, the Personal Information Protection Law
+It is stipulated in a more limited manner than the case of using personal information in (the same law No. 30).
+Article 3). Furthermore, the creation of a specific personal information file that exceeds the required range
+It is prohibited to grow (Article 29 of the same law).
+
+7
+
+Page 10
+
+B. Safety management measures for specific personal information, etc.
+The Personal Information Protection Law is related to personal data for businesses handling personal information.
+We will take safety management measures (Article 20 of the Personal Information Protection Law), and employees
+It imposes the duty of supervision of persons and the duty of supervision of contractors (Articles 21 and 22 of the same law).
+Article).
+In the number method, in addition to these, for all businesses, individual numbers
+No. (including those of the dead as well as those of the living individual)
+All control measures are to be taken (Article 12 of the Number Act).
+In addition, when subcontracting personal number related affairs or personal number use affairs
+Require permission for subcontracting by the consignor (Article 10 of the same law)
+It imposes an obligation to supervise the contractor's contractor (Article 11 of the same law).
+C. Restrictions on the provision of specific personal information, etc.
+The Personal Information Protection Law applies to personal data handling businesses.
+Except when it is based on the provisions of laws and regulations, without obtaining the consent of the person.
+It is not allowed to be provided to a third party (Article 23 of the Personal Information Protection Law).
+In the number method, the use of personal numbers for the provision of specific personal information
+Similar to restrictions, than in the case of providing personal information under the Personal Information Protection Law
+It is limited (Article 19 of the Numbering Law). In addition, many people have specific personal information
+Others (same as self) unless you are allowed to receive
+A person other than those who belong to the household of. ) To provide an individual number
+Must not be (Article 15 of the same law).
+Furthermore, similar restrictions have been set for the collection or storage of specific personal information.
+(Article 20 of the same law).
+In addition, when receiving the personal number from the person, it is obligatory to verify the person.
+It is attached (Article 16 of the same law).
+⑵ Monitoring and supervision by the committee
+The committee will monitor and supervise the handling of specific personal information, so the following
+Has the authority listed in.
+・ Specific to the individual number related office worker or individual number use office worker
+Can provide necessary guidance and advice regarding the handling of personal information
+(Article 33 of the Number Act).
+・ Smell when a law violation is committed regarding the handling of specific personal information
+When it is deemed necessary to ensure proper handling,
+For those who have committed the violation, set a deadline and cancel the violation.
+It may be recommended that necessary measures be taken to correct other violations.
+Yes (Article 34, Paragraph 1 of the same law).
+・ The person who received the recommendation did not take the measures related to the recommendation without a justifiable reason.
+In the meantime, the person should set a deadline and take measures related to the recommendation.
+
+8
+
+Page 11
+
+Can be ordered (paragraph 2 of the same Article).
+・ Furthermore, when a law violation is committed regarding the handling of specific personal information
+In that case, urgent measures are taken because there is a fact that it harms the serious rights and interests of the individual.
+When it is deemed necessary to take a place, the person who commits the violation is
+Necessary to set a deadline and to stop the violation or correct the violation
+It is possible to order that various measures should be taken (paragraph 3 of the same Article).
+・ For those who handle specific personal information and other related parties,
+Requesting or entering necessary reports or materials regarding handling
+Inspection can be performed (Article 35 of the same law).
+⑶ Strengthening penalties
+The application of penalties to businesses handling personal information under the Personal Information Protection Law is
+If you provide a personal information database, etc. for the purpose of improper profit, the commission
+Only when the corrective order from the committee is violated or when a false report is made.
+ing. On the other hand, in the numbering method, the upper limit of similar sentences has been raised.
+In addition, when a specific personal information file is provided without a justifiable reason, it is illegal.
+When an individual number is provided or stolen for the purpose of profit, an individual is deceived by deceiving a person.
+Penalties have been strengthened, such as the establishment of new penalties for obtaining numbers (numbering method).
+Articles 48 to 55).
+The following tables (1) to (5) show those who have committed these crimes outside Japan.
+It also applies to (Article 56 of the same law). In addition, a corporation (a representative of a non-corporate organization)
+Or, including those specified by the caretaker. The same applies to this item below. )of
+Representative or manager or corporation or person's agent, employee or other subordinate
+Regarding the business of the corporation or person, the trader is ⑧ from the following table ①, ②, ④ or ⑥
+In addition to punishing the offender, the corporation or the corporation
+A fine is also imposed on a person (Article 57, Paragraph 1 of the same law).
+
+Item number
+
+action
+
+Number method
+
+Personal Information Protection Law
+Similar provisions
+
+Personal number related office work or personal number
+Imprisonment
+interest
+for up to 4 years
+①
+
+Person engaged in office work or engaged
+
+Or 2 million yen
+
+-
+
+The person who was there was identified without a justifiable
+The following
+reason fines or
+Provide personal information file
+
+Combined course (Article 48)
+Imprisonment for up to 3 years
+Imprisonment for up to 1 year
+
+②
+
+Eyes for the above to make unfair profits
+
+Or 1.5 million yen
+
+Or less than 500,000 yen
+
+Providing or plagiarizing personal numbers
+
+The following fines or
+
+Fine (83rd
+
+Combined course (Article 49)
+Article)
+
+9
+
+Page 12
+
+Item number
+
+action
+
+Number method
+
+Personal Information Protection Law
+Similar provisions
+
+Information provision network system
+Person engaged in office work or engaged
+③
+
+Information provision network system
+
+Same as above (Article 50)
+
+-
+
+Leaked secrets about the stem or
+Plagiarism
+
+④
+
+Deceive people, assault people, deceive people
+
+Imprisonment for up to 3 years
+
+Intimidation or theft of property, facilities
+
+Or less than 1.5 million yen
+
+Due to intrusion, unauthorized access, etc.
+
+Fine (51st
+
+-
+
+Get personal number
+
+Article)
+
+Officials of national institutions abuse their authority Imprisonment for up to 2 years
+And exclusively for purposes other than that job
+
+⑤
+
+Or less than 1 million yen
+
+-
+
+Specific personal information is provided for the purpose
+Fineof(52nd)
+providing
+Collect recorded documents, etc.
+
+Article)
+Imprisonment for up to 2 years
+Imprisonment for up to 6 months
+
+⑥
+
+The person who received the order from the committeeOrisless
+the than
+committee
+500,000 yen
+
+Or less than 300,000 yen
+
+Violation of the order of the member
+
+Fine (53rd
+
+Fine (84th
+
+Article)
+
+Article)
+
+Imprisonment for up to 1 year
+False reports, false reports to the committee
+
+⑦
+
+Or less than 500,000 yen
+
+Submission of fake materials, refusal of inspection, etc.
+Fine (54th
+
+Punishment of 300,000 yen or less
+Gold (Article 85)
+
+Article)
+Imprisonment for up to 6 months
+⑧
+
+Individual by deception or other wrongful means
+
+Or less than 500,000 yen
+
+Get a number card
+
+Fine (55th
+
+-
+
+Article)
+
+No. 3-5 Proactive efforts to protect specific personal information
+In order for the business operator to ensure the proper handling of specific personal information, the business owner himself
+Is appropriate with sufficient awareness of the importance of protective measures for specific personal information
+It is important to carry out strict business management. On top of that, the business operator is concerned with the numbering method, etc.
+In accordance with relevant laws and regulations, this guideline, and the Personal Information Protection Law guideline, etc.
+Consider specific measures to ensure the proper handling of specific personal information
+In addition to practicing, check and review based on the actual situation of business, technological progress, etc.
+It is important to proactively build a system to continuously carry out the work.
+In addition, in Article 6 of the Number Act, businesses that use personal numbers have a basic philosophy.
+In line with the measures taken by the national and local governments regarding the use of personal numbers
+It is said that they will endeavor to cooperate.
+3rd-6 Responses in the event of leakage of specific personal information
+Violation of the Personal Information Protection Law or violation of the same law, such as the occurrence of personal information leakage cases
+If this is discovered, the business operator handling personal information will be required to use the guidelines of the Personal Information Protection Law, etc.
+
+Ten
+
+Page 13
+
+Although a report is required based on the above, the specific personal information of the business operator
+Cooperate with related ministries and agencies to deal with leaks
+It will be decided separately.
+* For specific details on what to do in the event of a leak of specific personal information, etc.
+Article 29-4 of the Number Act and "Leakage of specific personal information and other security of specific personal information"
+"Rules for reporting serious situations related to" (2015 Specified Personal Information Protection Commission Rule 5
+No.) and "What to do if a business operator leaks specific personal information, etc."
+About "(2015 Specified Personal Information Protection Commission Notification No. 2).
+
+3-7 Review of these guidelines
+Regarding this guideline, changes in social conditions, changes in public awareness, and technology
+It shall be reviewed as necessary in consideration of changes in various environments such as changes in trends.
+
+11
+
+Page 14
+
+Fourth detailed theory
+4-1 Restrictions on the use of specific personal information
+No. 4-1 (1) Restrictions on the use of personal numbers
+The point
+○ The office work that can use the personal number is limited by the number law.
+It is mainly the withholding slip that the business operator uses the personal number.
+And the personal number of the employee, etc. is stated in the social security procedure documents, and the administrative agency, etc.
+When submitting to a health insurance association, etc. → 1
+○ Regarding exceptional use, the numbering method is more than the personal information protection law.
+It is limited. In the case of a business operator, use the personal number beyond the purpose of use
+What you can do is (1) Financial institutions can make money in the event of a catastrophic disaster.
+When using an individual number to pay for (2) a person's life, body, or
+When it is necessary to use an individual number to protect property. → 2
+(Related article)
+・ Number Law Article 9, Article 30, Paragraph 3
+・ Personal Information Protection Law Article 16
+1 Principle handling of personal numbers
+The personal number (Note) is from the scope of office work that the Numbering Law has limited in advance.
+In principle, it is used after specifying the specific purpose of use.
+Businesses use personal numbers for personal number use office work and personal number related matters.
+There are two office works. Of these, businesses other than health insurance associations have personal numbers.
+Is used when the personal number is used as the office work related to the personal number.
+In addition, we received entrustment of personal number use office work from government agencies or health insurance associations.
+In that case, the personal number will be used as the personal number use office work.
+Unlike the Personal Information Protection Law, the business operator, even with the consent of the person, is an example.
+Except for cases where it is recognized as outside (see 2), personal numbers other than these office work
+Do not use.
+* The business operator must not use the personal number as an employee number for the purpose of managing employees.
+
+(Note) "Individual number" corresponds to the individual number and is used in place of the individual number.
+Numbers, etc. are also included (Article 2, Paragraph 8 of the Number Act). For example, read numbers into the alphabet
+When the personal number is replaced with the alphabet according to the law of replacement
+However, the alphabet corresponds to the "individual number". On the other hand, the business operator
+Employee number, etc. attached to manage employees (individual number of the employee is set according to a certain rule
+Therefore, the one that is not converted) does not correspond to the "individual number".
+
+12
+
+Page 15
+
+A Scope of office work where personal numbers can be used
+a Personal number use office work (Article 9, Paragraphs 1 and 2 of the Number Act)
+Personal number use office work is mainly carried out by government agencies, etc. for social security, taxes and
+Search for personal information held in specific office work related to disaster countermeasures,
+It means to use an individual number for management. In the business, health
+Some businesses such as insurance associations carry out this work in accordance with laws and regulations.
+In addition, the business operator entrusted with the personal number use office work is the personal number use office work.
+It can be performed. In this case, we were entrusted by an administrative agency, etc.
+In some cases, depending on the content of the contract regarding consignment, "appropriate collection of specific personal information"
+Guidelines for handling (administrative organizations, local governments, etc.) "applies
+Will be done.
+b Personal number-related affairs (Article 9, Paragraph 3 of the Number Act)
+Approximately all businesses with employees, etc. will handle personal numbers.
+It is the office work related to personal numbers. Specifically, the business operator, based on the law,
+Employee's personal number, salary income withholding slip, payment record, health insurance / thickness
+Enter in the documents such as the notification of acquisition of the qualification of the insured person of the live annuity insurance
+This is the work to be submitted to the insurance association. Government agencies and health insurance associations
+The individual number use office worker is stated in the documents submitted in this way.
+Social security, tax and disaster countermeasures using the specified personal information
+You will be doing specific affairs.
+In addition, the business operator entrusted with the personal number related affairs is the personal number related affairs
+It can be performed.
+* Article 225 of the Income Tax Act when a business operator pays a lecture fee to a lecturer
+In accordance with the provisions of Paragraph 1, the instructor's personal number will be used to pay compensation, fees, contract money and prize money.
+Writing in a document and submitting it to the tax office chief corresponds to personal number related affairs.
+
+* Employees, etc. have personal numbers of dependent relatives in accordance with the provisions of Article 194, Paragraph 1 of the Income Tax Act.
+It is also possible to fill in the dependent deduction report and submit it to the business operator where you work.
+Corresponds to related affairs.
+
+B Prohibition of use of personal numbers beyond the purpose of use
+a Prohibition of the use of personal numbers beyond the purpose of use (read according to Article 30, Paragraph 3 of the Number Act)
+Personal Information Protection Law, Article 16, Paragraph 1)
+Businesses handling personal information must specify the purpose of use of personal numbers as much as possible.
+Must be (Article 15, Paragraph 1 of the Personal Information Protection Law), but the specific degree
+Personal information, rather than simply specifying the purpose of use in an abstract and general manner.
+For what purpose does the person use his / her personal number?
+Is desired to be specified to the extent that it can be generally and reasonably predicted.
+
+13
+
+Page 16
+
+I.
+The numbering method is different from the Personal Information Protection Law, even with the consent of the person.
+It stipulates that specific personal information must not be used beyond the purpose of use.
+Therefore, the purpose of use of the personal number (the personal number can be used)
+It can be used only within the scope of the purpose of use specified within the scope of business.
+If it becomes necessary to use the personal number beyond the purpose of use, the initial interest
+Change the purpose of use within the range reasonably recognized as having relevance to the purpose of use
+Then, by notifying the person, etc., within the scope of the changed purpose of use.
+You can use your personal number (Article 15, Paragraph 2, Article 18 of the Personal Information Protection Law)
+Article 3).
+(When use is permitted within the scope of the purpose of use)
+* <When used for office work to create a withholding slip after the current year>
+About the personal number provided for the office work of preparing the withholding slip of salary income of the previous year
+Because of the tax withholding slip preparation work that occurs based on the same employment contract after the current year
+It is understood that it can be used for.
+
+* <When a reemployment contract is concluded for retirees>
+Provided for salary income withholding slip preparation work when concluding the previous employment contract
+For the personal number received, prepare a withholding slip for salary income based on the later employment contract.
+It is understood that it can be used for business.
+
+* <When the lecture contract is re-concluded with the lecturer>
+Remuneration, fees, contract fees and awards associated with payment of lecture fees when the previous lecture contract is signed
+The personal number provided for the payment record preparation work will be based on the later contract.
+To prepare payment records for remuneration, fees, contract money and prize money associated with payment of lecture fees
+It is understood that it can be used for.
+
+* <When a real estate lease contract is additionally concluded>
+Individuals provided for payment record preparation work when concluding a previous lease agreement
+The number is for the payment record preparation work related to the rent based on the later lease contract.
+It is understood that it can be used for.
+
+(When the purpose of use is changed)
+* Individual number provided for office work to prepare a withholding slip for salary income based on an employment contract
+Attempts to use the issue for health insurance / welfare annuity insurance notification work, etc. based on employment contracts
+In that case, by changing the purpose of use and notifying the person, health insurance / thickness
+The individual number can be used for the life annuity insurance notification office work.
+The business operator is required to prepare a withholding slip for salary income, as well as to report health insurance and welfare annuity insurance.
+When carrying out office work, etc., when receiving the personal number from employees, etc.
+
+14
+
+Page 17
+
+By specifying all of the office work as the purpose of use and notifying the person, etc.
+You can use your personal number without changing the purpose of use. In addition, notification etc.
+As a method, as in the case of acquiring personal information, which has been done conventionally, to the in-house LAN
+Notifications, presentation of documents stating the purpose of use, stipulation in work regulations, company's home
+A method such as posting on a page etc. can be considered.
+
+b In the case of a merger, etc. (Individuals applied by replacing with Article 30, Paragraph 3 of the Number Act)
+Information Protection Law, Article 16, Paragraph 2)
+A business operator handling personal information will take over the business due to a merger, etc.
+Obtaining specific personal information such as employees of the other business operator handling personal information
+If obtained, specific personal information according to the purpose of use specified before the succession
+Information is available. However, even with the consent of the person
+Do not use specific personal information beyond the purpose of use specified before the succession
+Absent.
+* Business A takes over the business of Business B and is owned by Business B for the office work of creating a withholding slip.
+If you inherit the personal number of the employee, etc. of the second party, the personal number of the employee, etc. will be used.
+It can be used within the scope of the withholding slip preparation work for the employee, etc.
+
+2 When exceptional handling is possible
+In the number method, in the following cases, the advantage of personal numbers that exceeds the purpose of use exceptionally
+I admit it.
+a When a financial institution pays money in the event of a catastrophic disaster, etc. (Article 9, Paragraph 4 of the Number Act,
+Article 16 Paragraph 3 of the Personal Information Protection Law, which is applied by replacing it with Article 30 Paragraph 3.
+No. 1, Number Act Enforcement Ordinance (Note) Article 10, in the event of a catastrophic disaster, etc.
+To the extent necessary to make payments based on pre-contracted contracts
+Cabinet Office Ordinance on the Use of Individual Numbers (Cabinet Office Ordinance No. 74, 2015)
+Banks and other deposit-taking financial institutions say, "Special goods for dealing with catastrophic disasters.
+"Law on Political Assistance, etc." (Law No. 150 of 1958), Article 2, Paragraph 1 of the catastrophic disaster
+Eyes to handle personal number related affairs such as preparation of payment records when
+The purpose of paying money to the customer with the personal number held by the target
+Therefore, it can be used to search the customer's deposit information and the like.
+(Note) The Number Act Enforcement Ordinance is a "number for identifying a specific individual in administrative procedures.
+It means "Law Enforcement Ordinance on Use, etc." (Cabinet Order No. 155, 2014) (the same shall apply hereinafter).
+
+b When it is necessary to protect the life, body or property of a person, the person himself / herself
+If there is the consent of the person or it is difficult to obtain the consent of the person (Numbering Law No. 1)
+Article 16 Paragraph 3 of the Personal Information Protection Law, which is applied by replacing it with Article 30 Paragraph 3.
+
+15
+
+Page 18
+
+No. 2)
+When it is necessary to protect the life, body or property of a person, the person himself / herself
+If there is the consent of the person or it is difficult to obtain the consent of the person, the payment record
+Personal number held for the purpose of processing personal number related affairs such as creation of
+It can be used to protect human life, body or property.
+
+16
+
+Page 19
+
+No. 4-1 (2) Restrictions on creating specific personal information files
+The point
+○ Scope necessary to process personal number related affairs or personal number use affairs
+A specific personal information file can be created only for.
+(Related article)
+・ Number Law Article 29
+● Restrictions on the creation of specific personal information files (Article 29 of the Number Act)
+The business operator can create a specific personal information file with the personal number.
+It is limited to the range necessary to process related affairs or personal number use affairs.
+Tax withholding slip preparation work for employees, etc., health insurance and welfare annuity insurance
+Create a specific personal information file only for the insured qualification acquisition notification creation work, etc.
+It is possible to create a specific personal information file except in these cases
+should not be done.
+* The business operator uses the personal number of the employee, etc. to manage the business results, etc.
+Do not create files.
+
+* Entrusted by a tax accountant, etc., who was entrusted by the business operator to prepare the withholding slip for employees, etc.
+Persons also fall under the category of "personal number-related office work implementers", so personal number-related matters
+It is possible to create a specific personal information file to the extent necessary to process the business.
+
+17
+
+Page 20
+
+No. 4-2 Safety management measures for specific personal information, etc.
+No. 4-2-2 (1) Handling of consignment
+The point
+○ Entrust all or part of personal number related affairs or personal number use affairs
+The person is a safety pipe that the consignor himself should fulfill based on the numbering method at the consignee.
+Necessary and appropriate supervision must be taken so that measures equivalent to legal measures are taken.
+Must be. → 1A, 2C
+"Necessary and appropriate supervision" includes (1) appropriate selection of contractors and (2) safety management measures.
+Concluding a consignment contract regarding ③ Understanding the handling status of specific personal information at the consignee
+Grip is included. → 1B
+* For specific details of safety management measures, see "4-2-2 (2) Safety management measures" and
+Also refer to "(Attachment) Safety Management Measures for Specific Personal Information (Business Operators)".
+
+○ All or part of personal number related affairs or personal number use affairs
+A "digit person" can subcontract only with the permission of the consignor.
+To → 2A
+Those who have been subcontracted are "consigned" for personal number related affairs or personal number utilization affairs.
+Only with the permission of the original consignor, who is considered to be a "receiver"
+Can be entrusted. → 2B
+(Related article)
+・ Number Law Articles 10 and 11
+・ Personal Information Protection Law Article 22
+1 Supervision of contractors (Article 11 of the Number Act, Article 22 of the Personal Information Protection Act)
+A Safety management measures at the contractor
+Person who entrusts all or part of personal number related affairs or personal number use affairs
+(Hereinafter referred to as "consignor") is the entrusted personal number related office work or personal number.
+Properly take safety management measures for specific personal information handled in the usage office
+Necessary and appropriate supervision of "consignees" must be provided.
+For this reason, the consignor is a "consignee" who is entrusted based on the numbering method.
+Is it necessary to take measures equivalent to the safety management measures that the trustee should take?
+Appropriate supervision must be provided.
+In addition, without taking necessary measures to properly supervise the "consigned person",
+Or, we did not take concrete measures to fulfill the necessary and sufficient supervisory obligations.
+As a result, if the leakage of specific personal information occurs, it is judged to be a violation of the Numbering Law.
+There is a possibility.
+
+18
+
+Page 21
+
+B Necessary and appropriate supervision
+For "necessary and appropriate supervision", (1) appropriate selection of contractors, (2) safety for contractors
+Conclusion of contracts necessary to comply with management measures, ③ Specific individual at the contractor
+Includes grasping the handling status of personal information.
+Regarding the selection of outsourcers, the outsourcer shall use the numbering method at the outsourcee.
+Whether or not measures equivalent to the safety management measures that the consignor should take should be taken
+You have to confirm it in advance. As a specific confirmation item,
+Equipment of contractors, technical level, status of supervision / education for employees (Note) , etc.
+The business environment of the outsourcer can be mentioned.
+Regarding the conclusion of the consignment contract, the contents of the contract include confidentiality obligations and the inside of the business establishment.
+Prohibition of taking out specific personal information from, prohibition of unintended use of specific personal information,
+Conditions for subcontracting, responsibility of the consignee in the event of a leak, consignment
+Return or disposal of specific personal information after contract termination, supervision and education for employees,
+It is necessary to include provisions that require a report on the status of compliance with the contract contents.
+Absent. In addition to these contract details, employees who handle specific personal information
+Clarification, provisions that allow the consignor to conduct an on-the-spot survey of the consignee, etc.
+It is desirable to include it.
+Regarding the grasp of the handling status of specific personal information at the contractor, the above contract
+Implementation of the contents included in the consignment contract by requesting a report based on
+Appropriate, including considering reviewing the content of the consignment, etc. after understanding the degree
+It is desirable to evaluate it.
+(Note) An "employee" is within the organization of a business operator and is directly or indirectly directed and supervised by the business operator.
+A person who is engaged in the business of a business operator. Specifically, in addition to employees, directors,
+Includes corporate auditors, directors, auditors, dispatched employees, etc.
+
+2 Subcontracting (Articles 10 and 11 of the Number Act)
+A Requirements for subcontracting (Article 10, Paragraph 1)
+All or part of personal number related affairs or personal number use affairs "consigned
+A person may subcontract only with the permission of the consignor.
+* If the business operator A outsources the work of creating a withholding slip for employees, etc. to the business operator B, the business operator B will
+Only with the permission of the consignor, A, the same affairs can be outsourced to another business operator.
+it can.
+
+B Effect of subcontracting (Article 10, Paragraph 2)
+Those who have been subcontracted are all personal number related affairs or personal number use affairs
+Is considered to be a part of the "consignee" and is a subcontracted individual number related matter
+In addition to being able to carry out affairs or personal number use affairs, with the permission of the first consignor
+Only when it is obtained, the affairs can be further subcontracted.
+
+19
+
+Page 22
+
+* When subcontracting further, the person who obtains the permission is the first consignor.
+Therefore, personal number related affairs or personal number use affairs are commissioned in the order of A → B → Hei → Ding.
+When entrusted, Hei is another business operator only with the permission of the first consignor, A.
+Can be subcontracted to Ding. The same applies when subcontracting is repeated.
+In addition, since you are obliged to supervise Hei, Hei will renew the contents of the consignment contract between Hei and Hei.
+Determine the handling when outsourcing, the conditions when subcontracting, and against B when subcontracting
+It is desirable to include the obligation to notify.
+
+* The "consignee" violates the provisions of Article 10 of the Number Act, and the permission of the first consignor
+If you subcontract the personal number related affairs or the personal number use affairs without obtaining, "Receive the consignment
+"A person" also violated Article 19 (restriction of provision) of the same law and was subcontracted.
+Persons also violate Articles 15 (restrictions on requests for provision) and Article 20 (restrictions on collection and storage) of the same law.
+It should be noted that it may be judged as.
+
+C Supervision of subcontractors (Article 11)
+"Person who has been entrusted" in 1A means a business operator directly entrusted by the consignor.
+It points to, but if you are entrusted in the order of A → B → Hei → Ding, you are obliged to supervise A
+The content of is not only the suitability of subcontracting, but also the necessity and suitability of B for Hei and Ding.
+It also includes supervising whether or not you are doing earnest supervision. Therefore,
+A is not only obliged to supervise B, but also to the subcontractors Hei and Ding.
+You will be indirectly obliged to supervise.
+
+20
+
+Page 23
+
+No. 4-2-2 (2) Safety management measures
+● Safety management measures (Article 12 of the Number Act, Articles 20 and 21 of the Personal Information Protection Act)
+The business operator who is the individual number related office worker or the individual number use office worker is an individual
+Person number (including not only living individuals but also dead individuals) and specific individuals
+Prevention of leakage, loss or damage of information (hereinafter referred to as "specific personal information, etc.")
+Necessary and appropriate measures must be taken to manage other specific personal information, etc.
+I can't. In addition, in making employees
+
+(Note)
+
+handle specific personal information, etc.
+
+Is it necessary for the employee so that the safety management of specific personal information etc. can be achieved?
+Appropriate supervision must be provided.
+(Note) An "employee" is within the organization of a business operator and is directly or indirectly directed and supervised by the business operator.
+A person who is engaged in the business of a business operator. Specifically, in addition to employees, directors and supervisors
+Includes auditors, directors, auditors, dispatched labor, etc.
+
+* For specific details of safety management measures, see "(Attachment) Safety regarding specific personal information.
+See "Management Measures (Business Operators)".
+
+twenty one
+
+Page 24
+
+No. 4-3 Restrictions on the provision of specific personal information, etc.
+No. 4-3-⑴ Request for provision of personal number
+The point
+○ The individual number-related office worker or the individual number use office worker is the individual number related office worker.
+Only when it is necessary to process the office work or personal number use office work
+The person or another person who carries out the work related to the individual number or the person who uses the personal number
+You can ask the practitioner to provide your personal number.
+(Related article)
+・ Number Law Article 14
+1 Request for provision (Article 14, Paragraph 1 of the Number Act)
+The business operator is the person or the person in order to carry out personal number related affairs or personal number use affairs.
+Individual number from other personal number related office worker or individual number use office worker
+Need to be provided. Article 14, Paragraph 1 of the Number Act is the implementation of office work related to personal numbers.
+It is the basis for a person or an individual number use office worker to request the provision of an individual number.
+It is a regulation.
+An individual number-related office worker or an individual number use office worker is an individual pursuant to this article.
+If it is necessary to handle personal number related affairs or personal number use affairs, this
+To a person or another person or other person or other person who uses the Individual Number
+You will be asked to provide your personal number.
+A Request to provide an individual number to the person
+Based on this article, the business operator shall collect salary withholding from employees, etc.
+Providing the personal number required for health insurance / welfare annuity insurance notification work, etc.
+Individuals required for payment record preparation work for individual payees related to performance fees, rents, etc.
+You will be asked to provide each number.
+B Individuals for other personal number-related clerical workers or personal number use clerical workers
+Request to provide number
+Based on this article, the business operator shall collect salary withholding from employees, etc.
+Therefore, in the tax return for dependent deductions, etc., which describes the individual number of the dependent relatives of the employee, etc.
+You will be required to submit it. In this case, the employee, etc. should write down the personal number of the dependent relative.
+Decree to submit the listed dependent deduction report (Income Tax Act (Act No. 33 of 1965))
+Article 194, Paragraph 1) Since we have the above obligations, we are "personal number related office workers"
+Treated as.
+
+twenty two
+
+Page 25
+
+2 When to request the offer
+The individual number-related office work implementer or the individual number use office work implementer is an individual number-related matter.
+Provision of personal number when it is necessary to process business or personal number use office work
+Will be sought.
+In the personal number related office work performed by the business operator, personal number related office work occurred
+In principle, you will be asked to provide your personal number at that time, but due to legal relationships with the person, etc.
+Based on this, if it is expected that personal number related affairs will occur, when the contract is concluded
+It is possible to request the provision of an individual number when the occurrence of the relevant office work such as points can be predicted.
+It is understood that it is Noh. In addition, personal number related office work is clearly issued from the contract contents etc.
+If it is found that it will not occur, you must not ask for your personal number.
+* Salary associated with employee salary withholding work, health insurance / welfare annuity insurance notification work, etc.
+Place for preparing income tax withholding slips, health insurance / welfare annuity insurance insured qualification acquisition notification, etc.
+In that case, it is understood that it is possible to request the provision of an individual number at the time of concluding the employment contract.
+
+* In the case of office work to prepare payment records for payment of dividends to shareholders of unlisted companies
+The capital where payment is confirmed pursuant to the provisions of Article 224, Paragraph 1 of the Tax Acquisition Law and Article 336, Paragraph 1 of the Enforcement Ordinance of the same law.
+In principle, the individual number is requested to be notified, but the shareholder holds the position as a shareholder.
+It is understood that it is possible to request the provision of an individual number at the time of obtaining it.
+
+* In the case of office work to prepare payment records for payment of land rent, etc., conclude a contract based on the amount of rent.
+At the time of contract conclusion, unless it is clear at the time that payment records do not need to be prepared
+It is understood that it is possible to request the provision of an individual number in terms of points.
+
+twenty three
+
+Page 26
+
+No. 4-3-⑵ Restriction on request for provision of personal number, restriction on provision of specific personal information
+The point
+○ Unless otherwise specified by the numbering method, requesting the provision of an individual number
+It doesn't become. → 1
+○ Unless otherwise specified by the numbering method, do not provide specific personal information.
+It doesn't become. → 2
+(Related article)
+・ Number Law Article 15, Article 19, Article 30 Paragraph 3
+・ Personal Information Protection Law Article 23
+1 Restrictions on request for provision (Article 15 of the Number Act)
+Many people fall under any of the items of Article 19 of the Number Act and receive specific personal information.
+Unless you can, you must not ask for the personal number of another person (Note) .
+It is the society that the business operator asks the employees to provide the personal number.
+Request personal number for specific affairs related to security, tax and disaster preparedness
+Limited to cases.
+* The business operator gives employees, etc. an individual number for the purpose of processing salary withholding work.
+You will be asked to provide it. On the other hand, for the purpose of managing the business results of employees, etc., the individual number
+Do not ask for the issue.
+
+(Note) In Articles 15 and 20 of the Number Act, other people are "those who belong to the same household as themselves"
+For those who are "outsiders" and belong to the same household as their own, such as children and spouses, the law No.
+Even if you do not fall under any of the items of Article 19, you can request the provision of your personal number.
+
+2 Restrictions on the provision of specific personal information (Article 19 of the Number Act)
+Any person "provides" specific personal information, unless otherwise specified by the Number Act.
+should not be done.
+Businesses can provide specific personal information regarding social security, taxes and disaster countermeasures.
+Specific personal information of employees, etc. for specific office work, administrative agencies, etc. and health insurance
+Limited to cases such as providing to unions.
+A About the significance of "offering"
+"Provision" means the transfer of specific personal information beyond the legal personality
+The movement of specific personal information that does not exceed the legal personality of the same corporation, etc.
+Use is not "offer" but "use", and usage restrictions (Articles 9 and 29 of the Numbering Law,
+Article 30 Paragraph 3) will be followed.
+In addition, under the Personal Information Protection Law, it is used jointly with a specific person.
+
+twenty four
+
+Page 27
+
+If personal data is provided to the specific person, it will be provided to a third party.
+It is said that there is no such thing (Article 23, Paragraph 5, Item 3 of the Personal Information Protection Law), but it smells like the numbering method.
+Excludes the application of Article 23, Paragraph 5, Item 3 of the Personal Information Protection Law (Number Law).
+(Article 30, Paragraph 3) Therefore, in this case as well, it corresponds to normal "offering" and provision restrictions.
+(Articles 14 to 16 of the same law, Article 19, Article 20, Article 30, Paragraph 3)
+It becomes.
+* If it does not correspond to "offer"
+When specific personal information moves from the X part to the Y part in the business operator A, the X part and the Y part are it.
+Since each is an internal department of A and does not have an independent legal personality, it was a "offer".
+Not. For example, the personal number of an employee who belongs to the sales department can be entered through the general affairs section of the sales department.
+If submitted to the accounting department for the purpose of creating a withholding slip for salary income, "offer"
+Does not hit, and it is "use" permitted by law.
+
+* When it corresponds to "offer"
+When specific personal information is transferred from Business A to Business B, it corresponds to "Provision". the same
+Even if the transfer of specific personal information between affiliated companies, etc., as long as it is another corporation, it will be "provided".
+Please note that you will be subject to the provision restrictions. For example, an employee
+Etc. are transferred from A to B due to transfer or transfer, and B is the salary payer (tax withholding of salary income)
+If you become a person who is obliged to submit votes, you will need to hand over the individual number of the employee, etc. between A and B.
+However, B must receive the personal number from the person again.
+
+* Personal information of employees, etc. is stored in a shared database between companies of the same affiliate.
+In such a case, register the personal number only in the file of the company where the employee etc. is currently working.
+However, if other companies have adopted a system that does not allow them to refer to the individual number, both
+It is understood that it is possible to record an individual number in a database.
+
+* In the above case, sharing without the intervention of the employee, etc. due to the secondment of the employee, etc.
+File of the company to which you are seconded, such as by automatically removing access restrictions in the database
+Moving the personal number to the file of the company to which you are seconded violates the provision restrictions.
+It will be necessary to keep in mind.
+On the other hand, the operation of the personal number recorded in the shared database based on the intention of the seconded person
+If you take the method of moving to the seconded destination, the person will provide a new personal number to the seconded destination.
+It is understood that it does not violate the provision restrictions because it can be regarded as a product. In addition, it should be noted.
+In this case, to prevent the provision of an inappropriate personal number that is not based on the person's intention,
+It is necessary to take safety management measures for the access and identification of the person.
+In addition, regarding identity verification, "the turn to identify a specific individual in administrative procedures"
+"Rules for Enforcement of Law Concerning the Use of No." (2014 Cabinet Office / Ministry of Internal Affairs and Communications Ordinance No. 3;
+It is called "Number Law Enforcement Regulations". ) Article 3 or Article 10 of the Enforcement Regulations if performed by an agent
+If the procedures are arranged according to the above, it will be possible to efficiently carry out the office work related to identity verification.
+
+twenty five
+
+Page 28
+
+To be understood.
+
+B When specific personal information can be provided (Article 19, Items 1 to 16 of the Number Act)
+Each item of Article 19 of the Number Act stipulates that specific personal information can be provided.
+Among the things, the ones that the business operator is involved in are as follows.
+a Provision from the person carrying out the office work using the Individual Number (No. 1)
+In order for the individual number use office work implementer to process the individual number use office work
+Specific personal information to the person, agent or personal number related office worker to the extent necessary
+When providing.
+* The mayor of the municipality (personal number use office worker) collects residence tax (individual number use office work)
+Notify the business operator of the special collection tax amount along with the individual number of the employee, etc.
+can do.
+
+b Provided by the person carrying out the office work related to the Individual Number (No. 2)
+The individual number-related affairs practitioner is required to handle the personal number-related affairs by law.
+Based on the decree, specific personal information to government agencies, health insurance associations, etc. or other persons
+It will provide information.
+* Businesses (personal number-related clerical workers) comply with the provisions of Article 226, Paragraph 1 of the Income Tax Act.
+So, in order to handle the personal number related affairs of submitting the withholding slip of salary income,
+Create a withholding slip for salary income with the individual number of the employee, etc., and submit it to the tax office chief.
+It will be released.
+
+* Employees, etc. of the business operator (personal number-related office work implementers) are, Article 194, Paragraph 1 of the Income Tax Act.
+In accordance with the provisions of
+For this purpose, write down the personal number of the dependent relative to the business operator (personal number related office worker).
+You will be required to submit the listed dependent deduction report.
+
+c Provided by the person or his / her agent (No. 3)
+The person or his / her agent is an individual number-related office worker or an individual number user.
+To provide specific personal information including the individual number of the person to the business performer
+Become.
+* The person himself / herself is responsible for salary withholding work, health insurance / welfare annuity insurance notification work, etc.
+Individuals (or their dependents) to the business operator who is the person who carries out the affairs related to the Individual Number
+The number will be stated in the document and submitted.
+
+26
+
+Page 29
+
+d Consignment, provision due to merger (No. 5)
+Entrustment or merger of all or part of the handling of specific personal information and other matters
+When the business is succeeded by the reason, it is possible to provide specific personal information.
+It recognized.
+* When a business operator outsources salary affairs, including withholding slip preparation affairs, to a subsidiary,
+It is possible to provide salary information including personal numbers of employees, etc. to subsidiaries.
+
+* If Company A merges with Company B, the company that will be absorbed will be the personal number of its employee, etc.
+It is possible to provide salary information, etc., including the above, to the surviving company A.
+
+* Article 10 of the Number Act by a person who has been entrusted with personal number related affairs or personal number use affairs
+In violation of the provisions of the above, the personal number related affairs or individuals without the permission of the first consignor
+When the number use office work is subcontracted, the provision of specific personal information accompanying the subcontract is the same law.
+Since it does not fall under the provision of Article 19 No. 5, it also violates the provision restrictions.
+
+e Information provision Provided through the network system (No. 7 and No. 8, No. 7)
+No. Law Enforcement Ordinance Article 20)
+Between administrative agencies, etc. and health insurance associations, etc. listed in Appendix 2 of the Number Act
+So, regarding the office work in the table, identify using the information provision network system
+It provides personal information. In addition, based on the provisions of Article 9, Paragraph 2 of the same law.
+Of the affairs stipulated by the Ordinance, the Personal Information Protection Commission rules are based on the affairs in the same table.
+A local public body that handles what is stipulated in the rules (hereinafter referred to as "committee rules")
+The head of the body and other executive organs that are stipulated by the rules of the committee are their affairs.
+Information to the person who implements the personal number use office work specified by the committee rules according to the contents of
+Information provision A system that provides specific personal information using a network system.
+There is also. Therefore, businesses other than health insurance associations can use the information provision net.
+No work system is used.
+f Request for provision from the committee (No. 12)
+The committee stipulates Article 35, Paragraph 1 of the Number Act regarding the handling of specific personal information.
+If you request the submission of specific personal information, the committee members will respond to this request.
+Specific personal information must be provided to the association.
+g Providing when there is a need for other public interests such as examination by each House (No. 14, Number Act)
+Enforcement Ordinance Article 25, Enforcement Ordinance Appendix)
+(1) Examination and investigation procedures of each chamber, (2) Legal proceedings and other court procedures
+Continued, ③ Execution of trial, ④ Investigation of criminal cases, ⑤ Based on the provisions of the tax law
+Investigating criminal cases, ⑥ When the Board of Audit is inspected, ⑦ In the public interest
+Specific personal information can be provided when necessary. ⑦ Public interest
+
+27
+
+Page 30
+
+When it is necessary to do the above, it is stipulated in Article 25 of the Number Act Enforcement Ordinance, "Private
+Law Concerning Prohibition of Monopoly and Ensuring Fair Trade "(Law No. 54 of 1947)
+Investigation of criminal cases under the provisions of (Number Act Enforcement Ordinance Appendix No. 2), "Financial Instruments
+Investigation of criminal cases under the provisions of the "Transaction Law" (Law No. 25 of 1948) (Table No. 25)
+No. 4), tax investigation (No. 8 of the same table), report collection according to the provisions of the Personal Information Protection Law
+Revenue (No. 19 of the same table), "Act on Prevention of Transfer of Proceeds from Crimes" (Heisei
+There is a notification (No. 23 of the same table), etc. pursuant to the provisions of Law No. 22 of 19).
+h Provision for the protection of human life, body or property (No. 15)
+Books where necessary to protect human life, body or property
+Specific when there is a person's consent or it is difficult to obtain the person's consent
+Personal information can be provided.
+* If a customer drops an Individual Number Card at a retail store, the retail store is lost to the police.
+The individual number card can be reported as a thing.
+
+C Difference from third party provision under the Personal Information Protection Law
+The Personal Information Protection Law tells businesses that handle personal information about personal data.
+Provide to a third party with the consent of the person or in accordance with the provisions of laws and regulations.
+It is supposed to be possible.
+In the numbering method, specific personal information is specified in Article 19 of the law for all businesses.
+We have limited the cases where we can provide specific personal information.
+Article 23 of the Personal Information Protection Law does not apply.
+When requested to provide specific personal information, the grounds for requesting the provision are
+Carefully check whether it corresponds to each item of Article 19 of the Numbering Law, and correspond to each item of the same Article.
+If you do not, you must not provide specific personal information.
+* Request for disclosure based on Article 28 of the Personal Information Protection Law, request for correction based on Article 29 of the same law, etc.
+Or, when requesting suspension of use, etc. based on Article 30 of the same law, attach a personal number from the person himself / herself.
+When a request is made or when the personal number or specific personal information is provided to the person,
+Although not stipulated in each item of Article 19 of the Numbering Law, it is natural that specific personal information is provided due to the interpretation of the law.
+This is a case that should be accepted, and specific personal information can be provided.
+
+28
+
+Page 31
+
+No. 4-3-⑶ Collection / storage restrictions
+The point
+○ Except for cases that fall under any of the items of Article 19 of the Number Act, specific personal information will be provided.
+Do not collect or store.
+(Related article)
+・ Number Law Article 20
+・ Personal Information Protection Law Article 19
+● Restrictions on collection and storage (Article 20 of the Number Act)
+No person, except in cases falling under any of the number Law Article 19 each item, others (Note) of
+You must not collect or store specific personal information including personal numbers.
+(Note) In Articles 15 and 20 of the Number Act, other people are "those who belong to the same household as themselves"
+The specific personal information of a person who is an "outside person" and belongs to the same household as himself / herself, such as a child or spouse, is
+It can be collected or stored even if it does not fall under any of the items of Article 19 of the same law.
+
+A Collection restrictions
+"Collecting" means putting it in your possession with the intention of collecting, eg
+For example, receiving a memo with an individual number from a person, hearing from a person
+In addition to directly obtaining the personal number, such as writing down the personal number, operate a computer, etc.
+Create, display the personal number on the screen, write down the personal number, pre
+Includes things like going out. On the other hand, just receiving the presentation of specific personal information
+Does not correspond to "collection".
+* A person who is engaged in personal number related affairs as a salary clerk of a business operator is the personal number.
+Do not copy specific personal information of other employees, etc. into a notebook for purposes other than office work related to the issue.
+Not.
+
+* Among the business operators, simply receive the documents with the personal number, etc., and prepare the payment record.
+Because the person who is in the position of handing over to the person engaged in the work does not need to keep the personal number independently
+After performing necessary office work such as confirmation of personal number, deliver the documents as soon as possible
+However, you must not leave your personal number in your possession.
+For example, when a business operator pays a lecture fee to a lecturer, the lecturer gives an individual number.
+If the person in charge of receiving the documents, etc., and the person in charge of preparing the payment record are different
+The person in charge of receiving documents, etc. should be as quick as possible to the person in charge of preparing payment records.
+You must hand over the documents and do not leave your personal number in your possession.
+In addition, the person in charge of receiving documents with personal number is also in accordance with personal number related office work.
+Since you are engaged in the office work as a part of the business operator, you can use the individual number.
+
+29
+
+Page 32
+
+Whether the documents, etc. are incomplete when receiving the documents, etc. from the identified person
+You can check including your personal number.
+
+* In Article 10 of the Number Act, personal number-related affairs or individuals without the permission of the first consignor.
+It is clearly stated that subcontracting of personal number usage affairs is not permitted, and the subcontracting is not permitted.
+The provision of specific personal information accompanying entrustment does not fall under any of the items of Article 19 of the same law.
+For this reason, personal number related affairs or office work without confirming that the permission of the first consignor has been obtained.
+Has been subcontracted for personal number usage affairs, and as a result, has not obtained the permission of the first consignor.
+If specific personal information is collected due to subcontracting, it may be judged as a violation of the Numbering Law.
+is there.
+However, for example, the consignment contract, etc. states that it is a consignment business that handles personal numbers.
+The subcontracting is "re-consignment of personal number related affairs or personal number use affairs"
+Subcontracting is carried out in a situation where the person receiving the subcontract cannot recognize that it falls under "consignment".
+If so, it is generally not understood that specific personal information has been collected.
+
+B Storage restrictions and disposal
+Personal numbers are collected or collected to handle the affairs specified in the Number Act.
+Is stored, so only if you need to do those affairs
+You can continue to store specific personal information. In addition, the personal number was listed
+Documents, etc. are required to be stored for a certain period of time by the relevant laws and regulations.
+There are some, but for the personal number written in these documents, etc., the period
+It will be stored for a while.
+On the other hand, when it is no longer necessary to process those affairs, the decree under the jurisdiction
+If the specified storage period has expired, please give your personal number as much as possible.
+Must be promptly discarded or deleted. In addition, the personal number part is restored
+It is possible to continue storage after masking or deleting to the extent that it can not be original
+However, it is not necessary to use it when it corresponds to personal data.
+When it becomes, we must try to erase the personal data without delay.
+No (Article 19 of the Personal Information Protection Law).
+* The business operator keeps the personal number of the employee, etc. for the purpose of processing the withholding work of salary.
+Can be On the other hand, for the purpose of managing the business results of employees, etc., individuals such as employees, etc.
+The number cannot be stored.
+
+* Individuals provided by employees, etc., if they have an ongoing contractual relationship such as an employment contract.
+Numbers will be used for salary withholding work, health insurance / welfare annuity insurance notification work, etc. from the following year
+Since it is recognized that it is necessary to continue to use the rain, it is possible to continuously store specific personal information.
+It is understood that it can be done. If employees are on leave, even if reinstatement is undecided
+Since the employment contract is ongoing, it is understood that specific personal information can be stored continuously.
+Similarly, if you have a continuous contractual relationship such as a land lease contract, prepare a payment record.
+
+30
+
+Page 33
+
+Since it is recognized that it is necessary to continuously use the personal number for business purposes, specific personal information
+Is understood to be able to be stored continuously.
+
+* Dependent tax returns should be submitted in accordance with Article 76-3 of the Income Tax Act Enforcement Regulations.
+January 10 of the year following the year to which the deadline (until the day before the first payment of salary, etc.) belongs
+Since it is supposed to be stored from the day after the day until the day when 7 years have passed, the relevant period
+If you have passed, you do not need to keep the personal number stated in the tax return.
+As a general rule, discard the tax return for dependents with your personal number as soon as possible.
+There must be.
+Therefore, for documents such as tax deductions for dependents with personal numbers, the storage period
+It is desirable to establish a storage system that assumes disposal after a lapse of time.
+
+* Specific personal information provided for the preparation of salary income withholding slips, payment records, etc.
+Even if the information is stored as an electromagnetic record, it does not need to be used for the office work.
+As a general rule, if the storage period stipulated by the relevant law has passed, the personal number will be given.
+It must be discarded or deleted as soon as possible.
+Therefore, in the system that stores specific personal information, it should be left after the storage period has elapsed.
+It is desirable to build a system that is premised on disposal or deletion.
+
+* For specific details such as disposal methods, see "(Attachment) Safety pipe for specific personal information.
+See "Physical Measures (Business Operators)".
+
+31
+
+Page 34
+
+No. 4-3-⑷ Identity verification
+● Identity verification (Article 16 of the Number Act)
+For identity verification, Number Law, Number Law Enforcement Ordinance, Number Law Enforcement Regulations and Individual Number
+It is necessary to take appropriate measures because it will follow the method approved by the practitioner of the use office work.
+There is.
+<Reference 1: Overview of identity verification>
+The outline of identity verification in the Numbering Law, Numbering Law Enforcement Ordinance and Numbering Law Enforcement Regulations is as follows.
+It is as follows. In this item, "law" is the number law, and "decree" is the number law.
+Ordinance, "regulation" refers to the Number Law Enforcement Regulations (Number Law Enforcement Regulations Article 1, Paragraph 1, Item 1)
+In this case, write "Rule 1 ① 1". ).
+① When receiving an individual number from the person
+I When receiving the presentation of the Individual Number Card
+"Individual Number Card" (Law 16)
+
+Ii Other than i
+(I) When receiving documents, etc.
+"Number verification documents" + "Identity verification documents"
+(Ordinance 12 ① 1) (Ordinance 12 ① 2)
+Driver's license, etc. of resident's card (Rule 1)
+Copy etc.
+
+In difficult cases (Rule 2③)
+In difficult cases Special provisions of the Minister of Finance, etc. (Rule 2 ④)
+(Rule 2 ①) By telephone (Rule 2 ⑤)
+When it is clear that the person is the same as a specific individual
+(Rule 2 ⑥)
+
+(Ii) When receiving an individual number using an electronic information processing organization
+Reading the IC chip of the Individual Number Card, sending electronic signatures, etc., using the Individual Number
+Confirmation with the Japan Agency for Local Authority Information Systems by the business implementer (Rule 3)
+
+32
+
+Page 35
+
+② When receiving the personal number from the person's agent
+I When receiving documents, etc.
+"Authority Confirmation Documents" + "Agent Identity Confirmation Documents" + "Personal Number Confirmation Documents"
+(Ordinance 12 ③ 1) (Ordinance 12 ③ 2)
+
+(Ordinance 12 ③ 3)
+
+Family register copy, personal number card, related to the person
+Power of attorney, etc. Driver's license, etc.
+
+Personal number card, etc.
+
+(Rule 6 ① 1, 2) (Rule 7 ①)
+
+(Rule 8)
+
+When it is difficult When the agent is a corporation When it is difficult
+(Rule 6 ① 3) (Rule 7 ②)
+
+(Rule 9⑤)
+
+When the agent is a corporation difficult
+Case (Rule 6②) (Rule 9①)
+Special provisions of the Minister of Finance, etc.
+(Rule 9②)
+By phone When by phone
+(Rule 9 ③) (Rule 9 ③)
+A place where it is clear that you are the same person as a specific individual
+(Rule 9 ④)
+
+Ii When receiving an individual number using an electronic information processing organization
+Transmission of proxy right certification information and electronic signature of the proxy, by the individual number use office worker
+Confirmation with the Japan Agency for Local Authority Information Systems (Rule 10)
+
+* If you receive your personal number by sending it in writing, you must show it above.
+You must submit the documents or a copy thereof (Rule 11).
+
+<Reference 2: Transitional measures related to the abolition of notification cards>
+"Improving the convenience of those involved in administrative procedures, etc. by utilizing information and communication technology.
+Information and communication in administrative procedures, etc. to simplify and improve the efficiency of administrative operations
+"Law to partially revise the law concerning the use of technology" (Law No. 16 of the first year of Reiwa.
+Hereinafter referred to as the "Digital Procedure Act". ) Partially enforced, so far number confirmation
+Notification card that was available as a kind (according to the provisions of Article 4 of the Digital Procedure Act)
+The notification card specified in Article 7, Paragraph 1 of the Number Act before the revision. ) Has been abolished.
+However, transitional measures are provided, and the individual number-related office worker or individual number
+The person who uses the issue office provides an individual number from the person who has been issued a notification card.
+When you receive the notification, after the abolition date of the notification card (May 25, 2nd year of Reiwa)
+As long as there is no change in the items described on the card, the following items will be listed as before.
+Depending on the method, the notification card can be used for identity verification. The abolition
+If there is a change in the information on the notification card before the stop date, the mayor of the municipality
+If you have not received measures to change the items listed (including the mayor of the special ward)
+The transitional measure does not apply.
+
+33
+
+Page 36
+
+① When receiving an individual number from the person
+"Notification card" + "Identity verification documents"
+(Old law (Note 1) 16) (Old regulations (Note 2) 1 ①)
+Driver's license, etc. (Old Regulation 1 ① 1, 2)
+Difficult case (old rule 1 ① 3)
+Special Provisions of the Minister of Finance, etc. (Old Regulations 1 ③ 1 to 4)
+Difficult case (old rule 1 ③ 5)
+When it is clear that the person is the same as a specific individual (old rule 3⑥)
+
+② When receiving the personal number from the person's agent
+"Authority Confirmation Documents" + "Agent Identity Confirmation Documents" + "Personal Number Confirmation Documents"
+(Old Ordinance (Note 3) 12②1) (Old Ordinance 12②2) (Old Ordinance 12②3)
+Family register copy, personal number card, related to the person
+Power of attorney, etc. Driver's license, etc.
+
+Notification card
+
+(Old rule 6 ① 1, 2) (Old rule 7 ①)
+
+(Old rule 8)
+
+When it is difficult When the agent is a corporation
+(Old rule 6 ① 3) (Old rule 7 ②)
+When the agent is a corporation difficult
+Case (old rule 6②) (old rule 9①)
+Special provisions of the Minister of Finance, etc.
+(Old rule 9②)
+By phone When by phone
+(Old rule 9③) (Old rule 9③)
+A place where it is clear that you are the same person as a specific individual
+If (old rule 9④)
+
+* If you receive your personal number by sending it in writing, you must show it above.
+You must submit the documents or a copy thereof (Old Regulation 11).
+
+(Note 1) Refers to the numbering method before amendment pursuant to the provisions of Article 4 of the "Digital Procedure Law".
+(Note 2) "Act on the Use of Numbers for Identifying Specific Individuals in Administrative Procedures, etc."
+Amendment by "Order to partially revise the enforcement regulations" (Reiwa 2nd year Cabinet Office / Ministry of Internal Affairs and Communications Ordinance No. 6)
+Refers to the previous number law enforcement regulations.
+(Note 3) "Act on the Use of Numbers for Identifying Specific Individuals in Administrative Procedures, etc."
+Numbering method before revision by "Cabinet Order to partially revise the enforcement order" (Cabinet Order No. 164 of 2nd year of Reiwa)
+Enforcement order.
+
+34
+
+Page 37
+
+4th-4 Handling regarding suspension of provision to third parties
+The point
+○ It is applicable to each item of Article 19 of the Number Act that specific personal information can be provided.
+Limited to cases where it fits. Therefore, specific personal information is illegally third
+The person who knew that it was provided to the person requested that the provision be stopped.
+If it turns out that there is a reason for the request, the third
+The offer to the person must be stopped.
+○ If specific personal information is handled properly, provision to third parties will be suspended.
+There will be no demand for a stop.
+(Related article)
+・ Numbering Law, Article 30, Paragraph 3
+・ Personal Information Protection Law Article 30
+● Suspension of provision to a third party (Individuals who are applied by replacing with Article 30, Paragraph 3 of the Number Act)
+Information Protection Law, Article 30, Paragraphs 3 and 4)
+It is applicable to each item of Article 19 of the Number Act that specific personal information can be provided.
+If you do not provide specific personal information in other cases
+Absent. The person is a specific individual who is the retained personal data for the business operator handling personal information.
+If the information is illegally provided to a third party in violation of each item of the same Article, the relevant identification
+You can request the suspension of provision of personal information to a third party. Handling of personal information
+When the trader receives the request, it turns out that there is a reason for the request
+If you do, you must stop providing the specific personal information to a third party without delay.
+Must be.
+However, it is difficult to stop the provision to a third party, and the rights and interests of the person
+When taking alternative measures to protect, do not stop providing to third parties
+This point is the same as the handling of the conventional Personal Information Protection Law.
+
+35
+
+Page 38
+
+4th-5th Specific Personal Information Protection Evaluation
+● Specific Personal Information Protection Evaluation (Articles 27 and 28 of the Number Act)
+Specific personal information protection evaluation is information using the information provision network system.
+A business operator that cooperates with information causes leakage of specific personal information and other situations.
+Analyze the desk and take appropriate steps to mitigate such risks
+Is to declare.
+Information reams using the information provision network system by persons other than government agencies
+Health insurance associations and the like can be mentioned as businesses that carry out the business.
+Businesses that are not obliged to carry out specific personal information protection evaluations are voluntarily special
+Is it a viewpoint of protection of specific personal information to utilize the method of fixed personal information protection evaluation?
+Is beneficial.
+* For details on the specific personal information protection evaluation, see "Rules for Specific Personal Information Protection Evaluation"
+(2014 Specified Personal Information Protection Commission Rule No. 1) and "Specific Personal Information Protection Evaluation Guidelines"
+Please refer to (2014 Specified Personal Information Protection Commission Notification No. 4).
+
+36
+
+Page 39
+
+4-6 Main provisions of the Personal Information Protection Law
+The business operator handling personal information has the following regarding the proper handling of specific personal information.
+It is necessary to keep in mind that it is subject to the Personal Information Protection Law (Number Law No. 30).
+According to Article 3, Paragraph 3, Article 16, Paragraph 3, Items 3 and 4, Article 17 of the Personal Information Protection Law
+Paragraph 2 and the provisions of Articles 23 to 26 are exempt).
+A Identification of purpose of use (Article 15 of the Personal Information Protection Law)
+a Identification of purpose of use (paragraph 1)
+Businesses handling personal information should use it when handling personal information.
+The target must be specified as much as possible.
+b Change of purpose of use (Section 2)
+When the business operator handling personal information changes the purpose of use, the usage before the change
+Do not go beyond what is reasonably considered to be relevant to the target.
+B Notification of purpose of use, etc. (Article 18 of the Personal Information Protection Law)
+a Notification of purpose of use, etc. (Section 1)
+When a business operator handling personal information acquires personal information, it will take advantage of it in advance.
+Unless the purpose of use is announced, promptly inform the person of the purpose of use.
+Must be known or published.
+b Clarification of purpose of use (Section 2)
+The business operator handling personal information concludes a contract with the person regardless of the provisions of a.
+Contracts and other documents (including electromagnetic records; hereinafter referred to in b) accompanying the conclusion
+It's the same. ) When acquiring the personal information of the person concerned Others
+If you want to obtain the personal information of the person in question directly from
+First of all, the purpose of use must be clearly stated to the person. However, people
+If there is an urgent need to protect your life, body or property
+Not.
+c Notification of changed purpose of use, etc. (Section 3)
+If the business operator handling personal information changes the purpose of use, the changed usage item
+The person must be notified or announced about the target.
+d Exemption (Section 4)
+The provisions a to c apply when there is a risk of harming the rights and interests of the person, etc.
+Ii Places where there is a risk of harming the rights or legitimate interests of the business operator handling personal information
+In that case, the administrative agency of the country or the local public body shall carry out the affairs stipulated by the law.
+If it is necessary to cooperate with, it will hinder the performance of the relevant affairs.
+When there is a risk of ⅳ, it is recognized that the purpose of use is clear from the status of acquisition.
+
+37
+
+Page 40
+
+If it is found, it does not apply.
+C Ensuring the accuracy of data content, etc. (Article 19 of the Personal Information Protection Law)
+The business operator handling personal information is to the extent necessary to achieve the purpose of use.
+Keep your data accurate and up-to-date and when you no longer need to use it
+Must endeavor to erase the personal data without delay.
+D Appropriate acquisition (Personal Information Protection Law, Article 17, Paragraph 1)
+Businesses handling personal information acquire personal information by deception or other fraudulent means.
+Must not be.
+E Publication of matters related to retained personal data (Article 27 of the Personal Information Protection Law, personal information
+Protection Law Enforcement Ordinance Article 8)
+Publication of matters concerning retained personal data (Section 1)
+The business operator handling personal information, regarding the retained personal data, i.
+Name or name of the trader, purpose of use of all retained personal data (Bd i to iii)
+Except when applicable to. ), Ⅲ Notification of purpose of use, disclosure, correction, etc.
+In addition to the procedures listed in iv i to iii, such as procedures for responding to requests due to suspension, etc.
+Personal information protection as a necessary matter for ensuring the proper handling of retained personal data
+A state that the person can know about what is stipulated in Article 8 of the Dharmapala Enforcement Ordinance (Person's request)
+Including the case of replying without delay according to the request. ) Must be placed.
+b Request for notification of purpose of use (Section 2)
+The business operator handling personal information is a retained personal day in which the person is identified by the person.
+When requested to notify the purpose of use of the data, the person should be notified without delay.
+Must be notified. However, the person concerned is identified according to the provisions of ia.
+If the purpose of use of the retained personal data is clear, it corresponds to iiBd i to iii.
+This does not apply if any of the cases apply.
+c Notification to the person (Section 3)
+The business operator handling personal information is required to collect personal data based on the provisions of b.
+If you decide not to notify the purpose of use, you should notify the person without delay.
+Must be notified.
+F Disclosure (Article 28 of the Personal Information Protection Law, Article 9 of the Enforcement Ordinance of the Personal Information Protection Law)
+a Request for disclosure (paragraph 1)
+The person is a retained individual who can identify the person to the business operator handling personal information.
+Disclosure of data can be requested.
+
+38
+
+Page 41
+
+b Disclosure (paragraph 2)
+When a business operator handling personal information receives a request pursuant to the provisions of a, it will contact the person himself / herself.
+However, by the method stipulated in Article 9 of the Personal Information Protection Law Enforcement Ordinance, the insurance concerned will be held without delay.
+Yes Personal data must be disclosed. However, by disclosing
+I. If there is a risk of harming the rights and interests of the person, etc., ii.
+If there is a risk of significantly hindering the proper implementation of a person's business, iii other laws
+If any of the cases that violate the decree are applicable, all or all of them
+Some may not be disclosed.
+c Notification to the person (Section 3)
+The business operator handling personal information is all of the retained personal data related to the request pursuant to the provisions of a.
+When it is decided not to disclose a part or a part, or the holding individual
+If the data does not exist, you must notify the person without delay.
+Must be.
+d Disclosure by other laws and regulations (paragraph 4)
+Corresponds to the method specified in the text of b for the person according to the provisions of other laws and regulations.
+Disclose all or part of the retained personal data that identifies the person by the method
+If it is supposed to be, all or part of the retained personal data
+Therefore, the provisions of a and b do not apply.
+G Correction, etc. (Article 29 of the Personal Information Protection Law)
+a Request for correction, etc. (paragraph 1)
+The person is a retained individual who can identify the person to the business operator handling personal information.
+If the content of the data is not true, correct or add the content of the retained personal data.
+Or you can request deletion (hereinafter referred to as "correction, etc." in G).
+To
+b Correction, etc. (Section 2)
+When a business operator handling personal information receives a request pursuant to the provisions of a, it is among them.
+Places where special procedures are stipulated by the provisions of other laws and regulations regarding correction of contents, etc.
+Except for cases, the necessary investigation without delay within the range necessary to achieve the purpose of use
+And based on the result, do not correct the contents of the retained personal data.
+Must be.
+c Notification to the person (Section 3)
+The business operator handling personal information is included in the retained personal data related to the request pursuant to the provisions of a.
+When you make corrections, etc. for all or part of the contents, or do not make corrections, etc.
+When a decision is made to that effect, that effect (correction, etc.) will be made to the person without delay.
+If so, include the contents. ) Must be notified.
+
+39
+
+Page 42
+
+H Suspension of use, etc. (Article 30 of the Personal Information Protection Law)
+a Request for suspension of use, etc. (Section 1)
+The person is a retained individual who can identify the person to the business operator handling personal information.
+Regulations of No. 4-1-1 (1) 1B (Prohibition of use of personal numbers beyond the purpose of use)
+Obtained when being handled in violation of the provisions of D or in violation of the provisions of D
+If, the use of the retained personal data is suspended or deleted (hereinafter referred to as H).
+It is called "suspension of use, etc." ) Can be requested.
+b Suspension of use, etc. (Section 2)
+The business operator handling personal information is in the case of receiving a request pursuant to the provisions of a.
+Needed to correct a breach when it turns out that there is a reason for the claim
+To the limit, the use of the retained personal data must be suspended without delay.
+Absent. However, if a large amount of money is required to suspend the use of the retained personal data, etc.
+If it is difficult to suspend the use of the service, the rights and interests of the person
+This is not the case when taking alternative measures necessary to protect the
+I.
+c Notification to the person (Section 5)
+The business operator handling personal information is all of the retained personal data related to the request pursuant to the provisions of a.
+When the use of a part or part is suspended or the usage is suspended
+When it is decided not to do so, or 4-4 (Take regarding suspension of provision to a third party)
+Regarding all or part of the retained personal data related to the request under the provisions of (Handling)
+When the provision to a third party is stopped or the provision to a third party is not stopped
+When making a decision, the person must be notified to that effect without delay.
+Not.
+I Explanation of reason (Article 31 of the Personal Information Protection Law)
+Is the business operator handling personal information the person himself / herself according to the regulations of Ec, Fc, Gc or Hc?
+Take measures for all or part of the measures requested or requested
+When notifying that there is no such measure or when notifying that measures different from the measures will be taken
+You must try to explain the reason to the person.
+J Procedures for responding to requests for disclosure, etc. (Article 32 of the Personal Information Protection Law, Implementation of the Personal Information Protection Law)
+Ordinance Articles 10 and 11)
+a How to accept requests for disclosure, etc. (Section 1)
+The business operator handling personal information is requested by the provisions of Eb or Fa, Ga or
+According to the provisions of Ha or 4-4 (Handling regarding suspension of provision to third parties)
+Request (hereinafter referred to as "Request for Disclosure, etc." in Article 53, Paragraph 1 of J and the Personal Information Protection Law.
+That is. ), According to Article 10 of the Personal Information Protection Law Enforcement Ordinance
+The method of accepting the request or request can be determined. In this case
+
+40
+
+Page 43
+
+Therefore, the person must make a request for disclosure, etc. in accordance with the method.
+I.
+b Presentation of matters sufficient to identify (Section 2)
+A business operator handling personal information is subject to requests for disclosure, etc. from the person himself / herself.
+It is possible to request the presentation of matters sufficient to identify the retained personal data.
+To In this case, the business operator handling personal information can be easily and accurately opened by the person himself / herself.
+Contribute to the identification of the retained personal data so that requests for indications, etc. can be made.
+Providing information and other appropriate measures in consideration of the convenience of the person
+Absent.
+c Agent (Section 3)
+Requests for disclosure, etc. shall be made in accordance with Article 11 of the Personal Information Protection Law Enforcement Ordinance.
+Can be done by an agent.
+d Consideration for the person (Section 4)
+Businesses handling personal information make requests for disclosure, etc. based on the provisions a to c.
+In deciding the procedure to respond, if it imposes an excessive burden on the person
+Care must be taken not to.
+K fee (Article 33 of the Personal Information Protection Law)
+a Fee collection (paragraph 1)
+Businesses handling personal information were requested to notify the purpose of use pursuant to the provisions of Eb.
+At that time, or when a request for disclosure pursuant to the provisions of Fa is received, the implementation of the relevant measures
+Fees can be collected for.
+b Determining the amount of fees (paragraph 2)
+If the business operator handling personal information collects a fee according to the provisions of a, the actual cost
+To the extent that it is considered reasonable in consideration of
+Must be determined.
+L Advance request (Article 34 of the Personal Information Protection Law)
+a Advance request (paragraph 1)
+The person himself / herself is Fa, Ga or Ha or No. 4-4 (Regarding the suspension of provision to a third party).
+When attempting to file an action relating to a request pursuant to the provisions of
+Make the request in advance to the person who should be the defendant of the complaint, and
+File the complaint only after two weeks have passed since the date of arrival.
+I can't. However, the person who should be the defendant of the complaint refuses the request.
+If so, this is not the case.
+
+41
+
+Page 44
+
+b Deemed provisions (paragraph 2)
+The claim of a is that it arrived when the claim should normally have arrived
+I reckon.
+c Applicable mutatis mutandis to the petition for provisional disposition order (paragraph 3)
+The provisions of a and b are Fa, Ga or Ha or No. 4-4 (provided by a third party).
+Regarding the petition for a provisional disposition order pertaining to a request pursuant to the provisions of
+And apply mutatis mutandis.
+Processing of M complaints (Article 35 of the Personal Information Protection Law)
+a Complaint handling (paragraph 1)
+Businesses handling personal information should promptly and appropriately make complaints regarding the handling of personal information.
+You have to make an effort for proper processing.
+b System maintenance (Section 2)
+The business operator handling personal information is required to establish the system necessary to achieve the purpose of a.
+I have to make an effort.
+
+42
+
+Page 45
+
+4th-7th Measures, etc. by the Health Insurance Society, etc.
+Health insurance associations, etc., who carry out personal number use office work, are from 4-1 to 6.
+In addition, it is necessary to pay attention to the following measures.
+1 Regarding the identity verification information stored by the Japan Agency for Local Authority Information Systems
+Request for provision (Article 14, Paragraph 2 of the Number Act, Article 11 of the Number Act Enforcement Ordinance)
+Established in Article 11 of the Number Act Enforcement Ordinance among those who carry out personal number use office work such as health insurance associations
+Persons (Basic Resident Registration Act (Act No. 81 of 1967) Appended Tables 1 to 4
+The person listed in the upper column) has the personal number of the person who is the target of the personal number use office work.
+When it is necessary to process the personal number use office work, such as when there is no personal number, the local government
+Providing identity verification information stored by the Japan Agency for Local Authority Information Systems, such as personal numbers
+Can be sought.
+2 Information linkage of specific personal information by the information provision network system, etc.
+Health insurance associations, etc. have specific personal information through the "Information Provision Network System"
+Information related to information can be linked (No. 4-3-⑵2Be "Information provision network"
+Provided through the network system ").
+A Information linkage of specific personal information by the information provision network system
+"Information provision network system" is Article 19 No. 7 or 8 of the Number Act.
+Specific personal information between government agencies and health insurance associations, etc., based on the provisions of No.
+This is a system for safely and efficiently linking information. This shi
+When information related to specific personal information can be linked through the stem
+Regarding this, it is stipulated by the ordinance based on the provisions of Appendix 2 of the same law or Article 9, Paragraph 2 of the same law.
+Of the office work to be done, it is stipulated in the committee rules as equivalent to the second office work in the attached table.
+Is limited to.
+* Information for those who request the provision of specific personal information through the information provision network system
+"Inquirer" (Article 19 No. 7 of the Number Act) or "Inquirer of Ordinance Office Information" (Article 19 Article 19 of the same Act)
+No. 8), which holds the specific personal information and through the information provision network system
+The person who provides the information is an "information provider" (Article 19, Item 7 of the same law) or an "regulation office work-related information provider".
+(Article 19 No. 8 of the same law). In addition, information conducted based on the provisions of Article 19, Item 7 of the Number Act.
+The affairs related to information cooperation are called "information provision affairs" and are based on the provisions of Article 19, Item 8 of the same law.
+The affairs related to information cooperation that are carried out are called "regulation affairs related information provision affairs"
+Article 24, Article 26).
+
+a Information provision network system (Articles 21 and 26 of the Number Act)
+The information provision network system will be provided by the Minister of Internal Affairs and Communications in consultation with the committee.
+It is installed and managed, and is based on Article 19, Item 7 or 8 of the Number Act.
+And the provision of specific personal information from the information inquirer or the ordinance office work related information inquirer
+
+43
+
+Page 46
+
+When requested, the Minister of Internal Affairs and Communications will use the information provision network system.
+And you have to notify the information provider or the information provider related to the ordinance office work to that effect.
+It doesn't become.
+<Reference> Precautions regarding the handling of acquisition numbers
+Personal identification code for providing information necessary for information linkage (Article 21-2, Paragraph 1 of the Number Act)
+Refers to the personal identification code for providing information specified in. ) Used in acquisition
+To the acquisition number (meaning the acquisition number specified in Paragraph 2 of the same Article)
+Regarding, in Paragraph 3 of the same Article, "Information inquirers or information providers are information.
+The range necessary to achieve the purpose of performing the office work related to the acquisition of the personal identification code for provision
+You must not hold an acquisition number beyond that, "and in paragraph 6 of the same Article.
+"The person who received the acquisition number is necessary to achieve the purpose for which the acquisition number was provided.
+You must not hold the acquisition number beyond the scope. "
+Has been done.
+Therefore, the health insurance association, etc., which is the business operator that links information, and the acquisition number
+The person who received the issue will provide the information after obtaining the personal identification code for providing information.
+When it is no longer necessary to process the affairs related to the acquisition of the in-service personal identification code
+Need to delete the acquisition number.
+b Provision of specific personal information (Articles 22 and 26 of the Number Act)
+
+Information providers or information providers related to ordinance office work are notified by the Minister of Internal Affairs and Communications.
+In that case, it is requested by the information inquirer or the ordinance office work related information inquirer.
+You must provide specific personal information.
+Proposal of a document with the same content as the specific personal information according to the provisions of laws and ordinances
+If you are required to leave, through the information provision network system
+Specific personal information was provided by the information provider or the information provider related to the ordinance office work.
+From time to time, it is considered that the document has been submitted.
+* If the health insurance association certifies the insured's dependents, the insured will be in business.
+Taxation (tax exemption) certificate for dependents, pension amount to health insurance association mainly through
+It is necessary to submit a copy of the revision notice, etc. (Article 38 of the Health Insurance Law Enforcement Regulations, etc.),
+Through the information provision network system, the annual income and pension benefits of dependents
+If provided, the insured submits these attachments for dependents.
+No need to
+
+B Records of information provision, etc. (Articles 23 and 26 of the Numbering Law, Articles 29 and 29 of the Numbering Law Enforcement Ordinance)
+Article 2)
+Minister of Internal Affairs and Communications, information inquirers and informants, or ordinance office work related information inquirers and
+Ordinance office work-related information providers are based on the provisions of Article 19 No. 7 or No. 8 of the Number Act.
+If there is a request or provision of specific personal information, the information provision net
+
+44
+
+Page 47
+
+Computer used by the person connected to the work system (to the Minister of Internal Affairs and Communications)
+In the case of the information provision network system), the information inquirer and the information provider
+Is the name of the ordinance office-related information inquirer and the ordinance office-related information provider, and the request for provision
+The date and time of provision, items of specific personal information, etc. must be recorded and stored for 7 years.
+Must be.
+C Secret management, etc. (Articles 24, 25, 26 of the Number Act)
+Minister of Internal Affairs and Communications, information inquirers and informants, or ordinance office work related information inquirers and
+The information provider related to the ordinance office work is the office work such as information provision or the provision of information related to the ordinance office work.
+For the prevention of leakage and other appropriate management of secrets related to office work
+In addition, the information provision network system and the information inquirer and information provider or
+Ordinance office work-related information inquirers and ordinance office work-related information providers provide information, etc.
+Is the safety and reliability of computers used for office work such as providing information related to ordinance office work
+Must be secured and other necessary measures must be taken.
+D Handling of records such as provision of information (Article 31, Paragraph 4 of the Number Act)
+Regarding records of information provision, etc., according to Article 31, Paragraph 4 of the Number Act, the Incorporated Administrative Agency Act
+Since the Personal Information Protection Law for Persons, etc. is applied mutatis mutandis or replaced with mutatis mutandis, the following
+Must be handled.
+In this case, regarding the record of information provision, etc., the information provision network system
+Since it is stored and managed on the intermediate server connected to the server, it is medium.
+Proper handling on the inter-server must be ensured.
+a Prohibition of use beyond the purpose of use (replaced according to Article 31, Paragraph 4 of the Number Act)
+Article 9, Paragraph 1 of the Personal Information Protection Law for Incorporated Administrative Agencies, etc. applied mutatis mutandis)
+Do not use records such as information provision beyond the purpose of use.
+b Identification of purpose of use (Incorporated administrative agency applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Etc. Personal Information Protection Law, Article 3, Paragraphs 1 and 3)
+In holding personal information, it is necessary to carry out the business stipulated by law
+Only in such cases, and the purpose of use must be specified as much as possible.
+It is said that, in the case of records such as provision of information, we will respond to requests from the person himself / herself.
+The purpose is to squeeze (legal obligation).
+When changing the purpose of use of records such as information provision, the purpose of use before the change
+Do not go beyond the range reasonably recognized as having a considerable relevance to
+Not.
+c Ensuring accuracy (Incorporated administrative agencies, etc. applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Personal Information Protection Law Article 6)
+Records of information provision, etc. are past or present within the range necessary to achieve the purpose of use.
+
+45
+
+Page 48
+
+We must strive to be in line with the facts of.
+d Restrictions on possession (incorporated administrative agencies, etc., which are applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Personal Information Protection Law, Article 3, Paragraph 2)
+Keeping records of information provision, etc. beyond the scope necessary to achieve the purpose of use
+It doesn't become.
+e Appropriate acquisition (Incorporated administrative agencies, etc. individuals applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Information Protection Law Article 5)
+Records of information provision, etc. must not be obtained by deception or other fraudulent means.
+f Security measures (Incorporated administrative agency applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Etc. Personal Information Protection Law Article 7)
+Records of information provision, etc. Records of information provision, etc. to prevent leakage, loss or damage of records, etc.
+Necessary measures must be taken for proper management of. This provision is
+Entrusted with the handling of records such as information provision from health insurance associations, etc.
+It is also applied when the person performs the business entrusted by the person.
+g Employee obligations (Incorporated administrative agencies, etc. applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act)
+Personal Information Protection Law Article 8)
+Employees of health insurance associations, etc. engaged in the handling of records such as information provision and health
+Those who are engaged in the business entrusted by the insurance association, etc. know about the business.
+Inform others of the contents of records such as the information provided, or unjust eyes
+Do not use it as a target.
+h Disclosure
+Regarding disclosure of records such as information provision, the Personal Information Protection Law of Incorporated Administrative Agencies, etc.
+Articles 12 to 20, Articles 23, 24 and 26 shall apply mutatis mutandis. In addition, it should be noted.
+Regarding the following matters, read according to Article 31, Paragraph 4 of the Number Act and quasi.
+It should be noted that it is used.
+(1) Agent for disclosure request (read and applied mutatis mutandis according to Article 31, Paragraph 4 of the Number Act)
+Incorporated Administrative Agencies, etc. Personal Information Protection Law, Article 12, Paragraph 2, Article 13, Paragraph 2, Paragraph 2
+Article 14 No. 1)
+Disclosure requests can be made not only by legal representatives but also by voluntary representatives
+Therefore, it is necessary to deal with this appropriately.
+(2) Granting an opportunity to submit a written opinion to a third party (in Article 31, Paragraph 4 of the Number Act)
+Article 23, Article 23 of the Personal Information Protection Law for Incorporated Administrative Agencies, etc.
+Personal information of incorporated administrative agencies, etc., which is applied mutatis mutandis pursuant to Article 31, Paragraph 4 of the Number Act
+
+46
+
+Page 49
+
+Information Protection Law, Article 23, Paragraph 2)
+When a request for disclosure of records such as information provision is made, the health insurance association, etc.
+In the record of the information provision, etc., the national government, incorporated administrative agencies, local public organizations, and the ground
+Persons other than incorporated administrative agencies, disclosure requesters, and persons who have received disclosure requests (hereinafter referred to as
+It is called a "third party". ), If any,
+It is possible to give a "third party" an opportunity to submit a written opinion. Also,
+In certain cases, you must give them the opportunity to submit a written opinion, but they are healthy.
+The insurance association itself is not a “third party”.
+③ Disclosure fee (Germany applied mutatis mutandis according to Article 31, Paragraph 4 of the Number Act)
+Incorporated Administrative Agency, etc. Personal Information Protection Law, Article 26, Paragraph 1)
+Health insurance associations, etc. may collect a fee for the implementation of disclosure.
+Wear.
+I Correction, etc.
+Regarding correction of records such as information provision, personal information protection of incorporated administrative agencies, etc.
+Articles 27 to 32 and 35 of the Act shall apply mutatis mutandis. In addition, the following things
+As for the item, it is read and applied mutatis mutandis according to Article 31, Paragraph 4 of the Number Act.
+You need to be careful.
+(1) Agent for correction request (read and applied mutatis mutandis according to Article 31, Paragraph 4 of the Number Act)
+Incorporated Administrative Agencies, etc. Personal Information Protection Law, Article 27, Paragraph 2, Article 28, Paragraph 2)
+Similar to the disclosure request, revision by a voluntary representative as well as a legal representative
+Since it is possible to make a positive claim, we must respond appropriately to this.
+Not.
+(2) Notification to the recipient of records such as information provision (read according to Article 31, Paragraph 4 of the Number Act)
+Article 35 of the Personal Information Protection Law for Incorporated Administrative Agencies, etc.
+When it is necessary to correct the record of information provision etc.
+When admitting, the Minister of Internal Affairs and Communications and information inquirers or informants or ordinances
+Do not notify the inquirer of office work information in writing without delay.
+Must be.
+j Provision of information, etc. to those who intend to request disclosure, etc. (Article 31, Article 31 of the Number Act)
+Article 46, Paragraph 1 of the Personal Information Protection Law for Incorporated Administrative Agencies, etc., which is applied mutatis mutandis pursuant to Paragraph 4)
+Request for disclosure, request for correction or request for suspension of use (hereinafter referred to as "request for disclosure, etc.")
+Each person who intends to do so can easily and accurately request disclosure, etc.
+Provision of information that contributes to the identification of records such as provision of information and other requests for disclosure
+Appropriate measures must be taken in consideration of the convenience of those who intend to do so.
+I.
+
+47
+
+Page 50
+
+(Attachment) Safety management measures for specific personal information
+(Business edition)
+【table of contents】
+The point ................................................. .............. 4 9
+1 Procedure for examining safety management measures ..................................... 50
+A Clarification of the scope of office work that handles personal numbers ..................... 50
+B Clarification of the scope of specific personal information, etc .................................. 50
+C Clarification of the person in charge of clerical work .................................. 50
+D Formulation of basic policy .................................................. .. 50
+E Formulation of handling rules, etc ....................................................... . 50
+2 Details of safety management measures to be taken ...................................... 51
+A Basic policy formulation ....................................................... .. 51
+B Formulation of handling rules, etc ....................................................... . 52
+C Organizational safety management measures ..................................... 52
+a Development of organizational structure ........................................................ 53
+b Operation based on handling rules, etc ..................................... 53
+c Development of means for checking the handling status ..................... 53
+d Establishing a system to respond to cases such as information leaks ........................ 54
+e Understanding the handling status and reviewing safety management measures ...................... 54
+D Human safety management measures ...................................................... . 55
+a Supervision of clerical staff .................................. 55
+b Education of clerical staff ..................... 55
+E Physical safety management measures ..................................... 55
+a Management of areas that handle specific personal information, etc ..................... 55
+b Prevention of theft of equipment and electronic media, etc ....................................... 56
+c Prevention of leakage, etc. when handling electronic media, etc ..................... 56
+d Deletion of personal number, disposal of equipment and electronic media ..................... 56
+F Technical safety management measures ..................................... 57
+a Access control ..................................................... 57 57
+b Accessor identification and authentication ..................... 58
+c Prevention of unauthorized access from the outside ........................ 58
+d Prevention of information leakage, etc ................................................. 59
+
+48
+
+Page 51
+
+The point
+○ Concept of safety management measures in the numbering method
+The number method is the scope of office work where personal numbers can be used, specific personal information files
+The range where you can create, the range where you can collect, store, and provide specific personal information, etc.
+Limited. Therefore, the business operator is the personal number (the one of the surviving individual).
+Not only those of the dead but also those of the dead. ) And specific personal information (hereinafter referred to as "specific personal information"
+Etc. " ) Leakage, loss or damage (hereinafter referred to as "information leakage, etc."
+U. ), The following matters when considering safety management measures
+It is important to clarify.
+A Scope of office work that handles personal numbers
+B Scope of specific personal information, etc.
+C Employees engaged in office work that handles specific personal information, etc.
+
+(Note)
+
+(hereinafter referred to as "office work"
+
+The person in charge of handling. )
+(Note) “Employee” is within the organization of the business operator and receives direct and indirect command and supervision of the business operator.
+A person who is engaged in the business of a business operator. Specifically, in addition to employees, crackdown
+Includes roles, corporate auditors, directors, auditors, dispatched employees, etc.
+
+○ Procedure for examining safety management measures
+The business operator will take safety management measures regarding the proper handling of specific personal information, etc.
+Therefore, it is necessary to examine by the following procedure. → 1
+A Clarification of the scope of office work that handles personal numbers
+B Clarification of the scope of specific personal information, etc.
+C Clarification of clerical staff
+D Basic policy regarding safety management measures for specific personal information, etc. (hereinafter referred to as "basic method"
+It is called "needle". ) Formulation
+E Formulation of handling rules, etc.
+○ Details of safety management measures to be taken
+When considering safety management measures, the business operator shall use the Numbering Law and the Personal Information Protection Law.
+Related laws and regulations, this guideline, personal information protection law guideline, etc.
+Must be observed.
+This guideline is described according to the following items. → 2
+Formulation of A basic policy
+B Formulation of handling rules, etc.
+C Organizational safety management measures
+D Human safety management measures
+E Physical safety management measures
+F Technical safety management measures
+
+49
+
+Page 52
+
+1 Procedure for examining safety management measures
+The business operator obtains an individual number when considering the handling of specific personal information, etc.
+After clarifying the scope of clerical work to be handled and the scope of specific personal information, etc.
+It is necessary to clarify the person.
+Based on these, the organization will ensure the proper handling of specific personal information, etc.
+It is important to formulate a basic policy in order to work on this.
+In addition, we will formulate handling rules, etc., and establish a system for handling specific personal information, etc.
+It is necessary to repair the information system.
+Regarding the safety management measures regarding the handling of specific personal information, etc., the business operator:
+It is necessary to carry out the examination in such a procedure.
+A Clarification of the scope of office work that handles personal numbers
+The business operator clarifies the scope of personal number related affairs or personal number use affairs
+I have to leave. → Refer to Guideline 4-1-1 (1) 1A
+B Clarification of the scope of specific personal information, etc.
+The business operator is the scope of specific personal information, etc. handled in the office work clarified in A.
+Must be clarified
+
+(Note)
+
+.
+
+(Note) Clarifying the scope of specific personal information, etc. means the personal number used in office work.
+And the range of personal information (name, date of birth, etc.) managed in association with the personal number is clarified.
+To say.
+
+C Clarification of clerical staff
+The business operator clarifies the person in charge of office work who is engaged in the office work clarified in A.
+I have to leave.
+D Formulation of basic policy
+To work as an organization to ensure the proper handling of specific personal information, etc.
+In addition, it is important to formulate a basic policy. → See 2A
+E Formulation of handling rules, etc.
+The business operator properly collects specific personal information, etc. in the office work clarified in A to C.
+In order to ensure handling, handling rules, etc. must be formulated. → 2B visit
+Teru
+
+50
+
+Page 53
+
+2 Details of safety management measures to be taken
+In this section 2, the safety pipe necessary for the protection of specific personal information, etc.
+The physical measures are shown in the text, and examples of specific methods are given to small and medium-sized enterprises.
+Describes how to deal with it.
+The positioning of each item is as follows. In considering safety management measures
+Is related to the Numbering Law and the Personal Information Protection Law, as well as this guideline and personal information.
+You must comply with the guidelines of the Information Protection Law.
+-Example of method: This is an example of a specific method. This example is limited to this
+It is not stated for the purpose of stipulating, but the scale of the business operator and specific personal information, etc.
+It is important to adopt an appropriate method depending on the characteristics of the office work to be handled.
+・How to deal with small and medium-sized businesses (Note) : For small and medium-sized businesses,
+The number of personal numbers handled in business is small, and specific personal information is handled.
+Since the number of employees is limited, it shows a special response method.
+In addition, it is not possible for small and medium-sized enterprises to adopt the method described in the example method.
+This is a more desirable response.
+(Note) “Small and medium-sized enterprises” are businesses with 100 or less employees.
+U. However, the following businesses are excluded.
+・ Person who uses personal number
+・ Perform personal number related affairs or personal number use affairs as a business based on entrustment
+business person
+・ Financial field (Personal Information Protection Commission / Financial Services Agency “Personal information in the financial field”
+Business of "Financial field defined in Article 1, Paragraph 1 of the Guidelines for Information Protection"
+Person
+・ Depending on the personal information that constitutes the personal information database, etc. used for the business
+The total number of specific individuals identified in any day within the last 6 months
+Over 5,000 businesses
+
+"Employee" here means "Small and Medium-sized Enterprise Basic Law" (Law No. 154 of 1963).
+Refers to the employees in Japan, and is suitable for Article 20 of the "Labor Standards Act" (Act No. 49 of 1947).
+A person who corresponds to a worker who receives a job. However, according to the provisions of Article 21 of the law, the law
+Excludes those who are exempt from the application of Article 20.
+
+Formulation of A basic policy
+To work as an organization to ensure the proper handling of specific personal information, etc.
+In addition, it is important to formulate a basic policy.
+
+51
+
+Page 54
+
+≪Example of method≫
+* Items stipulated in the basic policy include the following.
+・ Name of business operator
+・ Compliance with related laws and guidelines
+・ Matters concerning safety management measures
+・ Contact point for handling questions and complaints, etc.
+
+B Formulation of handling rules, etc.
+Organize the flow of office work in the office work clarified in 1A to C, and specify specific personal information
+It is necessary to formulate handling rules, etc. that stipulate the specific handling of such items.
+≪Example of method≫
+* Handling rules, etc. are for each of the following management stages: handling method, responsible person, and clerical handling staff.
+It is conceivable to determine the person concerned and his / her duties. Matters to be specified
+It is important to incorporate the safety management measures described in C to F.
+① Acquisition stage
+② Usage stage
+③ Preservation stage
+④ Provision stage
+⑤ Deletion / disposal stage
+
+* In the case of office work to create a withholding slip, for example, according to the following office work flow
+Therefore, it is important to clarify the procedure.
+① How to organize documents submitted by employees, etc.
+(2) How to move to the department that creates the withholding slips for the collected documents, etc.
+③ Data entry method including personal number to the information system
+④ How to create a withholding slip, etc.
+⑤ How to submit withholding slips to government agencies, etc.
+⑥ With a copy of the withholding slip, documents submitted by employees, etc. and the information system
+How to save the files to be handled
+⑦ How to dispose of or delete copies of withholding slips, etc. that have passed the legal retention period, etc.
+
+[How to deal with small and medium-sized enterprises]
+○ Clarify the handling of specific personal information, etc.
+○ If the person in charge of clerical work changes, we will take over reliably and take responsibility.
+A person in a certain position confirms.
+C Organizational safety management measures
+The business operator shall organize the following in order to properly handle specific personal information, etc.
+Safety management measures must be taken.
+
+52
+
+Page 55
+
+a Development of organizational structure
+Establish an organizational structure for taking safety management measures.
+≪Example of method≫
+* The items to be maintained as an organizational structure are as follows.
+・ Appointment of responsible person in office work and clarification of responsibility
+・ Clarification of clerical staff and their roles
+・ Clarification of the scope of specific personal information handled by clerical staff
+・ A place where the person in charge of clerical work grasps the facts or signs of violating the handling rules, etc.
+Report communication system to the person in charge
+・ From the employee to the person in charge, etc. when the occurrence or sign of an information leak or other incident is identified.
+Report communication system to
+・ Duties and responsibilities of each department when handling specific personal information etc. in multiple departments
+Clarification of duties
+
+[How to deal with small and medium-sized enterprises]
+○ If there are multiple clerical staff, separate the responsible person from the clerical staff.
+It is desirable to do.
+b Operation based on handling rules, etc.
+In order to operate based on the handling rules and check the situation
+Record the usage status of specific personal information, etc.
+≪Example of method≫
+* Items to be recorded include the following.
+-Recording the usage and output status of specific personal information files
+・ Records of carrying documents, media, etc. → Refer to 2Ec for "carrying"
+・ Deletion / disposal record of specific personal information file
+・ If you outsource deletion / disposal, records to prove this, etc.
+・ When handling a specific personal information file with an information system, the person in charge of clerical work
+Record of information system usage status (login record, access log, etc.)
+
+[How to deal with small and medium-sized enterprises]
+○ Save a record that shows the handling status of specific personal information.
+c Development of means to check the handling status
+Establish means for checking the handling status of specific personal information files.
+In addition, specific personal information etc. is described in the records etc. for confirming the handling status
+do not.
+
+53
+
+Page 56
+
+≪Example of method≫
+* The following are examples of records for confirming the handling status.
+・ Type and name of specific personal information file
+・ Responsible person, handling department
+· purpose of use
+・ Deletion / disposal status
+・ Person who has access right
+
+[How to deal with small and medium-sized enterprises]
+○ Save a record that shows the handling status of specific personal information.
+d Establishing a system to respond to cases such as information leaks
+Appropriate and prompt when the occurrence or sign of an information leak or other incident is identified
+Establish a system to respond to
+In the event of an information leak or other incident, prevent secondary damage and issue similar incidents.
+From the viewpoint of life prevention, etc., the facts and recurrence prevention measures should be taken immediately according to the case.
+It is important to publish to.
+≪Example of method≫
+* System with the following measures in mind when an information leak or other incident occurs
+It is conceivable to maintain.
+・ Investigation of facts and investigation of the cause
+・ Contact the person who may be affected
+・ Report to the committee or the minister in charge of the business
+・ Examination and decision of recurrence prevention measures
+・ Publication of facts and measures to prevent recurrence
+
+[How to deal with small and medium-sized enterprises]
+○ Employees are in a responsible position in case of information leaks, etc.
+Check in advance the reporting and communication system for persons.
+e Understanding the handling status and reviewing safety management measures
+Grasp the handling status of specific personal information, etc., evaluate and review safety management measures
+And work on improvement.
+≪Example of method≫
+* Regular self-inspection or other departments regarding the handling status of specific personal information, etc.
+It is conceivable to carry out an audit by.
+* It is also possible to carry out an audit in combination with other audit activities by an external entity.
+To
+
+54
+
+Page 57
+
+[How to deal with small and medium-sized enterprises]
+○ Responsible persons regularly check the handling status of specific personal information, etc.
+Inspect in a targeted manner.
+D Human safety management measures
+For the proper handling of specific personal information, etc., the business operator shall carry out the following personal safety.
+All control measures must be taken.
+a Supervision of clerical staff
+Businesses will handle specific personal information properly based on handling rules, etc.
+We will supervise the person in charge of clerical work as necessary and appropriate.
+b Education of clerical staff
+The business operator informs the person in charge of clerical work about the proper handling of specific personal information, etc.
+Thorough and provide appropriate education.
+≪Example of method≫
+* Regular research for employees regarding points to note regarding the handling of specific personal information, etc.
+It is conceivable to carry out repairs.
+* Incorporate matters related to confidentiality of specific personal information into work regulations, etc.
+You could think so.
+
+E Physical safety management measures
+The business operator shall, in order to properly handle specific personal information, etc., the following physical
+Safety management measures must be taken.
+a Management of areas that handle specific personal information, etc.
+Manage information systems (servers, etc.) that handle specific personal information files
+Clarify the area (hereinafter referred to as "controlled area") and take physical safety management measures
+Take a place.
+In addition, the area where the office work that handles specific personal information, etc. is carried out (hereinafter referred to as "handling zone")
+It is called "area". ), Specific personal information, etc. by a person other than the person in charge of clerical work
+It is necessary to be careful not to easily browse.
+≪Example of method≫
+* As physical safety management measures for controlled areas, enter / exit management and controlled areas
+There may be restrictions on the equipment that can be brought in.
+* As an entry / exit management method, entry / exit management using an IC card, number key, etc.
+Installation of a stem, etc. is conceivable.
+* Regarding the handling area, installation of partitions, devising seat arrangement, prevention of peeping
+
+55
+
+Page 58
+
+It is conceivable to take measures to stop it.
+
+b Prevention of theft of equipment and electronic media, etc.
+Equipment and electronics that handle specific personal information in controlled areas and handling areas
+Physical safety management to prevent theft or loss of media and documents
+Take measures.
+≪Example of method≫
+* A cabinet that can lock devices, electronic media, documents, etc. that handle specific personal information, etc.
+It is conceivable to store it on the net or in a library.
+* An information system that handles specific personal information files is operated only on devices.
+In that case, it may be fixed with a security wire or the like.
+
+c Prevention of leakage, etc. when handling electronic media, etc.
+When carrying electronic media or documents containing specific personal information, etc.
+Take safe measures so that your personal number is not easily known.
+"Carrying" means moving specific personal information, etc. from the controlled area or handling area to the outside.
+To move or to move from outside the area to the area.
+Be careful of loss or theft of specific personal information, etc. even when moving within the office
+There is a need to.
+≪Example of method≫
+* As a safe way to carry an electronic medium containing specific personal information, etc.
+Encryption of data to be carried, password protection, use of lockable transport containers,
+The use of traceable transportation means may be considered. However, legal records to government agencies, etc.
+When submitting such data as data, follow the submission method specified by the administrative agency.
+* Sealing, as a safe way to carry documents containing specific personal information, etc.
+It is conceivable to attach a blindfold sticker or use a traceable transportation means.
+
+[How to deal with small and medium-sized enterprises]
+○ When carrying electronic media or documents containing specific personal information, etc.
+Lost or stolen, such as setting a password, enclosing it in an envelope and transporting it in a bag
+Take safe measures to prevent difficulties.
+d Deletion of personal number, disposal of equipment and electronic media, etc.
+When it is no longer necessary to carry out personal number related affairs or personal number use affairs
+If the storage period, etc. stipulated by the relevant laws and regulations has passed,
+Delete or destroy your personal number as soon as possible by non-recoverable means.
+→ Refer to Guideline 4-3-3 (3) B
+
+56
+
+Page 59
+
+When personal number or specific personal information file is deleted, or electronic medium
+When the body etc. is discarded, the deleted or discarded record is saved. Also, this
+When outsourcing these work, the outsourcer must be sure to delete or dispose of it.
+Confirm with a certificate, etc.
+≪Example of method≫
+* When disposing of documents containing specific personal information, etc., incineration, dissolution, or restoration is not possible.
+Use of shredder that can be shredded to the extent possible, personal number part cannot be restored
+It is conceivable to adopt irrecoverable means such as masking to some extent.
+To
+* When disposing of equipment and electronic media on which specific personal information is recorded, a dedicated device is used.
+Unrecoverable means due to the use of data deletion software or physical destruction, etc.
+It is conceivable to adopt.
+* Specific personal information in information systems or devices that handle specific personal information, etc.
+When deleting the personal number or some specific personal information in the file, it can be easily restored.
+It is conceivable to adopt a means that cannot be used.
+* For information systems that handle specific personal information, etc., leave it after the retention period has elapsed.
+It is conceivable to build an information system on the premise of deleting the personal number.
+* Documents with personal numbers must be discarded after the storage period has expired.
+It is conceivable to establish the proposed procedure.
+
+[How to deal with small and medium-sized enterprises]
+○ A person in a responsible position confirms that specific personal information, etc. has been deleted or discarded.
+Admit.
+F Technical safety management measures
+For the proper handling of specific personal information, etc., the business operator shall carry out the following technical matters.
+Safety management measures must be taken.
+a Access control
+Perform personal number related office work or personal number use office work using the information system
+In that case, the person in charge of clerical work and the specific personal information file handled by the clerical work
+Appropriate access control is performed to limit the range of.
+≪Example of method≫
+* The following methods can be used to control access.
+・ Limited to information system terminals that can handle specific personal information files
+To do.
+・ Specific personal information files that can be accessed in each information system
+Limit le.
+
+57 57
+
+Page 60
+
+-Obtain a specific personal information file by the access right given to the user ID
+The person who can use the information system to be handled is limited to the person in charge of clerical work.
+
+[How to deal with small and medium-sized enterprises]
+○ Identify the device that handles specific personal information, etc., and handle that device
+It is desirable to limit the person in charge of business handling.
+○ User control function (user account) that is standard equipment on the device
+Control) to limit the number of clerical staff who handle information systems
+Is desirable.
+b Accessor identification and authentication
+For information systems that handle specific personal information, etc., the person in charge of clerical work is legitimate.
+Authenticate the person who has the access right based on the identified result.
+≪Example of method≫
+* User ID, password, magnetic / I can be identified as the person in charge of clerical work.
+A C card or the like can be considered.
+
+[How to deal with small and medium-sized enterprises]
+○ Identify the device that handles specific personal information, etc., and handle that device
+It is desirable to limit the person in charge of business handling.
+○ User control function (user account) that is standard equipment on the device
+Control) to limit the number of clerical staff who handle information systems
+Is desirable.
+c Prevention of unauthorized access from the outside
+Protect information systems from external unauthorized access or malicious software
+Introduce a protection mechanism and operate it appropriately.
+≪Example of method≫
+* Install a firewall, etc. at the connection point between the information system and the external network.
+It is conceivable to place it and block unauthorized access.
+* Security software for information systems and devices (virus protection software, etc.)
+It is conceivable to introduce software (such as software) and check for malicious software.
+Is done.
+* By utilizing the automatic update function, etc. that is standard equipment and software, etc.
+It is conceivable to update the software etc. to the latest state.
+* It is conceivable to analyze logs, etc. on a regular basis to detect unauthorized access.
+
+58
+
+Page 61
+
+d Prevention of information leakage, etc.
+Communication when sending specific personal information to the outside via the Internet, etc.
+Take measures to prevent information leaks along the route.
+≪Example of method≫
+* As a preventive measure against information leakage in the communication path, encryption of the communication path is considered.
+available.
+* As a preventive measure against information leakage such as specific personal information stored in the information system
+Therefore, data encryption or password protection can be considered.
+
+59
+
+

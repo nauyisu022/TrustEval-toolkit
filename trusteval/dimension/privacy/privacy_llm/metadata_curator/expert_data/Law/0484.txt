@@ -1,0 +1,691 @@
+Page 1
+
+Be in the right N OJ PAGE
+online@paragraf.rs
+www.paragraf.rs
+
+Taken from the electronic legal database Paragraf Lex
+
+If you have not downloaded this regulation from the Paragraf website or you are not sure whether it is a valid version of the regulation,
+you can find the latest version HERE.
+
+THE LAW
+ON INFORMATION SECURITY
+("Official Gazette of RS", No. 6/2016, 94/2017 and 77/2019)
+
+AND BASIC PROVISIONS
+Subject of editing
+Article 1
+This law regulates measures for protection against security risks in information and communication systems, responsibilities
+legal entities during the management and use of information and communication systems and the competent authorities for
+implementation of protection measures, coordination between protection factors and monitoring the correct application of prescribed protection measures.
+
+The meaning of certain terms
+Article 2
+Certain terms in the sense of this law have the following meaning:
+1) information-communication system (ICT system) is a technological-organizational unit that includes:
+(1) electronic communications networks within the meaning of the law governing electronic communications;
+(2) devices or groups of interconnected devices, such that within the device, or within at least one
+from the group of devices, performs automatic data processing using a computer program;
+(3) data that are kept, stored, processed, searched or transmitted by means of sub-items. (1) and (2) of this point, au
+the purpose of their operation, use, protection or maintenance;
+(4) the organizational structure through which the ICT system is managed;
+(5) all types of system and application software and software development tools;
+2) ICT system operator is a legal entity, authority or organizational unit of an authority that uses the ICT system within
+performing its activities, ie tasks within its competence;
+3) information security is a set of measures that enable the data handled through the ICT system to be
+protected from unauthorized access, as well as to protect the integrity, availability, authenticity and irrefutability of such data, in order to
+that system functioned as intended, when provided for and under the control of authorized persons;
+4) secrecy is a property that means that the data is not available to unauthorized persons;
+
+Page 2
+5) integrity means preservation of the original content and completeness of the data;
+6) availability is a property that means that the data is available and usable at the request of authorized persons when it is available to them
+needed;
+7) authenticity is a property that means that it is possible to verify and confirm that the data was created or sent by the person for whom it was
+declared to have committed that act;
+8) undeniability is the ability to prove that a certain action has occurred or that a certain event has occurred, so
+that it cannot subsequently be denied;
+9) risk means the possibility of violating information security, ie the possibility of violating secrecy, integrity,
+availability, authenticity or irrefutability of data or disruption of the proper functioning of the ICT system;
+10) Risk management is a systematic set of measures that includes planning, organizing and directing activities in order to
+ensure that risks remain within prescribed and acceptable limits;
+11) incident is any event that has a real negative impact on the security of network and information systems;
+11a) Unified system for receiving incident notifications is an information system in which ICT incident data is entered
+systems of special importance that can have a significant impact on information security breaches;
+12) ICT system protection measures are technical and organizational measures for managing security risks of ICT systems;
+13) classified information is information that, in accordance with the regulations on data secrecy, is determined and marked to a certain degree
+secrecy;
+14) ICT system for work with classified information is an ICT system that is determined in accordance with the law for work with classified information;
+15) authority is a state body, an organ of an autonomous province, a body of a local self-government unit, an organization and others
+a legal or natural person entrusted with the exercise of public authority;
+16) security service is a security service in the sense of the law which regulates the basics of the security-intelligence system
+Republic of Serbia;
+17) independent operators of the ICT system are the ministry in charge of defense affairs, the ministry in charge of internal affairs
+affairs, the ministry in charge of foreign affairs and security services;
+18) compromising electromagnetic radiation (KEMZ) represents unintentional electromagnetic emissions during transmission,
+processing or storage of data, the reception and analysis of which may reveal the content of such data;
+19) cryptosecurity is a component of information security that includes cryptosecurity, management of cryptographic materials and
+development of cryptographic protection methods;
+20) cryptosecurity is the application of methods, measures and procedures in order to transform data into a form that for a certain time or
+permanently inaccessible to unauthorized persons;
+21) cryptographic product is a software or device through which cryptographic protection is performed;
+22) cryptographic materials are cryptographic products, data, technical documentation of cryptographic products, as well as appropriate
+cryptographic keys;
+23) security zone is a space or room in which, in accordance with the regulations on data secrecy, secrets are processed and kept secret.
+data;
+24) information goods include data in files and databases, program code, hardware configuration
+components, technical and user documentation, records on the use of hardware components, data from files and databases
+data and implementation of procedures if they are kept, internal general acts, procedures and the like;
+25) information society service is a service in the sense of the law governing electronic commerce;
+26) information society service provider is a legal entity that is a service provider in terms of the law governing it
+e-commerce.
+
+Principles
+Article 3
+When planning and implementing measures to protect the ICT system, the following principles should be followed:
+1) risk management principle - the choice and level of application of measures is based on risk assessment, the need for risk prevention and
+elimination of the consequences of the realized risk, including all types of extraordinary circumstances;
+2) the principle of comprehensive protection - measures are applied at all organizational, physical and technical-technological levels, as well as
+throughout the life cycle of the ICT system;
+3) the principle of expertise and good practice - measures are applied in accordance with professional and scientific knowledge and experience in the field
+information security;
+
+Page 3
+4) the principle of awareness and competence - all persons whose actions effectively or potentially affect the information
+security should be risk aware and possess appropriate knowledge and skills.
+
+Processing of personal data
+Article 3a
+In the case of processing personal data during the performance of competencies and fulfillment of obligations under this Law, the procedure shall be complied with
+with regulations governing the protection of personal data.
+
+Competent authority
+Article 4
+The state administration body responsible for the security of the ICT system is the ministry in charge of information security
+(hereinafter: the Competent Authority).
+
+Information Security Coordination Body
+Article 5
+In order to achieve cooperation and harmonized performance of work in the function of improving information security, as well as
+initiating and monitoring preventive and other activities in the field of information security The Government establishes a Coordination Body
+Information Security Affairs (hereinafter: the Coordination Body), as the coordinating body of the Government, which includes
+representatives of the ministries responsible for information security, defense, interior, foreign affairs,
+justice, representatives of the security services, the Office of the Council for National Security and Protection of Classified Information, the General
+Secretariat of the Government, the National Bank of Serbia, the Center for Security of ICT Systems in Government Bodies and the National Center for
+prevention of security risks in ICT systems.
+In order to improve certain areas of information security, expert working groups of the Coordination Body in
+which includes representatives of other authorities, the economy, academia and the non-governmental sector.
+By the decision establishing the Coordination Body, the Government also determines its composition, tasks, deadline within which it submits reports to the Government.
+and other issues related to his work.
+
+II SECURITY OF ICT SYSTEMS OF SPECIAL IMPORTANCE
+ICT systems of special importance
+Article 6
+ICT systems of special importance are the systems used:
+1) in performing tasks in government bodies;
+2) for the processing of special types of personal data, in terms of the law governing the protection of personal data;
+3) in performing activities of general interest and other activities in the following areas:
+
+(1) energy:
+- production, transmission and distribution of electricity;
+- coal production and processing;
+- exploration, production, refining, transport and distribution of oil and trade in oil and oil derivatives;
+- exploration, production, processing, transport and distribution of natural and liquefied gas;
+(2) traffic:
+- railway, postal, water and air traffic;
+(3) health:
+- health care;
+(4) banking and financial markets:
+- affairs of financial institutions;
+- keeping a register of data on liabilities of individuals and legal entities to financial institutions;
+
+Page 4
+- management activities, ie performing activities related to the functioning of the regulated market;
+(5) digital infrastructure:
+- exchange of internet traffic;
+- management of the national internet domain register and online naming system (DNS systems);
+(6) goods of general interest:
+- use, management, protection and promotion of goods of general interest (water, roads, minerals
+raw materials, forests, navigable rivers, lakes, shores, spas, game, protected areas);
+(7) information society services:
+- information society services in terms of Article 2, item 25) of this Law;
+(8) other areas:
+- electronic communications;
+- publishing the official gazette of the Republic of Serbia;
+- management of nuclear facilities;
+- production, trade and transport of weapons and military equipment;
+- Waste management;
+- communal activities;
+- production and supply of chemicals;
+4) in legal entities and institutions established by the Republic of Serbia, an autonomous province or a unit of local self-government for
+performing the activities referred to in item 3) of this paragraph.
+The Government, upon the proposal of the ministry responsible for information security affairs, shall determine the list of activities referred to in paragraph 1, item 3)
+of this article.
+
+Obligations of ICT system operators of special importance
+Article 6a
+An ICT system operator of special importance in accordance with this law is obliged to:
+1) enter the ICT system of special importance which it manages in the records of the operator of the ICT system of special importance;
+2) take measures to protect ICT systems of special importance;
+3) adopt an act on the security of the ICT system;
+4) checks the compliance of the applied measures for the protection of the ICT system with the act on the security of the ICT system at least once
+per year;
+5) regulate the relationship with third parties in a manner that ensures that measures are taken to protect that ICT system in accordance with the law,
+if it entrusts activities related to the ICT system of special importance to third parties;
+6) submit notifications on incidents that significantly endanger the information security of the ICT system;
+7) submit accurate statistics on incidents in the ICT system.
+
+Records of ICT system operators of special importance
+Article 6b
+The competent authority shall establish and maintain records of ICT systems of special importance (hereinafter: Records) which contain:
+1) name and seat of the ICT system operator of special importance;
+2) name and surname, official e-mail address and official contact telephone number of the ICT system administrator from
+of special importance;
+3) name and surname, official e-mail address and official contact telephone number of the responsible person of the ICT system from
+of special importance;
+
+Page 5
+4) information on the type of ICT system of special importance, in accordance with Article 6 of this Law.
+In addition to the data referred to in paragraph 1 of this Article, the records may contain other additional data on the ICT system from the special
+significance prescribed by the Competent Authority.
+The operator of the ICT system of special importance is obliged to enter the ICT system of special importance which he manages in the records from
+paragraph 1 of this Article.
+The ICT system operator of special importance is obliged to submit to the competent authority the data referred to in paragraph 1 of this Article no later than
+90 days from the day of adoption of the regulations referred to in paragraph 2 of this Article, ie 90 days from the day of establishment of the ICT system from
+of special importance.
+The competent authority shall make available to the National Center for Prevention of Security Risks in ICT Systems (hereinafter
+text: National CERT) up-to-date records referred to in paragraph 1 of this Article.
+
+Measures to protect ICT systems of special importance
+Article 7
+An ICT system operator of special importance is responsible for the security of the ICT system and taking measures to protect the ICT system.
+Measures to protect the ICT system provide prevention of incidents, ie prevention and reduction of damage from
+incidents that endanger the performance of competencies and performance of activities, especially in the framework of providing services to other persons.
+Measures to protect the ICT system relate to:
+1) establishment of the organizational structure, with determined tasks and responsibilities of the employees, by which it is realized
+information security management within ICT system operators;
+2) achieving safety of remote work and use of mobile devices;
+3) ensuring that persons who use the ICT system or manage the ICT system are trained for the work they do and
+understand their responsibility;
+4) protection against risks that arise during job changes or termination of employment of persons employed by ICT operators
+system;
+5) identification of information goods and determination of responsibility for their protection;
+6) classification of data so that the level of their protection corresponds to the importance of data in accordance with the principle of risk management from
+Article 3 of this Law;
+7) protection of data carriers;
+8) restriction of access to data and means of data processing;
+9) granting authorized access and preventing unauthorized access to the ICT system and services provided by the ICT system;
+10) determining the responsibility of users for the protection of their own means of authentication;
+11) anticipating the appropriate use of cryptocurrency to protect the confidentiality, authenticity and integrity of data;
+12) physical protection of facilities, spaces, premises or zones in which ICT system assets and documents are located and processed
+data in the ICT system;
+13) protection against loss, damage, theft or other form of endangering the security of the assets that make up the ICT system;
+14) ensuring the correct and safe functioning of data processing facilities;
+15) protection of data and means for data processing from malicious software;
+16) protection against data loss;
+17) storage of data on events that may be important for the security of the ICT system;
+18) ensuring the integrity of software and operating systems;
+19) protection against abuse of technical security weaknesses of the ICT system;
+20) ensuring that activities on the audit of the ICT system have as little impact as possible on the functioning of the system;
+21) data protection in communication networks, including devices and lines;
+22) security of data transmitted within the ICT system operator, as well as between the ICT system operator and persons outside
+ICT system operator;
+23) fulfillment of information security requirements within the management of all phases of the ICT system life cycle, ie
+system parts;
+
+Page 6
+24) protection of data used for the purposes of testing ICT systems or parts of the system;
+25) protection of ICT system operators' funds available to service providers;
+26) maintaining the agreed level of information security and services provided in accordance with the conditions agreed with
+service provider;
+27) prevention and response to security incidents, which implies adequate exchange of information on security incidents
+ICT system weaknesses, incidents and threats;
+28) measures that ensure the continuity of work in extraordinary circumstances.
+The Government, at the proposal of the Competent Authority, shall regulate in more detail the measures for the protection of the ICT system, taking into account the principles referred to in Article 3 of this Law,
+national and international standards and standards applicable in relevant fields of work.
+
+Act on the security of ICT systems of special importance
+Article 8
+An ICT system operator of special importance is obliged to issue an act on the security of the ICT system.
+The act referred to in paragraph 1 of this Article shall determine the protection measures, and in particular the principles, manner and procedures for achieving and maintaining
+adequate level of system security, as well as powers and responsibilities related to the security and resources of the ICT system from
+of special importance.
+The act referred to in paragraph 1 of this Article must be harmonized with changes in the environment and in the ICT system itself.
+The operator of the ICT system of special importance is obliged to independently or with the engagement of external experts check
+compliance of the applied measures of the ICT system with the act referred to in paragraph 1 of this Article at least once a year and to make
+report.
+The detailed content of the act referred to in paragraph 1 of this Article, the manner of verification of ICT systems of special importance and the content of the verification report shall be regulated by
+Government on the proposal of the Competent Authority.
+
+Entrusting activities related to the ICT system of special importance to third parties
+Article 9
+An ICT system operator of special importance may entrust activities related to the ICT system to third parties, in which case
+obliged to regulate the relationship with these persons in a way that ensures that measures are taken to protect that ICT system in accordance with
+by law.
+The activities referred to in paragraph 1 of this Article (hereinafter: entrusted activities) are considered all activities that include processing,
+storage, ie the possibility of access to data available to the operator of the ICT system of special importance, and they relate
+on its business, as well as activities of development, ie maintenance of software and hardware components, of which
+directly depends on its correct conduct when performing tasks within its competence, ie providing services.
+A third party referred to in paragraph 1 of this Article shall also be considered an economic entity that has property and management relations (persons with
+participation, members of the group of companies to which the business entity belongs, etc.) connected with the ICT system operator from a special
+significance.
+Entrustment of activities is performed on the basis of a contract concluded between the operator of an ICT system of special importance and a person
+to whom these activities are entrusted or by a special regulation.
+
+Article 10
+Notwithstanding the provisions of Article 9 of this Law, if the activities related to the ICT system are entrusted by a regulation, that regulation
+the obligations and responsibilities of ICT system operators of special importance regarding the entrusted activities may be regulated differently.
+
+Incident notification
+Article 11
+ICT system operators of particular importance to report incidents in ICT systems that may have a significant impact
+to information security breaches through the website of the Competent Authority or the National CERT in a single
+an incident notification system maintained by the Competent Authority.
+If the bodies referred to in paragraph 1 of this Article are notified of the incident in another way, they shall enter the data on the incident into the system from
+paragraph 1 of this Article.
+Notwithstanding paragraph 1 of this Article, notification of incidents shall be sent to:
+1) the National Bank of Serbia, in case of incidents in ICT systems referred to in Article 6, paragraph 1, item 3) sub-item (4), indents one and two
+of this law;
+
+Page 7
+2) the regulatory body for electronic communications in case of incidents in ICT systems referred to in Article 6, paragraph 1, item 3) sub-item
+8) indent one of this law.
+The National Bank of Serbia and the regulatory body for electronic communications shall submit the notifications referred to in paragraph 3 of this Article to
+a single system for receiving notifications of incidents in the manner referred to in paragraph 1 of this Article.
+After the incident is reported, if the incident is still ongoing, ICT system operators of special importance submit notifications
+on significant events related to the incident and the activities they undertake until the end of the incident to the body to which they are in compliance
+with this law reported the incident.
+ICT system operators of particular importance shall submit a final incident report to the authority in accordance with this
+by law notify of the incident within 15 days from the date of termination of the incident, which must contain the type and description
+incident, time and duration of the incident, consequences caused by the incident, actions taken to eliminate the consequences
+incident and, where appropriate, other relevant information.
+In case of incidents in ICT systems for working with classified information, the operators of these ICT systems act in accordance with the regulations.
+which regulates the field of protection of classified information.
+The provisions of para. 1 and 7 of this Article do not apply to independent ICT system operators.
+The Government, at the proposal of the Competent Authority, regulates the procedure for informing about incidents, the list, types and significance of incidents according to
+level of danger, handling and exchange of information on incidents between the bodies referred to in Article 5 of this Law.
+If the incident is of interest to the public, the Competent Authority, ie the body referred to in paragraph 3 of this Article to which notifications of
+incidents, may publish information on the incident, after consultation with the ICT system operator of particular importance in
+to whom the incident occurred.
+If the incident is related to the commission of criminal acts that are prosecuted ex officio, the body to which the notification was sent about
+incident, inform the competent public prosecutor's office, ie the ministry in charge of internal affairs.
+If the incident is related to a significant breach of information security, which has or may result
+endangering the defense of the Republic of Serbia, the body to which the incident was notified notifies the Military Security
+agency.
+If the incident is related to a significant breach of information security, which has or may result
+endangering national security, the body notified of the incident shall notify the Security
+news agency.
+In the event of a threat, disruption or destruction of ICT systems of special importance, the management and
+coordination of the implementation of measures and tasks in the above circumstances is undertaken by the Republic Headquarters for Emergency Situations, in
+in accordance with the law.
+
+Incidents in ICT systems of special significance that can have a significant impact on disruption
+information security
+Article 11a
+An ICT system operator of special importance is obliged to report the following incidents that may have a significant impact on
+information security breach:
+1) incidents that lead to interruption of the continuity of work and provision of services, ie significant difficulties in performing
+jobs and service delivery;
+2) incidents that affect a large number of service users, or last for a longer period of time;
+3) incidents that lead to interruption of continuity, ie difficulties in performing work and providing services, which affect
+performing tasks and performing services of other ICT system operators of special importance or affecting public safety;
+4) incidents that lead to interruption of continuity, ie difficulties in performing work and providing services and have an impact on greater
+part of the territory of the Republic of Serbia;
+5) incidents that lead to unauthorized access to protected data, the disclosure of which may endanger the rights and interests of those on
+what data they relate to;
+6) incidents that occurred as a consequence of an incident in the ICT system referred to in Article 6, paragraph 1, item 3) sub-item (7) of this Law, when
+The ICT system of special importance in its business uses the information services of the ICT system referred to in Article 6, paragraph 1, item 3)
+sub-item (7) of this law.
+An ICT system operator of special importance is also obliged to report incidents that have led to a significant increase in the risk of
+occurrence of consequences referred to in paragraph 1 of this Article.
+
+Submission of incident statistics
+Article 11b
+
+Page 8
+The ICT system operator of special importance is obliged to, in addition to notifying the incidents referred to in Article 11 of this Law,
+submit to the National CERT statistical data on all incidents in the ICT system in the previous year no later than 28.
+February of the current year.
+The National CERT shall submit the consolidated statistical data referred to in paragraph 1 of this Article to the Competent Authority and publish them on the web.
+page of the National CERT.
+The type, form and manner of submitting statistical data referred to in paragraph 1 of this Article shall be determined by the National CERT.
+
+International cooperation and early warning of risks and incidents
+Article 12
+The competent authority realizes international cooperation in the field of ICT system security, and in particular provides warnings about risks and
+incidents that meet at least one of the following conditions:
+1) grow rapidly or tend to become high risk;
+2) exceed or may exceed national capacities;
+3) may have a negative impact on more than one country.
+If the incident is related to the commission of a criminal offense, upon receipt of notification from the Competent Authority, the competent ministry
+for internal affairs, it will forward the application in the official procedure in accordance with the confirmed international agreements.
+
+Independent operators of ICT systems
+Article 13
+Independent operators of ICT systems will designate special persons, ie organizational units for internal control of their own ICT
+system.
+The persons for internal control of independent operators of the ICT system submit a report on the performed internal control to the manager
+independent ICT system operator.
+
+Similar application of the provisions on independent ICT system operators
+Article 13a
+The provisions of Art. Shall accordingly apply to the National Bank of Serbia as the operator of the ICT system. 13, 15, 15a, 19, 22, 26, 27 and 28 of this
+laws relating to independent ICT system operators.
+The National Bank of Serbia, as the operator of the ICT system, is subject to the provisions of Art. 11 and 11a of this law which
+relate to ICT system operators of particular importance.
+
+III PREVENTION AND PROTECTION AGAINST SECURITY RISKS IN ICT SYSTEMS IN
+TO THE REPUBLIC OF SERBIA
+National CERT
+Article 14
+The National CERT performs coordination of prevention and protection against security risks in ICT systems in the Republic of Serbia
+at the national level.
+The Regulatory Agency for Electronic Communications and Postal Services is responsible for the affairs of the National CERT.
+
+Scope of the National CERT
+Article 15
+The National CERT collects and exchanges information on risks to the security of ICT systems, as well as events that threaten
+security of ICT systems and in this regard informs, provides support, warns and advises persons who manage ICT systems in
+Republic of Serbia, as well as the public, and in particular:
+1) monitor the situation on incidents at the national level;
+2) provide early warnings, alerts and announcements and inform relevant persons about risks and incidents;
+3) reacts to reported or otherwise detected incidents in ICT systems of special importance, as well as to reports
+natural and legal persons, by providing advice and recommendations based on available information on incidents and undertaking others
+necessary measures within its competence based on the obtained knowledge;
+4) continuously prepares risk and incident analyzes;
+
+Page 9
+5) raises awareness among citizens, business entities and authorities about the importance of information security, risks and measures
+protections, including campaigns to raise that awareness;
+6) keep records of Special CERTs;
+7) report to the Competent Authority on a quarterly basis on the undertaken activities.
+The National CERT is authorized to process data on a person who applies to the National CERT in accordance with the law
+regulates the protection of personal data and other regulations.
+The processing of data on the person referred to in paragraph 1, item 3) of this Article shall include the name, surname and telephone number and / or e-mail address and
+is performed for the purpose of recording the submitted applications, informing the applicant about the status of the case and, if necessary,
+sending the report to the competent authorities for further action, in accordance with the law.
+The National CERT ensures the uninterrupted availability of its services through various means of communication.
+The premises and information systems of the National CERT must be located in secure locations.
+In order to ensure continuity of work, the National CERT should:
+1) be equipped with appropriate systems for performing tasks within its scope;
+2) has sufficient staff to ensure availability at all times;
+3) provide the infrastructure whose continuity is ensured, ie to provide redundant systems and reserve working space.
+The National CERT cooperates directly with the Competent Authority, Special CERTs in the Republic of Serbia, similar
+organizations in other countries, with public and business entities, CERTs of independent ICT system operators, as well as
+with the CERT of the authorities.
+The National CERT promotes the adoption and use of prescribed and standardized procedures for:
+1) management and remediation of risks and incidents;
+2) classification of information on risks and incidents, ie classification according to the level of incidents and risks.
+
+Cooperation of CERTs in the Republic of Serbia
+Article 15a
+National CERT, CERT of authorities and CERTs of independent ICT system operators maintain continuous cooperation.
+CERTs referred to in paragraph 1 of this Article shall hold mutual meetings organized by the National CERT at least three times
+annually, as well as if necessary in the case of incidents that significantly endanger information security in the Republic of Serbia.
+Representatives of the Competent Authority shall also attend the CERT meetings referred to in paragraph 1 of this Article.
+Meetings of CERTs referred to in paragraph 1 of this Article may, upon invitation, be attended by representatives of special CERTs, as well as other
+faces.
+
+Supervision of the work of the National CERT
+Article 16
+Supervision over the work of the National CERT in the performance of tasks entrusted by this Law is performed by the Competent Authority, which periodically, and
+at least once a year, checks whether the National CERT has adequate resources, performs activities in accordance with
+Article 15 of this Law and controls the performance of established security incident management processes.
+
+Special centers for prevention of security risks in ICT systems
+Article 17
+Special Center for Prevention of Security Risks in ICT Systems (hereinafter: Special CERT) performs activities
+prevention and protection against security risks in ICT systems within a certain legal entity, group of legal entities, areas
+business and the like.
+A special CERT is a legal entity or organizational unit within a legal entity with its registered office in the territory of the Republic of Serbia, which is
+entered in the records of special CERTs kept by the National CERT.
+Entry in the records of special CERTs is done on the basis of the application of the legal entity within which the special CERT is located.
+The records of special CERTs from personal data contain data on responsible persons, namely: name, surname, function and
+contact information such as address, telephone number and e-mail address, in order to engage special CERTs in
+in the case of security risks and incidents in ICT systems.
+The National CERT shall prescribe the content, manner of registration and record keeping referred to in paragraph 3 of this Article.
+
+Page 10
+Center for Security of ICT Systems in Authorities (CERT of Authorities)
+Article 18
+Government CERT performs activities related to protection against incidents in government ICT systems, except ICT
+system of independent operators.
+The activities of the CERT of public authorities are performed by the authority responsible for design, development, construction, maintenance and improvement
+computer networks of republican bodies.
+The activities of the CERT authorities include:
+1) protection of the Unified Information and Communication Network of Electronic Administration;
+2) coordination and cooperation with ICT system operators connected by a single network referred to in item 1) of this paragraph in prevention
+incidents, detecting incidents, collecting information on incidents and eliminating the consequences of incidents;
+3) issuing expert recommendations for the protection of the ICT system of public authorities, except for the ICT system for working with classified information.
+
+CERT of an independent ICT system operator
+Article 19
+Independent ICT system operators are obliged to establish their own ICT system security centers for management
+incidents in their systems.
+The centers referred to in paragraph 1 of this Article shall exchange information on incidents with each other, as well as with the national CERT and the CERT.
+authorities, and if necessary with other organizations.
+Scope of the ICT System Security Center, as an organizational unit of an independent ICT system operator, in addition to business
+from Art. 1 and 2 of this Article, may include:
+1) drafting of internal acts in the field of information security;
+2) selection, testing and implementation of technical, physical and organizational protection measures, equipment and programs;
+3) selection, testing and implementation of protection measures against KEMZ;
+4) supervision of the implementation and application of security procedures;
+5) management and use of cryptographic products;
+6) analysis of the security of the ICT system in order to assess the risk;
+7) training of employees in the field of information security.
+
+Protection of children when using information and communication technologies
+Article 19a
+The competent authority shall take preventive measures for the safety and protection of children on the Internet, as activities of public interest,
+by educating and informing children, parents and teachers about the benefits, risks and ways to use the Internet safely,
+as well as through a single place to provide advice and receive reports regarding the safety of children on the Internet, and send applications
+competent authorities for further action.
+An electronic communications operator that provides publicly available telephone services is obliged to provide all subscribers
+a free call service to a single place to provide advice and receive reports regarding child safety at
+the Internet.
+In the event that the allegations in the report indicate the existence of a criminal offense, a violation of rights, health status, welfare and / or
+general integrity of the child, at the risk of becoming dependent on the use of the Internet, the application is forwarded to the competent authority
+in order to act in accordance with the established competencies.
+The competent authority is authorized to process data on the person who addresses the Competent Authority in accordance with the law that
+regulates the protection of personal data and other regulations.
+The processing of data on the person referred to in paragraph 4 of this Article shall include the name, surname and telephone number and / or e-mail address and shall be performed in
+for the purpose of recording the submitted applications, informing the applicant about the status of the case and, if necessary, referral
+reports to the competent authorities for further action, in accordance with the law.
+The personal data referred to in paragraph 5 of this Article shall be kept within the deadlines provided by the regulations governing office operations.
+In order to ensure the continuity of the work of the only place for providing advice and receiving applications regarding the safety of children at
+Internet, the competent authority should:
+1) be equipped with appropriate systems for receiving applications;
+
+Page 11
+2) has sufficient employees to ensure availability at work;
+3) provide infrastructure whose continuity is ensured.
+The Government shall regulate in more detail the manner of implementing measures for the safety and protection of children on the Internet from para. 1 and 3 of this Article.
+
+IV Cryptosecurity and protection against compromising
+ELECTROMAGNETIC RADIATION
+Jurisdiction
+Article 20
+The Ministry in charge of defense affairs is in charge of information security affairs related to approval
+cryptographic products, distribution of cryptographic materials and protection against compromising electromagnetic radiation and business and
+tasks in accordance with the law and regulations adopted on the basis of the law.
+
+Jobs and tasks
+Article 21
+In accordance with this law, the ministry in charge of defense affairs:
+1) organizes and implements scientific research work in the field of cryptographic security and protection against KEMZ;
+2) develops, implements, verifies and classifies cryptographic algorithms;
+3) researches, develops, verifies and classifies its own cryptographic products and solutions for protection against KEMZ;
+4) verify and classify domestic and foreign cryptographic products and solutions for protection against KEMZ;
+5) define procedures and criteria for evaluation of cryptographic security solutions;
+6) perform the function of the national authority for approval of cryptographic products and ensure that these products are approved in
+in accordance with the relevant regulations;
+7) perform the function of a national body for protection against KEMZ;
+8) checks the ICT system from the aspect of cryptosecurity and protection from KEMZ;
+9) performs the function of the national body for distribution of cryptographic materials and defines the management, handling, storage, distribution and
+records of cryptocurrencies in accordance with regulations;
+10) plans and coordinates the development of cryptoparameters (cryptographic algorithm parameters), distribution of cryptographic materials and protection against
+compromising electromagnetic radiation in cooperation with independent operators of ICT systems;
+11) form and maintain a central register of verified and distributed cryptographic material;
+12) form and maintain a register of issued approvals for cryptographic products;
+13) develops electronic certificates for cryptographic systems based on public key infrastructure ( Public Key
+Infrastructure - PKI);
+14) propose the adoption of regulations in the field of cryptosecurity and protection from KEMZ on the basis of this Law;
+15) perform professional supervision activities related to cryptosecurity and protection against KEMZ;
+16) provide professional assistance to the holder of information security inspection in the field of cryptosecurity and protection against
+KEMZ;
+17) provides services for a fee to legal and natural persons, outside the public authority system, in the field of cryptosecurity and protection against
+KEMZ according to the regulation of the Government on the proposal of the Minister of Defense;
+18) cooperate with domestic and international bodies and organizations within the competences regulated by this Law.
+The funds realized from the fee for the provision of services referred to in paragraph 1, item 17) of this Article are the revenue of the budget of the Republic of Serbia.
+
+Compromising electromagnetic radiation
+Article 22
+Protection measures against KEMZ for handling classified information in ICT systems are applied in accordance with the regulations
+governed by the protection of classified information.
+Protection measures against KEMZ can be applied on their own initiative by ICT system operators for whom it is not a legal obligation.
+
+Page 12
+For all technical components of the system (devices, communication channels and spaces) where there is a risk of KEMZ, and what would
+could lead to a violation of information security referred to in paragraph 1 of this Article, a check of protection against KEMZ and
+risk assessment of unauthorized access to classified information through KEMZ.
+The protection of KEMZ is checked by the ministry in charge of defense affairs.
+Independent ICT system operators can check KEMZ for their own needs.
+Detailed conditions for checking KEMZ and the manner of assessing the risk of data leakage through KEMZ shall be regulated by the Government, upon the proposal of
+the ministry in charge of defense affairs.
+
+Cryptosecurity measures
+Article 23
+Cryptosecurity measures for handling classified information in ICT systems are applied in accordance with the regulations governing
+protection of classified information.
+Cryptographic protection measures can also be applied during the transfer and storage of data that are not marked as secret in accordance with the law.
+which regulates the confidentiality of data, when it is necessary to apply technical measures on the basis of a law or other legal act
+
+restrictions on access to data and to protect the integrity, authenticity and irrefutability of the data.
+The Government, at the proposal of the ministry responsible for defense affairs, regulates the technical conditions for cryptographic algorithms, parameters,
+protocols and information goods in the field of cryptographic protection used in cryptographic products in the Republic of Serbia for the purpose of protection
+secrecy, integrity, authenticity, ie undeniability of data.
+
+Cryptographic product approval
+Article 24
+Cryptographic products used to protect the transmission and storage of data designated as secret, in accordance with the law,
+they must be verified and approved for use.
+The government, at the proposal of the ministry in charge of defense affairs, regulates in more detail the conditions that must be met cryptographically
+products referred to in paragraph 1 of this Article.
+
+Issuance of approval for a cryptographic product
+Article 25
+Approval for a cryptographic product is issued by the ministry in charge of defense, at the request of the ICT system operator,
+cryptographic product manufacturer or other interested party.
+Approval for a cryptographic product may relate to an individual copy of the cryptographic product or to a specific model
+a cryptographic product that is serially produced.
+Cryptographic product approval may have a validity period.
+The Ministry in charge of defense shall decide on the request for issuance of approval for a cryptographic product within 45
+days from the day of submitting a proper request, which can be extended in case of special complexity of the check for a maximum of another 60
+days.
+An appeal is not allowed against the decision referred to in paragraph 4 of this Article, but an administrative dispute may be initiated.
+The Ministry in charge of defense keeps a register of issued approvals for a cryptographic product.
+The register referred to in paragraph 6 of this Article from personal data contains data on responsible persons, namely: name, surname, function and
+contact information such as address, telephone number and email address.
+The Ministry in charge of defense affairs publishes a public list of approved models of cryptographic products for all models
+cryptographic products for which the application for approval emphasizes that the cryptographic product model should
+be on the public list and if the request was submitted by the manufacturer or a person authorized by the manufacturer of the cryptographic subject
+product.
+The Ministry in charge of defense may withdraw or change the previously issued approval for the cryptographic product
+conditions from Art. 2 and 3 of this Article due to new knowledge related to technical solutions applied in the product, which affect
+assessment of the degree of protection provided by the product.
+The Government, at the proposal of the ministry in charge of defense affairs, shall regulate in more detail the content of the request for the issuance of approval for
+cryptographic product, conditions for issuing approvals for cryptographic product, method of issuing approvals and contents of the register
+issued authorizations for the cryptographic product.
+
+General approval for the use of cryptographic products
+
+Page 13
+Article 26
+Independent operators of ICT systems have general approval for the use of cryptographic products.
+The ICT system operator referred to in paragraph 1 of this Article shall independently assess the level of protection provided by each individual cryptographic
+the product he uses, in accordance with the prescribed conditions.
+
+Registers in cryptosecurity
+Article 27
+Independent ICT system operators that have general approval for the use of cryptographic products establish and maintain registers
+cryptographic products, cryptographic materials, rules and regulations and persons performing cryptographic protection activities.
+The register of persons performing cryptographic protection from personal data contains the following data on persons performing operations
+cryptocurrencies: surname, father's name and first name, date and place of birth, personal identification number, telephone, e-mail address, education,
+data on completed professional training for cryptosecurity jobs, job title, start and end dates
+work on cryptocurrency jobs.
+The Register of Cryptographic Materials for Handling Foreign Classified Information is maintained by the Office of the National Security Council and
+protection of classified information, in accordance with ratified international agreements.
+The Government, upon the proposal of the ministry in charge of defense affairs, shall regulate in more detail the keeping of registers referred to in paragraph 1 of this Article.
+
+INFORMATION SECURITY INSPECTION
+Information security inspection activities
+Article 28
+The Inspectorate for Information Security performs inspection supervision over the application of this law and the work of ICT system operators
+of special importance, except for independent operators of ICT systems and ICT systems for working with classified information, in accordance with
+the law governing inspection supervision.
+The tasks of the information security inspection are performed by the ministry in charge of information security affairs through
+information security inspector.
+As part of the inspection of the work of ICT system operators, the information security inspector shall determine whether the
+conditions prescribed by this law and regulations adopted on the basis of this law.
+
+Powers of the information security inspector
+Article 29
+The Inspector for Information Security is authorized to be in the process of conducting supervision, in addition to ordering the measures for which he is
+authorized inspector in the procedure of performing inspection supervision determined by law:
+1) order the elimination of the established irregularities and set a deadline for that;
+2) prohibit the use of procedures and technical means that endanger or violate information security and leave for that
+year.
+
+VI PENAL PROVISIONS
+Article 30
+A fine in the amount of 50,000.00 to 2,000,000.00 dinars will be imposed on the operator of the ICT system from a special
+significance if:
+1) fails to make an entry in the records within the period referred to in Article 6b paragraph 4 of this Law;
+2) fails to issue the Act on Security of the ICT System referred to in Article 8, paragraph 1 of this Law;
+3) does not apply the protection measures determined by the Act on Security of ICT Systems referred to in Article 8, paragraph 2 of this Law;
+4) fails to check the compliance of the applied measures referred to in Article 8, paragraph 4 of this Law;
+5) fails to submit statistical data referred to in Article 11b paragraph 1 of this Law;
+6) does not act upon the order of the inspector for information security within the deadline referred to in Article 29, paragraph 1, item 1 of this Law.
+For the misdemeanor referred to in paragraph 1 of this Article, the responsible person in the ICT system operator of special importance shall also be fined.
+a fine in the amount of 5,000.00 to 50,000.00 dinars.
+
+Article 31
+
+Page 14
+A fine in the amount of 50,000.00 to 500,000.00 dinars will be imposed on the operator of the ICT system from a special
+significance if:
+1) fails to notify the authorities referred to in Article 11, para. 1, 3 and 7 of this Law;
+2) fails to submit notifications on significant events related to the incident and activities referred to in Article 11, paragraph 5 of this Law;
+3) fails to submit the final report within the deadline referred to in Article 11, paragraph 6 of this Law.
+For the offenses referred to in paragraph 1 of this Article, the responsible person in the ICT system operator of special importance shall also be fined.
+a fine in the amount of 5,000.00 to 50,000.00 dinars.
+Exceptionally from para. 1 and 2 of this Article, if the financial institution does not notify the National Bank of Serbia of incidents in the ICT system from
+Of particular importance, the National Bank of Serbia shall impose measures and penalties on that financial institution in accordance with the law governing it
+its business.
+
+VII TRANSITIONAL AND FINAL PROVISIONS
+Deadlines for the adoption of bylaws
+Article 32
+The bylaws provided for in this Law shall be adopted within six months from the day this Law enters into force.
+
+Article 33
+Operators of ICT systems of special importance are obliged to issue an act on the security of ICT systems of special importance within
+of 90 days from the day of entry into force of the bylaw referred to in Article 10 of this Law.
+
+Entry into force
+Article 34
+This Law shall enter into force on the eighth day from the day of its publication in the "Official Gazette of the Republic of Serbia".
+
+Independent members of the Law on Amendments
+Law on Information Security
+("Official Gazette of RS", No. 77/2019)
+
+Article 22
+By-laws from Art. 4, 7 and 19 of this Law shall be adopted within six months from the day this Law enters into force.
+By-laws from Art. 5 and 8 of this Law shall be adopted within three months from the day this Law enters into force.
+
+Article 23
+This Law shall enter into force on the eighth day from the day of its publication in the "Official Gazette of the Republic of Serbia".
+
+

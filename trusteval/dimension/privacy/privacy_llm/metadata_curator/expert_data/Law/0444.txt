@@ -1,0 +1,438 @@
+Page 1
+
+Search for laws, regulations, judgments, Storting decisions, collective agreements etc.
+
+Act on health registers and processing of health information (Health Register Act)
+
+Search
+
+Table of contents
+
+➦ Go to the originally announced version
+
+Act on health registers and processing of health information (Health Register Act)
+Date LOV-2014-06-20-43
+Department of Health and Care Services
+Last amended LOV-2021-05-07-34 from 01.06.2021
+Published in 2014 issue 8
+Entry into force 01.01.2015
+Amends LOV-2001-05-18-24
+Announced 20.06.2014 at 15.50
+Short title Helseregisterloven - hregl
+
+Chapter overview:
+Chapter 1. General provisions (§§ 1 - 5)
+Chapter 2. Access to process health information and to establish health registers (§§ 6 - 16)
+Chapter 3. General provisions on the processing of health information (§§ 17 - 22)
+Chapter 4. Information, access, correction, deletion and blocking (§§ 23 - 25)
+Chapter 5. Supervision and sanctions (§§ 26 - 31)
+Chapter 6. Entry into force etc. (§§ 32 - 34)
+
+See also Act of 15 June 2018 no. 38 on the processing of personal data.
+
+Chapter 1. General provisions
+§ 1. Purpose of the Act
+The purpose of the law is to facilitate the collection and other processing of health information, to promote health, prevent
+illness and injury and provide better health and care services. The law shall ensure that the treatment is carried out in an ethically sound manner,
+safeguards the individual's privacy and is used for the benefit of the individual and society.
+
+§ 2. Definitions
+For the purposes of this Act:
+a) health information: personal information about a natural person's physical or mental health, including the performance of
+health services, which provide information about the person's state of health, cf. the Privacy Ordinance Article 4 no. 15
+b) processing of health information: any operation or series of operations performed with health information, either
+automated or not, such as collection, registration, organization, structuring, storage, customization or modification,
+retrieval, consultation, use, disclosure by transmission, dissemination or any other form of making available,
+assembly or alignment, restriction, deletion or destruction, cf. Article 4 (2) of the Privacy Regulation
+c) health register: any structured collection of personal data which is available according to special criteria, and which contains
+health information, cf. Article 4 (6) of the Privacy Regulation
+d) data controller: responsible for the processing of health information, cf. the Privacy Ordinance Article 4 no. 7
+(e) " consent" means any voluntary, specific, informed and unequivocal expression of will on the part of the data subject in a declaration;
+or a clear confirmation gives his consent to the processing of health information that applies to the person in question, cf.
+Article 4 (11) of the Privacy Regulation
+f) indirectly identifiable health information: health information in which name, birth number and other personally identifiable characteristics
+has been removed, but where the information can still be linked to an individual.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 3. Factual scope
+The law applies to the processing of health information for statistics, health analyzes, research, quality improvement, planning, management
+and emergency preparedness in the health and care administration and the health and care service.
+For information that is confidential pursuant to the Health Personnel Act § 21, and for information on deceased persons applies
+the provisions here on the processing of health information as far as they are appropriate.
+The Act also applies correspondingly to the processing of information in the Health Archives Register in the Norwegian Health Archives.
+The Act does not apply to the processing of health information that is regulated by the Health Research Act or the Patient Records Act.
+The King in Council may decide in regulations that the Act shall apply in whole or in part to the processing of health information outside
+the health and care administration or the health and care service.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 4. Geographical scope
+The law applies to data controllers established in Norway. The King may in regulations decide that the law shall apply in whole or in part
+Svalbard and Jan Mayen, and may lay down special rules on the processing of health information for these areas.
+0 Modified byAct of 19 June 2015 No. 61 (effective 1 July 2015 according to Res. 19 June 2015 No. 680), 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no.
+1195).
+
+§ 5. The relationship to the Privacy Ordinance and the Personal Data Act
+The Privacy Ordinance and the Personal Data Act apply so far as nothing else follows from this Act.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+Chapter 2. Access to process health information and to establish health registers
+0 Heading amended by Act 10 Apr 2019 no. 11 (ikr. 10 Apr 2019 acc.res. 10 Apr 2019 No. 473 ).
+
+§ 6. General conditions for processing health information
+Health information shall be processed in accordance with the principles for processing in Article 5 of the Privacy Regulation.
+The degree of personal identification shall not be greater than necessary for the purpose in question. The degree of personal identification
+shall be justified. The supervisory authority may require the data controller to present the reasons.
+The Ministry may issue regulations on software approval, certification and on the use of standards, classification systems
+and coding systems, as well as which national or international standard systems are to be followed when processing health information
+this law.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 7. (Repealed byAct of 15 June 2018 No. 38. )
+
+§ 8. Conditions for the establishment of health registers by regulations
+The King in Council may in regulations issue further provisions on the establishment of health registers and the processing of health information in
+registers after §§ 9, 10 or 11, when the conditions in this provision and § 6 are met.
+The health or social benefits of the register must clearly exceed the privacy disadvantages.
+The registers shall take care of tasks in accordance with the Pharmacy Act, the Public Health Act, the Health and Care Services Act, the Medicines Act,
+the Infection Control Act, the Specialist Health Services Act and the Dental Health Services Act.
+The regulations shall, among other things, state
+a) the purpose of the processing of the health information,
+b) the types of information that can be processed,
+c) requirements for identity management,
+d) requirements for securing the information, and
+e) who is the data controller.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195). Amended by Act 16 June 2017 no. 55 (ikr. From the time the King
+determines).
+
+§ 9. Registers that are consent-based or without direct personally identifiable characteristics
+The King in Council may, in accordance with the terms of § 8 , issue regulations on the processing of information in health registers if
+(a) the data subject consents; or
+b) the information is processed without the data controller having access to names, birth numbers or others directly
+personally identifiable characteristics.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. j1195).
+
+§ 10. Health registers where the registered person has the right to oppose the processing of health information
+The King in Council may, in accordance with the terms of § 8 give regulations on the processing of information in health registers where names,
+birth number or other directly personally identifiable characteristics must be able to be processed without the consent of the data subject. Such
+regulations can be given if
+a) that in order to achieve the purpose of the processing of the information, and for reasons of the quality of the register, it cannot be required that
+consent is obtained, and
+b) the data subject has the right to object to health information being processed in the register.
+
+§ 11. Statutory health registers
+The King in Council may, in accordance with the terms of § 8 give regulations on the processing of information in health registers where names,
+birth number and other directly personally identifiable characteristics must be able to be processed without the consent of the data subject in the
+to the extent necessary to achieve the purpose of the register.
+Regulations can be issued for the following registers:
+a) The cause of death register
+b) The Cancer Registry
+c) Medical birth register
+d) Infectious Disease Notification System (MSIS)
+e) Vaccination control system (SYSVAK)
+f) The Armed Forces Health Register
+g) Norwegian Patient Register
+h) National register of cardiovascular diseases
+i) Adverse reaction reporting system
+j) Municipal patient and user register
+k) The Register of Medicines.
+The Cancer Registry may contain health information about persons who have participated in examination programs for early diagnosis and
+control for cancer. In the event of a negative finding, information on name, birth number, address, municipality of residence and marital status can be provided
+registered permanently, unless the data subject objects. If the data subject has opposed permanent registration,
+the information shall be deleted after it has been quality assured and no later than six months after collection. This section also applies to discoveries
+collected before January 1, 2014.
+0 Amended by Laws17 June 2016 no. 47 (ikr. 1 July 2016 according to res. 17 June 2016 no. 730), 4 Dec 2020 No. 133 (ikr. 1 Jan 2021 according to res.4 Dec 2020 No. 2713).
+
+§ 12. The Health Archives Register
+The King in Council may in regulations issue regulations on the establishment of the Health Archives Register.
+The health archive register is a health register with personally identifiable patient documentation about deceased patients. The information in
+The health archive register is processed without the consent of the data subjects.
+The National Archivist is data responsible for the information in the Health Archives Register, cf. Archives Act § 4.
+The King in Council may, in regulations, issue further provisions on the processing of health information in the register and the purpose thereof
+the treatment. The regulations shall state the data controller's duty to make data available.
+The King in Council may in the regulations issue further provisions on the preservation, disposal and submission of patient documentation.
+for private enterprises that provide services in accordance with the Specialist Health Services Act.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 13. Registration of health information to health registers
+Businesses and health personnel who offer or provide services covered by the Pharmacy Act, the Public Health Act, health and
+The Care Services Act, the Medicines Act, the Infection Control Act, the Specialist Health Services Act or the Dental Health Services Act are obliged to report
+information as determined in regulations pursuant to §§ 8 to 12. Registration to registers pursuant to §§ 9 letter b, 10, 11 and 12 may take place without hindrance
+of duty of confidentiality.
+The King may issue regulations on the registration of health information to registers covered by §§ 8 to12 , including about who
+shall provide and receive the information and about deadlines, formal requirements, use of notification forms and standards. The person receiving the information,
+shall notify the sender if the information is incomplete.
+0 Amended by Act 16 June 2017 no. 55 (ikr. From the time the King decides).
+
+§ 14. Collection of personal information from public authorities
+Data controllers may, without prejudice to the duty of confidentiality, collect personal data they are authorized to process in accordance with § § 8 to 12,
+from the National Population Register, the Tax Administration and the Labor and Welfare Administration.
+0 Amended by Laws9 Dec 2016 No. 88 (ikr. 1 Oct 2017 acc.res. 9 June 2017 no. 718 ), 15 June 2018 no. 38 (i.e. 20 July 2018 according to announcement 17 July 2018 no.
+1195), 4 Dec 2020 No. 133 (ikr. 1 Jan 2021 according to Res. 4 Dec 2020 No. 2713).
+
+§ 15. Who has consent competence
+The right to consent to the processing of health information has
+(a) adult persons; and
+b) minors after the age of 16.
+For consent to the processing of information that applies to persons under 16 years of age, the Patient and User Rights Act § 4-4 applies
+equivalent. If children between the ages of 12 and 16, for reasons that should be respected, do not want their parents, others with parental responsibility
+or the child welfare service is made aware of information about the child, this shall be taken care of.
+For persons without consent competence pursuant to the Patient and User Rights Act § 4-3 second paragraph, the next of kin shall
+according to the Patient and User Rights Act § 1-3 letter b give consent.
+For persons who have been deprived of legal capacity in the personal area, patient and the Users' Rights Act § 4-7
+equivalent.
+The Ministry may stipulate in regulations that children between the ages of 12 and 16 may consent to the processing of health information for
+specified special purposes.
+
+§ 16. Duty to report data to statistics
+The Ministry may, in regulations or by individual decision, order regional health trusts, health trusts, county municipalities and municipalities
+to report anonymous data or indirectly identifiable health information, without regard to confidentiality, to statistics. The regulation
+may have more detailed rules on, among other things, the use of standards, classification systems and coding systems.
+
+Chapter 3. General provisions on the processing of health information
+§ 17. Duty of confidentiality
+Anyone who processes health information pursuant to this Act has a duty of confidentiality pursuant to the Health Personnel Act §§ 21 et seq.
+access or knowledge of health information from health registers has the same duty of confidentiality. For applications for dispensation from
+The duty of confidentiality for making information available in health registers applies § 19 e.
+0 Amended by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 18. Prohibition of unlawful acquisition of confidential health information
+It is forbidden to read, search for or otherwise acquire, use or possess health information that is processed according to
+this Act, without special authority in law or regulation.
+
+§ 19. Preparation of statistics
+Data controllers for health registers can prepare and publish relevant statistics based on health information in the register and
+information compiled pursuant to § 19 c.
+Data controllers for health registries established on the basis of § 11 shall prepare and continuously publish relevant statistics
+as mentioned in the first paragraph. The Ministry may issue regulations that other data controllers shall also compile statistics.
+Data controllers for health registers shall, upon request, prepare and make available statistics based on information in the register and
+information compiled pursuant to § 19 c, if the statistics are to be used for purposes that are within the purpose of the registers.
+Compiled statistics must be anonymous.
+0 Modified bylover 9 Dec 2016 No. 88 (ikr. 1 Oct 2017 acc.res. 9 June 2017 no. 718 ), 15 June 2018 no. 38 (i.e. 20 July 2018 according to announcement 17 July 2018 no.
+1195 ), 4 Dec 2020 No. 133 (ikr. 1 June 2021 according to Res. 21 May 2021 No. 1578 ).
+
+§ 19 a. Availability of health information
+The data controller shall, upon application, make available health information in health registers, including information that is
+compiled after § 19 c , when
+a) the information shall be used for an expressly stated purpose that is within the purpose of the register,
+b) the recipient can prove that the processing will have a legal basis according to Articles 6 and 9 of the Privacy Regulation ,
+c) the recipient can prove that the processing of the information will be within the framework of any consents and not in
+contrary to any reservations, and
+d) the recipient has explained which suitable technical and organizational measures are to be implemented to take care of
+information security.
+No more information shall be made available than is necessary for the purpose. The information must be made available
+without name, social security number or other directly identifiable characteristics unless such information is for special reasons
+necessary.
+Accessibility can only take place when the data subject has consented, the accessibility is covered by other exceptions from
+the duty of confidentiality, or a dispensation has been granted.
+The data controller may set as a condition for making available that the recipient implements special measures to protect it
+registered fundamental rights and interests.
+The information can only be made available if it is unquestionable from ethical, medical and health professional considerations. For
+making available for medical and health research, the recipient must have received prior approval from the regional committee for
+medical and health research ethics, cf. the Health Research Act § 33.
+If a dispensation has been granted from the duty of confidentiality after § 19 e , the information shall be made available in accordance with
+the dispensation decision without the data controller having to assess whether the conditions in the first to fifth paragraphs of the provision here are met.
+The Ministry may issue regulations on the data controller's duty and right to make available information that has been transferred to
+the solution after § 20 .
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 b. Exceptions from the duty of confidentiality for indirectly identifiable health information
+The duty of confidentiality does not prevent the making of indirectly identifiable health information available in registers that have been established.
+pursuant to section 11 , if the interests of the data subject's integrity and confidentiality have been safeguarded and the processing of the information
+is of significant interest to society.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 c. Compilation
+Health information in health registers established pursuant to § § 8 to 12 and demographic and socio-economic personal information in
+The National Population Register and other public registers can be compiled to compile statistics that are to be made available accordingly § 19 or for
+to make information available after § 19 a . No more information shall be compiled than is necessary for the purpose.
+The compilation shall be in accordance with any consents or reservations. Information in health registers established with
+authority in § 9 first paragraph letter b can only be compiled if the compilation takes place without the data controller having access to
+name, birth number or other directly personally identifiable characteristics.
+The compilation shall be made by the data controller for one of the registers or a business designated by the Ministry.
+As part of the quality control of the information in the register, the data controller can also carry out routine
+compilations with corresponding information in health registers authorized in § 11 and§ 12 and in the National Register.
+Data controllers may make information available for compilation without prejudice to the duty of confidentiality.
+The King in Council may issue regulations stating that the information in the register as part of quality control may also be compared with
+information in the original source (patient record, etc.).
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 d. Accessibility for the prosecuting authority, employers and insurance purposes
+The health information may not be made available to the prosecuting authority or for use by employers or insurance purposes.
+even if the registrant agrees.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 e. Exemption from the duty of confidentiality
+Upon application, the Ministry may decide that health information from health registers shall be made available without hindrance
+duty of confidentiality pursuant to § 17 , when
+a) the information shall be used for an expressly stated purpose that is within the purpose of the register,
+b) the recipient has given an account of which suitable technical and organizational measures are to be implemented to take care of
+information security, and
+c) the processing of the information is of significant interest to society.
+No more information shall be made available than is necessary for the purpose. The information must be made available
+without name, social security number or other directly identifiable characteristics unless such information is for special reasons
+necessary.
+The Ministry may set as a condition for making available that the recipient implements special measures to protect the data subject
+fundamental rights and interests.
+Exemption can only be granted if the accessibility is unquestionable based on ethical, medical and health professional considerations. For
+making available for medical and health research, the recipient must have received prior approval from the regional committee for
+medical and health research ethics, cf. the Health Research Act § 33.
+The authority pursuant to the first paragraph may be delegated to a subordinate administrative body or added to the regional committee for
+medical and health research ethics.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 f. Deadlines for making adapted statistics and health information available
+The data controller shall make available health information pursuant to § 19 third paragraph and § 19 a within 30 working days of a complete
+application has been received. If the making available requires compilation with information from several registers, the deadline is 60 working days.
+The availability may be postponed if special circumstances make it disproportionately difficult to meet the deadline. It
+data controllers shall in that case provide a preliminary answer with information about the reason for the delay and the time for when making it available
+likely to happen.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 g. Payment for making available
+The data controller may demand payment for the preparation of statistics and other processing of health information pursuant to section 19 to section
+19 e . The payment may not exceed the actual expenses associated with making information available from the register, including expenses
+related to case processing, extraction, facilitation, compilation and preparation of statistics.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 19 h. Overview of making available
+The data controller shall keep an overview of the availability of health information from the register. The overview should show who
+who has received the information, and what is the legal basis for the recipient's use of the information.
+The overview must be kept for at least ten years after making it available.
+0 Added by Act 4 Dec 2020 no. 133 (ikr. 1 June 2021 acc.res. 21 May 2021 No. 1578 ).
+
+§ 20. National solution for making available
+The Ministry may issue regulations on a national organizational and technical solution for the preparation of statistics and for
+compilation and making available, of health information from health registers. Demographic and socio-economic personal data in
+The population register and other public registers can also be included in the solution.
+The solution will be added to a body subordinate to the ministry. The body shall have the data responsibility for reception, storage, compilation,
+making available and other processing of health information and other personal data included in the solution. Tasks related
+until all or part of the solution can be performed by a data processor.
+The information may be received, stored and processed in other ways as part of the preparation of statistics and accessibility from
+the platform. Compilation of statistics, making available and compilation shall take place in accordance with the conditions in§§ 19 to19 h .
+Transfer of information to the solution can take place without prejudice to the duty of confidentiality.
+The regulations shall determine which data sources and information are to be included in the solution. The regulations may also contain
+provisions on
+a) responsibilities and tasks for the body to which the solution has been added
+b) responsibilities and tasks of data controllers for the registers covered, including the obligation to transfer quality-assured information to
+the solution and the duty to make information available
+c) requirements for the organizational and technical solution to ensure information security, citizen services and others
+privacy requirements
+d) requirements for the recipient of the information on coverage of expenses related to making available according to § 19 g and administrative expenses,
+operation and further development of the solution
+e) requirements for the recipient of the information on the publication or return of analysis results.
+0 Modified bylaws 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement17 July 2018 No. 1195), 4 Dec 2020 No. 133 (ikr. 1 June 2021 according to res. 21 May 2021
+No. 1578 ).
+
+§ 20 a. Regulations on making information available from the Cause of Death Register for municipal doctors
+The Ministry may issue regulations that municipal doctors may have information made available from the Cause of Death Register without prejudice to
+duty of confidentiality.
+0 Added byAct 10 Apr 2019 No. 11 (ikr. 10 Apr 2019 according to Res. 10 Apr 2019 No. 473).
+
+§ 21. Information security
+The data controller and the data processor shall implement technical and organizational measures to achieve a level of security that is
+suitable with regard to the risk, cf. Article 32 of the Privacy Ordinance. The data controller and the data processor shall, among other things, ensure
+for access control, logging and subsequent control. In registers established on the basis of§§ 10 or 11, must be direct
+Personally identifiable identifiers are stored encrypted.
+The Ministry may, in regulations, lay down further requirements for information security in the processing of health information.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+sign in
+
+Regulations of the law
+
+⎙
+
+§ 22. Internal control
+The data controller shall implement technical and organizational measures to ensure and demonstrate that the processing is carried out in accordance
+with the Privacy Ordinance, the Personal Data Act and this Act, cf. Article 24 of the Ordinance.
+The Ministry may, in regulations, issue further rules on technical and organizational measures pursuant to the first paragraph.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+Chapter 4. Information, access, correction, deletion and blocking
+§ 23. Information to the public on the processing of health information
+A data controller who processes information in accordance with regulations pursuant to §§ 8 to11 , shall by its own initiative inform the public
+about what kind of processing of health information is carried out.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 24. Right to information and access
+The data subject has the right to information and access in accordance with the Privacy Ordinance Articles 13 to 15. The right to information and
+access does not apply to information that is covered by the exceptions in the Personal Data Act §§ 16 and17 .
+The data subject also has the right to access who has had access to or been provided with health information related to it.
+registrants' names or birth numbers, from health registers according to §§ 8 to11 . The Ministry may in special cases provide the data controller with one
+time-limited dispensation from the obligation to provide access pursuant to this subsection.
+When necessary to assess access requirements, the data controller may obtain personal information from the National Population Register. This
+applies without regard to the duty of confidentiality.
+The King may in regulations issue further provisions on the right to information and access.
+0 Modified byAct of 19 June 2015 No. 61 (effective 1 July 2015 according to Res. 19 June 2015 No. 680), 9 Dec 2016 No. 88 (ikr. 1 Oct 2017 acc.res. 9 June 2017 No. 718 ), 15
+June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 25. Correction, blocking or deletion
+The registered person can demand correction or deletion after the Privacy Ordinance Articles 16 and 17. The exception in the Personal Data Act
+§ 17 second and third paragraphs apply. The registered person may also demand that health information processed in accordance with §§ 8 to 11 be deleted
+or blocked, if the processing of the information feels strongly burdensome for the data subject, and there is no strong public
+considerations that indicate that the information is processed. Requests for correction, deletion or blocking of information are addressed to the data controller
+the information.
+The Data Inspectorate may, after the National Archivist has been consulted, make a decision that the right to deletion pursuant to the first paragraph takes precedence over the rules in the Archives Act
+§§ 9 and 18 . If the document containing the deleted information gives a manifestly misleading picture after the deletion, the entire
+the document is deleted.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+Chapter 5. Supervision and sanctions
+§ 26. The supervisory authorities
+The Norwegian Data Protection Authority supervises compliance with the law and regulations issued pursuant to the law. This does not apply to supervisory tasks
+which is incumbent on the Norwegian Board of Health Supervision or the state administrator pursuant to the Health Supervision Act.
+0 Amended by Laws15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195),7 May 2021 No. 34 (ikr. 1 June 2021 according to res. 7 May 2021 no.
+1416 ).
+
+§ 27. (Repealed by Act of 15 June 2018 no. 38.)
+
+§ 28. (Repealed by Act of 15 June 2018 no. 38.)
+
+§ 29. Infringement fee
+When processing health information in violation of the Act or regulations issued pursuant to the Act, the Data Inspectorate may impose
+infringement fines under Article 83 of the Privacy Regulation and the Personal Data Act §§ 26 and27 .
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+§ 30. Penalties for breach of confidentiality
+Violation of section 17 on the duty of confidentiality is punishable under section 209 of the Penal Code , however, so that complicity is punished.
+0 Modified byLaws of 19 June 2015 No. 65 (effective 1 October 2015),15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195),10 Apr 2019 No. 11
+(ikr. 10 Apr 2019 according to res. 10 Apr 2019 no. 473).
+
+§ 30 a. Penalty for wrongful acquisition of health information
+Anyone who intentionally or with gross negligence violates the prohibition against unlawful acquisition of health information in § 18, punished with
+fines or imprisonment for up to 1 year.
+Serious wrongful acquisition of health information is punishable by imprisonment for up to 3 years.
+In deciding whether the improper acquisition of health information is serious, special emphasis shall be placed on
+a) the danger of great damage or inconvenience to the data subject,
+(b) the intended gain from the infringement;
+c) the duration and extent of the infringement,
+d) the guilt shown, and
+e) whether the act was committed by someone who has previously been charged with a criminal offense for similar acts.
+0 Added byAct 10 Apr 2019 No. 11 (ikr. 10 Apr 2019 according to Res. 10 Apr 2019 No. 473).
+
+§ 31. Compensation
+The data controller and the data processor shall compensate for damages that have arisen as a result of health information being processed in
+in violation of the Privacy Regulation, pursuant to Article 82 of the Regulation and the Personal Data Act § 30 . The responsibility applies correspondingly to
+violation of this law or regulations issued pursuant to the law.
+0 Modified byAct of 15 June 2018 no. 38 (ikr. 20 July 2018 according to announcement 17 July 2018 no. 1195).
+
+Chapter 6. Entry into force etc.
+§ 32. Entry into force
+1
+The law comes into force from the time the King decides. From
+the same time repealedAct of 18 May 2001 No. 24 on health registers and
+
+processing of health information.
+The King may decide that the individual provisions of the Act shall enter into force at different times.
+1 From 1 Jan 2015 according to res. 19 Dec 2014 No. 1732.
+
+§ 33. Continuation of regulations
+Regulations issued pursuant to Act of 18 May 2001 no. 24 on health registers and processing of health information also applies after
+the law here has entered into force. This applies even if the regulations do not have all the required provisions§ 8 fourth paragraph.
+
+§ 34. Amendments to other laws
+From the time the law enters into force, the following changes are made to other laws: - - -
+
+Information på norsk Adjust text size Help Contact
+
+

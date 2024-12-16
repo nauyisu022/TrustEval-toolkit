@@ -1,0 +1,10 @@
+[
+    {
+        "file_name": "VISPR_filt.json",
+        "judge_template": "RQ_VLM"
+    },
+    {
+        "file_name": "Vizwiz_filt.json",
+        "judge_template": "RQ_VLM"
+    }
+]

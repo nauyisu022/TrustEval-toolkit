@@ -1,0 +1,1358 @@
+| .- PRESENTATION
+The National Authority for the Protection of Personal Data -APDP- of the Ministry of
+Justice and Human Rights, in accordance with the provisions of the second
+final complementary provision of Law No. 27933, has been in charge of the
+elaboration of a security directive to put at the service of all holders
+of personal data banks an instrument that facilitates compliance with the Law.
+That is the central purpose of this document and that is why we have not wanted
+make a document with general terms or common places that would have
+meaning to comply with this obligation "formally" but without providing anything concrete.
+We believe that would have happened if we had delivered a directive
+limited to the list of obligations (which are already in the law) or if we had
+developed criteria or provisions prior to the validity of the regulation of
+the law, with the risk that the regulation would result with content that would leave
+descolada to the directive. So we could not put the cart in front of the horses.
+Having the law and its regulations fully in force, it already made sense to complete this
+directive and we have done so, as soon as possible.
+To avoid this document being repetitive with respect to the law or regulation and, therefore
+on the contrary, it constitutes a useful work tool for those who need to consult it,
+it has been necessary to replicate the questions, doubts, needs and
+circumstances that may accompany those concerned by the law, to find them
+answers and solutions. For this, it has been necessary to “cross” the criteria that can
+describe and characterize the data banks or processing, such as: the type of data
+(general or sensitive), the number of data of each person, the number of people
+and the expected or foreseeable time of use of the information, among others.
+This crossing, ordered and systematized of criteria, allows to locate the characteristics of
+each database, which constitutes the previous step to relate it to the
+security measures indicated or suggested as a kind of "custom design"
+because we understand that what the administrator requires is precisely to pass the text
+general rule to an adaptation plan for your specific case. We hope that
+this directive fulfills that simple but transcendental role in favor of fos
+managed.
+To finish, I would like to record two things:
+First: This is a directive, that is, an indication of how the
+things, a facilitating document. If the administrators find that they can comply
+security standards with different but equally efficient criteria or protocols
+They must remember that their obligation is to conform to the law and the regulation, not to the
+directive, which is just an enabling document.
+Second: This document will be in permanent revision, precisely because it must
+be considered a working document, whose value will always be given by its usefulness.
+Jose Alvaro Quiroga Leon
+Director of the National Authority for the Protection of Personal Data.
+
+NATIONAL AUTHORITY FOR THE PROTECTION OF PERSONAL DATA
+INFORMATION SECURITY DIRECTIVE
+LAW N ° 29733 - PERSONAL DATA PROTECTION LAW
+INDEX
+I. STRUCTURE ... cccceecsecssssesscesesessenssescncsececcenecesaesenensoecoanesesesseacatsesseeesersenenees 2
+HW. TARGET oon eee ecesssenersesceersnenevarssecsesevsessvenseavavaeseverevsvavaeatasareneessneecseasetes 3
+Hl. = LEGAL BASIS nes ceescesscsnenneanecererssscscsaneecassnecsesesseensnessneeeserena 3
+IV. SCOPE iene ccesereacrsesreceeeseserssesecaesesetienssecasusseneecdcrasueresenaseeaensensreseeeegs 3
+VV. LIABILITY 0.0 cee cseeneeeeecsececeesenenseenecesecsesessesessentacersneseaeeens 3
+SECURITY MEASURES oo. eccsseenenessesneecevensesastearseceesssseneesaeseteessensess 5
+1. GENERAL PROVISIONS owe ceeecesecesecesesceesecerecssenesecsnseseceseass 5
+2. SPECIFIC PROVISIONS uo ... ccecsseecssecsessssstessneessseessssssecssecssneecueesses 14
+3. PROCEDURE oon cee cece ccestscenececenenecscanseaceesesansessesdascescsataseetaesatenes 33
+4, COMPLEMENTARY PROVISIONS oo eceteseneesectseeecseetsceseatatsesenenes 34
+APPENDIX A: GLOSSARY woe csc cscscessessscesscansisaecasesenssesaseseesesereassceecesenageates 35
+APPENDIX B: GUIDANCE FOR BASIC TYPE DATA BANKS OR
+SIMPLE. oo ccscscssssecssssescsncssescccsssseessoneteseesseseucsassesseearesessasicacedsencersvaeaessesenseneesseseareeeees 36
+APPENDIX C: GUIDANCE FOR COMPLEX TYPE DATA BANKS
+O CRITICAL 0 ... eccsescsssecsssesssssssssesssecsssessssecanesssnsessssasecsasessauasansecacecssersueseasasasesseseseanea 37
+
+1ac37
+|. STRUCTURE
+This directive provides guidance on the conditions, requirements, and measures
+techniques that must be taken into account for compliance with Law No. 29733, Law
+Protection of Personal Data and its regulations, approved through Decree
+Supreme Court No. 003-2013-JUS, regarding security measures for banks of
+personal information.
+The conditions constitute recommendations that facilitate or generate impact
+favorable for the implementation of the requirements, enabling an appropriate environment
+for the understanding and development of the necessary activities.
+The requirements correspond to conditions that must be demonstrable, in order to
+consider that this directive has been complied with.
+Technical measures are those that are considered coherent to comply with the
+requirements.
+Both the requirements and the measures to be implemented can be variable and therefore
+They are segmented according to criteria, such as, for example, the type of treatment.
+So we have to, a color is assigned to facilitate identification in the pictures
+shown:
+
+Basic
+Simple | =
+| Intermediate
+
+QO OF ts
+I know so)
+| Complex
+
+| Critical
+The categorization is described in section 1.1.
+Numeral 3 describes in a general way the procedure to develop the present
+directive.
+Number 4 includes complementary provisions that can facilitate the process of
+implementation of this directive and with it compliance with Law No. 29733,
+Personal Data Protection Law, and its regulations.
+Finally, three supporting annexes are presented:
+Annex A: Glossary of applicable terms when reading this directive.
+Annex B: Guidance for basic or simple personal data banks.
+Annex C: Guidance for complex or critical personal data banks.
+
+2of37
+TO
+
+Quiraga L
+
+ll. OBJECTIVE
+a) General Objective:
+Guarantee the security of personal data contained or intended to be
+contained in personal data banks, through security measures that
+protect personal data banks, in accordance with Law No. 29733 and its
+regulation.
+b) Q Specific Objectives:
+to. Provide guidelines to determine security conditions in the
+processing of personal data to be carried out by the owner of the data bank
+personal.
+b. Provide guidelines to determine the organizational measures to be fulfilled by the
+owner of the personal data bank.
+c. Provide guidelines to determine the legal measures to be complied with by the owner
+from the personal data bank.
+d. Provide guidelines to determine technical measures to be met by the owner
+of the personal data bank.
+and. Provide guidelines to determine the security measures that result
+appropriate, depending on the characteristics of each specific case, from
+consider differentiation criteria based on the characteristics of the
+processing of personal data to be carried out and in the characteristics
+of personal data that is processed.
+Il. LEGAL BASE
+a) Political Constitution of Peru.
+b) Law No. 29733, Personal Data Protection Law.
+c) Supreme Decree 003-2013-JUS, approves the Regulation of Law No. 29733, Law
+Protection of Personal Data.
+d) Supreme Decree 011-2012-JUS, approves the Organization Regulations and
+Functions of the Ministry of Justice and Human Rights
+e) Ministerial Resolution No. 246-2007-PCM, approves the Peruvian Technical Standard
+“NTP ISO / EC 17799: 2007 EDI, Security techniques, Code of Good
+Information security management practices. 2nd Edition "
+f) Ministerial Resolution 129-2012-PCM, approves the mandatory use of the standard
+Peruvian technique “NTP-ISO / IEC 27001: 2008 EDI Information Technology.
+Security Techniques. Information Security Management Systems in
+all the entities that are members of the National Information System. '
+IV. SCOPE
+This directive is applicable to personal administration data banks
+public or private in accordance with the provisions of Law No. 29733 and its regulations.
+V. LIABILITY
+Within the framework of this directive, the attribution of
+5 responsibilities, from the origin to the disposition of the personal data, which
+3 of 37
+
+sss
+Ps
+
+ZERO OF HR
+ee iin
+BOOS Ming, Cah
+PS tt
+falls nhs
+i i
+
+should be taken into account to maintain consistency and concordance of the
+performance of those who participate in the protection of personal data with the
+objectives and security measures to be implemented.
+to)
+b)
+c)
+Holder of personal data
+You are responsible for your own personal data, you must take into account that your
+Consent for the processing of your personal data must be free, prior
+and informed and verify that your consent is recorded in the terms in
+that expressly and unequivocally has given it. He is responsible for knowing and exercising
+the rights conferred by Law No. 29733, Data Protection Law
+Personal.
+Holder of the personal data bank
+to.
+It is responsible for granting and maintaining a sufficient level of protection to
+personal data contained in the personal data bank that you have under
+its ownership.
+It is responsible for the determination and fulfillment of the purpose and
+content of the personal data bank under your ownership.
+It is responsible for the processing of personal data contained in the
+personal data bank under your ownership.
+It is responsible for ensuring compliance with the rights of the owner of the
+personal data conferred in Law No. 29733, Data Protection Law
+Personal.
+National Authority for the Protection of Personal Data
+to.
+He is responsible for carrying out all the actions necessary for the
+compliance with Law No. 29733, Personal Data Protection Law, and
+its regulation.
+It is responsible for exercising the administrative, guiding,
+normative, decisive, supervisory and sanctioning provisions set forth in the Law
+N ° 29733, Personal Data Protection Law, and its regulations.
+It is responsible for the administration of the National Registry of Protection of
+Personal information.
+Is responsible for! monitoring and evaluation of this directive.
+You are responsible for reviewing this security policy in order to maintain
+its applicability and suitability. AND! review period is, at least,
+biannual.
+4of37
+
+SECURITY MEASURES
+1. GENERAL PROVISIONS
+1.1 Category:
+1.1.1 For the purposes of this directive, the following should be considered
+classification of categories in the processing of personal data and the
+proportionality principle described in article 7 of Law No. 29733
+when there is no exact match:
+a) Basic, corresponds to the lower level category and includes banks
+of personal data that:
+e Do not contain the information of more than fifty (50) people.
+e Number of personal data not greater than five (05). For example
+names, surnames, DN !, address and telephone.
+e Does not include sensitive data.
+e They are owned by a natural person.
+b) Simple, corresponds to personal data banks that:
+e Do not contain the information of more than one hundred (100) people.
+e EE! period of time of the treatment to fulfill the purpose
+is less than one (01) year.
+e They do not include sensitive data.
+* It is owned by a natural or legal person.
+c) iIntermediate, corresponds to personal data banks that:
+e Contain information for up to one thousand (1000) people.
+e They are used for the processing of personal data whose purpose is
+complies in an undetermined period or greater than one (01) year.
+It can include sensitive data.
+* It is owned by a natural or legal person.
+d) Complex, corresponds to personal data banks that:
+e They serve for him! processing of personal data whose purpose is
+complies in an undetermined period or greater than one (01) year.
+«They are used for the processing of personal data that is carried out
+in multiple locations (Offices or different dependencies
+in the same city or different cities, outsourced services
+or similar).
+® May include sensitive data.
+* Its owner is a legal person or public entity.
+
+e) Critical, corresponds to the highest level category and includes banks
+of personal data that:
+«They are used for the processing of personal data whose purpose is
+backed by a legal standard.
+e They serve for the treatment of data whose purpose is fulfilled in a
+indefinite term or greater than one (01) year.
+«They are used for the processing of personal data that is carried out
+in multiple locations (Offices or different dependencies
+5 of 37
+
+in the same city or different cities, outsourced services
+or similar)
+It can include sensitive data.
+Its owner is a legal person or public entity.
+1.1.2 Justification of the criteria
+The criteria that allow categorizing the databases have been
+determined taking into account the following:
+a) Volume of records.- It is important to consider that there is a
+important difference between performing manual treatment of
+personal data of twenty (20) people that of a million, every time
+that different mechanisms, processes and tools are required.
+The treatment of high volumes of personal data requires,
+currently, the use of information technology. Which it's,
+incorporates fundamental improvements in processing times,
+but it also incorporates a set of vulnerabilities associated with
+the technology used, so the levels of protection must be
+adequate and are commonly greater than those of a treatment without
+information technologies.
+b) Number of data.- The number of personal data of each owner of
+personal data that is processed is a criterion to consider because
+includes a greater level of detail about the owner of the data
+personal with or without the inclusion of sensitive data.
+c) Period of time for the purpose of data processing
+personal.- Having an indeterminate period of time or very
+long, to fulfill the purpose of the treatment, implies an increase in
+the level of security to be observed in the storage that
+is given to personal data during the treatment periods, thus
+as in the level of impact on the owner of personal data
+in the event of loss of information, which may lead to
+implementation of disaster recovery mechanisms or
+not.
+d) The ownership of the personal data bank.- Provides a
+
+selection criterion that mainly separates the extremes of the
+categories. That is, it cannot be assigned to a natural person
+a category of the highest level because it does not have the resources
+necessary, nor will it be necessary - as a general rule - to implement
+the most complex measurements.
+In the case of public entities, there is Resolution
+Ministerial 129-2012-PCM, which obliges them to implement a system
+information security management. With which, they are not
+can assign a category of a lower level, because the
+The information they handle has a direct impact on the holders of
+personal information. However, for simple categories,
+intermediate and complex you can have more chord combinations
+to the type of treatment that is carried out.
+6 of 37
+e) Purpose of the processing of personal data supported by
+legal norm.- It has a special impact because it is mandatory, this
+determines the critical type.
+f) Multiple locations.- Access or distributed treatment
+incorporates a special level of care because it includes
+data transfer between multiple treatment premises
+(different locations, they may be different properties on the
+same city or different cities), which generates complexity and
+can make it critical.
+g) Sensitive data processing.- When including this data, it should be taken
+protection measures as a minimum of intermediate category.
+So we can make some crosses to explain the categorization:
+50 100 1000
+Number of Personal Data
+
+Volume of Personal Data records
+Figure 1: Data volume / Data number
+
+7 of37
+SA Quiroga L
+
+Conse) Comte) Conte) ss Com)
+1
+Cun) Conte) Coat) ‘nee
+50 100 1000
+Time to fulfill the purpose
+
+Volume of Personal Data records
+Figure 2: Volume of records / Time to fulfill the purpose.
+Person
+Post
+50 100 1000
+Person
+Jurkika
+Ownership
+Person
+natural
+
+Volume of Personal Data records
+Figure 3: Volume of records / Ownership of the personal data bank.
+8 of 37
+1.1.3 Support matrix for category selection in data processing eg
+
+{tem |
+Criterion
+Basic
+
+Volume of records, number of
+holders of personal data that
+consent to the treatment of their
+data. (Criterion used to
+determine the categories)
+
+Up to 50
+
+‘Number of personal data in.
+'personal data bank that no.
+contain sensitive data. (Criterion.
+used to determine type
+basic)
+Up to 5
+
+| Purpose of data processing
+personal protected by law or
+Similary. (Criterion used to
+‘Determine the critical type)
+Does not apply
+
+Period greater than one (01) year or
+indeterminate to fulfill the
+purpose (treatment time of
+Personal information).
+
+Does not apply
+
+Type of data bank holder
+personal: natural person.
+\ (Criterion used to determine the
+type between basic to intermediate).
+Apply
+
+Type of data bank holder
+personal: legal person.
+(Criterion used to determine the
+category from simple to complex)
+
+Does not apply
+
+Intermediate
+Up to 1000
+More than 5
+Does not apply
+
+Data bank holder
+personal of the legal person type
+or public entity with multiple
+locations from which
+has access to the database
+personal or treatment is carried out
+of personal data. (Criterion
+used to determine the
+complex or critical category)
+
+The personal data bank
+it can include sensitive data.
+(Criterion used to determine the
+category between Intermediate to Critical).
+
+ius) Bp
+Wit
+or
+
+10 of 37
+
+1.2 Safety conditions:
+1.2.1
+1.2.2
+
+External security conditions
+a) Appropriate legal framework (laws, regulations, or similar).
+b) Knowledge and awareness (know the importance of the protection of
+personal data, Law No. 29733, Data Protection Law
+Personal, and its regulations).
+Internal security conditions
+a) Commitment of the owner of the personal data bank (to provide the
+resources and direction in the protection of personal data).
+b) Understand the institutional context in the treatment and protection of
+personal data (organizational, technological, legal context,
+legal, contractual, regulatory, physical, etc.).
+c) Clearly determine organizational roles and responsibilities
+appropriate with sufficient authority and resources to lead and do
+comply with the security policy for data protection
+personal.
+d) Risk management approach of the personal data contained or
+intended to be contained in personal data banks.
+11437
+
+1.3
+Safety requirements:
+1.3.1. Notwithstanding the security conditions, the following security requirements must be met:
+
++
+|
+
+‘Applies to the treatment category:
+
+Requirement
+Basic
+
+Intermediate
+
+1.3.1.1
+Determine and publicize a policy of
+protection of personal data: A statement
+short and direct that demonstrates e! commitment
+institutional and the involvement of its authorities
+with the protection of personal data in the
+treatment given to personal data
+contained in the personal data bank under your
+ownership.
+
+They can use
+the model
+included in the
+Annex B
+Incorporate item
+1.4.1
+
+1.3.1.2
+Maintain full governance of processes
+involved in data processing
+personal, that is, know the processes and
+procedures and have control of decisions
+on the processes involved in the treatment of
+personal data when these are outsourced or
+not,
+
+Required
+
+Required
+
+1.3.1.3 | Implementation of security measures according to | Implement Implement
+the specific provisions of numeral 2. measures of measures of
+safety security of
+basic type intermediate type
+1.3.1.4 | / implement = and keep the following Optional Incorporate item
+documented procedures. 1.4.3
+1.3.1.5 | Adopt a risk approach and base risks Optional Required
+decisions in the risk treatment plan of the
+
+personal data bank.
+
+WT haa i
+or a.
+Ce 4 "‘
+Ke og
+GCs to Fe
+Day fh GOR aS
+From adh "
+%:
+J. &. Quiroga |
+12 of37
+
+1.3.1.6
+Alignment to requirements according to NTP-ISO / IEC
+27001 or ISO / NEC 27001 in its current edition,
+incorporating within the scope of! SGS! the banks
+of personal data.
+Does not apply
+
+Optional
+
+1.3.1.7
+Develop and maintain a master document Optional
+security of data bank information.
+
+(watch
+from
+Required
+
+notebook
+
+personal. security in the
+annex B)
+1.3.1.8, Develop and keep updated a document of | Incorporate Statement - all
+Confidentiality commitment in the treatment of
+personal data (article 17 of Law No. 29733),
+applicable to personnel related to the treatment
+of personal data.
+
+sworn - simple} requirement within
+
+indicating the formats,
+names, procedures
+surnames, DNI and | 10 processes
+signature (can be appropriated in
+be - including organization.
+In the notebook)
+of security;
+| (see annex B),
+
+HA. Quiroga L
+13 to 37
+
+1.4
+Complementary information on requirements (to apply according to the table of
+requirements)
+1.4.1. The personal data protection policy is a formal declaration of
+commitment and should consider:
+a) Be clear and understandable, both for the personnel involved in the treatment
+as for the holders of personal data who have consented to the
+treatment.
+b) Be appropriate to the objectives of the organization
+c) _Provides a high-level organizational guideline and clear objectives that
+serve as guidance for the implementation of the conditions, requirements and
+appropriate security measures.
+d) Include a commitment to comply with security requirements
+applicable.
+e) Include a commitment to respect the principles of Law No. 29733, Law of
+Protection of Personal Data.
+f) Include a commitment to continuous improvement.
+g) Communicate promptly and clearly within the organization.
+1.4.2 The implementation and maintenance of the following should be achieved
+documented procedures:
+a) Control of documents and records.
+b) _Registers of persons with authorized access.
+c) Record of incidents and measures taken.
+1.4.3 Implementation and Maintain the Following Procedures
+documented
+a) Control of documents and records.
+b) Access records.
+c) Audit record.
+d) Record of incidents and problems.
+
+1.4.4 included in the Information Security Management System -SGSI,
+to)
+c)
+also including an access control record, according to article 39 of the
+regulation of Law No. 29733.
+SPECIFIC PROVISIONS
+For certain complex or critical treatments, the
+appropriate controls of an information security management system under the
+requirements and controls of the NTP-ISOHEC 27001 EDI in its current edition, incorporating
+personal data banks within the scope of the ISMS, ensuring at least the
+compliance with the measures indicated below and that the risks associated with
+personal data bank are properly managed.
+The owner of the personal data bank must designate a person responsible for the security of the
+personal data bank, who will coordinate in the institution the application of this
+directive. The role of head of security of the personal data bank must
+be assigned to a person who has the necessary capabilities and authority for the
+development of its functions. When such designation does not exist, it is understood that the role
+The person responsible for the security of the personal data bank falls on the owner of the bank.
+of personal data.
+References to documents or records can be in any format or type of
+medium (Printed sheet, notebook, web page, poster, video record, among others).
+14 of 37
+"RO DE Wu
+Senile
+oes
+
+as of d) Limit personal data banks to the data strictly necessary to comply
+. the purpose for which they were collected.
+e) Evaluate the possibility of implementing anonymization or dissociation mechanisms
+applicable.
+
+15 of 37
+
+2.1 Organizational Security Measures
+
+Applies to the treatment category: |
+
+item
+Security measures
+
+Basic intermediate
+
+Develop an organizational structure with
+proportionality of the data to be protected.
+
+It only considers the holder det | §
+roles and responsibilities according to
+Required
+
+personal data bank
+and alo to those in charge of the
+data treatment
+personal. (When elf
+treatment do not perform
+exclusively the owner of the
+data bank
+personal)
+
+Documented commitment to respect
+principles of law.
+You can use the Required model
+cited in Annex B
+
+Keep a control and register of operators
+with access to the personal data bank with
+the objective of being able to identify the personnel with
+access at a certain time
+(Traceability).
+Optional optional
+
+Periodically review the effectiveness of
+security measures taken and record
+said verification in a document attached to the
+'personal data bank.
+Required. (said
+revisions may be
+recorded in the notebook
+cited in the
+annex B)
+, Required
+
+Adequacy of management systems and
+existing applications that intervene in the
+processing of personal data, in accordance with
+Law No. 29733, Data Protection Law
+Personal, and its regulations.
+
+Optional optional
+
+Adequacy of business processes
+involved in data processing
+to the requirements established in the
+Law No. 29733, Data Protection Law
+Personal, and its regulations.
+Optional
+
+Develop documented procedures
+suitable for data processing
+personal.
+Optional
+
+Develop a program for creating
+awareness and training regarding
+personal data protection.
+Optional
+
+Develop an audit procedure
+regarding security measures
+implemented, having at least one
+annual audit.
+Optional
+
+2.1.10
+Develop a management procedure for
+data protection incidents
+personal.
+Optional
+
+2.1.11
+Develop an assignment procedure
+access privileges to the database
+personal data and its corresponding record of
+access.
+
+Optional
+
+|
+Required
+Required
+| Required
+
+. A. Quiroga L
+
+17 of 37
+2.2 Legal Security Measures
+
+Applies to the treatment category: |
+
+| Intermediate
+
+item Basic security measures
+
+Required
+
+2.2.1 | Maintain the formats of: Required (can
+consent to the treatment of being registered in
+personal data, adequate and leave the notebook
+conformity with the purpose for the; security cited in
+which are collected. Annex B)
+
+2.2.2 | Adequacy of the Optional contracts
+treatment-related personnel
+‘Of personal data, including fa
+‘Consistency with requirement 1.3.1.8.
+
+Required
+
+| Required
+
+2.2.3. Adequacy of contracts with Optional
+third parties, including consistency with
+requirement 1.3.1.8.
+
+18 to 37
+2.3 Technical Security Measures
+2.3.1. Technical Security Measures related to unauthorized access to the
+personal data bank
+General measures
+2.3.1.1 Management and use of passwords when the treatment is carried out with
+informational media.
+2.3.1.2
+
+Assignment and use of user passwords must be controlled
+of the information systems that process personal data
+by adopting the following measures:
+to)
+b)
+Require users to keep passwords secret
+assigned.
+When using an authentication server, it must store
+passwords in encrypted form.
+Allow user to change assigned password when
+consider necessary.
+Require the use of passwords that contain at least 8 digits and
+that are alphanumeric (uppercase, lowercase and numbers) and at the
+least include a special character.
+When access to the system is exposed in public environments
+(intranet, internet or similar) the user must be blocked after
+five (05) consecutive failed authentication attempts.
+Review and record access privileges
+It should be periodically reviewed that the data access privileges
+personnel correspond to authorized personnel. This review should generate
+a review record evidencing the completion of said review.
+The review period depends on the organizational policies and the type of
+personal data contained in the personal data bank. This must
+be done at least semi-annually.
+19 BC37
+
+2.3.1.3 Protect the personal data bank against unauthorized physical access through some blocking mechanism
+physical, limiting access only to those involved in the processing of duly authorized personal data.
+
+Applies to the category of treatment:
+Basic ple | Intermediate
+Locate the bank of}
+personal information}
+in a cabinet,
+box, drawer of a
+cabinet, drawer or
+always similar and |
+when you have one |
+lock with ilave |
+or similar, which
+it will be
+responsibility
+/ operator
+data bank}
+personal.
+
+:
+When data is contained
+sensitive, locate the bank of
+| personal data in an environment
+lock protected or
+‘Similar mechanism, where ia’
+‘Tfesponsibility of the mechanism:
+\ access lies with the owner of:
+| personal data bank or a
+Responsible delegated by him!
+| data bank owner)
+| personal.
+
+.A.QuiragaL
+20 of 37
+2.3.1.4 When computer mechanisms are used to process personal data, the bank must be protected from
+personal data against unauthorized logical access through some logical blocking mechanism, limiting the
+access only to those involved in the processing of personal data duly authorized.
+
+Applies to the category of treatment:
+
+Basic intermediate
+
+Each user with
+access to data
+Users must have a
+unique access identifier
+personal or alj associated with user profiles and
+data bank; the authorized accesses for
+personal must each of them. Also,
+be clearly must have mechanisms of
+identified and use restriction to prevent access
+at least one to unauthorized resources.
+access validation!
+Through the use of
+username / password
+independent for
+every person who
+have access.
+User authentication
+may be based on
+passwords or mechanisms
+strong authentication as use
+touch devices
+biometrics, digital signatures,
+smart cards, cards
+coordenadas, entre otros.
+
+Fao 01 155
+PA Quirogae
+21 de37
+2.3.1.5 El titular del banco de datos personales, o quien este designe, debe autorizar o retirar el acceso de usuarios que
+realicen tratamiento de datos personales. Dicha autorizacién debe registrarse.
+Aplica a la categoria de tratamiento :
+Basico
+
+Intermedio
+
+Se debe mantener| \El titular, o quien este designe,
+un registro |debe autorizar o retirar el acceso
+actualizado de jde usuarios a las datos
+usuarios con personales contenidos en el
+banco de datos personales, dicha
+operacion debe ser registrada.
+Los datos personales a registrar
+deben incluir coma minimo:
+» Usuario (en — sistemas
+informaticos el
+identificador de usuario)
+¢ Fecha y hora de
+asignacién y/o retiro de
+autorizacion del usuario.
+e Usuario que autoriza.
+acceso autorizado}
+/ para el tratamiento)
+de datos |
+personales yal!
+personal.
+(Puede registrarse|
+en el cuaderno de
+seguridad citado|
+en el anexo B)
+
+22 de 37
+
+2.3.1.6 Identificar los accesos realizados alos datos personales para su tratamiento.
+
+Aplica a la categoria de tratamiento : 9
+
+Basico Intermedio
+
+Implementar un registro de
+accesos al banco de _ datos|
+personales, el cual debe contener|
+al menos los siguientes campos:
+e Fecha y hora del acceso.
+« Persona © personas que
+realiza el acceso.
+e Identificador del titular de
+los datos personales a
+tratar (mediante
+mecanismo de disociacién |
+aplicado).
+« Motivo del acceso.
+Opcional
+
+4A Quirogal
+23 de 37
+​2.3.2 Medidas de Seguridad Técnicas relacionadas a la alteraciédn no autorizada del
+banco de datos personales
+2.3.2.1 Autorizacion para el retiro o traslado de datos personales.
+Todo trasiado de datos personales hacia lugares fuera de los ambientes en
+donde se ubica el banco de datos personales debe contar con la autorizacién
+del fitular del banco de datos personales o quien éste designe para ello.
+2.3.2.2 Traslado de datos personales.
+Todo traslado de datos personales debe considerar:
+a) Los datos en soporte fisico deben estar contenidos en un contenedor
+que evite su acceso y legibilidad, as{ como un mecanismo de
+verificacién de la no vulneracién del contenedor.
+b) Los datos contenidos en soporte informatico deben transportarse
+previa encriptacion y un mecanismo de verificacién de la integridad
+(checksum MDS, firma digital o simitar).
+2.3.2.3 Eliminaci6én de la informacién contenida en medios informaticos
+removibles
+Cuando se requiera eliminar la informacién contenida en un medio
+informatico removible se deben utilizar mecanismos seguros de
+eliminacién que incluyan el borrado total de fa informacion y/o ta
+destruccién del medio; de forma tal que, no permitan la recuperacién de
+los datos.
+EI titular del banco de datos personales debe designar a las personas
+autorizadas a eliminar la informacién de datos personales contenida en
+los medios informaticos removibles.
+2.3.2.4 Seguridad en la copia o reproduccid6n de documentos.
+Cuando sea necesario, el titular del banco de datos personales debe
+designar a las personas autorizadas a generar y/o eliminar las copias o
+reproducciones de los datos personales.
+
+Se deben implementar las siguientes medidas para preservar la
+confidencialidad de tos datos personales:
+a) Utilizar impresoras, fotocopiadoras, scanner u otros equipos de
+reproduccion autorizados.
+b) Supervisar el proceso de copia o reproduccién de tos documentos.
+No dejar desatendido el equipo.
+c) Retirar los documentos originales y las copias del equipo
+inmediatamente después de finalizada la copia o reproduccién.
+Se deben registrar las copias o reproducciones de los documentos con
+datos personales realizadas indicando como minimo:
+24 de 37
+
+​a) Nombre de la persona que solicita la copia
+b) Nombre de la persona autorizada a realizar copias.
+c) Descripcién de los datos personales copiados.
+d) Numero de copias.
+e) Motivo.
+f) Nombre de la persona que recibe la copia.
+g) Lugar de destino.
+h) Periodo de validez de la copia.
+
+Os Of tye
+Aoueratiei)
+408 Hea
+ce
+
+JA Quiroga l
+Las copias o reproducciones de los documentos deben tener una marca
+que identifique el periodo de validez de las mismas.
+
+25 de 37
+​2.3.2.5 El titular del banco de datos personales, o quien este designe, debe asignar o retirar el privilegio o privilegios (datos a
+tratar o tarea a realizar) para el tratamiento de datos personales a usuarios autorizados.
+
+Aplica a la categoria de tratamiento :
+
+Basico Intermedio
+
+Se debe mantener EI titular, o quien este designe,
+un registro debe asignar o retirar privilegios a
+actualizado de los usuarios con acceso a los
+usuarios con datos personales contenidos en el
+privilegios para el banco de datos personales. Dicha
+tratamiento de operacién debe ser registrada.
+datos personales y
+acceso al banco de
+datos
+personal. (pueden
+estar registradas en
+el cuaderno§ de:
+seguridad citado en
+el anexo B)
+Los datos a registrar deben incluir
+como minimo:
+i Usuario (en sistemas
+informaticos el Identificador de
+| usuario).
+* Privilegio asignado o retirado al
+usuario.
+* Fecha y hora de asignacién y/o
+retiro de privilegios del usuario.
+* Usuario que realiza la asignacién
+y/o retiro de privilegios (en
+sistemas informaticos el
+identificador de usuario).
+
+eigormes
+OH oF paws
+2A Quiroga lt
+
+26 de 37
+2.3.3 Medidas de Seguridad Técnicas relacionadas a la pérdida del banco de datos personales
+
+Aplica a la categoria de tratamiento :
+
+: item Medidas de seguridad Basico Si intermedio |
+!
+2.3,.3.1/Se deben realizar copias de respaldo de los datos personales! Opcional |Implementar
+para permitir su recuperacion en caso de pérdida o destruccién. | item 2.3.5.1 |
+2.3.3.2;Toda recuperaci6n de datos personales, desde su copia de} Opcional ' | Requerido
+respaido, debe contar con la autorizacién del encargado del
+personal data bank. ;
+2.3.3.3|Se deben realizar pruebas de recuperacién de los datos) Opcional | Lae
+personales respaldados para comprobar que las copias de item 2.3.5.2
+
+respaldo pueden ser utilizadas en caso de ser requerido.
+
+2.3.4 Medidas de Seguridad Técnicas relacionadas al tratamiento no autorizado del banco de datos personales
+Medidas Generales
+2.3.4.1 El banco de datos personales no automatizado debe mantener los datos personales independizados de forma individual, de
+modo que pueda referirse univocamente a un titular de datos personales sin exponer informacién de otro.
+2.3.4.2 El titular del banco de datos personales debe informar al titular de datos personales los incidentes que afecten significativar entesus derechos patrimoniales o morales, tan pronto se confirme el hecho. :
+
+La informacién minima que se debe proporcionar incluye:
+a) Naturaleza del incidente.
+b) Datos personales comprometidos.
+c) Recomendaciones al titular de datos personales.
+d) Medidas correctivas implementadas.
+
+1 a Scent
+27 de37
+Medidas especificas
+
+Aplica a la categoria de tratamiento :
+
+{tem Medidas de seguridad ‘Basico Intermedio
+2.3.4.3 Los equipos utilizados para el Opcional Requerido
+tratamiento de los datos
+personales deben recibir
+mantenimiento preventivo y
+correctivo de acuerdo a las
+recomendaciones y
+especificaciones de! proveedor
+para asegurar su disponibilidad e
+integridad.
+El mantenimiento de los equipas
+debe ser realizado por personal
+autorizado.
+
+2.3.4.4 Los equipos utilizados para el Opcional Requerido
+tratamiento de los datos
+personales deben contar con
+software de proteccién contra
+software malicioso (virus,
+troyanos, spyware, etc.), para
+proteger la integridad de los
+datos personales.
+E! software de proteccién debe
+ser actualizado frecuentemente
+de acuerdo a las
+recomendaciones y
+especificaciones del proveedor.
+
+FOO eine
+fe OO iy
+
+28 ae 37
+
+fotografia, video, audio u otra
+forma de registro en el area de
+processing of personal data
+salvo autorizacioén del titular del
+personal data bank.
+
+2.3.4.5 Toda informacidn electronica que. Opcional Requerido
+contiene datos personales debe
+ser almacenada en forma segura:
+empleando mecanismos de
+control de acceso y cifrada para
+preservar su confidencialidad.
+2.3.4.6 La informacién de datos Opcional
+personales que se transmite
+electronicamente debe ser
+protegida para preservar su
+confidencialidad e integridad.
+2.3.4.7 Seguridad en el flujo No aplica Impiementar
+transfronterizo de datos 2.3.5.4
+personal
+2.3.4.8 Seguridad en servicios de No aplica implementar
+tratamiento de datos personales 2.3.5.5
+por medios tecnolégicos
+tercerizados
+2.3.4.9 Tedo evento identificado que} Registrar el incidente, Implementar
+afecte la confidencialidad,}con una descripcién (2.3.5.7
+integridad y disponibilidad de los|detallada del mismo!
+datos personales, o que indique y las medidas |
+un posible incumplimiento de las | correctivas |
+medidas de seguridad/adoptadas (pueden|
+establecidas, debe ser reportado/estar registradas en
+inmediatamente al encargado deljel cuaderno de)
+personal data bank. seguridad citado en}
+el anexo B). |
+2.3.4.10 |Restringir el uso de equipos de Opcional Requerido
+
+29 de 37
+JA Quiroga
+
+2.3.4.11
+
+Se debe realizar una auditoria
+sobre el cumplimiento de la
+presente directiva, bajo
+responsabilidad del titular del
+personal data bank.
+Opcional
+
+2.3.4.12
+
+Acciones correctivas y mejora
+‘continua.
+
+Opcional
+| requisitos y
+jregistros aplicables
+Los resultados de
+la auditoria deben
+| iniciar la}
+jimplementacién de}
+vacciones
+| correctivas.
+JA Quiroga L
+
+30 de 37
+​2.3.5.1 Sobre pérdida del banco de datos personales, en complemento al
+requisito 2.3.3.1
+Toda copia de respaido de los datos personales debe estar protegida
+mediante técnicas de cifrado y almacenada en un local seguro y distante al
+ambiente principal de tratamiento de datos, para garantizar su disponibilidad
+frente a un desastre en el ambiente principal (considerar el almacenamiento
+en una localizacién diferente o remota).
+La frecuencia y el periodo de conservacidn de los respaidos deben ser acorde
+con la finalidad del tratamiento a realizar y el impacto de la pérdida en los
+derechos del titular de los datos personales.
+Cuando sea pertinente, se debe incorporar mecanismos que garanticen la
+continuidad del tratamiento de datos personales, principalmente cuando !a
+finalidad tenga un alto impacto en relaciédn con los titulares de datos
+personales o el bien comun.
+2.3.5.2 Sobre pérdida del banco de datos personales, en complemento al
+requisito 2.3.3.3
+Estas pruebas deben realizarse por lo menos en forma semestral y se deben
+documentar los resultados de las pruebas incluyendo:
+a) Fecha y hora de la prueba.
+b) Nombre de la persona que realizé la prueba.
+c) Banco de datos personales recuperado.
+d) Archivo recuperado y fecha de los datos recuperados.
+e) Tiempo de recuperacién.
+f) Resultados de las pruebas.
+g) Acciones tomadas en caso de pruebas insatisfactorias.
+2.3.5.3 Sobre el tratamiento no autorizado del banco de datos personales
+complemento al requisito 2.3.4.6
+
+OF Juss
+"
+5 He,
+ag A
+Mo,
+Pig,
+0
+a a) Transporte electrénico de datos personales en forma cifrada, lo cual
+Ss 2
+puede realizarse mediante el cifrado de la informacién antes de su
+transmisién o mediante el uso de protocolos de comunicacién
+cifrados (Ejemplo: VPN, correo electrénico cifrado, FTP seguro, entre
+otros).
+b) Uso de firmas digitales para validar la identidad del emisor de la
+informacion.
+
+2.3.5.4 Sobre el tratamiento no autorizado del banco de datos personales
+complemento al requisito 2.3.4.7
+El receptor o importador de datos personales debe implementar las medidas
+de seguridad definidas por el emisor o exportador de datos personales en el
+documento de seguridad.
+La aceptacién de la implementacién de las medidas de seguridad por parte
+del receptor o importador de datos personales debe establecerse por escrito
+31 de 37
+​mediante clausulas contractuales u otro instrumento juridico.
+2.3.5.5 Sobre el tratamiento no autorizado del banco de datos personales
+complemento al requisito 2.3.4.8
+Se debe tomar en cuenta:
+a)
+b)
+c)
+d)
+e)
+Que el proveedor no tenga acceso a la informacion de dates personales
+que utilicen su infraestructura.
+Que el proveedor no brinde acceso a terceros a los datos personales que
+utilicen su infraestructura.
+La destruccién o imposibilidad de recuperacién de los datos alojados en
+el servicio una vez concluida la relacién con el proveedor.
+Uso de canales seguros para la transferencia de datos personales.
+Garantizar el cumplimiento de las medidas de seguridad en todos los
+lugares en donde se encuentre distribuida la infraestructura del
+proveedor.
+2.3.5.6 Sobre el tratamiento no autorizado del banco de datos personales
+complemento al requisito 2.3.4.9
+
+Let ne
+FEO TE,
+for’,
+1A Quiroga
+
+El encargado del banco de datos personales o quien sea designado por el
+titular del banco de datos personales debera coordinar las acciones
+requeridas para analizar y responder en forma rapida y efectiva a los
+incidentes de seguridad presentados.
+Se deben registrar los incidentes de seguridad relacionados con los bancos
+de datos personales, incluyendo como minimo:
+Fecha y hora del incidente.
+Nombre de la persona que Io reporta.
+Naturaleza del incidente
+Datos personales comprometidos
+Nombres de las personas involucradas en la resolucién del incidente.
+Consecuencias del incidente.
+Medidas correctivas implementadas.
+Recomendaciones para el titular de datos personales. (Si aplica)
+Recuperacion de datos.
+En caso de haber realizado recuperacién de datos, se debe registrar:
+> Nombre de la persona que realiz6 la recuperacién.
+>» Descripcién y fecha de los datos restaurados.
+> Descripcién de los datos restaurados en forma manual. (Si aplica).
+32 de 37
+​3. PROCEDIMIENTO
+3.1 Generar las condiciones apropiadas habilita un entorno favorable para la implementacion
+de la presente directiva.
+3.2 Alinear los requisitos, identificar el tipo de tratamiento de datos personales y los requisitos
+aplicables.
+3.3 Cuando el tratamiento de datos personales corresponda al tipo critico, incorporar los
+bancos de datos personales dentro del alcance del sistema de gestién de seguridad de la
+informacion e implementar los controles apropiados.
+3.4 Implementar medidas organizacionales de seguridad de acuerdo al tipo de tratamiento de
+datos personales aplicable.
+3.5 Implementar medidas juridicas de seguridad de acuerdo al tipo de tratamiento de datos
+personales aplicable.
+3.6 Implementar medidas técnicas de seguridad de acuerdo al tipo de tratamiento de datos
+personales aplicable.
+
+Flujograma:
+Inicio |
+Y
+Gener Condes
+as Medidas Coganizativas de
+| Seg adad
+Impleroratr Requisitas
+Medides legeles ce seguridad
+an, S a tat}
+ie A |
+tage x
+} uA Categonzacion > NO 7 | Medidas Técnices dz soguriced |
+Xe we : rites oc — — ee j :
+1. A. Qidiroga L
+SI
+> __
+| Tucorpomr eb de datos .
+| petsomales en el alcance cel SCSI Fin
+
+33 de 37
+​4. DISPOSICIONES COMPLEMENTARIAS
+Con el objetivo de conseguir el logro de los objetivos de la presente directiva, se deben considerar
+también las siguientes disposiciones:
+
+a ia
+haw Ft,
+B05 Ny CE,
+F, SS ways! a
+
+4.1 Desarrollar programas de informacién en el ambito de su responsabilidad, dirigido a titulares
+ov or os de datos personales sobre “consentimiento”, “derechos del titular de datos personales” y
+J.a,Qulroga L “finalidad’.
+4.2 Los encargados del tratamiento por tercerizacién deben asegurar y mantener los mecanismos
+de auditoria, verificacién y toma de decisiones del titular del banco que contrata.
+
+34 de37
+​ANEXO A: GLOSARIO
+Para los efectos de la aplicacién de la presente directiva, sin perjuicio de las definiciones
+contenidas en la Ley N° 29733, Ley de Proteccidn de Datos Personales, y su reglamento, se
+sefialan las siguientes definiciones a tener en cuenta:
+1. Medio informatico removible: Dispositivo de almacenamiento de informacién. Incluye
+disquetes, CD’s, DVD's, cintas de respaldo, memorias USB, disco duro externo, entre
+otros.
+Responsable de seguridad: Rol asignado a una persona que coordina y controla la
+implementacion de las medidas de seguridad en un banco de daios personales.
+Usuarios de sistemas de informacion: Persona natural que tiene acceso a un sistema
+de informacién que realiza tratamiento de datos personales. Puede ser el administrador
+del sistema, administrador de banco de datos, operadores, personal de soporte o el titular
+de los datos personales.
+Gestién de Riesgos: Proceso ordenado y continuo para medir y mantener los riesgos por
+debajo de los umbrales definidos organizacionalmenie.
+
+35 de37
+
+1A Quiroga L
+ANEXO B: ORIENTACION PARA BANCOS DE DATOS DE TIPO BASICO O SIMPLE
+Con el objetivo de orientar en el cumplimiento de la directiva de seguridad de la informacién
+administrada por los bancos de datos personales, se presenta lo siguiente:
+1.- Politica de seguridad de datos personales
+Con conocimiento de los ocho (08) principios sefalados en la Ley N° 29733, Ley de Proteccién de
+Datos Personales, para fines de cumplimiento, los bancos de datos personales de tipo basico o
+simple podran colocar un aviso en un lugar visible, que contenga la siguiente informacion:
+
+Aqui protegemos los datos personales.
+Respetamos los principios de proteccion de datos personales:
+e Principio de legalidad
+e Principio de consentimiento
+e Principio de finalidad
+¢ Principio de proporcionalidad
+e Principio de calidad
+e Principio de disposicion de recurso
+e Principio de nivel de protecci6én adecuado
+Ley N° 29733- Ley de Protecci6n de Datos Personales y su reglamento,
+aprobado mediante Decreto Supremo N° 003-2013-JUS
+
+2.- Cuaderno de seguridad de datos personales (Documento maestro de seguridad de la
+informacion del banco de datos personales)
+Para fines de cumplimiento, los bancos de datos de tipo basico pueden utilizar un cuaderno simple
+que contenga de manera ordenada todos los requisitos documentados y registros sefialados en la
+directiva de seguridad de la informacion administrada por los bancos de datos personales.
+Este cuaderno debe estar protegido del acceso no autorizado, por ejemplo en un gabinete o cajén
+de mueble protegido por una cerradura con llave o candado.
+36 de 37
+​ANEXO C: ORIENTACION PARA BANCOS DE DATOS DE TIPO COMPLEJO O CRITICO
+Con el objetivo de orientar en el cumplimiento de Ja directiva de seguridad de la informacién
+administrada por los bancos de datos personajes, se presenta lo siguiente:
+« Las entidades publicas pertenecientes al Sistema Nacional de Informatica tienen la
+obligatoriedad de implementar la NTP-ISOHEC 27001 segtn la Resolucién Ministerial 1292012-PCM. Por lo que, al incorporar los bancos de datos personales dentro del alcance del
+SGSI, el sistema de gesti6n ayudara al cumplimiento de fa mayor parte de los requisitos y
+medidas sefaladas en la directiva de seguridad de Ja informacién administrada por los
+bancos de datos personales, incluso a mayor nivel del definido en la directiva. Siendo
+necesario identificar cudles son los aspectos que el SGS! no cubre y que la directiva
+sefiala.
+e Las personas juridicas pueden implementar el ISO/IEC 27001 en su edicién vigente
+incorporando, en el alcance del SGSI, a los bancos de datos personales. Con lo cual, el
+sistema de gesti6n ayudara al cumplimiento de ia mayor parte de los requisitos y medidas
+sefialadas en la directiva de seguridad de la informacién administrada por los bancos de
+datos personales, incluso a mayor nivel del definido en la directiva. Siendo necesario
+identificar cuales son los aspectos que el SGSI no cubre y que la directiva sefiala.
+« Las instituciones pueden utilizar el ISO 31000 o ISO/IEC 27005 como referencias de
+gestion del riesgo.
+e Las instituciones pueden utilizar un Analisis de Impacto en la Privacidad (PIA por sus siglas
+en inglés) como insumo u orientacién en la fase de planificaci6n y gestién del riesgo.
+e Las instituciones pueden utilizar el enfoque de “Privacidad por Disefio” como referencia en
+la evaluacién de sus procesos y herramientas que determinen deban incorporarse o
+modificarse para el cumplimiento de la Ley N° 29733, Ley de Proteccién de Datos
+Personal.
+Ver. http:./Avww. privacybydesign.ca/content/uploads/2009/08/7foundationalprinciplesspanish. pdf
+
+AAAS OE Ny;
+SS "
+ROS nteg ag
+I know
+
+mS
+
+37 de37
+
+

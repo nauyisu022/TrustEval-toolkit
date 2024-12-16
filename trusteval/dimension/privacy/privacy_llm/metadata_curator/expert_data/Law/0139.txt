@@ -1,0 +1,379 @@
+
+
+SPECIAL ADMINISTRATIVE REGION OF MACAU
+OFFICIAL BULLETIN - SERIES I
+University Law No. 13/2019
+Degree:
+BO No.: 2019/25
+Published in: 2019.6.24
+Page: 1884-1895
+
+Cybersecurity Act.
+
+Chinese Version
+Related degrees
+:
+Related
+Categories :
+
+Law No. 14/2001 - Defines the Basic Law for Telecommunications.
+Law no. 2/2009 - Law on the defense of State security.
+Law no. 11/2009 - Law to combat computer crime.
+COMMISSION FOR CYBERSECURITY - ALERT AND RESPONSE CENTER TO CYBERSECURITY INCIDENTS CYBERSECURITY SUPERVISION ENTITIES - TELECOMMUNICATIONS - LEGAL REGIME FOR THE PROCESSING AND
+PROTECTION OF PERSONAL DATA - CRIMINAL LAW - JUDICIAL POLICY - DIRECTORATE OF ADMINISTRATION AND
+PUBLIC FUNCTIONS - DIRECTORATE POSTAL AND TELECOMMUNICATION SERVICES -
+
+Notes on LegisMac
+Original version in PDF format
+
+SPECIAL ADMINISTRATIVE REGION OF MACAU
+Law No. 13/2019
+cybersecurity law
+The Legislative Assembly decrees, under the terms of paragraph 1) of article 71 of the Basic Law of the Macau Special
+Administrative Region , to have the following legal effect:
+CHAPTER I
+general provisions
+Article 1
+object and purpose
+This law establishes and regulates the cybersecurity system of the Macau Special Administrative Region, hereinafter referred to as the
+MSAR, with a view to protecting the networks, systems and computer data of critical infrastructure operators.
+Article 2
+Definitions
+1. For the purposes of this law, it is understood by:
+1) «Cybersecurity», the permanent and multisectoral activity carried out by the MSAR with the aim of ensuring the normal functioning
+of networks and computer systems used by operators of critical infrastructures and the integrity, confidentiality and availability of
+computer data, preventing, in particular, , that such networks, systems and data are compromised by unauthorized acts;
+2) «Computer networks»:
+(1) The devices and or interconnected computer systems;
+(2) Electronic communications networks, through which devices and systems are interconnected, namely the telecommunications
+networks referred to in Law No. 14/2001 (Telecommunication Basic Law); and
+(3) Computer data stored, processed, exchanged or transmitted within the scope of the devices, systems and networks referred to in the
+previous subparagraphs, with a view to their operation, use, protection and maintenance;
+3) «Critical infrastructures», the assets, networks and information systems relevant to the normal functioning of society, and whose
+disruption, destruction, disclosure of data, suspension of operation or significant decrease in efficiency is likely to cause serious
+damage to the public welfare, security or order or other particularly relevant public interest;
+4) «Operators of critical infrastructures», the entities, public or private, that operate critical infrastructures and that provide services
+connected to them;
+5) «Unauthorized act», access, acquisition, use, availability, interception, damage or other type of interference in networks, systems
+and computer data not consented to by their owners or other holders of rights over them;
+6) «Cybersecurity incident», any situation that constitutes an unauthorized act and, in general, any event with a real adverse effect on
+the security of networks, systems and computer data;
+7) «Network operators», entities authorized to operate public fixed or mobile telecommunications networks and to provide internet
+access services.
+2. For the purposes of the provisions of this law, the terms “computer system” and “computer data” are understood in terms of the
+respective definitions contained in Law No. 11/2009 (Law to combat computer crime).
+Article 3
+cybersecurity activity
+1. Cybersecurity activity is carried out through:
+1) The definition of guidelines, objectives and strategies with a view to pursuing cybersecurity purposes;
+2) Issuing binding technical standards for critical infrastructure operators;
+3) Compliance with the duties provided for in this law and in the technical standards;
+4) The execution of exceptional cybersecurity measures aimed at responding to cybersecurity incidents, especially when serious
+incidents occur or are imminent;
+5) Monitoring of computer data transmitted between the networks of critical infrastructure operators and the internet, with the aim of
+preventing, detecting and combating cybersecurity incidents;
+6) Supervision of compliance with cybersecurity duties and measures and the establishment of the corresponding sanctioning
+procedures.
+2. The technical standards aim to define processes and mechanisms for the security of networks, systems and computer data and are
+issued by the entities referred to in chapter II through circulars, addressed to the generality of operators of critical infrastructures or
+instructions, addressed to specific categories of critical infrastructure operators.
+3. Circulars and instructions are published in the Official Gazette of the Macao Special Administrative Region or, when their reserved
+nature so warrants, delivered by protocol or sent by post with acknowledgment of receipt.
+Article 4
+Subjective scope of application
+1. This law applies to public and private operators of critical infrastructure.
+2. The following are public critical infrastructure operators:
+1) The Chief Executive's Office, the offices of the holders of the main positions, the support services for the Legislative Assembly, the
+Office of the President of the Court of Final Appeal and the Office of the Prosecutor;
+2) Public services of the Macao SAR;
+3) Public institutes and autonomous funds, whatever their modality.
+3. Private critical infrastructure operators are:
+1) All private law entities, headquartered in the MSAR or abroad, authorized to carry out activities in the fields specified below,
+whether as an operating concession, provision of services to the Administration or licensing, permit or similar title nature:
+(1) Water supply;
+(2) Banking, financial and insurance activity;
+(3) Provision of healthcare in hospitals;
+(4) Wastewater treatment and waste collection and treatment;
+(5) Public wholesale supply of fuel and foodstuffs subject to sanitary and phytosanitary controls;
+(6) Slaughter of animals in legal slaughterhouses;
+(7) Supply and distribution of electricity and natural gas;
+(8) Provision of public maritime, land and air transport services carried out regularly, according to previously defined itineraries,
+frequency of trips, timetables and prices;
+(9) Exploration of ports, maritime terminals, airports and heliports;
+(10) Television and sound broadcasting;
+(11) Exploitation of games of chance in a casino;
+(12) Exploitation of public fixed or mobile telecommunications networks and provision of internet access services;
+2) Commercial companies with exclusively public capital;
+3) Private legal persons qualified as being of public administrative utility whose activity is limited to the scientific and technological
+area.
+Article 5
+Exclusions and exemption
+1. The provisions of this law do not apply:
+1) Services, bodies or public entities of the Macao SAR that do not use computer networks or systems, or that only use networks and
+systems whose cybersecurity is the responsibility of other public entities, in accordance with the provisions of the applicable organic
+diplomas or by order of the Chief Executive ;
+2) To television and sound broadcasting operators whose activity is limited to the broadcasting of entertainment content.
+2. The Chief Executive, at the request of interested parties and by means of an order, may exempt private operators of critical
+infrastructures from complying with cybersecurity duties that:
+1) Do not carry out the activity for which they have been licensed, provided that the deferral of the start or suspension of the activity
+has been communicated in advance to the licensing entity;
+2) Do not use computer systems and networks in their activity;
+3) Demonstrate that the good and regular performance of their activity does not depend on the permanent operation of computer
+systems and networks.
+CHAPTER II
+Institutional provisions
+Article 6
+Institutional framework
+The MSAR's cybersecurity system includes:
+1) The Cybersecurity Commission, hereinafter referred to as the CPC;
+2) The Cybersecurity Incidents Alert and Response Centre, hereinafter referred to as CARIC;
+3) Cybersecurity supervisory entities, hereinafter referred to as supervisory entities.
+Article 7
+Cybersecurity Commission
+The CPC is the body chaired by the Chief Executive, responsible for:
+1) Ensuring the activity referred to in Article 3(1)(1);
+2) Supervise the activity carried out within the scope of this law by the other entities that make up the cybersecurity system;
+Original text
+
+3) Propose to the Government the conclusion and review of agreements, protocols or contracts with public or private entities, from the
+3) prove
+Propor to
+aobe
+Governo
+a celebração
+e revisão
+de acordos,
+protocolosin the MSAR.
+MSAR or abroad, that
+adequate
+to raise the
+standards
+of cybersecurity
+ou contratos com entidades públicas ou privadas, da RAEM ou do
+exterior, que se mostrem adequados à elevação
+dos8 padrões de
+Article
+cibersegurança na RAEM.
+
+Cybersecurity
+Contribute a better translation
+
+Incident Alert and Response Center
+
+1. CARIC is a technical structure specialized in alerting and responding to cybersecurity incidents, coordinated by the Judiciary Police,
+responsible for:
+1) Centralize the reception of information about cybersecurity incidents;
+2) Define the cybersecurity measures provided for in Article 3(1)(4) and coordinate the response of the various intervening entities, in
+order to avoid or mitigate the effects of cybersecurity incidents;
+3) Ensure and promote institutional cooperation, including with similar entities abroad;
+4) Adopt a classification of cybersecurity incidents by severity levels and define alert and response procedures according to these
+levels;
+5) Monitor, in real time, the traffic and characteristics of the computer data transmitted between the networks of critical infrastructure
+operators and the internet, in accordance with the provisions of subparagraph 5) of paragraph 1 of article 3;
+6) Issue alerts about cybersecurity incidents;
+7) Provide technical support to supervisory entities, at their request, in the exercise of their powers.
+2. The monitoring referred to in paragraph 5) of the previous number is carried out by the Judiciary Police and focuses exclusively on
+machine language, and computer data cannot be collected or, in any way, decoded.
+3. The provisions of the previous numbers do not affect the jurisdiction and authority of the Judiciary Police.
+Article 9
+Cybersecurity Oversight Entities
+1. The supervisory entities are Public Administration services and bodies responsible, within the scope of their attributions:
+1) Ensure compliance with the duties provided for in this law and in the technical standards, without prejudice to CARIC's own powers
+in the situations referred to in paragraph 4) of paragraph 1 of article 3;
+2) Supervise the plans and actions of critical infrastructure operators regarding their cybersecurity;
+3) Exercise the sanctioning competence provided for in this law.
+2. The powers referred to in the previous number are exercised:
+1) By the Directorate of Administration and Civil Service Services, hereinafter designated by the SAFP, in relation to public operators
+of critical infrastructure;
+2) By public entities designated by administrative regulation, in relation to private operators of critical infrastructure.
+CHAPTER III
+Cybersecurity Duties
+Article 10
+Duties of an organic nature
+1. The duties of private operators of critical infrastructure, within the scope of their organization, are:
+1) Create cybersecurity management units capable of carrying out the respective internal protection measures;
+2) Equip cybersecurity management units with adequate human, financial, material and property resources;
+3) Appoint the main person responsible for cybersecurity and his/her substitute, from among individuals with adequate professional
+competence and experience and habitually resident in the MSAR;
+4) Ensure that the main person responsible for cybersecurity and his replacement are permanently contactable by CARIC;
+5) Establish grievance and complaint mechanisms related to cybersecurity.
+2. In assessing suitability, any facts that, due to their gravity, frequency or other reasonable circumstances, indicate that the person
+raises serious doubts as to the guarantee of cybersecurity must be considered.
+3. Without prejudice to the provisions of the previous number, operators are prohibited from designating as the main person
+responsible for cybersecurity and respective substitute, for the periods referred to in the following number, whoever has been
+convicted, by a final judgment, for:
+1) Crimes provided for in Law No. 2/2009 (Law relating to the defense of State security);
+2) Computer crimes or forgery of technical notation, damage or subtraction of technical notation, trespass by means of information
+technology, undue use of secret, violation of correspondence or telecommunications secret or violation of professional secrecy;
+3) Any other crime punishable by a prison sentence of more than 5 years.
+4. The periods of impediment are:
+1) 5 years from the end of the period of suspension of the execution of the sentence or the cessation of the execution of the sentence, or
+the respective extensions, if the conviction was for a prison sentence equal to or less than 5 years;
+2) 10 years from the cessation of the sentence, or from the respective extensions, if the conviction was an effective prison sentence of
+more than 5 years.
+5. Judgments handed down by a court abroad are relevant for the purposes of subparagraphs 2) and 3) of paragraph 3, provided that, in
+the case of subparagraph 3), the conduct in question also constitutes a crime under the MSAR legislation.
+6. Operators must ask the Judiciary Police for an opinion on the suitability and eventual impediments relating to the people they intend
+to designate as the main person responsible for cybersecurity and their replacement.
+Article 11
+Duties of a procedural, preventive and reactive nature
+The duties of private operators of critical infrastructures, in terms of procedures and prevention and response to cybersecurity
+incidents, are:
+1) Establish a cybersecurity management regime and respective internal operational procedures;
+2) Adopt, in accordance with the cybersecurity management regime and applicable technical standards, internal measures to protect,
+monitor, alert and respond to cybersecurity incidents;
+3) Inform CARIC of the occurrence of cybersecurity incidents and inform the respective supervisory entity of the fact, as well as
+immediately initiate response actions to serious incidents;
+4) Monitor and record network health status.
+Article 12
+Self-assessment and reporting duties
+The duties of private operators of critical infrastructures, in terms of self-assessment and reporting, are:
+1) Carry out, by themselves or through specialized entities, the assessment of security and existing risks in their networks and systems;
+2) Submit annually to the respective supervisory entity a cybersecurity report, mentioning, in particular, any incidents recorded, the
+results of the assessment referred to in the previous paragraph and the improvement measures taken.
+Article 13
+duty of collaboration
+The duties of the private operators of critical infrastructures, as well as the respective administrators, managers or representatives, in
+terms of collaboration with CARIC and the supervisory entities are:
+1) Allow the representatives of those services to enter their premises, provide them with access to their networks and provide them
+with the information they request, to the extent necessary to verify compliance with the duties referred to in article 11;
+2) Provide the necessary support and collaboration to ensure good cybersecurity management.
+Article 14
+Duties of critical infrastructure public operators
+1. The duties of public critical infrastructure operators are:
+1) Appoint a person responsible for cybersecurity, from among the management and supervisory staff;
+2) Make efforts to obtain adequate human, financial, material and property resources for the proper functioning of the respective
+cybersecurity management regime;
+3) Fulfill and enforce the duties provided for in articles 11 to 13, internally and within the scope of public services, bodies or entities
+whose cybersecurity is their responsibility;
+4) Monitor the execution of the cybersecurity services contract signed with private entities;
+5) Assume the execution of cybersecurity services contracted with private entities, in the event of non-compliance by them with the
+respective contract and without prejudice to the responsibility that may be attributed to them.
+2. Public critical infrastructure operators that are not members of CARIC submit an annual report to the SAFP to assess the security
+and risks existing in their networks and systems.
+3. The conclusion of the cybersecurity service provision contract provided for in subparagraph 4) of paragraph 1 depends on the prior
+authorization of the Chief Executive.
+CHAPTER IV
+sanctioning regime
+Article 15
+administrative infractions
+1. Without prejudice to any other liability that may be applicable, the violation, by action or omission, of the duties provided for in
+articles 10 to 13, shall be sanctioned with a fine of 150,000 to 5,000,000 patacas, except as provided for in next number.
+2. Violation, by action or omission, of the duties provided for in subparagraph 4) of paragraph 1 of article 10, in subparagraph 2) of
+article 12, in subparagraph 2) of article 13 and in the rules techniques is sanctioned with a fine of 50,000 to 150,000 patacas.
+Article 16
+Liability for administrative offenses
+The attribution of responsibility for the administrative infractions foreseen in the previous article to the operators of critical
+infrastructures:
+1) Applies to situations where cybersecurity is provided by third parties;
+2) It does not depend on the identification of the agent whose action or omission resulted in the practice of the administrative
+infraction;
+3) It does not depend on the relationship between the agent, which is identifiable, and the operator or cybersecurity service provider
+contracted by the latter.
+Article 17
+accessory sanctions
+1. For infringements of the provisions of subparagraphs 1) to 3) of paragraph 1 of article 10, subparagraph 1) of article 11,
+subparagraph 1) of article 12 and subparagraph 1) of article 13, the following accessory sanctions may be applied, individually or
+cumulatively:
+1) Deprivation of the right to participate in direct agreements, restricted consultations or public tenders whose object is the acquisition
+of goods or services by public services, bodies and entities;
+2) Deprivation of the right to subsidies or benefits granted by public services, bodies and entities.
+2. The accessory sanctions referred to in the previous number have a maximum duration of two years, counting from the date on which
+the corresponding decision becomes unchallengeable.
+Article 18
+Warning
+1. In the event of an irregularity in the fulfillment of cybersecurity duties, the supervisory entity may set a deadline for its remediation,
+when:
+1) The irregularity is curable and has not resulted in a significant danger to cybersecurity;
+2) No recidivism.
+2. Once the irregularity has been remedied within the prescribed period, the supervisory entity may decide to issue a simple warning to
+the offender.
+3. Failure to remedy the irregularity within the prescribed period determines the continuation of the procedure for the application of the
+sanctions applicable to the infraction.
+Article 19
+recidivism
+1. For the purposes of this law, a recidivism is considered to be the practice of an administrative infraction provided for in article 15
+within a period of one year after the administrative sanctioning decision has become unchallengeable and provided that between the
+commission of the administrative infraction and that of the previous no more than five years have elapsed.
+2. In case of recidivism, the minimum amount of the fine is increased by a quarter and the maximum amount remains unchanged.
+Article 20
+Accumulation of administrative infractions
+1. When the conduct simultaneously constitutes an administrative violation of cybersecurity duties and those provided for in other
+legislation, the offender is punished in accordance with the legislation that establishes a fine with a higher maximum limit.
+2. The provisions of the previous number do not affect the application, individually or cumulatively:
+1) Additional sanctions provided for the various administrative infractions;
+2) Rules that provide for the revocation or suspension of licenses or equivalent titles or other measures of a non-sanctionary nature.
+Article 21
+sanctioning competence
+1. It is incumbent upon the entities referred to in article 9, in relation to private operators of critical infrastructures subject to their
+supervision, to initiate proceedings for administrative infractions provided for in this law and to instruct the respective processes.
+2. It is incumbent upon the person in charge of the supervisory entity to determine the establishment of the sanctioning procedure,
+appoint an instructor and apply the sanctions.
+Article 22
+Fulfillment of duty omitted
+Whenever the offense results from the omission of a duty, the application of the sanction and the payment of the fine do not exempt the
+offender from compliance, if this is still possible.
+Article 23
+Liability of workers of critical infrastructure public operators
+1. Without prejudice to any other liability that may be applicable, workers of public critical infrastructure operators are disciplinary
+responsible for breaches of the duties provided for in articles 11 to 14.
+2. Disciplinary offenses for violation of procedural, preventive and reactive duties are punishable by compulsory retirement or
+dismissal or suspension.
+CHAPTER V
+Transitory and final provisions
+Article 24
+Subscriber ID Modules
+1. Within 120 days from the date of entry into force of this law, network operators shall endeavor to register the identity of the users of
+all subscriber identification modules sold before that date, without prior identification, in the prepaid mode.
+2. Network operators must suspend the service in relation to modules whose users do not provide their identification data until the
+expiry of the period referred to in the previous number, without prejudice to their subsequent reactivation from the date on which the
+identification data are provided.
+3. Failure to comply with the duties provided for in the previous numbers constitutes an administrative infraction, sanctioned with a
+fine of between 50,000 and 150,000 patacas.
+4. It is incumbent upon the Directorate of Post and Telecommunications Services to institute sanctioning procedures for the infraction
+referred to in the previous number, appoint an instructor and apply the sanctions.
+Article 25
+customer identification
+1. Network operators must verify and register the identity of customers when signing contracts or confirming the provision of services
+for internet access, domain name registration or public fixed or mobile telecommunications services.
+2. Failure to comply with the duty provided for in the previous number constitutes an administrative infraction, sanctioned with a fine
+of between 50,000 and 150,000 patacas.
+3. The provisions of paragraph 4 of the previous article are correspondingly applicable.
+Article 26
+Amendment to Law No. 11/2009
+11/2009 is added to Chapter III-A, called “Administrative Offence”, consisting of articles 16-A and 16-B, with the following wording:
+«Article 16-A
+Maintaining and providing network address translation records
+1. Internet service providers are required to keep, for one year, records of the translation of private network addresses into public
+network addresses.
+2. Failure to comply with the duty provided for in the previous number constitutes an administrative infraction, sanctioned with a fine
+of between 50,000 and 150,000 patacas.
+3. The competent judicial authority may, when necessary, order the provision of the records referred to in no. 1, observing, for this
+1 to
+
+purpose, the provisions of no.
+
+4 of article 15
+Article 16-B
+Competence
+
+It is incumbent upon the Directorate of Post and Telecommunications Services to institute sanctioning procedures for the
+administrative infraction provided for in paragraph 2 of the previous article, appoint an instructor and apply the sanctions.»
+Article 27
+Supplementary regulation
+The Chief Executive approves supplementary administrative regulations or external regulatory orders that prove necessary for the
+implementation of this law, namely in terms of:
+1) Composition, powers and functioning of the CPC and CARIC;
+2) Designation of supervisory entities and private operators of critical infrastructure covered by the respective supervisory powers.
+Article 28
+Implementation
+This law enters into force 180 days after its publication.
+Approved on June 6, 2019.
+The Speaker of the Legislative Assembly, Ho Iat Seng.
+Signed on June 17, 2019.
+Publish yourself.
+The Chief Executive, Chui Sai On.
+
+PDF version optimized for Adobe Reader 7.0 or higher.
+
+

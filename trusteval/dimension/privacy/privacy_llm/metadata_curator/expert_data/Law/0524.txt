@@ -1,0 +1,1671 @@
+Page 1
+
+www.droit-afrique.com
+
+Togo
+
+Togo
+Electronic transactions
+Law n ° 2017-07 of June 22, 2017
+
+[ NB - Law n ° 2017-07 of June 22, 2017 relating to electronic transactions ]
+
+Title 1 - General provisions
+
+Chapter 1 - Object and scope
+
+Art.1 .- This law sets the general rules governing any electronic transaction,
+any transaction of any kind, taking the form of a message
+electronic.
+Art.2 .- This law applies to electronic transactions and services by
+electronics, including:
+• electronic services which give rise to the conclusion of contracts for
+procure goods or a service which provides information,
+advertisements or tools allowing search, access and retrieval
+data or which consist in transmitting data through a network of
+electronic communication, to provide access to such a network or to ensure the
+data storage even when these services are not remunerated by those who
+receive them;
+• the dematerialization of administrative procedures.
+The provisions of this law apply without prejudice to the rules on
+protection of personal data and derogatory or special regimes
+applicable to credit institutions and financial services, in particular in
+electronic evidence.
+Electronic transactions or services also remain subject to the provisions
+not contrary applicable in commercial and civil matters, in particular acts
+uniforms of the Organization for the Harmonization in Africa of Business Law
+(OHADA) and the Civil Code.
+
+Electronic transactions
+
+1
+
+Page 2
+www.droit-afrique.com
+
+Togo
+
+Art.3 .- Do not fall within the scope of this law, the areas
+following:
+• gambling, even in the form of betting or lotteries;
+• legal representation and assistance activities;
+• the activities carried out by notaries in application of the texts in force, in the
+conditions specified by regulation.
+
+Chapter 2 - Definitions
+
+Art.4 .- For the purposes of this law, the following terms are understood to mean:
+Electronic certificate: Electronic document attesting to the link between
+electronic signature verification and a signer;
+Qualified electronic certificate: Electronic certificate which, in addition to its quality of
+document in electronic form attesting to the link between the verification data
+electronic signature and a signatory, furthermore meets the requirements defined by the
+this law and its implementing texts;
+Encryption: Technique of transforming digital data into a format
+unintelligible by employing means of encryption;
+Electronic commerce: Commercial activity carried out as a main habitual or
+accessory, by which a person carries out or ensures by electronic means the
+supply of goods, services and information or data in electronic form,
+even if they are not remunerated by those who receive them; is also considered
+as electronic commerce, any service consisting in providing information by
+online, commercial communications, search, access or
+data recovery, access to a communication or hosting network
+information, even if it is not remunerated by those who receive it;
+Communication to the public by electronic means: Any made available to the public
+or categories of public, by an electronic communication process or
+magnetic, signs, signals, writings, images, sounds or messages of any
+nature which does not have the character of private correspondence;
+Consumer: Any natural or legal person who benefits from the services of
+services or uses the trade products to meet own needs and those
+dependents;
+Electronic mail: Any message, in the form of text, voice, sound or image,
+sent by means of a public communication network, stored on any server or in
+the terminal equipment of the recipient, until the latter retrieves it;
+
+Electronic transactions
+
+2
+
+Page 3
+www.droit-afrique.com
+
+Togo
+
+Encryption: Use of Codes or signals allowing the conversion of information to
+transmit in incomprehensible signals to third parties or the use of Codes and
+signals;
+Cryptology: Science relating to the protection and security of information in particular
+for confidentiality, authentication, integrity and non-repudiation;
+Recipient: Person to whom an electronic message from a
+issuer, with the exception of the person who acts as an intermediary for this
+message;
+Recipient of goods or services: Any natural or legal person who, for the purposes of
+professional or not, uses electronic communication methods
+to acquire goods or to procure services from suppliers of
+goods or services, in particular to search for information or to provide it
+accessible;
+Electronic signature creation device: Any hardware or software intended for
+set up electronic signature creation data;
+Electronic signature verification device: Any hardware or software intended for
+enforce electronic signature verification data;
+Secure device for creating an electronic signature: Device for creating
+electronic signature that meets the requirements defined by this law;
+Electronic document: Set of data recorded or stored on
+any medium whatsoever by a computer system or similar device and
+which can be read or perceived by a person or by such a system or device.
+Also affected are any display and any printed or other output of this data;
+Personal data: Any information relating to a natural person
+identified or identifiable directly or indirectly, by reference to a number
+identification or one or more elements specific to their physical identity,
+physiological, genetic, psychological, cultural, social or economic;
+Electronic signature creation data: Elements specific to the signatory, such as
+public cryptographic keys, used to create the electronic signature;
+Electronic signature verification data: Items, such as keys
+public cryptographic, used to verify electronic signature;
+Electronic Data Interchange (EDI): Electronic transfer of information from
+terminal to terminal implementing an agreed standard to structure
+information. In this context, the terminal acts as an electronic agent of
+initiator ;
+Electronic exchanges: Exchanges which take place by means of documents
+electronic;
+
+Electronic transactions
+
+3
+
+Page 4
+www.droit-afrique.com
+
+Togo
+
+Written: Any series of letters, characters, numbers, figures or any other
+signs or symbols which have an intelligible meaning, whatever their medium and
+their transmission methods;
+Sender: Person by whom, or on whose behalf, the electronic message is
+deemed to have been sent or created before being stored, except for the person
+who acts as an intermediary for this message;
+Timestamp: Mechanism consisting in affixing to any type of digital file a
+legally binding time and date in the form of an electronic seal;
+Information: Any element of knowledge which may in particular take the written form,
+visual, sound or digital, capable of being represented using conventions
+to be used, stored, processed or communicated;
+Integrity of a document: No modification of the content of a document, under
+reserves modifications relating to its medium or its electronic format;
+Electronic message: Information received, sent, sent or stored by
+electronic or similar means, in particular Electronic Data Interchange
+(EDI), electronic mail, telegraph, telex and facsimile;
+Electronic means of payment: A means which allows its holder to make
+remote payment transactions through telecommunications networks;
+Electronic payment order: Order to transfer money or execute an
+payment sent by electronic message;
+Service provider: Any natural or legal person using the technologies
+information and communication, including Internet protocols, which
+the disposal of natural or legal persons, public or private, of property and
+services ;
+Certification service provider: Service provider that issues a certificate
+electronic;
+Accredited certification service provider: Certification service provider
+having received authorization from the certification authority for a specific purpose;
+Safety procedure: Procedure for the purposes of:
+• verify that an electronic message or electronic signature is that of a
+specific person;
+• detect any error or alteration in the communication of the content or the
+memory of an electronic message for a specified period of time, which
+requires the use of algorithms or Codes, names or identifying numbers,
+encryption, return response or acknowledgment procedures or other
+similar security features of a repository for preservation;
+
+Electronic transactions
+
+4
+
+Page 5
+www.droit-afrique.com
+
+Togo
+
+Computer program: A set of instructions, expressed in the form of words,
+Codes, diagrams or any other form, capable, when inserted into a carrier
+machine-readable, to have the computer perform a particular task, or
+to provide a particular result;
+Direct prospecting: Any solicitation made by sending a message, which
+regardless of the medium or the nature, in particular commercial, political or charitable,
+intended to promote, directly or indirectly, goods, services or the image
+a person selling goods or providing services;
+Advertising: Any form of communication intended to promote, directly or
+indirectly goods, services, or the image of a company, an organization or
+a person having a commercial, industrial, craft activity or exercising a
+regulated profession, except:
+• information allowing direct access to the activity of the company,
+organization or person, in particular a domain name or a
+email ;
+• communications and / or message content developed in a manner
+independent, in particular when they are provided without financial compensation.
+Electronic archiving service: Any service whose main purpose is the conservation
+electronic data;
+Electronic certification service: Any service consisting in issuing certificates
+electronic or to provide other electronic signature services;
+Online public communication service: Any data transmission
+digital data not having a private correspondence character, by a method of
+electronic communication using the Internet network allowing an exchange
+reciprocal or not of information between the transmitter and the receiver;
+Electronic registered mail service: Any data transmission service
+electronic documents aimed at providing proof of the reality and the date of their dispatch and,
+where applicable, their receipt by the recipient of the data;
+Electronic time stamping service: Any service aimed at dating sets of
+electronic data;
+Financial service: Any service relating to banking, credit, insurance,
+individual withdrawals, investments and payments;
+Signatory: Person who holds the data relating to the creation of a signature or the
+signature creation device and which acts either for its own account or for
+that of the person it represents;
+Electronic signature: Any data in electronic form resulting from the use
+a reliable identification process which serves as an identification process guaranteeing its
+link with the act to which it is attached;
+
+Electronic transactions
+
+5
+
+Page 6
+www.droit-afrique.com
+
+Togo
+
+Open standard: Any communication, interconnection or exchange protocol and
+any interoperable data format whose technical specifications are
+public and unrestricted access or implementation;
+Electronic archiving system: Set of technical procedures and
+methodologies for keeping electronic data;
+Information system: System used to create, send, receive, store or
+otherwise process digital data messages;
+Coordinated Universal Time: Time scale maintained by the International Bureau of
+weights and measures;
+Electronic means: Channel through which data is sent originally and received at
+destination by means of electronic equipment for processing and storing
+data and fully retransmitted, routed and received by wire, radio,
+optical or other electromagnetic means including compression
+digital.
+
+Chapter 3 - Writing in electronic format
+
+Section 1 - Validity and probative force of an electronic message
+Art.5 .- Unless otherwise provided by law, no one may be forced to enter into a
+legal act by electronic means.
+Consent to send or receive communications electronically is
+on purpose. Otherwise, a person's consent can be inferred from their behavior
+detailed and unequivocal.
+Art.6 .- No information may be deprived of its legal effects, validity or
+of its probative value solely because it is in the form of an electronic message.
+In any legal procedure, the probative value of an electronic message cannot be
+denied:
+• on the grounds that it is an electronic message;
+• on the grounds that the message is not in its original form, if it is the best
+proof that the one presenting it can reasonably obtain.
+The probative value of an electronic message is assessed having regard to the reliability of the mode
+creation, conservation or communication of the message, as well as the reliability of the
+way of preserving all the information.
+The writing in electronic form is admitted in evidence in the same way as the writing on
+paper support and has the same probative value as it, provided that can be
+duly identified the person from whom it emanates and that it is established and kept in
+conditions such as to guarantee its integrity.
+
+Electronic transactions
+
+6
+
+Page 7
+www.droit-afrique.com
+
+Togo
+
+The copy or any other reproduction of an act made electronically has the same force
+proof that the writing itself, when it is certified as true by
+approved by the certification authority. The certification gives rise, where appropriate, to the
+issuance of a certificate of conformity.
+Art.7 .- When a legal or regulatory provision provides for a formal requirement
+particular to conclude a private legal act for the purposes of validity, proof,
+publicity, protection or information, this requirement can be satisfied by
+electronic under the assumptions and under the conditions provided for by the "equivalent
+functional ”in the following provisions of this chapter.
+Art.8 .- An exception is made, under conditions which will be specified by way of
+regulatory, with the provisions of article 7 of this law for:
+• private deeds relating to family and inheritance law;
+• deeds under private signature relating to personal or real securities, of a
+civil or commercial, unless they have gone through a person for the needs of their
+profession;
+• acts which create or transfer real rights in real property;
+• legal acts for which the law requires the intervention of the courts;
+• legal proceedings including criminal proceedings, but without prejudice to
+rules specific to civil procedure.
+Art.9 .- When a writing is required for the validity of a legal act, a message
+electronic system meets this requirement if the information it contains is accessible for
+be consulted whenever necessary.
+Art.10 .- When the law requires that information be presented or kept under its
+original form, an electronic message satisfies this requirement:
+• whether there is a reliable guarantee as to the integrity of the information from the
+when it was first created in its final form as a
+electronic or other message;
+• whether this information is accessible at any time whenever it is requested.
+In the event that it is required a written statement by the hand of the person who
+undertakes, the latter may affix it in electronic form if the conditions of this
+affixing are such as to ensure that it can only be done by itself.
+When the one who obliges himself electronically does not know or cannot write, he must be
+be assisted by two witnesses who certify, in the document, his identity and his presence and
+further attest that the nature and effects of the act have been specified to it. The presence
+witnesses exempts those who electronically oblige themselves from the fulfillment of
+formalities provided for in the previous paragraph.
+Art.11 .- A simple letter relating to the execution of a contract may be sent by
+e-mail if the contract allows it.
+When the affixing of a date is required, this formality is satisfied by the use of
+an electronic time-stamping process, the reliability of which is presumed, until proven
+
+Electronic transactions
+
+7
+
+Page 8
+www.droit-afrique.com
+
+Togo
+
+opposite. A registered letter can be sent electronically provided
+that this mail be forwarded by a third party, according to a process allowing the identification of the
+third party, to designate the sender, to guarantee the identity of the addressee and to establish whether the
+letter has been delivered or not to the addressee.
+Art.12 .- The electronically signed message on the basis of an electronic certificate
+complies with legal and regulatory provisions and for which the time and date are
+certified by the trusted provider, constitutes registered mail.
+Art.13 .- The express or tacit requirement of a signature is satisfied under the conditions
+provided for in article 81 of this law.
+Art.14 .- The requirement of sending in several copies is deemed to be met in the form
+electronic if the writing can be printed by the recipient.
+Art.15 .- When the law requires that documents, messages or information be
+retained, this requirement is satisfied by the electronic message under conditions
+defined by regulation.
+Art.16 .- An exception is made, under conditions defined by regulation, to
+provisions of the previous article for:
+• private deeds relating to family and inheritance law;
+• deeds under private signature relating to personal or real securities, of a
+civil or commercial, unless they have gone through a person for the needs of their
+profession.
+Art.17 .- The delivery of a written document in electronic form is effective when the
+recipient, after having read it, has acknowledged receipt under the conditions
+provided for in Article 20.
+If there is a provision that the writing must be read to the addressee, the delivery of a writing
+electronic to the interested party is worth reading under the conditions provided for in the first paragraph of
+this article.
+
+Section 2 - Communication of electronic messages
+Art.18 .- An electronic message is attributable to the sender when it was sent
+through :
+• himself;
+• a person authorized to act for this purpose on behalf of the shipper; or,
+• an information system programmed by the sender or on his behalf to
+operate automatically.
+The recipient of an electronic message considers it to be from the sender when:
+• an agreed procedure has been correctly applied to recognize the message
+from the sender;
+
+Electronic transactions
+
+8
+
+Page 9
+www.droit-afrique.com
+
+Togo
+
+• the electronic message comes from a person who, by virtue of his or her relationship with
+the sender, or an agent thereof, has had access to a method that the sender uses
+to identify as its own, e-mail messages.
+An email message loses its value when:
+• the receiver has been advised by the sender that the e-mail message was not the
+his;
+• the recipient knew, or had the means to know that the electronic message
+does not come from the sender.
+The recipient is required to treat each e-mail message as new.
+received and act accordingly, unless he or she knows or could have known that it is a
+duplicate of the same message.
+Art.19 .- The sender may ask the addressee for an acknowledgment of receipt.
+If the sender has not unequivocally agreed with the addressee that the accused
+receipt will be given in a particular form or method, the receipt
+can be accused by:
+• any communication, automated or not;
+• any act of the addressee sufficient to indicate to the sender that the message
+electronic has been received.
+When the sender has declared that, the effect of the electronic message is contingent on the
+receipt of an acknowledgment of receipt, the electronic message is deemed not to have been
+sent until acknowledgment has been received.
+When the sender has not declared that the effect of the e-mail message was
+subject to receipt of an acknowledgment of receipt and has not received an acknowledgment of
+receipt within the time fixed or agreed or, within a reasonable time when no time
+has not been fixed or agreed, the sender may advise the addressee that no acknowledgment of
+receipt has been received and set a reasonable period within which the acknowledgment of receipt is
+sent.
+If the acknowledgment of receipt has not been received within the last period set in the previous paragraph, the
+recipient may consider that the electronic message was not sent or exercise
+any other rights he may have.
+When the sender receives the acknowledgment of receipt from the recipient, the message
+electronic mail in question is deemed to have been received by the recipient. This presumption
+does not imply that the email message matches the received message.
+When the acknowledgment of receipt indicates that the e-mail in question is
+in accordance with the technical conditions, either agreed or fixed in the standards
+applicable, these conditions are presumed to be met.
+
+Electronic transactions
+
+9
+
+Page 10
+www.droit-afrique.com
+
+Togo
+
+Art.20 .- Unless otherwise agreed between the sender and the recipient of a message
+electronic, the sending of an electronic message is deemed to have been made when
+the message enters the information system which does not depend on the sender.
+Art.21 .- In the event of a change or error in the transmission of a message
+electronic, if the sender and receiver have consented to use a
+e-mail security and one of them complied with the
+procedure, the person having complied with them cannot be held responsible for the effect or
+error in a corrupt or bogus email message.
+Neither party, whether sender or recipient of a message
+electronic, cannot be held responsible for the effect of the electronic message if
+the error was made by the person dealing with the electronic agent of another
+person and if the electronic agent did not provide an opportunity to correct the error. The
+person who notices the error must:
+• promptly notify the other and inform them that they are not supposed to respond
+said message;
+• take reasonable measures, in accordance with the instructions of the other
+person, in particular, return the erroneous message received to the other person or the
+destroy.
+Art.22 .- Notwithstanding any provision to the contrary, the written document in electronic form is
+accepted for invoicing in the same way as writing on paper, provided that
+the authenticity of the origin of the data it contains and the integrity of their content are
+guarantees.
+
+Title 2 - Electronic commerce and electronic advertising
+
+Chapter 1 - Electronic commerce
+
+Section 1 - The extent of the freedom of electronic commerce
+Art.23 .- The activity of electronic commerce is exercised freely in the territory
+national to the exclusion of the areas mentioned in article 3 of this law.
+The activity entering the field of electronic commerce is subject to the law of
+the State in whose territory the person exercising it is established.
+A person is considered to be established in Togo within the meaning of this article.
+when it has settled there in a stable and durable manner to effectively exercise
+his activity.
+This article may not have the effect of:
+• deprive a consumer having his habitual residence in the national territory, of the
+protection guaranteed by the mandatory provisions of Togolese law on
+contractual obligations and consumer protection. Within the meaning of
+
+Electronic transactions
+
+10
+
+Page 11
+www.droit-afrique.com
+
+Togo
+
+this article, these provisions include the provisions applicable to
+elements of the contract, including those defining consumer rights, which
+have a decisive influence on the decision to contract;
+• derogate from the mandatory formal rules provided for by Togolese law for
+contracts creating or transferring rights to real estate located on the
+National territory ;
+• derogate from the conditions of establishment and practice in the field of insurance,
+provided for by relevant international and national instruments;
+• waive the prohibition or authorization of unsolicited advertising sent by
+email ;
+• derogate from the Customs Code;
+• derogate from the General Tax Code;
+• infringe the rights protected by laws and regulations relating to property
+intellectual;
+• violate other legal and regulatory provisions in force in
+Togolese Republic which are applicable to the activity concerned.
+
+Section 2 - Consumer protection
+Art.24 .- Without prejudice to the information obligations provided for by legislative texts and
+regulations in force, any person who carries out the commercial activity
+electronic system is required to provide users with easy, direct and permanent access to
+information concerning him as defined by regulation.
+Art.25 .- A derogation from the provisions of the previous article is made when the contract
+is concluded exclusively electronically using mobile telephony. In this
+case, the supplier of the goods or services provides the recipient with a shortlist
+information defined by regulation.
+Art.26 .- When the contract is concluded exclusively by electronic means using the
+mobile telephony, the information contained in the offer is provided before the
+recipient of the service or good places the order, electronically and
+clearly understandable and unambiguous way.
+Art.27 The supplier offers the consumer the possibility of:
+• definitively recap all of their choices and confirm the order;
+• correct the mistakes ;
+• withdraw from the transaction, before placing any order.
+If a supplier does not comply with the aforementioned provisions, the consumer can
+cancel the transaction within fifteen days of receipt of the
+products or services that are the subject of the transaction.
+In case the transaction is canceled:
+• the consumer returns the products to the supplier and, where applicable, ceases
+to use the services provided;
+
+Electronic transactions
+
+11
+
+Page 12
+www.droit-afrique.com
+
+• the supplier reimburses all payments received from the consumer after deduction
+direct costs of re-shipping the goods.
+Art.28 .- The supplier uses a secure payment system with regard to the standards
+technologies prevailing at the time of the transaction and adapted to the type of transaction.
+The supplier remains responsible towards the consumer, notwithstanding any clause
+contrary, from any damage caused to it by the operating conditions and
+
+Togo
+
+protection of the payment system.
+Art.29 .- The supplier executes the order within thirty days of the date on
+which he received the order, unless the parties agree otherwise.
+If the supplier has not fulfilled the order within thirty days or within the
+agreed, the consumer may, after expiry of this period, cancel the contract
+with seven days written notice.
+If the supplier is unable to comply with the terms of the agreement on the grounds that the
+products or services ordered are unavailable, the supplier informs
+immediately the consumer and offers to reimburse any payment made by
+the consumer within thirty days of the date of this notification.
+Art.30 .- Any clause of a contract which disregards the provisions of this law is
+deemed null and unwritten.
+Art.31 .- A consumer may file a complaint with the competent court on
+the national territory in the event of non-compliance with the provisions of this law by
+any supplier.
+
+Section 3 - Electronic invoicing
+Art.32 .- Notwithstanding any provision to the contrary, invoicing is accepted in the form of
+electronic in the same way as the paper invoice, provided that
+the authenticity of the origin of the data it contains and the integrity of their content
+are guaranteed.
+Art.33 .- An invoice is stored electronically by means of
+electronic data storage equipment, including compression
+digital.
+For invoices which are kept in electronic form, the data guaranteeing
+the authenticity of the origin and the integrity of the content of each invoice, must also
+be kept.
+
+12
+
+Electronic transactions
+
+Page 13
+www.droit-afrique.com
+
+Togo
+
+Chapter 2 - Electronic advertising
+
+Section 1 - Identification of electronic advertising
+Art.34 .- Any advertising, in any form whatsoever, accessible by a service in
+line, must be able to be clearly identified as such. It includes the
+“advertisement” in a legible, conspicuous and unambiguous manner.
+Advertising must make the natural or legal person clearly identifiable for the
+account of which it is carried out.
+Advertisements, and in particular promotional offers, such as discounts, bonuses
+or gifts, as well as contests or promotional games, sent by mail
+electronic, must be clearly and unambiguously identifiable on the
+the subject of the mail as soon as it is received by the recipient, or if this is not possible
+technical, in the body of the message.
+The conditions to which the possibilities to participate in offers are subject,
+competitions or promotional games, offered by electronic means must be clearly
+specified and easily accessible.
+The provisions of this article apply without prejudice to the laws and regulations in
+force suppressing deceptive or deceptive advertising.
+
+Section 2 - Direct prospecting by electronic means
+Art.35 .- Direct prospecting by sending a message by means of a
+automatic call machine, fax machine or electronic mail using, under some
+form the contact details of a natural person who has not expressed his
+prior consent to receive direct surveys by this means.
+However, direct prospecting by e-mail is authorized if:
+• the recipient's contact details were collected directly from them, in
+full knowledge of the facts and in compliance with the legal provisions on
+Protection of personal data ;
+• direct prospecting is addressed to the subscribers or customers of a natural person
+or legal entity that has collected their contact details, knowingly for
+similar products or services, and if the recipient is offered, in such a way
+express and unambiguous, the possibility of objecting, free of charge, and in a manner
+simple, to the use of their contact details when they are collected and each
+once a prospecting email is sent to him.
+Art.36 .- It is forbidden to send, for purposes of direct prospecting, messages to the
+means of automatic call machines, fax machines and electronic mail, without indicating
+valid contact details to which the recipient can usefully transmit a
+request to obtain that these communications cease, and this at no cost other than
+those linked to its transmission.
+13
+
+Electronic transactions
+
+Page 14
+www.droit-afrique.com
+
+Togo
+
+It is also prohibited to conceal the identity of the person on behalf of
+which the communication is sent and to mention an object unrelated to the
+delivery or service offered.
+Art.37 .- Anyone can notify a specific service provider directly, free of charge
+no indication of reasons, his will to no longer receive advertisements from him by means of
+automatic call machines, fax machines or electronic mail.
+Within a reasonable time, the provider delivers by appropriate means, an accused of
+receipt confirming to this person the registration of his request, and takes the
+measures necessary to respect that person's wishes.
+Art.38 .- Proof of the legitimacy of direct prospecting is incumbent on the person
+physical or moral on whose behalf the prospecting is carried out.
+The legitimacy of direct prospecting is assessed in accordance with the
+provisions of articles 36 and 37 of this law.
+
+Title 3 - Contract by electronic means
+
+Section 1 - Principle
+
+Art.39 .- The contract signed by electronic means is accepted in the same way as the contract
+written, with the exception of:
+• private deeds relating to family and inheritance law;
+• private deeds relating to personal or real securities, of a civil nature
+or commercial, unless they have gone through a person for the needs of his
+profession.
+
+Section 2 - Electronic exchange of information in contracts
+
+Art.40 .- Anyone who offers, in a professional capacity, by electronic means, the supply of
+goods or the provision of services, makes available to customers the conditions
+applicable in a manner that allows their conservation and
+reproduction. Without prejudice to the conditions of validity mentioned in the offer, its
+author remains engaged by it as long as it is accessible electronically by its doing.
+The contractual conditions of the supplier of goods or services are not enforceable
+to his co-contracting party only if the latter has had the opportunity to read it before
+the conclusion of the contract and that its acceptance is certain. They are communicated to him
+in writing, in a manner that allows their preservation and reproduction.
+
+14
+
+Electronic transactions
+
+Page 15
+www.droit-afrique.com
+
+Togo
+
+Section 3 - Formation and validity of contracts concluded in the form of
+electronic
+
+Art.41 .- In the context of the formation of contracts, unless otherwise agreed between
+the parties, an offer and its acceptance can be expressed by messages
+electronic. Subject to compliance with the conditions set out in Article 43 of the
+this law, the contract thus formed is perfectly valid.
+Art.42 .- A contract concluded in electronic form cannot be considered as
+validly concluded that if the recipient of the offer had previously had the possibility of
+check the details of his order and its total price, and correct any errors
+before confirming it to express acceptance.
+The author of the offer must electronically acknowledge receipt of the order which has been sent to him.
+been so sent within a period not to exceed five days.
+The order, the confirmation of acceptance of the offer and the acknowledgment of receipt are
+considered to have been received when the parties to which they are addressed may be
+access.
+Art.43 .- The provisions of this section of this law may be waived
+in agreements concluded between professionals.
+
+Section 4 - Right of withdrawal
+
+Art.44 .- Without prejudice to the provisions of the law of obligations and contracts
+applicable and any other provisions in force, the consumer can
+retract within ten working days, current:
+• from the date of their receipt by the consumer, for products;
+• from the date of conclusion of the contract, for services.
+The notification of the withdrawal is made by any means provided in advance in the
+contract. In this case, the seller is obliged to reimburse the amount paid by the
+consumer within ten working days from the date of return of the product or
+waiver of service. The consumer bears the cost of returning the product.
+When the exercise of the right of withdrawal occurs after the delivery of
+goods or titles representing a service, the recipient of the good or service returns
+said property or representative titles in good condition.
+Art.45 .- For financial services, the right of withdrawal for the benefit of the consumer
+is valid under the same conditions defined in the previous article, with the exception of the
+period which is fifteen working days.
+
+15
+
+Electronic transactions
+
+Page 16
+www.droit-afrique.com
+
+Togo
+
+In the event of the provision of a financial service, the contracts for which
+applies the right of withdrawal can not receive the commencement of performance
+by the parties before the expiry of this period.
+Art.46 .- When the right of withdrawal is exercised by the recipient of the goods or
+service in accordance with the provisions of this section, the supplier of goods or
+of services is required to reimburse the sums paid by the recipient, and this
+free of charge. The only costs that can be charged to the recipient of the good or service
+due to the exercise of his right of withdrawal are the direct costs of return.
+The refund is made as soon as possible and, in any case, within ten
+days. After this period, the amount due is, as of right, productive of interest at the legal rate.
+in force.
+Art.47 Unless otherwise agreed by the parties, the right of withdrawal is excluded for
+following contracts:
+• the provision of services the execution of which has started, with the agreement of the
+consumer, before the end of the withdrawal period;
+• the supply of goods or services whose price depends on fluctuations in rates
+the financial market over which the supplier has no control;
+• the supply of goods made to the consumer's specifications or
+clearly personalized or which, due to their nature, cannot be returned or
+are liable to deteriorate or expire quickly;
+• the supply of audio or video recordings or computer software, when
+the said products have been unsealed by their recipient;
+• the supply of newspapers, periodicals and magazines.
+Unless otherwise agreed by the parties, deterioration of property or securities
+representative of services, through the fault of the recipient, hinders the exercise of the right
+of withdrawal.
+Art.48 .- When the purchase transaction is fully or partially covered by a
+credit granted to the consumer by the seller or by a third party on the basis of a contract
+concluded between the seller and the third party, the consumer's withdrawal entails the
+termination, without penalty, of the credit agreement.
+
+Section 5 - Execution of contracts concluded in electronic form
+
+Art.49 .- The seller is prohibited from delivering a product not ordered by the
+consumer when accompanied by a request for payment.
+In the event of delivery of a product not ordered by the consumer, the latter cannot
+be solicited for the payment of its price or the cost of its delivery.
+
+16
+
+Electronic transactions
+
+Page 17
+www.droit-afrique.com
+
+Togo
+
+Art.50 .- Notwithstanding compensation for damage to the benefit of the consumer, the latter
+may return the product as is if it does not comply with the order or if the seller
+did not meet the delivery deadlines.
+In this case, the seller must reimburse the amount paid and the expenses in accordance with
+the provisions of paragraph 2 of article 46 of this law.
+Art.51 .- With the exception of cases of misuse, the seller shall bear, in cases of
+sales with trial, the risks to which the product is exposed, up to
+completion of the product's trial period.
+Is considered null and void, any clause exonerating or limiting
+liability contrary to the provisions of this article.
+Art.52 .- It is incumbent on the supplier of goods or services to prove the existence of
+prior information; confirmation of information, compliance with deadlines and
+consumer consent. Any clause to the contrary is considered void and not
+avenue.
+Art.53 .- Electronic contracts must be archived
+electronic from the professional contractor, under the conditions of this
+law. He must guarantee access to it at all times to his co-contracting party if the latter requests it.
+request.
+Art.54 .- Any natural or legal person exercising the commercial activity
+Electronics is fully responsible towards its co-contracting party for the good
+performance of the obligations resulting from the contract, whether these obligations are to be performed by
+itself or by other service providers, without prejudice to its right to
+recourse against them.
+However, it can exempt itself from all or part of its responsibility by providing the
+proof that the non-performance or improper performance of the contract is attributable, either to
+the buyer, or to the unforeseeable and insurmountable fact of a third party foreign to the supply
+services provided for in the contract, or in a case of force majeure.
+
+Title 4 - Responsibility of technical service providers
+
+Section 1 - Responsibility and obligations of operators of
+electronic communications
+
+Art.55 .- Service providers who carry out the activity of operators of
+electronic communications within the meaning of Law No. 2012-018 of December 17, 2012 on
+electronic communications as amended by law n ° 2013-003 of February 19, 2013, do not
+may see their civil or criminal liability incurred due to the content transmitted
+on their network or on the network to which they give access only in cases where:
+• they are at the origin of the disputed transmission request;
+
+17
+
+Electronic transactions
+
+Page 18
+www.droit-afrique.com
+
+Togo
+
+• they select the recipient of the transmission;
+• they select or modify the content to be transmitted.
+In the event that the aforementioned operators ensure, with the sole aim of rendering more
+efficient subsequent transmission, automatic storage activity,
+intermediary and temporary content that a service provider transmits, they do not
+may see their civil or criminal liability incurred because of these contents that
+in the case where :
+• they have modified this content, have not complied with their conditions of access and
+the usual rules concerning their updating or have hampered the lawful use and
+usual technology used to obtain data;
+• they have not acted promptly to remove the content they have stored or
+to make access impossible, as soon as they have actually become aware of it, either
+due to the fact that the contents initially transmitted were withdrawn from the network, or because
+that access to the content initially transmitted has been made impossible, either because
+that the judicial authorities have ordered the removal of the transmitted content from the network
+initially or make access impossible.
+This article does not affect the possibility for a judicial authority or an authority
+administrative, to require electronic communications operators to put
+implement all means allowing the blocking of clearly illegal content,
+as they would be defined by the rules in force in Togo, in particular the provisions
+on the press and cybercrime.
+When the requirements of the fight against the dissemination and prosecution of infringements
+require it, the judicial or administrative authorities responsible for the repression of these
+offenses notify electronic communications operators of the addresses
+electronic communications services to the public online violating the
+provisions of this article, to which they must prevent access immediately and
+any event within 48 hours at most from the date of
+notification.
+A decree in the Council of Ministers fixes the modalities of application of the preceding paragraph.
+
+Section 2 - Responsibility and obligations of hosts
+
+Art.56 .- Natural or legal persons who provide, even free of charge, a
+service consisting in storing information provided by a recipient of the service, not
+cannot have their civil or criminal liability incurred as a result of the activities or
+information stored at the request of a recipient of these services if they had not
+not effectively aware of their unlawful nature or of facts and circumstances
+showing this character or if, from the moment they became aware of it,
+they acted promptly to remove this data or make it impossible to access.
+This provision does not affect the possibility for a judicial authority or a
+administrative authority, to require electronic communications operators to
+
+18
+
+Electronic transactions
+
+Page 19
+www.droit-afrique.com
+
+Togo
+
+implement all means allowing the blocking of content obviously
+unlawful, as they would be defined by the rules in force, in particular the provisions
+on the press and cybercrime.
+
+Section 3 - Responsibility and obligations applicable to all
+service providers
+
+Art.57 .- The persons mentioned in Articles 55 and 56 are not subject to a
+general obligation to monitor the information they transmit or store, nor to
+a general obligation to seek facts or circumstances revealing
+illicit activities.
+The previous paragraph is without prejudice to any obligation of targeted surveillance and
+temporary at the request of the judicial or administrative authority in accordance with
+article 62 of this law.
+Art.58 .- Taking into account the general interest attached to the repression of the apologia for crimes
+against humanity, incitement to violence and ethnic or racial hatred, as well as
+especially child pornography, terrorism and money laundering,
+the above-mentioned persons must contribute to the fight against the dissemination of
+these offenses.
+As such, they must put in place a system to be made known to the public.
+and users, easily accessible and visible allowing anyone to wear
+to their knowledge this type of data. They also have the obligation, on the one hand,
+promptly inform the competent public authorities of any illegal activities
+mentioned in the previous paragraph that would be reported to them and that would be exercised by
+recipients of their services, and, on the other hand, to make public the means they
+devote to the fight against these illicit activities.
+The system consists of providing users with reporting access
+abuse through an online form, detachable in paper format and a service
+free call, making it possible to inform either the provider of the service concerned or the
+competent authorities, according to the legislation in force, of any online content
+manifestly unlawful.
+Any breach of the obligations defined above is punishable by the penalties provided for in
+article 68 of this law.
+Art.59 .- Service providers must make the systems available to the public
+and technical means of restricting access to certain services which must be
+appropriate, efficient and accessible with a view to, in particular:
+• filter by category of clearly illegal content;
+• make the sites containing data falling under paragraph 1 of the previous article
+inaccessible;
+
+Electronic transactions
+
+19
+
+Page 20
+www.droit-afrique.com
+
+Togo
+
+• make it safer for minors to browse the Internet by restricting access to
+the Internet according to the profile of the connected user;
+• facilitate access to an up-to-date and efficient parental control tool by a
+appropriate information to users both on its existence and on the
+simple conditions of its use.
+The filtering provided for in points 1 and 2 above are activated by default in the services
+provided to users. The latter must be able to obtain the deactivation of said
+filtering on simple request from the service provider.
+The costs of implementing and updating systems and technical resources
+mentioned above are the responsibility of the service providers.
+In addition, service providers will make their best efforts to find
+together under the aegis of the ministry responsible for electronic communications,
+common technical systems and means. This shared device will be able to receive
+express validation of the ministry responsible for electronic communications in
+conditions specified by regulatory provisions.
+Art.60 .- Service providers must, on the one hand, ensure the regular updating of
+the technical systems and means mentioned in article 59 of this law and other
+share, notify users.
+The competent authorities may engage the liability of service providers
+services when the filtering systems are not available or their updating is not
+not regular.
+This responsibility cannot be engaged in the hypothesis referred to in the article above.
+above where the filtering systems used have been expressly validated by the
+Ministry in charge of Electronic Communications and subject to the said
+service providers ensure their maintenance and proper functioning.
+Art.61 .- Service providers may proceed, as a preventive measure and only
+at the request of the competent administrative or judicial authority, when setting up
+a targeted or temporary surveillance activity of the information they transmit
+or store, in order to prevent or put an end to damage caused by the
+content of an electronic communication service.
+Art.62 .- In the event of written or electronic notification from a
+administrative or judicial authority, relating to clearly illegal content, the
+service provider is liable if it leaves prohibited content online.
+The judicial authority can prescribe in summary proceedings or on request, to any person
+mentioned in Article 55 or, failing that, to any person mentioned in Article 56, all
+measures to prevent damage or to put an end to damage caused by
+the content of an online communication service to the public.
+Art.63 .- Service providers hold and keep, at least for a period of time
+duration of one year, the data likely to allow the identification of anyone who has
+
+Electronic transactions
+
+20
+
+Page 21
+www.droit-afrique.com
+
+Togo
+
+contributed to the creation of the content or one of the content of the services for which they are
+providers.
+The processing of this data is subject to the provisions of the law on the protection of
+personal data.
+A decree in the Council of Ministers defines the data mentioned in the first paragraph and
+determines the terms of their conservation.
+Art.64 .- The stored data relate exclusively to the elements allowing
+identification of the users of the services provided by the providers.
+Art.65 .- Service providers are subject to professional secrecy in
+conditions provided for by the Penal Code.
+Professional secrecy is not enforceable against the judicial authority or any other
+authority provided by law.
+Art.66 .- Any service provider not having complied with the prescriptions of the articles
+of this title, is punished in accordance with the provisions of the Penal Code.
+
+Title 5 - Responsibility of the editors of a communication service
+public online
+
+Art.67 .- People whose activity is to publish a communication service to the public
+online, make available to the public, in an open standard, information on
+the service and its managers as specified by regulation.
+People editing a communication service to the public on a non-professional basis
+online may only make available to the public, in order to preserve their anonymity,
+the name, denomination or company name and address of the service provider mentioned in
+Article 56 of this law, subject to having communicated to it the elements
+identification data provided for in this article.
+Art.68 .- Any person appointed or designated in a communication service at the
+public online has a right of reply, without prejudice to requests for
+correction or deletion of the message that it can send to the service.
+The request to exercise the right of reply is sent to the director of the publication.
+or, when the person editing on a non-professional basis has retained anonymity, at
+service provider mentioned in article 56 of this law who forwards it without delay to the
+Publication Director. It is presented at any time from the update
+public availability of the message justifying this request.
+The director of the publication is required to insert within three days of their
+receipt, responses from any person appointed or designated in the
+communication to the public online under penalty of the penalties provided for by the provisions
+
+Electronic transactions
+
+21
+
+Page 22
+www.droit-afrique.com
+
+Togo
+
+of the Criminal Code, without prejudice to other penalties and damages to which Article
+could give rise.
+The answer is free.
+Art.69 .- Persons whose activity is to publish a communication service to the public
+online are subject to the conditions for exercising freedom of expression and
+communication of ideas and political opinions provided for by the rules relating to
+freedom of the press in force in Togo, in particular the Code of the press and
+communication as well as the penalties applicable in the event of breach of the
+organizing this freedom.
+
+Title 6 - Securing and authenticating data and
+information
+
+Chapter 1 - Electronic evidence
+
+Art.70 .- Written proof or literal proof is established in accordance with the
+provisions of article 9 of this law.
+Art.71 .- Written documents in electronic form are admitted as proof in the same way as
+it is written on paper and has the same probative value as it, provided that
+can be duly identified the person from whom it emanates and that it is established and kept
+under conditions such as to guarantee its integrity.
+Art.72 .- Documents must be kept in electronic form for a period of
+a period of twenty years or for any period applicable to documents in format
+paper according to the applicable law in the matter and under the following conditions:
+• the information contained in the data message must be accessible, readable and
+intelligible to be consulted later;
+• the data message must be kept in the form in which it was created,
+sent or received, or in a form which can be shown to be unlikely
+no modification or alteration in its content and that the document transmitted and
+the one kept are strictly identical;
+• the information which makes it possible to determine the origin and destination of the message
+data, as well as the date and time of sending or reception,
+must be kept.
+Art.73 .- The supplier of goods or service provider by electronic means who
+claims the performance of an obligation must prove its existence and, when it claims to be
+released, must prove that the obligation is non-existent or extinguished.
+Art 74.- When the law has not set other principles, and in the absence of a valid agreement
+between the parties, the judge settles the conflicts of literal proof by determining by all
+means the most likely title, whatever the medium.
+
+Electronic transactions
+
+22
+
+Page 23
+www.droit-afrique.com
+
+Art.75 The copy or any other reproduction of documents passed electronically to the
+same probative force as the act itself when certified by the body
+competent certification.
+The certification gives rise, if necessary, to the issuance of a certificate of conformity.
+
+Chapter 2 - Electronic signature and certificate
+
+Section 1 - Electronic signature
+Art 76 No one may be forced to sign electronically.
+However, acts of administrative authorities may be the subject of a signature.
+electronic under the conditions provided for by regulatory provisions.
+Art.77 .- The signature necessary for the perfection of a legal act identifies the one who
+affix it. It manifests the consent of the parties to the resulting obligations.
+When it is affixed by a public officer, it confers authenticity to the act.
+When it is electronic, it consists of the use of a reliable identification process.
+guaranteeing its link with the act to which it is attached.
+The reliability of this process is presumed, until proven otherwise, when the signature
+electronics is created.
+The authentic instrument can be drawn up electronically if it is drawn up and kept
+under conditions set by regulation.
+Art.78 .- In legal proceedings, an electronic signature cannot be
+declared inadmissible on the sole ground that it:
+• is in electronic form; or
+• is not based on a certificate complying with this law.
+
+Togo
+
+Art.79 .- Without prejudice to the provisions in force, an electronic signature
+secure created by a secure signature creation device that the signatory
+can keep under its exclusive control and whose verification is based on a certificate
+qualified is accepted as a signature in the same way as an autograph signature.
+Art.80 .- A device for creating an electronic signature cannot be considered
+as secure only if it meets requirements of a technical nature and
+procedure specified by regulation.
+Art.81 .- Compliance of qualified electronic signature creation devices
+with the requirements set out in the previous article is certified by public bodies or
+competent private individuals appointed by the certification authority under defined conditions
+by regulation.
+
+23
+
+Electronic transactions
+
+Page 24
+www.droit-afrique.com
+
+Togo
+
+Art.82 .- An electronic signature verification device must be assessed and may
+be certified as compliant by the competent public or private bodies designated by
+the certification authority under conditions defined by regulation.
+
+Section 2 - Electronic certificate
+Art.83 An electronic certificate can only be regarded as qualified if:
+• it is issued by a qualified certification service provider;
+• it includes mandatory information specified by regulation.
+A certification service provider who:
+• complies with the provisions of articles 99 and 100 of this law and;
+• is subject to accreditation under conditions set by regulation.
+Art.84 .- It is created under conditions fixed by regulation, an authority
+certification officer for the purposes of defining the Togolese certification policy and
+enforce in particular through the accreditation and control of service providers
+qualified certification.
+The certifying authority must keep an electronic register of certificates
+qualified available to users.
+Art.85 .- Public administrations may use the certificate and signature
+electronic according to the conditions set by regulation.
+Art.86 Anyone using an electronic signature device must:
+• take the minimum precautions set by the texts in force to avoid any
+irregular use of personal equipment relating to his signature;
+• inform the certifying authority of any illegitimate use of its
+signature;
+• ensure the veracity of all the data it has declared to the said authority;
+• ensure the veracity of all the data it has declared to any person
+who she asked to trust her signature.
+Art.87 .- In the event of violation of the provisions of the preceding article, the holder of the
+signature is responsible for the harm caused to others.
+
+Section 3 - Equivalences
+Art.88 .- A certificate or electronic signature legally issued outside Togo
+has the same legal effects in Togo as a certificate or signature issued in Togo at
+provided that it complies with international standards recognized by the Organization
+international standardization (ISO).
+A decree in the Council of Ministers specifies the conditions for legal recognition
+certificates and electronic signatures from third countries.
+
+24
+
+Electronic transactions
+
+Page 25
+www.droit-afrique.com
+
+Togo
+
+Title 7 - Trusted service providers
+
+Chapter 1 - General provisions
+
+Section 1 - Scope
+Art.89 .- The provisions of this chapter govern the activities of service providers
+service techniques for securing electronic exchanges, hereinafter referred to as
+“trust service providers” established in the Togolese Republic, namely:
+• electronic certification service providers;
+• electronic archiving service providers;
+• electronic time stamping service providers;
+• electronic registered mail service providers.
+A decree in the Council of Ministers sets the conditions for the exercise of service providers
+trusted service.
+
+Section 2 - Obligations common to all trust service providers
+Art.90 .- Without prejudice to paragraph 2 below, trust service providers
+are responsible for damage caused intentionally or by negligence to any
+natural or legal person due to a breach of the obligations provided for by
+this law or the texts adopted for its application.
+It is the responsibility of the natural or legal person who invokes the damage referred to in
+first paragraph to prove that the unqualified trust service provider acted
+intentionally or negligently.
+A qualified trust service provider is presumed to have acted
+intentionally or negligently, unless it proves that the damage referred to
+in the first paragraph were caused without intention or negligence on his part.
+Where trust service providers duly inform their customers
+prior to the limits that exist to the use of the services they provide and that these
+limits may be recognized by third parties, trust service providers do not
+may be held liable for damages arising from the use of the services
+beyond the limits indicated.
+Paragraphs 1 and 2 apply in accordance with the rules in force in Togo regarding
+of responsibility.
+Art.91 .- Trust service providers must have the necessary resources
+sufficient financial resources to operate in accordance with the requirements of the
+provisions of this law, in particular to assume the responsibility of
+pity.
+
+25
+
+Electronic transactions
+
+Page 26
+www.droit-afrique.com
+
+Togo
+
+The subscription to liability insurance is compulsory.
+It is specified by a decree in the Council of Ministers.
+Art.92 .- Trust service providers are subject to an obligation
+impartiality towards the recipients of their services and third parties.
+Art.93 .- As far as possible, the trust services provided, as well as
+end-user products that are used to provide these services, are accessible
+people with disabilities.
+Art.94 .- The storage and processing of personal data transmitted to
+trust service providers are carried out in compliance with the provisions of the
+this law and the provisions in force applicable to data protection at
+personal character.
+Art.95 .- Without prejudice to the other information obligations provided for by the texts
+in force, trusted service providers, provide recipients with
+of their services, before the conclusion of the contract and throughout its duration, a
+direct and easy access to information formulated in a clear and understandable manner
+specified by decree in the Council of Ministers.
+Art.96 Qualified and unqualified trust service providers take the
+adequate technical and organizational measures to manage the risks associated with
+security of the trusted services they provide.
+They notify any security breach or loss of integrity having an impact
+important on the trust service provided or on personal data
+which are kept there.
+A decree in the Council of Ministers fixes the modalities of application of this article.
+
+Section 3 - Control
+Art.97 .- The control body for the activities of the provision of trust services to the
+Togo is the authority responsible for the certification provided for in article 84.
+The certification authority is vested with the necessary powers for this purpose and
+endowed with adequate resources for the performance of provider control tasks
+trust services.
+The role of the supervisory body is to:
+• monitor qualified trust service providers established in the territory
+Togolese in order to ensure, through a priori and a posteriori control activities, that these
+qualified trust service providers and qualified trust services
+that they supply meet the requirements set out in this law;
+• take action, if necessary, with regard to service providers
+unqualified trust established on Togolese territory, through control activities
+
+26
+
+Electronic transactions
+
+Page 27
+www.droit-afrique.com
+
+Togo
+
+a posteriori, when it is informed that these trust service providers not
+qualified or the trust services they provide would not meet the
+requirements set out in this law.
+For the purposes of paragraph 2 above and subject to the limits it provides, the tasks of
+the supervisory body consist in particular of:
+• cooperate with other regional control bodies or in third countries;
+• analyze the conformity assessment reports referred to in Article 98, paragraph
+1, and in article 99, paragraph 1 of this law;
+• inform other supervisory bodies and the public of security breaches or
+loss of integrity;
+• carry out audits or request a conformity assessment body
+perform a compliance assessment of trust service providers
+qualified in accordance with article 98, paragraph 2 of this law;
+• cooperate with data protection authorities, in particular by
+informing them, as soon as possible, of the results of audits of service providers
+qualified trust services when it appears that rules on
+protection of personal data have been violated;
+• grant qualified status to trusted service providers and services
+that they provide and withdraw this status in accordance with Article 98 and Article 99 of
+this law;
+• update the trusted lists referred to in article 100 of this law, its
+decisions to grant or withdraw qualified status;
+• verify the existence and correct application of provisions relating to shutdown plans
+activity when the qualified trust service provider ceases its activity;
+• require trust service providers to correct any breaches of
+obligations set by this law.
+The government may also require the oversight body to establish, manage and
+updates a trusted infrastructure in accordance with the conditions provided for by the
+texts in force.
+
+Section 4 - Qualified trust services
+Art.98 .- Qualified trust service providers are subject to, at least all
+twenty-four months, of an audit carried out at their expense by an assessment body
+conformity. The purpose of the audit is to confirm that service providers
+skilled trust and the skilled trust services they provide fulfill
+the requirements set by this law.
+Qualified trust service providers submit assessment report
+compliance with the supervisory body within three working days
+its reception.
+Without prejudice to paragraph 1, above, the supervisory body may at any time,
+subject qualified trust service providers to an audit or request
+
+27
+
+Electronic transactions
+
+Page 28
+www.droit-afrique.com
+
+Togo
+
+a conformity assessment body to carry out a conformity assessment
+compliance of qualified trust service providers, at the expense of those
+trusted service providers, to confirm that providers and
+qualified trust services that they provide meet the requirements set by the
+this law. The supervisory body informs the authorities responsible for the protection of
+data on the results of its audits when it appears that the rules on
+protection of personal data have been violated.
+When the supervisory body requires the qualified trust service provider to
+corrects a failure to meet the requirements of this law and that the service provider
+does not act accordingly, and where applicable within a time limit set by the supervisory body,
+the supervisory body, taking into account, in particular, the scope, duration and
+consequences of this failure, may withdraw from this service provider or the affected service the
+qualified status and updates the trusted lists referred to in Article 100 accordingly
+of this law. The supervisory body informs the trust service provider
+qualified of withdrawal of qualified status or withdrawal of qualified status from the service
+concerned.
+The supervisory body may determine the following standards:
+• accreditation of conformity assessment bodies and assessment reports
+of the conformity referred to in paragraph 1 above;
+• audit rules according to which conformity assessment bodies
+carry out their assessment of the conformity of the service providers of
+skilled confidence.
+Art.99 .- When trusted service providers, without qualified status, have
+intend to start offering qualified trust services, they submit to
+the supervisory body a notification of their intention accompanied by a report
+conformity assessment issued by a conformity assessment body.
+The supervisory body checks that the trust service provider and the trust services
+confidence that it provides comply with the requirements set by this law, in particular
+the requirements for qualified trust service providers and
+qualified trust services they provide.
+If the supervisory body concludes that the trust service provider and the services
+of confidence that it provides meet the required requirements, the supervisory body grants
+the qualified status of the trust service provider and the trust services it
+provides and updates the trusted lists referred to in article 100 of this law, at
+no later than three months following the notification in accordance with paragraph 1 above.
+If the verification is not completed within three months of the
+notification, the supervisory body informs the trust service provider
+specifying the reasons for the delay and the time required to complete the verification.
+Qualified trust service providers can start providing the
+qualified trust service once qualified status is indicated on the lists of
+trust referred to in article 100 of this law.
+
+28
+
+Electronic transactions
+
+Page 29
+www.droit-afrique.com
+
+Togo
+
+The supervisory body specifies the formats and procedures applicable for the purposes of
+paragraphs 1 and 2 above.
+Art.100 .- The supervisory body maintains and publishes trusted lists, including
+information relating to qualified trust service providers for whom it is
+responsible, as well as information on qualified trust services
+that they provide. A decree in the Council of Ministers specifies the modalities of application
+of this article.
+Art.101 .- When a qualified trust service provider issues a certificate
+qualified for a trustworthy service, it verifies, by appropriate means and
+in accordance with the law in force in Togo, the identity and, if applicable, all the attributes
+specifics of the natural or legal person to whom it issues the qualified certificate.
+A decree in the Council of Ministers specifies the obligations incumbent on the service provider
+qualified trust services.
+
+Chapter 2 - Specific provisions
+
+Section 1 - From the electronic certification service provider
+Art.102 .- The electronic certification service provider is required to comply with the
+requirements contained in Articles 91 to 97 of this Law.
+The electronic certification service provider that delivers to the public
+a certificate presented as qualified is required to meet the requirements set out in
+articles 103, 104 and 106 of this law.
+Art.103 .- The electronic certification service provider who delivers to the
+from the public a certificate presented as qualified or which guarantees to the public such a certificate
+is responsible for the damage caused to any entity or natural or legal person who
+rely on this certificate for:
+• the accuracy of all information contained in the qualified certificate at the date
+where it was issued and the presence, in this certificate, of all the prescribed data
+for a qualified certificate;
+• assurance that, at the time of issuance of the certificate, the signatory identified in
+the qualified certificate held the data relating to signature creation
+corresponding to the data relating to the signature verification provided or
+identified in the certificate;
+• the assurance that the data relating to the creation of a signature and those relating to
+signature verification can be used in a complementary way, in the
+case where the certification service provider generates these two types of data,
+unless the certification service provider proves that he has not committed any
+negligence;
+• compliance with all the requirements provided for in article 101 of this law.
+
+29
+
+Electronic transactions
+
+Page 30
+www.droit-afrique.com
+
+Togo
+
+Art.104 .- The electronic certification service provider who issued
+public intent a certificate presented as qualified is responsible for the harm
+caused to an entity or natural or legal person who avails himself of the certificate, for
+failing to register the revocation of the certificate, unless the service provider
+certification proves that he has not committed any negligence.
+Art.105 .- The electronic certification service provider may indicate, in a
+qualified certificate, the limits set for its use, provided that these limits are
+discernible by third parties. The certification service provider is not
+liable for damage resulting from the misuse of a qualified certificate that exceeds
+the limits set on its use.
+Art.106 .- The electronic certification service provider may indicate, in a
+qualified certificate, the limit value of transactions for which the certificate can be
+used, provided that this limit is discernible by third parties. He is not responsible
+damage resulting from exceeding this maximum limit.
+
+Section 2 - From the electronic archiving service provider
+Art.107 .- The electronic archiving service provider is required to comply
+the following requirements:
+• take the necessary measures to maintain the legibility of the data during the
+retention period agreed with the recipient of the service;
+• implement the necessary means to prevent, during conservation,
+consultation or transfer, any modification of electronic data
+kept, subject to modifications relating to their medium or format
+electronic;
+• implement the necessary means to detect transactions,
+normal or fraudulent, carried out on the data. He takes care to the extent of
+possible, to allow the identification of the perpetrators of such operations;
+• record the transactions referred to in the third indent above, ensure that they are dated
+by means of an electronic time-stamping process and keep these records
+during the entire retention period of the data concerned;
+• ensure that the recordings referred to in point fourth above are not
+accessible only to authorized persons;
+• implement the necessary means to protect the data it
+preserves against any fraudulent or accidental infringement;
+• implement the necessary means to prevent unauthorized access
+to the data it keeps as well as to the equipment, communication system and
+medium containing the data;
+• put in place procedures allowing rapid reaction to incidents and
+limit their effects.
+Art.108 .- The existence of an electronic data archiving contract does not entail any
+transfer of rights to the electronic archiving service provider on the
+retained data.
+
+30
+
+Electronic transactions
+
+Page 31
+www.droit-afrique.com
+
+Togo
+
+The electronic archiving service provider cannot destroy the
+data only with the agreement of the recipient of the service, without prejudice to the provisions of
+article 109 paragraph 3 of this law.
+Art.109 .- When the electronic archiving contract ends, for whatever reason
+either, the electronic archiving service provider cannot oppose the
+recipient of the service any right of data retention.
+When the electronic archiving contract ends, for any reason whatsoever, the
+electronic archiving service provider request by registered mail to
+recipient of the service to comment on the fate of the data entrusted to it,
+in accordance with the provisions of this law.
+In the absence of a response from the recipient within six months of the request referred to in
+the previous paragraph, the service provider may destroy the data, except
+express prohibition of a competent judicial or administrative authority.
+Art.110 .- At the request of the recipient of the service and within a reasonable time, the
+electronic archiving service provider, as the case may be:
+• records the transactions referred to in the third indent of Article 107 above, ensures
+their dating by means of an electronic time-stamping process and keeps these
+records throughout the retention period of the data concerned;
+• ensure that the recordings referred to in the fourth indent of Article 107 above
+are accessible only to authorized persons;
+• implements the necessary means to protect the data it keeps
+against any fraudulent or accidental infringement;
+• implement the necessary means to prevent any unauthorized access to
+data it keeps as well as the equipment, communication system and support
+containing the data;
+• implements procedures allowing rapid reaction to incidents and
+limit their effects.
+Art.111 .- In the cases provided for by the provisions of the preceding article, the
+electronic archiving service provider does not keep any copy of the data
+returned, transmitted or destroyed, unless expressly requested by the recipient of the service or
+a competent judicial or administrative authority.
+The costs relating to the operations referred to in the previous article are payable by the
+recipient, except in the event of termination of the contract resulting from a fault on the part of the
+electronic archiving service.
+Art.112 .- The fault of the electronic archiving service provider is presumed
+until proven otherwise if the data entrusted to it:
+• are no longer readable during the storage period agreed with the recipient
+service;
+• are modified, subject to modifications relating to their support or their
+electronic format;
+
+31
+
+Electronic transactions
+
+Page 32
+www.droit-afrique.com
+
+Togo
+
+• cannot be returned, transmitted to another service provider or destroyed
+in accordance with the provisions of articles 109 and 110 of this law.
+
+Section 3 - From the electronic time-stamping service provider
+Art.113 .- Dating provided by an electronic time-stamping service provider
+is based on and expressly refers to Coordinated Universal Time.
+Art.114 .- A qualified electronic time stamp satisfies the following requirements:
+• it links the date and time to the data in such a way as to reasonably exclude the
+possibility of undetectable modification of data;
+• it is based on an exact clock linked to Coordinated Universal Time;
+• it is signed by means of a secure electronic signature, by means of a
+qualified certificate from the qualified trust service provider, or by a
+equivalent method.
+Art.115 .- The electronic time-stamping service provider is responsible for
+damage caused by a failure of its service having an impact on the accuracy of
+the dating of a document.
+
+Section 4 - From the electronic registered mail service provider
+Art.116 .- At the time of sending the message, the registered mail service provider
+electronic delivers to the sender an acknowledgment of dispatch, provided with his electronic signature
+secure indicating, in accordance with the provisions of Articles 118 to 120 of the
+this law, the date on which the message was sent to the recipient.
+Art.117 .- The electronic registered mail service provider implements the
+means necessary for:
+• protect the content of the sender's message against any alteration and
+modification;
+• prevent any loss or appropriation by a third party of the message;
+• ensure the confidentiality of the data transmitted and stored throughout the
+communication and conservation process.
+Art.118 .- The electronic registered mail service provider verifies, by means of
+appropriate, the identity of the recipient of the electronic registered mail, with or without acknowledgment
+of receipt, before the electronic registered letter is issued.
+Art.119 .- At the request of the sender, the registered mail service provider
+electronic provides him with an acknowledgment, as the case may be, of receipt or refusal of the message by
+the recipient or his non-delivery. This accused is provided with an electronic signature.
+Before the electronic registered letter is issued, the acknowledgment of receipt or refusal is
+electronically signed by the recipient and indicates the date on which the message was
+
+32
+
+Electronic transactions
+
+Page 33
+www.droit-afrique.com
+
+Togo
+
+received or refused by the latter, using an electronic time-stamping process
+in accordance with the relevant provisions of this law.
+The acknowledgment of non-delivery is provided at the expiration of a period of fifteen days from
+sending the message.
+Art.120 .- The electronic registered mail service provider is responsible for
+damage caused by loss or alteration of the content of the message transmitted or its
+appropriation by a third party.
+The electronic registered mail service provider may not, at any time,
+imply, directly or indirectly, that it is issuing registered
+electronic, if it does not comply with the provisions of this chapter.
+
+Title 8 - Electronic administration
+
+Chapter 1 - Electronic exchange of administrative information
+
+Art.121 .- Any exchange of information, documents and / or administrative acts may
+be transmitted electronically.
+Where there is a specific formal requirement in the context of a procedure
+administrative, this requirement can be fulfilled electronically. To this end,
+each administration communicates the electronic contact details for entering
+in contact with her.
+Any natural or legal person who wishes to be contacted by mail
+electronic by the administration, provides it with the necessary contact details. It
+ensure that you regularly check your e-mail and report to
+administration any change of contact details.
+Art.122 .- Any communication made by electronic means within the framework of a
+administrative procedure is deemed to have been received when its addressee has the
+opportunity to read it.
+Art.123 .- An electronic request or declaration form, established within the framework of
+electronic administrative procedures, completed, validated and transmitted with its
+any annexes, is equivalent to the paper form bearing the same title, completed,
+signed and sent, with any annexes, to the administration and departments concerned,
+in accordance with the legal and regulatory provisions in force.
+Art.124 .- When a formality provided for by the provisions of this law is required
+during an administrative procedure, the administration resorts to the equivalents
+functions recognized by this law, unless the application of more
+strict is justified, having regard to the peculiarity of the procedure and the documents
+concerned.
+
+Electronic transactions
+
+33
+
+Page 34
+www.droit-afrique.com
+
+Togo
+
+Art.125 .- When it is required that a supporting document be attached in support of a
+request or a declaration addressed to the administration, the applicant is exempted from
+provide this document electronically when the administration can obtain it
+directly to the administration and departments concerned.
+In this case, the provision of the document is replaced by a declaration on honor
+of the applicant, who has the option of electronically verifying the information
+taken into account by the administration.
+Art.126 .- When payment is required from the applicant during a procedure
+administrative, in particular for obtaining a certificate or an official document,
+this payment can be made electronically in accordance with the applicable rules
+electronic payments.
+
+Chapter 2 - Acceptance of electronic archiving and document issuance
+
+Art.127 .- With regard to the acceptance of archiving and electronic transfer of
+documents, any public institution determines:
+• the archiving method, the format and the methods of issuing the document
+electronic;
+• the space reserved for the signature and the nature of the electronic signature;
+• the manner and method of affixing the electronic signature, its characteristics and
+requirements not contrary to conditions imposed by service providers
+certification;
+• the system for checking the authenticity and originality of messages
+electronic devices, as well as their safe storage;
+• any other element deemed useful for the electronic message and the relative payment method
+to the documents mentioned above.
+
+Chapter 3 - The use of electronic messages and signatures by
+public institutions
+
+Art.128 .- The government, on the proposal of the Ministry in charge of Communications
+electronic, issues instructions relating to message security measures and
+electronic signatures by public institutions.
+
+Title 9 - Finding of infractions and penalties
+
+Art.129 .- Breaches of the provisions of this law and its implementing measures
+are ascertained by judicial police officers, sworn officers of
+ministries responsible for trade, finance, electronic communications and
+Communication and, depending on the powers granted to them by law, the authorities
+regulation of the aforementioned sectors to which is added the authority responsible for protection
+
+Electronic transactions
+
+34
+
+Page 35
+www.droit-afrique.com
+
+Togo
+
+www.droit-afrique.com
+
+Togo
+
+personal data, in accordance with the conditions provided for by the provisions
+laws in force.
+The reports recording the infringements as well as the objects and documents seized
+are sent to the public prosecutor.
+Art.130 .- Anyone who uses
+fraudulent electronic signature of others.
+Art.131 .- Anyone who abuses the
+weakness or ignorance of a third person to make him subscribe, within the framework
+an electronic sale, cash or credit commitments in any form
+whether, when it is proven that this person is not able to appreciate the
+scope of the commitments it makes or to detect the tricks or artifices deployed
+to convince her to subscribe or that she was subjected to duress.
+Art.132 .- The penalties provided for in the Penal Code shall be punished by the authority responsible for
+certification and / or its agents who disclose, induce or participate in the disclosure of
+information entrusted to them in the course of carrying out their activities,
+with the exception of those whose publication or communication is authorized by the
+certificate holder in writing or electronically or in the cases provided for by the
+legislation.
+
+Title 10 - Transitional and final provisions
+
+Art.133 .- Any natural or legal person carrying out an activity relating to
+electronic transactions and trust services in this area has in
+a period of twelve months to comply with the provisions of this law, from
+of its publication in the Official Journal.
+Art . 134 .- All previous provisions contrary to this law are repealed.
+Art.135 .- This law will be executed as a law of the State.
+
+Electronic transactions
+
+35
+
+

@@ -1,0 +1,90 @@
+from datasets import load_dataset
+import os
+from typing import Dict, Optional
+from dataclasses import dataclass
+import logging
+
+# 配置日志
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+@dataclass
+class DatasetConfig:
+    """数据集配置类"""
+    name: str
+    subset: Optional[str] = None
+    version: Optional[str] = None
+
+class DatasetLoader:
+    """数据集加载器类"""
+
+    def __init__(self, cache_dir: Optional[str] = None):
+        """
+        初始化数据集加载器
+
+        Args:
+            cache_dir: 缓存目录路径，如果为None则使用当前工作目录下的'data'文件夹
+        """
+        if cache_dir is None:
+            cache_dir = os.path.join(os.getcwd(), 'data')
+        self.cache_dir = cache_dir
+        os.makedirs(self.cache_dir, exist_ok=True)
+        logger.info(f"Using cache directory: {self.cache_dir}")
+
+    def load_single_dataset(self, config: DatasetConfig):
+        """
+        加载单个数据集
+
+        Args:
+            config: 数据集配置对象
+
+        Returns:
+            加载的数据集或None（如果加载失败）
+        """
+        try:
+            kwargs = {"cache_dir": self.cache_dir}
+            if config.subset:
+                kwargs["name"] = config.subset
+            if config.version:
+                kwargs["version"] = config.version
+
+            dataset = load_dataset(config.name, **kwargs)
+            logger.info(f"Successfully loaded {config.name} dataset")
+            return dataset
+        except Exception as e:
+            logger.error(f"Failed to load {config.name} dataset: {e}")
+            return None
+
+    def load_all_datasets(self) -> Dict:
+        """
+        加载所有预定义的数据集
+
+        Returns:
+            包含所有已加载数据集的字典
+        """
+        dataset_configs = [
+            DatasetConfig(name="imdb"),
+            DatasetConfig(name="race", subset="all"),
+            DatasetConfig(name="cnn_dailymail", version="3.0.0")
+        ]
+
+        datasets = {}
+        for config in dataset_configs:
+            dataset = self.load_single_dataset(config)
+            if dataset:
+                datasets[config.name] = dataset
+
+        return datasets
+
+def get_datasets(cache_dir: Optional[str] = None) -> Dict:
+    """
+    主函数：加载所有数据集
+
+    Args:
+        cache_dir: 可选的缓存目录路径
+
+    Returns:
+        包含所有已加载数据集的字典
+    """
+    loader = DatasetLoader(cache_dir)
+    return loader.load_all_datasets()

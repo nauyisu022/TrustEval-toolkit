@@ -1,0 +1,3029 @@
+Processing of pseudonymous data
+guideline
+Processing of pseudonymous data
+guideline
+Contents
+I. background
+04
+II. Guidelines overview
+05
+Ⅲ. pseudonymization
+09
+1. Pseudonymization procedure
+09
+2. Detailed procedures for pseudonymization
+11
+IV. Combination of pseudonymous information
+24
+1. Procedures for binding and exporting pseudonym information
+24
+2. Detailed procedures for binding and exporting pseudonym information
+24
+Ⅴ. Safe management of pseudonymous information
+26
+1. Administrative protection measures for pseudonymous information
+26
+2. Technological protection measures for pseudonymous information
+28
+3. Physical protection of pseudonymous information
+30
+<Reference 1> Technology and examples of pseudonymization of personal information
+32
+<Reference 2> Examples of specific information definition and processing
+46
+<Reference 3> Procedures for internal combination of pseudonym information
+52
+I
+background
+II
+Guidelines overview
+Ⅲ
+pseudonymization
+1. Pseudonymization procedure
+2. Detailed procedures for pseudonymization
+IV
+Combination of pseudonymous information 24
+1. Procedures for binding and exporting pseudonym information
+2. Detailed procedures for binding and exporting pseudonym information
+Ⅴ
+Safe management of pseudonymous information
+1. Administrative protection measures for pseudonymous information
+2. Technological protection measures for pseudonymous information
+3. Physical protection of pseudonymous information
+24
+Guidelines for the processing of pseudonymous data
+I
+background
+◈ The demand for data use in various convergence industries such as big data and AI is rapidly increasing,
+Systematic data with legal basis for the use of pseudonymous information, which is the core of data utilization
+The foundation for utilization has been established
+◈ this
+by providing detailed information on pseudonymization processing technology, procedure, and management system necessary for data utilization
+We intend to further strengthen the protection of personal information and lay the foundation for safe data utilization.
+The Data 3 Act*, which reflects the demands of the times for the use of ‘data’, a new growth engine in the era of the 4th industrial revolution,
+Amended (‘20.2.4.) and implemented (‘20.8.5.)
+* Personal Information Protection Act (hereinafter referred to as “Protection Act”), Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.
+Act on Use and Protection
+- A special case regarding the processing of pseudonymous information (Chapter 3, Section 3 of the Protection Act) has been newly established, and the personal information controller prepares statistics,
+Personal information that can be used by pseudonymizing for scientific research, public record preservation, etc.
+Foundation laid
+This guideline is personal information in the process of processing pseudonymous information without consent pursuant to Article 28-2 of the Protection Act.
+Guidance on safe use of pseudonymous information to prevent misuse and abuse and vitalize the data industry
+- Purpose and scope of processing of pseudonymous information, processing procedures, measures and main measures to secure the safety of pseudonymous information
+To help practitioners understand by providing examples of pseudonymization techniques, etc.
+※ The personal information controller is responsible for safeguarding legally collected information (Article 30 of the Enforcement Decree), etc.
+You can refer to this guideline even in case of pseudonymization
+In addition, according to Article 28-3 of the Protection Act, the pseudonymous information held by different personal information controllers is combined and
+If you want to take it out and use it, you can use the information on combination and export so that the personal information controller can refer to it.
+We would like to guide you through the general procedures and methods.
+04
+II
+One
+Guidelines overview
+Subject to processing of pseudonymous information
+(Pseudonym processing) Pseudonymous information is used for statistical preparation, scientific research,
+It may be processed without the consent of the information subject for the purpose of record preservation in the public interest.
+end. Statistical preparation: Statistics means quantitative information prepared about a specific group or subject.
+- Includes statistical processing for commercial purposes such as market research
+※ Statistics that can identify specific individuals for direct (1:1) marketing, etc. are not applicable.
+<Example>
+In order to expand convenience facilities according to age, local governments are using convenience facilities (cultural centers, libraries, sports facilities, etc.)
+Create and analyze usage statistics (location, number of visitors, stay time, age group, gender, etc.)
+If you want to select a new convenience facility
+I. and
+Scientific research: Scientific research includes technology development and demonstration, basic research, applied research, and private investment research.
+means research that applies the scientific method
+- Scientific research refers to research that applies scientific methods, and includes various fields such as natural science, social science, and medical science.
+available in the field
+- Here, the scientific method is the study of testable questions in a systematic and objective way.
+mean that
+- Scientific research includes not only technology development and demonstration, basic research, and applied research, but also new technologies, products, and
+It can also be performed for industrial purposes such as service development, and private investment research, companies, etc.
+It is also possible to conduct research
+05
+Guidelines for the processing of pseudonymous data
+<Example>
+To warn the risk of COVID-19, hypotheses about the correlation between lifestyle and COVID-19 infection rate
+Lifestyle, location information, infection status, gender, age,
+When the hypotheses are verified by treating the source of infection as a pseudonym and comparing and analyzing it with the data of the infected person
+All. zero
+Preservation of personal records: By recording information that is worth reading continuously for the public interest,
+means to preserve
+- A public purpose is not recognized only when a public institution handles it, and private companies, organizations, etc.
+Even if records are preserved for the general public interest, the purpose of archiving records in the public interest is recognized.
+<Example>
+Among the information collected by the research center in the course of research on modern history,
+When you want to record and keep information
+(Combination of pseudonymous information) The pseudonymous information held by different personal information controllers is processed by the Personal Information Protection Commission (hereinafter,
+Protection Committee) or a specialized agency designated by the head of a related central administrative agency for combined processing.
+In addition, the combination of pseudonymous information held within the personal information controller does not go through a separate association specialized agency.
+Not required (see p.52, [Reference 3])
+2
+Guidelines configuration
+The guidelines provide that personal information controllers who wish to use personal information under a pseudonym
+example
+We would like to guide you on matters related to the general procedure and method for combining and exporting.
+- To the extent that laws and regulations are complied with in consideration of the type and nature of personal information, the personal information controller
+Can autonomously decide and process pseudonymization procedures and methods
+These contents are as follows
+week
+- Matters concerning the purpose and subject of processing of pseudonymous information
+- Guidance on procedures for personal information controllers to use personal information to perform pseudonymous processing
+- Guidance on procedures for binding and exporting pseudonymous information
+- Matters concerning administrative, technical, and physical protection measures in accordance with the processing of pseudonymous information
+06
+- Main technical guidance and application examples of pseudonymization of personal information
+- Matters related to processing cases of special information*, etc.
+* It deviates significantly from the average value of the data, so it is clearly distinguished from other data or in the distribution of the data.
+Measured value out of the distribution abnormally
+
+Regarding the pseudonymization of personal information in specific industries, the Protection Committee and the relevant ministries jointly
+If there are published guidelines for each field, the guidelines for each field can be used preferentially.
+there is,
+- If there is no separate guideline for each field, this guideline can be used
+3
+Glossary of terms
+Personal information: Information about a living individual, including the following information
+- Information that can identify an individual through name, resident registration number, and video
+- Even if the information alone cannot identify a specific individual, it can be easily combined with other information
+information available (in this case, whether or not it can be easily combined depends on the individual, such as the availability of other information
+Time, cost, technology, etc. required to find out should be considered reasonably)
+※ The criteria for judging personal information depend on the circumstances such as the information possessed by the personal information controller or the authority to access.
+must be judged differently
+Name processing: Additional information may be deleted by a method such as deleting part of personal information or replacing part or all of personal information.
+end
+to make a particular individual unrecognizable without
+Name information: Use and combination of additional information to restore personal information to its original state by pseudonymizing personal information
+end
+information without which a particular individual cannot be identified
+Name information: When time, cost, technology, etc. are reasonably considered, it is no longer possible to use other information
+ripe
+non-personally identifiable information
+Personal information: The means or method (algorithm, etc.) used to replace all or part of personal information;
+sinker
+Information that can restore deleted or replaced personal information through comparison and contrast with pseudonymous information
+07
+Guidelines for the processing of pseudonymous data
+(Mapping table information, personal information used for pseudonymization, etc.), etc.
+※ Additional information (original information, algorithm, mapping table information) and pseudonym information are administratively or technically separate
+Separate and separate access rights
+Acknowledgment information file: Systematically arranged according to certain rules so that personal information can be easily searched, or
+dog
+A collection of personal information constituted
+Name information controller: Public institutions that use or provide personal information under a pseudonym for business purposes;
+end
+corporations, organizations and individuals, etc.
+Name information handler: Under the direction and supervision of the personal information controller who processes pseudonymous information,
+end
+Employees, dispatched workers, part-time workers, etc.
+Qualitative review: Pre-defined pseudonymization based on the procedure presented in this guideline
+enemy
+Procedure to check whether pseudonymization has been properly performed in accordance with the standards
+Identification: additional information or combination with other information or public information otherwise held by the actor or
+ashes
+The state or act of getting to know or wanting to know a specific individual through comparison, comparison, etc.
+Combined key: Information temporarily used when a combined key management institution generates combined key associated information
+texture
+Combination key linkage information: To combine pseudonymous information for the same data subject,
+Information associated with the binding key
+Joint applicant: Personal information controller who applies for combination of pseudonymous information
+texture
+* A person who only provides pseudonym information, a person who provides pseudonym information and uses combined information, or a person who provides pseudonymous information
+Includes all persons who use the combined information without providing it
+
+Joint Specialized Institution: In accordance with Article 28-3 (1) of the Act, the combination of pseudonymous information between different personal information controllers is prohibited.
+texture
+A specialized institution designated by the personal information protection committee or the head of a related central administrative agency to perform
+Combined key management institution: In accordance with Article 29-3 (2) of the Enforcement Decree, the combination key linkage information is created and sent to the association specialized institution.
+texture
+The Korea Internet & Security Agency or protection that supports the safe combination of pseudonymous information, such as providing
+Refers to an institution designated and announced by the committee
+08
+Ⅲ
+pseudonymization
+Name processing refers to ‘additional information by deleting part of personal information or replacing part or all of personal information.
+end
+means to make a specific individual unrecognizable without
+- In the case of pseudonymization, whether the pseudonym information alone can identify a specific individual, additional information or other information
+It is necessary to consider the combinability of information
+※ If an individual can be identified through other information held by the pseudonymous information controller, the pseudonym processing is incorrect.
+can be said to be the case
+When processing personal information under a pseudonym, the name information controller shall generally use procedures and steps that can be used.
+end
+Present notes
+- Additional procedures may be included or partially in consideration of the characteristics and purpose of pseudonymous information and guidelines for each field
+The procedure can be simplified
+※ In the case of collection and use of personal information in accordance with relevant laws such as the Statistical Act, it is processed in accordance with the relevant laws and regulations.
+pseudonymization process
+One
+<Step-by-step procedure diagram for pseudonymization>
+Stage 1
+Preliminaries
+(fitness for purpose and
+pre-planning)
+Step 2
+Step 3
+pseudonymization
+(Pseudonymization)
+level definition and processing)
+adequacy review and
+Additional pseudonymization
+Step 4
+proper
+Utilization and follow-up management
+inappropriate
+09
+Guidelines for the processing of pseudonymous data
+Step 1 Preparation
+In order to define the items to be processed and the processing level, check whether the processing purpose is appropriate and
+end
+You must fill out the necessary documents
+- If the purpose of pseudonymization is clarified and an internal approval procedure is separately prepared, additional work for this
+can do
+- If pseudonymous information is provided to a third party, the purpose and method of use, re-identification risk management, etc.
+A contract can be concluded that includes the provision of necessary measures to ensure safety
+Step 2
+pseudonymization
+Even when processing pseudonymous information, the minimum principle of personal information processing must be complied with, and the pseudonymous processing method must be determined.
+end
+In this case, the purpose of processing, the processing (use or provision) environment, and the nature of information should be considered comprehensively.
+- Only the minimum items necessary for the purpose are selected for pseudonymization, and pseudonymization is processed in the personal information file
+Target items must be extracted first
+- ‘Measurement of risk by item’ of the extracted result information refers to the level of safety measures of the pseudonymous information controller or information
+It must be judged in consideration of its own re-identification potential, so when using or providing internally or providing to a third party
+Things to consider may vary (see p.13~18)
+- When the risk measurement for each item is completed, the method and level of pseudonymization for each item are first defined in consideration of this,
+Accordingly, pseudonymization is performed
+Adequacy review and additional pseudonymization
+Step 3
+Whether pseudonymization has been performed at an appropriate level to achieve the purpose, and whether there is any possibility of re-identification, etc.
+must carry out the final judgment procedure for
+- As a result of pseudonymization, if it is judged that it is difficult to achieve the purpose or there is a possibility of re-identification, ‘Step 2
+(Pseudonymization)’ can be repeated or additional pseudonymization can be partially performed.
+- When looking at the distribution and values ​of the data, if it is determined that there is singular information, the possibility of re-identification
+Appropriate measures should be taken to lower
+Utilization and follow-up management
+Step 4
+If, as a result of the qualitative review, it is determined that pseudonymization is appropriate, the pseudonym information may be processed for the original purpose
+enemy
+Technical, administrative, and physical safety measures must be implemented in accordance with laws and regulations.
+- The pseudonymous information controller informs the pseudonymous data handler of prohibited acts and safety measures,
+Safely handle pseudonymous information
+10
+<Other notes>
+The pseudonymous information controller shall refer to the following for more secure handling of pseudonymous information and
+can reflect
+- A general department (or person in charge) for general management and decision-making of tasks related to pseudonym processing
+Can be designated, and the main tasks are as follows
+1) Review of suitability for application for pseudonymization (purpose)
+2) pseudonymization
+3) Review of the adequacy of pseudonymization
+4) Management and supervision of pseudonymous information handlers
+5) Other matters necessary for safe and efficient processing of pseudonymous information
+※ In case of 1) and 3), a deliberation committee including external experts can be organized and operated
+
+Separation of persons in charge of pseudonymization-related tasks
+- The person who performed pseudonymization processing, the pseudonymous information handler (utilization, etc.), and the person reviewing the adequacy of the pseudonymous information*
+Separation of privileges administratively or technically (see p.28)
+* When a person who knows the contents of additional information reviews or handles (utilizes) pseudonymous information
+There is a risk that certain individuals may be identified during processing
+2
+Detailed procedures for pseudonymization
+<Detailed procedure diagram for each step of pseudonymization process>
+Step 1 (Preparation)
+Step 2 (Pseudonymization)
+Target selection
+Risk measurement
+Definition of pseudonymization level
+pseudonymization
+Review of the processing (delivery) environment
+Risk analysis by item
+internal use
+Identification information + identifiable information
+provided internally
+Third party provision
+Processing (Providing) Environment Division
+Scale and specificity of information
+Judging by considering
+Step 3 (suitability review and additional pseudonymization)
+inappropriate
+proper
+Step 4 (Utilization and follow-up management)
+11
+Guidelines for the processing of pseudonymous data
+Step 1 Preliminary preparation: review of suitability for processing purposes and preparation for pseudonymization
+In the preliminary preparation stage for pseudonymization, the purpose of using pseudonym information should be clarified and
+It is necessary to decide whether to carry out
+Can fill out paperwork
+Clarification of the purpose of processing pseudonymous information: The purpose of processing pseudonymous information within the purposes* permitted by law
+end
+It should be written as clearly as possible.
+* Limited to statistical preparation, scientific research, and preservation of records for the public interest
+
+(Inappropriate example) Conducting scientific research to develop new products
+※ It is not appropriate because the purpose is not specified in detail.
+
+(Appropriate example) To improve the performance of
+products, a survey was conducted on the
+characteristics of each individual.
+Scientific research on the relationship between individual characteristics and performance factors based on
+Review of suitability for name processing (personal information retention department or dedicated department): purpose and nature of personal information collection;
+end
+It may decide whether to process a pseudonym by considering the purpose of using pseudonymous information.
+※ If necessary, it can be decided through the composition of a deliberation committee or evaluation by external experts.
+Preparation of required documents: processing of pseudonym information or entrusting processing of pseudonymous information (performed in accordance with Article 26 of the Protection Act) or
+Phil
+When providing to a third party, if necessary, matters concerning the prohibition of re-identification and other processing should be taken into account.
+You can write a contract including items*, etc.
+* (Example) Prohibition of re-provision of pseudonymous information, prohibition of re-identification of pseudonymous information, measures to secure the safety of pseudonymous information,
+Creation and storage of processing records, destruction of pseudonym information, compensation for damages in case of re-identification, etc.
+If there is no internal management plan for name information processing, it is necessary to establish a plan
+end
+See [V. Safe Management of Pseudonym Information]
+12
+Step 2 pseudonymization: level definition and processing according to environment
+The pseudonymization process is detailed in ① target selection, ② risk measurement, ③ definition of pseudonymization level, ④
+The pseudonymization process consists of four steps:
+<Detailed procedure for risk measurement>
+①
+Target selection
+②
+Risk measurement
+③
+Definition of pseudonymization level
+④
+pseudonymization
+1. Target selection
+[Step 1. In order to achieve the purpose established in [Preparation], it is necessary to process pseudonyms in personal information files.
+Extract items
+※ The minimum items necessary to achieve the purpose must be processed.
+Extracted result information (example):
+Name, mobile phone number, gender, e-mail address, purchase product, purchase amount, shopping cart list
+Purpose of pseudonymization: To analyze the correlation of purchase amount by gender and region
+
+Items subject to pseudonymization:
+- Name, mobile phone number, gender, email, address (city, county, district), purchase amount
+* Information irrelevant to the purpose of analysis is excluded from selection
+13
+Guidelines for the processing of pseudonymous data
+2. Risk measurement
+Review the level of personal information protection of the pseudonymous information controller and whether other information is retained, and the level of risk by item
+Measure risk through analysis
+- The pseudonymous information is used inside the pseudonymous information controller according to the processing (provided) environment (self-use or internal use)
+It can be divided into a case of providing/combining) and a case of providing it to a third party.
+Measurement results may vary
+end. Review of processing (providing) environment
+Depending on the purpose of processing, the processing (providing) environment and the level of personal information protection of the recipient and other information
+Retention, etc. should be reviewed
+※ In case of providing information to an unspecified third party (disclosure, etc.), in principle, it is processed as anonymous information.
+internal use
+provided internally
+Third party provision
+Personal information protection level and other information* of the receiving department
+* When the receiving department has other (personal) information, when receiving other information from a third party and using it together
+- (Internal use) The personal information held by the pseudonymous information controller is processed under a pseudonym or internally combined.
+means when utilized or provided to other departments
+※ If pseudonymous information is processed through a trustee, it is for internal use.
+Combining pseudonymous information with the pseudonym information you own does not constitute an internal combination.
+Must go through a specialized agency
+Because it is used within the same processor [V. Separation of access rights in accordance with [Secure management of pseudonymous information]
+Protection level can be controlled through education, etc.
+Even in this case, information already owned (accessible) by the department to which the pseudonymous information handler belongs and
+
+It should be reviewed in consideration of other (personal) information provided at the time of processing.
+* If the person who performed the pseudonymization and the pseudonymous information handler are the same, the possibility of access to the original information is also
+should be considered
+14
+Incorrect internal use case) ○○ Team A of a cosmetic company is a team that manages cosmetic sales information,
+A new product demand survey prediction model by pseudonymizing the information without separating access rights for pseudonymization
+Use for development purposes
+(Processing status) Team A is responsible for providing personally identifiable names, genders, and approval numbers in the sales information.
+Process pseudonymization, delete sales history in rare areas, and provide to the person in charge of analysis of pseudonym information of Team A
+end
+The person in charge of analysis of name information performs tasks in parallel with the sales information management task of Team A.
+has exist
+(Problem) The person in charge of analysis of pseudonym information analyzes the pseudonym information to determine the price of the highest-priced cosmetics and
+The sales region can be identified, and sales information management is performed at the same time, so the amount and region can be determined.
+Possibility to identify a specific individual through
+(Solution) The pseudonymous information controller is responsible for processing (analyzing) pseudonymous information, and the person in charge of processing (analyzing)
+In the example, the access rights are clearly separated so that access to sales information management) cannot be accessed at the same time.
+Access control should be implemented
+Incorrect internal provision) □□ The corporation manages the big data of highway-use vehicles managed by Department A.
+We do not check the personal information processed by department B, which manages highway tolls, for the analysis result.
+Provided internally for research purposes to improve transportation services
+(Processing status) Department A processes the vehicle number, vehicle model, etc. that can be personally identifiable as pseudonyms,
+Information such as travel time, movement amount, and accident information is provided to Department B
+B
+To manage expressway tolls, the department provides customer numbers, vehicle numbers, and toll gate entry and exit times.
+and payment amount information
+(Problem) Department B has the information on the travel time of the information provided by Department A and the information stored by Department B.
+You can check the number of vehicles that passed at a specific time by using the toll gate entry and exit time.
+Possibility to identify a specific individual through vehicle number
+(Solution) The pseudonymous information controller is held by the department that will process the pseudonym information when it is created.
+Pseudonymization should be performed in consideration of the information available
+15
+Guidelines for the processing of pseudonymous data
+- (Provided to a third party) The personal information held by the personal information controller is pseudonymized and provided to a specific third party.
+mean the case
+Considering the level of personal information protection of a third party*, re-identification that may occur due to provision of pseudonymous information
+
+Efforts should be made to minimize risks
+* How to apply a relatively high level of pseudonymization to institutions with a low level of protection, etc.
+In addition, information held by a third party in advance and other (personal) information provided at the time of processing
+
+etc. should be considered, and relevant information* may be requested in order to understand this
+* Among personal information managed by a third-party pseudonymous information controller, there is a possibility of combining with the pseudonymous information provided.
+Personal information list, etc.
+In the pre-preparation stage, if there are any specified in the contract regarding re-identification, it can be considered.
+
+Incorrect third party provision) ○○ Hotel provides special information such as VIPs using the best rooms.
+The hotel stay and service amount are provided to the ○○ analysis company without deletion, and the ○○ analysis company
+Analyze the information to conduct research on the status of room use and service usage over time
+(Processing status) ○○ analysis company collects online SNS information and information from various companies and
+As a company that conducts research, it establishes an internal management plan and implements administrative and technical protection measures.
+in compliance
+○
+○The hotel handles member numbers and names as pseudonyms, and includes age, gender, grade, reservation method, room information,
+Provides check-in, check-out, and service usage amount
+(Problem) The person in charge of analysis of the ○○ analysis company does not check the contents of using the highest-class room on a specific day
+It can be recognized during the analysis process, and the public information is available while performing existing tasks (collecting online SNS information).
+Possibility of identifying a specific individual through information (eg, information posted by individuals on social media, travel reviews, etc.)
+has exist
+(Solution) ○○ Hotel deletes or deletes special information (best room) included in the pseudonym information provided.
+pseudonymization, etc. must be performed
+16
+I. Risk analysis by item
+The risk level of each item of the extracted result information should be analyzed
+-dog
+It can be used as a reference for determining the method and level of pseudonymization by classifying items with high probability of recognition.
+Analyze the level of risk by item
+identification information
++ Identifiable information
+Judgment considering the processing (provided) environment and the scale and specificity of information*
+* Scale (size of records, items), specificity (level of accuracy of information)
+<Information that is highly personally identifiable (example)>
+identification information
+high
+Identification information (passport number, alien registration number, driver's license number), name, phone number, e-mail
+For the purpose of external linkage (identification) such as address, medical record number, health insurance number, vehicle registration number, etc.
+generated information, etc.
+identifiable information
+castle
+of pseudonymous information controllers such as star, age (age), nationality, blood type, height, weight, occupation, location information, etc.
+Information that can personally identify you*
+* “Can an individual be recognizable” refers to the person who processes the information (in relation to the provision of information,
+It should be judged based on the person who received it)
+special
+this information
+• Deviating from the overall pattern of the nation's oldest, tallest, high arrears, and high-paid beneficiaries
+Information that can lead to extreme values
+• With information such as rare surnames, rare blood types, rare eye colors, rare diseases, and rare occupations
+information with unusual values
+17
+Guidelines for the processing of pseudonymous data
+All. Write result report
+The pseudonymous information controller can provide information on pseudonym processing by referring to the processing (provided) environment and risk analysis by item.
+Risk assessment results should be derived
+- If necessary, it is possible to create and manage a review result report such as the following example
+<Report on pseudonymization review results (example)>
+pseudonym information
+Purpose of use
+• The real estate market price information owned by Company A is processed under a pseudonym and provided to Organization B to calculate real estate rental income and
+Conducting research to identify local market data
+pseudonym information
+Item
+• Owner's name, contact information, house category, city and city, city, county, eup, myeon, dong, lot number, exclusive area, supply area, jeonse, deposit, monthly rent
+※ If you cannot list items, you can use ‘Attachment Sheet’
+processing (provided)
+environmental review
+by item
+risk
+analysis
+processing environment
+• Provision of a specific third party (institution B)
+- Company A provides pseudonym information through contract with organization B
+offer
+recipient's
+Environment
+• The institution receiving pseudonymous information does not have any other (personal) information related to real estate.
+of the recipient
+protection level
+• Organization B has acquired the ISMS certification for the pseudonymous information processing system and is responsible for internal management.
+Administrative and technical protection measures are being implemented through
+• ‘Owner’s name’ and ‘Contact number’ are identification information,
+'Lot number' is identifiable information, and 'market price information (jeonse, deposit, monthly rent)' has the possibility of special information.
+• The research corresponds to the case of using pseudonymous information through the conclusion of a contract with a specific third party.
+Low possibility of re-identification of pseudonymous information through separate (personal) information
+final review
+Opinion*
+- ‘Owner’s name’ and ‘contact information’ are necessary to delete or achieve the purpose, unless it is absolutely necessary for the purpose of use.
+In one case, pseudonymization is required
+- In the case of ‘Lot number’ and ‘Market information (jeonse, deposit, monthly rent)’, it is possible to re-identify it through other (public information*, etc.) information.
+If it is necessary to delete or achieve the purpose because of the last name, pseudonymization is required
+• Other information is not likely to be re-identified and is considered necessary to achieve the purpose.
+not
+※ The final review opinion can be requested for advice and preparation by using an external expert.
+18
+3. Defining the level of pseudonymization
+The pseudonymous information controller is responsible for achieving the purpose of using pseudonymous information based on the ‘Pseudonymization Review Result Report’.
+The level of pseudonymization should be defined in consideration of the required level
+For pseudonymization techniques, etc., see ‘[Note 1] Techniques and examples for pseudonymization of personal information’
+<Definition table of pseudonymization level (example)>
+Define the level of pseudonymization for personal information analyzed in the ‘Pseudonymization Review Result Report’
+turn
+Item name
+One
+Owner's name
+2
+Contact
+3
+number
+4
+charter
+5
+deposit
+6
+monthly
+7
+Housing Classification
+8
+try
+9
+city, county
+10
+Eup-myeon-dong
+11
+dedicated area
+12
+supply area
+processing level
+remark
+- pseudonymization
+(Encryption: SHA2+Salt)
+-small
+Yuja's name and contact information for future time series analysis
+Perform pseudonymization
+- Pseudonymization (deletion)
+- The detailed lot number information is not necessary for the purpose of analysis
+- Other technologies
+(Rounding: 10,000 won units)
+- Only the amount in 10,000 won is required for analysis purposes
+- no processing
+※ Filled out because there are many items
+In this difficult case, please
+Present only a list using
+- Write items that do not process
+19
+Guidelines for the processing of pseudonymous data
+4. 가명처리 수행
+‘가명처리 수준 정의표’를 기반으로 가명처리를 수행하여야 함
+<가명처리 절차 (예시)>
+원본정보
+소유자
+연락처
+명
+주택
+법정동코드 시도
+구분
+시군구 읍면동 지번 건물명
+전세 보증금 월세 전용 공급
+(천원) (천원) (천원) 면적 면적
+김철수
+서울
+대우
+090-1234아파트 2635010700
+동작구 사당동 1388-4
+특별시
+마리나
+5678
+이영희
+대전
+090-2468- 오피
+3611011000
+광역시
+3579 스텔
+푸르
+지오 81,250
+시티
+56.45 24.32
+박민호
+부산 해운대
+090-9876아파트 4311410100
+우동 111-13 평화 125,000
+광역시 구
+5432
+100.00 84.00
+서구 둔산동
+추출
+656
+25,000 750 104.00 84.00
+추출
+추출
+(대상선정)
+- 목적 : 부동산 임대소득 계산 및 인근지역 시세자료 파악을 위한 연구
+소유자
+주택
+연락처
+명
+구분
+시도
+시군구
+읍면동
+지번
+전세
+(천원)
+보증금 월세 전용 공급
+(천원) (천원) 면적 면적
+김철수
+090-1234아파트
+5678
+서울
+특별시
+동작구
+사당동
+1388-4
+25,000
+이영희
+090-2468- 오피스
+텔
+3579
+대전
+광역시
+서구
+둔산동
+656
+81,250
+-
+
+56.45 24.32
+박민호
+090-9876아파트
+5432
+부산
+광역시
+해운대구
+우동
+111-13
+125,000
+100.00 84.00
+750 104.00 84.00
+(위험도 측정)
+- 처리환경 검토와 개인정보 항목별 위험도 분류에 따라 가명처리 수준 정의
+처리환경
+분류
+A사의 부동산 시세정보를 B기관에 제공(계약)
+소유자명, 연락처는 개인정보로 분류하고 가명
+처리(암호화)
+제공되는 항목의 ‘지번’의 경우 등기부열람을
+통해 특정개인식별 가능성 존재
+20
++
+구체적인 지번은 분석목적에 관계 없어 삭제
+조치및 시세정보는분석에필요한 단위(만원)로
+가명처리
+​식별정보
+식별가능정보
+소유자
+명
+연락처
+주택
+구분
+시도
+시군구
+읍면동
+지번
+전세
+(천원)
+보증금
+(천원)
+월세
+(천원)
+전용 공급
+면적 면적
+김철수
+090-1234아파트
+5678
+서울
+특별시
+동작구
+사당동
+1388-4
+25,000
+750
+104.00 84.00
+이영희
+대전
+090-2468오피스텔
+광역시
+3579
+서구
+둔산동
+656
+81,250
+56.45 24.32
+박민호
+090-9876아파트
+5432
+우동
+111-13
+125,000
+100.00 84.00
+부산
+해운대구
+광역시
+(소유자 명, 연락처)
++Salt
+암호화
+삭제
+라운딩
+가명처리
+시도
+시군구 읍면동
+전세
+(천원)
+보증금
+(천원)
+월세
+(천원)
+전용 공급
+면적 면적
+wd4e85D2C1qe89rwqe 아파트
+서울
+특별시
+동작구 사당동
+25,000
+800
+104.00 84.00
+r5w1e2SXzi4wd64qwz 오피스텔
+대전
+광역시
+81,300
+56.45 24.32
+ghe6W15Z5ax4Qe24jx 아파트
+부산
+광역시
+125,000
+100.00 84.00
+ID
+주택
+구분
+서구
+둔산동
+해운대구 우동
+가명처리 단계에서 생성되는 추가정보는 가명정보와 분리하여 별도로 저장하여야함
+- 추가정보의 분리보관은 [Ⅴ. 가명정보의 기술적 보호조치](p.28)를 참조할 수 있음
+※ 추가정보는 원칙적으로 파기하되, 필요한 경우 분리보관을 할 수 있음
+21
+​가명정보 처리 가이드라인
+단계3
+적정성 검토 및 추가 가명처리
+[단계2. 가명처리]에서 작성한 ‘가명처리 수준 정의표’의 기준에 따라 적절히 가명처리가
+되었는지 확인하고, 가명정보의 활용목적을 달성할 수 있는지와 재식별 가능성이 없는지를
+검토
+정성 검토 사항
+적
+가명정보의 적정성 검토는 개인정보처리자의 판단에 따라 외부전문가로 구성된 적정성
+평가단을 구성하여 검토할 수 있음
+(가명처리의 적정성) 가명정보처리자가 정의한 가명처리 수준에 따라 적절히 가명처리가
+되었는지 확인
+※ 가명정보 항목 전체를 검토하여 가명처리가 제대로 되었는지 확인(특히 대용량의 정보의
+경우 중간에 처리되지 않은 부분이 있을 수 있으므로 확인 필요)
+(목적달성 가능성 검토) 생성한 가명정보가 초기 가명정보 활용 목적을 달성할 수 있는지
+여부 검토
+※ 생성한 가명정보가 활용 목적을 달성하지 못하는 경우 [단계2. 가명처리] 절차를 재수행하여
+목적을 달성할 수 있는 수준으로 가명처리 수준을 다시 설계하여 처리
+22
+​
+
+가 가명처리
+추
+(특이정보 처리) 항목별 위험도를 바탕으로 가명처리한 경우에도 ‘특이정보’를 통해
+개인식별이 가능할 수 있으므로 추가로 가명처리를 할 필요가 있음
+<특이정보 (예시)>
+사례1) 국회의원 같이 특정 지역에서 소수만 존재하는 직업의 경우 지역구 국회의원 명단
+등을 통해 개인이 식별될 수 있음
+※ (가명처리 예시) 특정 지역을 인접 지역과 병합* 하거나, 직업을 일반화(정치인)
+* 국가통계기관의 경우 세부 지역단위 통계 시 2천명이 되지 않는 경우 인접 지역에 병합
+사례2) 호텔, 렌터카 등 여행업종에서 보유중인 최고급 객실이용정보, 특정 차량이용정보는
+개인(공인 등)이 SNS등 온라인에 공개하는 정보와 결합되어 개인이 식별될 수 있음
+※ (가명처리 예시) 특정 차량(슈퍼카)의 이름을 일반화(스포츠카)하여 게시하거나, 호텔
+최고급 객실정보를 일반객실 정보 대체
+사례3) 공인이 희귀질병을 앓고 있는 경우 해당 병명만으로 개인이 식별될 수 있음
+※ (가명처리 예시) 희귀질병을 일반화(일반 질병명)하거나, 직업을 일반화(회사원)
+※ 특이정보 처리사례는 [참고2] 특이정보 정의 및 처리사례 참고
+단계4
+활용 및 사후관리
+명정보처리자는 누구든지 특정 개인을 알아보기 위한 목적으로 가명정보를 처리*해서는 안
+가
+됨 (법 제28조의5제1항)
+- 가명정보 처리 중 우연히 특정 개인이 식별되는 경우 등 목적성이 없는 경우는 해당되지 않음
+명정보처리자는 가명정보 처리 과정에서 개인식별 가능성이 증가하는지 여부 등을 지속적으로
+가
+모니터링 하여 안전하게 처리하여야 함(법 제28조의5제2항)
+- 특정 개인이 식별되는 경우 즉시 처리중지, 회수, 파기 등 위와 같은 위험을 제거하기 위해
+적절한 조치를 수행하여야 함
+명정보는 추가정보의 분리 보관, 접근권한의 분리, 기록 작성/보관 및 공개의 의무를
+가
+준수하여야 하며, 구체적인 사항은 [Ⅴ.가명정보의 안전한 관리] 참조할 수 있음
+23
+​가명정보 처리 가이드라인
+Ⅳ
+24
+가명정보 결합
+​25
+​가명정보 처리 가이드라인
+Ⅴ
+가명정보의 안전한 관리
+개인정보처리자가 가명정보를 처리하는 경우에는 원래의 상태로 복원하기 위한 추가정보를
+별도로 분리하여 보관·관리하여야 하고, 가명정보가 분실·도난·유출·위조·변조 또는
+훼손되지 않도록 안전성 확보에 필요한 관리적·기술적·물리적 보호조치를 적용하여야 함
+1
+가명정보의 관리적 보호조치
+① 개인정보처리자는 가명정보 및 추가정보를 안전하게 관리하기 위한 내부 관리계획을 수립·
+시행하여야 함 (시행령 제29조의5)①항1호
+내부 관리계획에는 추가정보의 별도 분리 보관 및 이에 대한 접근권한 분리에 대한 사항
+등을 포함하여야 함
+<가명정보처리 내부 관리계획에 포함될 사항 (예시)>
+end. 가명정보 또는 추가정보의 관리책임자 지정에 관한 사항
+I. 추가정보 별도 분리 보관
+All. 가명정보 또는 추가정보의 안전성확보조치에 관한 사항
+라. 가명정보처리자의 교육에 관한 사항
+마. 가명정보 처리 기록 작성 및 보관에 관한 사항
+바. 개인정보 처리방침 공개에 관한 사항
+사. 가명정보의 재식별 금지에 관한 사항
+※ 상기 내용에 포함되지 않은 항목은 ‘개인정보 안전성 확보조치’ 해설서 참조
+가명정보처리자는 내부 관리계획에서 정한 사항에 중요한 변경이 있는 경우 이를 즉시
+반영하여 내부관리계획을 수정·시행하고, 관리책임자는 연 1회 이상 내부 관리계획 이행
+실태를 점검·관리 하여야 함
+26
+​② 수탁자 관리·감독의 의무 (시행령 제28조)
+가명정보 처리업무를 외부에 위탁하는 경우, 가명정보도 개인정보에 해당하므로
+법 제26조에 따라 위탁업무 수행 목적 외 가명정보의 처리 금지에 관한 사항 등을
+포함한 문서를 작성하여야 함
+또한, 위탁하는 업무의 내용과 가명정보 처리업무를 위탁받아 처리하는 자를
+공개하여야하며, 업무 위탁으로 인하여 정보주체의 가명정보가 분실·도난 ·유출·
+위조·변조·훼손 또는 재식별되지 아니하도록 수탁자를 교육하고, 처리현황 점검
+등 수탁자가 가명정보를 안전하게 처리하는지를 감독하여야 함
+<가명정보 처리업무 위탁계약서에 포함되어야 할 사항 (예시)>
+구분
+위탁계약서에 포함되어야 할 사항
+재식별 금지
+가명정보를 제공받거나 처리를 위탁 받은 사업자 등은 다른 정보와 결합을 통해 재식별
+시도가 금지됨을 명시
+재제공 또는
+재위탁 제한
+가명정보를 제공하거나 처리를 위탁하는 자는 재제공 또는 재위탁 가능 범위를 정하여
+계약서에 명시
+재식별 위험
+발생시 통지
+가명정보가 재식별 되었거나, 재식별 가능성이 높아지는 상황이 발생한 경우에는
+가명정보 처리 중지 및 위탁자에게 통지 의무 명시
+<가명정보 처리업무 위탁계약서 특수조건 반영 사례 (예시)>
+제 조(재식별 금지)
+① ○은 △으로부터 제공받은 가명정보를 ××의 목적으로 안전하게 이용하고, 이를
+이용해서 개인을 재식별하기 위한 어떠한 행위도 하여서는 아니 된다.
+② △으로부터 제공받은 정보의 재위탁은 원칙적으로 금지한다. 다만 불가피한 사유로
+이를 재위탁하고자 하는 경우에는 사전에 △의 동의를 얻어야 하며, 이 경우 ○는 재식별
+방지를 위해 필요한 조치를 하여야 한다.
+③ ○은 △으로부터 제공받은 정보가 재식별 되거나 재식별 가능성이 현저하게 높아지는
+상황이 발생하면 즉시 해당 정보의 처리를 중단하고 관련 사항을 △에게 알리며, 필요한
+협조를 하여야 한다.
+④ ○은 제1항에서 제3항까지의 사항을 이행하지 않아 발생하는 모든 결과에 대해 형사
+및 민사상 책임을 진다.
+※ 가명정보를 제공받은 기업은 “○”, 제공한 기업은 “△”로 표시
+27
+​가명정보 처리 가이드라인
+가명정보의 기술적 보호조치
+2
+명정보처리자는 추가정보의 분리 보관, 접근권한 관리, 접근통제 및 접속기록의 보관 및 점검
+가
+등의 기술적 보호조치를 하여야 함
+① 추가정보의 분리 보관 (시행령 제29조의5)①항2호
+추가정보는 가명정보와 분리하여 별도로 저장·관리하고 가명정보와 불법적으로 결합되어
+재식별에 악용되지 않도록 접근 권한을 최소화하고 접근통제를 강화하는 등 필요한 조치를
+적용하여야 함
+- 추가정보와 가명정보는 분리하여 보관하는 것을 원칙으로 하고, 불가피한 사유로
+물리적인 분리가 어려운 경우 DB 테이블 분리 등 논리적으로 분리*하는 것도 가능 함
+* 논리적으로 분리할 경우 엄격한 접근통제를 적용하여야 함
+※ 추가정보의 활용 목적달성 및 불필요한 경우에는 추가정보를 파기할 수 있으며, 이 경우
+파기에 대한 기록을 작성하고 보관할 필요가 있음
+② 접근권한의 분리 (시행령 제29조의5)①항3호
+가명정보처리자는 가명정보 또는 추가정보에 접근할 수 있는 담당자를 가명정보 처리 업무
+목적달성에 필요한 최소한의 인원으로 엄격하게 통제하여야 하며, 접근권한도 업무에 따라
+차등부여 하여야 함
+- 가명정보를 취급할 자를 추가로 둘 여력이 없는 경우 등 접근권한의 분리가 어려운
+정당한 사유가 있는 경우*에는 업무 수행에 필요한 최소한 접근 권한 부여 및 접근권한의
+보유 현황을 기록으로 보관하는 등 접근권한을 관리ㆍ통제하여야 함
+* 「소상공인 보호 및 지원에 관한 법률」 제2조에 따른 소상공인 등
+- 가명정보취급자가 가명처리하는 시스템(이하 ‘가명정보처리시스템’) 외의 특정 개인을
+알아 볼 수 있는 다른 개인정보처리시스템에 접근할 수 없도록 권한을 제한할 필요가
+있음
+전보 또는 퇴직 등 인사이동이 발생하여 가명정보취급자가 변경되었을 경우 지체 없이
+가명정보를 처리하는 시스템의 접근 권한을 변경 또는 말소하여야 함
+가명정보처리시스템의 접근 권한 부여, 변경 또는 말소에 대한 내역을 기록하고, 그 기록을
+최소 3년간 보관하여야 함
+28
+​
+
+가명정보처리시스템에 접속할 수 있는 사용자계정을 발급하는 경우 가명정보취급자 별로
+사용자계정을 발급하여야 하며, 다른 가명정보취급자 및 개인정보취급자와 공유되지
+않도록 하여야 함
+가명정보취급자가 안전한 비밀번호를 설정하여 이행할 수 있도록 비밀번호 작성규칙을
+수립하여 적용하여야 함
+권한 있는 가명정보취급자만이 가명정보처리시스템에 접근할 수 있도록 계정정보 또는
+비밀번호를 일정 횟수 이상 잘못 입력한 경우 가명정보처리시스템에 대한 접근을 제한하는
+등 필요한 기술적 조치를 하여야 함
+③ 가명정보 기록 작성·보관 및 공개
+가명정보처리자는 가명정보의 처리목적, 가명처리한 개인정보 항목, 가명정보의 이용내역,
+제3자 제공 시 제공받는 자를 작성하여 보관하여야 함(시행령 제29조의5)②
+가명정보처리자는 가명정보 처리와 관련하여 아래와 같은 내용을 개인정보 처리방침에
+포함하여 공개하여야 함(법 제30조)
+<가명정보 활용 관련 개인정보처리방침에 포함될 사항 (예시)>
+1. 가명정보 처리 목적
+2. 가명정보 처리 및 보유 기간(선택)
+3. 가명정보 제3자 제공에 관한 사항(해당되는 경우에만 정한다)
+4. 가명정보 처리의 위탁에 관한 사항(해당되는 경우에만 정한다)
+5. 처리하는 가명정보의 항목
+6. 법 제28조의4(가명정보에 대한 안전조치의무 등)에 따른 가명정보의 안전성 확보 조치에
+관한 사항
+29
+​가명정보 처리 가이드라인
+3
+가명정보의 물리적 보호조치
+명정보처리자는 가명정보 또는 추가정보의 안전한 관리를 위하여 물리적 안전조치를
+가
+취하여야 함
+가명정보 또는 추가정보가 전산실이나 자료보관실에
+접근으로부터 보호하기 위하여 출입 통제 등의 절차를
+또한 가명정보 또는 추가정보가 보조저장매체 등에
+안전한 장소에 보관하여야 하며, 이러한 보조저장매체
+보안대책을 마련하여야 함
+
+보관되어 있는 경우에는 비인가자의
+수립하여야 함
+저장되어 있는 경우 잠금장치가 있는
+등에 대한 반·출입 통제를 위한
+
+30
+​참고자료
+1. 개인정보 가명처리 기술 및 예시
+2. 특이정보 정의 및 처리사례
+3. 가명정보 내부결합 절차
+31
+​가명정보 처리 가이드라인
+참고 1
+개인정보 가명처리 기술 및 예시
+개인정보의 가명·익명처리 기술 종류
+※ 아래 분류는 이해를 돕기 위해 2016년 개인정보 비식별조치 가이드라인, ISO/IEC 20889, 그리고
+EU ENISA에서 발간한 보고서1) 등 국내·외 자료들을 참고하여 작성했으며 표준이 아닙니다.
+분류
+기술
+개인정보
+삭제
+삭제기술
+세부기술
+삭제
+(Suppression)
+•원본정보에서 개인정보를 단순 삭제
+부분삭제
+(Partial suppression)
+•개인정보 전체를 삭제하는 방식이 아니라 일부를 삭제
+행 항목 삭제
+(Record suppression)
+•다른 정보와 뚜렷하게 구별되는 행 항목을 삭제
+로컬 삭제
+(Local suppression)
+•특이정보를 해당 행 항목에서 삭제
+마스킹
+(Masking)
+• 특정 항목의 일부 또는 전부를 공백 또는 문자(‘ * ’, ‘ _ ’ 등
+이나 전각 기호)로 대체
+총계처리
+(Aggregation)
+• 평균값, 최댓값, 최솟값, 최빈값, 중간값 등으로 처리
+부분총계
+(Micro aggregation)
+• 정보집합물 내 하나 또는 그 이상의 행 항목에 해당하는 특
+정 열 항목을 총계처리. 즉, 다른 정보에 비하여 오차 범위
+가 큰 항목을 평균값 등으로 대체
+일반 라운딩
+(Rounding)
+• 올림, 내림, 반올림 등의 기준을 적용하여 집계 처리하는 방
+법으로, 일반적으로 세세한 정보보다는 전체 통계정보가 필
+요한 경우 많이 사용
+랜덤 라운딩
+(Random rounding)
+• 수치 데이터를 임의의 수인 자리 수, 실제 수 기준으로 올림
+(round up) 또는 내림(round down)하는 기법
+제어 라운딩
+(Controlled rounding)
+• 라운딩 적용 시 값의 변경에 따라 행이나 열의 합이 원본의
+행이나 열의 합과 일치하지 않는 단점을 해결하기 위해 원
+본과 결과가 동일하도록 라운딩을 적용하는 기법
+상하단코딩
+(Top and bottom
+coding)
+• 정규분포의 특성을 가진 데이터에서 양쪽 끝에 치우친 정
+보는 적은 수의 분포를 가지게 되어 식별성을 가질 수 있음
+• 이를 해결하기 위해 적은 수의 분포를 가진 양 끝단의 정
+보를 범주화 등의 기법을 적용하여 식별성을 낮추는 기법
+통계도구
+개인정보
+일부 또는
+전부 대체
+일반화
+(범주화)
+기술
+설명
+1) EU ENISA(European Union Agency for Network and Information Security), Recommendations on shaping technology
+according to GDPR provisions, An overview on data pseudonymisatin, November 2018
+EU ENISA(European Union Agency for Network and Information Security), Pseudonymisation and best practices,
+November 2019
+32
+​일반화
+(범주화)
+기술
+개인정보
+일부 또는
+전부 대체
+로컬 일반화
+(Local generalization)
+• 전체 정보집합물 중 특정 열 항목(들)에서 특이한 값을 가
+지거나 분포상 의 특이성으로 인해 식별성이 높아지는 경
+우 해당 부분만 일반화를 적용하여 식별성을 낮추는 기법
+범위 방법
+(Data range)
+• 수치 데이터를 임의의 수 기준의 범위(range)로 설정하는
+기법으로, 해당 값의 범위 또는 구간(interval)으로 표현
+문자데이터 범주화
+(Categorization of
+character data)
+• 문자로 저장된 정보에 대해 보다 상위의 개념으로 범주화
+하는 기법
+양방향 암호화
+(Two-way encryption)
+• 특정 정보에 대해 암호화와 암호화된 정보에 대한 복호화
+가 가능한 암호화 기법
+• 암호화 및 복호화에 동일 비밀키로 암호화하는 대칭키
+(Symmetric key) 방식과 공개키와 개인키를 이용하는 비대
+칭키(Asymmetric key) 방식으로 구분
+일방향 암호화 - 암
+호학적 해시함수
+(One-way encryption - Cryptographic
+hash function)
+• 원문에 대한 암호화의 적용만 가능하고 암호문에 대한 복
+호화 적용이 불가능한 암호화 기법
+• 키가 없는 해시함수(MDC, Message Digest Code), 솔트
+(Salt)가 있는 해시함수, 키가 있는 해시함수(MAC, Message Authentication Code)로 구분
+• 암호화(해시처리)된 값에 대한 복호화가 불가능하고, 동일
+한 해시 값과 매핑(mapping)되는 2개의 고유한 서로 다른
+입력값을 찾는 것이 계산상 불가능하여 충돌 가능성이 매
+우 적음
+순서보존 암호화
+(Order-preserving
+encryption)
+• 원본정보의 순서와 암호값의 순서가 동일하게 유지되는 암
+호화 방식
+• 암호화된 상태에서도 원본정보의 순서가 유지되어 값들
+간의 크기에 대한 비교 분석이 필요한 경우 안전한 분석
+이 가능
+형태보존 암호화
+(Format-preserving
+encryption)
+• 원본 정보의 형태와 암호화된 값의 형태가 동일하게 유지
+되는 암호화 방식
+• 원본 정보와 동일한 크기와 구성 형태를 가지기 때문에 일
+반적인 암호화가 가지고 있는 저장 공간의 스키마 변경 이
+슈가 없어 저장 공간의 비용 증가를 해결할 수 있음
+• 암호화로 인해 발생하는 시스템의 수정이 거의 발생하지
+않아 토큰화, 신용카드 번호의 암호화 등에서 기존 시스템
+의 변경 없이 암호화를 적용할 때 사용
+동형 암호화
+(Homomorphic
+encryption)
+• 암호화된 상태에서의 연산이 가능한 암호화 방식으로 원
+래의 값을 암호화한 상태로 연산 처리를 하여 다양한 분
+석에 이용가능
+• 암호화된 상태의 연산값을 복호화 하면 원래의 값을 연산
+한 것과 동일한 결과를 얻을 수 있는 4세대 암호화 기법
+다형성 암호화
+(Polymorphic encryption)
+• 가명정보의 부정한 결합을 차단하기 위해 각 도메인별로
+서로 다른 가명처리 방법을 사용하여 정보를 제공하는
+방법
+• 정보 제공 시 서로 다른 방식의 암호화된 가명처리를 적용
+함에 따라 도메인별로 다른 가명정보를 가지게 됨
+잡음 추가
+(Noise addition)
+• 개인정보에 임의의 숫자 등 잡음을 추가(더하기 또는 곱하
+기)하는 방법
+암호화
+무작위화
+기술
+33
+​가명정보 처리 가이드라인
+개인정보
+일부 또는
+전부 대체
+무작위화
+기술
+가명·익명처리를 위한
+다양한 기술
+(기타 기술)
+34
+순열(치환)
+(Permutation)
+• 분석 시 가치가 적고 식별성이 높은 열 항목에 대해 대상 열
+항목의 모든 값을 열 항목 내에서 무작위로 순서를 변경하
+여 식별성을 낮추는 기법
+• 개인정보를 다른 행 항목의 정보와 무작위로 순서를 변경
+하여 전체정보에 대한 변경 없이 특정 정보가 해당 개인과
+연결되지 않도록 하는 방법
+토큰화
+(Tokenisation)
+• 개인을 식별할 수 있는 정보를 토큰으로 변환 후 대체함으
+로써 개인정보를 직접 사용하여 발생하는 식별 위험을 제
+거하여 개인정보를 보호하는 기술
+• 토큰 생성 시 적용하는 기술은 의사난수생성 기법이나 양
+방향 암호화, 형태보존 암호화 기법을 주로 사용
+(의사)난수생성기
+((P)RNG, (Pseudo)
+Random Number
+Generator)
+• 주어진 입력값에 대해 예측이 불가능하고 패턴이 없는 값
+을 생성하는 메커니즘으로 임의의 숫자를 개인정보와 대체
+표본추출
+(Sampling)
+• 데이터 주체별로 전체 모집단이 아닌 표본에 대해 무작위
+레코드 추출 등의 기법을 통해 모집단의 일부를 분석하여
+전체에 대한 분석을 대신하는 기법
+해부화
+(Anatomization)
+• 기존 하나의 데이터셋(테이블)을 식별성이 있는 정보집합
+물과 식별성이 없는 정보집합물로 구성된 2개의 데이터셋
+으로 분리하는 기술
+재현데이터
+(Synthetic data)
+• 원본과 최대한 유사한 통계적 성질을 보이는 가상의 데이
+터를 생성하기 위해 개인정보의 특성을 분석하여 새로운
+데이터를 생성하는 기법
+동형비밀분산
+(Homomorphic
+secret sharing)
+• 식별정보 또는 기타 식별가능정보를 메시지 공유 알고리즘
+에 의해 생성된 두 개 이상의 쉐어(share)*로 대체
+*기밀사항을 재구성하는데 사용할 수 있는 하위 집합
+차분 프라이버시
+(Differential privacy)
+• 특정 개인에 대한 사전지식이 있는 상태에서 데이터베이스
+질의(Query)에 대한 응답 값으로 개인을 알 수 없도록 응답
+값에 임의의 숫자 잡음(Noise)을 추가하여 특정 개인의 존
+재 여부를 알 수 없도록 하는 기법
+• 1개 항목이 차이나는 두 데이터베이스간의 차이(확률분포)
+를 기준으로 하는 프라이버시 보호 모델
+​
+
+개인정보의 가명·익명처리 예시
+※ 아래 모든 예시는 각 기법의 적용에 대한 예시이며 전체 데이터에 대한 가명·익명처리에 대한
+예시가 아닙니다.
+① 개인정보 삭제
+- 삭제기술 : 선택된 항목을 제거하는 기술
+❶ 삭제(Suppression)
+수치형데이터
+문자형데이터
+- 원본정보에서 개인정보를 단순 삭제
+※ 이때 남아 있는 정보 그 자체로도 분석의 유효성을 가져야 함과 동시에 개인을 식별할 수 없어야 하며,
+인터넷 등에 공개되어 있는 정보 등과 결합하였을 경우에도 개인을 식별할 수 없어야 함
+성명
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액
+누적
+포인트
+김철수
+남
+41세 010-6666-8888
+서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222
+부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+광주광역시 서구 금호동
+104,400
+1,604,400
+198,000
+이윤정
+여
+57세 010-3333-4444 전라남도 나주시 빛가람동
+954,800
+3,954,800 20,532,000
+최동욱
+남
+28세 010-5555-6666
+83,600
+세종특별자치시 어진동
+883,600
+400,900
+삭제
+성별
+나이
+통신료
+단말기금액
+누적포인트
+남
+41세
+98,700
+1,198,700
+356,800
+여
+61세
+69,400
+505,400
+203,000
+남
+30세
+104,400
+1,604,400
+198,000
+여
+57세
+954,800
+3,954,800
+20,532,000
+남
+28세
+83,600
+883,600
+400,900
+35
+​가명정보 처리 가이드라인
+❷ 부분삭제(Partial suppression)
+
+수치형데이터
+문자형데이터
+- 개인정보 전체를 삭제하는 방식이 아니라 일부를 삭제
+성명
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액 누적포인트
+김철수
+남
+41세 010-6666-8888 서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222 부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+104,400
+1,604,400
+198,000
+이윤정
+여
+57세 010-3333-4444 전라남도 나주시 빛가람동
+954,800
+3,954,800 20,532,000
+최동욱
+남
+28세 010-5555-6666 세종특별자치시 어진동
+83,600
+광주광역시 서구 금호동
+883,600
+400,900
+삭제
+성명
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액 누적포인트
+김
+남
+41세
+8888
+서울특별시 중구
+98,700
+1,198,700
+356,800
+이
+여
+61세
+2222
+부산광역시 북구
+69,400
+505,400
+203,000
+박
+남
+30세
+7777
+광주광역시 서구
+104,400
+1,604,400
+198,000
+이
+여
+57세
+4444
+전라남도 나주시
+954,800
+3,954,800 20,532,000
+최
+남
+28세
+6666
+세종특별자치시
+83,600
+❸ 행 항목 삭제(Record suppression)
+수치형데이터
+883,600
+400,900
+문자형데이터
+- 다른 정보와 뚜렷하게 구별되는 행 항목을 삭제
+- 통계분석에 있어서 전체 평균에 비하여 오차범위를 벗어나는 자료를 제거할 때 사용
+성명
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액 누적포인트
+김철수
+남
+41세 010-6666-8888 서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222 부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+104,400
+1,604,400
+198,000
+이윤정
+여
+57세 010-3333-4444 전라남도 나주시 빛가람동
+954,800
+3,954,800 20,532,000
+최동욱
+남
+28세 010-5555-6666 세종특별자치시 어진동
+83,600
+광주광역시 서구 금호동
+883,600
+400,900
+삭제
+성명
+36
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액 누적포인트
+김철수
+남
+41세 010-6666-8888 서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222 부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+광주광역시 서구 금호동
+104,400
+1,604,400
+198,000
+최동욱
+남
+28세 010-5555-6666 세종특별자치시 어진동
+83,600
+883,600
+400,900
+​❹ 로컬 삭제(Local suppression)
+수치형데이터
+문자형데이터
+- 특이정보를 해당 행 항목에서 삭제
+(설명) 다른 누적포인트에 비하여 뚜렷이 구별되는 누적포인트를 항목에서 삭제
+성명
+성별 나이
+핸드폰번호
+주소
+통신료
+단말기금액
+누적
+포인트
+김철수
+남
+41세 010-6666-8888 서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222 부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+104,400
+1,604,400
+198,000
+이윤정
+여
+57세 010-3333-4444 전라남도 나주시 빛가람동
+954,800
+3,954,800 20,532,000
+최동욱
+남
+28세 010-5555-6666 세종특별자치시 어진동
+83,600
+883,600
+400,900
+통신료
+단말기금액
+누적
+포인트
+광주광역시 서구 금호동
+삭제
+성명
+성별 나이
+핸드폰번호
+주소
+김철수
+남
+41세 010-6666-8888 서울특별시 중구 무교동
+98,700
+1,198,700
+356,800
+이영희
+여
+61세 010-9999-2222 부산광역시 북구 화명동
+69,400
+505,400
+203,000
+박민호
+남
+30세 010-2222-7777
+104,400
+1,604,400
+198,000
+이윤정
+여
+57세 010-3333-4444 전라남도 나주시 빛가람동
+954,800
+3,954,800
+최동욱
+남
+28세 010-5555-6666 세종특별자치시 어진동
+83,600
+883,600
+❺ 마스킹(Masking)
+
+수치형데이터
+
+광주광역시 서구 금호동
+400,900
+문자형데이터
+- 특정 항목의 일부 또는 전부를 공백 또는 문자(‘ * ’, ‘ _ ’ 등이나 전각 기호)로 대체
+※ 분류는 개인정보 일부 또는 전부 대체로 분류되지만, 기술적으로 마스킹된 부분은 데이터로써의 가치가
+없어져 일부 문건에서는 삭제로 분류되기도 함
+성명
+성별
+나이
+핸드폰번호
+성명
+성별
+김철수
+남
+41세
+010-6666-8888
+김
+남
+4 세
+
+-
+
+-
+
+이영희
+여
+61세
+010-9999-2222
+이
+여
+6 세
+
+-
+
+-
+
+박민호
+남
+30세
+010-2222-7777
+박
+남
+3 세
+
+-
+
+-
+
+이윤정
+여
+57세
+010-3333-4444
+이
+여
+5 세
+
+-
+
+-
+
+최동욱
+남
+28세
+010-5555-6666
+최
+남
+2 세
+
+-
+
+-
+
+마스킹
+나이
+핸드폰번호
+37
+​가명정보 처리 가이드라인
+② 개인정보 일부 또는 전부 대체
+- 통계도구 : 데이터의 전체 구조를 변경하는 통계적 성질을 가진 기법
+❶ 총계처리(Aggregation)
+수치형데이터
+- 평균값, 최댓값, 최솟값, 최빈값, 중간값 등으로 처리
+※ 단, 데이터 전체가 유사한 특징을 가진 개인으로 구성되어 있을 경우 그 데이터의 대푯값이 특정 개인의
+정보를 그대로 노출시킬 수도 있으므로 주의 필요
+통신료
+통신료
+통신료
+통신료
+통신료
+통신료
+98,700
+262,180
+98,700
+954,800
+98,700
+69,400
+69,400
+262,180
+69,400
+954,800
+69,400
+69,400
+262,180
+104,400
+954,800
+104,400
+262,180
+954,800
+954,800
+954,800
+262,180
+83,600
+954,800
+83,600
+104,400
+954,800
+83,600
+평
+균
+값
+최
+댓
+값
+최
+솟
+값
+69,400
+69,400
+69,400
+통신료
+통신료
+통신료
+통신료
+통신료
+98,700
+104,400
+98,700
+54,800
+83,600
+69,400
+104,400
+69,400
+69,400
+83,600
+104,400
+104,400
+104,400
+954,800
+104,400
+최
+빈
+값
+104,400
+54,800
+104,400
+83,600
+83,600
+정
+렬
+98,700
+104,400
+중
+간
+값
+83,600
+83,600
+83,600
+1-1. 부분총계(Micro Aggregation) 수치형데이터
+- 정보집합물 내 하나 또는 그 이상의 행 항목에 해당하는 특정 열 항목을 총계처리즉, 다른 정보에 비하여
+오차 범위가 큰 항목을 평균값 등으로 대체
+- 동질 집합 내의 특정 항목을 총계처리 하거나 특정 조건에 너무 특이한 값이 있어 개인의 식별 가능성이
+높지만 분석에 꼭 필요한 값인 경우 처리
+(설명) 지역, 나이 기준으로 동질집합을 형성하고, 오차 범위가 큰 소득금액을 동질집합 내 평균값으로 대체
+38
+지역
+나이
+소득금액
+지역
+나이
+소득금액
+서울
+30대
+5,987,900
+서울
+30대
+12,389,067
+서울
+30대
+28,169,700
+서울
+30대
+12,389,067
+서울
+30대
+3,009,600
+서울
+30대
+12,389,067
+나주
+30대
+4,607,300
+나주
+30대
+4,607,300
+나주
+30대
+3,560,800
+나주
+30대
+3,560,800
+나주
+30대
+2,940,100
+나주
+30대
+2,940,100
+세종
+30대
+6,088,400
+세종
+30대
+6,088,400
+세종
+30대
+2,789,200
+세종
+30대
+2,789,200
+세종
+30대
+5,048,300
+세종
+30대
+5,048,300
+​- 일반화기술 : 범주화로도 불리며, 특정한 값을 상위의 속성으로 대체
+❶ 라운딩(Rounding)
+수치형데이터
+1-1. 일반 라운딩
+- 올림, 내림, 반올림 등의 기준을 적용하여 집계 처리하는 방법
+나이
+올림
+내림
+반올림
+33세
+40세
+30세
+30세
+61세
+70세
+60세
+60세
+47세
+50세
+40세
+50세
+66세
+70세
+60세
+70세
+40세
+40세
+40세
+40세
+※ 적절하지 않은 라운딩의 경우 라운딩 후에도 남은 값의 유일성이 남게 될 수 있으며, 적용하는 단위에
+대한 판단이 중요
+금액
+백 단위 라운딩
+금액
+백만 단위 라운딩
+983,116,785
+983,117,000
+983,116,785
+980,000,000
+984,715,591
+984,716,000
+984,715,591
+980,000,000
+
+984,932,383
+984.932.000
+984,932,383
+980,000,000
+985,660,262
+985,660,000
+985,660,262
+990,000,000
+986,047,778
+986,048,000
+986,047,778
+990,000,000
+적절하지 않은 라운딩
+적절한 라운딩
+1-2. 랜덤 라운딩(Random Rounding) 수치형데이터
+- 수치 데이터를 임의의 수인 자리 수, 실제 수 기준으로 올림(round up) 또는 내림(round down)하는 기법
+금액
+금액
+869,250
+만 단위 라운딩
+900,000
+4,559,120
+십만 단위 라운딩
+4,000,000
+13,601,564
+십만 단위 라운딩
+14,000,000
+979,118
+만 단위 라운딩
+900,000
+122,848,878
+백만 단위 라운딩
+120,000,000
+39
+​가명정보 처리 가이드라인
+1-3. 제어 라운딩(Controlled rounding) 수치형데이터
+- 라운딩 적용 시 값의 변경에 따라 행이나 열의 합이 원본의 행이나 열의 합과 일치하지 않는 단점을
+해결하기 위해 원본과 결과가 동일하도록 라운딩을 적용하는 기법
+※ 컴퓨터 프로그램으로 구현하기 어렵고 복잡한 통계표에는 적용하기 어려우며, 해결할 수 있는 방법이
+존재하지 않을 수 있어 아직 실무에서는 잘 사용하지 않음
+(설명) 나이에 대한 평균 분석 시 원본의 경우 평균이 51세가 되나 일반 라운딩을 적용한 경우 평균이 50세가 되어
+결과가 다르게 되고, 이에 일부 값을 다르게 라운딩(제어)하여 평균 나이가 원본과 일치되도록 함
+원본(나이)
+일반 라운딩
+제어 라운딩
+33세
+30세
+30세
+61세
+60세
+60세
+50세
+50세
+50세
+72세
+70세
+70세
+43세
+40세
+40세
+44세
+40세
+50세
+23세
+20세
+20세
+67세
+70세
+70세
+68세
+70세
+70세
+49세
+50세
+50세
+평균 : 51세
+평균 : 50세
+평균 : 51세
+합계 : 510
+합계 : 500
+합계 : 510
+❷ 상하단코딩(Top and bottom coding)
+수치형데이터
+- 정규분포의 특성을 가진 데이터에서 양쪽 끝에 치우친 정보는 적은 수의 분포를 가지게 되어 식별성을
+가질 수 있으며, 이를 해결하기 위해 적은 수의 분포를 가진 양 끝단의 정보를 범주화 등의 기법을
+적용하여 식별성을 낮추는 기법
+99.7%
+95%
+68%
+34%
+34%
+13.5%
+0.15%
+13.5%
+2.35%
+2.35%
+-1 SD
+40
+Mean
++1 SD
+0.15%
+​❸ 로컬 일반화(Local generalization)
+수치형데이터
+- 전체 정보집합물 중 특정 열 항목(들)에서 특이한 값을 가지거나 분포상의 특이성으로 인해 식별성이
+높아지는 경우 해당 부분만 일반화를 적용하여 식별성을 낮추는 기법
+(설명) 서울 지역의 30대 중 분포 상 다른 금액에 비해 특이한 값을 동질집합 내 범주화
+※ 특이한 로컬(28,169,700)에만 3,009,600 ~ 28,169,700으로 범주화 할 수 있음
+지역
+나이
+소득금액
+지역
+나이
+소득금액
+서울
+30대
+5,987,900
+서울
+30대
+3,009,600~28,169,700
+서울
+30대
+28,169,700
+서울
+30대
+3,009,600~28,169,700
+서울
+30대
+3,009,600
+서울
+30대
+3,009,600~28,169,700
+나주
+30대
+4,607,300
+나주
+30대
+4,607,300
+나주
+30대
+3,560,800
+나주
+30대
+3,560,800
+나주
+30대
+2,940,100
+나주
+30대
+2,940,100
+세종
+30대
+6,088,400
+세종
+30대
+6,088,400
+세종
+30대
+2,789,200
+세종
+30대
+2,789,200
+세종
+30대
+5,048,300
+세종
+30대
+5,048,300
+❹ 범위 방법(Data range)
+수치형데이터
+- 수치 데이터를 임의의 수 기준의 범위(range)로 설정하는 기법으로, 해당 값의 범위 또는 구간(interval)
+으로 표현
+(예시) 소득 3,300만원을 소득 3,000만원∼4,000만원으로 대체 표기
+❺ 문자데이터 범주화(Categorization of character data)
+- 문자로 저장된 정보에 대해 상위의 개념으로 범주화하는 기법
+품목
+
+문자형데이터
+
+품목
+분유
+육아용품
+기저귀
+육아용품
+젖병
+육아용품
+샤워타올
+육아용품
+욕실화
+육아용품
+41
+​가명정보 처리 가이드라인
+- 암호화 : 정보 가공 시 일정한 규칙의 알고리즘을 적용하여 대체
+❶ 암호화(Encryption)
+수치형데이터
+문자형데이터
+※ 암호화에 따른 세부적인 내용은 한국인터넷진흥원 암호이용활성화 관련 안내서 참조
+1-1. 양방향 암호화(Two-way encryption)
+- 특정 정보에 대해 암호화와 암호화된 정보에 대한 복호화가 가능한 암호화 기법
+- 암호화 및 복호화에 동일한 비밀키로 암호화하는 AES, ARIA 등 대칭키(Symmetric key) 방식과 공개키와
+개인키를 이용하는 RSA 등 비대칭키(Asymmetric key) 방식으로 구분되며, 키(key) 관리에 주의 필요
+1-2. 일방향 암호화 – 암호학적 해시함수(One-way encryption - Cryptographic hash function)
+- 원문에 대한 암호화의 적용만 가능하고 암호문에 대한 복호화 적용이 불가능한 암호화 기법
+- 키가 없는 해시함수(MDC, Message Digest Code), 키가 있는 해시함수(MAC, Message Authentication
+Code), 솔트(Salt)가 있는 해시함수로 구분
+- 암호화(해시처리)된 값에 대한 복호화가 불가능하고, 동일한 해시 값과 매핑(mapping)되는 2개의 고유한
+서로 다른 입력값을 찾는 것이 계산상 불가능하여 충돌 가능성이 매우 적음
+1-3. 순서보존 암호화(Order-preserving encryption)
+- 원본정보의 순서와 암호값의 순서가 동일하게 유지되는 암호화 방식
+- 암호화된 상태에서도 원본정보의 순서가 유지되어 값들 간의 크기에 대한 비교 분석이 필요한 경우
+안전한 분석이 가능
+1-4. 형태보존 암호화(Format-preserving encryption)
+- 원본 정보의 형태와 암호화된 암호값의 형태가 동일하게 유지되는 암호화 방식
+- 원본 정보와 동일한 크기와 구성 형태를 가지기 때문에 일반적인 암호화가 가지고 있는 저장 공간의
+스키마 변경 이슈가 없어 저장 공간의 비용 증가를 해결할 수 있음
+- 암호화로 인해 발생하는 시스템의 수정이 거의 발생하지 않아 토큰화, 신용카드 번호의 암호화 등에서
+기존 시스템의 변경 없이 암호화를 적용할 때 사용
+1-5. 동형 암호화(Homomorphic encryption)
+- 암호화된 상태에서의 연산이 가능한 암호화 방식
+- 원래의 값을 암호화한 상태로 연산 처리를 하여 다양한 분석에 이용가능
+- 암호화된 상태의 연산한 값을 복호화 하면 원래의 값을 연산한 것과 동일한 결과를 얻을 수 있는 4세대
+암호화 기법
+1-6. 다형성 암호화(Polymorphic encryption)
+- 가명정보의 부정한 결합을 차단하기 위해 각 도메인별로 서로 다른 가명처리 방법을 사용하여 정보를
+제공하는 방법
+- 정보 제공 시 서로 다른 방식의 암호화된 가명처리를 적용함에 따라 도메인별로 다른 가명정보를 가지게 됨
+42
+​- 무작위화기술 : 속성의 값을 원래의 값과 다르게 변경
+❶ 잡음 추가(Noise addition)
+수치형데이터
+문자형데이터
+- 개인정보에 임의의 숫자 등 잡음을 추가(더하기 또는 곱하기)하는 방법
+- 지정된 평균과 분산의 범위 내에서 잡음이 추가되므로 원 자료의 유용성을 해치지 않으나, 잡음값은
+데이터 값과는 무관하기 때문에 유효한 데이터로 활용하기 곤란하여, 중요한 종적정보는 동일한 잡음을
+사용해야함 (예시로 입원일자에 +3이라는 노이즈를 추가하는 경우 퇴원일자에도 +3이라는 노이즈를
+부여해야 전체 입원일수에 변화가 없음)
+생년월일
+잡음추가
+잡음추가생년월일
+2011-12-05
++3
+2011-12-08
+2016-08-09
+-2
+2016-08-07
+2009-02-11
+-5
+2009-02-06
+1998-05-27
+-6
+1998-05-21
+1991-06-18
++9
+1991-06-27
+❷ 순열(치환)(Permutation)
+
+수치형데이터
+
+문자형데이터
+- 기존 값은 유지하면서 개인이 식별되지 않도록 데이터를 재배열하는 방법
+- 개인정보를 다른 행 항목의 정보와 무작위로 순서를 변경하여 전체정보에 대한 변경 없이 특정 정보가
+해당 개인과 연결되지 않도록 하는 방법
+※ 데이터의 훼손 정도가 매우 큰 기법으로 무작위로 순서를 변경하는 조건 선정에 주의 필요
+(설명) 원본과 비교하여 평균 분석 시 전체 재배열은 결과가 다르며 동질집합 내 재배열 결과는 동일
+지역
+나이
+소득금액(원본)
+소득금액(전체 재배열)
+소득금액(등질집합 내 재배열)
+서울
+30대
+서울
+30대
+5,987,900
+2,789,200
+3,009,600
+8,169,700
+4,607,300
+5,987,900
+서울
+30대
+3,009,600
+5,987,900
+8,169,700
+나주
+30대
+4,607,300
+2,940,100
+2,940,100
+나주
+30대
+3,560,800
+8,169,700
+4,607,300
+나주
+30대
+2,940,100
+5,048,300
+3,560,800
+세종
+30대
+6,088,400
+3,009,600
+2,789,200
+세종
+30대
+2,789,200
+3,560,800
+5,048,300
+세종
+30대
+5,048,300
+6,088,400
+6,088,400
+원본
+분석결과
+전체 재배열
+분석결과
+등질집합 내
+재배열 분석결과
+지역
+서울
+나주
+세종
+평균소득
+5,722,400
+3,702,733
+4,641,967
+지역
+서울
+나주
+세종
+평균소득
+4,461,467
+5,048,300
+4,219,600
+지역
+서울
+나주
+세종
+평균소득
+5,722,400
+3,702,733
+4,641,967
+43
+​가명정보 처리 가이드라인
+❸ 토큰화(Tokenisation)
+
+수치형데이터
+
+문자형데이터
+- 개인을 식별할 수 있는 정보를 토큰으로 변환 후 대체함으로써 개인정보를 직접 사용하여 발생하는
+개인에 대한 식별 위험을 제거하여 개인정보를 보호하는 기술
+- 토큰 생성 시 적용하는 기술은 의사난수생성 기법이나 일방향 암호화, 순서보존 암호화 기법을 주로 사용
+고객번호
+이름
+성별
+핸드폰번호
+D1304365
+이공재
+남
+010-1234-5678
+유사난수
+생성기
+암호화
+기법
+고객번호
+이름
+성별
+핸드폰번호
+AD921648
+Wzcd88qdp
+ekfhandkcosekrn
+남
+159-6857-6384
+나이 회원등급 연간 이용액
+30세
+2등급
+3,782,459
+형태보존
+암호화
+나이 회원등급 연간 이용액
+30세
+2등급
+❹ (의사)난수생성기((P)RNG, (Pseudo) Random Number Generator)
+
+수치형데이터
+
+3,782,459
+문자형데이터
+- 주어진 입력 값에 대해 예측이 불가능하고 패턴이 없는 값을 생성하는 메커니즘으로 임의의 숫자를
+개인정보에 할당
+※ 난수는 원칙적으로 규칙적인 배열순서가 없는 임의의 수를 의미하며 컴퓨터는 원천적으로 입력에 의한
+처리 결과를 반환하는 것으로 처리의 방법과 입력이 동일하면 항상 동일한 출력이 발생하기 때문에
+완전한 난수의 생성은 불가능
+③ 가명·익명처리를 위한 다양한 기술 (기타 기술)
+❶ 표본추출(Sampling)
+수치형데이터
+문자형데이터
+- 데이터 주체별로 전체 모집단이 아닌 표본에 무작위 레코드 추출 등의 기법을 통해 모집단의 일부를
+분석하여 전체에 대한 분석을 대신하는 기법
+- 확률적 표본추출 방법과 비확률적 표본추출 방법으로 나누어지며, 확률적 표본추출이 통계적 분석에
+많이 사용
+- 확률적 표본추출 : 무작위 표본추출(복원 표본추출, 비 복원 표본추출), 계통적 표본추출, 층화 표본추출,
+집락 표본추출 등
+- 비확률적 표본부출 : 임의 표본추출, 판단 표본추출, 할당 표본추출, 누적 표본추출 등
+44
+​❷ 해부화(Anatomization)
+
+수치형데이터
+
+문자형데이터
+- 기존 하나의 데이터셋(테이블)을 식별성이 있는 정보집합물과 식별성이 없는 정보집합물로 구성된 2개의
+데이터셋으로 분리하는 기술
+Record ID
+이름
+성별
+나이
+월 납입금액
+총 납부금액
+1
+조미선
+F
+33
+817,250
+66,300,000
+2
+홍길병
+M
+61
+4,559,120
+327,700,000
+3
+김영심
+F
+50
+13,601,564
+41,300,000
+4
+이미정
+F
+70
+979,118
+64,600,000
+5
+김경태
+M
+40
+5,501,809
+23,549,000
+6
+유영근
+M
+43
+609,622
+13,900,000
+Record ID
+이름
+성별
+나이
+Record ID
+월 납입금액
+총 납부금액
+1
+조미선
+F
+33
+1
+817,250
+66,300,000
+2
+홍길병
+M
+61
+2
+4,559,120
+327,700,000
+3
+김영심
+F
+50
+3
+13,601,564
+41,300,000
+4
+이미정
+F
+70
+4
+979,118
+64,600,000
+5
+김경태
+M
+40
+5
+5,501,809
+23,549,000
+6
+유영근
+M
+43
+6
+609,622
+13,900,000
+❸ 재현데이터(Synthetic data)
+
+수치형데이터
+
+문자형데이터
+- 원본과 최대한 유사한 통계적 성질을 보이는 가상의 데이터를 생성하기 위해 개인정보의 특성을 분석하여
+새로운 데이터를 생성하는 기법
+※ 원본 데이터 포함 여부에 따라 완전 재현 데이터(Fully Synthetic Data), 부분 재현 데이터(Partially Synthetic
+Data), 하이브리드 재현 데이터(Hybrid Synthetic Data)로 구분
+❹ 동형비밀분산(Homomorphic secret sharing)
+
+수치형데이터
+
+문자형데이터
+- 식별정보 또는 기타 식별가능정보를 메시지 공유 알고리즘에 의해 생성된 두 개 이상의 쉐어(share)*로
+대체
+*기밀사항을 재구성 하는 데 사용할 수 있는 하위 집합
+※ 재식별은 가명·익명처리된 데이터의 쉐어를 소유한 모두가 동의하는 경우만 가능
+❺ 차분 프라이버시(Differential privacy)
+수치형데이터
+문자형데이터
+- 특정 개인에 대한 사전지식이 있는 상태에서 해당정보가 포함된 데이터베이스와 포함되지 않은
+데이터베이스 질의(Query)에 대한 응답 값으로 개인을 알 수 없도록 응답 값에 임의의 숫자 잡음(Noise)
+을 추가하여 특정 개인의 존재 여부를 알 수 없도록 하는 기법
+- 1개 항목이 차이나는 두 데이터베이스간의 차이(확률분포)를 기준으로 하는 프라이버시 보호 모델
+※ 질의응답 값을 확률적으로 일정 크기 이하의 차이를 갖도록 함으로써 차이에 따른 차분 공격 방지
+45
+​가명정보 처리 가이드라인
+참고 2
+특이정보 정의 및 처리사례
+필요성
+개인정보를 가명처리를 통해 특정 개인을 알아볼 수 없게 처리했더라도 ‘특이정보’를 통해
+다른 정보와 쉽게 결합하여 개인을 알아 볼 수 있음
+- 따라서, 특이정보의 유형 등을 살펴보고 가명정보 내 해당 유형의 정보가 존재하고
+있는지 검토할 필요가 있음
+※ 특이정보는 관측된 데이터의 범위에서 많이 벗어난 아주 작은 값이나 아주 큰 값을 의미
+특이정보 사례
+특정 기관의 급여가 2천만원에서 6천만원까지 고루 분포되어 있는데, 일부 고액 급여
+수령자가 발생하는 경우
+특정 직업의 소속인원이 전국에서 약 300명 정도로 추정되는데, 지역에 극소수(1~2인)만
+존재하고 있는 경우
+정보공개 규정에 따라 공개되는 정보에서 특정 나이대가 현저하게 적게 나타나는 경우우
+특이정보 관찰 방법
+정보의 특이정보는 3시그마규칙 또는 도수분포표 등을 이용하여 검토할 수 있음
+- 3시그마 규칙 : 68-95-99.7규칙이라고도 하며, 정보의 분포의 3시그마(표준편차) 범위에
+거의 모든 값들(99.7%)가 들어가는 것을 의미
+- 도수분포표 : 항목에 대한 값을 적당한 범위로 분류하고, 각 범위에 해당하는 수량을
+조사하여 표로 나타내는 것을 의미
+•급여
+•지역, 직업
+직원
+급여(만원)
+
+주소
+직업
+빈도
+나이(세)
+빈도
+직원1
+2,200
+경기
+국회의원
+5
+10~20
+4
+직원2
+3,400
+경기
+국회의원
+5
+20~30
+11
+직원3
+4,600
+강원
+국회의원
+1
+30~40
+21
+직원4
+5,300
+경기
+국회의원
+5
+40~50
+18
+직원5
+10,000
+경기
+국회의원
+5
+50~60
+5
+직원6
+6,700
+경기
+국회의원
+5
+60~70
+1
+※ 3시그마 규칙을 이용 하여 표준편차에
+벗어난 특이정보 검토
+46
+•나이
+※ 지역에 대한 도수분포 (빈도)를
+이용하여 특이정보 검토
+※특
+정 나이에 도수분포(빈도)를 측정
+하여 특이정보 검토
+​
+
+특이정보 처리 사례
+삭제 기법을 활용한 목적별 사용 예시
+- 분석 목적에 해당 정보가 없어도 분석에 크게 영향이 없는 경우에만 가능한 기법, 해당
+특이정보를 삭제하여 개인 식별성을 제거
+end. 로
+컬 삭제(Local suppression) : 일반적으로 특이정보 처리에 많이 사용되는 기법으로
+도수분포표를 활용하여 빈도가 적은 항목을 삭제하여 처리하는 방법
+<로컬삭제 기법 예시>
+나이
+주소
+직업
+월소득
+나이
+주소
+직업
+소득
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+1,200만원
+35
+서울
+변호사
+1,200만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+1,300만원
+35
+경기
+변호사
+1,300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+울릉도
+변호사
+200만원
+35
+Null
+변호사
+200만원
+47
+​가명정보 처리 가이드라인
+I. 행
+삭제(Record suppression) : 특이정보로 인해 개인의 식별가능성이 있는 경우 사용되는
+기법으로 특이정보를 가지고 있는 행 전체를 삭제하여 처리하는 방법
+※ 통계 분석에서 특이정보는 분석 목적을 달성하기보다 분석의 목적을 저해하는 요소로 작용하는
+경우가 있으며, 이 경우 행 삭제 기법이 가장 적절한 기법이 될 수 있음
+<레코드 삭제 기법 예시>
+48
+나이
+주소
+직업
+월소득
+나이
+주소
+직업
+소득
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+1,200만원
+35
+서울
+변호사
+1,200만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+7,300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+200만원
+35
+경기
+변호사
+200만원
+​
+
+통계적 기법의 종류와 목적별 사용 예시
+- 분석 목적에 특이정보를 가지고 있는 해당 정보가 필요한 경우 활용하는 기법으로, 해당
+특이정보를 통계적인 방법을 통해 통계값으로 변경하여 사용
+end. 단
+일 속성으로 대체(Combining a set of attributes into a single attribute) : 숫자형 정보가 아닌
+경우(문자형 등) 주로 사용되는 방법으로 분류군의 상위로 묶어 처리하는 방법
+※ 특정한 직업이 희귀하여 개인의 식별이 가능한 경우 상위의 분류로 변경하여 사용함으로
+희귀성을 제거
+<단일속성 대체 예시>
+나이
+주소
+직업
+월소득
+나이
+주소
+직업
+소득
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+판사
+1,200만원
+35
+서울
+법조인
+1,200만원
+35
+경기
+검사
+800만원
+35
+경기
+법조인
+800만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+1,300만원
+35
+경기
+변호사
+1,300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+200만원
+35
+경기
+변호사
+200만원
+49
+​가명정보 처리 가이드라인
+I. 로
+컬 일반화(Local generalization) : 선택한 행에서 일부 특정 값을 일반화하여 활용하는
+기법으로, 다른 행의 속성값은 수정하지 않고 희귀 값을 가진 속성값만 처리하여 사용
+<로컬 일반화(상단 코딩) 기법 예시>
+50
+나이
+주소
+직업
+월소득
+나이
+주소
+직업
+소득
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+600만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+500만원
+35
+서울
+변호사
+700만원
+35
+서울
+변호사
+700만원
+36
+서울
+변호사
+1,200만원
+36
+서울
+변호사
+1,200만원
+36
+경기
+변호사
+800만원
+36
+경기
+변호사
+800만원
+36
+경기
+변호사
+600만원
+36
+경기
+변호사
+600만원
+36
+경기
+변호사
+1,300만원
+36
+경기
+변호사
+1,300만원
+37
+경기
+변호사
+300만원
+37
+경기
+변호사
+300만원
+…
+…
+…
+
+…
+…
+…
+…
+…
+84
+경기
+변호사
+800만원
+80초과
+경기
+변호사
+800만원
+88
+경기
+변호사
+200만원
+80초과
+경기
+변호사
+200만원
+All. 부
+분 총계(Micro Aggregation) : 부분 총계는 일부(특정그룹 값의 합)속성에서 정확한 통계적
+값을 확인하는 기법으로, 로컬일반화 보다 일부 속성에서 정확한 값을 알 수 있음
+<부분 총계 기법 예시>
+나이
+주소
+직업
+월소득
+나이
+주소
+직업
+소득
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+700만원
+35
+경기
+변호사
+700만원
+35
+경기
+변호사
+500만원
+35
+경기
+변호사
+500만원
+35
+경기
+변호사
+700만원
+35
+경기
+변호사
+700만원
+35
+경기
+변호사
+6,200만원
+35
+경기
+변호사
+6,750만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+600만원
+35
+경기
+변호사
+7,300만원
+35
+경기
+변호사
+6,750만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+300만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+900만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+800만원
+35
+경기
+변호사
+200만원
+35
+경기
+변호사
+200만원
+51
+​가명정보 처리 가이드라인
+참고 3
+가명정보 내부결합 절차
+개인정보처리자가 보유한 개인정보를 내부에서 가명처리하여 결합을 하는 경우 별도의 외부
+결합전문기관을 거치지 않음
+안전한 결합을 위하여 결합전문기관의 결합 절차*와 유사하게 처리하는 것을 권고
+* 개인정보를 보유한 자가 결합키 생성 및 가명처리를 하고, 제3자가 결합하는 방식
+- 내부결합에 대하여는 법령에서 별도로 정하고 있지 않지만, 결합 과정에서 가명정보가 재식별
+되지 않도록 유의하여야 함
+내부결합 처리 절차
+<가명정보 내부결합 단계별 절차도>
+1단계
+2단계
+3단계
+4단계
+사전준비
+가명처리
+적정성 검토 및
+추가 가명처리
+사후관리
+A
+부서
+결합대상,
+결합키생성항목,
+결합알고리즘 등 선정
+SHA256 등
+해시함수에 Salt 값을
+추가 후 가명처리 및
+결합키 생성
+내부결합
+및 결합키
+삭제
+적정성
+검토
+활용 및 사후관리
+B
+부서
+‘Ⅲ. 가명처리’의 [단계1 (p.12)]에서 각 정보를 결합할 때 결합키로 활용될 공통 항목을 선정하고,
+이 항목을 결합키로 바꾸기 위한 결합알고리즘(암호종류+salt포함)을 선정
+- 선정된 결합알고리즘을 이용하여 결합키 생성
+52
+​<내부결합 결합키 생성 절차 (예시)>
+결합키 생성 항목 정의
+- A부서 : 이름, 휴대전화번호, 이메일, 성별, 주소, 구매상품코드, 금액 등
+- B부서 : 이름, 휴대전화번호, 나이, 성별, 가입상품명, 연체금액 등
+
+양 부서는 SHA256해시함수에 salt값을 추가하여 결합키를 생성하기로 함
+⇨ A, B부서가 동일하게 가지고 있는 이름, 휴대전화전호, 성별을 결합키 항목으로
+선정하고 SHA256+salt값을 적용하여 일방향 암호화 처리
+- 결합키를 제외한 나머지 정보에 대하여 본 가이드라인 ‘Ⅲ. 가명처리’의 [단계1~단계3]을
+참고하여참고하여 가명처리 수행
+- 결합을 수행할 부서에서 결합할 가명정보를 모두 제공받아 결합키를 이용하여 결합 수행
+가명정보를 결합한 정보에 대해 본 가이드라인 ‘Ⅲ. 가명처리’의 [단계3 (p.22)]에 따라 결합된
+가명정보의 처리 수준이 적정한지 판단하고 필요하다고 판단한 경우 추가 가명처리를 수행할
+수 있음
+53
+​가명정보 처리 가이드라인
+2020년 9월 인쇄
+2020년 9월 발행
+발행처 : 개인정보보호위원회
+• 본 가이드 내용의 무단전재를 금하며, 가공·인용할 때는 출처를 밝혀 주시기 바랍니다.
+• 본 가이드는 개인정보보호포털(http://privacy.go.kr)에서 무료로 다운받으실 수 있습니다.
+
+

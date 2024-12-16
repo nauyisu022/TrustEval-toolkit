@@ -1,0 +1,1727 @@
+Page 1
+
+COPY
+
+REGULATION OF THE MINISTER OF COMMUNICATION AND INFORMATION
+REPUBLIC OF INDONESIA
+NUMBER 5 YEAR 2020
+ABOUT
+ELECTRONIC SYSTEM OPERATOR PRIVATE SCOPE
+
+BY THE GRACE OF GOD ALMIGHTY
+
+MINISTER OF COMMUNICATION AND INFORMATICS OF THE REPUBLIC OF INDONESIA,
+
+Considering: that in order to meet the needs of internal
+implementation of private electronic systems, as well as for
+implement the provisions of Article 5 paragraph (3), Article 6 paragraph (4),
+Article 97 paragraph (5), Article 98 paragraph (4), and Article 101 of the Regulations
+Government Number 71 of 2019 concerning the Implementation of
+Electronic Systems and Transactions, it is necessary to stipulate
+Regulation of the Minister of Communications and Information Technology regarding
+Private Scope Electronic System Operator;
+
+Remember:
+
+1. Article 17 paragraph (3) of the Constitution of the Republic of Indonesia
+Indonesia in 1945;
+2. Law Number 39 of 2008 concerning
+Ministry of State (State Gazette of the Republic of Indonesia
+Indonesia Year 2008 Number 166, Supplement to the Gazette
+Republic of Indonesia Number 4916);
+
+Page 2
+-2-
+
+3. Government Regulation Number 71 of 2019 concerning
+Electronic System and Transaction Operation
+(State Gazette of the Republic of Indonesia Year 2019
+Number 185, Supplement to the State Gazette of the Republic of Indonesia
+Indonesia Number 6400);
+4. Presidential Regulation Number 54 of 2015 concerning
+Ministry of Communication and Information Technology (Gazette
+Republic of Indonesia Year 2015 Number 96);
+5. Regulation of the Minister of Communication and Information Number 6
+2018 on Organization and Work Procedure
+Ministry of Communication and Information Technology (State News
+Republic of Indonesia Year 2018 Number 1019);
+6. Regulation of the Minister of Communication and Information No
+13 of 2019 concerning the Implementation of Services
+Telecommunications (State Gazette of the Republic of Indonesia Year
+2019 Number 1329);
+
+DECIDING:
+To stipulate : REGULATION OF THE MINISTER OF COMMUNICATION AND INFORMATION
+ABOUT ELECTRONIC SYSTEM OPERATOR SCOPE
+PRIVATE.
+
+PIG
+GENERAL REQUIREMENTS
+
+article 1
+In this Ministerial Regulation what is meant by:
+1. Electronic Information is one or a collection of Data
+Electronics, including but not limited to writing,
+sound, image, map, design, photo, electronic data
+interchange (EDI), electronic mail ( electronic mail ),
+telegram, telex, telecopy or the like, letters, signs,
+numbers, access codes, symbols, or perforations that have been
+processed that have meaning or can be understood by people
+who can understand it.
+
+Page 3
+-3-
+
+2. Electronic Document is any Electronic Information
+created, forwarded, sent, received, or
+stored in analog, digital, electromagnetic,
+optical, or the like, which can be viewed, displayed,
+and/or heard via computer or System
+Electronics, including but not limited to writing,
+sounds, pictures, maps, designs, photographs or the like,
+letters, signs, numbers, access codes, symbols or perforations
+which has meaning or meaning or can be understood by
+someone who can understand it.
+3. Electronic Data is data in electronic form which
+not limited to text, sound, images, maps,
+designs, photos, electronic data interchange (EDI), letters
+electronic mail ( electronic mail ), telegram, telex, telecopy or
+the like, letters, signs, numbers, access codes, symbols, or
+perforation.
+4. Electronic System is a series of devices and
+electronic procedures that serve to prepare,
+collect, process, analyze, store,
+display, announce, transmit, and/or
+disseminate Electronic Information.
+5. Electronic System Operator is any person,
+state administrators, business entities, and the community
+providing, managing, and/or operating
+Electronic Systems individually or
+together with Electronic System Users
+for his/her own needs and/or the needs of other parties.
+6. Private Scope Electronic System Operators
+hereinafter referred to as PSE Private Scope is
+the operation of the Electronic System by persons, entities
+business, and society.
+7. PSE Private Scope of User Generated Content is PSE
+Private Scope providing, serving,
+uploading,
+
+and/or
+
+exchange
+
+Information
+
+Electronic and/or Electronic Documents are carried out
+by Electronic System Users.
+
+Page 4
+-4-
+
+8. Electronic System User is any person,
+state administrators, business entities, and the community
+that utilizes goods, services, facilities, or
+information provided by the System Operator
+Electronic.
+9. Cloud Computing is a model of providing access
+even network, easy, on demand
+for a set of computing resources that can be
+configurable together including network, server,
+storage, applications, and services that can be
+provided and released quickly and with power
+minimal management or service provision interactions.
+10. Cloud Computing Operator is PSE Scope
+Private which provides, organizes, manages,
+and/or operate Cloud Computing services.
+11. Personal Data is any data about a good person
+identified and/or identifiable
+alone or in combination with other information
+either directly or indirectly through
+Electronic and/or non-electronic systems.
+12. Electronic Transaction is a legal act which
+carried out using a computer, network
+computers, and/or other electronic media.
+13. Ministry
+
+or
+
+Institution
+
+is
+
+agency
+
+State Administrators in charge of supervising and
+issue regulations for the sector.
+14. Electronically Integrated Business Licensing
+( Online Single Submission ) hereinafter referred to as OSS
+is a business license issued by an institution
+OSS for and on behalf of ministers, heads of institutions,
+governor, or regent/mayor to business actors
+through an integrated electronic system.
+15. Termination of Access is an act of blocking access,
+account closure and/or content removal.
+16. Normalization is the process of restoring access to
+Electronic systems that have been closed for access
+back.
+
+Page 5
+-5-
+
+17. Internet Access Service Provider ( Internet Service
+Provider ) hereinafter abbreviated as ISP is
+multimedia service providers that organize
+internet access services to connect with
+public internet network.
+18. Traffic Data ( Traffic Data ) is Electronic Data
+generated by the Electronic System regarding
+Electronic Transactions that occur in the System
+The electronics as part of the chain
+communication with other Electronic Systems which includes
+origin and destination of Electronic Transactions which include
+telephone number, internet protocol address, or number
+Similar identification used by PSE Scope
+Private to identify System Users
+Electronic, route ( route ) Electronic Transactions, time
+start and end of Electronic Transactions, Data size
+Electronics, a type of service from PSE Private Scope that
+used by Electronic System Users, such as
+e-mail, instant messaging service , or files
+transfers .
+19. Electronic System User Information ( Subscriber
+Information ) is Electronic Data that is controlled or
+managed by PSE Private Scope related to services
+used by Electronic System Users who
+includes information regarding the identity of the System User
+Electronic, including the name of the Electronic System User
+used in services on PSE Private Scope,
+the residence address of the Electronic System User and
+other addresses that identify the User's location
+Electronic System at the time of registration or
+using the Private Scope PSE service, number
+identification used by System Users
+Electronic to register services on PSE Scope
+Private, such as email addresses and phone numbers, information
+payments or bills issued by PSE
+Private Scope to Electronic System Users
+related equipment installation location, service duration.
+
+Page 6
+-6-
+
+20. Communication Content is Electronic Information or
+Electronic Documents sent, transmitted
+or received by Electronic System Users through
+Private Scope PSE services or services other than Traffic Data
+Traffic ( Data Traffic ) and System User Information
+Electronics ( Subscriber Information ).
+21. Specific Personal Data is data and information
+health,
+
+data
+
+biometrics,
+
+data
+
+genetics,
+
+sexual life/orientation, political views, data
+children, personal financial data, and/or other data
+in accordance with the provisions of the legislation
+invitation.
+22. Law Enforcement Officials are officials from institutions
+Law enforcement officers who are responsible for a
+ongoing investigation, prosecution, trial
+take place.
+23. Law Enforcement Institutions are Ministries or
+Institutions established by law
+with the authority to conduct investigations, prosecutions,
+or trial of a criminal offense regulated in
+a law.
+24. Contact Person is a liaison officer at PSE
+Private Scope, Ministry or Institution, Institution
+Law enforcement and judicial institutions in the context of
+requests for access to Electronic Systems and Data
+Electronic and application for Termination of Access.
+25. Minister is the minister who organizes the affairs of
+government in the field of communication and informatics.
+26. Ministry
+
+is
+
+Ministry
+
+that
+
+carry out government affairs in the field of
+communication and informatics.
+
+Page 7
+-7-
+
+CHAPTER II
+ELECTRONIC SYSTEM OPERATOR REGISTRATION
+PRIVATE SCOPE
+
+Part One
+Private Scope Electronic System Operator Registration
+
+Section 2
+(1) Every Private Scope PSE is required to register.
+(2) Private Scope PSE as referred to in paragraph (1)
+include:
+a. Electronic System Operator that is regulated or
+supervised by the Ministry or Institution
+based on the provisions of the legislation
+invitation; and/or
+b. Electronic System Operators who have
+portal, site or online application via
+internet used for:
+1. provide,
+
+manage,
+
+and/or
+
+offer
+
+and/or
+
+operate
+
+trade in goods and/or services;
+2. provide,
+
+manage,
+
+and/or
+
+operate financial transaction services;
+3. delivery of digital materials or content
+paid through a data network either with
+how to download via portal or site,
+sending by electronic mail, or via
+other applications to the System User's device
+Electronic;
+4. provide,
+
+manage,
+
+and/or
+
+operate communication services including
+but not limited to short messages,
+voice call, video call, mail
+electronics, and online conversations
+in the form of digital platforms, network services
+and social media;
+
+Page 8
+-8-
+
+5. search engine service, provisioning service
+Electronic information in the form of writing,
+sound, picture, animation, music, video, film and
+game or a combination of some and/or
+or entirely; and/or
+6. processing of Personal Data for activities
+operational service to the community concerned
+with Electronic Transaction activities.
+(3) Obligation to register for PSE Scope
+Private is done before the Electronic System starts
+used by Electronic System Users.
+(4) ISP registration as a Private Scope PSE
+implemented through permits held
+by the Ministry in accordance with the provisions of the regulations
+legislation.
+(5) The public can provide complaints/information
+against Private Scope PSEs that do not do
+registration obligation.
+
+Article 3
+(1) Private Scope PSE Registration as referred to
+in Article 2 paragraph (1) is submitted to the Minister.
+(2) Submission of PSE registration application for Private Scope
+as referred to in paragraph (1) is carried out through
+OSS, unless otherwise provided by the terms
+legislation.
+(3) Submission of application for registration as referred to in
+referred to in paragraph (2) is carried out by filling in
+registration form containing correct information
+about:
+a. general description of the operation of the Electronic System;
+b. obligation to ensure information security
+in accordance with the provisions of the legislation
+invitation;
+c. obligation to protect Personal Data
+in accordance with the provisions of the legislation
+invitation; and
+
+Page 9
+-9-
+
+d. obligation to carry out System worthiness test
+Electronics in accordance with regulatory provisions
+legislation.
+(4) Information on the general description of the operation
+The Electronic System as referred to in paragraph (3)
+letter a, consisting of:
+a. name of Electronic System;
+b. Electronic Systems sector;
+c. uniform resource locator ( URL ) website ;
+d. domain name system ( domain name system )
+and/or the server's Internet Protocol ( IP ) address ;
+e. description of the business model;
+f.
+
+brief description of Electronic System functions and Elektronik
+Electronic System business processes;
+
+g. information on Personal Data processed;
+h. information on location of management, processing,
+and/or Electronic System and Data storage
+Electronic; and
+i.
+
+statement stating that the PSE Scope
+Private guarantees and carries out obligations
+granting access to Electronic Systems and
+Electronic Data in order to ensure
+effectiveness of supervision and law enforcement
+in accordance with the provisions of the legislation
+invitation.
+
+(5) Excluded Private Scope PSE Registration
+to register through OSS as
+referred to in paragraph (2) is carried out by
+convey the information as referred to in
+paragraph (3) and paragraph (4) as well as conveying information that
+true about:
+a. name of legal entity, address of legal entity, form
+legal entity, company deed and deed
+last change;
+b. tax ID number;
+c. name, identification number, and registration number
+telephone; and
+
+Page 10
+-10-
+
+d. statement stating that the PSE Scope
+Private
+
+have
+
+have
+
+organize
+
+activities
+
+legality
+attempted
+
+Ministries or Institutions that have
+authority in accordance with the provisions of the regulations
+legislation as evidenced by
+Related document.
+
+Article 4
+(1) Private Scope PSE Obligations to register
+as referred to in Article 2 paragraph (1) also
+applies to established Private Scope PSE
+according to the law of another country or permanent domicile
+in other countries but:
+a. provide services within the territory of Indonesia;
+b. doing business in Indonesia; and/or
+c. The Electronic System is used and/or
+offered in the territory of Indonesia.
+(2) Private Scope PSE Registration as referred to
+in paragraph (1) is done by filling out the form
+registration containing information as
+referred to in Article 3 paragraph (3) and Article 3 paragraph (4)
+as well as correct information which includes:
+a. Private Scope PSE identity;
+b. identity of the company leader and/or identity
+Person in charge;
+c. domicile statement and/or deed of establishment
+company ( certificate of incorporation) ;
+d. the number of customers ( users ) from Indonesia; and
+e. transaction value originating from Indonesia.
+(3) Information as referred to in paragraph (2) letter c
+submitted by attaching supporting documents
+translated into Indonesian by
+sworn translator.
+
+Page 11
+-11-
+
+Article 5
+Changes to registration information as
+
+in
+from
+
+referred to in Article 3 paragraph (3), Article 3 paragraph (5), and Article 4
+paragraph (2) must be reported to the Minister.
+
+The second part
+Issuance of Signs
+
+Article 6
+(1) Private Scope PSE registration certificate issued by the Minister
+after the registration requirements as intended
+in Article 2 to Article 5 it is stated
+complete in accordance with this Ministerial Regulation and
+placed on the Private Scope PSE list.
+(2) Private Scope PSE List as referred to in
+paragraph (1) is published on the website page managed by
+Ministry.
+
+Part Three
+Imposition of Administrative Sanctions and Normalization
+
+Article 7
+(1) The Minister imposes administrative sanctions on PSE
+Private Scope which:
+a. did not register as
+referred to in Article 2 and Article 4;
+b. already have a registration mark but not
+report changes to information
+registration as referred to in Article 5;
+c. not
+
+give
+
+information
+
+registration
+
+as referred to in Article 3 paragraph (3), Article
+3 paragraph (4), and Article 4 paragraph (2) correctly.
+(2) In the event that the Private Scope PSE does not perform
+registration as referred to in paragraph (1) letter
+a, the Minister shall impose administrative sanctions in the form of:
+Termination of Access to Electronic Systems ( access
+blocking ).
+
+Page 12
+-12-
+
+(3) In the event that the Private Scope PSE already has a
+register but not report changes to
+registration information as referred to in paragraph
+(1) letter b or not providing registration information
+properly as referred to in paragraph (1)
+letter c, the Minister gives administrative sanctions
+in the form of:
+a. written warning delivered by letter
+electronic ( electronic mail ) and/or electronic media
+other;
+b. temporary suspension of Private Scope PSE
+in case of not heeding written warning teguran
+as referred to in paragraph (3) letter a;
+c. Termination of Access to Electronic Systems
+( access blocking ) and revocation of registration marks
+Electronic System Operator in the case of PSE
+Private Scope does not provide confirmation in
+period of 7 (seven) days after termination
+while as referred to in paragraph (3)
+letter b.
+(4) In the event that the Private Scope PSE has complied with
+the registration provisions as referred to in
+Article 2 to Article 5, the Minister performs
+Normalization of disconnected Electronic Systems
+access ( access blocking ) as referred to in
+paragraph (2).
+(5) In the event that the Private Scope PSE has
+update registration information properly, Minister
+carry out Normalization of Electronic Systems that
+temporarily suspended as referred to in paragraph
+(3) letter b.
+(6) In the event that the Private Scope PSE has done
+re-registration by providing information
+registration correctly, the Minister performs
+Normalization of disconnected Electronic Systems
+access the Electronic System and the registration mark is revoked
+
+Page 13
+-13-
+
+Electronic System Operators as
+referred to in paragraph (3) letter c.
+
+Article 8
+(1) The Minister may impose administrative sanctions on
+Private Scope PSE on request from
+Ministry or Institution on the basis of violation
+legislation in the field of Ministry
+or Institutions that have the authority in accordance with
+the provisions of the legislation.
+(2) In the case of administrative sanctions given to
+Private Scope PSE as referred to in paragraph (1)
+is Termination of Access to Electronic Systems
+( access blocking ), the Minister performs Normalization
+based on the recommendation submitted by the Ministry
+or Institutions on the basis of private PSE services
+that have complied with the provisions of the legislation
+invitation.
+
+CHAPTER III
+ELECTRONIC INFORMATION GOVERNANCE AND MODERATION
+AND/OR ELECTRONIC DOCUMENTS
+
+Part One
+General
+
+Article 9
+(1) Private Scope PSE is responsible for
+Electronic System operation and management
+Electronic Information and/or Electronic Documents at
+in the Electronic System reliably, safely, and
+to be responsible.
+(2) Private Scope PSEs are required to provide instructions
+the use of services in Indonesian is appropriate
+with statutory provisions.
+
+Page 14
+-14-
+
+(3) Private Scope PSEs are required to ensure:
+a. The Electronic System does not contain Information
+Electronic and/or Electronic Documents that
+prohibited; and
+b. System
+
+The electronics
+
+not
+
+facilitate
+
+dissemination of Electronic Information and/or
+Prohibited Electronic Documents.
+(4) Electronic Information and/or Electronic Documents that
+prohibited as referred to in paragraph (3) with
+classification:
+a. violate the provisions of the legislation
+invitation;
+b. troubling
+
+Public
+
+and
+
+disturb
+
+public order; and
+c. tell how or provide access
+on Electronic Information and/or Documents
+Prohibited electronics.
+(5) Electronic Information and/or Electronic Documents that
+prohibited as referred to in paragraph (4) letter b
+determined by the appropriate Ministry or Institution
+with the provisions of laws and regulations.
+(6) Private Scope PSE that does not perform its obligations
+as referred to in paragraph (3) access is cut off
+against the Electronic System ( access blocking ) according to
+with the provisions in this Ministerial Regulation.
+
+The second part
+Obligations of Private Scope Electronic System Operators
+User Generated Content
+
+Article 10
+(1) In order to fulfill the obligations as
+referred to in Article 9 paragraph (3), Private Scope PSE
+User Generated Content must:
+a. have governance regarding Electronic Information
+and/or Electronic Documents; and
+b. provide reporting tools.
+
+Page 15
+-15-
+
+(2) Governance as referred to in paragraph (1) letter a
+at least contain the following provisions:
+a. obligations and rights of Electronic System Users
+in using Electronic System services;
+b. obligations and rights of PSE Private Scope in
+carry out Electronic System operations;
+c. provisions regarding liability for
+Electronic Information and/or Electronic Documents
+uploaded by the Electronic System User; and
+d. availability of facilities and services and solutions
+complaint.
+(3) The reporting facilities as referred to in paragraph (1)
+letter b must be accessible to the public and used
+for submitting complaints and/or reports on
+Electronic Information and/or Electronic Documents that
+prohibited contained in the Electronic System which
+managed.
+(4) Regarding complaints and/or reports on Information
+Prohibited Electronic and/or Electronic Documents
+as referred to in paragraph (3), PSE Scope
+Mandatory private:
+a. respond to complaints and/or
+report to the complainant and/or
+report;
+b. conduct an independent examination of the complaint
+and/or report and/or request verification
+complaints and/or reports to the Minister and/or
+Related Ministries or Institutions;
+c. give notification to User
+Electronic System regarding complaints and/or
+reports on Electronic Information and/or
+User-uploaded Electronic Documents
+Electronic Systems; and
+d. refuse complaints and/or reports if information
+Electronic and/or Electronic Documents that
+reported is not Electronic Information
+and/or prohibited Electronic Documents.
+
+Page 16
+-16-
+
+(5) Private Scope PSE that does not perform its obligations
+as referred to in paragraph (1) and paragraph (4) shall be decided
+access to its Electronic System ( access blocking )
+in accordance with the provisions of this Ministerial Regulation.
+
+Article 11
+PSE Private Scope User Generated Content can be waived
+from legal liability regarding Electronic Information
+and/or prohibited Electronic Documents that
+transmitted or distributed through the System
+The electronics in terms of Private Scope PSE:
+a. has carried out the obligations as referred to
+in Article 9 paragraph (3) and Article 10;
+b. providing Electronic System User Information
+( Subscriber Information ) who uploads Information
+Prohibited Electronic and/or Electronic Documents
+in the context of supervision and/or law enforcement;
+and
+c. Termination of Access ( take down ) to
+Electronic Information and/or Electronic Documents that
+prohibited.
+
+Part Three
+Obligations of Cloud Computing Operators
+
+Article 12
+(1) In order to fulfill the obligations as
+referred to in Article 9 paragraph (3), the Operator
+Cloud Computing is required to have governance regarding
+Electronic Information and/or Electronic Documents.
+(2) Governance as referred to in paragraph (1) at least
+slightly contains the following:
+a. obligations and rights of service users of the Operator
+Cloud Computing in using Computing
+Cloud;
+
+Page 17
+-17-
+
+b. obligations and rights of Cloud Computing Operators
+in carrying out Cloud Computing operations;
+and
+c. provisions regarding user liability
+Cloud Computing Operator services in terms of
+store Electronic Information and/or
+Electronic Documents on Cloud Computing.
+(3) Cloud Computing Operators are required to provide
+Electronic Information and/or Electronic Data regarding
+Cloud Computing Provider service users who
+controlled for the purposes of supervision and
+law enforcement.
+
+CHAPTER IV
+ACCESS TERMINATION APPLICATION
+ELECTRONIC INFORMATION AND/OR
+PROHIBITED ELECTRONIC DOCUMENTS
+
+Part One
+General
+
+Article 13
+(1) Private Scope PSEs are required to terminate access
+( take down ) on Electronic Information and/or
+Prohibited Electronic Documents as
+referred to in Article 9 paragraph (4).
+(2) Obligation to terminate access ( take down )
+as referred to in paragraph (1) includes
+Termination of Access to Electronic Information
+and/or Electronic Documents that can facilitate
+dissemination of Electronic Information and/or Documents
+Prohibited electronics.
+
+Page 18
+-18-
+
+Article 14
+(1) Application for Termination of Access to Information
+Prohibited Electronic and/or Electronic Documents
+as referred to in Article 13 can be submitted
+by:
+a. Public;
+b. Ministry or Institution;
+c. Law Enforcement Officials; and/or
+d. judiciary.
+(2) The application as referred to in paragraph (1) may
+submitted via:
+a. website (website) and/or application;
+b. non-electronic mail; and/or
+c. electronic mail (e- mail ).
+(3) The application as referred to in paragraph (1)
+urgent in terms of:
+a. terrorism;
+b. child pornography; or
+c. content that disturbs the public and
+disturb public order.
+
+The second part
+Requests for Termination of Access by the Community
+
+Article 15
+(1) Application for Termination of Access to Electronic Information
+and/or Electronic Documents prohibited by
+community as referred to in Article 14 paragraph
+(1) letter a is submitted to:
+a. The Ministry or Institution authorized to
+Application for Termination of Access to:
+1. Electronic Information and/or Documents
+Prohibited electronics that are under
+its authority; and/or
+2. Electronic Information and/or Documents
+Electronics that can facilitate access
+Electronic Information and/or Documents
+
+Page 19
+-19-
+
+Prohibited electronics that are under
+his authority
+
+based on
+
+terms
+
+laws and regulations, or
+b. Minister for the application for Termination of Access
+to:
+1. Electronic Information and/or Documents
+Prohibited electronics that are charged
+pornography and/or gambling;
+2. Electronic Information and/or Documents
+Electronics that can facilitate access
+Electronic Information and/or Documents
+Prohibited electronics that are charged
+pornography and/or gambling.
+(2) Application for Termination of Access submitted by
+the community as referred to in paragraph (1) at least
+a little bit of information:
+a. the identity of the applicant;
+b. image or screenshot ( screen capture) that
+displaying Electronic Information and/or
+Prohibited Electronic Documents;
+c. link or Uniform Resource Locator ( URL ) that
+specifically refers to Electronic Information and/or
+Prohibited Electronic Documents that
+it is requested to have its access terminated; and
+d. the reasons on which the application is based.
+(3) The Ministry or Institution that receives the application
+Termination of Access from the public as
+referred to in paragraph (1) letter a submit
+Application for Termination of Access to the Minister.
+(4) The Minister ordered the Private Scope PSE to carry out
+Termination of Access ( take down ) to Information
+Prohibited Electronic and/or Electronic Documents
+as referred to in paragraph (1).
+(5) Termination of Access ( take down ) orders as
+referred to in paragraph (4) shall be submitted by letter
+electronic ( electronic mail ) or Electronic System
+other.
+
+Page 20
+-20-
+
+(6) Private Scope PSE ordered to perform
+Termination of Access ( take down ) as intended
+in paragraph (4) is obliged to terminate the access ( take)
+down ) on Electronic Information and/or Documents
+Prohibited electronics no later than 1 x 24 (one time)
+twenty four) hours after the Termination warrant
+Access ( take down ) is accepted.
+(7) In the event that the Private Scope PSE does not implement
+Termination of Access ( take down ) to Information
+Prohibited Electronic and/or Electronic Documents
+as referred to in paragraph (6), the Minister may
+perform Termination of Access and/or order
+ISP to perform Termination of Access to the System
+The electronics
+
+( access
+
+block )
+
+considering the reasons put forward by PSE P
+Private Scope.
+(8) Application for Termination of Access ( take down ) against
+Electronic Information and/or Electronic Documents that
+it is prohibited to be urgent as intended
+in Article 14 paragraph (3), Private Scope PSE is obligatory
+Termination of Access ( take down ) to
+Electronic Information and/or Electronic Documents that
+banned as soon as possible without the most delay
+no later than 4 (four) hours after the warning is received.
+(9) In the event that the Private Scope PSE does not implement
+Termination of Access ( take down ) to Information
+Prohibited Electronic and/or Electronic Documents
+urgent in a period of no later than 4
+(four) hours as referred to in paragraph (8),
+The Minister may terminate access and/or
+instructs the ISP to perform a Disconnection
+against the Electronic System ( access blocking ) after
+considering the reasons put forward by PSE P
+Private Scope.
+
+Page 21
+-21-
+
+(10) PSE Private Scope of User Generated Content that does not
+carry out the Termination of Access ( take down ) of
+Electronic Information and/or Electronic Documents that
+prohibited as referred to in paragraph (6) and paragraph
+(8) is subject to administrative sanctions in the form of fines
+the amount is in accordance with the provisions of the regulations
+legislation regarding state revenue
+not tax.
+(11) Sanctions as referred to in paragraph (10)
+delivered through a letter of reprimand given
+to PSE Private Scope for every 1 x 24 (one time
+twenty four) hours for the provisions as
+referred to in paragraph (6) and 1 x 4 (one time four) hours
+
+after
+
+for the provisions as referred to in paragraph (8)
+with a maximum of
+3 (three) times.
+(12) In the case of PSE Private Scope of User Generated Content
+do not do Termination of Access ( take down )
+and/or not paying the fine as intended
+in paragraph (10), the Minister may make Termination
+Access and/or instruct the ISP to perform
+Termination of Access to the Electronic System ( access
+blocking ) after considering the reasons that
+submitted by PSE Private Scope.
+
+Part Three
+Application for Termination of Access by Ministries or Agencies,
+Law Enforcement Officials and Judicial Institutions
+
+Article 16
+(1) Related Ministries or Institutions coordinate with
+Minister for Termination of Access to Electronic Information
+and/or prohibited Electronic Documents
+as referred to in Article 9 paragraph (4).
+
+Page 22
+-22-
+
+(2) Law enforcement officers may request Termination of Access
+Electronic Information and/or Electronic Documents that
+prohibited as referred to in Article 9 paragraph (4)
+to the Minister.
+(3) The judiciary may order the Termination of
+Access to Electronic Information and/or Documents
+Prohibited electronics as referred to in
+Article 9 paragraph (4) to the Minister.
+(4) Termination of Access as referred to in paragraph (1),
+paragraph (2), and paragraph (3) are submitted by the Ministry or
+Institutions, Law Enforcement Officials or Institutions
+Court by attaching at least:
+a. official letter from the Ministry or Institution, Apparatus
+Law Enforcement or letter of determination and/or/
+court decisions from judicial institutions;
+b. legal analysis of Electronic Information
+and/or prohibited Electronic Documents;
+c. image or screen capture showing yang
+Electronic Information and/or Electronic Documents
+prohibited; and
+d. a specific link or link ( URL ) pointing to
+Electronic Information and/or Electronic Documents
+which is prohibited.
+(5) The Minister ordered the Private Scope PSE to carry out
+Termination of Access ( take down ) to Information
+Prohibited Electronic and/or Electronic Documents.
+(6) Access Termination Order ( take down ) as
+referred to in paragraph (5) is submitted by letter
+electronic ( electronic mail ) or Electronic System
+other.
+(7) Private Scope PSE ordered to perform
+Termination of Access ( take down ) as intended
+in paragraph (5) is obliged to terminate the access ( take)
+down ) on Electronic Information and/or Documents
+Prohibited electronics no later than 1 x 24 (one time)
+twenty four) hours after the Termination warrant
+Access ( take down ) is accepted.
+
+Page 23
+-23-
+
+(8) In the event that the Private Scope PSE does not implement
+Termination of Access ( take down ) to Information
+Prohibited Electronic and/or Electronic Documents
+as referred to in paragraph (7), the Minister
+perform Termination of Access and/or order
+ISP to perform Termination of Access to the System
+Electronics ( access blocking ).
+(9) Application for Termination of Access ( take down ) against
+Electronic Information and/or Electronic Documents that
+it is prohibited to be urgent as intended
+in Article 14 paragraph (3), Private Scope PSE is obligatory
+Termination of Access ( take down ) to
+Electronic Information and/or Electronic Documents that
+prohibited and/or Electronic Information and/or
+Electronic Documents that can facilitate
+Access to Electronic Information and/or Documents
+Prohibited electronics as soon as possible without
+no later than 4 (four) hours after the
+warning received.
+(10) Private Scope PSE that does not carry out Termination
+Access ( take down ) as referred to in paragraph (9),
+The Minister performs Termination of Access and/or
+instructs the ISP to perform a Disconnection
+against the Electronic System ( access blocking ).
+(11) PSE Private Scope of User Generated Content that does not
+carry out the Termination of Access ( take down ) of
+Electronic Information and/or Electronic Documents that
+prohibited as referred to in paragraph (7) and paragraph
+(9) is subject to administrative sanctions in the form of fines
+the amount is in accordance with the provisions of the regulations
+legislation regarding state revenue
+not tax.
+(12) Sanctions as referred to in paragraph (11)
+delivered through a letter of reprimand given
+to PSE Private Scope for every 1 x 24 (one time
+twenty four) hours for the provisions as
+referred to in paragraph (7) and 1 x 4 (one time four) hours
+
+Page 24
+-24-
+
+for the provisions as referred to in paragraph (9)
+with a maximum of
+3 (three) times.
+(13) In the event that the Private Scope PSE does not perform
+Termination of Access ( take down ) as intended
+in paragraph (7) and paragraph (9) and/or not paying
+the fine as referred to in paragraph (11), the Minister
+perform Termination of Access and/or order
+ISP to perform Termination of Access to the System
+Electronics ( access blocking ).
+
+Article 17
+(1) Application for Termination of Access in writing from
+Ministries or Institutions, Law Enforcement Officials,
+and/or judicial institutions must be carried out by
+Contact person.
+(2) Provisions for Termination of Access as referred to
+Article 15 and Article 16 do not apply to PSE
+Private Scope of Cloud Computing Operators.
+
+Part Four
+The Role of Internet Access Service Providers
+( Internet Service Providers )
+
+Article 18
+(1) ISPs are required to terminate access to the system
+Electronic PSE Private Scope ( access blocking ) which
+ordered by the Minister to cut off access
+as referred to in Article 15 paragraph (6), paragraph (8),
+and verse (12).
+(2) Termination of Access ( access blocking ) as
+referred to in paragraph (1) can only be carried out by
+Minister.
+(3) Termination of Access ( access blocking ) by the ISP as follows
+referred to in paragraphs (1) and (2) shall be carried out by
+established procedures, methods, and/or technology
+by the Minister.
+
+Page 25
+-25-
+
+(4) In the event that the ISP does not terminate the access
+( access blocking ) as referred to in paragraph (1),
+ISPs are subject to sanctions in accordance with the provisions of the regulations
+legislation.
+
+Article 19
+(1) ISPs are required to show a landing page ( landing page )
+in performing Termination of Access to the System
+Electronics ( access blocking ) containing information
+Prohibited Electronic and/or Electronic Documents
+and/or facilitate the dissemination of Information
+Prohibited Electronic and/or Electronic Documents.
+(2) The landing page as referred to in
+paragraph (1) does not contain Electronic Information and/or
+Prohibited Electronic Documents and/or
+offer products that are prohibited in accordance with
+the provisions of the legislation.
+(3) The landing page as referred to in
+paragraphs (1) and (2) refer to the format listed
+in the Appendix which is a part that does not
+inseparable from this Ministerial Regulation.
+
+Part Five
+Normalization
+
+Article 20
+(1) Private Scope PSE which is cut off from access to the System
+Electronic ( access blocking ) or Ministry or
+Institutions can apply for Normalization
+to the Minister.
+(2) Application for Normalization by Private Scope PSE which
+cut off access to the Electronic System ( access
+blocking ) as referred to in paragraph (1) is submitted
+by attaching:
+a. written application letter;
+b. the identity of the person in charge of the Electronic System and
+contact number that can be reached;
+
+Page 26
+-26-
+
+c. scanned owner's identity card and/or
+the person in charge of the Electronic System;
+d. image or screen capture and link or link
+(URL) which proves that the Electronic System
+no longer contains Electronic Information and/or
+Prohibited Electronic Documents;
+e. letter of recommendation from the Ministry or Institution,
+Law Enforcement Officials, or court decisions
+which has permanent legal force; and
+f.
+
+other evidence that supports the legitimacy as
+PSE Private Scope.
+
+(3) Application for Normalization by the Ministry or
+The institution as referred to in paragraph (1) shall be submitted
+through a written application.
+(4) The Minister follows up on the application for Normalization which
+meet the requirements as referred to in
+paragraph (2) and paragraph (3) within a maximum period of 2x24 (two
+times twenty four) hours.
+(5) The Minister has the authority to reject the application for Normalization
+to Electronic Systems whose access has been cut off
+( access blocking ) more than 3 (three) times.
+
+CHAPTER V
+GIVING ACCESS TO ELECTRONIC SYSTEMS
+AND/OR ELECTRONIC DATA FOR PURPOSES
+CRIMINAL LAW SUPERVISION AND ENFORCEMENT
+
+Part One
+General
+
+Article 21
+(1) Private Scope PSEs are required to provide access to
+Electronic Systems and/or Electronic Data to
+Ministries or Institutions in the context of supervision
+in accordance with statutory regulations.
+
+Page 27
+-27-
+
+(2) Private Scope PSEs are required to provide access to
+Electronic Systems and/or Electronic Data to
+Law Enforcement Officials in the context of law enforcement
+in accordance with statutory regulations.
+(3) Procedures for granting access to Electronic Systems
+and/or Electronic Data for Interest
+Supervision and Law Enforcement are carried out in accordance with
+with the provisions in the second and third parts
+in this Ministerial Regulation.
+
+The second part
+Procedures for Granting Access to Electronic Systems
+and/or Electronic Data for Monitoring Purposes
+
+Article 22
+(1) Granting of access as referred to in Article 21
+carried out on request by the Ministry
+or Law Enforcement Agencies and Apparatus.
+(2) The procedure for requesting access as referred to
+in paragraph (1) regulates aspects which include:
+a.
+
+the scope of authority of the Ministry or
+Institutions in the implementation of supervision and/or
+law enforcement in accordance with regulatory provisions
+legislation
+
+that
+
+Becomes
+
+its authority;
+b.
+
+the intent and purpose and importance of the request
+access to Electronic Systems and/or Data
+Electronic;
+
+c.
+
+the classification of the type of access required is appropriate
+with the aims and objectives and interests
+access requests;
+
+d.
+
+Data owner rights protection mechanism
+Personal and third party interests
+on access to Electronic Systems and/or
+Electronic Data requested by the Ministry
+or Institution;
+
+Page 28
+-28-
+
+e.
+
+access request fulfillment period
+against Electronic Systems and/or Data
+Electronics by PSE Private Scope;
+
+f.
+
+period of use of access to the System
+Electronic and/or Electronic Data by
+Ministry or Institution;
+
+g.
+
+requests for access to Electronic Systems
+and/or Electronic Data in urgent condition
+or emergency that needs to be given by PSE immediately
+Private Scope;
+
+h.
+
+Contacts from relevant Ministries or Institutions
+can request access to
+Electronic System and/or Electronic Data.
+
+Article 23
+(1) The request for access as referred to in Article
+21 paragraph (1) submitted to PSE Private ScopeSE
+in writing based on the assessment ( assessment )
+in the interests of supervision and proportionality as well as
+the legality of the aspects as referred to in Article
+22.
+(2) The scope or type of Electronic System and/or
+Electronic Data upon access request as
+referred to in paragraph (1) is based on the provisions of
+laws and regulations that form the basis
+the authority of the Ministry or Institution in question.
+
+Article 24
+Access to Electronic Systems and/or Electronic Data
+given by PSE Private Scope to the Ministry
+or Institutions can only be used for the benefit of
+supervision specified in the request as
+referred to in Article 23 paragraph (1).
+
+Page 29
+-29-
+
+Article 25
+(1) Private Scope PSE must appoint at least
+a contact person domiciled in the region
+Indonesia in charge of facilitating requests
+access to Electronic Systems and/or Data
+Electronic submitted by the Ministry or
+Institution.
+(2) The contact person as referred to in paragraph (1)
+accept requests for access to Electronic Systems
+and/or Electronic Data from Contact Persons who have
+determined by the Ministry or Institution and
+submitted to PSE Private Scope.
+
+Article 26
+(1) Private Scope PSE provides access to Data
+Electronics requested by Ministries or Agencies
+in the event that the request is submitted
+officially to the PSE Private Scope Contact Person.
+(2) Request for access to Electronic Data as
+referred to in paragraph (1) must attach:
+a. basic authority of the Ministry or Institution;
+b. the intent and purpose and importance of the request;
+and
+c. a specific description of the type of Electronic Data that
+requested.
+
+Article 27
+The request as referred to in Article 26 is fulfilled
+by PSE Private Scope within no later than 5 (five)
+calendar days since the request is submitted by
+Contact Ministry or Institution.
+
+Article 28
+(1) Access to Electronic Data requested by
+Ministries or Agencies can be provided through
+link ( link ), application created by PSE Scope
+
+Page 30
+-30-
+
+Private, or other means agreed between
+Ministries or Institutions and Private Scope PSE.
+(2) Use of access for surveillance purposes
+carried out within a period of time as needed and
+can be accounted for.
+(3) Granting access to the requested Electronic Data
+by the Ministry or Institution as intended
+in paragraph (1) can be implemented through the provision of
+Electronic Data to Ministry Contacts or
+The institution in question.
+
+Article 29
+(1) Private Scope PSE provides access to the System
+Electronics requested by Ministries or Agencies
+in the event that the request is submitted
+officially to the PSE Private Scope Contact Person.
+(2) Request for access to Electronic Systems
+as referred to in paragraph (1) must
+attach:
+a. basic authority of the Ministry or Institution;
+b. the intent and purpose and importance of the request;
+c. specific description of the Electronic System that
+requested;
+d. officials from the Ministry or Institution who will
+access the requested Electronic System.
+(3) Ministries or Agencies may request assistance
+technical or other necessary assistance to PSE
+Private Scope in the use of access to the System
+Electronic.
+(4) Granting access to Electronic Systems that
+requested by the Ministry or Institution as
+referred to in paragraph (1) can be implemented through
+provision of inspection or audit results on the System
+Electronics whose scope of inspection or
+the audit is requested by the Ministry or Institution.
+
+Page 31
+-31-
+
+Article 30
+(1) Access to Electronic Systems submitted by
+Private Scope PSE is limited and confidential.
+(2) Access to Electronic Systems can only be
+used by Ministry or Institution officials atau
+as specified in Article 29 paragraph (1).
+(3) The granting of access to the Electronic System must
+protect and protect:
+a. integrity, availability and confidentiality of the Data
+Electronic;
+b. reliability and security of Electronic Systems; and
+c. Personal Data stored, transmitted, or
+processed in the Electronic System.
+
+Article 31
+The request as referred to in Article 29 is fulfilled
+by PSE Private Scope within no later than 5 (five)
+calendar days since the request is submitted by
+Contact Ministry or Institution.
+
+Part Three
+Granting Access to Electronic Systems and/or Data
+Electronics for the Purpose of Criminal Law Enforcement
+
+Article 32
+
+basic
+
+(1) Private Scope PSE provides access to Data
+Electronics to Law Enforcement Officials for
+the interests of investigation, prosecution, or trial
+criminal acts within the jurisdiction of the Unitary State
+Republic of Indonesia.
+(2) The criminal acts referred to in paragraph (1) are
+criminal acts that are punishable by a criminal
+imprisonment for a minimum of 2 (two) years.
+
+Page 32
+-32-
+
+Article 33
+(1) Private Scope PSE provides access to the System
+Electronics to Law Enforcement Officials for
+the interests of investigation, prosecution, or trial
+criminal acts within the jurisdiction of the Unitary State
+Republic of Indonesia.
+(2) The criminal act as referred to in paragraph (1)
+is a criminal offense whose punishment is in the form of:
+imprisonment:
+a. a minimum of 5 (five) years;
+b. under 5 (five) years but not under 2
+(two) years as long as it gets stipulation from
+district court in which jurisdiction?
+Law Enforcement Officials have jurisdiction.
+
+Article 34
+In the event that the Private Scope PSE manages,
+processing, and/or storage of Electronic Data or
+Electronic Systems outside the territory of Indonesia, PSE Scope
+Private provides access to Electronic Data or
+Electronic System for the purposes as intended
+in Article 32 and Article 33 related:
+a. Indonesian population; or
+b. Business Entity established under the law
+Indonesia.
+
+Article 35
+Access to Electronic Systems and/or Electronic Data
+provided by PSE Private Scope as
+referred to in Article 32 and Article 33 can only
+used for the purposes of investigation, prosecution,
+the trial mentioned in the request that
+submitted by Law Enforcement Officials.
+
+Page 33
+-33-
+
+Article 36
+(1) Private Scope PSE provides access to Data
+Traffic ( data traffic ) and System User Information
+Electronics ( Subscriber Information ) requested by
+Law Enforcement Officials in the event of the request
+officially submitted to the PSE Contact Person
+Private Scope.
+(2) Request for access to Electronic Data as
+referred to in paragraph (1) must attach:
+a. basis of authority of Law Enforcement Apparatus;
+b. the intent and purpose and importance of the request;
+c. a specific description of the type of Electronic Data that
+requested;
+d. criminal acts that are being investigated, prosecuted, or
+tried.
+(3) Private Scope PSE provides access to Content
+Communications requested by Law Enforcement Officials
+in the event that the request is submitted
+official to PSE Private Scope.
+(4) Requests for access to Communication Content
+as referred to in paragraph (3) must
+attach:
+a. basis of authority of Law Enforcement Apparatus;
+b. the intent and purpose and importance of the request;
+c. a specific description of the type of Electronic Data that
+requested;
+d. criminal acts that are being investigated, prosecuted, or
+tried;
+e. stipulation letter from the head of the domestic district court
+which area is the Law Enforcement Institution
+have authority.
+(5) Private Scope PSE provides access to Data
+Specific Personal Requested by the Enforcement Apparatus
+The law in the event that the request is submitted
+based on the provisions as referred to in
+paragraph (4).
+
+Page 34
+-34-
+
+Article 37
+The request as referred to in Article 36 is fulfilled
+by PSE Private Scope within no later than 5 (five)
+calendar days since the request is submitted by
+Contact Person for Law Enforcement Institutions.
+
+Article 38
+(1) Access to Electronic Data requested by
+Law Enforcement Officers can be provided via the link
+(link), applications made by PSE Private Scope, or
+other ways agreed between Law Enforcement Apparatus
+and Private Scope PSE.
+(2) Use of access for law enforcement purposes
+carried out within a reasonable period of time and can
+accounted for.
+(3) Granting access to the requested Electronic Data
+by Law Enforcement Officials as intended
+in paragraph (1) can be implemented through the provision of
+Electronic Data to Enforcement Institution Contact Persons
+The law in question.
+
+Article 39
+(1) Private Scope PSE provides access to the System
+Electronics requested by Law Enforcement Officials
+in the event that the request is submitted
+officially to the PSE Private Scope Contact Person.
+(2) Requests for access to Electronic Systems by
+Law Enforcement Officials as referred to in
+paragraph (1) must attach:
+a. basis of authority of Law Enforcement Apparatus;
+b. the intent and purpose and importance of the request;
+c. specific description of the Electronic System that
+requested;
+d. criminal acts that are being investigated, prosecuted, or
+tried;
+e. Law Enforcement Officers who will access the System
+requested electronics;
+
+Page 35
+-35-
+
+f. stipulation letter from the head of the domestic district court
+which area is the Law Enforcement Institution
+have authority.
+(3) Law Enforcement Officials may request technical assistance
+or other necessary assistance to PSE Scope
+Private in the use of access to the System
+Electronic.
+(4) Granting access to Electronic Systems that
+requested by Law Enforcement Officials as
+referred to in paragraph (1) can be implemented through
+provision of inspection or audit results on the System
+Electronics whose scope of inspection or
+the audit is requested by the Law Enforcement Apparatus.
+
+Article 40
+(1) Access to Electronic Systems submitted by
+Private Scope PSE is limited and confidential.
+(2) Access to Electronic Systems can only be
+used by Law Enforcement Officials as
+specified in Article 39 paragraph (1).
+(3) Requests for access to Electronic Systems must be
+protect and protect:
+a. integrity, availability and confidentiality of the Data
+Electronic;
+b. reliability and security of Electronic Systems; and
+c. Personal Data stored, transmitted, or
+processed in the Electronic System.
+
+Article 41
+The request as referred to in Article 39 is granted
+by PSE Private Scope within no later than 5 (five)
+calendar days since the request is submitted by
+Contact Person for Law Enforcement Institutions.
+
+Page 36
+-36-
+
+Article 42
+(1) Cloud Computing Operators are required to provide Access
+against Electronic Systems and/or Electronic Data
+in the context of law enforcement as intended
+in Article 21 paragraph (2).
+(2) The obligation to grant access as referred to
+in paragraph (1) only for the purposes of emergency situations
+related:
+a. terrorism;
+b. child pornography;
+c. trafficking in persons (human trafficking) ;
+d. organized crime; and/or
+e. emergency situations that threaten life and injury
+physical,
+in accordance with statutory regulations.
+(3) The obligation to grant access as referred to
+in paragraph (1) and paragraph (2) are fulfilled no later than 5 (five)
+calendar days from the date of application from the Apparatus
+Law Enforcement accepted.
+
+Part Four
+Track Record of Access to Electronic Systems and/or
+Electronic Data for Monitoring Purposes and
+Criminal Law Enforcement
+
+Article 43
+(1) Private Scope PSEs are required to have an audit track record
+regarding the use of access to Electronic Systems
+carried out by the Ministry or Institution.
+(2) Private Scope PSE can conduct an assessment
+( assessment ) regarding the impact of using access
+against Electronic Systems by the Ministry or
+Institution against:
+a. the quality of services provided by PSE Private Scope
+to Users of the Electronic System;
+b. Protection of Personal Data from System Users
+The electronics; and/or
+
+Page 37
+-37-
+
+c. fulfillment of Private Scope PSE obligations that
+regulated in laws and regulations
+Indonesia.
+(3) Use of access for surveillance purposes
+carried out within a reasonable period of time and can
+accounted for.
+
+Article 44
+(1) Private Scope PSEs are required to have an audit track record
+regarding the use of access to Electronic Systems
+by Law Enforcement Officials.
+(2) Private Scope PSE can conduct an assessment
+( assessment ) regarding the impact of using access
+against Electronic Systems by Law Enforcement Officials
+to:
+a. the quality of services provided by PSE Private Scope
+to Users of the Electronic System;
+b. Protection of Personal Data from System Users
+The electronics; and/or
+c. fulfillment of Private Scope PSE obligations that
+regulated in laws and regulations
+Indonesia.
+(3) Use of access for law enforcement purposes
+carried out within a reasonable period of time and can
+accounted for.
+
+Part Five
+Imposition of Administrative Sanctions
+
+Article 45
+(1) In the event that the Private Scope PSE does not provide Access
+as referred to in Article 21, the Ministry of
+or Institutions and Law Enforcement Officials can
+report it to the Minister.
+(2) The report as referred to in paragraph (1)
+submitted in writing or electronically by
+attach related information and documents
+
+Page 38
+-38-
+
+as referred to in this Ministerial Regulation
+according to surveillance or enforcement needs
+law is carried out.
+(3) The Minister imposes administrative sanctions on PSE
+Private Scope that does not:
+a. provide access to Ministries or Agencies
+or Law Enforcement Officials as regulated
+in Article 21;
+b. have an audit track record as stipulated in
+Article 43 paragraph (1) and Article 44 paragraph (1).
+(4) Administrative sanctions as referred to in paragraph
+(3) in the form of:
+a. written warning;
+b. temporary suspension;
+c. Termination of Access; and/or
+d. revocation of System Operator Registration Certificate
+Electronic.
+(5) The administrative sanctions as referred to in paragraph
+(4) submitted by electronic mail ( electronic mail )
+and/or other electronic media.
+
+Article 46
+(1) In the event that the Cloud Computing Operator does not
+provide Access as referred to in Article
+12 paragraph (3) and Article 42, Law Enforcement Officials may
+report it to the Minister.
+(2) The report as referred to in paragraph (1)
+submitted in writing or electronically by
+attach related information and documents
+as referred to in this Ministerial Regulation
+in accordance with the needs of law enforcement
+done.
+(3) The Minister imposes administrative sanctions on
+Cloud Computing Providers that do not:
+a. provide access to law enforcement officers
+as regulated in Article 42;
+
+Page 39
+-39-
+
+b. have an audit track record as stipulated in
+Article 43 paragraph (1) and Article 44 paragraph (1).
+(4) Administrative sanctions as referred to in paragraph
+(3) in the form of:
+a. written warning; and/or
+b. revocation of System Operator Registration Certificate
+Electronic.
+(5) The administrative sanctions as referred to in paragraph
+(4) submitted by electronic mail ( electronic mail )
+and/or other electronic media.
+
+CHAPTER VI
+TRANSITIONAL TERMS
+
+Article 47
+Private Scope PSE as regulated in this Ministerial Regulation
+required to register within a maximum period of
+no later than 6 (six) months after this Ministerial Regulation comes into force.
+
+CHAPTER VII
+CLOSING
+
+Article 48
+At the time this Ministerial Regulation comes into force:
+a. Regulation of the Minister of Communication and Information Technology No
+19 of 2014 concerning Handling Internet Sites
+Negatively Charged (State Gazette of the Republic of Indonesia
+2014 Number 1003); and
+b. Regulation of the Minister of Communication and Information Technology No
+36 of 2014 concerning Procedures for Registration
+Electronic System Operator (State Gazette of the Republic of Indonesia)
+Indonesia Year 2014 Number 1432),
+revoked and declared invalid.
+
+Article 49
+This Ministerial Regulation comes into force on the
+invited.
+
+Page 40
+-40-
+
+For everyone to know, command
+promulgation of this Ministerial Regulation with its placement penempatan
+in the State Gazette of the Republic of Indonesia.
+
+Set in Jakarta
+on November 16, 2020
+
+MINISTER OF COMMUNICATION AND INFORMATION
+REPUBLIC OF INDONESIA,
+
+signed.
+
+JOHNNY GERARD PLATE
+
+Promulgated in Jakarta
+on November 24, 2020
+
+DIRECTOR GENERAL
+LEGISLATION
+MINISTRY OF LAW AND HUMAN RIGHTS
+REPUBLIC OF INDONESIA,
+
+signed.
+
+WIDODO EKATJAHJANA
+
+STATE GAZETTE OF THE REPUBLIC OF INDONESIA YEAR 2020 NUMBER 1376
+Copies match the original
+Ministry of Communication and Informatics
+Electronically signed
+by:
+HEAD OF LAW FIRM
+
+Bertiana Sari
+
+Page 41
+-41-
+
+ATTACHMENT
+REGULATION OF THE MINISTER OF COMMUNICATION AND
+INFORMATION OF THE REPUBLIC OF INDONESIA
+NUMBER 5 YEAR 2020
+ABOUT THE MANAGEMENT GOVERNANCE
+ELECTRONIC SYSTEM PRIVATE SCOPE
+
+DELIVERY PAGE ( LANDING PAGE )
+
+

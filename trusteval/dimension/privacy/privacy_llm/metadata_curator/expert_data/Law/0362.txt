@@ -1,0 +1,258 @@
+
+Privacy Protection Regulations (Conditions for holding and storing
+information and arrangements for the transfer of information between
+public bodies), 1986
+By virtue of my authority under section 23G and section 36 of the Privacy
+Protection Law, 5741-1981 (hereinafter - the Law), and with the approval of
+the Constitution, Law and Justice Committee of the Knesset, I am enacting
+:these regulations
+Chapter A: Interpretation
+Definitions
+
+- In these regulations .1
+Data Security "," Database "," information "," Database Manager "," wrote "
+;down "," Integrity of information "- as defined in section 7 of the Law
+;A public body "- as defined in section 23 of the Law "
+:Limited information "- any of the following "
+;Information about a person's health status or the privacy of his personality (1)
+;Information stored in the databases listed in section 13 (e) of the Law (2)
+Other information determined by the Minister of Justice in the order that it (3)
+;is restricted
+;Excess information "- as defined in section 23E of the Law "
+Security Officer "- a person appointed to the Commissioner of Information "
+Security under section 17B of the Law or a person who the Director of the
+Database has determined is responsible for the security of the information in
+;the Database
+;notebook "- within the meaning of section 12 of the Law "
+.Use "- as defined in section 3 of the law "
+Chapter B: General Instructions for Managing a Database
+Notice of Security Officer
+
+(Canceled) .2
+Responsibility of a database manager
+
+(Canceled) .3
+Chapter C: Procedures for transferring information between public bodies
+Information Transfer Committee
+
+a. (A) The Director General of a public body shall appoint a committee for 3
+.the transfer of information in accordance with Chapter D of the Law
+B) The General Manager shall be the Chairman of the Committee, however)
+he may appoint his Deputy Chairman of the Committee in his place or a
+senior employee directly subordinate to him; For the purposes of this
+.Regulation, " Employee "- including a soldier, prison guard or policeman
+third) Among the members of the committee will be the legal adviser of the)
+public body or its representative, and employees whose area of ​practice is
+information management and security; The number of committee members
+.shall not be less than three
+- D) The committee will discuss and decide if and to what extent)
+;Grant requests for information from the public body (1)
+Approve the submission of requests by the public body for information (2)
+.from another public body
+God) The committee will establish provisions regarding the permissions and)
+restrictions regarding access to the databases; The provisions of section 6 of
+the Freedom of Information Law, 5758-1998 (hereinafter - the Freedom of
+.Information Law) shall apply to these provisions
+Security of information upon delivery
+
+When lawfully passing information from a public body system to another .4
+public body system, the database administrators of both systems are
+responsible for taking security and control actions and for using the
+information in the receiving system at a level equal to that practiced in the
+.submitting system
+Delivery procedure
+
+a) The administrators of the database of systems that regularly submit and) .5
+receive information will conduct the contracting procedure for the transfer of
+information between their systems, in which the principles of security, access
+control and registration of the information provided in accordance with these
+regulations will be applied. Copies of this management will be kept in the
+.possession of the database administrators of the systems
+B) No information will be provided on a regular basis until such an)
+.engagement procedure has been conducted
+Handling excess information
+
+A recipient of information who has received information under these .6
+regulations will immediately upon receipt of the data separate the excess
+.information and delete it immediately
+Request for transfer of information
+
+a) A request for information will be made according to Form A in the) .7
+.appendix
+B) The consent of the public body to the provision of the information will be)
+.made in accordance with Form B in the appendix
+third) Notice to the Registrar from a public body that regularly receives)
+information in accordance with section 23C of the Law and the information is
+stored in a database, shall be prepared in accordance with Form C in the
+.Appendix
+D) An application and consent for the transfer of information is subject to the)
+approval of the Legal Adviser and the Commissioner of Information Security
+of the Moral Public Body and of the receiving public body, on Form A or Form
+.B in the Appendix, as the case may be
+God) A form of the forms referred to in this Regulation shall be completed in)
+.full
+and) The Director of the Database shall maintain a list of all the databases of)
+the bodies, with the exception of the databases listed in section 13 (e) of the
+Law, to which information is regularly provided from the database of the
+public body and the type of information transmitted; The list will be available
+for public inspection and the provisions of section 6 (b) of the Freedom of
+Information Law will apply to it; The list will be available for public inspection
+on the public body's website, and in the absence of a website, the head office
+.and the district offices, if any
+Chapter D: Arrangements for the management of a database containing limited
+information and the rules for its use
+incidence
+
+The rules set out in this chapter will apply to a database containing limited .8
+information and will be operated by the database manager in accordance with
+.the circumstances of use of the database over which he is responsible
+File of procedures
+
+(Canceled) .9
+Marking means containing information and storing them
+
+(Canceled) .10
+Marking computer prints
+
+Detachable files and computer printouts that contain limited information .11
+and are produced for another public body will be produced accompanied by a
+prominent address on each page: " Contains protected information under
+the Privacy Protection Law - unlawfully submitted and commits an
+offense "; The said printouts shall be delivered against certificates of delivery
+and confirmation of receipt by the body entitled to receive the information
+.under the law
+Database documentation
+
+(Canceled) .12
+Elimination of measures
+
+(Canceled) .13
+Registration of access permissions
+
+(Canceled) .14
+Exceptional events log
+
+(Canceled) .15
+first
+
+These Regulations shall commence nine months from the date of their .16
+.publication
+extension
+Form A (Regulation 7 (a)) Request for information from a public body
+Form B
+((Regulation 7 (B)
+Consent of a public body to provide information
+According to the Privacy Protection Law, 5741-1981
+A. Identification of the bodies
+The requesting public body
+____________________ There
+
+The public body that holds the
+information
+_____________________ There
+
+____________________ People _______________________ People
+___________________ Phone
+
+____________________ Phone
+
+____________________ Fax
+
+____________________ Fax
+
+_____________ E-mail
+
+_____________ E-mail
+___________ Computer Unit Address
+Name of the computer unit supervisor
+___
+Name of Attorney General
+___________
+Name of the reservoir manager
+____________
+
+B. Consent / Rejection / Reservation Requests the transfer of information that
+has been copied continuously The application is approved without change.
+The application is denied for the following reasons:
+_______________________________________________________ The
+application is approved with the following changes in the content of the
+information: 1. Source file _______________________________________ 2.
+Types of records to be included in the information provided
+______________________ 3.1 The record of information provided shall
+include excess information as follows: ____________________ Note: If a
+comprehensive information file is provided, the description of the file and the
+structure of the records in it must be attached. 3.2 The record of the
+information provided will be missing the following details:
+___________________ The reasons for not providing the requested
+information are: ______________________________ 3.3 Frequency of
+information transfer ______________________________________ 3.4 How
+to transfer the information
+____________________________________________ 4. Information
+security provisions 4.1 The application is approved within the framework of
+the security arrangements specified in the application. 4.2 The application is
+approved on condition that the applicant activates the following additional
+arrangements: 5. Signatures of authorized persons on behalf of the public
+:body agreeing: 5.1 Database Manager
+______________________ ______________________ ______________________
+Signature stamp
+
+Degree / position
+
+There
+
+:The Commissioner for Reservoir Security 5.2
+______________________ ______________________ ______________________
+Signature stamp
+
+Degree / position
+
+There
+
+Approval of the Legal Adviser of the Public Body Agrees: To the best of 5.3
+my knowledge there is no legal impediment to the transfer of information
+_______________________ _______________________ _______________________
+stamp
+
+signature
+
+There
+
+Form C
+((Regulation 7 (c)
+Notice of receipt of information on a regular basis
+Pursuant to section 23D of the Protection of Privacy Law,
+5741-1981
+To: Registrar of Databases, Ministry of Justice, Jerusalem
+????????
+??? _________________ Public body name
+???__________________________address
+???_________________________phone
+??? ________________ Computer Unit Address
+??? _________________ Name of the database manager
+B. We hereby inform you that the body mentioned above regularly receives
+information in accordance with section ___ of the Law as detailed below: 1.
+Description of information ______________ 2. The information is obtained
+from: ___________ 3. Frequency of information transfer ________ 4. I
+declare that the notices of transfer of the said information in accordance with
+Forms A and B in addition to the Regulations for the Protection of Privacy
+(Conditions for holding and storing information and arrangements for the
+transfer of information between public bodies), 1986 were prepared and
+.signed as required
+_______________________
+Signature of the database
+manager
+_______________________ _______________________ _______________________
+signature
+
+Job title
+
+There
+
+Buy your RolexWatch now
+Exceptional Range Of Classic and Elegant
+RolexWatches At Chrono24.
+Chrono24
+
+Open
+
+

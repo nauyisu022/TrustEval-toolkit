@@ -1,0 +1,554 @@
+Page 1
+
+TC260-PG-20203A
+
+Cybersecurity Standard Practice Guide
+—Mobile Internet application (App) personal information protection
+Nursing common problems and handling guide
+
+(V1.0-202009)
+
+Secretariat of the National Information Security Standardization Technical Committee
+September 2020
+This document is available from the following URL:
+www.tc260.org.cn/
+
+Page 2
+
+Preface
+"Network Security Standard Practice Guide" (hereinafter referred to as "Practice Guide")
+Is the National Information Security Standardization Technical Committee (hereinafter referred to as "Information Security Standards Committee")
+The technical documents related to standards developed and released by the Secretariat are designed to focus on the network
+Security laws, regulations, policies, standards, network security hotspots and incidents, etc., to declare
+Disseminate standards and knowledge related to network security, and provide standardized practice guidelines.
+
+I
+
+Page 3
+
+statement
+The copyright of this "Practice Guide" belongs to the Secretariat of the Commission of Standardization and Security, without the secretary
+Authorized by the Department in writing, not to plagiarize or translate the "Practice Guide" in any way
+Any part. Where reprinted or quoted the opinions and data of this "Practice Guide",
+Please indicate "Source: Secretariat of the National Information Security Standardization Technical Committee".
+
+Technical Support Unit
+This "Practice Guide" was obtained by China Electronics Standardization Institute, China
+Cyber ​Security Review Technology and Certification Center, Beijing Institute of Technology, Tsinghua University,
+The First Research Institute of the Ministry of Public Security, Beijing Information Security Evaluation Center, China Mobile
+Technical support from Group Co., Ltd. and other units.
+II
+
+Page 4
+
+Summary
+This practice guide is based on the requirements of laws, regulations and policies,
+Excessive collection, mandatory claims, frequent claims, unsynchronized notification of the collection purpose
+Based on the statistics of the frequency of related problems, the current App is given
+Top ten common problems and handling guidelines for personal information protection, App operators are recommended to participate
+Take this practical guide to prevent and deal with related problems.
+
+III
+
+Page 5
+
+table of Contents
+1 Scope................................................ ............ 1
+2 Top Ten Frequently Asked Questions and Handling Guidelines for App Personal Information Protection... 1
+2.1 Failure to specify the purpose, type, and method of the collection and use of personal information... 1
+2.2 The privacy policy has not obtained the user's express consent......................................... .. 3
+2.3 Out-of-range collection... ............. 3
+2.4 Mandatory Bundling Authorization............................................ ........... 6
+2.5 Collecting personal information without the user's consent....................................... ... 7
+2.6 Application for permission or collection of sensitive personal information without synchronization notification purpose...9
+2.7 The actual collection and use of personal information is inconsistent with the statement...10
+2.8 Providing personal information to a third party without consent....................................... 12
+2.9 No functions or channels for deletion, correction or complaints and reports are provided...13
+2.10 Failed to provide a valid way to cancel the user account........................15
+references................................................ .................... 18
+
+IV
+
+Page 6
+
+1 Scope
+This practice guide gives the current top ten common problems and typical examples of personal information protection in App 1.
+The situation of the problem, and the corresponding treatment suggestions are given at the same time.
+This practice guide is suitable for App providers to prevent and dispose of personal information protection FAQ
+It can also be used for App developers, mobile Internet application distribution platform operators, and mobile smart
+Can provide reference for terminal manufacturers.
+
+2 Ten FAQs and Handling Guidelines for App Personal Information Protection
+2.1 Failure to specify the purpose, type, and method of personal information collected and used
+2.1.1 Problem description
+The App does not specify the purpose, type, and method of personal information collected and used.
+List App (including commissioned third-party or embedded third-party code, plug-ins) to collect and use
+The purpose, method, and scope of personal information. Typical problems include but are not limited to:
+Scenario 1: Use a general description or an incomplete list of business functions for collecting personal information
+And the purpose, type, and method of collecting personal information. For example, using "etc., for example" does not
+Fully enumerate the types of personal information collected.
+Case 2: The embedded third-party code and plug-in's purpose for collecting and using personal information is not listed
+, Type, method. App embeds third-party code or plug-ins that collect user personal information
+(Such as a third-party SDK), but not through a privacy policy or other obvious means (such as a third-party
+Code or plug-in privacy policy link) to show users the personal information of the third-party code or plug-in
+Collect usage behavior.
+
+1Apps in this
+
+practice guide refer to those that are obtained through pre-installation, download, etc. and run on mobile smart terminals to provide users with information services.
+
+application.
+
+1
+
+Page 7
+
+Scenario 3: The purpose, type, and type of personal information collected and used by the entrusted third party are not listed.
+the way. App entrusts a third party to process personal information, and it fails to pass the privacy policy or other parties
+In this way, it is clear to the user that it entrusts a third party to collect and use personal information.
+Scenario 4: When the purpose, method, and scope of the collection and use of personal information change,
+Notify users in an appropriate manner. For example, the privacy policy is not updated in time, or users are not reminded to read
+Wait.
+2.1.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Complete, clear and differentiated description of personal information collected by each business function. Should be based on
+User habits explain the purpose, type, and method of collecting personal information for each business function item by item,
+Avoid incomplete enumerations such as "etc.".
+b) Use cookies and other similar technologies (including scripts, Clickstream, Web beacons,
+Flash cookies, embedded Web links, etc.) when collecting personal information, briefly explain the relevant machine
+System, as well as the purpose and type of personal information collected.
+c) If the embedded third-party code or plug-in (such as SDK) collects personal information, explain the
+The third-party code, the type or name of the plug-in, and the purpose, type, and method of collecting personal information.
+d) If there is an entrusted third party to process personal information, state the type or identity of the entrusted third party
+Copy, the type of personal information involved, the purpose of entrusted processing, etc.
+e) When the purpose, method, and scope of the collection and use of personal information change, update privacy
+Collect and use rules for policies, etc., and use push messages, emails, pop-ups, red dot prompts, etc.
+Remind users to read the changed terms.
+
+2
+
+Page 8
+
+2.2 The privacy policy has not obtained the user's express consent
+2.2.1 Problem description
+App’s privacy policy without the user’s express consent means that the App uses the default selection of the same
+The user’s consent is obtained in non-explicit ways such as intention, and its typical problem situations include but are not limited to:
+Case 1: The user is not prompted to read the privacy policy. Not used by the user for the first time or
+Proactively prompt users to read the privacy policy when registering, or to reduce the font size, lighten the color, or block, etc.
+Ways to induce users to skip the privacy policy link.
+Case 2: Agree is checked by default. For example, in the App under the registration/login interface "I have
+Read and agree to the service license agreement and privacy policy."
+Hook; only the privacy policy link is given at the bottom of the registration/login interface, and it does not indicate that after registration/login
+Whether it is deemed to agree to the privacy policy.
+2.2.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Provide users with active choice of consent, or a noticeable reminder of users to agree to the privacy policy after reading
+For the options of the policy, the consent is not checked by default if the consent is obtained through the check box.
+b) When running the App for the first time or registering a user, actively prompt the user to read the privacy policy.
+For example, actively display the main or core content of the privacy policy through pop-up windows, etc., to help users manage
+Understand the scope and rules of collecting personal information and then make a decision.
+2.3 Over-range collection
+2.3.1 Problem description
+App over-range collection means that it violates the necessary principles and collects personal information that has nothing to do with business functions.
+Personal information, or the scope and frequency of collecting personal information beyond the realization of App business functions.
+
+3
+
+Page 9
+
+International needs, typical problem situations include but are not limited to:
+Situation 1: Collect irrelevant personal information. The type of personal information collected and the app provided
+The business function is irrelevant, for example, an app that does not provide a text message function can read text message data.
+Situation 2: Mandatory collection of non-essential personal information. Because the user does not agree to collect non-essential data
+Person information, the App refuses to provide business functions. For example: because the user refuses to provide a certain type of service
+For information other than the minimum necessary personal information 2 , the App refuses to provide basic services of this type of service
+Function; only to improve service quality, enhance user experience, push information directionally, and develop new products
+For reasons such as products, users are compulsory to agree to the collection of personal information; in non-essential service scenarios,
+Inducing or compulsory collection of personal biometric information, hand-held ID card photos and other sensitive personal information
+Information, such as those that can be verified by password to ensure security, but induce users to use fingerprints
+Verification by way of recognition or face recognition.
+Situation 3: Excessive claims. App request permission of range 3 , for example: Open the application and
+Permissions that are irrelevant to the business functions provided by the App; when the App is installed and running, apply to the user for the right
+Non-essential permissions for the former service type. After the user rejects the authorization application, the App exits, closes, or refuses
+Never provide basic business functions of this type of service; App does not use related functions or services when the user
+At the time, apply for permission to open the address book, location, SMS, microphone, camera, etc. in advance.
+Note: For the necessary system permissions of the service type, please refer to "Information Security Technology Mobile Internet Application (App)
+The minimum necessary personal information for the common service types in the Basic Regulations for the Collection of Personal Information shall be judged.
+
+Situation 4: The timing and frequency of collection are unreasonable. For example: the frequency of collecting personal information exceeds
+The actual needs of the App’s business functions, especially in the silent state or when running in the background, receive
+The frequency and quantity of collecting personal information exceed business needs. For example, every 1
+
+2 minimum
+
+necessary personal information, personal information refers to a particular type of service guarantee a minimum uptime enough, once the lack of will lead to the type of service
+
+Basic business functions cannot be realized or cannot operate normally.
+3 The
+
+"authority" in this practice guide refers to the "authority to collect personal information".
+
+4
+
+Page 10
+
+The user’s precise location information is uploaded once every second; after the user closes the app, the app does not have the same
+It intends to collect personal information through self-initiated and associated initiation methods.
+2.3.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Combined with actual business functions and scenarios, the types of personal information collected by the App should be
+It is directly related to business functions and does not collect personal information that is not related to the business functions provided.
+b) Follow the principle of least necessary, and only apply for permissions necessary for App business functions, and do not apply
+Please have permission that has nothing to do with the business function of the App (even if the user can choose to refuse).
+c) Refer to "Information Security Technology Mobile Internet Application (App) Collecting Personal
+Information Basic Norms", clarifying the types of services provided by the App and the minimum necessary personal information
+Not because the user refuses to provide information other than the minimum necessary personal information.
+The basic business functions of the type of service.
+Note 1: The "Information Security Technology Mobile Internet Application (App) Basic Specifications for Collecting Personal Information" gives
+The minimum necessary personal information for common types of services.
+Note 2: "Network Security Standard Practice Guide-Mobile Internet Application (App) System Permission Application Guidelines
+South", gives examples of business functions related to permissions, and has a low degree of correlation with common service types, so it is not recommended
+The Android system permissions applied for.
+
+d) If the user refuses or revokes the non-essential system permissions granted to a certain service type, the App should not
+Forcibly quit or close, and does not affect the use of business functions unrelated to this authority.
+e) The permissions required by the App should be dynamically applied for when the corresponding business function is executed.
+When triggering related business functions, do not apply for permissions unrelated to the current business functions in advance.
+f) After the permission application is authorized, the frequency of automatic collection of personal information should be
+Within the minimum reasonable frequency range necessary for business functions, and only access to meet the needs of business functions
+The minimum personal information.
+
+5
+
+Page 11
+
+g) In addition to satisfying laws and regulations, protecting public interests and personal important personal property rights
+In addition to the benefits, apps should not restrict the use of personal biometric information as the only
+One way to achieve business goals.
+2.4 Mandatory Bundled Authorization
+2.4.1 Problem description
+App mandatory bundling authorization refers to unreasonable methods such as bundling, frequent interruption, etc.
+Users agree to collect personal information or apply for system permissions. Typical problems include but are not limited to
+in:
+Scenario 1: The user is required to agree to open multiple permissions for collecting personal information at one time.
+If the user does not agree, it cannot be installed or used. For example, when the user installs the App, it is packaged in a bundle
+Form to apply for all the permissions declared to the operating system. If the user does not agree, it will not be able to install or use
+After the installation is complete, all permissions applied for are opened by default (such as the Android version of the App Settings
+The targetSdkVersion is less than 23).
+Situation 2: Frequent claims for rights. App frequently applies after the user explicitly rejects the permission request
+The right to open the address book, location, SMS, microphone, camera, etc. that are not related to the current business function
+Limit harassment of users. For another example, for the optional permissions provided by the user, after the user explicitly rejects it,
+Whenever it reopens the App or enters the corresponding interface, it will ask the user again for
+Window and other forms prompt the user to lack the relevant authority, which interferes with the normal use of the user.
+Scenario 3: Obtaining consent for the collection of new types of personal information in a bundled manner. App
+The personal information collected by the new business function application is beyond the scope of the user’s original consent. If the user does not
+Agree, then refuse to provide the original business function (new business function to replace the original business function
+except).
+
+6
+
+Page 12
+
+2.4.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) The target API level of the Android App should not be lower than 23 (targetSdkVersion>=23),
+The target API level should be updated in time to adapt to the new version of Android.
+Note: As of the release of this practice guide, it is recommended to set the target API level not lower than 28.
+
+b) App should distinguish between basic business functions and additional business functions, not through bundled services
+Type, bundling of basic business functions and additional business functions, etc., mandatory for users to one-time
+Authorize and agree to personal information collection request.
+c) For only realizing additional functions, personalized services, enhancing user experience, and at the same time
+Personal information that is not necessary for the basic business functions of the App can be obtained separately from the user.
+And guarantee the user’s right to refuse the collection of personal information, and after the user refuses such information
+Does not affect its normal use of the basic business functions of the App.
+d) If the user explicitly rejects the permissions required for the App’s business functions, the App should not frequently apply for the system
+System authority interferes with the normal use of the user, unless the user actively triggers the function and does not have the authority
+Participation in this business function cannot be achieved. "Frequent" forms include but are not limited to:
+1) After the user denies permission for a single scene, a pop-up window prompts the user to open within 48 hours
+The number of system permissions exceeds 1 time;
+2) Every time you reopen the App or use a certain business function, you will be asked
+Want or prompt the user for lack of relevant system permissions.
+2.5 Collection of personal information without user consent
+2.5.1 Problem description
+App collects personal information without the user’s consent, which refers to the actual collection and use of personal information
+
+7
+
+Page 13
+
+Behavior without the user’s consent or against the user’s wishes, typical problems include but are not limited to:
+Scenario 1: Start collecting personal information before obtaining consent. For example, when the app is first run,
+Before the user clicks to agree to the privacy policy, the personal information collection behavior has occurred.
+Scenario 2: Personal information is still collected after refusing or withdrawing consent. User revokes authorization
+After that, relevant personal information is still collected. For example, after the user denies the phone permission, there are still collections
+IMEI behavior.
+Scenario 3: Private interception of personal information provided by users to third parties. Without the user’s consent,
+Collect personal information provided by users to third parties (including access to third-party applications).
+Scenario 4: Reading personal information on the clipboard or public storage area without the user's consent.
+If the banking app is not stated in the privacy policy, it will read the clipboard content. When the user opens
+Banking App, prompting the user whether to transfer money to the account in the clipboard.
+Scenario 5: Privately invoke permissions to upload personal information in secret. For example, using cameras, microphones
+When obtaining sensitive personal information with sensitive permissions such as the wind, location, etc., it is hidden without the user’s knowledge.
+Shield read and upload personal information.
+2.5.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Before the user clicks to agree to the privacy policy, no personal information collection will occur.
+b) Place the trigger time of the permission application after the user clicks to agree to the privacy policy.
+c) If the App does not have the actual business function of downloading and reading external storage files, you can directly
+Save it in the App's own directory. It is not recommended to apply for external storage permissions.
+d) The following operations should be actively triggered by the user and executed under the knowledge of the user:
+1) Perform operations such as making phone calls and sending text messages;
+
+8
+
+Page 14
+
+2) Turn on or off Wi-Fi, Bluetooth, GPS, etc.;
+3) Shooting, recording, screenshots, screen recordings, etc.;
+4) Read and write personal information such as user text messages and contacts.
+e) Personal information should not be collected concealedly. When recording, shooting, screen recording, positioning and other sensitive functions
+When it can be executed in the background, significant methods (such as flashing icons, prompts in the status bar, customized
+Prompts, etc.) to prompt the user.
+f) It should not be read and uploaded in a concealed manner without the user’s knowledge or authorization.
+Pass the personal information contained in the clipboard and the personal information in the public storage area.
+g) For situations where users directly provide personal information to third parties, do not collect users privately
+Personal information provided directly to third parties.
+2.6 Application for permission or collection of sensitive personal information without synchronization notification purpose
+2.6.1 Problem description
+App applies for permission or collects sensitive personal information without synchronization notification purpose, it refers to App
+When applying for permission or collecting personal sensitive information, the purpose of collection or description of the purpose is not notified synchronously
+Unclear, its typical problem situations include but are not limited to:
+Scenario 1: The purpose of collecting sensitive personal information is not notified simultaneously. Collect ID number,
+When personal sensitive information such as bank accounts and personal biometric information is not notified to the user
+purpose. For example, the App did not display a separate agreement or perform distinctive features before collecting facial recognition features.
+As a special note, after the user clicks "Continue", the App starts to pick up data without any prompts.
+Set the user’s facial recognition features.
+Situation 2: Failure to inform the purpose of the permission application. The app did not sync the permission when applying for permission
+The purpose of the application, such as only applying for permission from the user through the pop-up window of the operating system without the right to inform
+
+9
+
+Page 15
+
+Limited to the purpose of application.
+Situation 3: The purpose of the notification is not clear. The purpose description is unclear and difficult to understand, for example,
+The purpose is described as "in order to ensure the normal use of certain permissions related functions", "in order to ensure the App
+"Normal operation", "in order to improve user experience", etc., without specifying the use of permissions
+purpose.
+2.6.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Before collecting personal biometric information, inform users separately about the collection and use of personal biometric information.
+The purpose, method and scope of the identification information, as well as the storage time and other rules, and ask users
+Express consent.
+b) When collecting personal sensitive information such as ID number, bank account, whereabouts, etc., synchronize
+Inform users of the purpose of collection and use, which should be clear and easy to understand.
+c) When applying for permission, the purpose of permission application should be notified simultaneously, and the purpose is clear and easy to understand.
+Does not contain any description of fraud, deception, or misleading user authorization.
+d) For the operating system whose purpose can be edited in the pop-up window of the permission application system, the App can be operated
+Edit the specific application purpose in the permission application pop-up window provided by the system; the permission application system
+If the purpose cannot be edited in the unified pop-up window, it is recommended to notify the user through App pop-up prompts, etc.
+Know the purpose of the permission application.
+2.7 The actual collection and use of personal information is inconsistent with the statement
+2.7.1 Problem description
+App’s actual collection and use of personal information is inconsistent with the statement, which means that the App’s actual
+The personal information collected and used is beyond the scope of the user’s authorization, or the actual behavior and its declared privacy
+
+10
+
+Page 16
+
+There are deviations and inconsistencies in the collection and use rules such as private policies. Typical problem situations include but not
+Limited to:
+Scenario 1: The actual scope of personal information collected and used is inconsistent with the privacy policy.
+For example, the actual collection and use of personal information is beyond the scope of the privacy policy, that is, the actual collection
+Personal information is not stated in the privacy policy or in other forms; the actual collection and use of personal information
+The scope of is less than stated in the privacy policy, that is, it states that personal information and permissions that are not actually collected
+Or business functions not provided.
+Situation 2: Deliberately deceive, cover up the true purpose of collecting and using personal information, and deceive it
+The user agrees to collect personal information or apply for access. For example, to add a contact as a reason to apply for a pass
+Address book permission, the user uploads the entire address book after opening the permission, and uses this type of information to send
+Commercial advertising or other purposes; another example is to deceive and mislead through points, rewards, discounts, etc.
+The user provides the ID number and personal biometric information.
+Situation 3: There are obvious deviations and errors in the privacy policy. Which is stated in the privacy policy and
+There are obvious deviations, errors, and even large-scale plagiarism in the actual situation, which leads to the privacy policy.
+Don't wait for it.
+2.7.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) The type of personal information actually collected, and the right to open the application to collect and use personal information
+Restrictions, provided business functions, etc., are consistent with the relevant content in the privacy policy and other collection and use rules,
+It does not exceed the scope of the collection and use rules such as the privacy policy.
+b) Strictly abide by the privacy policy and other collection and use rules, App collects or uses personal information
+The function design of the system is consistent with the privacy policy and adjusted synchronously.
+
+11
+
+Page 17
+
+c) It is clearly stated that the purpose of collecting and using personal information needs to be true and accurate, and does not deliberately deceive or conceal
+Play the true purpose of collecting and using personal information, and do not trick users into agreeing to collect personal information or hit
+Open the right to collect personal information.
+2.8 Providing personal information to third parties without consent
+2.8.1 Problem description
+App provides personal information to a third party without consent, it means that App without user’s consent,
+It has not been anonymized, and privately sent or shared personal information with other third-party applications or servers.
+Information, its typical problem situations include but are not limited to:
+Scenario 1: App directly provides personal information to a third party without consent. For example exists
+The App client directly transmits personal information (such as device identification information, business
+Product browsing history, search usage habits, commonly used software application lists, etc.), or data transmission
+After going to the App back-end server, provide the third party with personal information collected by the third party, but
+The user is not stated in the privacy policy or in other obvious ways, or the user is not authorized by the user.
+It is not anonymized.
+Case 2: The embedded SDK provides personal information to a third party without consent. For example exists
+The embedded third-party code and plug-in transfer personal information to the third-party server, but
+The user is not stated in the privacy policy or in other obvious ways, or the user is not authorized by the user.
+It is not anonymized.
+2.8.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) If there is a situation where personal information is sent directly from the client to a third party, including through
+The client embeds third-party code, plug-ins (such as SDK), etc. to send personal information to the third party
+
+12
+
+Page 18
+
+In the case of information, the user’s consent must be obtained in advance, except for the anonymization.
+b) After personal information is transmitted to the server, the App operator will provide the third party with its collection
+The personal information of, requires the user’s consent in advance, except for the anonymized processing.
+c) Such as the type of personal information transmitted to a third party, the identity of the third party receiving the data, etc.
+In the event of a change, the user shall be notified in an appropriate manner and the user’s consent shall be obtained.
+d) If the App is connected to a third-party application, when a user uses a third-party application,
+After the user agrees, the personal information is provided to the third-party application. When the user learns that the application is the third
+After the party provides it, the third party directly authorizes it by self-filling and other methods.
+e) App providers are advised to collect personal information legally and properly for the third-party apps accessed.
+Appropriate, necessity and other aspects shall be reviewed, and relevant business functions shall be clearly identified as provided by third parties.
+f) When users jump to third-party applications, they should remind users to pay attention to the collection of third-party applications
+Rules of use.
+g) App should review the authority to use third-party code (such as SDK), and require citation
+The permissions required to import third-party code are minimized.
+h) App should adopt technical testing, security audit and other means to ensure that third-party code or plug-in
+The collection and use of the software comply with the agreed requirements.
+2.9 No functions or channels for deletion, correction or complaints and reports are provided
+2.9.1 Problem description
+The App does not provide functions or channels for deletion, correction, or complaints and reports, which means that the App has not
+Provide effective and timely response to delete, correct, or complain and report functions or channels, or design
+Unreasonable conditions are set, and typical problem situations include but are not limited to:
+Scenario 1: Personal information cannot be deleted or unreasonable conditions are set. For example, App did not mention
+
+13
+
+Page 19
+
+Provide effective personal information deletion functions or channels; set unreasonable rules for deleting personal information
+Failed to respond to users’ requests for deletion of personal information in accordance with relevant requirements or agreed time limits.
+Situation 2: Unable to correct personal information or set unreasonable conditions. For example, App did not mention
+Provide effective personal information correction functions or channels; set unreasonable rules for correcting personal information
+File; failed to respond to the user’s request for correction of personal information in accordance with the relevant requirements or agreed time limit; the user has completed
+The operation of correcting personal information is completed, but the App background has not completed, etc.
+Situation 3: No personal information appeal channel is provided or the user appeal mechanism is invalid. E.g,
+Failed to establish and publish personal information security complaints and reporting channels, or fail to meet the commitment time limit (undertaking
+The promised time limit shall not exceed 15 working days, if there is no promised time limit, the limit shall be 15 working days)
+Accepted and processed.
+2.9.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Provide effective ways to correct and delete personal information.
+b) It is advisable to provide online operation methods to respond to personal information correction and deletion requests in a timely manner.
+If it is handled by workers, it shall be within the promised time limit (the promised time limit shall not exceed 15 working days, and there is no promise
+If there is a time limit, 15 working days are the limit) to complete the verification and processing.
+c) The function of correcting and deleting personal information should be simple and easy to operate.
+Reasonable conditions.
+d) When the user corrects, deletes personal information and other operations are completed, the App background will complete the execution in time
+Related operations, if personal information needs to be retained due to laws and regulations, it will no longer be used in Japan
+Often in business.
+e) Establish and publish channels that can accept complaints and reports related to personal information security issues,
+
+14
+
+Page 20
+
+Acceptance can take the form of online operation, customer service telephone, email, etc.
+f) Properly accept complaints and reports related to personal information from users, and within the promised time limit
+Within (the commitment time limit shall not exceed 15 working days, if there is no commitment time limit, 15 working days shall be
+(Limited) to accept and process.
+2.10 Failure to provide an effective way to cancel user accounts
+2.10.1 Problem description
+App does not provide a valid way to cancel user account, it means that the App does not provide a valid
+Functions or channels for canceling user accounts, or setting unnecessary or unreasonable rules for canceling user accounts
+Typical problems include but are not limited to:
+Situation 1: Unable to log off or fail to log off as required. For example: App does not provide logout user
+The function or channel of the account; submit the note through App interface, email, customer service phone and other channels
+After the application for cancellation, the cancellation was not completed in accordance with relevant requirements or agreements; after accepting the request for cancellation of the account, the cancellation was not completed.
+Complete the verification and processing within the promised time limit (no more than 15 working days); after the cancellation is successful,
+Failure to delete or anonymize the user’s personal information in accordance with relevant requirements or agreements (laws and laws)
+(Except as otherwise provided by the regulations); it is difficult for users to find the logout entry, or the logout operation process is very difficult.
+Complex and difficult to operate, etc.
+Scenario 2: Setting unreasonable account cancellation conditions. For example: logout process for identity
+During verification, users are required to submit more than the type of personal information collected during App registration and use
+(If the identity information is not provided when registering, but when canceling, it is required to provide a hand-held ID card photo
+, Bind bank cards, etc.); for the situation where the same account is used to register and log in to multiple apps,
+Logging out or exiting a single App will cause other unnecessary business-related apps to be unavailable;
+Users are required to fill in accurate historical operation records as a necessary condition for logout.
+
+15
+
+Page 21
+
+2.10.2 Disposal guidelines
+Suggestions for handling this issue, including but not limited to:
+a) Provide simple and easy-to-use logout functions or channels, if possible, it should be in the application or website
+The convenient interactive page provides online logout function, and the logout entry is easy to access.
+The pin status is easy to query.
+b) Do not set unreasonable logout conditions, and fail to respond to account logout requests not exceeding
+GB/T 35273-2020 "Information Security Technology Personal Information Security Specification" 8.7 e) given in
+situation.
+Note: If the user voluntarily chooses to give up the corresponding rights and interests under the account (such as XX currency, XX points), it should be allowed if possible
+The user logs off the account.
+
+c) If identity verification is required during the cancellation process, the user is not required to provide more than registration, use
+The type of personal information collected in the service links, especially when logging off, it is required to provide additional hand-held information.
+ID photo, bank card binding, face recognition, etc.
+d) Develop and publicize account cancellation terms, and specify the conditions, consequences, methods, and methods of account cancellation
+Process and other information.
+Note: The cancellation clause can be used as a chapter of the personal information protection policy, or a separate cancellation agreement can be made.
+
+e) Respond to the user's logout request in a timely manner, if manual processing is required, within the promised time limit (not
+More than 15 working days) to complete the verification and processing.
+f) Data processing after user logout, suggestion:
+1) After logging out, stop the collection and use of user personal information, and follow relevant requirements
+Suvhe agreed to delete his personal information or anonymize it;
+2) If it is necessary to retain personal information due to laws and regulations, it shall be stored in isolation and not
+Use it in daily business activities;
+
+16
+
+Page 22
+
+3) Personal sensitive information collected as a result of verifying the user's identity when logging out, complete the user
+Delete or anonymize immediately after authentication.
+g) When multiple apps share the same account system, a single app logout suggestion:
+1) Users can log out or log off a single app without affecting unnecessary business-related apps
+Normal use;
+2) Provide measures such as canceling the use relationship of a single App user account to achieve cancellation, and
+Delete other personal information other than the App account;
+3) If there are necessary business associations between multiple apps and the account cannot be split, you need to
+Before logging out, explain to the user in detail the applications associated with the account, logout conditions, and logout
+Consequences and other information.
+Note: The existence of necessary business associations means that once the account of an app is cancelled, it will cause the necessity of other apps.
+The main business function cannot be realized or the service quality is significantly reduced.
+
+17
+
+Page 23
+
+references
+
+[1] National standard "Information Security Technology Mobile Internet Application (App) Collecting Individuals
+Information Basic Standards (Draft for Solicitation of Comments). 2020-01-20.
+[2] China Institute of Electronic Technology Standardization. Top Ten Frequently Asked Questions about App Personal Information Protection Compliance
+Questions and disposal strategies. 2019-10-25.
+[3] App Special Governance Working Group. Is it unnecessary to inform the purpose of App when applying for permission? .
+2019-06-25.
+
+18
+
+

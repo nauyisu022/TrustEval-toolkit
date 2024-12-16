@@ -1,0 +1,491 @@
+Page 1
+
+TC260-PG-20202A
+
+Cybersecurity Standard Practice Guide
+—Mobile Internet application (App) collects and uses
+Personal Information Self-Assessment Guide
+
+Secretariat of the National Information Security Standardization Technical Committee
+July 2020
+This document is available from the following URL:
+www.tc260.org.cn/
+
+Page 2
+
+Preface
+The "Network Security Standard Practice Guide" (hereinafter referred to as the "Practice Guide") is
+
+Secretary of the National Information Security Standardization Technical Committee (hereinafter referred to as "Information Security Standards Committee")
+Standard-related technical documents formulated and released by the Book Office, aiming to focus on network security
+All laws, regulations, policies, standards, network security hotspots and events, etc., to promote
+Network security related standards and knowledge provide standardized practice guidelines.
+
+I
+
+Page 3
+
+statement
+The copyright of this "Practice Guide" belongs to the Secretariat of the Standards Commission for Information Security, without the Secretariat
+Written authorization, not to copy or translate any part of the "Practice Guide" in any way
+section. If you reprint or quote the opinions and data of this "Practice Guide", please indicate
+"Source: Secretariat of the National Information Security Standardization Technical Committee".
+
+Technical Support Unit
+This "Practice Guide" was obtained by China Electronics Standardization Institute, China
+Cyber ​Security Review Technology and Certification Center, China Academy of Information and Communications Technology, Public Security
+Ministry of First Research Institute, China Cyberspace Security Association, China Electronics Technology Group
+The company’s 30th Research Institute, the National Computer Virus Emergency Treatment Center and other units
+Technical Support.
+
+II
+
+Page 4
+
+Summary
+The 2016 Cybersecurity Law was promulgated, clarifying the protection of my country’s cybersecurity
+Basic requirements and systems, and regard the protection of personal information as an important part of network security.
+The essential content is stipulated.
+This "Practice Guide" is based on the requirements of the "Cyber ​Security Law" and other laws and regulations,
+Refer to "Methods for Identifying the Act of Collecting and Using Personal Information in Violations of App Laws and Regulations" and relevant
+Relevant national standards, combined with testing and evaluation work experience, summarized the App collection
+Six evaluation points for the use of personal information: whether to publicly collect and use personal information
+Rules; whether the purpose, method and scope of the collection and use of personal information are clearly stated; yes
+Whether to obtain the user’s consent before collecting and using personal information; whether to follow the necessary principles,
+Only collect personal information related to the service it provides; whether it has been approved by the user
+To provide personal information to others; whether to provide the function of deleting or correcting personal information,
+Or publish information such as complaints and reporting methods for App operators’ self-evaluation reference
+use. Operators such as mini programs and quick apps can also refer to the applicable terms and conditions.
+Self-assessment.
+
+III
+
+Page 5
+
+table of Contents
+Evaluation point 1: Whether the rules for the collection and use of personal information are publicly available... 1
+1.1 Whether to disclose the privacy policy and other collection and use rules... 1
+1.2 Whether to prompt the user to read the privacy policy and other collection and use rules............................... 1
+1.3 Is the privacy policy and other collection and use rules easy to access ... 1
+1.4 Are the privacy policy and other collection and use rules easy to read............ 2
+1.5 Whether the public collection and use rules are complete... . 2
+Evaluation point 2: Whether the purpose, method and scope of the collection and use of personal information are clearly stated............ 4
+2.1 Is the purpose, method, and scope of the collection and use of personal information listed one by one...4
+2.2 Whether the user is notified when the purpose, method, and scope of the collection and use of personal information change... 4
+2.3 Whether to synchronously inform the application for opening permission and the purpose of requesting personal sensitive information...5
+2.4 Are the collection and use rules easy to understand... .. 5
+Evaluation point 3: Whether to collect and use personal information after obtaining the user's consent............................6
+3.1 Whether the user's consent is obtained before collecting personal information or opening the permission to collect personal information...............6
+3.2 The user clearly stated that he does not agree to collect personal information after the collection...6
+3.3 The user clearly expresses his disagreement whether the user's consent is frequently sought after the collection, which interferes with the user's normal use...
+3.4 Whether the personal information actually collected exceeds the scope of the user's authorization............................7
+3.5 Whether to ask for user consent in non-explicit ways such as choosing to agree to the privacy policy by default...7
+3.6 Whether to change the status of the permission to collect personal information without the user's consent......8
+3.7 The option of whether to provide non-directed push information when there is a directional push of information ... 8
+3.8 Whether to mislead users to agree to the collection of personal information in an improper way............. 8
+3.9 Whether to provide users with ways and means to withdraw their consent to the collection of personal information...8
+3.10 Whether it violates its stated collection and use rules...................................... 9
+Assessment point 4: Whether to follow the necessary principles and only collect personal information related to the services it provides.............. 10
+4.1 Whether to collect personal information irrelevant to business functions... 1 0
+4.2 Can the user refuse to collect non-essential information or open non-essential permissions...10
+4.3 Whether to force the collection of users' personal information in an improper way............ 10
+4.4 Does the frequency of collecting personal information exceed the actual needs of business functions...11
+Evaluation point 5: Whether to provide personal information to others after the user's consent........................12
+5.1 Whether to obtain the user's consent before providing personal information to others ...12
+5.2 Has the user's consent been obtained before providing personal information to the accessed third-party application............12
+Evaluation point 6: Whether to provide the function of deleting or correcting personal information, or to publish information such as complaints and reporting methods........ 13
+6.1 Whether to provide an effective function of canceling the user account...................................... 1 3
+6.2 Whether to provide an effective way to correct or delete personal information ...13
+6.3 Whether to establish and publish personal information security complaints and reporting channels............ 14
+
+IV
+
+Page 6
+
+Evaluation point 1: Whether the rules for collecting and using personal information are publicly available
+1.1 Whether to disclose the privacy policy and other collection and use rules
+a) Privacy policy through pop-up windows, text links, attachments, frequently asked questions (FAQs), etc.
+Face or form display.
+b) The privacy policy contains the relevant content of the rules for the collection and use of personal information.
+c) The privacy policy text link is valid and the text can be displayed normally.
+d) If there are business functions related to the collection and use of children’s personal information, it is necessary to formulate guidelines
+Rules for the protection of children’s personal information.
+Note 1: For details, please refer to the 2019 National Internet Information Office Order (No. 4) "Children’s Personal Information Network
+Protection Regulations.
+Note 2: For example, educational apps that collect personal information of minors under the age of fourteen need to develop specific
+Children’s personal information protection rules.
+
+1.2 Whether to prompt the user to read the privacy policy and other collection and use rules
+a) Proactively prompt the user to read the privacy policy when the App runs for the first time or when the user registers.
+Note: For example, active methods such as pop-up windows and prominent links can be used to prompt users to read the privacy policy.
+
+b) Avoid using unobvious ways to display the privacy policy link, which makes it difficult for users to find
+Privacy Policy.
+Note: For example, use fonts that are similar to the background color, deliberately reduce the font size, pop up the keyboard to block, place
+Edges, etc. display privacy policy links in an unobvious way.
+
+1.3 Is the privacy policy and other collection and use rules easy to access?
+a) After the user enters the main function interface, through operations such as clicking within 4 times (inclusive),
+Have access to the privacy policy.
+b) As far as possible, the privacy policy (or its link) should be displayed in a fixed path of the interface for easy use
+Users can access and obtain at any time, avoiding only showing the privacy policy chain in the registration/login interface
+1
+
+Page 7
+
+Or you can only find the privacy policy and other situations by consulting customer service.
+Note 1: For example, through "Me-Settings-About" or "My-Settings-Privacy" and other users familiar with the path development
+The privacy policy is displayed, and the path for displaying the privacy policy is not frequently changed.
+Note 2: When the privacy policy is displayed for the first time, the method and path for finding the privacy policy should be explained.
+
+c) The privacy policy is published in the form of a separate document, not as a user agreement, user
+A part of the document such as the notice exists.
+Note: If the user agreement, user instructions and other documents are used to describe the individual due to special reasons such as display conditions
+Information collection and use rules should be marked as prominently as possible and presented in continuous pages.
+
+1.4 Are the privacy policy and other collection and use rules easy to read?
+a) The text display of the privacy policy will not cause difficulty in reading.
+Note 1: For example, the same style as other interfaces of the App can be adopted.
+Note 2: For example, the text size is too small, the color is similar to the background color, the line spacing is too dense, the handwriting is blurred, the column
+Wider than the mobile phone screen, etc., it is easy to cause reading difficulties.
+
+b) Provide a simplified Chinese version of the privacy policy.
+c) The content of the privacy policy uses standardized figures and icons, and adopts common language habits.
+Avoid misuse of concepts, terminology, or ambiguous sentences, etc.
+1.5 Whether the public collection and use rules are complete
+a) Describe the basic situation of the App operator, including at least the name of the organization and the place of registration
+Address or common office address, personal information protection agency or relevant person in charge
+the way.
+b) State the release, effective or updated date of the privacy policy.
+c) Explain the purpose, method, and scope of the collection and use of personal information.
+Note: See section 2.1 of this "Practice Guide" for details.
+
+d) For personal information storage area (in which country or region is domestic or overseas), storage period
+
+2
+
+Page 8
+
+Limit (the shortest period or a clear period within the scope of the law), overdue processing methods
+Be explained.
+e) If personal information is used for user portraits, personalized display, etc., explain its application field
+The possible impact of Jinghe on the rights and interests of users.
+Note: If some business functions do not involve user portraits and personalized display, it can be clearly stated in the rules
+Bright.
+
+f) If there is a situation of personal information going abroad, state the type of personal information going abroad and mark it prominently
+knowledge.
+Note: For example, bold fonts, asterisks, underlines, italics, and different colors can be used for distinctive signs
+the way.
+
+g) Explain the measures taken and the capabilities available for the protection of personal information.
+h) If personal information is shared, transferred, or publicly disclosed, explain
+The following content: ①The purpose of external sharing, transfer, and public disclosure of personal information; ②Involving
+The type of personal information and the type or identity of the recipient.
+i) Explain the following user rights and related operating methods: ①Personal information inquiry;
+②Personal information correction; ③Personal information deletion; ④User account cancellation; ⑤Withdrawal
+Authorization agreed.
+j) Explain at least one of the following complaint and reporting channels: ①email; ②telephone; ③
+Online customer service; ④Online form; ⑤Instant messaging account.
+Note: For the relevant definitions and contents of this section, please refer to GB/T 35273-2020 "Information Security Technology Personal Information
+Section 5.5 of the Safety Regulations.
+
+3
+
+Page 9
+
+Evaluation point 2: Whether the purpose, method and scope of the collection and use of personal information are clearly stated
+Encircle
+2.1 Whether to list the purpose, method, scope, etc. of the collection and use of personal information one by one
+a) Complete, clear and differentiated description of personal information collected by each business function. Should be based on
+User habits explain the purpose, types, and types of personal information collected by each business function item by item.
+Ways to avoid incomplete enumerations such as "etc., for example".
+Note: Business functions usually refer to a complete type of application provided by the App for user-oriented specific use needs.
+Service types, such as map navigation, online car-hailing, instant messaging, online payment, news and information, online
+Online shopping, short video, express logistics, food delivery, transportation ticketing, marriage and dating, house rental
+Sales, job hunting, online lending, etc.
+
+b) Use cookies and other similar technologies (including scripts, Clickstream, Web beacons,
+Flash cookies, embedded Web links, etc.) when collecting personal information, briefly explain
+Related mechanisms, as well as the purpose and type of personal information collected.
+c) If the embedded third-party code or plug-in (such as SDK) collects personal information, explain the
+The third-party code, the type or name of the plug-in, and the purpose, type, and
+the way.
+Note: For example, privacy policy, pop-up prompts, text remarks, text links, etc. can be used to explain.
+
+2.2 Whether the purpose, method, and scope of the collection and use of personal information change
+Household
+a) When the purpose, method and scope of the collection and use of personal information change,
+Inform users.
+Note: For example, the collection and use rules such as updating the privacy policy can be adopted and push messages, emails, bullets
+Window, red dot prompt and other methods remind users to read the changed terms.
+
+4
+
+Page 10
+
+2.3 Whether to synchronously inform the application for opening permission and the purpose of requesting personal sensitive information
+a) When applying to open the permission to collect personal information, synchronize the notification in a significant way
+The purpose of the user is clear and easy to understand.
+Note 1: Common types of permissions that can collect personal information are:
+iOS system: location, address book, calendar, reminders, photos, microphone, camera, health, etc.;
+Android system: calendar, call log, camera, address book, location, microphone, phone, sensor
+Device, SMS, storage, etc.
+Note 2: For example, noticeable notifications such as pop-up prompts and usage descriptions can be used.
+
+b) When users are required to provide sensitive personal information, the users will be notified synchronously in a significant way
+Its purpose, the description of the purpose is clear and easy to understand.
+Note 1: For the definition of personal sensitive information, see GB/T 35273-2020 "Information Security Technology, Personal Information Security"
+Section 3.2 of the Specification.
+Note 2: For example, noticeable notifications such as pop-up prompts and usage descriptions can be used.
+
+2.4 Are the collection and use rules easy to understand?
+a) The content of the collection and use rules should be concise, clearly structured, and focused.
+Note: For example, use of obscure words, lengthy and tedious space, a large number of technical terms, logical conclusions
+Confusion, etc., can easily make it difficult for users to understand.
+
+5
+
+Page 11
+
+Evaluation point 3: Whether to collect and use personal information after obtaining the user's consent
+3.1 Whether the user's consent is obtained before collecting personal information or opening the permission to collect personal information
+a) Provide users with the option of consent or disagreement before collecting personal information.
+Note: For example, provide buttons such as "exit", "previous step", "close", and "cancel" for users to disagree
+Options.
+
+b) Without the user's consent, do not collect personal information or open the right to collect personal information
+limit.
+Note 1: For example, when the user uses the App for the first time, he does not know the purpose of collecting personal information and gives consent
+Previously, the behavior of the App to collect personal information is to collect personal information without the user's consent.
+Note 2: For related definitions and content, please refer to GB/T 35273-2020 "Information Security Technology Personal Information Security
+"Full Specification" section 5.4.
+
+c) Before obtaining the user’s consent, do not use similar technologies such as Cookies or call
+Collect personal information by collecting user's personal information authority, interface and other methods.
+3.2 The user expressly disagrees whether the personal information is still collected after the collection
+a) The user refuses to provide personal information, does not agree to the collection and use rules, and refuses to provide
+Or close permissions and other operations, clearly expressing that you do not agree to the collection of certain types of personal information, do not
+Collect such personal information in any form or open the right to collect personal information
+limit.
+3.3 The user clearly expresses his disagreement whether the user is frequently asked for consent after the collection and interferes with the user
+Normal use
+a) After the user expressly disagrees with the collection, he will not reopen the App or use it every time
+For a certain business function, frequently ask users (for example, more than one question in 48 hours)
+Times) Do you agree to the collection of this type of personal information.
+
+6
+
+Page 12
+
+b) After the user clearly expresses his disagreement to open a certain type of personal information
+When reopening the App or using a certain business function, ask the user frequently (such as
+Asked more than once within 48 hours) Do you agree to open this category to collect personal information
+Permissions.
+Note: In order to support the normal operation of the App, or the user actively chooses to use a specific function to trigger the same
+
+The intentional action is not a frequent interference situation. For example, the 48 hours after the user refuses to authorize the "camera" permission
+During the time, when you actively choose to use shooting, scanning code and other functions, the App reapplies for the permission to open
+Not a frequent interference.
+
+3.4 Whether the personal information actually collected exceeds the scope of user authorization
+a) The process of collecting and using personal information needs to be used in accordance with the stated privacy policy, etc.
+Be consistent with the rules. The type of personal information actually collected, can be collected upon application
+The authority to use personal information is related to the collection and use rules of the privacy policy, etc.
+The content is consistent and does not exceed the scope of the collection and use rules such as the privacy policy.
+3.5 Whether to ask for user consent in non-explicit ways such as choosing to agree to the privacy policy by default
+a) In the first operation, user registration, etc., you can make clear instructions through pop-up windows, prominent links, etc.
+Remind users to ask for their consent after reading the privacy policy. The default check box is not used.
+Private policy and other non-explicit methods.
+b) Solicit users’ agreement by setting “Next”, “Register”, “Login means consent” and other methods.
+In addition to displaying the privacy policy and other collection and use rules in a conspicuous manner, but also
+It is necessary to clarify the logical relationship between the execution of the above actions and the consent to the privacy policy in order to achieve
+The effect of actively reminding users to actively read the privacy policy and solicit user consent.
+Note: There is no need to repeatedly seek user consent when the privacy policy and other collection and use rules have not changed. Such as App
+After the update, if there is no change in the privacy policy, there is no need to ask the user to agree to the privacy policy again.
+
+7
+
+Page 13
+
+3.6 Whether the user can change the status of the permission to collect personal information without the user's consent
+a) Without the user’s consent, do not privately change the user’s permission to collect personal information and
+The status of collecting and using personal information related functions.
+Note: For example, without the user’s consent, after the update and upgrade, the user’s right to collect personal information is set
+Only restore to the default state, or re-open functions such as using the address book to match friends that have been turned off by the user.
+open.
+
+3.7 The option of whether to provide non-directed push information when there is a directional push of information
+a) When there is a situation where users’ personal information and algorithms are used to push information (including the use of
+Personal information and personalized recommendation algorithm to push news and information, display products, push
+Send advertisements, etc.), provide users with refusal to receive targeted push information, or stop,
+Mechanisms to withdraw or close corresponding functions, or not based on personal information and personalized recommendations
+Algorithms and other push modes and options.
+Note: For related definitions and content, please refer to GB/T 35273-2020 "Information Security Technology, Personal Information Security"
+Section 7.5 of the Code.
+
+3.8 Whether to mislead users to agree to the collection of personal information in an improper way
+a) It is clear that the purpose of collecting and using personal information must be true and accurate. Do not deliberately deceive or conceal
+Acting on the true purpose of collecting and using personal information, and not to trick users into agreeing to collect personal information
+Information or open the permission to collect personal information.
+Note: For example, the App prompts the user to open the address book permission to participate in activities such as red envelopes, gold coins, and lotteries. thing
+In fact, there is no connection between the address book permissions and the above activities, and the app tricks users into opening the address book permissions
+Immediately upload user address book information, and use this type of information to send commercial advertisements or other purposes.
+of.
+
+3.9 Whether to provide users with ways and means to withdraw consent to collect personal information
+a) Provide users with ways and means to withdraw their consent to the collection of personal information, and in the privacy policy
+
+8
+
+Page 14
+
+It should be clarified in the collection and use rules.
+b) If the user refuses or withdraws the consent of a specific business function to collect personal information, unless
+The personal information rejected or withdrawn by the user is necessary for other business functions, otherwise it will not be temporarily
+Stop other business functions, or reduce the service quality of other business functions.
+c) If the user refuses or closes the permission to collect personal information, it will not affect the normal use of the user
+Use business functions that have nothing to do with the permission, unless the permission is to ensure the normal operation of the App
+Necessary.
+Note 1: For related definitions and content, please refer to GB/T 35273-2020 "Information Security Technology Personal Information Security"
+Full Specification" section 8.4.
+Note 2: If the user needs to withdraw the authorization to approve the collection and use of all his personal information, he can take a note
+Cancel account numbers and other methods.
+
+3.10 Whether it violates its stated collection and use rules
+
+a) To carry out personal information processing activities, it is necessary to strictly follow the disclosed privacy policy and other collections
+Use rules, and abide by the agreement with users; such as the purpose, method of use of personal information,
+If the scope changes, the user's consent shall be obtained again.
+
+9
+
+Page 15
+
+Evaluation point 4: Whether to follow the necessary principles and only collect data related to the services provided
+Personal information
+4.1 Whether to collect personal information unrelated to business functions
+a) Do not collect personal information irrelevant to business functions.
+b) Do not apply to open the permission to collect personal information that has nothing to do with business functions.
+4.2 Can the user refuse to collect non-essential information or open non-essential permissions?
+a) Collect personal information related to business functions but not necessary or apply to open relevant but
+When there is no necessary permission to collect personal information, the user must choose and agree to it, such as
+The user's disagreement will not affect his use of existing business functions or related services.
+b) Do not agree to collect personal information required for other business functions or agree to open other
+The permission to collect personal information required by the business function, and use the current business as a user
+Prerequisites for functionality.
+c) If you provide a service mode that can be used without registration (such as browsing only, tourist mode),
+When the user refuses to agree to the collection of personal information outside of this type of service mode, it will not
+Only browsing and other functions affect its use.
+Note 1: Necessary information refers to personal information directly related to business functions. Without this personal information, it cannot be
+Provide the most basic services. For the scope of necessary information, please refer to the "Information Security Technology Mobile Internet Application Program"
+Application (App) Basic Rules for Collecting Personal Information", if the service type is not in the standard, you can
+Its business characteristics are analyzed by referring to the relevant definitions and concepts of the standard.
+Note 2: For related content and practical cases, please refer to GB/T 35273-2020 "Information Security Technology Personal Information"
+Information Security Code" Section 5.3 and Appendix C.
+
+4.3 Whether to force the collection of users' personal information in an improper way
+a) According to the user's initiative to fill in, click, check and other autonomous behaviors, as each business function
+
+10
+
+Page 16
+
+Prerequisites for collecting and using personal information.
+b) When the personal information collected by the new business function application exceeds the scope of the user's original consent,
+Not because the user refuses the request of the new business function to collect personal information, and refuses to provide the original
+There are business functions, except for new business functions that replace the original business functions.
+c) Not only to improve service quality, enhance user experience, develop new products, and target push
+Information, enhanced security, etc., the subject of personal information is compulsorily required to agree to the collection of personal information
+People information.
+d) Do not force users to agree to open multiple collectible individuals at one time in a bundled manner
+Information authority.
+Note: For example, set the targetSdkVersion value of the Android App to be lower than 23, through the declaration mechanism, in
+When installing the App, requiring users to agree to open multiple permissions for collecting personal information at one time is a bundling method.
+
+4.4 Does the frequency of collecting personal information exceed the actual needs of business functions?
+a) The frequency of collecting personal information does not exceed the actual needs of business functions.
+During the business function process, only personal information related to the current business function is collected.
+b) When the App is not open or running in the background, no user personal information is collected,
+Unless business functions need to continue to provide services when running in the background, such as navigation functions.
+Note: After the user actively closes the App, self-starting and associated start-up methods are not used without the user’s consent.
+Collect personal information.
+
+c) When accessing third-party applications, do not privately intercept personal information collected by third-party applications.
+Note: For example, for information query apps, when users submit relevant personal information to third-party apps, they will be intercepted
+The act of uploading the user's personal information to its back-end server is the interception of personal information privately.
+
+11
+
+Page 17
+
+Evaluation point 5: Whether to provide personal information to others after the user's consent
+5.1 Whether to obtain the user's consent before providing personal information to others
+a) If there is a situation where personal information is sent directly from the client to a third party, including through
+The client embeds third-party code, plug-ins (such as SDK), etc. to send to the third party
+In the case of personal information, the user's consent is required in advance, except for the anonymization process.
+b) After personal information is transmitted to the server, the App operator will provide the third party with its collection
+The personal information of, requires the user’s consent in advance, except for the anonymized processing.
+c) Such as the type of personal information transmitted to a third party, the identity of the third party receiving the data, etc.
+In the event of a change, the user shall be notified in an appropriate manner and the user’s consent shall be obtained.
+Note: The definition of "anonymization" can refer to GB/T 35273-2020 "Information Security Technology, Personal Information Security"
+Section 3.14 of the Specification.
+
+5.2 Whether the user's consent is obtained before personal information is provided to the accessed third-party application
+a) If the App is connected to a third-party application, when the user uses the third-party application, the
+After the user agrees, then provide personal information to the third-party application; when the user knows the application
+After providing it to a third party, directly authorize it to the third party by self-filling and other methods
+except.
+b) App operators are advised to collect personal information legally and legitimately for third-party apps accessed.
+Appropriateness, necessity and other aspects are reviewed, and the relevant business functions are clearly identified as third parties
+Provide and remind users to pay attention to the rules for the collection and use of personal information by third-party applications.
+Note: For third-party access management related content, please refer to GB/T 35273-2020 "Information Security Technology Individual
+Information Security Regulations" section 9.7.
+
+12
+
+Page 18
+
+Evaluation point 6: Whether to provide the function of deleting or correcting personal information, or to announce the investment
+Information about complaints, reporting methods, etc.
+
+6.1 Whether to provide an effective user account cancellation function
+a) Provide an effective way to cancel the account, and delete the account in time after the user cancels the account
+Personal information may be anonymized.
+Note: For example, online operations, customer service calls, emails, and other ways to cancel your account can be provided.
+
+b) After accepting the account cancellation request, within the promised time limit (the promised time limit shall not exceed 15
+Working days, if there is no promised time limit, 15 working days are the limit) to complete the verification and handling
+Rationale.
+c) The process of canceling an account is simple and easy to operate, and no unnecessary or unreasonable cancellation bar is set
+Pieces.
+Note: For unnecessary or unreasonable cancellation conditions, please refer to GB/T 35273-2020 "Information Security
+Technical Personal Information Security Specification" section 8.5.
+
+6.2 Whether to provide an effective way to correct or delete personal information
+a) Provide effective ways to query, correct, and delete personal information.
+Note: As indicated in the privacy policy, if it is proved that the relevant operation cannot be completed, it will be regarded as an invalid way.
+
+b) Unable to respond to personal information inquiries, corrections, and deletions in a timely manner through online operations, please
+Within the promised time limit (the promised time limit does not exceed 15 working days, no promise
+If there is a time limit, the inspection and processing shall be completed within 15 working days.
+c) The process of querying, correcting and deleting personal information is simple and easy to operate, no unnecessary settings
+Or unreasonable conditions.
+d) When the user corrects, deletes personal information and other operations are completed, the background needs to be executed in a timely manner
+Related operations.
+13
+
+Page 19
+
+6.3 Whether to establish and publish personal information security complaints and reporting channels
+a) Establish and publish channels that can accept complaints and reports related to personal information security issues.
+Note: For example, email, telephone, online customer service, online form, instant messaging account, etc. can be accepted.
+理方法。 The way.
+
+b) Properly accept complaints and reports related to personal information from users, and within the promised time limit
+Within (the commitment time limit does not exceed 15 working days, if there is no commitment time limit, 15 working days
+Working day only) accept and process.
+
+14
+
+

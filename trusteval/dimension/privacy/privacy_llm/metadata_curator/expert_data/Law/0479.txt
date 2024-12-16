@@ -1,0 +1,1620 @@
+Page 1
+
+Registered with the Ministry of Justice of Russia on May 14, 2013 No. 28375
+
+FEDERAL TECHNICAL AND EXPORT CONTROL SERVICE
+ORDER
+dated February 18, 2013 No. 21
+ON APPROVAL OF THE COMPOSITION AND CONTENT
+ORGANIZATIONAL AND TECHNICAL MEASURES TO PROVIDE
+SECURITY OF PERSONAL DATA IN THEIR PROCESSING
+IN INFORMATION SYSTEMS OF PERSONAL DATA
+
+List of changing documents
+(as amended by the Order of the FSTEC of Russia dated 03.23.2017 No. 49)
+In accordance with part 4 of article 19 of the Federal Law of July 27, 2006 No. 152-FZ "On
+personal data "(Collected Legislation of the Russian Federation, 2006, No. 31, Art. 3451;
+2009, no. 48, art. 5716; No. 52, art. 6439; 2010, no. 27, art. 3407; No. 31, art. 4173, art. 4196; No. 49, art. 6409;
+2011, no. 23, art. 3263; No. 31, art. 4701) and the Regulations on the Federal Service for Technical and
+export control approved by the Decree of the President of the Russian Federation of August 16
+2004 No. 1085 (Collected Legislation of the Russian Federation, 2004, No. 34, Article 3541; 2006, No.
+49, art. 5192; 2008, no. 43, art. 4921; No. 47, art. 5431; 2012, no. 7, art. 818), I order:
+1. To approve the attached Composition and content of organizational and technical measures for
+ensuring the security of personal data during their processing in information systems
+personal data.
+2. To recognize as invalid the order of the FSTEC of Russia dated February 5, 2010 No. 58 "On
+Approval of the Regulations on Methods and Methods of Information Protection in Information Systems
+personal data "(registered by the Ministry of Justice of Russia on February 19, 2010, registration
+No. 16456).
+Director
+Federal Service for Technical
+and export control
+V. SELIN
+
+Page 2
+
+Approved
+by order of the FSTEC of Russia
+dated February 18, 2013 No. 21
+COMPOSITION AND CONTENT
+ORGANIZATIONAL AND TECHNICAL MEASURES TO PROVIDE
+SECURITY OF PERSONAL DATA IN THEIR PROCESSING
+IN INFORMATION SYSTEMS OF PERSONAL DATA
+
+List of changing documents
+(as amended by the Order of the FSTEC of Russia dated 03.23.2017 No. 49)
+I. General Provisions
+1. This document has been developed in accordance with Part 4 of Article 19 of the Federal Law
+dated July 27, 2006 No. 152-FZ "On Personal Data" (Collected Legislation of the Russian
+Federation, 2006, No. 31, Art. 3451; 2009, no. 48, art. 5716; No. 52, art. 6439; 2010, no. 27, art. 3407; No. 31, art.
+4173, art. 4196; No. 49, art. 6409; 2011, no. 23, art. 3263; No. 31, art. 4701) and establishes the composition and
+the content of organizational and technical measures to ensure the safety of personal
+data during their processing in personal data information systems (hereinafter - measures for
+ensuring the security of personal data) for each of the security levels
+personal data established in the Requirements for the protection of personal data when they
+processing in information systems of personal data approved by the decree
+Government of the Russian Federation of November 1, 2012 No. 1119 (Collection of legislation
+Russian Federation, 2012, No. 45, Art. 6257).
+Measures to ensure the security of personal data are taken to protect
+personal data from unauthorized or accidental access to them, destruction, alteration,
+blocking, copying, providing, disseminating personal data, as well as from
+other illegal actions in relation to personal data.
+This document does not address security issues.
+personal data classified in the prescribed manner as information constituting
+state secrets, as well as measures related to the use of encryption
+(cryptographic) information security tools.
+2. Security of personal data during their processing in the information system
+personal data (hereinafter - the information system) is provided by an operator or a person,
+processing personal data on behalf of the operator in accordance with
+the legislation of the Russian Federation.
+To carry out work to ensure the security of personal data during their processing
+in the information system in accordance with the legislation of the Russian Federation may
+to be involved on a contractual basis by a legal entity or an individual entrepreneur,
+licensed to carry out technical protection of confidential information.
+3. Measures to ensure the security of personal data are implemented within the system
+protection of personal data created in accordance with the Requirements for the protection of personal data
+data during their processing in personal data information systems approved by
+Decree of the Government of the Russian Federation of November 1, 2012 No. 1119, and must be
+aimed at neutralizing current threats to the security of personal data.
+4. Measures to ensure the security of personal data are implemented, including
+through the use in the information system of information security tools that have passed in
+
+Page 3
+
+the established procedure for the conformity assessment procedure, in cases where the use of such means
+it is necessary to neutralize the current threats to the security of personal data.
+6. Evaluation of the effectiveness of measures implemented within the framework of the personal data protection system
+to ensure the security of personal data is carried out by the operator independently or with
+attraction on a contractual basis of legal entities and individual entrepreneurs,
+licensed to carry out activities for the technical protection of confidential
+information. This assessment is carried out at least once every 3 years.
+7. Measures to ensure the security of personal data during their processing in
+state information systems are accepted in accordance with the requirements for
+protection of information contained in state information systems,
+established by the FSTEC of Russia within the limits of its authority in accordance with part 5 of article
+16 of the Federal Law of July 27, 2006 No. 149-FZ "On information, information
+technologies and information protection "(Collected Legislation of the Russian Federation, 2006, No.
+31, art. 3448; 2010, no. 31, art. 4196; 2011, no. 15, art. 2038; No. 30, art. 4600; 2012, no. 31, art. 4328).
+II. Composition and content of safety measures
+personal data
+8. The composition of measures to ensure the security of personal data implemented within the framework of
+personal data protection systems, taking into account current threats to the security of personal
+data and applied information technologies include:
+identification and authentication of access subjects and access objects;
+access control of access subjects to access objects;
+limitation of the software environment;
+protection of machine data carriers on which are stored and (or) processed
+personal data (hereinafter referred to as machine carriers of personal data);
+registration of security events;
+anti-virus protection;
+detection (prevention) of intrusions;
+control (analysis) of the security of personal data;
+ensuring the integrity of the information system and personal data;
+ensuring the availability of personal data;
+protection of the virtualization environment;
+protection of technical means;
+protection of the information system, its means, communication and data transmission systems;
+identification of incidents (one event or a group of events) that can lead to
+failures or disruption of the functioning of the information system and (or) to the occurrence
+threats to the security of personal data (hereinafter - incidents), and response to them;
+configuration management of the information system and personal protection system
+data.
+The composition and content of measures to ensure the security of personal data required
+to ensure each of the levels of protection of personal data are given in
+annex to this document.
+8.1. Measures for the identification and authentication of access subjects and access objects
+must ensure the assignment of a unique attribute to the subjects and objects of access
+(identifier), comparison of the identifier presented by the subject (object) of access with
+a list of assigned identifiers, as well as verification of belonging to the subject (object)
+
+Page 4
+
+access to the identifier presented by him (confirmation of authenticity).
+8.2. Measures to control access of subjects of access to objects of access should
+ensure the management of the rights and privileges of access subjects, access control
+subjects of access to objects of access based on the set of established in the information
+system of access control rules, as well as ensure control over compliance with these
+rules.
+8.3. Measures to restrict the software environment should ensure the installation and (or) launch
+only software approved for use in the information system, or
+exclude the possibility of installing and (or) launching prohibited for use in
+software information system.
+8.4. Measures to protect machine storage media of personal data (processing means
+(storage) of personal data, removable machine media of personal data) must
+exclude the possibility of unauthorized access to machine media and stored on
+personal data, as well as unauthorized use of removable machine
+carriers of personal data.
+8.5. Security event logging measures should ensure collection, recording, storage
+and protection of information about security events in the information system, as well as the ability
+viewing and analyzing information about such events and responding to them.
+8.6. Anti-virus protection measures should ensure detection in information
+a system of computer programs or other computer information intended for
+unauthorized destruction, blocking, modification, copying of a computer
+information or neutralization of information protection means, as well as response to
+detection of these programs and information.
+8.7. Intrusion detection (prevention) measures should provide detection
+actions in the information system aimed at unauthorized access to
+information, special impact on the information system and (or) personal data
+in order to obtain, destroy, distort and block access to personal data, and
+also react to these actions.
+8.8. Measures to control (analyze) the security of personal data should ensure
+control of the level of protection of personal data processed in the information
+system, by carrying out systematic measures to analyze the security
+information system and testing the performance of the personal protection system
+data.
+8.9. Measures to ensure the integrity of the information system and personal data
+must ensure the detection of facts of unauthorized violation of integrity
+information system and the personal data contained in it, as well as the possibility
+recovery of the information system and the personal data contained in it.
+8.10. Measures to ensure the availability of personal data should ensure
+authorized access of users with access rights to personal data,
+contained in the information system, in the normal mode of operation
+information system.
+8.11. Measures to protect the virtualization environment must prevent unauthorized access
+to personal data processed in the virtual infrastructure and to components
+virtual infrastructure and (or) the impact on them, including controls
+virtual infrastructure, virtual machine monitor (hypervisor), storage system
+data (including storage of virtual infrastructure images), data networks
+through elements of virtual or physical infrastructure, guest operating systems,
+virtual machines (containers), replication system and network, terminal and virtual
+devices, as well as the backup system and the copies it creates.
+
+Page 5
+
+8.12. Measures to protect technical equipment should exclude unauthorized access to
+stationary technical means processing personal data, means,
+ensuring the functioning of the information system (hereinafter - the means of ensuring
+functioning), and in the premises in which they are permanently located, the protection of technical
+means from external influences, as well as the protection of personal data presented in the form
+informative electrical signals and physical fields.
+8.13. Measures to protect the information system, its facilities, communication and data transmission systems
+must ensure the protection of personal data during the interaction of information
+the system or its individual segments with other information systems and
+information and telecommunication networks through the use of architecture
+information system and design solutions aimed at ensuring security
+personal data.
+8.14. Incident identification and response measures should ensure
+detection, identification, analysis of incidents in the information system, as well as acceptance
+measures to eliminate and prevent incidents.
+8.15. Measures to manage the configuration of the information and security systems
+personal data should provide configuration change management
+information system and personal data protection system, analysis of potential
+the impact of the planned changes on ensuring the security of personal data, as well as
+documenting these changes.
+9. The choice of measures to ensure the security of personal data to be implemented in
+information system within the framework of the personal data protection system, includes:
+defining a basic set of measures to ensure the security of personal data for
+the established level of protection of personal data in accordance with the basic sets
+measures to ensure the security of personal data given in the annex to
+this document;
+adaptation of a basic set of measures to ensure the security of personal data, taking into account
+structural and functional characteristics of the information system, information
+technologies, features of the functioning of the information system (including the exclusion
+from the basic set of measures directly related to information technology, not
+used in the information system, or structural and functional characteristics,
+not characteristic of the information system);
+clarification of the adapted basic set of measures to ensure the safety of personal
+data, taking into account not previously selected measures given in the annex to this document, in
+as a result, measures are determined to ensure the security of personal data,
+aimed at neutralizing all current threats to the security of personal data for
+a specific information system;
+Supplementing a refined and tailored security baseline
+personal data by measures to ensure compliance with the requirements for the protection of personal
+data established by other regulatory legal acts in the field of ensuring
+security of personal data and information protection.
+10. In case of impossibility of technical implementation of individual selected measures to ensure
+security of personal data, as well as taking into account economic feasibility at the stages
+adapting the baseline and / or refining the adapted baseline may
+develop other (compensating) measures aimed at neutralizing current threats
+security of personal data.
+In this case, during the development of a personal data protection system, there should be
+justification of the use of compensating measures to ensure safety
+personal data.
+
+Page 6
+
+11. If determined in accordance with the Requirements for the protection of personal
+processing in information systems of personal data approved by the decree
+Government of the Russian Federation of November 1, 2012 No. 1119, as actual threats
+security of personal data of the 1st and 2nd types in addition to measures to ensure
+security of personal data specified in clause 8 of this document may
+the following measures are applied:
+checking system and (or) application software, including software
+code for the absence of undeclared features using automated
+funds and (or) without the use of such;
+penetration testing of the information system;
+use in the information system of the system and (or) applied software
+software developed using secure programming techniques.
+12. Technical measures for the protection of personal data are implemented through the use of
+information security means, including software (software and hardware) means, in
+which they are implemented with the necessary security features.
+When used in information systems certified according to the requirements
+information security means of information protection:
+in information systems of the 1st level of personal data protection are used
+information security means not lower than class 4, as well as computer technology not lower than
+Grade 5;
+in information systems of the 2nd level of protection of personal data,
+information security means not lower than class 5, as well as computer technology not lower than
+Grade 5;
+in information systems of 3 levels of personal data protection are used
+information security means not less than 6 class, as well as computer technology not less than
+Grade 5;
+4 levels of personal data protection are used in information systems
+information security means not less than 6 class, as well as computer technology not less than
+Grade 6.
+The protection classes are determined in accordance with the regulations issued by
+in accordance with subparagraph 13.1 of paragraph 8 of the Regulation on the Federal Service for Technical and
+export control approved by the Decree of the President of the Russian Federation of August 16
+2004 No. 1085.
+When using information security tools in information systems,
+certified for information security requirements, the specified means must be
+certified for compliance with mandatory information security requirements,
+established by regulatory legal acts, or the requirements specified in the technical
+conditions (safety tasks).
+The security functions of information protection means should ensure the implementation of measures to
+ensuring the security of personal data contained in this document.
+To ensure 1 and 2 levels of protection of personal data, as well as to ensure
+3 levels of protection of personal data in information systems, for which to
+type 2 threats are classified as relevant, certified protection means are applied
+information, the software of which has passed the verification of at least level 4
+control over the absence of undeclared opportunities.
+(Clause 12 as amended by the Order of the FSTEC of Russia dated 03.23.2017 No. 49)
+13. When using new information technologies in information systems and
+identification of additional threats to the security of personal data for which there are no defined
+
+Page 7
+
+measures to ensure their safety, compensatory measures should be developed in
+in accordance with paragraph 10 of this document.
+
+Page 8
+
+application
+to Composition and content
+organizational and technical
+security measures
+personal data when they
+processing in information
+personal data systems
+COMPOSITION AND CONTENT
+MEASURES TO ENSURE THE SECURITY OF PERSONAL DATA,
+REQUIRED TO PROVIDE EACH LEVEL
+PERSONAL DATA PROTECTION
+
+Conditional
+designation and
+measure number
+
+Contents of security measures
+personal data
+
+Security levels
+personal data
+four
+
+3
+
+2
+
+one
+
++
+
++
+
++
+
++
+
++
+
+I. Identification and Authentication of Access Subjects and Access Objects (IAF)
+IAF.1
+
+User identification and authentication,
+who are employees of the operator
+
+IAF.2
+
+Identification and authentication of devices, including
+number of stationary, mobile and portable
+
+IAF.3
+
+Identifier management, including
+creature,
+appropriation,
+identifiers
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+in water +
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+destruction
+
+IAF.4
+
+Authentication management, including
+number of storage,
+issue,
+initialization,
+Authentication Blocking and Acceptance
+measures in case of loss and (or) compromise
+means of authentication
+
+IAF.5
+
+Protection
+reverse
+authentication information
+
+IAF.6
+
+User identification and authentication,
+who are not employees of the operator (external
+users)
+
+connections at
+
+II. Access control of access subjects to access objects (APD)
+UPD.1
+
+Management (establishment, activation, blocking and
+destruction) by user accounts, in
+
+Page 9
+
+including external users
+UPD.2
+
+Implementation
+necessary
+(discretionary, mandatory, role-based or other
+method), types (read, write, execute or
+other type) and access control rules
+
+methods
+
+UPD.3
+
+Control
+(filtration,
+routing,
+connection control, unidirectional transmission
+and other methods of management) information
+flows between devices, segments
+information system, as well as between
+information systems
+
++
+
++
+
++
+
++
+
+UPD.4
+
+Separation of powers (roles) of users,
+administrators
+and persons providing
+functioning of the information system
+
++
+
++
+
++
+
++
+
+UPD.5
+
+Assignment of minimum required rights and
+privileges to users, administrators and
+persons
+providing
+functioning
+information system
+
++
+
++
+
++
+
++
+
+UPD.6
+
+Limiting unsuccessful login attempts
+information
+the system
+information system)
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+(access
+
+UPD.7
+
+Alerting the user when he logs in
+information system that in
+information system implemented measures to
+ensuring the security of personal data,
+and the need to comply with established
+the operator of the rules for processing personal
+data
+
+UPD.8
+
+User notification after successful login
+to the information system about its previous
+logging into the information system
+
+UPD.9
+
+Limiting the number of concurrent access sessions
+for each user account
+information system
+
+UPD.10
+
+Blocking the session of access to the information
+the system
+after
+established
+inactivity (inactivity) of the user or
+his request
+
+UPD.11
+
+to
+
+time
+
+Allowing (prohibiting) user actions,
+
+Page 10
+
+allowed before identification and authentication
+UPD.12
+
+Maintaining and preserving security attributes
+(security labels) associated with information in
+the process of its storage and processing
+
+UPD.13
+
+Implementing secure remote access
+subjects of access to objects of access through
+external information and telecommunication
+the network
+
++
+
++
+
++
+
++
+
+UPD.14
+
+Regulation and control of use in
+information
+system
+wireless access
+
++
+
++
+
++
+
++
+
+technologies
+
+UPD.15
+
+Regulation and control of use in
+information system of mobile technical
+funds
+
++
+
++
+
++
+
++
+
+UPD.16
+
+Management of interaction with information
+third-party systems (external
+Information Systems)
+
++
+
++
+
++
+
++
+
+UPD.17
+
+Providing a Trusted Load of Funds
+computing technology
+
++
+
++
+
++
+
++
+
+III. Restriction of the software environment (OPS)
+OPS.1
+
+Controlling the launch (calls) of components
+software including
+defining the components to run, setting
+launch parameters of components, control over
+launching software components
+
+OPS.2
+
+Control
+setting
+(installation)
+software components, including
+including the definition of the components to be
+installation, configuring installation parameters
+components, control over the installation of components
+software
+
+OPS.3
+
+Installation (installation) only permitted for
+use of software and / or
+its components
+
+OPS.4
+
+Temporary file management, including
+ban, permission, redirect recording,
+deleting temporary files
+
++
+
+Page 11
+
+IV. Protection of machine carriers of personal data (ZNI)
+ZNI.1
+
+Accounting for machine carriers of personal data
+
++
+
++
+
+ZNI.2
+
+Native Media Access Control
+personal data
+
++
+
++
+
+ZNI.3
+
+Controlling the movement of machine media
+personal data outside the controlled
+zones
+
+ZNI.4
+
+Eliminate the possibility of unauthorized
+familiarization with the content of personal
+data stored on machine media, and
+(or) the use of media of personal
+data in other information systems
+
+ZNI.5
+
+Controlling the use of input interfaces
+(output) information to computer media
+personal data
+
+ZNI.6
+
+Control of input (output) of information on
+machine carriers of personal data
+
+ZNI.7
+
+Controlling the connection of machine media
+personal data
+
+ZNI.8
+
+Destruction (erasure) or depersonalization
+personal data on machine media when
+their transfer between users, to third-party
+organizations for repair or disposal, and
+control
+destruction
+(erasing)
+depersonalization
+
++
+
++
+
++
+
+or
+
+V. Registration of security events (SSE)
+RSB.1
+
+Determining the security events to be
+registration, and the terms of their storage
+
++
+
++
+
++
+
++
+
+RSB.2
+
+Determination of the composition and content of information about
++
+security events to be logged
+
++
+
++
+
++
+
+RSB.3
+
+Collection, recording and storage of information about events
+safety within the specified time
+storage
+
++
+
++
+
++
+
+RSB.4
+
+Event Logging Failure Response
+security, including hardware and
+software errors, failures in collection mechanisms
+
++
+
++
+
++
+
+Page 12
+
+information and reaching the limit or
+memory overflow (capacity)
+RSB.5
+
+Monitoring (viewing, analysis) of results
+security event logging and response
+on them
+
+RSB.6
+
+Generating timestamps and / or
+synchronization
+systemic
+information system
+
+time
+
+in
+
+RSB.7
+
+Protection of information about security events
+
++
+
++
+
++
+
++
+
+Vi. Antivirus protection (AVZ)
+AVZ.1
+
+Implementation of anti-virus protection
+
++
+
++
+
++
+
++
+
+AVZ.2
+
+Updating the database of signs of malware
+computer programs (viruses)
+
++
+
++
+
++
+
++
+
+Vii. Intrusion detection (IDS)
+OWL.1
+
+Intrusion detection
+
++
+
++
+
+COB.2
+
+Decision rule base update
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+VIII. Control (analysis) of the protection of personal data (ANZ)
+ANZ.1
+
+Identification, analysis of information vulnerabilities
+systems and prompt elimination again
+identified vulnerabilities
+
+ANZ.2
+
+Controlling the installation of software updates
+software including software updates
+ensuring information security
+
+ANZ.3
+
+Control
+efficiency,
+settings and correct functioning
+software and security tools
+information
+
+ANZ.4
+
+Control
+composition technical
+software and security tools
+information
+
+ANZ.5
+
+Controlling the rules for generating and changing passwords
+users, establishment and deletion of accounts
+user records, rule implementation
+differentiation of access, user rights
+
++
+
+parameters
+
+funds,
+
+Page 13
+
+in the information system
+IX. Ensuring the integrity of the information system and personal data (OTsL)
+OTSL.1
+
+Software integrity control,
+including security software
+information
+
+OTsL.2
+
+Control of the integrity of personal data,
+contained in databases of information
+systems
+
+OTSL.3
+
+Security
+capabilities
+recovery
+software including software
+provision of information security means, when
+emergencies
+
+OTsL.4
+
+Detection and response to admission to
+information system of unsolicited
+electronic messages (letters, documents) and
+other
+information,
+not
+related
+functioning of the information system
+(spam protection)
+
+OTSL.5
+
+to
+
+Control of the content of information transmitted
+from the information system (container,
+based on the properties of the accessor, and / or
+content based on the search prohibited to
+transmission of information using signatures,
+masks and other methods), and excluding
+illegal
+transmission information
+information system
+
+OTSL.6
+
+Restricting user input rights
+information to the information system
+
+OTsL.7
+
+Control of accuracy, completeness and correctness
+data entered into the information system
+
+OTsL.8
+
+Control of erroneous actions of users on
+input and (or) transfer of personal data and
+warning users about erroneous
+actions
+
+of
+
+X. Ensuring the availability of personal data (CCT)
+ODT.1
+
+The use of fault-tolerant technical
+funds
+
+ODT.2
+
+Reservation
+technical
+software, transmission channels
+information,
+funds
+functioning of the information system
+
+Page 14
+
+funds,
+securing
+
+ODT.3
+
+Control
+trouble-free
+functioning
+technical means, detection and localization
+failure of functioning, taking measures to
+restoration of failed funds and their
+testing
+
+ODT.4
+
+Periodic
+reserve
+personal data to backup machine
+carriers of personal data
+
+ODT.5
+
+Security
+capabilities
+personal data from backup machine
+personal data carriers (backup
+copies) during the established time
+interval
+
++
+
+copying
+
+recovery
+
++
+
++
+
++
+
++
+
+XI. Virtualization Environment Protection (VEI)
+ЗСВ.1
+
+Identification and authentication of subjects
+access and access objects in virtual
+infrastructure, including administrators
+virtualization management
+
++
+
++
+
++
+
++
+
+ЗСВ.2
+
+Access Control for Access Subjects
+access objects in virtual infrastructure, in
+including inside virtual machines
+
++
+
++
+
++
+
++
+
+ЗСВ.3
+
+Registration of security events in the virtual
+infrastructure
+
++
+
++
+
++
+
+ЗСВ.4
+
+Control
+(filtration,
+routing,
+connection control, unidirectional transmission)
+information flows between components
+virtual infrastructure, as well as software
+perimeter of virtual infrastructure
+
+ЗСВ.5
+
+Trusted loading of virtualization servers,
+virtual machine (container), servers
+virtualization management
+
+ЗСВ.6
+
+Moving virtual machines
+(containers) and data processed on them
+
++
+
++
+
+ЗСВ.7
+
+Control
+
++
+
++
+
++
+
++
+
+integrity
+
+virtual
+
+Page 15
+
+infrastructure and its configurations
+ЗСВ.8
+
+Data backup, backup
+hardware, software
+virtual infrastructure, as well as channels
+communication within the virtual infrastructure
+
+ЗСВ.9
+
+Implementation and management of anti-virus protection in
+virtual infrastructure
+
++
+
++
+
++
+
+ЗСВ.10
+
+Partitioning the virtual infrastructure into
+segments
+(segmentation
+infrastructure) for processing personal
+data by an individual user and (or) group
+users
+
++
+
++
+
++
+
+virtual
+
+XII. Protection of technical means (ZTS)
+ЗТС.1
+
+Protection
+information,
+technical means, from its leakage on
+technical channels
+
+ЗТС.2
+
+Organization of a controlled area, within
+which permanently hosts stationary
+technical
+funds,
+processing
+information, and means of protecting information, and
+also means of ensuring the functioning
+
+ЗТС.3
+
+Control and management of physical access to
+technical means, means of protection
+information,
+means
+securing
+functioning, as well as in the premises and
+the structures in which they are installed,
+excluding unauthorized physical
+access to information processing facilities,
+information security means and means
+ensuring the functioning of information
+systems in rooms and structures in which
+they are installed
+
++
+
++
+
++
+
++
+
+ЗТС.4
+
+Placement of output devices (display)
+information,
+exclusive
+unauthorized viewing
+
++
+
++
+
++
+
++
+
+ЗТС.5
+
+processed
+
+her
+
+Protection against external influences (influences
+the surrounding
+Wednesday,
+instability
+power supply, air conditioning and other
+external factors)
+
+Page 16
+
+XIII. Protection of the information system, its means,
+communication and data transmission systems (3IS)
+ZIS. 1
+
+Separation of functions in the information system
+by
+management
+(administration)
+information
+system,
+management
+(administration)
+system
+protection
+personal data, processing functions
+personal data and other functions
+information system
+
+ZIS. 2
+
+Preventing latency or interruption
+running high priority processes with
+low priority process sides
+
+ZIS. 3
+
+Ensuring the protection of personal data from
++
+disclosure, modification and imposition (input
+false information) during its transmission (preparation
+to transmission) through communication channels that have access to
+the limits of the controlled area, including
+wireless communication channels
+
+ZIS. 4
+
+Providing a trusted channel, route between
+administrator, user and means
+information protection (security functions
+means of information protection)
+
+ZIS.5
+
+Ban
+unauthorized
+remote
+activation of video cameras, microphones and other
+peripheral
+devices,
+which
+may
+activate
+remotely,
+and notification
+users about the activation of such devices
+
+ZIS.6
+
+Passing and Controlling the Integrity of Attributes
+security (security labels) associated with
+personal data, when exchanging them with other
+information systems
+
+ZIS.7
+
+Authorized control and exclusion
+unauthorized use of technology
+mobile code, including registration
+technology-related events
+mobile code, their analysis and response to
+violations,
+related
+from using
+mobile code technologies
+
+ZIS. 8
+
+Authorized control and exclusion
+unauthorized use of technology
+transmission of speech, including registration of events,
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Page 17
+
+related to the use of transmission technologies
+speech, their analysis and response to violations,
+technology-related transfer
+speeches
+ZIS.9
+
+Authorized control and exclusion
+unauthorized
+transmission
+video information, including registration
+events,
+related
+from
+transmission
+video information, their analysis and response to
+violations,
+related
+from transmission
+video information
+
+ZIS. 10
+
+the confirmation
+origin
+source
+information obtained in the process of determining
+network addresses by network name or
+determining network names by network addresses
+
+ZIS.11
+
+Ensuring the authenticity of network connections
+(interaction sessions), including for protection
+from substitution of network devices and services
+
+ZIS. 12
+
+An exception
+capabilities
+the user of the fact of sending personal
+data to another user
+
+denials
+
+ZIS.13
+
+An exception
+capabilities
+the user of the fact of receiving personal
+data from another user
+
+denials
+
+ZIS.14
+
+Using Terminal Access Devices
+for the processing of personal data
+
+ZIS.15
+
+Protection of archive files, settings
+information security and software
+security and other data not subject to
+changes in the process of processing personal
+data
+
+ZIS.16
+
+Revealing,
+analysis
+and blocking
+in
+covert channel information system
+transfer of information bypassing the implemented measures
+or within allowed network protocols
+
+ZIS.17
+
+Dividing the information system into segments
+(segmentation of the information system) and
+securing segment perimeters
+information system
+
+ZIS. 18
+
+Ensuring the download and execution of software
+software from machine carriers of personal
+read-only data and control
+the integrity of this software
+
+ZIS.19
+
+Isolation of processes (program execution) in
+allocated memory area
+
+ZIS.20
+
+Securing wireless connections used in
+information system
+
+Page 18
+
++
+
+XIV. Incident Detection and Response (IRR)
+INC. 1
+
+Identification of persons responsible for identifying
+incidents and response
+
++
+
++
+
+INC.2
+
+Discovery, identification and registration
+incidents
+
++
+
++
+
+INC. 3
+
+Timely
+informing
+responsible for identifying incidents and
+response to them, about incidents
+in the information system by users and
+administrators
+
++
+
++
+
+INC. 4
+
+Analysis of incidents, including identification
+sources and causes of incidents, and
+also an assessment of their consequences
+
++
+
++
+
+INC.5
+
+Taking measures to eliminate the consequences
+incidents
+
++
+
++
+
+INC.6
+
+Planning and taking preventive measures
+recurrence of incidents
+
++
+
++
+
+persons
+
+XV. Configuration management of the information system and personal protection system
+data (UKF)
+UKF.1
+
+Determination of persons who are allowed to act on
+making
+changes
+in
+configuration
+information and security systems
+personal data
+
++
+
++
+
++
+
+UKF.2
+
+Control
+changes
+information and security systems
+personal data
+
++
+
++
+
++
+
+UKF.3
+
+Analysis of the potential impact of the planned
+changes in the configuration of the information
+
++
+
++
+
++
+
++
+
++
+
++
+
+configuration
+
+Page 19
+
+personal data protection systems and systems
+to ensure the protection of personal data and
+reconciliation
+changes
+in
+configuration
+information system with an official
+(employee) responsible for providing
+personal data security
+UKF.4
+
+Documenting information (data) about
+changes in the configuration of the information
+personal data protection systems and systems
+
+"+" - a measure to ensure the security of personal data is included in the basic set of measures
+for an appropriate level of protection of personal data.
+Measures to ensure the security of personal data, not marked with a "+" sign,
+are used when adapting the baseline and refining the adapted baseline
+measures, as well as in the development of compensatory measures to ensure the safety of personal
+data.
+
+

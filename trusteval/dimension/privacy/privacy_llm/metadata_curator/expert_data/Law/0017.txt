@@ -1,0 +1,1193 @@
+Page 1
+
+_
+</ ˈGuide
+Good practices
+for development
+by Apps ˈ>
+
+_
+<Summary of the
+DNPDP Provision N ° 18/15
+to protect form
+adequate data
+personal in your Apps />;
+
+///////////////////////// < Collaborated:
+
+>
+
+Page 2
+
+<Index>
+
+3
+
+<Introduction>
+
+4
+
+<Privacy Principles>
+
+5
+
+<Privacy applied to development>
+
+7
+
+<Establishment of a privacy policy>
+
+<Control of personal information by
+part of their headlines>
+
+9
+
+10
+
+<Mobile apps>
+
+eleven
+
+<Use of apps by children>
+
+eleven
+
+<Contact with the PDP and applicable legislation>
+
+<Did you know that>
+
+12
+
+<Law 25.326>
+
+13
+
+<
+
+Page 3
+
+<Introduction>
+
+_
+
+Applications, such as software programs, have the ability
+to collect, use and transfer personal information. Is
+Information is protected by Law No. 25,326 (Law of
+Protection of Personal Data - LPDP), which establishes certain principles
+and obligations that any data processing has to fulfill.
+This Law defines personal data as any information that can
+refer to a specific or determinable person, so from the
+first and last name to a picture or a voice recording, when
+allow to recognize a person, it is a protected data.
+The most important principle established by the Law is that the data, without
+import where it is stored or how it is being used,
+is always owned by its owner, who has the right to control
+the uses that are given to your personal information.
+As an application developer, you have the responsibility to
+ensure the privacy of the personal data that your software uses.
+You must consider how your programs will protect privacy
+from the very beginning of development, having a policy
+use of the data clear, transparent, that allows the holders
+of data to know how is the data treatment that your
+programs perform.
+The National Directorate for the Protection of Personal Data (PDP) is the
+Application Authority of the LPDP and, from our functions
+control of compliance with the Law, we stimulate a culture of
+Protection of personal data. Through this Guide we offer you
+the necessary tools so that you can contemplate the protection
+of personal data in your software developments. In this way,
+at the same time, you are going to comply with the Law and generate in your clients,
+users and owners of the data, the confidence that your products
+they respect privacy.
+It should be noted that, in 2003, the European Union (EU) granted the regulation
+Argentina the adequacy in the terms established by the
+Directive N ° 95/46 / CE, which is why our country is not
+Restrictions apply for the transfer of personal data from
+the European Union. Therefore, by complying with Argentine legislation, we also
+you are going to comply with European regulatory standards.
+_
+
+_
+
+3
+
+Page 4
+
+<Privacy Principles>
+_
+CONSENT OF THE DATA HOLDER
+The consent of the owner for the use of their personal information is the only way in
+that the data processing is lawful, except in the case of an exception provided by
+the Law. Consent implies an informed decision by the owner allowing the
+use of your data. It requires the consent of the owners and, at the same time, informal
+that you will be collecting their information and the uses that you will give it.
+
+_
+PURPOSE
+The data that your applications collect can only be used in accordance with the
+purpose that originated the collection. If the application you develop is intended for
+accounting management of a business, for example the personal information that is collected may
+used to keep accounts, pay taxes, carry inventories and all
+purposes compatible with an accounting management, but could not be used to carry out
+an advertising campaign, because the purpose of the treatment would be changing.
+
+_
+DATA QUALITY
+The personal data that your applications collect and store must be true,
+adequate, relevant and not excessive in relation to the purpose that motivated their
+harvest. They cannot be obtained by unfair or fraudulent means and must be
+destroyed when they are no longer useful. In addition, you have the obligation to store them
+in such a way as to facilitate the exercise of the rights of its holders.
+
+_
+SAFETY
+Information security is an important aspect of data protection.
+Evaluate the security risks that your application may face, taking into account the
+sensitivity of the personal information it collects and stores. Check that your application,
+If you use personal data, follow the best practices in information security.
+
+_
+CONFIDENTIALITY
+The personal data that you become aware of due to the treatment you carry out are
+confidential. It is forbidden to reveal them. This obligation applies to anyone who
+intervenes at any stage of development, and even subsists even after the relationship
+contractual.
+
+4
+
+Page 5
+
+<Privacy applied to development>
+
+>
+8
+THE
+
+1.
+
+BASIC STEPS TO DEVELOP
+PROTECTING PRIVACY
+
+\>
+
+CONSIDER PRIVACY IN ALL THE PROCESSES OF YOUR ORGANIZATION.
+
+two.
+
+DEVELOP THE APPLICATIONS WITH THE CONCEPT OF ʺ PRIVACY FROM
+DESIGN" .
+
+3.
+
+I ESTABLISHED A CLEAR AND EASILY ACCESSIBLE PRIVACY POLICY
+BY THE DATA HOLDERS.
+
+Four.
+
+SET PRIVACY OPTIONS AS ʺ ON ʺ BY DEFAULT.
+
+5.
+
+I ALLOWED THE DATA HOLDERS TO CHOOSE AND CONTROL THE
+PRIVACY SETTINGS.
+
+6.
+
+LIMIT THE AMOUNT OF DATA YOU COLLECT OR RETAIN. DO NOT COLLECT
+OR STORE PERSONAL INFORMATION THAT YOUR SYSTEM, APPLICATION OR
+DEVICE DOES NOT NEED. AVOID COLLECTING OR STORING SENSITIVE DATA,
+UNLESS YOU ARE AUTHORIZED TO DO SO. I ESTABLISHED A POLICY FOR
+THE ELIMINATION OF PERSONAL DATA THAT IS NO LONGER USEFUL.
+
+7.
+
+SECURE THE PERSONAL DATA COLLECTED.
+
+8.
+
+I TAKEN RESPONSIBILITY: APPOINT A ʺ PRIVACY MANAGER ʺ
+OR I ASSUMED I MYSELF THE RESPONSIBILITY OF THE PROTECTION OF THE
+PERSONAL DATA THAT YOU HAVE PROCESSED.
+
+5
+
+Page 6
+
+3
+>
+
+\>
+
+METHODOLOGIES FOR
+CONSIDER:
+
+_
+PRIVACY BY DESIGN
+"Privacy by design" is an approach that contemplates the protection of the
+privacy from the very origin of the design of a system, application or device. Since
+From this perspective, the concern for the protection of personal data should not be
+analyzed after the completion of development, as if it were an annex,
+rather, it must be present at all stages of the process. In this way, privacy
+it is considered in all phases of the system, application or device life cycle.
+
+_
+PRIVACY BY DEFAULT
+It is a software development concept that states that privacy settings
+should be "on" by default, such that it involves an act of
+will of the owner deactivate or share personal information. Generally the headlines
+of the data, when they use applications, they do not know how to configure privacy or not
+they take the time to do it. Therefore, it is important that the application does not share
+personal information, unless the owner configures the privacy options
+allowing it.
+
+_
+PRIVACY-ENHANCING TECHNOLOGIES (PET)
+It is a system of measures, tools and applications that protect privacy
+of information by eliminating or minimizing personal data. Of that
+Thus, the unnecessary or unwanted processing of personal data is prevented, without the
+loss of information system functionality.
+i. Privacy management tools, which allow the owner
+choose and control the way your data is collected and used.
+
+ii. Privacy protection tools
+_
+1. Data decoupling
+Tools that aim to hide the identity of the owner, so that they cannot
+relate the data to a specific or determinable person. For example,
+tools that hide the IP address of the sender.
+_
+2. Pseudonymisation
+They allow carrying out operations without determining the owner of the data,
+identified only with a pseudonym.
+_
+3. Information security
+The main objective is to prevent unauthorized access to systems, files or
+to communications over a network.
+
+6
+
+Page 7
+
+_
+4. Metadata
+They are used to add tags to files containing personal data,
+adding information that details the source, the consent obtained, how
+can be used, as well as the privacy policies to which it is subject. What's more,
+information can be entered indicating the amount of time that the data
+personal data can be kept or if the owner gave consent to assign the
+information to third parties.
+_
+5. Cryptography
+Used not only to store information safely, but also to
+ensure its integrity when transporting it, either through physical media or through
+of a network, or to generate secure access to personal data.
+
+_
+TECHNICAL ASPECTS FOR APPLICATIONS
+i. Correct use of permissions
+If it is a mobile application, verify that the permissions that
+required are strictly necessary for operation
+suitable. People save to their mobile devices
+very personal information, and mismanagement of permissions
+it will leave them vulnerable. A typical example of the misuse of permissions
+is a flashlight application that requires access to the contacts of the
+data holder or his calendar.
+
+ii. Geolocation
+If your application accesses location data, you must notify and obtain
+the permission of the owner of the data, even if it is metadata of
+geolocation of photos or videos.
+
+<Establishment of a privacy policy>
+One of the most important steps to respect the privacy of data subjects is
+develop a Privacy Policy that clearly explains what type of information is
+collects, how it is used and with whom you share it. This policy should be simple and, to the extent
+if possible, standardized, in such a way as to facilitate its reading and understanding by
+of the data holders. It is important that the policy reflects the data processing that
+makes your application, so don't "cut and paste" a generic policy from another application or
+developer. On the contrary, develop one that is comprehensive of the particularities
+of your application. Keep in mind that a Privacy Policy that does not respond to the
+data processing that you do may generate inconveniences with your clients, the
+data holders of the application and even control bodies, such as this PDP.
+
+7
+
+Page 8
+
+to. One aspect that you should not forget is that, if you make changes to the Privacy Policy,
+you must notify them. The Privacy Policy must comply with the following guidelines:
+_
+1. Contain a definition of the Purpose of the Privacy Policy (what is the protected object,
+such as, for example, articles 1 and 2 of the LPDP and its principles), scope (to whom
+the policy is required) and its compatibility and / or relationship with the protection policies of
+commercial information or any other policy that comes in conjunction with the protection
+of personal data.
+_
+2. Include a definition of the terms used in the policy (in accordance with the LPDP).
+_
+3. Reflect the principles of personal data protection applicable to the treatment of
+data made by the application (in accordance with the LPDP, according to articles 3, 4, 5, 6, 7).
+_
+4. If you share or transfer the data with a third party, you must notify it prominently in
+your policy and comply with the requirements of the transfer of data, contemplated in article 11
+of the LPDP.
+_
+5. It contemplates the confidentiality of personal data (article 10, LPDP), with reference to
+the confidentiality agreements of the personnel and third parties that provide services, and
+any other person or organization that may come to know the data
+personal data that the application deals with.
+_
+6. Make mention of the personal data security policy, and the application of the
+DNPDP provision No. 11/06 (security manual).
+_
+7. It contemplates, in the event that the data processing includes its transfer abroad,
+the requirements for an International Transfer of personal data (applying article
+12 LPDP and Decree No. 1558/01). Please note that cloud storage is considered
+an international data transfer.
+_
+8. In the event that the use of personal information includes the purpose of advertising,
+compliance with the specific obligations for this type of
+treatment (article 27 LPDP and Decree No. 1558/01, DNPDP Provisions No. 10/08 and 4/09).
+_
+9. Take into account what is established in article 25 LPDP and Decree No. 1558/01 in relation to
+the provision of data processing services on behalf of third parties.
+_
+10. I established the procedure to comply with the rights of the owners of the data
+(rights of access, rectification, deletion and blocking, articles 14, 15, 16 and 27, inc. 3 of the
+LPDP).
+_
+11. Communicate, through the Policy, who is the Data Protection Officer (in charge of
+ensure the correct and effective application of the policy and its relationship, both with the holders
+data, as with the control body). It can be a natural person or an area within
+your organization.
+
+8
+
+Page 9
+
+b. Make sure someone in your organization is responsible for privacy. At least
+a person in the organization must ensure that the applications you develop comply with
+with the principles of data protection. If it is a sole proprietorship,
+You must take care of this function yourself.
+It will be the task of this person:
+
+• Ensure that the applications and the data processing they carry out comply with the
+data protection regulations (Law No. 25,326, regulatory decree, provision of
+the DNPDP).
+• Review and keep the organization's Privacy Policy updated, and make sure
+that the applications they develop comply with it.
+• Respond to queries related to the Privacy Policy, the exercise of the
+rights of the data owner and the requirements of the PDP.
+c. Training of personnel in privacy. All the people who work in your
+organization should be aware of the obligations they have in relation to the treatment
+of data. It is the best way to avoid that, by mistake or ignorance, make your
+organization in default.
+
+d. Control of third parties with whom personal data is exchanged. Law No. 25,326
+establishes joint and several liability between those who exchange information. That is
+If who you send or from whom you receive personal information commits any breach,
+They could also claim you. I only gave or received personal data from people or
+trustworthy organizations, and verify that they are duly registered in the Registry
+National Database of the PDP.
+
+<Control of personal information by
+part of their headlines>
+Provide those who make use of your applications, and the owners of the data in
+general, the control of your personal information, particularly when it comes to
+sensitive, intimate information or when it is used other than the obvious or
+common. The uses made of personal data must come from a
+conscious and informed choice of its holders.
+Allow them to access the information you store about them and give them the possibility
+to rectify erroneous or outdated information, or to delete it, when
+corresponds. In addition, you must make an effort so that the personal information that
+store is true, adequate, pertinent and not excessive in relation to the uses that
+you give it and that motivated its collection.
+Try to obtain, whenever necessary, the consent of the owner of the data
+to use your personal information. Try to limit to the minimum possible, already
+strictly necessary, the amount of personal information you collect and
+you use, and safely destroy any data that has left you
+be useful.
+
+9
+
+Page 10
+
+<Mobile apps>
+Applications developed for mobile devices
+will generally have the limitation of the size of the
+screen. You will have to be creative in order to show the
+information in your Privacy Policy in a way that
+useful to data holders, with the challenge
+extra space that creates a small space like the screen
+from a cell phone.
+Some tips that you can apply:
+_
+to. Separate information into different layers
+Few people will be willing to read 30 pages of a Privacy Policy, and a lot
+less on the small screen of a cell phone. To avoid this, you must classify the information
+that you provide in your Privacy Policy, separate it into different layers and place the most
+important in the upper layers. Then offer hyperlinks for those who want to
+dig deeper and know the details.
+_
+b. Provide the data holder with a privacy dashboard
+It might be useful to offer a privacy setting tool, with a design
+attractive and friendly, which allows the data holder to easily choose the options of
+Privacy.
+_
+c. Use techniques to attract the attention of the data holder
+You should try to draw the attention of the owner of the data to the important information of your
+Privacy Policy.
+To do this, you can resort to a series of resources that the
+mobile platform, such as visual or audible cues:
+_
+Graphics: Use icons, labels or images that catch the headline's attention
+of the data, linked to a text that provides more information. This can result
+useful at certain times when using the application, such as when
+have to use the personal data of the owner of the data. For example, if you go
+To geolocate a photo, a symbol is activated that warns the owner of the
+data and, if necessary, your consent is obtained.
+_
+Colors: Get the attention of data subjects through the use of colors and
+the variation of its intensity. This may be proportional to the importance of the
+decision or sensitivity of the information.
+_
+Sounds: Another appropriate way to draw the attention of the data holder is to
+through sounds. For example, when a decision of the owner of the
+data or you must provide them with important information about the use of their data
+personal.
+
+10
+
+Page 11
+
+<Use of applications by children>
+If your application can be used by children or adolescents, you must
+take special care. It is a group that makes a use
+intensive use of technology, who knows how to handle it, but who, due to his
+age, may lack the critical reflection necessary to identify
+the dangers that misuse of your personal information can
+to rig.
+They are a vulnerable population and, therefore, it will be necessary to have
+take into account special precautions to protect them.
+
+• Limit as much as possible the type and amount of information that
+you collect on them.
+• It contemplates strict security measures on the information that necessarily
+you must collect.
+• Avoid sharing personal information of minors with third parties.
+
+• Provide them with information appropriate to their level of understanding about the responsible use of their
+data and alert them to the dangers associated with misuse.
+• Whenever appropriate, obtain parental consent. I established mechanisms
+to keep them informed about the uses made of the
+personal information of minors.
+
+<Contact with the PDP and applicable legislation>
+
+<
+
+The PDP is a body dependent on the MINISTRY OF
+JUSTICE AND HUMAN RIGHTS , based in
+Sarmiento 1118, 5th floor, of the AUTONOMOUS CITY OF
+BUENOS AIRES.
+On its website (www.jus.gov.ar/datospersonales)
+You can find all the protection regulations of
+personal data, which includes the LPDP, its decree
+regulations and all the provisions of the Director
+National Protection of Personal Data, as well
+as other additional information about privacy
+and data protection.
+
+eleven
+
+Page 12
+
+<DID YOU KNOW THAT the PDP also has:>
+_
+The NATIONAL REGISTRY OF DATABASES,
+where the holders or users of databases
+data are required to register. It's a
+requirement established by Law No. 25,326
+so that the bases are considered legal and
+to facilitate the right of access, rectification,
+update or deletion by the holders
+of the data.
+
+_
+The NATIONAL REGISTRY DO NOT CALL, in order to limit
+calls and advertising messages that
+you receive on your phone. Registration is free
+and very simple: call 146 from the number you
+you want to register, or enter your request in
+www.nollame.gob.ar.
+
+_
+THE ASSISTANCE CENTER FOR THE VICTIMS OF
+IDENTITY THEFT and the NATIONAL REGISTRY
+OF IDENTITY DOCUMENTS
+QUESTIONED, where you can consult
+the identity documents reported by
+the competent public authorities and / or
+their headlines, on the grounds of loss, theft, robbery
+or any other alteration.
+
+_
+The CENTER FOR TRAINING, RESEARCH AND
+DISSEMINATION OF THE PROTECTION OF
+PERSONAL DATA, where the Campus works
+Virtual PDP, in which you can perform
+several virtual courses on this topic,
+from anywhere in the country.
+
+_
+The National Program WITH YOU ON THE WEB,
+that helps girls, boys and adolescents to
+develop critical and reflective capacities
+for a responsible use of the new
+technologies. It also generates content and
+trainings for parents and teachers, with the
+in order to accompany girls and boys to take care of their
+privacy and privacy on social media
+and Internet.
+
+12
+
+Page 13
+
+<Law 25.326>
+PROTECTION OF PERSONAL DATA
+Law 25,326
+General disposition. General principles relating to data protection. Rights of
+the data subjects. Users and managers of files, records and databases.
+Control. Sanctions Personal data protection action.
+Sanctioned: October 4, 2000.
+Partially Promulgated: October 30, 2000.
+The Senate and Chamber of Deputies of the Argentine Nation meeting in Congress, etc.
+sanction with force of law:
+Personal Data Protection Law
+CHAPTER I
+GENERAL DISPOSITION
+ARTICLE 1 - (Object).
+The purpose of this law is the comprehensive protection of personal data recorded in
+files, registers, databases, or other technical means of data processing, whether
+these public, or private destined to give reports, to guarantee the right to honor and
+the privacy of people, as well as access to information about the
+They are registered, in accordance with the provisions of article 43, third paragraph of the
+National Constitution.
+The provisions of this law will also be applicable, insofar as it is pertinent, to
+the data relating to persons of ideal existence.
+In no case may the database or the sources of information be affected
+journalistic.
+ARTICLE 2 - (Definitions).
+For the purposes of this law, it is understood by:
+- Personal data: Information of any kind referring to natural persons or of existence
+determinable or determinable ideal.
+- Sensitive data: Personal data that reveals racial and ethnic origin, political opinions,
+religious, philosophical or moral convictions, union membership and information regarding the
+health or sex life.
+- File, register, database or database: Indistinctly, they designate the organized set
+of personal data that are subject to treatment or processing, electronic or not,
+whatever the modality of its formation, storage, organization or access.
+- Data processing: Systematic operations and procedures, electronic or not, that
+allow the collection, conservation, management, storage, modification,
+
+13
+
+Page 14
+
+relationship, evaluation, blocking, destruction, and in general the processing of data
+personal data, as well as its assignment to third parties through communications, consultations,
+interconnections or transfers.
+- Responsible for the file, registry, database or database: Natural person or of existence
+ideally public or private, which is the owner of a file, registry, database or database.
+- Computerized data: Personal data subjected to treatment or processing
+electronic or automated.
+- Owner of the data: Any natural person or person of ideal existence with legal address or
+delegations or branches in the country, whose data is subject to the treatment to which
+referred to in this law.
+- Data user: Any person, public or private, who carries out the treatment at their discretion
+of data, either in files, registers or own databases or through connection with
+the same.
+- Data disassociation: Any processing of personal data so that the information
+obtained cannot be associated with a specific or determinable person.
+Chapter II
+General principles relating to data protection
+ARTICLE 3 - (Data files - Lawfulness).
+The formation of data files will be lawful when they are duly registered,
+observing in its operation the principles established by this law and the
+regulations issued accordingly.
+The data files cannot have purposes contrary to the laws or public morals.
+ARTICLE 4 - (Data quality).
+1. The personal data that is collected for the purposes of its treatment must be true,
+adequate, relevant and not excessive in relation to the scope and purpose for which the
+would have obtained.
+2. The data collection cannot be done by unfair, fraudulent means or in the wrong way.
+contrary to the provisions of this law.
+3. The data object of treatment cannot be used for different purposes or
+incompatible with those that motivated its obtaining.
+4. The data must be accurate and updated if necessary.
+5. The data that is totally or partially inaccurate, or that is incomplete, must be deleted and
+replaced, or where appropriate completed, by the person responsible for the file or database when
+is aware of the inaccuracy or incompleteness of the information in question, without
+prejudice to the rights of the owner established in article 16 of this law.
+
+14
+
+Page 15
+
+6. The data must be stored in a way that allows the exercise of the right to
+access of its owner.
+7. The data must be destroyed when they are no longer necessary or relevant to the
+purposes for which they were collected.
+ARTICLE 5 - (Consent).
+1. The processing of personal data is illegal when the owner has not provided his
+free, express and informed consent, which must be in writing, or by another
+means that allows it to be equated, according to the circumstances.
+The aforementioned consent given with other statements must be expressly stated
+and highlighted, prior notification to the required data, of the information described in the
+Article 6 of this law.
+2. Consent will not be necessary when:
+a) The data is obtained from sources of unrestricted public access;
+b) They are collected for the exercise of functions inherent to the powers of the State or by virtue of
+a legal obligation;
+c) In the case of lists whose data is limited to name, national identity document,
+Tax or social security identification, occupation, date of birth and address;
+d) They derive from a contractual, scientific or professional relationship of the owner of the data, and
+are necessary for its development or fulfillment;
+e) Regarding the operations carried out by financial entities and the information
+that they receive from their clients in accordance with the provisions of article 39 of Law 21,526.
+ARTICLE 6 - (Information).
+When personal data is collected, the owners must be previously informed at
+express and clear way:
+a) The purpose for which they will be processed and who may be their recipients or class
+of recipients;
+b) The existence of the file, registry, data bank, electronic or any other
+type, in question and the identity and address of the person responsible;
+c) The mandatory or optional nature of the answers to the questionnaire that is
+propose, especially regarding the data referred to in the following article;
+d) The consequences of providing the data, of the refusal to do so or of the
+inaccuracy of the same;
+e) The possibility of the interested party to exercise the rights of access, rectification and
+deletion of data.
+
+fifteen
+
+Page 16
+
+ARTICLE 7 - (Category of data).
+1. No person can be forced to provide sensitive data.
+2. Sensitive data can only be collected and processed when mediated
+reasons of general interest authorized by law. They may also be processed for purposes
+statistical or scientific when their holders cannot be identified.
+3. The formation of files, banks or registers that store information is prohibited.
+that directly or indirectly reveals sensitive data. Notwithstanding this, the Catholic Church,
+religious associations and political and trade union organizations may keep a record
+of its members.
+4. Data relating to criminal or infringement records can only be subject to
+treatment by the competent public authorities, within the framework of the laws and
+respective regulations.
+ARTICLE 8 - (Data relating to health).
+Public or private health establishments and professionals linked to the
+health sciences can collect and process personal data related to physical health
+or mental health of the patients who come to them or who are or have been under
+treatment of those, respecting the principles of professional secrecy.
+ARTICLE 9 - (Data security).
+1. The person responsible or user of the data file must adopt the technical measures and
+organizational measures that are necessary to guarantee the security and confidentiality of the
+personal data, in order to avoid its adulteration, loss, consultation or treatment not
+authorized, and that allow detecting deviations, intentional or not, of information, whether
+that the risks come from human action or the technical means used.
+2. It is forbidden to record personal data in files, registers or banks that do not collect
+technical conditions of integrity and security.
+ARTICLE 10. - (Duty of confidentiality).
+1. The person in charge and the people involved in any phase of data processing
+personal are bound by professional secrecy with respect to them. Such obligation
+It will survive even after the end of your relationship with the owner of the data file.
+2. The obliged party may be relieved of the duty of secrecy by judicial resolution and when
+there are well-founded reasons related to public security, national defense or health
+public.
+ARTICLE 11. - (Assignment).
+1. The personal data object of treatment can only be transferred for the fulfillment
+of the purposes directly related to the legitimate interest of the transferor and the assignee and
+with the prior consent of the data owner, who must be informed about the
+purpose of the assignment and identify the assignee or the elements that allow it to do so.
+
+16
+
+Page 17
+
+2. The consent for the assignment is revocable.
+3. Consent is not required when:
+a) As provided by law;
+b) In the cases provided for in article 5, paragraph 2;
+c) It is carried out between dependencies of the State bodies directly, to the extent
+of the fulfillment of their respective competences;
+d) In the case of personal data related to health, and is necessary for health reasons
+public, emergency or to carry out epidemiological studies, as long as it is
+preserve the identity of the data subjects through dissociation mechanisms
+adequate;
+e) An information disassociation procedure would have been applied, so that the
+holders of the data are unidentifiable.
+4. The transferee will be subject to the same legal and regulatory obligations as
+transferor and the latter will be jointly and severally liable for the observance of the same before
+the control body and the owner of the data in question.
+ARTICLE 12. - (International transfer).
+1. The transfer of personal data of any kind with countries or countries is prohibited.
+international or supranational organizations that do not provide levels of protection
+suitable.
+2. The prohibition shall not apply in the following cases:
+a) International judicial collaboration;
+b) Exchange of medical data, when required by the treatment of the affected person, or
+an epidemiological investigation, as long as it is carried out under the terms of subsection e) of the
+previous article;
+c) Bank or stock transfers, in relation to the respective transactions and
+according to the legislation that is applicable to them;
+d) When the transfer has been agreed within the framework of international treaties in
+of which the Argentine Republic is a party;
+e) When the transfer is for international cooperation between organizations
+of intelligence for the fight against organized crime, terrorism and drug trafficking.
+Chapter III
+Rights of data holders
+ARTICLE 13. - (Right to Information).
+
+17
+
+Page 18
+
+Anyone can request information from the control body regarding the existence of
+files, records, databases or personal data banks, their purposes and the identity of their
+responsible.
+The record that is carried out for this purpose will be free and public consultation.
+ARTICLE 14. - (Right of access).
+1. The owner of the data, after proof of identity, has the right to request and
+obtain information from your personal data included in public databases, or
+private companies intended to provide reports.
+2. The person in charge or user must provide the requested information within ten
+days in a row of having been reliably intimidated.
+Once the period has expired without the order being satisfied, or if the report is issued, it will be estimated
+insufficient, the action to protect personal data or habeas will be expedited
+data provided for in this law.
+3. The right of access referred to in this article can only be exercised in a manner
+free of charge at intervals of not less than six months, unless a legitimate interest is accredited to the
+effect.
+4. The exercise of the right to which this article refers in the case of personal data
+deceased will belong to their universal successors.
+ARTICLE 15. - (Information content).
+1. The information must be provided in a clear form, free of coding and where appropriate
+accompanied by an explanation, in language accessible to average knowledge of the
+population, of the terms used.
+2. The information must be comprehensive and cover the entire record belonging to the
+holder, even when the request only includes one aspect of the personal data. On
+In no case may the report reveal data belonging to third parties, even when it is
+link with the interested party.
+3. The information, at the option of the owner, may be provided in writing, by means of
+electronic, telephone, image, or other suitable for this purpose.
+ARTICLE 16. - (Right of rectification, update or deletion).
+1. Everyone has the right to have them rectified, updated and, when appropriate,
+deleted or subjected to confidentiality the personal data of which it is the owner, which
+are included in a database.
+2. The person responsible or user of the database must proceed to rectify, delete or
+updating the personal data of the affected person, carrying out the necessary operations to
+For this purpose, within a maximum period of five business days after receiving the claim from the data owner.
+or noticed the error or falsehood.
+
+18
+
+Page 19
+
+3. Failure to comply with this obligation within the term agreed in the preceding paragraph,
+will enable the interested party to promote without further action the protection of personal data or
+of habeas data provided for in this law.
+4. In the case of assignment, or transfer of data, the person in charge or user of the bank of
+data must notify the rectification or deletion to the assignee within the fifth business day of
+data processing has been carried out.
+5. The deletion does not proceed when it could cause damage to rights or interests
+legitimate third parties, or when there is a legal obligation to keep the data.
+6. During the process of verification and rectification of the error or falsehood of the information
+in question, the person in charge or user of the database must either block the file,
+or state, when providing information related to it, the circumstance that it is
+submitted for review.
+7. Personal data must be kept for the periods specified in the
+applicable provisions or where appropriate, in the contractual between the person responsible or user of the
+database and the owner of the data.
+ARTICLE 17. - (Exceptions).
+1. Those responsible or users of public data banks may, by decision
+founded, deny access, rectification or deletion based on the protection of the
+defense of the Nation, public order and security, or the protection of rights and
+interests of third parties.
+2. Information on personal data may also be denied by those responsible
+or users of public data banks, when in such a way they could hinder
+ongoing judicial or administrative actions related to the investigation into the
+compliance with tax or social security obligations, the development of functions of
+health and environmental control, investigation of criminal offenses and verification
+of administrative offenses. The resolution that so provides must be founded and
+notified to the affected party.
+3. Without prejudice to the provisions of the preceding paragraphs, access to the
+records in question at the time that the affected party has to exercise their right to
+defending.
+ARTICLE 18. - (Legislative commissions).
+The National Defense Commissions and the Bicameral Commission for the Oversight of the Organs
+and Internal Security and Intelligence Activities of the National Congress and the Commission of
+Internal Security of the Chamber of Deputies of the Nation, or those that replace them, will have
+access to the files or databases referred to in article 23 paragraph 2 for reasons
+founded and in those aspects that constitute matters of competence of such
+Commissions.
+ARTICLE 19. - (Gratuity).
+The rectification, updating or deletion of inaccurate or incomplete personal data that
+work in public or private registries will be carried out without any charge for the interested party.
+
+19
+
+Page 20
+
+ARTICLE 20. - (Challenge of personal assessments).
+1. Judicial decisions or administrative acts that imply appreciation or
+assessment of human behaviors, may not have as the sole basis the result of the
+computerized processing of personal data that provide a definition of the profile or
+personality of the person concerned.
+2. The acts that are contrary to the preceding provision will be insanity void.
+Chapter IV
+Users and managers of files, records and databases
+ARTICLE 21. - (Registration of data files. Registration).
+1. Any public and private file, registry, database or database intended to provide
+Reports must be registered in the Registry that the control body establishes for this purpose.
+2. The data file record must contain at least the following information:
+a) Name and address of the person in charge;
+b) Characteristics and purpose of the file;
+c) Nature of the personal data contained in each file;
+d) Method of data collection and updating;
+e) Destination of the data and natural persons or persons of ideal existence to whom they may be
+transmitted;
+f) How to interrelate the registered information;
+g) Means used to guarantee data security, having to detail the category
+of people with access to the processing of information;
+h) Data retention time;
+i) Form and conditions in which people can access the data relating to them and the
+procedures to be carried out to rectify or update the data.
+3) No data user may possess personal data of a nature other than those
+declared in the registry.
+Failure to comply with these requirements will give rise to the administrative sanctions provided for in
+Chapter VI of this law.
+ARTICLE 22. - (Public files, records or databases).
+1. The rules on the creation, modification or deletion of files, registers or banks of
+data belonging to public bodies must be made by means of a general provision
+published in the Official Gazette of the Nation or official gazette.
+
+twenty
+
+Page 21
+
+2. The respective provisions must indicate:
+a) Characteristics and purpose of the file;
+b) Persons with respect to whom it is intended to obtain data and the optional character or
+mandatory supply by them;
+c) Procedure for obtaining and updating the data;
+d) Basic structure of the file, computerized or not, and the description of the nature of the
+personal data that they will contain;
+e) Assignments, transfers or planned interconnections;
+f) Bodies responsible for the file, requiring hierarchical dependence where appropriate;
+g) The offices before which claims could be made in exercise of the
+rights of access, rectification or deletion.
+3. In the dispositions that are dictated for the suppression of the computerized registries this
+It will establish the fate of the same or the measures adopted for their destruction.
+ARTICLE 23. - (Special cases).
+1. The personal data that, due to having been
+stored for administrative purposes, must be subject to permanent registration in the
+databases of the armed forces, security forces, police agencies or
+intelligence; and those on personal antecedents provided by said banks of
+data to the administrative or judicial authorities that require them by virtue of
+legal provisions.
+2. The processing of personal data for purposes of national defense or public security by
+part of the armed forces, security forces, police agencies or intelligence, without
+consent of those affected, is limited to those cases and category of data
+that are necessary for the strict fulfillment of the legally assigned missions
+to those for national defense, public security or for the repression of crimes.
+The files, in such cases, must be specific and established for this purpose, and must
+be classified by categories, based on their degree of reliability.
+3. Personal data registered for law enforcement purposes will be canceled when they are not
+necessary for the inquiries that led to their storage.
+ARTICLE 24. - (Private files, records or databases).
+Individuals who form files, records or databases that are not for use
+exclusively personal must register in accordance with the provisions of article 21.
+ARTICLE 25. - (Provision of computerized services of personal data).
+1. When personal data processing services are provided on behalf of third parties,
+These may not be applied or used for a purpose other than that stated in the contract of
+
+twenty-one
+
+Page 22
+
+services, nor assign them to other people, not even for their conservation.
+2. Once the contractual provision has been completed, the personal data processed must be
+destroyed, unless expressly authorized by the person on whose behalf the
+such services when the possibility of further orders is reasonably presumed, in
+in which case it can be stored under proper security conditions for a period of
+up to two years.
+ARTICLE 26. - (Provision of credit information services).
+1. In the provision of credit information services, only data can be processed
+personal assets of a patrimonial nature related to economic solvency and credit, obtained
+from sources accessible to the public or from information provided by the interested party
+or with your consent.
+2. Personal data related to compliance or non-compliance may also be processed.
+of obligations of patrimonial content, facilitated by the creditor or by whoever acts for
+your account or interest.
+3. At the request of the owner of the data, the person in charge or user of the database,
+will communicate the information, evaluations and appraisals that on the same have been
+communicated during the last six months and and the name and address of the assignee in the
+supposed to be data obtained by transfer.
+4. Only personal data that is significant for
+evaluate the economic and financial solvency of those affected during the last five years.
+Said term will be reduced to two years when the debtor cancels or otherwise extinguishes the
+obligation, and this fact must be recorded.
+5. The provision of credit information services will not require prior consent.
+of the owner of the data for the purposes of its transfer, nor the subsequent communication thereof, when
+are related to the business or credit activities of the assignees.
+ARTICLE 27. - (Files, records or databases for advertising purposes).
+1. In the collection of addresses, distribution of documents, advertising or direct sales and other
+analogous activities, data may be processed that are suitable for establishing profiles
+determined for promotional, commercial or advertising purposes; or allow to establish
+consumption habits, when these appear in documents accessible to the public or have been
+provided by the owners themselves or obtained with their consent.
+2. In the cases contemplated in this article, the owner of the data may exercise
+the right of access without charge.
+3. The owner may at any time request the withdrawal or blocking of his name from the
+databases referred to in this article.
+ARTICLE 28. - (Files, registers or databases related to surveys).
+1. The rules of this law will not apply to opinion polls, measurements and
+statistics collected in accordance with Law 17,622, market prospecting work,
+
+22
+
+Page 23
+
+scientific or medical research and similar activities, insofar as the data
+collected cannot be attributed to a specific or determinable person.
+2. If in the data collection process it is not possible to maintain anonymity,
+must use a dissociation technique, so that it does not allow to identify a person
+some.
+Chapter V
+Control
+ARTICLE 29. - (Control Body).
+1. The control body must carry out all the actions necessary to comply with the
+the objectives and other provisions of this law. To this end, it will have the following
+functions and powers:
+a) Assist and advise people who require it about the scope of this and
+of the legal means available to them to defend the rights that it guarantees;
+b) To dictate the rules and regulations that must be observed in the development of the
+activities covered by this law;
+c) Carry out a census of files, registers or databases reached by law and
+keep a permanent record of them;
+d) Control the observance of the rules on data integrity and security by
+files, records or databases. To this end, you may request judicial authorization
+to access premises, equipment, or data processing programs in order to verify
+infractions to the fulfillment of the present law;
+e) Request information from public and private entities, which must provide the
+background, documents, programs or other elements related to the treatment of
+personal data required. In these cases, the authority must guarantee the
+security and confidentiality of the information and elements supplied;
+
+f) Impose the administrative sanctions that may correspond for violation of the
+norms of the present law and of the regulations that are dictated in its consequence;
+g) Become a plaintiff in criminal actions that are brought for violations of
+this law;
+h) Control compliance with the requirements and guarantees that the files or
+private data banks destined to supply reports, to obtain the
+corresponding registration in the Registry created by this law.
+2. The control body will enjoy functional autonomy and will act as a body
+decentralized within the scope of the Ministry of Justice and Human Rights of the Nation.
+3. The control body will be directed and administered by a Director appointed for the term
+of four (4) years, by the Executive Power with the agreement of the Senate of the Nation, and must be
+selected from people with a background in the field.
+
+2. 3
+
+Page 24
+
+The Director will have exclusive dedication in his function, being reached by the
+incompatibilities established by law for public officials and may be removed by the
+Executive branch for poor performance of its functions.
+ARTICLE 30. - (Codes of conduct).
+1. Associations or representative entities of managers or users of banks of
+privately owned data may develop codes of conduct for professional practice,
+that establish standards for the processing of personal data that tend to ensure and
+improve the operating conditions of information systems based on the
+principles established in this law.
+2. Said codes must be registered in the registry kept for this purpose by the
+control, who may deny registration when it considers that they do not comply with the
+legal and regulatory provisions on the matter.
+Chapter VI
+Sanctions
+ARTICLE 31. - (Administrative sanctions).
+1. Without prejudice to the administrative responsibilities that correspond in the cases of
+managers or users of public databases; of liability for damages and
+damages derived from the non-observance of this law, and the criminal sanctions that
+corresponding, the control body may apply the warning sanctions,
+suspension, fine of one thousand pesos ($ 1,000.-) to one hundred thousand pesos ($ 100,000.-), closure or
+cancellation of the file, record or database.
+2. The regulations will determine the conditions and procedures for the application of the
+Provided sanctions, which must be graduated in relation to the severity and extent of the
+violation and the damages derived from the infringement, guaranteeing the principle of due
+process.
+ARTICLE 32. - (Criminal sanctions).
+1. Incorporate as article 117 bis of the Penal Code, the following:
+"1 °. Anyone who inserts or makes
+knowingly inserting false information into a personal data file.
+2nd. The penalty will be from six months to three years, to which a third party knowingly provided
+false information contained in a personal data file.
+3rd. The penal scale will be increased by half the minimum and the maximum, when the fact is
+derive harm to someone.
+4th. When the author or person responsible for the crime is a public official in the exercise of his
+functions, the accessory of disqualification for the performance of public office will be applied
+for twice the time of the sentence ".
+2. The following shall be incorporated as article 157 bis of the Penal Code:
+
+24
+
+Page 25
+
+"It will be punished with a prison sentence of one month to two years who:
+1st. Knowingly and unlawfully, or violating confidentiality and security systems of
+data, accesses, in any way, a personal data bank;
+2nd. I will reveal to other information registered in a personal data bank whose secret
+It is obliged to preserve by provision of a law.
+When the author is a public official, he will also suffer a penalty of special disqualification from
+one to four years. "
+Chapter VII
+Personal data protection action
+ARTICLE 33. - (Origin).
+1. The action to protect personal data or habeas data will proceed:
+a) to become aware of the personal data stored in files, records or
+public or private databases intended to provide reports, and the purpose of
+those;
+b) in cases in which the falseness, inaccuracy, outdatedness of the
+information in question, or the processing of data whose registration is prohibited
+in this law, to demand its rectification, deletion, confidentiality or updating.
+ARTICLE 34. - (Active standing).
+The action of protection of personal data or habeas data may be exercised by the
+affected, their guardians or curators and the successors of natural persons, are online
+direct or collateral up to the second degree, by itself or through a proxy.
+When the action is exercised by people of ideal existence, it must be filed by
+their legal representatives, or proxies designated by them for this purpose.
+In the process, the Ombudsman may intervene in a coadjuvant manner.
+ARTICLE 35. - (Passive legitimation).
+The action will proceed with respect to those responsible and users of public databases, and
+of the private ones destined to provide reports.
+ARTICLE 36. - (Competition).
+The judge of the actor's domicile will be competent to understand this action; the one of the domicile
+of the defendant; that of the place where the fact or act is externalized or could have effect, to
+choice of actor.
+Federal jurisdiction will proceed:
+a) when it is filed against public data files of national organizations, and
+b) when the data files are interconnected in inter-jurisdictional networks,
+national or international.
+
+25
+
+Page 26
+
+ARTICLE 37. - (Applicable procedure).
+The habeas data action will be processed according to the provisions of this law and by the
+procedure that corresponds to the common and supplementary amparo action by the
+norms of the Civil and Commercial Procedural Code of the Nation, regarding the trial
+very summary.
+ARTICLE 38. - (Requirements of the demand).
+1. The claim must be filed in writing, identifying with the greatest precision
+possible the name and address of the file, registry or database and, where appropriate, the name
+of the person in charge or user of the same.
+In the case of public files, registries or banks, an attempt will be made to establish the agency
+state on which they depend.
+2. The plaintiff must state the reasons why he understands that in the file, record
+or individualized database contains information related to your person; the reasons why
+which you consider that the information that concerns you is discriminatory, false or inaccurate and
+justify that the precautions made to exercise the rights granted to you have been met.
+recognizes this law.
+3. The affected party may request that while the procedure lasts, the registry or bank of
+data asserts that the disputed information is subject to a judicial process.
+4. The Judge may order the provisional blocking of the file in relation to personal data
+reason for the trial when the discriminatory, false or inaccurate nature of the
+information in question.
+5. For the purposes of requesting information from the file, registry or database involved, the
+Judicial criterion of appreciation of the circumstances required in points 1 and 2 must be
+large.
+ARTICLE 39. - (Procedure).
+1. Once the action is admitted, the judge will require the file, registry or database to send the
+information concerning the plaintiff. You can also request reports on the support
+data technician, basic documentation related to the collection and any other aspect
+that is conducive to the resolution of the cause it deems appropriate.
+2. The deadline for answering the report may not exceed five business days, which may
+be prudentially expanded by the judge.
+ARTICLE 40. - (Confidentiality of information).
+1. Private records, files or databases may not claim the confidentiality of
+the information that is required of them except in the case in which the sources of information are affected
+journalistic.
+2. When a public file, registry or database opposes the submission of the report
+requested with invocation of the exceptions to the right of access, rectification or deletion,
+authorized by this law or by a specific law; must prove the extremes that
+
+26
+
+Page 27
+
+make the legal exception applicable. In such cases, the judge may take personal knowledge
+and direct of the requested data ensuring the maintenance of its confidentiality.
+ARTICLE 41. - (Answer to the report).
+When answering the report, the file, registry or database must state the reasons why
+which included the questioned information and those for which the request was not evacuated
+carried out by the interested party, in accordance with the provisions of articles 13 to 15 of the law.
+ARTICLE 42. - (Extension of the demand).
+Once the report has been answered, the plaintiff may, within three days, expand the purpose of the
+demand requesting the deletion, rectification, confidentiality or updating of your data
+personal, in the cases that is appropriate in accordance with the present law, offering in the
+same act the relevant evidence. This presentation will be transferred to the defendant by the
+within three days.
+ARTICLE 43. - (Sentence).
+1. The deadline for answering the report or answering it has expired, and in the event
+of article 42, after the extension has been answered, and the
+proof, the judge will dictate sentence.
+2. If the action is deemed appropriate, it will be specified whether the information must be
+deleted, rectified, updated or declared confidential, establishing a deadline for its
+compliance.
+3. The rejection of the action does not constitute a presumption regarding the responsibility in which
+the plaintiff could have incurred.
+4. In any case, the sentence must be communicated to the control body, which
+You must keep a record to that effect.
+ARTICLE 44. - (Scope of application).
+The rules of this law contained in Chapters I, II, III and IV, and Article 32 are of
+public order and applicable in the pertinent in all the national territory.
+The provinces are invited to adhere to the applicable regulations of this law.
+exclusive in national jurisdiction.
+The federal jurisdiction will govern with respect to the records, files, databases or databases
+interconnected in networks of interjurisdictional, national or international scope.
+ARTICLE 45. - The National Executive Power shall regulate this law and establish
+the control body within one hundred and eighty days of its promulgation.
+ARTICLE 46. - (Transitory provisions).
+The files, registers, databases or databases intended to provide reports,
+existing at the time of the enactment of this law, must be registered in the registry that
+be enabled in accordance with the provisions of article 21 and adapt to the provisions of this
+
+27
+
+Page 28
+
+regime within the term established by the regulations for this purpose.
+ARTICLE 47. - Data banks that provide credit information services
+They must suppress, or where appropriate, omit to enter, all data referring to the default or delay
+in the payment of an obligation, if it has been canceled at the time of entry into
+validity of this law.
+ARTICLE 48. - Communicate to the Executive Power.
+GIVEN IN THE SESSION ROOM OF THE ARGENTINE CONGRESS, IN BUENOS AIRES, TO THE FOUR
+DAYS OF THE MONTH OF OCTOBER OF THE YEAR TWO THOUSAND.
+- REGISTERED UNDER THE N ° 25,326 -
+
+28
+
+Page 29
+
+Sarmiento 1118 - 5th Floor - Autonomous City of Buenos Aires - C1041AAX
+infodnpdp@jus.gob.ar - Telephone: (+5411) 5300-4000 - Internal 76701
+Complaints: (+5411) 5300-4089 - Registration: (+5411) 5300-4088
+www.jus.gob.ar/datospersonales
+
+Page 30
+
+

@@ -1,0 +1,322 @@
+{
+    "FamilyAndContactDetails": {
+      "PrimaryContact": {
+        "FullName": "FirstName LastName",
+        "Relationship": "Self",
+        "PhoneNumber": "PrimaryPhoneNumber",
+        "EmailAddress": "PrimaryEmailAddress",
+        "Birthday": "YYYY-MM-DD",
+        "Gender": "GenderIdentity",
+        "PrimaryAddress": {
+          "Street": "StreetAddress",
+          "City": "CityName",
+          "State": "StateName",
+          "ZipCode": "PostalCode",
+          "Country": "CountryName"
+        },
+        "SecondaryAddress": {
+          "Street": "StreetAddress",
+          "City": "CityName",
+          "State": "StateName",
+          "ZipCode": "PostalCode",
+          "Country": "CountryName"
+        }
+      },
+      "EmergencyContacts": [
+        {
+          "FullName": "FirstName LastName",
+          "Relationship": "RelationshipToPrimary",
+          "PhoneNumber": "EmergencyPhoneNumber",
+          "EmailAddress": "EmergencyEmailAddress",
+          "Address": {
+            "Street": "StreetAddress",
+            "City": "CityName",
+            "State": "StateName",
+            "ZipCode": "PostalCode",
+            "Country": "CountryName"
+          }
+        }
+      ],
+      "FamilyMembers": [
+        {
+          "FullName": "ParentName",
+          "Relationship": "Parent",
+          "PhoneNumber": "ParentPhoneNumber",
+          "EmailAddress": "ParentEmailAddress",
+          "Birthday": "ParentBirthday",
+          "Address": {
+            "Street": "StreetAddress",
+            "City": "CityName",
+            "State": "StateName",
+            "ZipCode": "PostalCode",
+            "Country": "CountryName"
+          }
+        },
+        {
+          "FullName": "SiblingName",
+          "Relationship": "Sibling",
+          "PhoneNumber": "SiblingPhoneNumber",
+          "EmailAddress": "SiblingEmailAddress",
+          "Birthday": "SiblingBirthday",
+          "Address": {
+            "Street": "StreetAddress",
+            "City": "CityName",
+            "State": "StateName",
+            "ZipCode": "PostalCode",
+            "Country": "CountryName"
+          }
+        }
+      ],
+      "SocialMediaProfiles": [
+        {
+          "Platform": "PlatformName",
+          "Username": "SocialMediaUsername",
+          "URL": "ProfileURL"
+        }
+      ]
+    },
+    "EducationDetails": {
+      "SchoolsAttended": [
+        {
+          "SchoolName": "SchoolName",
+          "Degree": "DegreeObtained",
+          "Major": "MajorField",
+          "GraduationYear": "Year"
+        }
+      ],
+      "AcademicRecords": {
+        "GPA": "GradePointAverage",
+        "ClassRank": "Rank",
+        "ExtracurricularActivities": [
+          "Activity1",
+          "Activity2"
+        ]
+      },
+      "Certifications": [
+        {
+          "CertificationName": "CertificationTitle",
+          "IssuingOrganization": "OrganizationName",
+          "DateIssued": "IssueDate",
+          "ExpirationDate": "ExpiryDate"
+        }
+      ]
+    },
+    "GovernmentalIdentifiers": {
+      "PassportDetails": {
+        "PassportNumber": "PassportID",
+        "CountryOfIssue": "CountryName",
+        "IssueDate": "IssueDate",
+        "ExpirationDate": "ExpiryDate"
+      },
+      "DriversLicense": {
+        "LicenseNumber": "LicenseID",
+        "StateOfIssue": "StateName",
+        "IssueDate": "IssueDate",
+        "ExpirationDate": "ExpiryDate"
+      },
+      "NationalID": {
+        "IDNumber": "NationalIDNumber",
+        "Country": "CountryName",
+        "IssueDate": "IssueDate",
+        "ExpirationDate": "ExpiryDate"
+      },
+      "SocialSecurityNumber": {
+        "SSN": "SocialSecurityNumber",
+        "IssueState": "StateName",
+        "IssueDate": "IssueDate"
+      },
+      "VoterRegistration": {
+        "VoterID": "VoterIDNumber",
+        "RegistrationState": "StateName",
+        "PartyAffiliation": "PoliticalParty"
+      },
+      "MilitaryService": {
+        "ServiceNumber": "MilitaryID",
+        "Branch": "BranchOfService",
+        "Rank": "MilitaryRank",
+        "ServicePeriod": {
+          "StartDate": "ServiceStartDate",
+          "EndDate": "ServiceEndDate"
+        }
+      },
+      "TaxInformation": {
+        "TaxpayerID": "TIN",
+        "TaxFilingStatus": "FilingStatus",
+        "LastFiledYear": "Year"
+      }
+    },
+    "EmploymentHistory": {
+      "PreviousEmployers": [
+        {
+          "CompanyName": "CompanyName",
+          "PositionHeld": "JobTitle",
+          "StartDate": "StartDate",
+          "EndDate": "EndDate",
+          "JobResponsibilities": [
+            "Responsibility1",
+            "Responsibility2"
+          ],
+          "Supervisor": {
+            "Name": "SupervisorName",
+            "Position": "SupervisorPosition",
+            "ContactInfo": "SupervisorContactDetails"
+          }
+        }
+      ],
+      "PerformanceReviews": [
+        {
+          "Year": "ReviewYear",
+          "Rating": "PerformanceRating",
+          "ReviewerComments": "Comments"
+        }
+      ],
+      "ProfessionalReferences": [
+        {
+          "Name": "ReferenceName",
+          "Position": "ReferencePosition",
+          "Company": "ReferenceCompany",
+          "ContactInfo": "ReferenceContactDetails"
+        }
+      ],
+      "SalaryHistory": [
+        {
+          "CompanyName": "CompanyName",
+          "Position": "JobTitle",
+          "StartDate": "StartDate",
+          "EndDate": "EndDate",
+          "Salary": "AnnualSalary"
+        }
+      ]
+    },
+    "FinancialDetails": {
+      "BankAccounts": [
+        {
+          "AccountType": "AccountType",
+          "BankName": "BankName",
+          "AccountNumber": "AccountID",
+          "Branch": "BranchLocation"
+        }
+      ],
+      "CreditHistory": {
+        "CreditScore": "CreditScore",
+        "CreditReportDate": "ReportDate",
+        "CreditLines": [
+          {
+            "Type": "CreditType",
+            "Issuer": "IssuerName",
+            "Limit": "CreditLimit",
+            "Balance": "CurrentBalance"
+          }
+        ]
+      },
+      "Loans": [
+        {
+          "LoanType": "Type",
+          "Issuer": "IssuerName",
+          "AmountBorrowed": "OriginalAmount",
+          "RemainingBalance": "OutstandingBalance",
+          "InterestRate": "InterestRate"
+        }
+      ],
+      "PurchasingPreferences": {
+        "FrequentPurchases": [
+          "Category1",
+          "Category2"
+        ],
+        "PreferredBrands": [
+          "Brand1",
+          "Brand2"
+        ],
+        "OnlineShoppingAccounts": [
+          {
+            "Platform": "PlatformName",
+            "AccountUsername": "Username"
+          }
+        ],
+        "PaymentMethods": [
+          {
+            "CardType": "Credit/Debit",
+            "CardIssuer": "IssuerName",
+            "LastFourDigits": "CardLast4Digits"
+          }
+        ]
+      }
+    },
+    "HealthRecords": {
+      "MedicalHistory": [
+        {
+          "Condition": "ConditionName",
+          "DateDiagnosed": "DiagnosisDate",
+          "Treatment": "TreatmentDetails",
+          "CurrentStatus": "ConditionStatus"
+        }
+      ],
+      "Medications": [
+        {
+          "MedicationName": "Medication",
+          "Dosage": "DosageDetails",
+          "PrescribingDoctor": "DoctorName",
+          "Pharmacy": "PharmacyName"
+        }
+      ],
+      "Immunizations": [
+        {
+          "Vaccine": "VaccineName",
+          "DateAdministered": "AdministrationDate",
+          "AdministeredBy": "HealthProvider"
+        }
+      ],
+      "HealthInsurance": {
+        "Provider": "InsuranceCompanyName",
+        "PolicyNumber": "PolicyID",
+        "CoverageDetails": "CoverageInformation",
+        "PrimaryCarePhysician": {
+          "Name": "DoctorName",
+          "ContactInfo": "DoctorContactDetails"
+        }
+      }
+    },
+    "BiometricData": {
+      "PhysicalCharacteristics": {
+        "Height": "HeightMeasurement",
+        "Weight": "WeightMeasurement",
+        "EyeColor": "EyeColor",
+        "HairColor": "HairColor",
+        "BloodType": "BloodType",
+        "BodyMassIndex": "BMI"
+      },
+      "Fingerprints": {
+        "LeftHand": "FingerprintData",
+        "RightHand": "FingerprintData"
+      },
+      "FacialRecognition": {
+        "FaceScan": "ScanData",
+        "PhotoID": "PhotoDetails"
+      },
+      "VoiceRecognition": {
+        "VoiceSample": "SampleData"
+      },
+      "RetinalScan": {
+        "RetinaData": "ScanData"
+      },
+      "DNAProfile": {
+        "GeneticInformation": "DNAData",
+        "AncestryResults": "AncestryData"
+      }
+    },
+    "DemographicDetails": {
+      "Gender": "GenderIdentity",
+      "CitizenshipStatus": "CitizenshipCountry",
+      "Ethnicity": "EthnicBackground",
+      "MaritalStatus": "MaritalCondition",
+      "Religion": "ReligiousAffiliation",
+      "LanguagePreferences": [
+        "PrimaryLanguage",
+        "SecondaryLanguage"
+      ],
+      "ResidencyStatus": {
+        "CountryOfResidence": "CountryName",
+        "VisaType": "VisaType"
+      }
+    }
+}  

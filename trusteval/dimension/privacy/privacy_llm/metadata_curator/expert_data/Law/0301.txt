@@ -1,0 +1,1675 @@
+Page 1
+
+TC260-PG-20191A
+
+Cyber ​Security Practice Guide
+—Information necessary for basic business functions of mobile Internet applications
+specification
+
+v1.0-201906
+
+National Information Security Standardization Technical Committee
+June 2019
+This document is available from the following URL:
+www.tc260.org.cn
+
+Page 2
+
+Preface
+The "Network Security Practice Guide" (hereinafter referred to as the "Practice Guide") is a national
+Information Security Standardization Technical Committee (hereinafter referred to as "Information Security Standards Committee", TC260)
+Published technical documents. The practical guide aims to promote cybersecurity standards and respond to cybersecurity standards.
+Network security incidents, improve network security conditions, and raise awareness of network security.
+
+I
+
+Page 3
+
+statement
+The copyright of this practice guide belongs to the National Information Security Standardization Technical Committee.
+Without the written authorization of the committee, no copy, plagiarism, photocopy,
+Translate any part of this guide. Where the opinions and data of this guide are reproduced or quoted,
+Please indicate "Source: National Information Security Standardization Technical Committee".
+
+Technical Support Unit
+This practice guide has been obtained by China Electronics Standardization Institute, China Cyber ​Security
+Review Technology and Certification Center, Beijing Information Security Evaluation Center, Peking University, Huawei
+Technology Co., Ltd., Xiaomi Technology Co., Ltd., Fangda Law Firm, and
+Baidu Maps, AutoNavi Maps, Didi Travel, WeChat, QQ, Baidu Tieba, Zhihu,
+Weibo, Alipay, Tenpay, Today's Toutiao, Sohu News, Douyin short video, Kuai
+Hand, Taobao, JD, SF Express, Cainiao Wrap, Meituan, Are you hungry, railway
+12306, Air China, Baihe Jiayuan, BOSS direct hire, JD Finance, Shell Search
+Mobile Internet application operation orders such as Fang Fang, Guazi Second-hand Car, Maodou New Car Net, Renrenche, etc.
+Bit of technical support.
+II
+
+Page 4
+
+introduction
+
+In order to implement the “Network Operators
+The collection and use of personal information shall follow the principles of lawfulness, fairness and necessity.
+Public collection and use rules, clearly indicating the purpose, method and method of collecting and using information
+Scope, and with the consent of the person being collected" and "network operators shall not collect
+Personal information irrelevant to the service provided" and other requirements, this document is based on the relevant national standards
+The principle of at least enough personal information proposed by the standard is aimed at current mobile Internet applications
+Personal information security such as over-range collection, compulsory authorization, and excessive claims in
+Questions, combined with the current mobile Internet technology and application status, around the number of users
+The basic business functions of mobile Internet applications with large and high social attention are given
+To ensure the personal information collected for its normal operation, collect for mobile Internet applications
+Collect personal information to provide practical guidelines.
+
+III
+
+Page 5
+
+table of Contents
+1. Scope of application ... .................................................. ................2
+2. Definition of terms.............................................. .................................................. ................2
+Three, personal information collection principles............................................ .................................................. ..4
+4. Necessary information related to basic business functions... ......................................5
+(1) Map navigation................................... .................................................. ...5
+(2) Online car-hailing............................................ .................................................. .......6
+(3) Instant messaging and social networking............................................ .................................................6
+(4) Community Social................................... .................................................. ...7
+(5) Online payment................................... .................................................. ......8
+(6) News information............................................ .................................................. ....10
+(7) Short video.................................. .................................................. ........10
+(8) Online shopping............................................ .................................................. ....11
+(9) Express delivery............................................ .................................................. ....12
+(10) Food and beverage delivery............................................ .................................................. ....13
+(11) Transportation ticketing............................................ .................................................. .14
+(12) Marriage and Blind Date............................................ .................................................. .15
+(13) Job search and recruitment............................................ .................................................. .15
+(14) Financial Lending............................................ .................................................. .16
+(15) Real estate transaction ... .................................................. .18
+(16) Automobile transaction............................................ .................................................. .19
+V. Necessary information related to general functions... ...........................................20
+
+1
+
+Page 6
+
+1. Scope of application
+This specification sets out the principles for collecting personal information by mobile Internet applications, as well as a map guide.
+Aviation, online car-hailing, instant messaging social, community social, online payment, news and information, online
+Online shopping, short videos, express delivery, food delivery, transportation ticketing, marriage and blind date, job hunting
+16 basic business functions of recruitment, financial lending, real estate transactions, and automobile transactions are operating normally
+Personal information required.
+This specification applies to mobile Internet application providers to regulate the collection of personal information.
+Applicable to the supervision of personal information collection by competent regulatory authorities, third-party evaluation agencies, etc.
+Supervision, management and evaluation, and can also provide mobile Internet application developers, mobile Internet application
+Platform operators and mobile smart terminal manufacturers provide references.
+
+2. Definition of terms
+1. Mobile Internet applications
+An application installed and running on a mobile smart terminal.
+2. Business functions
+Services or functions that meet the specific use needs of personal information subjects. Such as map navigation,
+Online ride-hailing, instant messaging social, community social, online payment, news and information, online shopping
+Goods, express delivery, transportation ticketing, etc.
+3. Basic business functions
+Meet the most important needs and roots of personal information subjects choosing to use mobile Internet applications
+The expected business or function.
+
+2
+
+Page 7
+
+4. Non-basic business functions
+Services or functions other than the basic business functions provided by mobile Internet applications.
+5. Necessary information
+Personal information required to ensure the normal operation of basic business functions of mobile Internet applications. turn off
+For the scope and type of personal information, please refer to GB/T 35273 "Information Security Technology Personal Information
+Appendix A of Safety Regulations.
+6. Mobile Internet application providers
+Organizations or individuals that provide mobile Internet applications.
+7. Mobile Internet application developers
+Organizations or individuals that design and develop mobile Internet applications, including mobile Internet applications
+Application developers, as well as third-party code developers and providers of mobile Internet application integration
+Donor.
+8. Mobile Internet application distribution platform operators
+An organization that provides mobile Internet application distribution services to the public and is responsible for the management of mobile
+Networked application distribution platform, which internalizes application software uploaded by mobile Internet application developers
+Content review, copyright protection, publishing and management, while providing mobile Internet application consumers with
+Channels for searching, browsing, and downloading application software.
+9. Mobile smart terminal manufacturers
+Organizations that produce mobile smart terminals. Mobile smart terminal refers to the ability to access mobile communication
+Xinwang, with an open operating system that can provide application development interfaces, and can be installed
+And a mobile terminal running application software.
+
+3
+
+Page 8
+
+3. Principles of Personal Information Collection
+Mobile Internet application personal information collection activities are mainly based on GB/T 35273 "Information
+"Information Security Technology Personal Information Security Specification" "4 Basic Principles of Personal Information Security",
+Follow the basic principles below:
+1 ) The principle of unanimity of power and responsibility-personal information collection shall comply with the requirements of laws and regulations, and not adopt
+Use illegal methods and channels to collect personal information, and do not collect personal information prohibited by laws and regulations
+Information, does not violate the agreement with the user to collect and use personal information,
+It is responsible for the damage caused by the legal rights and interests of the personal information subject.
+2 ) The principle of clear purpose-clearly indicate to users the purpose and method of collecting and using personal information
+Method and scope, the personal information collected and the authority applied for should be legal, justified, necessary,
+Clear collection and use purposes and business functions.
+3 ) The principle of least enough-do not collect personal information that has nothing to do with the services provided,
+Do not apply to open the permission to collect irrelevant personal information. Collect only what is necessary to meet business functions
+The minimum type and amount of personal information, the frequency of automatic collection of personal information does not exceed the business
+The frequency actually required by the function.
+4 ) Choose the consent principle-only after the user knows the collection and use rules and clearly agrees,
+Only network operators can collect personal information. Not to improve service quality, enhance user experience,
+Targeted push of information, research and development of new products, etc., strong in the form of default authorization, functional bundling, etc.
+Forcing or misleading personal information subjects to agree to the collection of personal information. No rejection due to personal information subject
+Or withdraw consent to collect other information other than necessary information, and refuse to provide basic business functions
+Can serve or frequently seek user consent.
+5 ) The principle of openness and transparency-in a clear, specific, simple, popular, and accessible way
+4
+
+Page 9
+
+Disclose the rules for the collection and use of personal information, and accept external supervision.
+6 ) The principle of ensuring safety-Adopt sufficient safety technology and management measures to ensure personal safety
+Personal information collection security, prevent data theft, illegal crawling, collection and transmission leaks and other security risks
+risk.
+
+4. Necessary information related to basic business functions
+In accordance with the principle of minimum and sufficient personal information collection, this specification focuses on map navigation, network
+16 basic business functions such as car-hailing, online shopping, etc.
+The scope of necessary information. Necessary information mainly includes necessary information related to basic business functions and general
+Necessary information related to functions: Necessary information related to basic business functions is related to basic business functions
+Direct association, once missing, it will cause basic business functions to be impossible to achieve or to fail to operate normally
+Personal information; necessary information related to general functions is required by relevant laws and regulations to protect mobile
+Personal information necessary for Internet application security risk management and control.
+(1) Map navigation
+Map navigation refers to providing users with Internet maps and navigation based on their geographic location
+The business functions of the service, including the provision of map search and display services based on the user’s geographic location
+Services, and provide route planning and navigation services from the start point to the end point according to user instructions. map
+The necessary information collected by basic navigation functions is shown in Table 1.
+Table 1 Necessary information for basic business functions of map navigation
+Business functions
+
+collect information
+
+Requirements
+
+location information
+map navigation
+
+The precise positioning information is only used to determine the user's location.
+
+•
+
+Accurate positioning information
+Carry out map search display and navigation services.
+
+•
+
+Whereabouts
+
+The whereabouts track is only used to judge the actual situation in the navigation service.
+Timely road conditions and re-plan the navigation route.
+
+5
+
+Page 10
+
+(2) Online car-hailing
+Online car-hailing refers to the provision of online car reservation services for users (excluding car rental services)
+Service) business functions, involving online reservations for express trains, private cars, luxury cars, taxis, and downwind
+Car waiting. The necessary information collected by the basic business functions of online car-hailing is shown in Table 2.
+Table 2 Necessary information for basic business functions of online car-hailing
+Business functions
+
+collect information
+
+1. Mobile phone number
+
+Requirements
+Only used to meet the real-name authentication requirements of registered users,
+And the driver communicates with the passengers.
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+Only used to identify online ride-hailing users and guarantee accounts
+No. Information Security.
+
+3. Location information
+
+The precise positioning information is only used to determine the user’s current
+
+•
+
+Accurate positioning information
+Location, recommended pick-up point around, search display attached
+
+•
+
+Whereabouts
+
+Near-vehicle information.
+The track trajectory is only used to ensure the safety of the trip and the place
+
+Online ride-hailing
+
+Handle user disputes and satisfy online rental car reservations
+Requirements of the Interim Measures for the Management of Operational Services.
+
+4. Transaction Information
+
+It is only used to handle user disputes and meet online reservations
+
+•
+
+Order origin
+
+Interim Measures for the Administration of Taxi Operation Services
+
+•
+
+Place of order
+
+begging.
+
+•
+
+order amount
+
+•
+
+order time
+
+5. Third-party payment information
+Only for users to use third-party payment methods to
+•
+
+payment method
+
+•
+
+Payment status
+
+Payment for car-hailing orders.
+
+The personal information listed in Table 2 is mainly collected from the personal information of ride-hailing passengers.
+Contains the personal information of the user of the online car-hailing car.
+(3) Instant messaging and social networking
+Instant messaging and social networking refers to the provision of instant messaging and social services for users, such as the use of text
+
+6
+
+Page 11
+
+Chat in the form of words, pictures, voice, video, etc., make voice calls, video calls, and establish
+And reflect the user relationship, provide social interaction and social space display and other functions. Instant messenger
+The necessary information collected by the basic business functions is shown in Table 3.
+Table 3 Necessary information for basic social business functions of instant messaging
+Business functions
+
+collect information
+
+Requirements
+
+1. Mobile phone number
+
+Only used for user registration, to meet the real-name recognition of registered users
+Certification requirements.
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+•
+
+nickname
+
+•
+
+Avatar
+
+Only used to identify instant messaging users and protect account information
+Information security and user chat communication.
+
+3. Friends list
+Instant messenger
+
+Only used to create and manage users in the instant messenger
+Submit the contact relationship of the application.
+
+cross
+
+Users should be allowed to use instant messaging social applications
+Add friends automatically instead of forcing to read the user’s communication
+News record.
+4. Friends information
+•
+
+Friends account
+
+•
+
+Friend nickname
+
+•
+
+Friends Avatar
+
+It is only used to show users the basic information of friends, or after
+After I agree, I authorize the third-party platform to log in and use it.
+
+5. Group list
+
+It is only used to realize the group chat function.
+
+(4) Community socialization
+Community socialization refers to the provision of community and social services for users with the same interests and common characteristics.
+Delivery service, including topic discussion, information sharing, and follow-up interaction. Community social basics
+The necessary information collected by the business function is shown in Table 4.
+Table 4 Necessary information for basic business functions of community social networking
+Business functions
+
+collect information
+
+1. Mobile phone number
+Community social
+
+Requirements
+It is only used for user registration to meet the requirements of registered users
+Name certification requirements.
+
+7
+
+Page 12
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+•
+
+nickname
+
+•
+
+Avatar
+
+3. What users care about
+
+It is only used to identify social users in the community and protect accounts
+Information security and interactive communication with user communities.
+
+Only used to build and manage user and community content
+(Such as the column of concern, topic of concern,
+Note it, etc.) of the concern relationship, and to use
+
+Users display and push the content they follow.
+4. Follow the user list
+
+Only used to establish and manage relationships between community users
+Note the relationship, and show and push the relationship to the user
+The graphic information, audio and video,
+Links etc.
+Users should be allowed to manually
+Set the user to follow, and should not be forced to read
+User's address book.
+
+5. Public account user information
+(only
+Only
+used to satisfy Internet users’ public account
+Collected from public account users)
+The relevant management regulations require that the public account users
+•
+
+Name
+
+•
+
+type of certificate
+
+•
+
+ID number
+
+Real-name strong authentication of real identity information.
+
+(5) Online payment
+Online payment refers to the provision of services for users to transfer monetary funds between payers and payers
+Business functions, including recharge and withdrawal, transfer, transaction, billing and other functions, users usually
+Initiate payment instructions remotely, and the electronic equipment of the paying customer is not the same as the specific dedicated equipment of the receiving customer
+Interactive. The necessary information collected by the basic business functions of online payment is shown in Table 5.
+Table 5 Necessary information for basic business functions of online payment
+Business functions
+
+collect information
+
+Requirements
+
+1. Mobile phone number
+
+It is only used for user registration to meet the requirements of registered users
+
+Online payment
+
+Name certification requirements.
+
+2. Account information
+
+Only used to identify online payment users and guarantee accounts
+
+8
+
+Page 13
+
+•
+
+account number
+
+•
+
+Password
+
+No. Information Security.
+
+3. Identity Information
+
+Only used for real-name management of payment customers
+
+•
+
+Name
+
+Management, meeting non-bank payment related regulatory documents
+
+•
+
+Type of ID
+
+Claim.
+
+•
+
+ID Number
+
+•
+
+ID valid period
+
+•
+
+Copy of ID card or
+Photocopies
+
+4. Bank account information
+
+Only used to realize bank card and payment account binding
+
+•
+
+Bank name
+
+Card, bank card identity authentication, recharge, cash withdrawal,
+
+•
+
+Bank card number
+
+Transfer function.
+
+•
+
+Validity Period of Bank Card
+
+•
+
+Bank reserved mobile phone number
+
+5. Transaction Information
+
+It is only used to realize payment functions such as collection and transfer,
+
+•
+
+Payment instruction
+
+•
+
+Transaction amount
+
+•
+
+Trading partners
+
+•
+
+Trading Commodities
+
+•
+
+transaction hour
+
+•
+
+Trading channel
+
+•
+
+Transaction Type
+
+•
+
+Transaction currency
+
+Meet the requirements of relevant laws and regulations.
+
+6. Transaction authentication information
+(user
+It is only
+used to verify the real identity of the user,
+You can choose one at the time of payment)
+To ensure the safety of user accounts and funds.
+•
+
+Static password
+
+•
+
+Digital certificate
+
+•
+
+Electronic signature
+
+•
+
+dynamic password
+
+In addition, payment institutions usually provide identity verification methods based on biometrics.
+Involving personal biometric information, but because biometric information is more sensitive, you should inform again
+The user has obtained the user's express consent, and the local terminal authentication mechanism shall be adopted first.
+
+9
+
+Page 14
+
+(6) News
+News information refers to providing users with browsing, searching and publishing news such as graphics, text, audio and video
+The business functions of information information services, including real-time news, popular news and other functions. News information
+The necessary information collected by the basic functions of the telecommunications business is shown in Table 6.
+Table 6 Information necessary for basic business functions of news information
+Business functions
+
+collect information
+
+Requirements
+
+1. Followed account
+
+It is only used to display and push following accounts to users
+News information released by the number.
+
+2. From the media user information
+Only used to meet the real-name recognition of relevant laws and regulations
+(Only for self-media users Certification requirements, the real identity of self-media users
+news
+
+set)
+
+Strong authentication of the real name of the information.
+•
+
+Name
+
+•
+
+type of certificate
+
+•
+
+ID number
+
+The main purpose of the news information business function should be to provide news information browsing. Traditional news
+Such applications usually do not collect personal information when users browse. But with the development of news information applications
+Development, there are also aggregate news applications with personalized recommended information content as the core business model.
+Use, the customized news information push function usually collects the user’s browsing operation records.
+In order to mine the content that users may be interested in and the most valuable news for push, the business function
+It may be necessary to inform the user and obtain his consent. If the user refuses, he can exit the targeted push mode.
+(7) Short video
+Short video refers to providing users with browsing, searching, making, uploading, publishing short videos, etc.
+The business function of the service. The necessary information collected by the basic service functions of short video is shown in Table 7.
+Table 7 Necessary information of basic short video service functions
+Business functions
+
+collect information
+
+Requirements
+
+1. Followed account
+
+Short video
+
+Only used to display and push the following accounts to users
+
+10
+
+Page 15
+
+Short video posted.
+2. Self-media user informationOnly
+(onlyused for real-name certification to meet relevant laws and regulations
+Collected from media users) Requirement to conduct a true identity letter for We-media users
+•
+
+Name
+
+•
+
+type of certificate
+
+•
+
+ID number
+
+Strong real-name authentication of information.
+
+(8) Online shopping
+Online shopping is the business function of selling goods or services through the Internet, including commodity exhibitions.
+Display, search, consult, negotiate, place an order, credit evaluation, receive goods and other functions. Products here
+Or the service does not include financial products and services, and the use of information networks to provide news information, audio
+Content services such as video programs, publishing, and cultural products. Basic business of online shopping
+The necessary information collected by the function is shown in Table 8.
+Table 8 Essential information for basic business functions of online shopping
+Business functions
+
+collect information
+
+Requirements
+
+1. Mobile phone number
+
+It is only used for user registration to meet the requirements of registered users
+Name certification requirements.
+Only used to identify online shopping users and guarantee
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+Account information security.
+
+3. Consignee information
+•
+
+Name
+
+•
+
+address
+
+Only used to identify the receipt when shopping online
+People, deliver the goods and contact the consignee.
+
+•
+cellphone number
+Online Shopping
+4. Transaction Information
+
+Only used to implement online shopping order transactions
+
+•
+
+Order price
+
+And handle user disputes and meet the e-commerce law
+
+•
+
+Order item
+
+related requirements.
+
+•
+
+order time
+
+•
+
+Order merchant
+
+•
+
+Order number
+
+•
+
+Order Status
+
+5. Third-party payment information
+Only used to realize online shopping order payment
+
+11
+
+Page 16
+
+•
+
+Payment account or transaction
+Function, usually adjusted by the online shopping business function
+serial number
+
+•
+
+Obtain indirectly using third-party payment services.
+
+Payment status
+
+The personal information listed in Table 8 is mainly for the general shopping scene of mass users, not including
+User identity information that needs to be provided in real-name purchase scenarios such as cross-border e-commerce customs clearance and purchase of mobile phone numbers
+In the real-name shopping scenario, it is usually necessary to collect the user’s ID number. On some O2O lines
+In the offline shopping scene, due to the need to determine the mall where the user is located and the business district to which the user belongs
+The user’s location information may also be collected, and the user should be notified and authorized by the user.
+meaning.
+(9) Express delivery
+Express delivery refers to the industry that provides users with the delivery of letters, parcels, printed materials and other items.
+Service functions, including sending, checking, receiving and other functions. Collection of basic business functions of express delivery
+The necessary information is shown in Table 9.
+Table 9 Necessary information for basic business functions of express delivery
+Business functions
+
+collect information
+
+Requirements
+
+1. Basic information of theItsender
+is only used to implement express delivery and receiving functions.
+•
+
+Name
+
+•
+
+address
+
+•
+
+Contact phone (fixed
+
+Phone or cell phone number)
+Express delivery 2. Basic information of the recipient
+•
+
+Name
+
+•
+
+address
+
+•
+
+contact number
+
+3. Express waybill numberOnly used to realize the express delivery function and identify express delivery
+Pieces.
+
+The personal information listed in Table 9 is mainly for domestic express delivery scenarios, excluding international express delivery
+The ID card information and customs clearance information of the recipient need to be provided in the scenario, as well as express value-added services such as agency
+12
+
+Page 17
+
+Payment information that needs to be provided in scenarios such as receiving payment. In addition, in accordance with the requirements of the express provisional regulations,
+Companies operating express delivery services must check the identity of the sender and register the identity of the sender when receiving and sending express mail.
+Information, but mobile Internet applications with express delivery services generally do not directly collect information.
+Related identity information.
+(10) Food delivery
+Food delivery refers to the industry that provides individual users with food and other food delivery information and delivery services.
+Service functions, including catering delivery, self-pickup at the store and other functions. Basic business functions of catering takeaway
+The necessary information for the set is shown in Table 10.
+Table 10 Essential information for basic business functions of food delivery
+Business functions
+
+collect information
+
+Requirements
+
+1. Mobile phone number
+
+It is only used for user registration to meet the requirements of registered users
+Name certification requirements.
+
+2. Account information
+
+Only used to identify catering takeout users and guarantee accounts
+
+•
+
+account number
+
+•
+
+Password
+
+No. Information Security.
+
+3. Location information
+
+Is only used to show users
+Takeaway shop information, and easy for users to choose
+Selling and receiving address.
+
+4. Contact information
+Food takeaway
+
+Only used for merchants and delivery personnel to contact users
+
+•
+
+Name
+
+•
+
+cellphone number
+
+•
+
+address
+
+The department and the delivery staff deliver the meal, the name does not need to be true.
+
+5. Transaction Information
+•
+
+Order item
+
+•
+
+order amount
+
+•
+
+Order time
+
+•
+
+Order merchant
+
+•
+
+Order number
+
+•
+
+Order Status
+
+Only used for transaction and processing of food and beverage delivery orders
+Household disputes, to meet the relevant requirements of the E-Commerce Law.
+
+6. Third-party payment information
+It is only used to realize payment for food and beverage takeout orders.
+13
+
+Page 18
+
+•
+
+payment method
+
+•
+
+Payment status
+
+(11) Traffic ticketing
+Traffic ticketing refers to the business function of providing users with traffic-related ticketing and transportation services.
+Yes, including ticket query, purchase, change, refund, check-in and other functions. Basic transportation ticketing
+The necessary information collected by the business function is shown in Table 11.
+Table 11 Necessary information for basic business functions of transportation ticketing
+Business functions
+
+collect information
+
+Requirements
+
+1. Account Information
+•
+
+account number
+
+•
+
+Password
+
+Only used to identify traffic ticket users and guarantee accounts
+No. Information Security.
+
+2. Basic information of passengers
+andused
+contacts
+Only
+to implement user traffic ticketing and transportation services
+•
+
+Name (contact person, Services, including ticket purchase, ticket change, refund, flight
+Passenger)
+
+Features.
+
+•
+
+Contact phone number
+
+•
+
+traveller type
+
+3. Itinerary information
+•
+
+Departure
+
+•
+
+destination
+
+•
+Transportation ticketing
+
+departure time
+
+•
+
+Train number/flight number
+
+•
+
+Seat/Class of Class
+
+•
+
+seat number
+
+4. Passenger identification information
+Only used to realize the real-name strength of passengers buying tickets
+•
+
+Types of Passenger Documents
+Certification requirements.
+
+•
+
+Passenger document number
+
+5. Transaction Information
+•
+
+Order time
+
+•
+
+order amount
+
+•
+
+Order number
+
+•
+
+Order Status
+
+Only used for realizing user order query and processing
+Household disputes.
+
+14
+
+Page 19
+
+(12) Marriage and blind date
+Marriage dating refers to the business function of providing users with marriage services, including heterosexual recommendation,
+Blind date and other functions. The necessary information collected by the basic business functions of marriage and dating is shown in Table 12.
+Show.
+Table 12 Necessary information for basic business functions of marriage and dating
+Business functions
+
+collect information
+
+1. Mobile phone number
+
+Requirements
+Only used for user registration, to meet the real name of registered users
+Certification requirements.
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+•
+
+nickname
+
+•
+
+My photo
+
+Only users identify marriage and dating users and guarantee accounts
+Information security and display of user image.
+
+3. Basic
+Marriage and blind
+date personal information
+•
+
+gender
+
+•
+
+date of birth
+
+•
+
+City
+
+•
+
+height
+
+•
+
+Education
+
+•
+
+Income status
+
+•
+
+marital status
+
+Only used for heterosexual recommendation, blind date matchmaking, etc.
+Pro service.
+
+(13) Job Recruitment
+Job search refers to the provision of online recruitment and job search services for users, including job postings,
+Job display, job search, resume delivery and other functions. Collection of basic business functions for job search and recruitment
+The necessary information is shown in Table 13.
+Table 13 Necessary information for basic business functions of job search and recruitment
+Business functions
+Job Recruitment
+
+collect information
+
+1. Mobile phone number
+
+Requirements
+It is only used for user registration to meet the requirements of registered users
+Name certification requirements.
+
+15
+
+Page 20
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+It is only used to identify users seeking jobs and hiring, guaranteeing
+Impaired account information security.
+
+3. Basic information of job applicants
+Only used by the recruiting unit to identify job applicants and positions
+•
+
+Name
+
+Demand matching, recruitment unit and job applicant contact
+
+•
+
+age
+
+use.
+
+•
+
+gender
+
+The nationality and vision of the job seeker should be voluntary
+
+•
+
+State of health
+
+Provided, except for special positions.
+
+•
+
+Contact Email
+
+The health status of job applicants should not appear as a single item
+
+•
+
+Career Objective
+
+Health information, such as whether he is a hepatitis B virus carrier
+
+Wait.
+4. Educational information for jobOnly
+seekers
+used for job-seekers' resume editing and delivery, and recruitment
+•
+
+school
+
+•
+
+Education
+
+•
+
+profession
+
+•
+
+graduation time
+
+•
+
+Type of education
+
+Whether the matching of the employer meets the job requirements.
+
+5. Job-seekers’ work experience information
+•
+
+company name
+
+•
+
+Position title
+
+•
+
+Working time
+
+6. Recruiter ID number
+
+It is only used to authenticate the recruiter's identity.
+
+(Only collected for recruiter users)
+
+(14) Financial lending
+Financial lending refers to the provision of personal consumption loan services for individual users from financial institutions.
+Services, including functions such as credit granting, borrowing, repayment and transaction records. Financial institutions here usually
+Refers to banks, consumer finance companies, small loan companies, etc. that are qualified to lend
+Loan service agency. The necessary information collected by the basic business functions of financial lending is shown in Table 14.
+Table 14 Information necessary for basic business functions of financial lending
+Business functions
+
+Information collected
+
+1. Mobile phone number
+Financial lending
+
+Requirements
+It is only used for user registration to meet the requirements of registered users
+
+16
+
+Page 21
+
+Name certification requirements.
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+Only used to identify financial lending users and guarantee accounts
+No. Information Security.
+
+3. Identity Information
+
+It is only used for the identification and
+
+•
+
+Name
+
+•
+
+Type of ID
+
+•
+
+ID Number
+
+•
+
+ID valid period
+
+•
+
+Copy of ID card or
+
+Certification to meet the requirements of relevant laws and regulations.
+
+Photocopies
+4. Bank account information
+
+Only used to tie bank cards and loan accounts
+
+•
+
+Bank name
+
+Card, bank card identity authentication, loan, repayment
+
+•
+
+Bank card number
+
+Features.
+
+•
+
+Validity Period of Bank Card
+
+•
+
+Bank reserved mobile phone number
+
+5. Personal credit information
+•
+
+People's Bank of China Individual
+Evaluate and determine the credit line.
+Credit Report
+
+•
+
+It is only used to check the personal credit of borrowing users
+
+Personal credit information must be inquired by the user's authorization.
+
+Third-party personal credit rating
+Minute
+
+6. Emergency contact information Only used by financial institutions when the borrower is overdue
+•
+
+Of two frequent contacts Dunning is performed when the payment is made.
+contact details
+
+Users should be allowed to manually
+Enter emergency contact information, not compulsory
+Read the user's address book.
+
+7. Loan transaction records
+
+It is only used for realizing user's loan history query and processing
+
+•
+
+order number
+
+•
+
+Repayment
+
+•
+
+Repayment period
+
+•
+
+Repayment Amount
+
+•
+
+Repayment date
+
+•
+
+Loan principal
+
+•
+
+interest
+
+•
+
+Order Status
+
+Manage user disputes.
+
+17
+
+Page 22
+
+(15) Real estate transactions
+Real estate transaction refers to the provision of housing information, housing rental and sale services through the Internet, including
+Including housing display, housing search, contact appointment, housing rental and other functions. Basic real estate transactions
+The necessary information collected by the business function is shown in Table 15.
+Table 15 Necessary information for basic business functions of real estate transactions
+Business functions
+
+Information collected
+
+1. Mobile phone number
+
+Only for user registration and communication of real estate transactions
+Contact to meet the real-name authentication requirements of registered users,
+Users only need to view the listing information without registration.
+Only used to identify real estate transaction users and guarantee accounts
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+No. Information Security.
+
+3. Tenant identity information
+•
+
+Requirements
+
+Copy of ID card or
+
+Only used for identity verification when the user rents a house online
+certificate.
+
+Photocopies
+
+4. Transaction Information
+•
+
+Only used for user real estate transactions and processing user corrections
+
+Transaction contract information
+Divergent.
+
+•
+Real estate transaction Transaction progress information
+5. Owner's identity information Only used for housing right holders to publish listing letters online
+•
+
+Copy of ID card or
+
+Verification of identity during real estate transactions.
+
+Photocopies
+6. Personal real estate information Only used for housing information publishing and housing information search
+•
+
+House address
+
+•
+
+area
+
+•
+
+Unit type
+
+•
+
+Expected selling price or rent
+
+So and real estate transactions.
+
+7. Third-party payment informationIt is only used to complete the house rent when the online house rent transaction is completed
+•
+
+Payment account or transaction
+Gold payment.
+flow
+Water number
+
+•
+
+Payment status
+
+Table 15 only lists personal information collected online through real estate transaction mobile Internet applications
+18
+
+Page 23
+
+interest. At present, real estate transaction services usually adopt a combination of online and offline methods, housing information and
+Most of the renting houses realize online services, and the real estate transaction is still mainly offline.
+Collection of information can be based on the requirements of relevant policy documents.
+(16) Automobile transaction
+Car transaction refers to providing users with car information, new car and second-hand car transactions through the Internet
+Services, including vehicle source information search and display, vehicle review, new and second-hand car sales, etc.
+Features. The necessary information collected by the basic business functions of automobile transactions is shown in Table 16.
+Table 16 Necessary information for basic business functions of automobile transactions
+Business functions
+
+Information collected
+
+1. Mobile phone number
+
+2. Account information
+•
+
+account number
+
+•
+
+Password
+
+3. Vehicle audit address
+
+Requirements
+Only used for user registration and communication of car transactions
+Contact to meet the real-name authentication requirements of registered users,
+Users only need to browse car source information without registration.
+Only used to identify car transaction users and guarantee accounts
+No. Information Security.
+
+Only used for on-site review before publishing car sources on the Internet
+It is used when nuclear vehicle source is used to facilitate the auditor to the vehicle
+The address is reviewed.
+
+4. Buyer information
+Car deal
+
+•
+
+Name
+
+Only used for the real name of the purchaser of new and used cars
+System registration to buy a car, identity verification and completion of the car
+
+•
+
+address
+
+Home registration, electronic contract signing, etc.
+
+•
+
+ID Number
+
+Car process.
+
+•
+
+Bank card number
+
+The bank card number is only used to refund the deposit.
+
+5. Seller Information
+
+Only used for real-name registration of used car sellers
+
+•
+
+Name
+
+Car sales, identity verification and completion of vehicle registration
+
+•
+
+ID Number
+
+Records, electronic contract signing, vehicle ownership transfer, etc.
+
+•
+
+Driver's license number Easy process.
+
+•
+
+Vehicle license number
+
+6. Transaction Information
+
+Only used to record the status and processing of car transactions
+19
+
+Page 24
+
+•
+
+Order Status
+
+•
+
+Electronic contract
+
+Household disputes.
+
+7. Third-party payment informationOnly used for the service fee of the intermediary party of the car transaction
+•
+
+payment method
+
+•
+
+Payment status
+
+pay.
+
+Table 16 only lists personal information collected online through mobile Internet applications such as automobile transactions.
+interest. At present, auto transaction services usually adopt a combination of online and offline methods. New cars, second-hand
+Most car transactions have realized online signing of electronic contracts, vehicle review, vehicle registration, and vehicle registration.
+Some links such as the transfer of vehicles and payment of transaction fees still need to be carried out offline, such as second-hand cars
+During the vehicle review process, some personal vehicle information will also be collected. For details, please refer to the second-hand vehicle circulation management system.
+Related policies, regulations and requirements.
+
+5. Necessary information related to general functions
+Mobile Internet applications are collected due to the requirements of universal business functions or the requirements of laws and regulations
+The necessary information is shown in Table 17.
+Table 17 Necessary information related to common functions
+General function
+Applicable business
+collect information
+Requirements
+demand
+Features
+Network access log information:
+•
+IP address
+Various business functions
+Only used to meet relevant laws and regulations
+Network access
+•
+User login time
+can
+Seeking and network security needs.
+•
+User logout time
+Device Information:
+Only used to protect mobile Internet applications
+Safe wind
+•
+Unique device identification
+Business security risk control, countering anti-cheating,
+Safety risk control
+Demand-controlled industry
+code
+Anti-fraud, illegal and bad information management and control, etc.
+Service function
+•
+Hardware serial number
+Security Risk.
+Calls in the customer service scenario
+Record and content:
+Has a customer service field
+•
+Phone number (phone only
+Only used by customer service to deal with user disputes, with
+customer service
+Business function
+Call customer service)
+The body includes telephone customer service and online customer service.
+can
+•
+Call recording
+(Only phone customer service)
+
+20
+
+Page 25
+
+•
+
+Chat message (online
+Customer service)
+
+Mobile Internet applications are usually used to ensure network security and handle user disputes.
+Collect personal online records for the purposes of personalized recommendation, improving user experience, and improving service quality.
+The following points should be considered when collecting personal Internet records:
+a) Log records of users' active actions such as favorites, comments, forwards, likes, releases, and reports
+Records, the necessity of collecting information should be judged in conjunction with the necessity of these users’ operations.
+Off.
+b) Operation records such as browsing, searching, and clicking are usually non-essential information, which is used for notification when collecting
+And obtain their consent.
+c) When saving and using personal online records, personal information is de-identified.
+d) When using personal Internet records to analyze user portraits for personalized display and recommendation,
+Inform users of the purpose of use and provide users with the option of exiting the targeted push mode.
+In addition, mobile Internet applications require other regulations to be collected due to regulatory documents such as laws and regulations.
+Necessary information is only used for the purposes described in laws and regulations.
+
+twenty one
+
+

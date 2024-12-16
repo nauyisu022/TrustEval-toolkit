@@ -1,0 +1,660 @@
+Page 1
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+1
+
+____________________________________________________________________
+DECREE N ° 260
+THE LEGISLATIVE ASSEMBLY OF THE REPUBLIC OF EL SALVADOR,
+CONSIDERING:
+I.-
+
+That the Constitution of the Republic recognizes the human person as the
+origin and the end of the activity of the State, which is organized to achieve
+of justice, legal security and the common good.
+
+II.-
+
+That by Legislative Decree No. 1030, dated April 26, 1997,
+published in the Official Gazette No. 105, Volume No. 335, of June 10 of the same
+year, the Penal Code was issued.
+
+III.-
+
+That at present, the electronic instruments by means of which
+send, receive or safeguard the information, have acquired a special relevance,
+both at the international and national level, for economic, political development,
+social and cultural of the country; Therefore, it becomes a priority of the State, to protect said
+information, since by not protecting it, confidentiality is violated,
+integrity, security and availability of data in general.
+
+IV.-
+
+That this diversity of criminal activities that can be committed to
+through Information and Communication Technologies, there are no
+sufficiently regulated in our current criminal regulations, generating a
+impunity for those who commit these types of crimes; consequently, it turns out
+its classification and the adoption of sufficient mechanisms to facilitate
+their detection, investigation and punishment of these new types of crimes.
+
+THEREFORE,
+in use of its Constitutional powers and at the initiative of Deputy Douglas Leonardo Mejía Avilés,
+of the Legislative Periods 2009 - 2012 and 2012 - 2015.
+DECREES, the following:
+SPECIAL LAW AGAINST COMPUTER AND RELATED CRIMES
+TITLE I
+GENERAL DISPOSITION
+Object of the Law
+Art. 1.- The purpose of this Law is to protect the legal assets of those conducts
+crimes committed through Information and Communication Technologies, as well as the
+prevention and punishment of crimes committed to the detriment of data stored, processed or
+transferred; the systems, their infrastructure or any of their components, or those committed through
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 2
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+two
+
+____________________________________________________________________
+the use of said technologies that affect interests associated with identity, property, privacy and image
+of natural or legal persons in the applicable terms and provided for in this Law.
+Area of ​application
+Art. 2.- This Law shall apply to punishable acts committed totally or partially in the
+national territory or in places subject to its jurisdiction. It will also apply to anyone,
+natural or legal, national or foreign, for crimes that affect the legal assets of the State, its
+inhabitants or protected by International Pacts or Treaties ratified by El Salvador.
+In the same way, this Law will be applied if the execution of the act began in the territory
+abroad and was consumed in national territory or if they had been carried out, using Technologies of the
+Information and Communication installed in the national territory and the person responsible has not been tried
+for the same act by foreign courts or has evaded trial or conviction.
+Definitions
+Art. 3.- For the purposes of this Law, it shall be understood as:
+to)
+
+Computer Crime: the commission of this crime will be considered, when using the
+Information and Communication Technologies, aiming to carry out
+the typical and unlawful conduct for obtaining, manipulating or damaging the
+information;
+
+b)
+
+Protected Legal Asset: is the information that guarantees and protects the exercise of rights
+fundamentals such as privacy, honor, sexual integrity, property, property
+intellectual, public safety, among others;
+
+c)
+
+Computer Data: is any representation of facts, information or concepts in
+a digital or analog format, which can be stored, processed or transmitted
+in a computer system, whatever its location, as well as the characteristics
+and specifications that allow describing, identifying, discovering, assessing and managing the
+data;
+
+d)
+
+Computer Data Storage Medium: it is any device from the
+which information is capable of being read, recorded, reproduced or transmitted with or without
+the help of any other suitable means;
+
+and)
+
+Computer System: it is an element or group of elements interconnected or
+related, being able to be electronic, computer programs, communication links
+or the technology that will replace them in the future, oriented to the treatment and administration
+data and information;
+
+F)
+
+Electronic Communication: is any transmission of computer data, the content of which
+can consist of audio, text, images, videos, alphanumeric characters, signs,
+graphics of various kinds or any other form of equivalent expression, between a
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 3
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+3
+
+____________________________________________________________________
+sender and a recipient through a computer system and other related
+with Information and Communication Technologies;
+g)
+
+Device: is any mechanism, instrument, device, medium that is used or can
+be used to perform any Information Technology function and
+Communication;
+
+h)
+
+Intercept: is the action of appropriating, interrupting, listening or recording computer data
+content or transmitted in any computer medium before reaching its destination;
+
+i)
+
+Computer Program: is the routine or sequence of instructions in a computer language
+determined that runs on a computer system, which may be a computer,
+server or any device, for the purpose of processing and
+communication of computer data;
+
+j)
+
+Service Provider: is the natural or legal person that offers one or more services
+information or communication through computer systems, processing or
+data storage;
+
+k)
+
+Computer Data Traffic: are those that are transmitted by any means
+technological, being able to show the origin, destination, route, time, date, size, duration of
+communication, among others;
+
+l)
+
+Information and Communication Technologies: is the set of technologies that
+allow the treatment, communication of data, registration, presentation, creation,
+administration, modification, management, movement, control, visualization, distribution,
+exchange, transmission or reception of information automatically, by voice,
+images and data contained in signals of an acoustic, optical or electromagnetic nature,
+among others;
+
+m)
+
+Personal Data: is the private information concerning a person, identified or
+identifiable, relative to their nationality, domicile, assets, electronic address,
+telephone number or other similar;
+
+n)
+
+Sensitive Personal Data: are those that correspond to a person in relation to the
+creed, religion, ethnic origin, political affiliation or ideologies, union affiliation, preferences
+sexual, physical and mental health, moral, family situation and other intimate information
+of a similar nature or that could affect the right to honor, to one's own image, to
+personal and family privacy;
+
+or)
+
+Pornographic Material of Girls, Boys and Adolescents: it is all aural representation
+or visual, either in image or video, adopting a sexual behavior
+explicit, real or simulated of a person who appears to be a girl, boy or adolescent
+adopting such behavior. Pornographic material will also be considered,
+realistic images that represent a girl, boy or adolescent adopting a
+sexually explicit behavior or real or simulated images of parties
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 4
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+4
+
+____________________________________________________________________
+genitalia or nudity of a girl, boy or adolescent for sexual purposes;
+p)
+
+Smart Card: it is the device that allows by executing a program
+obtaining goods, services, properties or information; Y,
+
+q)
+
+Social Networks: it is the structure or virtual community that makes use of technological means
+and communication to access, establish and maintain some type of link or
+relationship, through the exchange of information.
+TITLE II
+OF CRIMES
+CHAPTER I
+OF CRIMES AGAINST TECHNOLOGICAL INFORMATION SYSTEMS
+
+Improper Access to Computer Systems
+Art. 4.- Anyone who intentionally and without authorization or exceeding that which has been granted,
+access, intercept or use partially or totally a computer system that uses the Technologies of the
+Information or Communication, will be punished with imprisonment from one to four years.
+Improper Access to Computer Programs or Data
+Art. 5.- Anyone who knowingly and with the intention of using any device of the Technology of
+Information or Communication, partially or totally access any program or data
+stored in it, with the purpose of appropriating them or committing another crime with them, will be
+sanctioned with two to four years' imprisonment.
+Computer System Interference
+Art. 6.- Anyone who intentionally and by any means interferes or alters the operation of
+a computer system, temporarily or permanently, will be punished with imprisonment from three to five
+years.
+Interference or alteration will be considered aggravated if it falls on programs or systems
+public computer systems or computer systems intended for the provision of health services,
+communications, supply and transport of energy, means of transport or other public service,
+or intended for the provision of financial services, the prison sentence will be three to six years.
+Damage to Computer Systems
+Art. 7.- Whoever destroys, damages, modifies, executes a program or performs any act that alters
+the operation or partially or totally disable a computer system that uses the Technologies of
+Information and Communication or any of the components that make them up, will be sanctioned
+with a prison term of three to five years.
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 5
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+5
+
+____________________________________________________________________
+If the crime provided for in this article is committed in a negligent way, through recklessness,
+negligence, inexperience or non-observance of the established norms, will be punished with imprisonment of one
+to three years.
+If the crime provided for in this article is committed against any of the
+components of a computer system that use Information and Communication Technologies,
+that are intended for the provision of public or financial services, or that contain information
+personal, confidential, reserved, patrimonial, technical or proper to natural or legal persons, the sanction
+imprisonment will be three to six years.
+Possession of Equipment or Provision of Services for Security Breach
+Art. 8.- Anyone who, using Information and Communication Technologies, possesses, produces,
+provide, sell equipment, devices, computer programs, passwords or access codes; with the
+purpose to violate, unlawfully eliminate the security of any computer system, offer or
+provide services intended to fulfill the same purposes to commit any of the established crimes
+in the present Law, it will be punished with imprisonment of three to five years.
+System Security Breach
+Art. 9.- The person who, without having the corresponding authorization, violates the security of
+a restricted or protected computer system with a specific security mechanism, will be sanctioned
+with a prison term of three to six years.
+The same sanction will be incurred by anyone who induces a third party to involuntarily execute a
+program, message, instructions or sequences to violate security measures.
+Anyone who executes the behaviors described in Arts. 8 and 9 subsection
+first of this Law, when with the authorization of the empowered person, actions are carried out with the
+object of conducting technical tests or performance audits of equipment, processes or programs.
+CHAPTER II
+OF COMPUTER CRIMES
+Computer scam
+Art. 10.- Anyone who manipulates or influences the entry, processing or result of the data of
+a system that uses Information and Communication Technologies, either through the use of
+false or incomplete data, the improper use of data or programming, using any operation
+computer science or technological artifice or by any other action that affects the processing of data
+system or that results in false, incomplete or fraudulent information, with which you seek or
+obtain an undue patrimonial benefit for himself or another, he will be punished with imprisonment from two to five
+years.
+It will be sanctioned with imprisonment of five to eight years, if the behaviors described in the previous paragraph
+are committed under the following assumptions:
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 6
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+6
+
+____________________________________________________________________
+to)
+
+To the detriment of State properties;
+
+b)
+
+Against banking systems and financial entities; Y,
+
+c)
+
+When the author is an employee in charge of managing, supporting the system, network
+information technology, telematics or that by reason of their functions have access to said system,
+network, electronic, optical or magnetic containers.
+
+Computer Fraud
+Art. 11.- He who through the improper use of Information Technologies and
+Communication, using any manipulation in computer systems or any of its
+components, computer data or information contained therein, manage to insert false instructions
+or fraudulent that produce a result that allows obtaining a benefit for themselves or for a third party
+to the detriment of others, he will be punished with a prison term of three to six years.
+Computer Espionage
+Art. 12.- Whoever obtains data, reserved or confidential information for improper purposes
+contained in a system that uses Information and Communication Technologies or in any
+of its components, will be punished with imprisonment of five to eight years.
+If any of the behaviors described in the previous paragraph are committed in order to obtain
+benefit for themselves or for another, the security of the State, the reliability of the operation
+of the affected institutions, any damage will result to natural or legal persons such as
+consequence of the disclosure of reserved, confidential or secret information
+banking, the penalty will be six to ten years in prison.
+Theft by Computer Means
+Art. 13.- Whoever, through the use of Information and Communication Technologies, is
+seize tangible or intangible assets or values ​of a personal or patrimonial nature, subtracting them
+to its owner, holder or possessor, in order to obtain an economic benefit for himself or for another,
+He will be punished with imprisonment for two to five years.
+Denial of Service Techniques
+Art. 14.- He who intentionally, using the techniques of denial of service or
+equivalent practices that affect users who have membership in the affected system or network,
+makes it impossible to obtain the service, he will be punished with a prison term of three to five years.
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 7
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+7
+
+____________________________________________________________________
+CHAPTER III
+RELATED COMPUTER CRIMES
+WITH THE CONTENT OF THE DATA
+Record Manipulation
+Art. 15.- The Administrators of the Technological Platforms of public or private institutions,
+that disable, alter, hide, destroy, or render useless in whole or in part any information, data
+content in an access record, use of the components of these, will be sanctioned with imprisonment of
+five to eight years.
+If the behaviors described in the previous paragraph, favor the commission of another crime, the sanction
+it will be aggravated up to a third of the maximum indicated.
+Fraudulent Tampering with Smart Cards or Similar Instruments
+Art. 16.- Anyone who intentionally and without due authorization by any means creates, captures,
+record, copy, alter, duplicate, clone or delete computer data contained on a smart card
+or in any instrument intended for the same purposes; in order to incorporate, modify users,
+accounts, records, unrecognized consumptions, the current configuration of these or of the data in the system,
+He will be punished with a prison term of five to eight years.
+The same penalty shall be incurred by whoever, without having taken part in the previous events, acquires,
+trade, own, distribute, sell, perform any type of smart card brokering
+or instruments for the same purpose or computer data contained in them or in a system.
+Improper Obtaining of Goods or Services through Smart Cards or Media
+Similar
+Art. 17.- Anyone who without authorization uses a third-party smart card or instrument intended to
+the same purposes, misuse Information and Communication Technologies for the
+obtain any good or service, make any type of payment without disbursement or assuming obligation
+Any for the consideration obtained, will be punished with imprisonment from three to eight years.
+Improper Provision of Goods or Services
+Art. 18.- Anyone who uses smart cards without justification through a computer system
+or similar instruments for the same purposes, whose validity has expired or has been revoked
+by the institution that issued it, or that has been obtained in order to supplant the identity contained in
+said smart cards, will be punished with imprisonment of five to eight years.
+Anyone who falsifies or alters the data of smart cards or similar instruments, in order to
+to provide whoever presents them with money, goods or services, or any other object of economic value,
+the sanction will increase up to one third of the maximum of the penalty foreseen in the previous paragraph.
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 8
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+8
+
+____________________________________________________________________
+Alteration, Damage to the Integrity and Availability of Data
+Art. 19.- Whoever violates the security of a computer system destroys, alters, duplicates,
+disable or damage the information, data or processes, in terms of its integrity, availability and
+confidentiality in any of its income, processing, transmission or storage states,
+He will be punished with a prison term of three to six years.
+Data Interference
+Art. 20.- Anyone who interferes, obstructs or interrupts the legitimate use of data or produces them harmful
+and ineffective, to alter or destroy the data of a third party, will be punished with imprisonment from three to six
+years.
+If any of the behaviors described in the previous paragraph falls on data, documents,
+public computer programs or systems or on data intended for the provision of health services,
+communications, banking systems, financial entities, energy supply and transportation,
+means of transport or other public service, the prison sentence will be five to eight years.
+Interception of Transmissions between Information Technology Systems and
+Communication
+Art. 21.- The person who without justification intercepts any transmission by technological means
+to, from or within a computer system that is not available to the public; or emissions
+electromagnetic data that are carrying data from a computer system, will be sanctioned with imprisonment of
+seven to ten years.
+Identity Theft
+Art. 22.- Whoever impersonates or seizes the identity of a natural or legal person by
+means of Information and Communication Technologies, will be punished with imprisonment from three to five
+years.
+If the conduct described in the previous paragraph damages, extorts, defrauds, insults or threatens
+to another person to cause harm or obtain benefits for himself or for third parties and the
+Power of attorney rests on personal, confidential or sensitive data defined in the Access Law
+to Public Information, will be punished with imprisonment of five to eight years.
+Unauthorized Disclosure
+Art. 23.- Whoever without authorization discloses a code, access password or any other
+means of accessing a program or data stored on a computer or technological device, in order to
+to profit from himself, to a third party or to commit a crime, he will be punished with imprisonment from five to eight
+years.
+The same sanction will have the one that without authorization reveals or disseminates the data or information, contents
+in a computer system that uses Information and Communication Technologies or in any
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 9
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+9
+
+____________________________________________________________________
+of its components, in order to obtain some kind of benefit for themselves or for another.
+If any of the behaviors described in the previous paragraphs endanger the safety of the
+State, the reliability of the operation of the affected institutions or will result in any damage to the
+natural or legal persons, as a consequence of the disclosure of information of a nature
+reserved, it will be sanctioned with prison of six to twelve years.
+Use of Personal Data
+Art. 24. - Anyone who without authorization uses personal data through the use of
+Information and Communication, violating confidentiality and data security systems, inserting
+or modifying the data to the detriment of a third party, it will be sanctioned with imprisonment of four to six years.
+The sanction will increase up to a third of the maximum of the penalty foreseen in the subsection
+prior to whoever provides or reveals to another, information recorded in a file or in a database
+personal whose secret it is obliged to preserve.
+Obtaining and Transferring Confidential Information
+Art. 25.- Anyone who deliberately obtains and transfers information of a confidential nature and who
+Through the use of this information violates a computer system or data relying on any
+class of Information and Communication Technologies, including electromagnetic emissions,
+He will be punished with a prison term of five to eight years.
+Improper Disclosure of Personal Data or Information
+Art. 26.- Whoever, without the consent of the owner of the private and personal information
+disclose, disseminate or assign, in whole or in part, said information or data referred to in this
+article, be they in images, video, text, audio or others, obtained by any of the media
+indicated in the preceding articles, will be punished with imprisonment from three to five years.
+If any of the behaviors described in the previous paragraph, had been carried out for profit,
+the commission of another crime or the dissemination of explicit sexual material to the detriment of a third party, will be sanctioned
+with imprisonment of four to eight years.
+The maximum limit of the penalty of the previous paragraph will be imposed, increased by up to a third,
+If any of the behaviors described in the first paragraph of this article, falls on data
+confidential or sensitive personnel defined in the Law on Access to Public Information.
+Harassment through Information and Communication Technologies
+Art. 27.- Anyone who engages in unwanted sexual conduct by the recipient, involving phrases, signs
+or other unequivocal conduct of a sexual nature or content, through the use of the Technologies of
+Information and Communication will be punished with a prison term of four to six years.
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 10
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+10
+
+____________________________________________________________________
+CHAPTER IV
+COMPUTER CRIMES AGAINST GIRLS, BOYS AND
+ADOLESCENTS OR PEOPLE WITH DISABILITIES
+Pornography through the Use of Information and Communication Technologies
+Art. 28.- Anyone who by any means that involves the use of Information Technologies
+and the Communication manufactures, transfers, diffuses, distributes, rents, sells, offers, produces, executes,
+exhibits or shows pornographic, sexual material between girls, boys and adolescents or people with
+disability, will be punished with imprisonment from four to eight years.
+Who does not notice in a visible way the content of the pornographic or sexual material that is
+transmit through the use of Information and Communication Technologies, not suitable for girls,
+children, adolescents or people with disabilities will be punished with a prison term of three to five years.
+Use of Girls, Boys, Adolescents or Persons with Disabilities in Pornography through
+of the Use of Information and Communication Technologies
+Art. 29.- Anyone who by any means that involves the use of Information Technologies
+and the Communication produces, reproduces, distributes, publishes, imports, exports, offers, finances, sells,
+trade or disseminate in any way, images, videos or exhibits in sexual, erotic or sexual activities
+unequivocal of a sexual nature, explicit or not, real or simulated, or uses the voice of girls, boys,
+adolescents or people with disabilities, will be punished with imprisonment from eight to twelve years.
+The same sanction will be imposed on those who, through Information Technologies and
+Communication organize or participate in public or private shows, in which the
+the people indicated in the previous paragraph, in pornographic or erotic actions.
+Acquisition or Possession of Pornographic Material of Girls, Boys, Adolescents or People
+with Disabilities through the Use of Information and Communication Technologies
+Art. 30.- Whoever acquires for himself or for a third party through any means that involves
+the use of Information and Communication Technologies, or possesses pornographic material in which
+a girl, boy, adolescent or person with a disability or their image has been used for their
+production, will be punished with imprisonment of two to five years.
+The same sanction will be applied to those who have computer data storage devices
+or through any means that involves the use of Information and Communication Technologies,
+pornographic material in which a girl, boy, adolescent or person with a disability has been used
+or your image for your production.
+Corruption of Girls, Boys, Adolescents or Persons with Disabilities through the Use of
+The technologies of the information and communication
+Art. 31.- Whoever maintains, promotes or facilitates the corruption of a girl, boy, adolescent or
+person with a disability for erotic, pornographic or obscene purposes, through the Technologies of
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 11
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+eleven
+
+____________________________________________________________________
+Information and Communication, although the girl, boy, adolescent or person with a disability
+consent, you will be punished with imprisonment from eight to twelve years.
+The same sanction will be imposed on whoever makes implicit or explicit proposals to hold meetings
+of a sexual or erotic nature, or for the production of pornography through the use of the Technologies of
+Information and Communication for oneself, for another or for groups, with a girl, boy, adolescent or
+Person with Disability.
+Harassment of Girls, Boys and Adolescents or People with Disabilities through the Use of
+Technology of the information and communication
+Art. 32.- Whoever torments, harasses, humiliates, insults, denigrates or any other type of conduct that affects
+normal personality development, threatens psychological or emotional stability, puts at risk
+the life or physical safety of a child, adolescent or person with a disability, through the use of
+of Information or Communication Technologies, will be punished with imprisonment of two to four years.
+The penalty will be aggravated by imprisonment from four to eight years, for those who carry out conduct that implies
+phrases, signs or other unequivocal action of a sexual nature or content against a girl, boy, adolescent
+or person with a disability, through the use of Information and Communication Technologies.
+Common Aggravating Conditions
+Art. 33.- The crimes referred to in this Chapter will be punished with the maximum penalty.
+corresponding, increased by up to a third of the maximum established of the penalty and the
+Disqualification from exercising their profession for the duration of the sentence, if any of the
+actions described were carried out by:
+to)
+
+Ascendants, descendants, siblings, adopters, adoptees, spouses, partner
+and relatives up to the fourth degree of consanguinity and second degree of affinity;
+
+b)
+
+Officials, public and municipal employees, public authority and agent of authority;
+
+c)
+
+The person in charge of the guardianship, protection or surveillance of the victim; Y,
+
+d)
+
+Any person who, taking advantage of the superiority originated by relationships of trust,
+domestic, educational, work or any other relationship.
+
+CHAPTER V
+CRIME AGAINST THE ECONOMIC ORDER
+
+Impersonation in Marketing Acts
+Art. 34.- Whoever, without authorization and on behalf of a third party, through the use of the Technologies
+Information and Communication, sell or market goods or services, impersonating
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 12
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+
+12
+
+____________________________________________________________________
+producer, supplier or authorized distributor, will be punished with imprisonment of three to five years.
+The conduct described in the previous paragraph will be aggravated with a prison sentence of four to six years,
+when the sale or commercialization involves medicines, supplements or food products,
+drinks or any product for human consumption.
+
+TITLE III
+FINAL PROVISIONS
+
+Other Responsibilities
+Art. 35.- The sanctions provided for in this Law shall be applicable without prejudice to other
+criminal, civil or administrative responsibilities incurred.
+For the deduction of civil liability, the provisions of the applicable regulations will be followed.
+Validity
+Art. 36.- This Decree shall enter into force eight days after its publication in the Gazette.
+Official.
+GIVEN IN THE BLUE ROOM OF THE LEGISLATIVE PALACE: San Salvador, on the fourth day of the month
+February of the year two thousand and sixteen.
+LORENA GUADALUPE PEÑA MENDOZA,
+CHAIRWOMAN.
+GUILLERMO ANTONIO GALLEGOS NAVARRETE,
+
+ANA VILMA ALBANEZ DE ESCOBAR,
+
+FIRST VICE PRESIDENT.
+
+SECOND VICE PRESIDENT.
+
+JOSÉ SERAFÍN ORANTES RODRÍGUEZ,
+
+NORMAN NOEL QUIJANO GONZÁLEZ,
+
+THIRD VICE PRESIDENT.
+
+FOURTH VICE PRESIDENT.
+SANTIAGO FLORES ALFARO,
+FIFTH VICE PRESIDENT.
+
+GUILLERMO FRANCISCO MATA BENNETT,
+
+DAVID ERNESTO REYES MOLINA,
+
+FIRST SECRETARY.
+MARIO ALBERTO TENORIO GUERRERO,
+
+SECOND SECRETARY.
+REYNALDO ANTONIO LÓPEZ CARDOZA,
+
+THIRD SECRETARY.
+JACKELINE NOEMÍ RIVERA ÁVALOS,
+FIFTH SECRETARY.
+
+FOURTH SECRETARY.
+JORGE ALBERTO ESCOBAR BERNAL,
+SIXTH SECRETARY.
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+Page 13
+
+LEGISLATIVE ASSEMBLY - REPUBLIC OF EL SALVADOR
+____________________________________________________________________
+ABILIO ORESTES RODRÍGUEZ MENJÍVAR,
+SEVENTH SECRETARY.
+
+JOSÉ FRANCISCO MERINO LÓPEZ,
+EIGHTH SECRETARY.
+
+PRESIDENTIAL HOUSE: San Salvador, on the twenty-sixth day of February of the year two thousand
+sixteen.
+BE PUBLISHED,
+Salvador Sánchez Cerén,
+Republic President.
+Mauricio Ernesto Ramírez Landaverde,
+Minister of Justice and Public Security.
+
+DO N ° 40
+Volume N ° 410
+Date: February 26, 2016
+SV / ielp
+03-30-2016
+
+___________________________________________________________________
+LEGISLATIVE INDEX
+
+13
+
+

@@ -1,0 +1,3108 @@
+Page 1
+
+KVKK PUBLICATIONS NO: 30
+
+PERSONAL DATA PROCESSING INVENTORY
+PREPARATION GUIDE
+
+Page 3
+2
+
+PERSONAL DATA PROCESSING INVENTORY
+PREPARATION GUIDE
+
+Page 4
+
+PERSONAL DATA PROCESSING INVENTORY
+PREPARATION GUIDE
+
+KVKK PUBLICATIONS NO: 30
+ISBN: 978-605-80554-2-1
+July, 2019 ANKARA
+
+TR PERSONAL DATA PROTECTION AGENCY
+ADDRESS: Nasuh Akar Mahallesi 1407 Sokak No: 4 Çankaya / ANKARA
+Telephone: 0.312.216 50 00
+www.kvkk.gov.tr
+
+Page 5
+
+The text and other content in this guide, except for individual use, without permission.
+partially or wholly copying, duplicating, using, publishing and
+distribution is prohibited. Law no. 5846 on those who do not comply with this prohibition.
+action will be taken. All rights of the product are reserved.
+
+Page 6
+
+CONTENTS
+LOGIN
+
+one
+
+DEFINITION
+
+7
+
+THOSE OBLIGED TO PREPARE INVENTORY
+
+11th
+
+DIFFERENCES OF INVENTORY FROM VERBIS
+
+15
+
+CONTENT OF THE INVENTORY
+
+21
+
+ESTABLISHING A TEAM TO PREPARE INVENTORY; or
+
+25
+
+ASSIGNMENT OF PEOPLE
+INVENTORY PREPARATION STAGES
+
+29
+
+1) Determination of Personal Data on the Basis of Process or Activity
+
+31
+
+2) Determining the Qualifications of Detected Personal Data
+
+33
+
+3) Determination of Legal Reason of Processed Personal Data
+
+34
+
+4) Determination of Personal Data Processing Purposes
+
+35
+
+5) Identification of the Data Subject Group
+
+37
+
+6) Determination of the Retention Period of Processed Personal Data
+
+39
+
+7) Determination of Recipient / Recipient Groups to which Processed Personal Data are Transferred
+
+41
+
+8) Identification of Personal Data Transferred to Foreign Countries
+
+42
+
+9) Determination of Technical and Administrative Measures Taken for Processed Personal Data
+
+43
+
+Page 7
+
+INVENTORY SAMPLE
+
+45
+
+Page 9
+8
+
+LOGIN
+
+Page 10
+
+Today, many companies, public institutions and organizations, foreign institutions or natural persons
+obtains and uses a large number of personal data within the scope of its activities and
+in order to provide services or to increase the trade volume to ensure the development of the economy.
+aims to reach more personal data and share it with third parties. But
+turn to more personal data processing; the convenience provided by the personal data processed and
+Although it contributes to the country's economy due to its advantages, there are various
+It also raises the risks and possibilities of violation.
+Due to these risks, the protection of personal data and the need for a legal infrastructure
+It was necessary to establish the constitution of the Republic of Turkey, primarily in the Constitution.
+With the amendment made in 2010, the right to protection of personal data has been constitutionally guaranteed.
+and it was decided that a regulation should be made in the Law regarding this issue.
+Constitution of the Republic of Turkey
+ARTICLE 20 - Everyone has the right to demand respect for his private and family life.
+has. Inviolable confidentiality of private life and family life.
+(Additional paragraph: 12/9/2010-5982/2 art.) Everyone has the right to protect their personal data.
+has the right to demand. This right; about personal data relating to the person himself
+be informed, access this data, request its correction or deletion, and
+It also includes learning whether it is used for its intended purpose. personal data,
+It can only be processed in cases stipulated by law or with the explicit consent of the person. Personal data
+The principles and procedures regarding the protection are regulated by law.
+
+3
+
+Page 11
+
+Pursuant to this provision, the Law on the Protection of Personal Data No. 6698 was enacted by the Turkish Grand National Assembly.
+(“Law”) was accepted and entered into force by being published in the Official Gazette dated 07.04.2016.
+has entered.
+The law covers the protection of fundamental rights and freedoms and the processing of personal data in Turkey.
+determining the procedures and principles to be followed by real and legal persons,
+Indiscriminate or illegal processing of personal data by unauthorized persons
+violation of personal rights as a result of accessing and illegally sharing
+aimed at preventing In this respect, the Law strictly protects personal data.
+on the contrary, a more competitive environment in the data-driven economy.
+It regulates the procedures and principles regarding the processing of personal data in order to prepare
+By law, it has administrative and financial autonomy and has a public legal personality associated with the Ministry of Justice.
+Personal Data Protection Authority (“Authority”) has been established as a
+To ensure the implementation of the law, to take regulatory and supervisory action within the framework of the law,
+to make secondary regulations in the areas deemed necessary, to ensure that data controllers are completely
+Personal data in accordance with the Law in line with the principles of transparency and accountability
+works to make it work.
+In this context, data is collected by the Institution for the implementation of the Law.
+“Data Controllers Registry”, which regulates some procedures and principles that those responsible for
+Regulation on “Deletion, Destruction or Anonymization of Personal Data”
+“Regulation on Bringing the Law” has been prepared and the aforementioned regulations are dated 01.01.2018.
+
+4
+
+Page 12
+
+entered into force.
+Within the scope of the Law, for natural and legal persons processing personal data,
+compliance with the basic principles and personal data processing conditions, in domestic and international transfer
+Compliance with the provisions of the law, obligation to inform, technical and administrative data security
+taking measures, deletion, destruction or anonymization by recording in the Data Controllers Registry (“Registry”)
+obligations such as bringing ("Destruction") have been introduced.
+In addition to the ones brought by the law, some obligations are also imposed by the said regulations.
+one of them; Personal Data Processing Inventory (“Inventory”).
+
+5
+
+Page 13
+
+6
+
+Page 15
+14
+
+DEFINITION
+
+Page 16
+
+Inventory, About the Data Controllers Registry published in the Official Gazette dated 30.12.2017
+Article 4 of the Regulation is defined in paragraph 1, subparagraph (h). (dated 28.04.2019
+Amendment to the Regulation on the Registry of Data Controllers published in the Official Gazette
+The clause has been amended with the 1st article of the Regulation.)
+Regulation on Data Controllers Registry
+ARTICLE 4 – (1) In this Regulation;
+h) Personal data processing inventory: Depending on the business processes of data controllers
+their personal data processing activities; personal data processing purposes
+and legal reason, data category, transferred recipient group and data subject group.
+the maximum necessary for the purposes for which personal data are processed
+the period of storage, the personal data that is expected to be transferred to foreign countries, and the data
+the inventory they detail by explaining the measures taken regarding the security of
+In the aforementioned regulations, Inventory is defined as “Depending on the business processes of the data controllers.
+their personal data processing activities; personal data processing purposes
+and legal reason, data category, transferred recipient group and data subject group.
+which are necessary for the purposes for which personal data are processed
+the maximum retention period, personal data that is expected to be transferred to foreign countries, and
+The inventory they detail by explaining the measures taken regarding data security” as
+has been defined.
+
+9
+
+Page 17
+
+Accordingly, Inventory is determined by data controllers who process personal data within the scope of their activities.
+evaluation of all processes, examination of all activities within the scope of these processes,
+determining the personal data processed for each activity one by one,
+purposes and legal reasons, whether it is transferred, to whom it is transferred, processed
+who the personal data belongs to is determined by the data controller for each personal data.
+storage period, whether it is transferred abroad, which
+As a result of detailed analysis of the information on which technical or administrative measures have been taken.
+It is a kind of report that will come out.
+The reason for the obligation to prepare an inventory; activities of data controllers
+Ensuring compliance with the Law in all related processes, in other words, against the Law.
+It is to ensure that it is easily determined whether there is a personal data processing situation. another one
+In other words, it is a kind of data controller regarding the compliance of personal data processing activities with the Law.
+is self-control.
+
+10
+
+Page 19
+18
+
+INVENTORY
+BY PREPARING
+THOSE LIABLE
+
+Page 20
+
+Article 5, paragraph 1 (ç) of the Regulation on the Data Controllers Registry states “Register
+Data controllers responsible for registration are responsible for preparing Personal Data Processing Inventory.
+liable. The information to be disclosed to the Registry in applications to the Registry is included in the Personal Data Processing Inventory
+based on it.” The provision of “Data in Article 10 of the Law” is also stated in subparagraph (d).
+In the obligation of enlightenment for those responsible, as specified in Article 13 of the Law,
+the express consent to be announced by the relevant persons and in answering the applications of the persons concerned.
+submitted to the Registry based on the personal data processing inventory in determining the scope of
+and the information published in the Registry shall be taken as basis.” provision is included. (dated 28.04.2019
+Amendment to the Regulation on the Registry of Data Controllers published in the Official Gazette
+Amendments have been made in the 2nd article and (ç) clause of the Regulation.)
+Regulation on Data Controllers Registry
+ARTICLE 5 – (1) The following principle and procedure regarding the establishment, administration and surveillance of the registry
+and the principles are followed:
+ç) Data controllers who are obliged to register in the Registry, prepare Personal Data Processing Inventory.
+liable. The information to be disclosed to the Registry in applications to the Registry is included in the Personal Data Processing Inventory
+prepared on the basis of
+d) In the disclosure obligation specified for data controllers in Article 10 of the Law,
+Responding to the applications of the related persons specified in Article 13 of the Law and
+Personal data processing in determining the scope of explicit consent to be disclosed by persons
+The information submitted to the Registry based on the inventory and published in the Registry is taken as basis.
+
+13
+
+Page 21
+
+Also About Deletion, Destruction or Anonymization of Personal Data
+In the 1st paragraph of the 5th article of the Regulation, “Data Controllers in accordance with the 16th article of the Law
+Data controllers who are obliged to register in the Registry must comply with the personal data processing inventory.
+is obliged to prepare a personal data retention and destruction policy”.
+takes.
+Regulation on the Deletion, Destruction or Anonymization of Personal Data
+ARTICLE 5 – (1) By registering with the Data Controllers Registry in accordance with Article 16 of the Law
+responsible data controllers, in accordance with the personal data processing inventory
+Responsible for preparing a storage and disposal policy.
+Accordingly, all data controllers who are obliged to register with the Data Controllers Registry
+An inventory is required.
+However, while fulfilling the obligation to register and inform the Registry or the person concerned
+in answering the applications and determining the scope of express consent.
+Inventory should be taken as the basis.
+
+14
+
+Page 23
+22
+
+YOUR INVENTORY
+FROM VERBIS
+DIFFERENCES
+
+Page 24
+
+According to Article 16 of the Law; Keeping the Data Controllers Registry publicly available
+and natural and legal persons processing personal data before starting data processing.
+It has been stated that it has to register with the Data Controllers Registry. Also in Sicily
+The information that needs to be entered is also clearly counted.
+Accordingly, the identity and address information of the data controller and its representative, if any, in the registry,
+the purpose for which personal data will be processed, the data subject group and groups and
+descriptions about the categories of data belonging to the recipient or recipient to whom the personal data may be transferred.
+groups, personal data that is expected to be transferred to foreign countries, personal data security
+regarding the measures taken and the maximum period required for the purpose for which personal data is processed.
+login is required.
+In this context, our institution is authorized to enter information into the Registry by data controllers.
+A system that allows this has been prepared and the name of the Data Controllers Registry Information System (“VERBIS”)
+was put into service with
+Since the registry will be kept public, only categories can be submitted to VERBIS.
+information will be entered. In other words, real persons whose personal data are processed by VERBIS.
+Information entries will be made on a categorical basis in the form of the headings of these data, not the data belonging to them.
+Although the inventory and VERBIS are basically similar in many points in terms of data, 3
+differs in this regard.
+
+17
+
+Page 25
+
+a) In VERBIS, personal data is processed by the data controller on the basis of "data categories".
+is not processed, and if it is, for what purposes these data categories are processed, whether it is a transfer or not.
+recipient groups transferred, retention period, if any, relevant persons and received
+While it is necessary to enter information about security measures;
+Based on all activities of the data controller in all business processes in the inventory
+all physical or physical data containing personal data such as documents, documents, datasets, records, etc.
+separately for each of the personal data processed in electronic media,
+whether it is processed for the purpose and legal reasons, whether there is a transfer, the third party to whom the transfer is made.
+parties, retention periods, data subject groups and security measures taken.
+It should be a report containing much more detailed information. Briefly at VERBIS
+While information is entered on a categorical basis only in headings, in the Inventory these data are
+should be included in detail with their breakdowns.
+b) As per Article 16 of the Law, which are kept open to the public by our Institution.
+While the information entered in VERBIS can be viewed by anyone who wishes,
+The inventory will remain within the data controller itself and will not be publicly available.
+However, if requested by the Board, the Inventory must be submitted to the Board.
+required. In addition, in the applications to the data controller by the relevant persons,
+Inventory should be used for the answer to be given.
+
+18
+
+Page 26
+
+c) A system has been prepared for VERBIS and it is mandatory to log in from the relevant screens.
+While the inventory was kept, no guidance was given in terms of the form of the inventory. Inventory,
+For example, it can be kept in the form of an office file or in related files in the database.
+
+19
+
+Page 27
+
+20
+
+Page 29
+28
+
+INVENTORY CONTENT
+
+Page 30
+
+According to the Regulation on the Registry of Data Controllers, at least in the Inventory;
+-Data category,
+-Personal data processing purposes and legal reason,
+-Transferred recipient / recipient groups,
+-Data subject groups,
+-The maximum retention period required for the purposes for which personal data is processed,
+-Personal data intended to be transferred to foreign countries,
+-Technical and administrative measures taken regarding data security,
+must take place.
+The nature and number of the personal data processed, the nature and number of the persons whose personal data are processed,
+variety of personal data, personal data within the data controller or transfer
+the circulation of third parties, the technical and
+degree of difficulty of administrative measures, transfer abroad, requiring express consent
+processing of a large number of personal data, data that differ in terms of storage periods
+quantity, adequate measures to be taken for sensitive personal data, if transfer is to be made
+The nature, form and nature of the Inventory were evaluated by evaluating many criteria such as its legal basis.
+It would be more appropriate to decide the environment in which it will be located with its structure.
+It should be noted that; In the aforementioned regulations, the minimum required to be in the Inventory
+items are included, from which it is clear that the inventory should contain only these items.
+
+23
+
+Page 31
+
+should not be understood. On the contrary, data controllers are responsible for their activities in line with these issues as a minimum.
+including other matters (department name, unit name, person entering information,
+process name, activity name, activity description, processed personal data category, processed personal data
+data, the processing condition in Article 5 of the Law, the category of processed personal data,
+Special categories of personal data processed, processing condition in Article 6 of the Law, personal data
+Whether disclosure is made to the processed during the first acquisition, personal data is obtained
+source, method of obtaining, electronic environment in which it is stored, physical environment in which it is stored,
+Those who access this data other than your unit, storage purpose, periodic destruction period, transfer
+purpose, legal reason for personal data transfer, personal data transfer method,
+legal reason for personal data transfer, special quality personal data transfer method, administrative
+measures, technical measures taken, adequate measures taken for sensitive personal data)
+they can add.
+
+24
+
+Page 33
+32
+
+INVENTORY
+PREPARE
+TO THE TEAM
+CREATING
+or PEOPLE
+ASSIGNMENT
+
+Page 34
+
+Data controllers, within the scope of both the Law and other secondary legislation.
+In order to fulfill the obligations correctly and completely, first of all, a person
+or assign a unit / team consisting of more than one person.
+The legislation and regulations regarding the protection of personal data of such person or persons to be appointed.
+competent in applications, personal data processing processes and depending on these processes
+law, information technology and human beings who have detailed information about the personal data processed
+It is recommended to choose from the person or persons working in units such as resources. also
+The creation of the assignment to be made with broad participation will make the inventory more qualified.
+It will certainly contribute to its preparation.
+By this unit/team assigned as the second step, the current data controller
+must analyze all personal data that it processes in physical or electronic environment.
+Within the scope of this analysis, first of all, the nature of the processed personal data (personal data, special quality
+personal data), and subsequently obtaining and recording personal data,
+blocking, deleting, destroying, anonymizing, transferring,
+updating, keeping, storing, changing, disclosing, taking over,
+Identifying all stages of personal data processing, such as classification, one by one
+required. In addition, it is recommended to draw personal data work flow charts in this direction.
+As a third step, all personal data processing activities by the said unit/team
+Inventory should be prepared in line with this and lighting texts should be created accordingly.
+Whether there is personal data that does not have a processing purpose with any processing condition Inventory
+
+27
+
+Page 35
+
+For data in this state, it will be destroyed before the deadline, as it can be detected through
+procedures should be applied.
+As the fourth step, personal information is provided at the level of all employees within the data controller.
+Data protection culture and trainings in order to raise awareness in this context
+is recommended to be given.
+
+28
+
+Page 37
+36
+
+INVENTORY
+PREPARATION
+STEPS
+
+Page 38
+
+The steps to be taken by the Team for the inventory preparation process are listed below.
+counted as:
+
+1) Determination of Personal Data on the Basis of Process or Activity
+First of all, the team determines all business processes one by one on the basis of units, processes
+list the activities within the scope of, what type of personal data while performing the activities
+that you have obtained information or documents containing
+data must be determined individually.
+Since personal data processed for different processes and activities will be determined here, the same
+personal data is processed in more than one process, therefore the same personal data
+It can be stated repeatedly in more than one process, that is, there are duplications in this regard.
+may have to be taken into account.
+In addition, personal data on the basis of each process and activity may be processed for different purposes,
+differences in terms of transport or security measures, where different storage times may be
+Personal data within the scope of each process or activity for reasons such as
+It is recommended to be included in the Inventory.
+Determining which personal data are processed within the scope of processes, in a sense,
+is to take a picture of the data controller's activities in terms of personal data. each data
+responsible, which data is being processed in his/her own, with the Inventory prepared
+
+31
+
+Page 39
+
+will be able to see easily. For this reason, the determination process in question requires all personal data in each unit.
+It will require information and documents containing information and documents and analysis of activities and processes.
+Data categories and sub-fractions related to personal data processed in processes and activities.
+correctly identified, purposes to be matched with this data, storage periods, processing conditions
+important for such matters.
+While data controllers determine the data categories, the data categories in VERBIS
+section can also be used. However, personal data in VERBIS on a categorical basis
+More detail in the inventory, that is, the detailing of personal data up to its sub-details
+required.
+
+32
+
+Page 40
+
+2) Determining the Qualifications of Detected Personal Data
+Determining the characteristics of the personal data detected to be processed for each process and activity
+It is also an important step in the preparation of other parts of the Inventory. At this point, the processed
+It should be checked whether the personal data is sensitive personal data or not. For example, a company
+While creating the personnel file of the employee, personal data such as identity, personnel, finance, communication data
+Union membership, criminal conviction information, health data may be processed as well as data processing. It
+In this case, it should determine the special categories of personal data it is processing.
+If the processed personal data is special quality personal data,
+processing conditions, processing purposes, domestic transfer, international transfer and receipt
+Since there will be differences in terms of security measures required, personal data of special nature
+The distinction is important here.
+
+33
+
+Page 41
+
+3) Determination of Legal Reason of Processed Personal Data
+For each of the personal data processed by data controllers in connection with business processes, the Law
+Personal data based on which of the processing conditions in Articles 5 or 6
+It is the field that it will determine in the Inventory that it is working.
+As it is known, the personal data processing conditions are listed in the 5th and 6th articles of the Law.
+In the absence of any of these processing conditions, personal data processing is subject to the Law.
+would be inconsistent. For example, a public institution, clearly stipulated in the relevant laws and
+due to his assignment or for the fulfillment of a legal obligation
+Personal data may be processed because it is mandatory. For example, a real estate agent, lessee and lessee
+Personal data may be processed within the framework of the contract signed with the issuer. again a
+clothing store, within the scope of the express consent of the person concerned, that person's e-mail
+You can send a commercial electronic message to the address or SMS to your mobile phone. In this way, personal data
+may process personal data based on one of the processing conditions, if any.
+If they are exempt from the said processing conditions for the personal data they are currently processing.
+if none is available, the data controller now has to reorganize business processes
+required. In this context, destruction of the personal data in question or other personal data
+By reviewing the data processing conditions, personal data processing is brought into compliance with the Law.
+must bring.
+
+34
+
+Page 42
+
+4) Determination of Personal Data Processing Purposes
+In the article 4, paragraph 2, subparagraph (ç) of the Law, "related to the purpose for which they are processed, limited
+In accordance with the principle of “being proportionate and measured”, the personal data controllers processed within the scope of their activities,
+determining on the basis of personal data, on the basis of which processing purpose it processes the data
+required.
+Personal Data Protection Law
+ARTICLE 4 - (2) It is obligatory to comply with the following principles in the processing of personal data:
+ç) Being connected, limited and restrained with the purpose for which they are processed.
+As a natural consequence of this, the data controller is responsible for any personal data he is processing.
+if it cannot determine a purpose, then it should not process this data or, if it is processed, in question
+should implement destruction for data.
+When determining the processing purposes for the personal data they process, VERBIS
+They can also benefit from the "Personal Data Processing Purposes" section.
+For example, contact data for the purposes for which a company processes the identity data of its employees.
+purposes may be different. Accordingly, identity data is information security, employee satisfaction,
+fulfillment of obligations arising from employment contracts and legislation, employee fringe benefits and
+interests, auditing, training, access rights, finance and accounting, physical space
+safety, human resources, occupational health / safety, customer relations, performance evaluation,
+
+35
+
+Page 43
+
+execution of contract processes, wage policy, talent / career development, authorized institution
+and while declaring that it is processing for purposes such as informing organizations,
+emergency management, employee satisfaction, employment contract and regulatory obligations
+fulfillment, supervision, training, execution of communication activities,
+improvement, execution of logistics activities, purchase of goods / services, customer relations,
+organization and event management, execution of advertising / campaign / promotion processes
+may declare that it operates for such purposes.
+
+36
+
+Page 44
+
+5) Identification of the Data Subject Group
+Data subject contact group field; by data controllers, which data subject of personal data
+This is the area where it will be determined that it is processed for groups of people.
+Which person or person data controllers process the personal data within the scope of their activities.
+It is necessary to determine what it is processing in relation to its groups on the basis of personal data one by one.
+Data controllers, while determining the data subject groups of the personal data they process,
+They can also benefit from the "data subject groups" section in VERBIS.
+For example, personal data processed for a person who buys a product or service in a market and visitor
+The personal data processed for the person with whom it is necessary must also be determined. data controllers,
+employee, employee candidate, subject, subject of the news for the personal data they are processing,
+shareholder/partner, potential product or service buyer, exam candidate, trainee, supplier employee,
+supplier representative, student, audience, meeting participant, product or service buyer, parent / guardian
+It will be able to identify many data subject groups such as / representative, visitor.
+
+37
+
+Page 45
+
+6) Determination of the Retention Period of Processed Personal Data
+How long the personal data will be stored by the data controllers and at the end of the period
+It is the area where the determination will be made regarding the application of the disposal process.
+In the article 4, paragraph 2, subparagraph (d) of the Law, it is stated that “Projected in the relevant legislation or
+data are kept for the period necessary for the purpose for which they are processed.
+the storage periods of the personal data they process within the scope of their activities.
+must be determined on the basis of a single personal data. Because the realization of the destruction process
+depends on the determination of storage times.
+Personal Data Protection Law
+ARTICLE 4 - (2) It is obligatory to comply with the following principles in the processing of personal data:
+d) Keep for the period required by the relevant legislation or for the purpose for which they are processed.
+not to be
+
+Data controllers determine the retention periods for the personal data they process.
+First of all, if any storage period is stipulated in the legislation regarding the processed personal data,
+they should look at what is not foreseen. If a period is stipulated in the relevant legislation, the storage period
+This period should be specified.
+
+38
+
+Page 46
+
+If no period is stipulated in the relevant legislation, the data for the purpose for which they are processed.
+A storage period must be determined by the responsible person. In this case too,
+While determining the retention period, article 9 of the Regulation on the Data Controllers Registry
+The points mentioned in paragraph 4 must be taken into account.
+On the other hand, a personal data is used for different purposes in business processes in different activities.
+different storage by data controllers for the same personal data in each process.
+durations can be determined.
+Regulation on Data Controllers Registry
+ARTICLE 9 – (4) In accordance with subparagraph (f) of the first paragraph by the data controllers,
+The personal data to be disclosed are required by the legislation or for the purpose for which they are processed.
+Information on the maximum retention period is matched with the data categories and entered into the Registry.
+is reported. The processing purposes of the data categories notified to the Registry by the data controller, and
+the maximum retention periods necessary for their processing based on these purposes
+and the periods stipulated in the legislation may be different. In this case, maximum protection in the legislation
+if a period of expiry is foreseen, if this period is not foreseen, the longest period of these is the basis
+A notification is made to the Registry for this data category. For the purpose for which personal data is processed
+while determining the required maximum storage period;
+a) The data controller operates within the scope of the processing purpose of the relevant data category.
+the period accepted as per the general practice in the sector,
+b) Requires the processing of personal data in the relevant data category and
+the duration of the legal relationship established,
+
+39
+
+Page 47
+
+c) Depending on the purpose of processing the relevant data category, the data controller will obtain
+the period during which the legitimate interest will be valid in accordance with the law and the rules of good faith,
+ç) The risk to be created by keeping the relevant data category depending on the purpose of processing,
+the period during which costs and responsibilities will continue legally,
+d) The relevant data category of the maximum period to be determined is correct and up-to-date when necessary.
+whether it is suitable for keeping
+e) In accordance with the legal obligation of the data controller, personal data in the relevant data category
+the time it has to keep the data,
+f) A right related to personal data in the relevant data category is granted by the data controller.
+the statute of limitations for filing,
+are taken into account.
+
+40
+
+Page 48
+
+7) Recipient / Recipient Groups to which Processed Personal Data are Transferred
+Determination
+This field defines the recipients or recipients of the personal data processed by the data controllers.
+This is the area where the determination of the transfer to the groups will be made.
+Which recipient or recipient of personal data processed by data controllers within the scope of their activities
+It is necessary to determine on the basis of personal data that it transfers to its groups.
+For example, a company shares its employee's identity information with authorized public institutions and organizations.
+While declaring that they are shared, they only share their professional work experience with their business partners.
+may share. Data controllers, natural persons, private law legal entities
+shareholders, business partners, affiliates, subsidiaries, suppliers, group companies,
+It is shared with many buyer / buyer groups such as authorized public institutions and organizations, the public.
+they can declare.
+Data controllers determine the recipient or recipient groups to whom the personal data they process are transferred,
+It can also benefit from the "Data Transfer Receiver Groups" section in VERBIS.
+
+41
+
+Page 49
+
+8) Identification of Personal Data Transferred to Foreign Countries
+Regarding data transfer within the country, the Law is regulated in Articles 5 and 6 of the Law.
+While deeming the existence of the processing conditions sufficient, they are used for the data to be transferred abroad.
+In addition, some conditions were determined. Therefore, it will also be transferred abroad in the Inventory
+It is envisaged to organize a separate field for the data.
+Data controllers, transferring the personal data they process within the scope of their activities abroad, if any
+determine what to do one by one and as a result, in relation to these data
+Determine whether it contains the conditions listed in Article 9 of the Law,
+In case of absence, it should not transfer abroad or ensure compliance with the Law.
+
+42
+
+Page 50
+
+9) Technical and Administrative Measures Taken for Processed Personal Data
+Determination
+According to paragraph 1 of Article 12 of the Law, the data controller; personal data illegal
+to prevent the processing of personal data, to prevent unlawful access to personal data, and
+to ensure the appropriate level of security in order to ensure the protection of personal data
+must take all necessary technical and administrative measures for
+Personal Data Protection Law
+ARTICLE 12 - (1) Data controller;
+a) To prevent the unlawful processing of personal data,
+b) To prevent unlawful access to personal data,
+c) To ensure the protection of personal data,
+all kinds of technical and administrative procedures necessary to ensure the appropriate level of security for the purpose of
+have to take measures.
+Accordingly, the nature of the personal data processed by the data controllers within the scope of their activities.
+It is necessary to determine the technical and administrative measures to be taken according to
+In the process of processing personal data, the technical and administrative
+providing clarity in practice on measures and setting good practice examples
+Personal Data Security Guide has been prepared by the Board for the purpose.
+
+43
+
+Page 51
+
+In addition, in accordance with the 4th paragraph of Article 6 of the Law, "Processing of Special Quality Personal Data"
+Regarding the "Adequate Precautions to be Taken by Data Controllers" dated 31/01/2018
+and it is necessary to take adequate measures as determined in its Decision No. 2018/10.
+Personal Data Protection Law
+ARTICLE 6 - (4) In the processing of personal data of special nature, additionally determined by the Board
+Adequate precautions must be taken.
+
+44
+
+Page 53
+52
+
+INVENTORY SAMPLE
+
+Page 54
+
+According to the definition in the Regulation on the Registry of Data Controllers, a minimum of
+as; data category, personal data processing purpose and legal reason, transferred recipient / recipient
+groups, data subject groups, personal data required for the purposes for which they are processed.
+maximum retention periods, personal data intended to be transferred to foreign countries, and
+technical and administrative measures taken regarding data security should be included.
+However, all personal data processed within the scope of the activities of data controllers
+In the aforementioned definition regarding the personal data contained in the information and documents in the processes, the minimum
+provided that the elements specified as
+It is recommended to include more of them in the Inventory.
+In this context, in line with the information explained above, generally every data controller
+human resources, support services, accounting and
+Considering some activities related to information processing units, it is exemplary.
+An inventory has been prepared and the Personal Data of each data controller regarding their activities and processes
+He needs to prepare the Data Processing Inventory.
+
+47
+
+Page 56
+55
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+Activity
+
+3 Human Resources
+
+4 Human Resources
+
+5 Human Resources
+
+6 Human Resources
+
+Employee Personnel
+Creating the File
+
+7 Human Resources
+
+Employee Personnel
+Creating the File
+
+TR Identity
+No.
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+Contract
+Signing
+
+from work
+on your departure
+from 10
+
+Telephone
+Its number
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+Contract
+Signing
+
+from work
+on your departure
+from 10
+
+Mother father
+First Name
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+Contract
+Signing
+
+from work
+on your departure
+from 10
+
+Education
+
+KPSS Score
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+in laws
+foresight
+
+from work
+on your departure
+from 10
+
+ID
+
+by caring
+Liable
+is
+Name of persons
+And Surname
+information
+
+in laws
+foresight
+
+from work
+on your departure
+from 10
+
+in laws
+foresight
+
+from work
+on your departure
+from 10
+
+Employees
+Employment Contract and
+employee and
+in laws
+Legislation Based
+Employee Relative foresight
+Your obligations
+Fulfillment
+
+from work
+on your departure
+from 10
+
+Personnel
+
+Employee Personnel
+Creating the File
+
+8 Human Resources
+
+Storage Drive
+
+Name surname
+
+ID
+
+Employee Personnel
+Creating the File
+
+Legal
+the reason
+
+from work
+on your departure
+from 10
+
+Contact
+
+Employee Personnel
+Creating the File
+
+Data Subject
+Contact Group
+
+Contract
+Signing
+
+ID
+
+Employee Personnel
+Creating the File
+
+Processing Purpose
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+ID
+
+Employee Personnel
+Creating the File
+
+2 Human Resources
+
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+Employee Personnel
+Creating the File
+
+1 Human Resources
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+Personnel
+
+For Employees
+Benefits and
+interests
+of processes
+Execution
+Human Resources
+processes
+execution
+
+Permission Information
+
+Property Notice
+Statement
+
+Working
+and Employee
+Relatives
+
+Employees
+
+Page 57
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+es
+
+es
+
+es
+
+SAFETY MEASURES TAKEN
+
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+es
+
+TRANSFER
+
+from work
+from leaving
+from 10 years
+
+SSI And Other
+Abroad
+Authorized Institution transfer
+and Organizations
+not done
+
+from work
+from leaving
+from 10 years
+
+SSI And Other
+Abroad
+Authorized Institution transfer
+and Organizations
+not done
+
+from work
+from leaving
+from 10 years
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+from work
+from leaving
+from 10 years
+
+SSI And Other
+Abroad
+Authorized Institution transfer
+and Organizations
+not done
+
+from work
+from leaving
+from 10 years
+
+Authorized Institution
+and Organizations
+
+from work
+from leaving
+from 10 years
+
+SSI And Other
+Abroad
+Authorized Institution transfer
+and Organizations
+not done
+
+from work
+from leaving
+from 10 years
+
+Authorized Institution
+and Organizations
+
+Abroad
+transfer
+not done
+
+from work
+from leaving
+from 10 years
+
+Authorized Institution
+and Organizations
+
+Abroad
+transfer
+not done
+
+Administrative Measures
+
+Technical Measures
+
+"Institution's Information Systems Equipment,
+Physical Security of Software and Data
+Necessary Precautions are Taken for
+To Prevent Fraud
+Risks Are Determined, Appropriate to These Risks
+"Qualification of Employees and Technical Knowledge/Technical Measures are Taken, Access
+Developing Skills, Personal Data
+Procedures for Distribution of Powers and Roles
+Prevention of Unlawful Processing,
+Being Created and Enforced, Authority
+Unlawful Access to Personal Data
+Matrix Implementing, Accesses Register
+Prevention, Retention of Personal Data
+Inappropriate Access
+Providing, Communication Techniques And
+Being Under Control, Storage And
+Trainings on Related Legislations
+Disposal Processes in Compliance with the Disposal Policy
+It is given; Confidentiality Agreements for Employees Defined and Applied, Legal
+Being signed; Security Policy And
+To the Relevant Person in Case of Detection of Contrary Processing
+For Employees Who Do Not Follow Their Proceduresand a system for reporting to the board
+Disciplinary Procedure to be Applied
+Building Infrastructure, Vulnerabilities
+Implemented, Disclosure to Relevant Persons
+Proper Security Patches Following
+Obligation Fulfilled, In-house
+Loading, Information Systems Up-to-Date
+Periodic and Random Inspections Are Performed
+Held, Personal Data Processed
+And Information Security for Employees
+Strong Passwords in Electronic Environments
+Training is provided."
+In Use And Secure Record Keeping
+(Logging) Systems Used, Personal
+Safe Storage of Data
+Providing Backup Programs
+It is used."
+
+Abroad
+transfer
+not done
+
+Page 58
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+Activity
+
+9
+
+10
+
+Human
+Sources
+
+11th
+
+Human
+Sources
+
+12
+
+In-Service Training
+Planning
+
+Human
+Sources
+
+13
+
+ID
+
+In-Service Training
+Planning
+
+Human
+Sources
+
+16
+
+Contact
+
+In-Service Training
+Planning
+
+Human
+Sources
+
+15
+
+ID
+
+In-Service Training
+Planning
+
+Human
+Sources
+
+14
+
+ID
+
+ID
+
+In-Service Training
+Planning
+
+finance
+
+Data Subject
+Contact Group
+
+Name surname
+
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+
+TR Identity
+No.
+
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+
+Telephone
+Its number
+
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+
+Name surname
+
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+
+TR Identity
+No.
+
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+Working
+to your satisfaction
+Oriented Education
+of activities
+Execution
+
+Bank IBAN
+information
+
+Legal Reason
+
+in laws
+foresight
+
+Employees
+Employment Contract and
+Legislation Based
+Employees
+Your obligations
+Fulfillment
+
+Health
+Report
+
+Health
+
+In-Service Training
+Planning
+
+Processing Purpose
+
+Employees
+Employment Contract and
+Criminal record
+Legislation Based
+Employees
+registration
+Your obligations
+Fulfillment
+
+Personnel
+
+Employee Personnel
+file
+Creation
+
+Human
+Sources
+
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+Employee Personnel
+file
+Creation
+
+Human
+Sources
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+Storage Drive
+
+from work
+on your departure
+from 10
+
+from work
+Your explicit consent
+on your departure
+Receiving
+from 10
+
+Employees
+
+Data
+from work
+of the person in chargeon your departure
+Legitimate Interests
+from 10
+
+Employees
+
+Data
+from work
+of the person in chargeon your departure
+Legitimate Interests
+from 10
+
+Employees
+
+Data
+from work
+of the person in chargeon your departure
+Legitimate Interests
+from 10
+
+Instructor
+
+Contract
+Signing
+
+your education
+at the end
+From 1 year
+
+Instructor
+
+Contract
+Signing
+
+your education
+at the end
+From 1 year
+
+Instructor
+
+Legal
+your obligation
+Fulfillment
+
+your education
+at the end
+From 1 year
+
+Page 59
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+TRANSFER
+
+SAFETY MEASURES TAKEN
+
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+from work
+from leaving
+from 10 years
+
+SSI And Other
+Abroad
+Authorized Institution transfer
+and Organizations
+not done
+
+from work
+from leaving
+from 10 years
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+from work
+from leaving
+from 10 years
+
+from work
+from leaving
+from 10 years
+
+from work
+from leaving
+from 10 years
+
+your education
+from the end
+From 1 year
+
+your education
+from the end
+From 1 year
+
+your education
+from the end
+From 1 year
+
+Administrative Measures
+
+Technical Measures
+
+"Administrative Measures Taken for Personal Data
+"Technique Received for Personal Data
+Besides, Private Personal Data
+Special Qualified Personal Beside the Precautions
+To Employees Involved in Processing Processes
+Policy on Data Security and
+Regular on Data Security Issues
+Procedures Are Determined, Access Authorities
+Trainings Are Given, This Data Is Processed
+It Is Defined, This Data Is Processed
+And the Security of Stored Environments
+Cryptographic Methods in Electronic Environment
+Precautions are taken, Unauthorized Entry and Exit
+In Use, Cryptographic Keys
+Blocking, Media Transfer
+Being Held in Secure Environments, Transaction
+Document "Confidentiality Grade If Necessary"
+Logs are Logged, Security Tests
+Documents are sent in "Format".
+It is done regularly."
+
+"Institution's Information Systems Equipment,
+For Physical Security of Software and Data
+Necessary Precautions Are Taken, Accesses
+Inappropriate Access by Registration
+"Qualification of Employees and Technical Knowledge/
+Being Under Control, Storage And
+Developing Skills, Personal Data
+Disposal Processes in Compliance with the Disposal Policy
+Prevention of Unlawful Processing,
+Defined and Applied, Legal
+Unlawful Access to Personal Data
+Relevant Person In Case of Detection of Contrary Processing And
+Prevention, Retention of Personal Data
+A System and Infrastructure for Notifying the Board
+Providing, Communication Techniques And
+Being Created, Information Systems Up-to-Date
+Trainings on Related Legislations
+It is kept in good condition, Personal Data is Processed
+It is given; Confidentiality Agreements for Employees Strong Passwords in Electronic Environments
+Being signed; In-house Periodic
+In Use, Secure Record Keeping
+And Random Checks Are Made And
+(Logging) Systems Used, Personal
+Information Security Trainings for Employees
+Safe Storage of Data
+It is provided."
+Providing Backup Programs
+Used And Electronic Or
+Personal Stored in Non-Media
+Access to Data, According to Access Principles
+It's limited."
+
+Page 60
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+17
+
+18
+
+19
+
+Activity
+
+ID
+
+ID
+
+movable and
+Immovable
+Management
+
+Support
+Services
+
+Processing Purpose
+Movable and Immovable
+Your Goods and Resources
+Logistics with Security
+
+Name surname
+
+Data Subject
+Contact Group
+
+Contact
+
+Movable and Immovable
+Your Goods and Resources
+Logistics with Security
+
+TR Identity
+No.
+
+Telephone
+Its number
+
+Storage Drive
+
+Employees
+
+from work
+on your departure
+from 10
+
+Employees
+
+Legal
+your obligation
+Fulfillment
+
+from work
+on your departure
+from 10
+
+Employees
+
+Legal
+your obligation
+Fulfillment
+
+from work
+on your departure
+from 10
+
+of activities
+Execution
+Movable and Immovable
+Your Goods and Resources
+Logistics with Security
+of activities
+
+Legal Reason
+
+Legal
+your obligation
+Fulfillment
+
+of activities
+Execution
+
+movable and
+Immovable
+Management
+
+Support
+Services
+
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+movable and
+Immovable
+Management
+
+Support
+Services
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+Execution
+
+20
+
+Support
+Services
+
+Tender Dossier
+Creation
+
+21
+
+Support
+Services
+
+Tender Dossier
+Creation
+
+22
+
+Support
+Services
+
+Tender Dossier
+Creation
+
+23
+
+Support
+Services
+
+Tender Dossier
+Creation
+
+24
+
+Support
+Services
+
+Tender Dossier
+Creation
+
+ID
+
+Name surname
+
+Buy Goods / Services
+Tender
+Procurement Processes
+participating
+Execution
+Real people
+
+ID
+
+TR Identity
+No.
+
+Buy Goods / Services
+Tender
+Procurement Processes
+participating
+Execution
+Real people
+
+in laws
+foresight
+
+of the tender
+at the end
+from 10
+
+Buy Goods / Services
+Tender
+Procurement Processes
+participating
+Execution
+Real people
+
+in laws
+foresight
+
+of the tender
+at the end
+from 10
+
+Buy Goods / Services
+Tender
+Procurement Processes
+participating
+Execution
+Real people
+
+in laws
+foresight
+
+of the tender
+at the end
+from 10
+
+Buy Goods / Services
+Tender
+Procurement Processes
+participating
+Execution
+Real people
+
+in laws
+foresight
+
+of the tender
+at the end
+from 10
+
+Location
+
+Contact
+
+ID
+
+Address information
+
+Telephone
+information
+
+Signature Statement
+
+in laws
+foresight
+
+of the tender
+at the end
+from 10
+
+Page 61
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+from work
+from leaving
+from 10 years
+
+SAFETY MEASURES TAKEN
+
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+from work
+from leaving
+from 10 years
+
+TRANSFER
+
+Administrative Measures
+
+Technical Measures
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+from work
+from leaving
+from 10 years
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+of the tender
+from the end
+from 10 years
+
+Public Tender
+Institution And
+Other Authorized
+Institution And
+Organizations
+
+Abroad
+transfer
+not done
+
+of the tender
+from the end
+from 10 years
+
+Public Tender
+Institution And
+Other Authorized
+Institution And
+Organizations
+
+Abroad
+transfer
+not done
+
+of the tender
+from the end
+from 10 years
+
+Public Tender
+Institution And
+Other Authorized
+Institution And
+Organizations
+
+Abroad
+transfer
+not done
+
+of the tender
+from the end
+from 10 years
+
+Public Tender
+Institution And
+Other Authorized
+Institution And
+Organizations
+
+Abroad
+transfer
+not done
+
+of the tender
+from the end
+from 10 years
+
+Public Tender
+Institution And
+Other Authorized
+Institution And
+Organizations
+
+Abroad
+transfer
+not done
+
+"Before You Start Processing Personal Data
+Disclosure to Relevant Persons by the Institution
+Obligation is Fulfilled and
+Information Security Trainings for Employees
+It is provided."
+
+"Institution's Information Systems Equipment,
+Physical Security of Software and Data
+Necessary Precautions are Taken for Access
+Procedures for Distribution of Powers and Roles
+Being Created and Implemented,
+Inappropriate by Recording Accesses
+Accesses Are Under Control,
+Electronic Processing of Personal Data
+Strong Passwords are Used in the Environment,
+Secure Record Keeping (Logging) Systems
+Used, Personal Data Safe
+Backup That Keeps It As
+Programs Used, Personal
+Access to Data, According to Access Principles
+It's limited."
+
+"Institution's Information Systems Equipment,
+Physical Security of Software and Data
+Necessary Precautions are Taken for
+"Before You Start Processing Personal Data
+Risks to Prevent Compromise Processing
+Disclosure to Relevant Persons by the Institution
+Determined, Appropriate Technique for These Risks
+Obligation is Fulfilled,
+Precautions are taken, Access, Authority and Role
+Qualification of Employees and Technical Knowledge/
+Establishing Procedures for their Distribution
+Developing Skills, Personal Data
+And Implemented, Accesses Registration
+Prevention of Unlawful Processing,
+Inappropriate Access
+Unlawful Access to Personal Data
+Being Under Control, Storage And
+Prevention, Retention of Personal Data
+Disposal Processes in Compliance with the Disposal Policy
+Providing, Communication Techniques And
+Defined and Applied, Legal
+Trainings on Related Legislations
+To the Relevant Person in Case of Detection of Contrary Processing
+It is given; Confidentiality Agreements for Employees and a system for reporting to the board
+Being signed; Security Policy And
+Building Infrastructure, Vulnerabilities
+For Employees Who Do Not Follow Their Procedures
+Proper Security Patches Following
+Disciplinary Procedure to be Applied
+Loading, Information Systems Up-to-Date
+Implemented, Disclosure to Relevant Persons
+Held, Personal Data Processed
+Obligation Fulfilled, In-house
+Strong Passwords in Electronic Environments
+Periodic and Random Inspections Are Performed
+Used, Personal Data Safe
+And Information Security for Employees
+Backup That Keeps It As
+Training is provided."
+Programs Used And Electronic
+Stored in Media with or Without
+Access to Personal Data, Access Principles
+Limited by."
+
+Page 62
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+25
+
+Activity
+
+Support
+Services
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+Incoming Document
+
+Processing Purpose
+
+Data Subject
+Contact Group
+
+Legal Reason
+
+Storage Drive
+
+Name surname
+
+Customer relationship
+Management
+Service Area
+of processes
+Persons
+Execution
+
+Legal
+your obligation
+Fulfillment
+
+10 years
+
+Telephone
+Its number
+
+Customer relationship
+Management
+Service Area
+of processes
+Persons
+Execution
+
+Legal
+your obligation
+Fulfillment
+
+10 years
+
+ID
+
+Name surname
+
+Visitor Registration
+creation and
+tracking
+
+Visitor
+
+Legal
+your obligation
+Fulfillment
+
+Your visit
+at the end
+From 6 a
+
+ID
+
+TR Identity
+No.
+
+Visitor Registration
+creation and
+tracking
+
+Visitor
+
+Legal
+your obligation
+Fulfillment
+
+Your visit
+at the end
+From 6 a
+
+Visitor
+
+Legal
+your obligation
+Fulfillment
+
+Your visit
+at the end
+From 6 a
+
+Visitor
+
+Legal
+your obligation
+Fulfillment
+
+Your visit
+at the end
+From 6 a
+
+Visitor
+
+Legal
+your obligation
+Fulfillment
+
+Your visit
+at the end
+From 6 a
+
+ID
+
+26
+
+Support
+Services
+
+Incoming Document
+
+27
+
+Support
+Services
+
+Building Entrance
+of outputs
+tracking
+
+28
+
+Support
+Services
+
+Building Entrance
+of outputs
+tracking
+
+29
+
+Support
+Services
+
+Building Entrance
+of outputs
+tracking
+
+30
+
+Support
+Services
+
+Building Entrance
+of outputs
+tracking
+
+31
+
+Support
+Services
+
+Building Entrance
+visual and
+of outputs
+Audio Recordings
+tracking
+
+Contact
+
+Personnel
+
+Contact
+
+Institution
+and Title
+information
+
+Visitor Registration
+creation and
+tracking
+
+Telephone
+Its number
+
+Visitor Registration
+creation and
+tracking
+Visitor Registration
+creation and
+tracking
+
+Camera
+registration
+
+Page 63
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+10 years
+
+Your visit
+from the end
+From 6 months
+Your visit
+from the end
+From 6 months
+Your visit
+from the end
+From 6 months
+Your visit
+from the end
+From 6 months
+Your visit
+from the end
+From 6 months
+
+SAFETY MEASURES TAKEN
+
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+10 years
+
+TRANSFER
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Administrative Measures
+
+Technical Measures
+
+"Before You Start Processing Personal Data
+Disclosure to Relevant Persons by the Institution
+Obligation is Fulfilled,
+"Institution's Information Systems Equipment,
+Qualification of Employees and Technical Knowledge/Physical Security of Software and Data
+Developing Skills, Personal Data
+Necessary Precautions are Taken for
+Prevention of Unlawful Processing,
+To Prevent Fraud
+Unlawful Access to Personal Data
+Risks Are Determined, Appropriate to These Risks
+Prevention, Retention of Personal Data
+Technical Measures are Taken, Access
+Providing, Communication Techniques And
+Procedures for Distribution of Powers and Roles
+Trainings on Related Legislations
+Being Created and Enforced, Authority
+It is given; Confidentiality Agreements for Employees Matrix Implementing, Accesses Register
+Being signed; Security Policy And
+Controlling Inappropriate Access
+For Employees Who Do Not Follow Their Procedures
+Secure Record Keeping
+Disciplinary Procedure to be Applied
+(Logging) Systems Used, Personal
+Implemented, Disclosure to Relevant Persons
+Safe Storage of Data
+Obligation Fulfilled, In-house
+Providing Backup Programs
+Periodic and Random Inspections Are Performed
+It is used."
+And Information Security for Employees
+Training is provided."
+"Institution's Information Systems Equipment,
+Physical Security of Software and Data
+Necessary Precautions are Taken for
+Risks to Prevent Compromise Processing
+"Before You Start Processing Personal Data
+Determined, Appropriate Technique for These Risks
+Disclosure to Relevant Persons by the Institution
+Taking Precautions, Access Authorization
+Obligation is Fulfilled,
+And Procedures for Role Distribution
+Confidentiality Agreements for Employees
+Being Created and Enforced, Authority
+Being signed; Security Policy And
+Matrix Implementing, Accesses Register
+For Employees Who Do Not Follow Their Procedures
+Controlling Inappropriate Access
+Disciplinary Procedure to be Applied
+Held Under, Vulnerabilities
+Implemented and Employee Information
+Proper Security Patches Following
+Safety Trainings are Provided."
+Uploading, Processing of Personal Data
+Strong Passwords in Electronic Environments
+Used, Personal Data Safe
+Backup That Keeps It As
+Programs Are Used."
+
+Page 64
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+32
+
+33
+
+34
+
+Activity
+
+Accounting
+
+ID
+
+Salary payments
+
+Accounting
+
+ID
+
+Salary payments
+
+Financial
+
+from work
+on your departure
+from 10
+
+Working
+
+Legal
+your obligation
+Fulfillment
+
+from work
+on your departure
+from 10
+
+Working
+
+Legal
+your obligation
+Fulfillment
+
+from work
+on your departure
+from 10
+
+to the meeting
+Confirmation of Participation,
+Statistical
+Participant
+for purposes
+Number of Participants
+Determination
+
+Data Controller
+As the Institution
+Legitimate Interest
+
+your event
+at the end
+from 10
+
+Participant
+
+Data Controller
+As the Institution
+Legitimate Interest
+
+your event
+at the end
+from 10
+
+Participant
+
+Data Controller
+As the Institution
+Legitimate Interest
+
+your event
+at the end
+from 10
+
+Participant
+
+Data Controller
+As the Institution
+Legitimate Interest
+
+your event
+at the end
+from 10
+
+Participant
+
+Data Controller
+As the Institution
+Legitimate Interest,
+Open Consent
+
+your event
+at the end
+from 10
+
+TR Identity
+No.
+
+Bank IBAN
+Its number
+
+For Employees
+from the legislation
+Welding
+Your obligations
+Fulfillment
+
+36
+
+Corporate
+Relationships
+
+conf. Participant
+of your information
+Receiving
+
+37
+
+Corporate
+Relationships
+
+conf. Participant
+of your information
+Receiving
+
+38
+
+Corporate
+Relationships
+
+conf. Participant
+of your information Professional Knowledge
+Profession
+Receiving
+
+Corporate
+Relationships
+
+conf. Participant
+visual and
+of your information
+Audio Recording
+Receiving
+
+Contact
+
+Working
+
+Legal
+your obligation
+Fulfillment
+
+For Employees
+from the legislation
+Welding
+Your obligations
+Fulfillment
+
+35
+
+Contact
+
+Legal Reason
+
+Name surname
+
+Corporate
+Relationships
+
+ID
+
+Data Subject
+Contact Group
+
+Processing Purpose
+For Employees
+from the legislation
+Welding
+Your obligations
+Fulfillment
+
+Conference
+Participant
+of your information
+Receiving
+
+39
+
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+Salary payments
+
+Accounting
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+Name surname
+
+Email
+
+Telephone
+Its number
+
+Photo
+
+Storage Drive
+
+Page 65
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+TRANSFER
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+from work
+from leaving
+from 10 years
+
+Bank,
+Abroad
+Court of Accounts, Finance
+transfer
+Ministry
+not done
+
+from work
+from leaving
+from 10 years
+
+Bank,
+Abroad
+Court of Accounts, Finance
+transfer
+Ministry
+not done
+
+from work
+from leaving
+from 10 years
+
+Bank,
+Abroad
+Court of Accounts, Finance
+transfer
+Ministry
+not done
+
+your event
+ion from the end
+10 years from
+
+your event
+ion from the end
+10 years from
+
+your event
+ion from the end
+10 years from
+
+your event
+ion from the end
+10 years from
+
+your event
+from the end
+10 years from
+
+ion
+
+SAFETY MEASURES TAKEN
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Administrative Measures
+
+Technical Measures
+
+"Before You Start Processing Personal Data
+"Institution's Information Systems Equipment,
+Disclosure to Relevant Persons by the Institution
+Physical Security of Software and Data
+Obligation is Fulfilled,
+Necessary Precautions are Taken for
+Qualification of Employees and Technical Knowledge/
+To Prevent Fraud
+Developing Skills, Personal Data
+Risks Are Determined, Appropriate to These Risks
+Prevention of Unlawful Processing,
+Technical Measures are Taken, Access
+Unlawful Access to Personal Data
+Procedures for Distribution of Powers and Roles
+Prevention, Retention of Personal Data
+Being Created and Enforced, Authority
+Providing, Communication Techniques And
+Matrix Implementing, Accesses Register
+Trainings on Related Legislations
+Inappropriate Access
+It is given; Confidentiality Agreements for Employees
+Being Under Control, Storage And
+Being signed; Security Policy And
+Disposal Processes in Compliance with the Disposal Policy
+For Employees Who Do Not Follow Their Procedures
+Defined and Applied, Legal
+Disciplinary Procedure to be Applied
+Relevant Person In Case of Detection of Contrary Processing And
+Implemented, Disclosure to Relevant Persons
+A System and Infrastructure for Notifying the Board
+Obligation to be Fulfilled, Institution
+Being Created, Information Systems Up-to-Date
+Periodic and Random Inspections
+Being Held."
+It is being done."
+"Unlawful Processing of Personal Data
+Risks for Prevention are Determined,
+Technical Measures Appropriate for These Risks
+Receiving, Access Authorization and Role Distribution
+Procedures are being created for and
+Implemented, Accesses Registered
+Taking Control of Inappropriate Accesses
+"Before You Start Processing Personal Data
+Contained, Storage and Disposal
+Disclosure to Relevant Persons by the Institution
+Disposal Processes in Compliance with the Policy
+Obligation is Fulfilled,
+Defined and Applied, Legal
+Confidentiality Agreements for Employees
+To the Relevant Person in Case of Detection of Contrary Processing
+Being signed; Security Policy And
+and a system for reporting to the board
+For Employees Who Do Not Follow Their Procedures
+Building Infrastructure, Vulnerabilities
+Disciplinary Procedure to be Applied
+Proper Security Patches Following
+Implemented and Employee Information
+Loading, Information Systems Up-to-Date
+Safety Trainings are Provided."
+Held, Personal Data Processed
+Strong Passwords in Electronic Environments
+Used, Personal Data Safe
+Backup That Keeps It As
+Programs Used And Electronic
+Stored in Media with or Without
+Access to Personal Data, Access Principles
+Limited by."
+
+Page 66
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+40
+
+41
+
+42
+
+43
+
+44
+
+45
+
+Activity
+
+Staff Attendance
+Control System
+
+Computing
+
+Staff Attendance
+Control System
+
+Computing
+
+Legal Reason
+
+Storage Drive
+
+Name surname
+
+2 years
+
+TR Identity
+No.
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Data
+of the person in charge
+Legitimate Interest
+
+2 years
+
+Professional Knowledge
+Title
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Data
+of the person in charge
+Legitimate Interest
+
+2 years
+
+Institution Registry
+Professional Knowledge
+No.
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Data
+of the person in charge
+Legitimate Interest
+
+2 years
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Data
+of the person in charge
+Legitimate Interest
+
+2 years
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Data
+of the person in charge
+Legitimate Interest
+
+2 years
+
+ID
+
+ID
+
+Contact
+
+Staff Attendance
+Control System
+
+Computing
+
+Data Subject
+Contact Group
+
+Data
+of the person in charge
+Legitimate Interest
+
+Staff Attendance
+Control System
+
+Computing
+
+Processing Purpose
+
+To the Institution Building
+Institution
+Entry and Exit
+its staff and
+Under control
+visitors
+eclipse
+
+Staff Attendance
+Control System
+
+Computing
+
+Special Qualified
+Personal Data
+
+Data Category Personal Data
+
+Staff Attendance
+Control System
+
+Computing
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+Contact
+
+Email
+
+Telephone
+Its number
+
+Page 67
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+2 years
+
+SAFETY MEASURES TAKEN
+
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Storage Time
+
+2 years
+
+TRANSFER
+
+Not transferring
+
+Administrative Measures
+
+Technical Measures
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+"With Penetration Tests
+Our Institution Information Systems
+Risk, Threat, Vulnerability And If Any
+"Before You Start Processing Personal Data
+Required by Revealing Openings
+Disclosure to Relevant Persons by the Institution
+Precautions are taken,
+Its Obligation is Fulfilled;
+Systems Equipment, Software and Data
+Confidentiality Agreements for Employees
+Necessary Precautions for Physical Safety
+Being signed; Security Policy And
+Receiving, Access Authorization and Role Distribution
+For Employees Who Do Not Follow Their Procedures Procedures are being created for and
+Disciplinary Procedure to be Applied
+Implemented, Accesses Registered
+Implemented, Disclosure to Relevant Persons
+Inappropriate Access Under Control
+Obligation Fulfilled, In-house
+Keeping, Storage and Disposal Policy
+Periodic and Random Inspections Are Performed
+Appropriate Disposal Processes Are Defined And
+And Information Security for Employees
+Applied, Personal Data Processing
+Training is provided."
+Strong Passwords in Electronic Environments
+Used, Personal Data Safe
+Backup That Keeps It As
+Programs are used. "
+
+Page 68
+PERSONAL DATA PROCESSING INVENTORY
+PROCESS
+
+ORGANIZATION
+
+Department
+
+46
+
+Activity
+
+Data Category Personal Data
+
+"Institution
+inside
+And Outside
+Real time
+Image Recording
+System"
+
+Computing
+
+STORAGE
+DESTRUCTION
+
+PERSONAL DATA
+
+ID
+
+Special Qualified
+Personal Data
+
+Processing Purpose
+
+Data Subject
+Contact Group
+
+Physical of the institution
+your safety
+Purpose to Provide
+Institution
+With, Institution
+its staff and
+inside
+visitors
+Outdoors
+Image Recording
+eclipse
+
+Picture
+
+Legal Reason
+
+Data
+of the person in charge
+Legal
+your obligation
+Fulfillment
+And Legitimate
+interest
+
+Page 69
+
+SING INVENTORY EXAMPLE
+STORAGE and
+DESTRUCTION
+Storage Time
+
+2 years
+
+TRANSFER
+Buyer / Recipient To Foreign Countries
+groups
+Transferred Data
+
+Not transferring
+
+Abroad
+transfer
+not done
+
+SAFETY MEASURES TAKEN
+Administrative Measures
+
+Before Starting Personal Data Processing
+Disclosure to Relevant Persons by the Institution
+Its Obligation is Fulfilled;
+Confidentiality Agreements for Employees
+It is signed and in-house periodic and
+Random Inspections Are Made.
+
+Technical Measures
+Our Institution with Penetration Tests
+Information Systems Risk, Threat,
+Weaknesses and Opennesses, If Any
+Removal and Necessary Precautions are Taken,
+Information Systems Equipment of the Institution,
+Physical Security of Software and Data
+Necessary Precautions are Taken for Access
+Procedures for Distribution of Powers and Roles
+Being Created and Implemented, Personal
+Safe Storage of Data
+Providing Backup Programs
+Used, Environmental Threats
+Counterinformation Systems Security
+Hardware (System
+Only Authorized Personnel Entry to the Room
+Providing Access Control System, 24/7
+Employee Monitoring System, Local Area Network
+Physical Forming Edge Keys
+Ensuring Safety, Fire Fighting
+System, Air Conditioning System Etc.) And
+Software (Firewalls, Attack
+Prevention Systems, Network Access Control,
+Systems that Block Malware
+etc.) Precautions are taken, Accesses
+Inappropriate Access by Registration
+Being Under Control, Storage And
+Disposal Processes in Compliance with the Disposal Policy
+Identified And Personal Data Is Processed
+Strong Passwords in Electronic Environments
+It is used.
+
+Page 70
+
+Nasuh Akar Mah. 1407. Street No: 4 06520
+Balgat - Cankaya / ANKARA
+Phone: 0 (312) 216 50 00
+www.kvkk.gov.tr
+
+Storage Drive
+
+2 years
+
+

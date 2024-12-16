@@ -1,0 +1,994 @@
+Page 1
+
+CONGRESS
+--------
+
+SOCIALIST REPUBLIC OF VIETNAM
+Independence - Freedom - Happiness
+--------------Hanoi, June 12, 2018
+
+Law No: 24/2018/QH14
+
+THE LAW
+NETWORK SECURITY
+Pursuant to the Constitution of the Socialist Republic of Vietnam;
+The National Assembly promulgates the Law on Cybersecurity.
+Chapter I
+GENERAL PROVISIONS
+Article 1. Scope
+This Law stipulates activities to protect national security and ensure social order and safety in Vietnam
+cyberspace; responsibilities of relevant agencies, organizations and individuals.
+Article 2. Interpretation of terms
+In this Law, the following terms are construed as follows:
+1. Cybersecurity is the assurance that operations in cyberspace do not cause harm to security
+national security, social order and safety, lawful rights and interests of agencies, organizations and individuals.
+2. Cybersecurity protection means preventing, detecting, stopping and handling acts of infringing upon security
+network.
+3. Cyberspace is the connecting network of information technology infrastructure, including the network
+telecommunications, Internet, computer networks, information systems, processing and control systems
+information, database; is a place where people perform social behaviors that are not limited by
+space and time.
+4. National cyberspace means cyberspace established, managed and controlled by the Government.
+5 . National cyber infrastructure is a system of physical and technical foundations for creating, transmitting,
+sending, collecting, processing, storing and exchanging information on national cyberspace, including:
+a) The transmission system includes the national transmission system, the transmission system connecting the
+economic, satellite systems and transmission systems of service providers on telecommunications networks
+telecommunications, the Internet, value-added services in cyberspace;
+b) System of core services including national information navigation and distribution system,
+National Domain Name Resolution System (DNS), National Authentication System (PKI/CA) and
+providing Internet connection and access services of service providers on telecommunications networks
+telecommunications, the Internet, value-added services in cyberspace;
+c) Information technology services and applications, including online services; technology application
+network-connected information serving the management and administration of agencies, organizations, economic groups, and financial institutions
+key key; national database.
+
+first
+
+Page 2
+
+Online services include e-government, e-commerce, websites, forums,
+online forums, social networks, blogs;
+d) Information technology infrastructure of smart cities, Internet of things, complex systems
+virtual reality, cloud computing, big data systems, fast data systems and intelligence systems
+artificial.
+6. The international network connection port is the place where the transmission and reception of network signals takes place between
+Vietnam and other countries and territories.
+7. Cybercrime is the act of using cyberspace, information technology or media
+electronically to commit crimes specified in the Penal Code.
+8. Cyber ​attack is an act of using cyberspace, information technology or means
+electronics to sabotage or disrupt the operation of telecommunications networks, the Internet, computer networks
+computers, information systems, information processing and control systems, databases, electric vehicles
+death.
+9. Cyber ​terrorism is the use of cyberspace, information technology or electronic means
+death to commit acts of terrorism, to finance terrorism.
+10. Cyber ​espionage is the intentional act of bypassing warnings, access codes, passwords, firewalls, using
+administrative rights of others or by other means to illegally appropriate or collect
+information, information resources on telecommunications networks, the Internet, computer networks, systems
+information, information processing and control systems, databases, electronic means of the agency,
+organizations and individuals.
+11. Digital account is information used for authentication, authentication, authorization to use applications,
+services in cyberspace.
+12. Cybersecurity threat is a situation in which cyberspace shows signs of threat of invasion
+violate national security, seriously damage social order and safety, and legitimate rights and interests
+laws of agencies, organizations and individuals.
+13. A cybersecurity incident is an unexpected event occurring in cyberspace that infringes upon national security
+family, social order and safety, lawful rights and interests of agencies, organizations and individuals.
+14. A dangerous cyber security situation is an event that occurs in cyberspace when there is an act
+seriously infringing upon national security, causing particularly serious harm to social order and safety
+associations, legitimate rights and interests of agencies, organizations and individuals.
+Article 3. State policies on cybersecurity
+1. To give priority to cyber security protection in national defense, security, socio-economic development, science,
+technology and foreign affairs.
+2. Building a healthy cyberspace that does not harm national security, order,
+social safety, legitimate rights and interests of agencies, organizations and individuals.
+3. Prioritize resources for building a specialized force for network security protection; capacity building
+for network security guards and organizations and individuals participating in cybersecurity protection; prioritize
+invest in research and development of science and technology to protect network security.
+
+2
+
+Page 3
+
+4. Encourage and create conditions for organizations and individuals to participate in cybersecurity protection and handling of threats
+threat to network security; research and develop technology, products, services and applications in order to
+network security protection; coordinate with authorities in protecting network security.
+5. Strengthening international cooperation on cybersecurity.
+Article 4. Principles of network security protection
+1. Comply with the Constitution and laws; ensure the interests of the State, legitimate rights and interests
+agencies, organizations and individuals.
+2. Under the leadership of the Communist Party of Vietnam, the unified management of the State; Huy
+mobilize the synergy of the political system and the whole nation; promote the core role of force
+dedicated to network security protection.
+3. Closely combine the task of protecting network security and protecting important information systems on the Internet
+national security with the task of socio-economic development, ensuring human and public rights
+people, creating conditions for agencies, organizations and individuals to operate in cyberspace.
+4. Actively prevent, detect, block, fight, and fail all usage activities
+cyberspace infringes upon national security, social order and safety, and legitimate rights and interests
+of agencies, organizations and individuals; ready to prevent threats to network security.
+5. Deploying cybersecurity protection activities for the national cyber infrastructure; pressure
+take measures to protect information systems important to national security.
+6. An information system important for national security is appraised and certified as qualified
+on network security before putting it into operation and use; regularly check and monitor safety
+network security during use and promptly respond to and overcome network security incidents.
+7. All acts of violating the law on network security must be handled promptly and strictly.
+Article 5. Measures to protect network security
+1. Measures to protect network security include:
+a) Assessment of network security;
+b) Assessment of network security conditions;
+c) Checking network security;
+d) Monitoring network security;
+dd) Respond to and remedy network security incidents;
+e) Fight for the protection of network security;
+g) Use cryptography to protect network information;
+h) Preventing, requesting to suspend or stop providing network information; suspend, temporarily suspend the
+establishment, supply and use of telecommunications networks, the Internet, production and use
+radio transmitters and receivers as prescribed by law;
+i) Request to delete, access and delete illegal or untrue information on the air
+Cyberspace infringes upon national security, social order and safety, and lawful rights and interests of agencies
+agencies, organizations and individuals;
+
+3
+
+Page 4
+
+k) Collecting electronic data related to activities infringing upon national security, order and safety
+society, legitimate rights and interests of agencies, organizations and individuals in cyberspace;
+l) Blockade, restrict the operation of the information system; suspend, suspend or request
+stop the operation of the information system, revoke the domain name in accordance with the law;
+m) Instituting, investigating, prosecuting and adjudicating according to the provisions of the Criminal Procedure Code;
+n) Other measures as prescribed by the law on national security and the law on handling of violations
+administrative.
+2. The Government shall prescribe the order and procedures for applying cyber security protection measures, except for measures
+specified at Points m and n Clause 1 of this Article.
+Article 6. National cyberspace protection
+The State applies measures to protect national cyberspace; prevention and handling
+violate national security, social order and safety, and lawful rights and interests of agencies and organizations
+organizations and individuals in cyberspace.
+Article 7. International cooperation on cybersecurity
+1. International cooperation on cybersecurity is carried out on the basis of respect for independence, sovereignty and
+territorial integrity, non-interference in each other's internal affairs, equality and mutual benefit.
+2. Contents of international cooperation on cybersecurity include:
+a) Research and analyze cybersecurity trends;
+b) Develop mechanisms and policies to promote cooperation between Vietnamese organizations and individuals and Vietnamese organizations and individuals
+foreign organizations and individuals and international organizations engaged in cybersecurity activities;
+c) Sharing information and experiences; support training, equipment and technology for network security protection;
+d) Preventing and combating cybercrime and acts of infringing upon network security; prevent threats
+threaten network security;
+dd) Consulting, training and developing human resources for cybersecurity;
+e) Organizing international conferences, seminars and forums on cybersecurity;
+g) Signing and implementing international treaties and agreements on cybersecurity;
+h) Implementation of international cooperation programs and projects on cybersecurity;
+i) Other international cooperation activities on cybersecurity.
+3. The Ministry of Public Security is answerable to the Government for presiding over and coordinating in the implementation of international cooperation in
+cyber security, except for international cooperation activities of the Ministry of National Defense.
+The Ministry of National Defense is responsible to the Government for international cooperation in cybersecurity
+within management.
+The Ministry of Foreign Affairs is responsible for coordinating with the Ministry of Public Security and the Ministry of National Defense in cooperation activities
+international cooperation on cybersecurity.
+The case of international cooperation in cybersecurity involves the responsibilities of many ministries and branches
+decided by the Government.
+
+4
+
+Page 5
+
+4. International cooperation on cyber security of other ministries, branches and localities must be in writing
+The Ministry of Public Security's consultation form before implementation, except for international cooperation activities of the Ministry
+Naitional defense.
+Article 8. Prohibited acts on network security
+1. Using cyberspace to perform the following acts:
+a) Acts specified in Clause 1, Article 18 of this Law;
+b) Organizing, operating, colluding, instigating, bribing, deceiving, enticing, training, training people;
+against the State of the Socialist Republic of Vietnam;
+c) Distorting history, denying revolutionary achievements, undermining the great national unity bloc, promoting
+religious violations, gender discrimination, racial discrimination;
+d) Untrue information causes confusion among the people, causing damage to socio-economic activities
+society, causing difficulties for the operation of state agencies or official duty performers, infringing upon
+lawful rights and interests of other agencies, organizations and individuals;
+dd) Prostitution, social evils, human trafficking; posting lewd, depraved, criminal information;
+undermining the nation's fine customs and traditions, social morality and the health of the community;
+e) Instigating, enticing or inciting others to commit crimes.
+2. Performing cyber attacks, cyber terrorism, cyber espionage, cybercrime; cause trouble, ton
+attack, infiltrate, hijack, falsify, interrupt, stall, paralyze, or disrupt
+sabotage important national security information systems.
+3. Producing, putting into use tools, means, software or obstructing or causing trouble
+disturbances in the operation of telecommunications networks, the Internet, computer networks, information systems, systems
+processing and controlling information and electronic means; Distributing computer programs harmful to activities
+activities of telecommunications networks, the Internet, computer networks, information systems, processing systems and
+control information, electronic means; illegally infiltrating telecommunications networks, computer networks
+computers, information systems, information processing and control systems, databases, electric vehicles
+someone else's death.
+4. Opposing or obstructing the operation of the network security protection force; attack, disable
+illegal, invalidating network security protection measures.
+5. Taking advantage of or abusing network security protection activities to infringe upon sovereignty, interests and security
+national security, social order and safety, lawful rights and interests of agencies, organizations and individuals
+or for profit.
+6. Other acts of violating the provisions of this Law.
+Article 9. Handling of violations of the law on cybersecurity
+Those who commit acts of violating the provisions of this Law shall, depending on the nature and seriousness of their violations,
+be disciplined, administratively handled or examined for penal liability, if causing damage
+shall be compensated according to the provisions of the law.
+chapter II
+NETWORK SECURITY PROTECTION FOR SECURITY IMPORTANT INFORMATION SYSTEM
+NINH COUNTRY
+5
+
+Page 6
+
+Article 10. Information system important for national security
+1. An information system important to national security is an information system in the event of an incident
+attempt, infiltrate, hijack, falsify, interrupt, stall, paralyze, attack or
+sabotage will seriously compromise network security.
+2. An important national security information system includes:
+a) Military, security, diplomatic and cipher information systems;
+b) An information system that stores and processes information classified as state secrets;
+c) An information system in service of storing and preserving artifacts and documents of particularly important value;
+d) An information system serving the preservation of materials and substances especially dangerous to humans, the environment, and the environment
+ecological school;
+dd) Information system in service of preservation, manufacture and management of other particularly important facilities
+related to national security;
+e) An important information system serving the activities of central agencies and organizations;
+g) The national information system in the fields of energy, finance, banking, telecommunications, transportation, etc
+transportation, natural resources and environment, chemicals, health care, culture, journalism;
+h) Automatic control and monitoring system at important works related to national security
+an important goal of national security.
+3. The Prime Minister promulgates and amends and supplements the List of important information systems
+on national security.
+4. The Government shall prescribe the coordination between the Ministry of Public Security, the Ministry of National Defense, the Ministry of Information and Communications
+telecommunications, Government Cipher Committee, Ministries and functional branches in the appraisal, assessment, audit
+inspect, supervise, respond to and remedy incidents of information systems important to national security
+family.
+Article 11. Cybersecurity assessment of information systems important for national security
+family
+1. Cybersecurity appraisal is the activity of reviewing and evaluating network security contents in order to
+as a basis for the decision to build or upgrade the information system.
+2. Subjects of cyber security assessment for information systems important to national security
+include:
+a) Pre-feasibility study report, construction design dossier of investment project on construction of information system;
+information before approval;
+b) Project on upgrading information system before approval.
+3. Contents of network security assessment for information systems important for national security
+include:
+a) Compliance with regulations and conditions on network security in the design;
+b) Conformity with the plan for protection, response and remedy of incidents and arrangement of security guard personnel
+network.
+
+6
+
+Page 7
+
+4. Competence to appraise network security for information systems important for national security
+is specified as follows:
+a) The specialized force for cybersecurity protection under the Ministry of Public Security conducts cyber security assessment for
+with information systems important for national security, except for the cases specified at points b and
+point c of this clause;
+b) The specialized force for cybersecurity protection under the Ministry of National Defense appraises network security
+for military information systems;
+c) The Government Cipher Committee conducts cyber security appraisal of the cipher information system under the Government Cipher Committee
+Government Mechanism.
+Article 12. Assessment of network security conditions for security-critical information systems
+nation
+1. Assessment of network security conditions is an activity to consider the network security response of the system
+information system before putting it into operation.
+2. An information system important for national security must satisfy the following conditions on:
+a) Regulations, processes and plans for ensuring network security; operating personnel, system administration
+system;
+b) Ensure network security for equipment, hardware and software that are system components;
+c) Technical measures to monitor and protect network security; control system protection measures and
+automatic monitoring, Internet of things, complex real-virtual systems, cloud computing, data systems
+big data, fast data system, artificial intelligence system;
+d) Measures to ensure physical security include special isolation, data leakage, antiinformation collection, access control.
+3. Competence to assess network security conditions for security-critical information systems
+The country is defined as follows:
+a) The specialized force for cyber security protection under the Ministry of Public Security assesses and certifies that they are eligible
+Cybersecurity conditions for information systems important for national security, except for cases specified in Clause 1 of this Article
+specified at Points b and c of this Clause;
+b) The specialized force for cybersecurity protection under the Ministry of National Defense assesses and certifies that it is sufficient
+cyber security conditions for military information systems;
+c) The Government Cipher Board assesses and certifies eligibility for network security for the system
+cipher information under the Government Cipher Committee.
+4. An information system important to national security is put into operation and used after
+Certified for network security.
+5. The Government shall detail Clause 2 of this Article.
+Article 13. Cybersecurity inspection of information systems important for national security
+1. Network security inspection means an activity to determine the current state of network security of an information system,
+information system infrastructure or information stored, processed, transmitted in the system
+information in order to prevent, detect and deal with threats to network security and propose methods to
+projects and measures to ensure the normal operation of the information system.
+7
+
+Page 8
+
+2. Cybersecurity check for information systems important for national security is carried out
+appear in the following cases:
+a) When putting electronic means and network information security services into use in the system;
+information;
+b) When there is a change in the current state of the information system;
+c) Annual periodical inspection;
+d) Unscheduled inspection upon occurrence of network security incidents or acts of infringing upon network security; when there's love
+demand for state management of network security; when the time limit expires to fix weaknesses and security holes
+according to the recommendations of the network security protection force.
+3. Subjects of network security inspection for information systems important for national security
+include:
+a) Hardware, software and digital equipment systems used in the information system;
+b) Regulations and measures to protect network security;
+c) Information is stored, processed and transmitted in the information system;
+d) Plan for responding to and overcoming network security incidents of the information system owner;
+d) Measures to protect state secrets and prevent and prevent disclosure and loss of state secrets through technical channels
+arts;
+e) Human resources to protect network security.
+4. The owner of an information system important to national security is responsible for security inspection
+network for information systems under its management in the case specified at Points a,
+b and c Clause 2 of this Article; notify the test results in writing before October of each year to
+the specialized force for cyber security protection under the Ministry of Public Security or the specialized force for cyber security protection
+cyber security guard under the Ministry of National Defense for military information systems.
+5. Unscheduled network security inspection of important national security information systems an
+is specified as follows:
+a) Before conducting the inspection, the network security protection force is responsible for:
+Responsible for notifying the information system administrator in writing at least 12 hours in school
+in the event of a network security incident or an act of infringing upon network security; at least 72 hours in school
+In case there is a request for state management of network security or the time limit for overcoming weaknesses and vulnerabilities has expired
+security holes as recommended by the network security protection force;
+b) Within 30 days from the date of completion of the inspection, the specialized force for security protection
+The network announces the test results and makes requests to the information system owners in the
+case of detecting weaknesses, security holes; guide or participate in troubleshooting when there is a problem
+recommendation of the information system owner;
+c) The specialized force for cybersecurity protection under the Ministry of Public Security inspects network security unexpectedly
+for information systems important to national security, excluding military information systems operated by
+Managed by the Ministry of Defense, the cipher information system belongs to the Government Cipher Department and products
+ciphers provided by the Government Cipher Board to protect information belonging to state secrets.
+
+8
+
+Page 9
+
+The Cybersecurity Task Force under the Ministry of National Defense inspects network security suddenly
+for military information systems.
+The Government Cipher Committee unexpectedly conducts an unexpected cyber security check on the cipher information system under the Government
+Government Cipher Board and cryptographic products provided by Government Cipher Board to protect information
+information belonging to state secrets;
+d) The owner of an information system important to national security is responsible for coordinating with the
+The network security protection team conducts unexpected network security checks.
+6. Network security test results are kept confidential according to the provisions of law.
+Article 14. Cybersecurity supervision of information systems important for national security
+1. Cybersecurity monitoring is the activity of collecting and analyzing the situation in order to identify threats to the network
+Cybersecurity threats, network security incidents, weaknesses, security holes, malicious code, malicious hardware
+to warn, correct, handle.
+2. The owner of an information system important to national security shall assume the prime responsibility for, and coordinate with the force
+in charge of network security protection has the authority to regularly conduct network security monitoring
+for information systems under its management; build a self-warning and scene-receiving mechanism
+report on network security threats, network security incidents, weaknesses, security holes, malicious code,
+malicious hardware and propose an emergency response and remediation plan.
+3. The network security protection force shall supervise the network security of the system
+system of important national security information under its management; warn and coordinate with
+management of information systems in overcoming and dealing with threats to network security, security incidents
+network security, weaknesses, security holes, malicious code, malicious hardware occurring to the information system
+important national security information.
+Article 15. Responding to and overcoming network security incidents for critical information systems
+National security
+1. Activities of responding to and overcoming network security incidents for security-critical information systems
+National security includes:
+a) Detect and identify network security incidents;
+b) Protect the scene, collect evidences;
+c) Blockade, limit the scope of network security incidents, limit damage caused by security incidents
+caused network;
+d) Identification of targets, subjects and scope of rescue;
+dd) Verify, analyze, evaluate and classify network security incidents;
+e) Implement plans to respond to and remedy network security incidents;
+g) Cause verification and traceability;
+h) Investigate and handle in accordance with law.
+2. The owner of an important national security information system shall develop a response plan,
+troubleshoot network security incidents for information systems under their management; deployment
+a plan to respond and overcome when a network security incident occurs and promptly report it to the force
+competent in charge of network security protection.
+9
+
+Page 10
+
+3. Coordinating activities to respond to and remedy network security incidents for important information systems
+The importance of national security is regulated as follows:
+a) The specialized cyber security force under the Ministry of Public Security shall assume the prime responsibility for coordinating activities
+respond to and remedy network security incidents occurring to security-critical information systems
+country, except for the cases specified at Points b and c of this Clause; participate in response and remediation
+network security incidents for important national security information systems upon request;
+notify the information system owner when detecting network attacks or network security incidents;
+b) The specialized force for cybersecurity protection under the Ministry of National Defense shall assume the prime responsibility for coordinating the activities of the Ministry of National Defense
+responding to and overcoming cyber security incidents occurring to military information systems;
+c) The Government Cipher Committee assumes the prime responsibility for coordinating activities to respond to and remedy cyber security incidents
+happened to the cipher information system under the Government Cipher Committee.
+4. Agencies, organizations and individuals are responsible for participating in responding to and overcoming cybersecurity incidents
+happens to important national security information systems at the request of the force
+presiding over coordination.
+Chapter III
+PREVENTION AND HANDLING OF CIRCULAR SECURITY VIOLATIONS
+Article 16. Prevention and handling of information in cyberspace with propaganda content
+against the State of the Socialist Republic of Vietnam; inciting riots, disrupting security
+security, causing public disorder; humiliate, slander; infringing upon the order of economic management
+1. Information on cyberspace with propaganda content against the State of the Socialist Republic
+Vietnameseism includes:
+a) Propaganda, distorting and defaming the people's administration;
+b) Psychological warfare, inciting wars of aggression, division, hatred among nations, religions
+religion and people of the countries;
+c) Offending the nation, the national flag, the national emblem, the national anthem, great men, leaders, famous people, national heroes.
+2. Information on cyberspace contains inciting content, causing riots, disrupting security or causing disturbances
+Public order includes:
+a) Calling, mobilizing, instigating, threatening, causing division, carrying out armed activities or using violence;
+force against the people's government;
+b) Calling for, mobilizing, instigating, threatening, or luring a large gathering of people to cause trouble or oppose the executor.
+public duties, obstructing the operation of agencies and organizations, causing instability in security and order.
+3. Information on cyberspace with humiliating or slanderous content includes:
+a) Serious offense against the honor, reputation and dignity of others;
+b) Fabricated or untrue information infringes upon honor, reputation, dignity or causes damage to
+legitimate rights and interests of other agencies, organizations and individuals.
+4. Information on cyberspace with content infringing upon the economic management order includes:
+a) Fabricated or false information about products, goods, money, bonds, bills, bonds, checks
+and other valuable papers;
+ten
+
+Page 11
+
+b) Fabricated and untrue information in the field of finance, banking, e-commerce, payment;
+electronic accounting, currency trading, capital mobilization, multi-level trading, securities.
+5. Information on cyberspace with fabricated and untrue content causes confusion in Humanity
+people, causing damage to socio-economic activities, causing difficulties for the operation of state agencies
+state or official duty, infringing upon the lawful rights and interests of agencies, organizations or individuals
+other kernel.
+6. Information system owners are responsible for implementing management and technical measures to prevent
+prevent, detect, block and remove information with contents specified in Clauses 1, 2, 3, 4 and 5
+This is on the information system under management when requested by the specialized force
+responsible for network security.
+7. Cybersecurity protection force and competent agencies apply measures
+specified at Points h, i and l, Clause 1, Article 5 of this Law to process information in space
+network with the content specified in Clauses 1, 2, 3, 4 and 5 of this Article.
+8. Enterprises providing services on telecommunications networks, the Internet, and value-added services on the Internet
+cyberspace and information system administrators are responsible for coordinating with authorities
+processing information in cyberspace with the contents specified in Clauses 1, 2, 3, 4 and 5 Articles
+this.
+9. Organizations and individuals that draft, post, and distribute information in cyberspace with content specified
+specified in Clauses 1, 2, 3, 4 and 5 of this Article, information must be removed at the request of the force
+specialized in protecting network security and taking responsibility according to the provisions of law.
+Article 17. Prevention and combat of cyber espionage; protect information belonging to state secrets, secrets
+business secrets, business secrets, personal secrets, family secrets and private life on
+cyberspace
+1. Acts of cyber espionage; infringing upon state secrets, work secrets, business secrets,
+Personal secrets, family secrets and private life in cyberspace include:
+a) Appropriating, trading in, seizing, intentionally disclosing information belonging to state secrets, work secrets, secrets;
+business secrets, personal secrets, family secrets, and private lives that affect your reputation
+participation, prestige, dignity, lawful rights and interests of agencies, organizations and individuals;
+b) Deliberately deleting, damaging, losing or changing information belonging to state secrets, work secrets,
+Business secrets, personal secrets, family secrets and private lives are transmitted and stored
+in cyberspace;
+c) Intentionally changing, canceling or invalidating technical measures developed and applied to protect
+protect information belonging to state secrets, work secrets, business secrets, personal secrets, and secrets
+family and private life;
+d) Posting on cyberspace information belonging to state secrets, work secrets, business secrets, etc
+business secrets, personal secrets, family secrets and private life contrary to the provisions of law;
+dd) Deliberately listening to, illegally recording or recording conversations;
+e) Other acts of intentionally infringing upon State secrets, work secrets, business secrets, personal secrets;
+personal, family secrets and private life.
+2. Information system owners have the following responsibilities:
+11
+
+Page 12
+
+a) Check network security to detect and remove malicious code, malicious hardware, and fix points
+weak, security holes; detect, prevent and deal with illegal intrusion activities or
+other threats to network security;
+b) Deploy management and technical measures to prevent, detect and stop acts of espionage
+network, infringing on state secrets, work secrets, business secrets, personal secrets, family secrets, etc
+family and private life on the information system and promptly remove information related to behavior
+this vi;
+c) Coordinating and complying with requests of the specialized cyber security force on prevention and combat of cockroaches
+cyber-espionage, protection of information belonging to state secrets, work secrets, business secrets, and personal secrets
+personal, family secrets and private life on information systems.
+3. Agencies that draft and archive information and documents belonging to state secrets shall have to protect secrets
+State secrets are compiled, stored on computers, other devices, or exchanged in space
+network in accordance with the law on protection of state secrets.
+4. The Ministry of Public Security has the following responsibilities, except for the provisions in Clauses 5 and 6 of this Article:
+a) Inspecting the network security of information systems important to national security in order to develop
+detect, remove malicious code, malicious hardware, overcome weaknesses, security holes; detect, prevent
+blocking and handling illegal intrusion activities;
+b) Check network security for communication equipment, products, services and technical equipment
+digital, electronic equipment before being put into use in a security-critical information system
+nation;
+c) Monitoring network security for information systems important to national security in order to develop
+carry out and handle illegal collection of information belonging to state secrets;
+d) Detect and handle acts of illegally posting, storing and exchanging information and documents with content
+belonging to state secrets in cyberspace;
+dd) Participating in research and production of products for storing and transmitting information and documents with content
+belonging to state secrets; products that encrypt information in cyberspace according to their functions and tasks
+assigned service;
+e) Inspecting and examining the protection of state secrets in cyberspace by state agencies
+water and protect the network security of the owner of an information system important to national security;
+g) Organize training, raise awareness and knowledge on protection of state secrets on
+cyberspace, prevention and combat of cyberattacks, cyber security protection for security forces
+network security specified in Clause 2, Article 30 of this Law.
+5. The Ministry of National Defense is responsible for implementing the contents specified at Points a, b, c, d, dd and e
+Clause 4 of this Article applies to military information systems.
+6. The Government Cipher Committee is responsible for organizing the implementation of the provisions of law in
+use cryptography to protect information of state secrets stored and exchanged in space
+network.
+Article 18. Prevention and control of acts of using cyberspace, information technology and means
+to violate the law on national security, social order and safety
+
+twelfth
+
+Page 13
+
+1. Acts of using cyberspace, information technology, and electronic means to violate the law
+Laws on national security, social order and safety include:
+a) Posting or disseminating information in cyberspace with the content specified in Clauses 1, 2, 3, 4
+and 5 Article 16 and the acts specified in Clause 1, Article 17 of this Law;
+b) Appropriating property; organizing gambling, gambling via the Internet; telecommunications charge theft
+international on the Internet; piracy and intellectual property in cyberspace;
+c) Forging websites of agencies, organizations or individuals; counterfeit, circulate, steal,
+illegally buying, selling, collecting and exchanging credit card and bank account information of others;
+illegally issuing, providing, using payment means;
+d) Propaganda, advertisement, purchase and sale of goods and services on the banned list as prescribed by law
+law;
+d) Instructing others to commit illegal acts;
+e) Other acts of using cyberspace, information technology, and electronic means to commit violations
+law on national security, social order and safety.
+2. The network security protection force has the responsibility to prevent and combat acts of using
+cyberspace, information technology, and electronic means to violate the law on security
+nation, social order and safety.
+Article 19. Prevention and combat of cyber attacks
+1. Cyberattack acts and acts related to cyberattacks include:
+a) Distributing computer programs harmful to telecommunications networks, the Internet, computer networks,
+information systems, information processing and control systems, databases, electronic means;
+b) Illegally obstructing, disrupting, paralyzing, interrupting, stopping or stopping the work;
+data transmission of telecommunications networks, the Internet, computer networks, information systems,
+information processing and control systems, electronic means;
+c) Infiltrating, damaging or appropriating data stored or transmitted via telecommunications networks,
+Internet, computer networks, information systems, information processing and control systems, facilities
+data, electronic means;
+d) Infiltrate, create or exploit weaknesses, security holes and system services to take advantage of
+information, gain illicit profits;
+dd) Producing, buying, selling, exchanging or donating tools, equipment, and software with cyber attack features
+telecommunications, Internet, computer networks, information systems, processing and control systems
+information, databases and electronic means to be used for illegal purposes;
+e) Other acts that affect the normal operation of telecommunications networks, the Internet,
+computer networks, information systems, information processing and control systems, databases,
+electronic gadget.
+2. Information system owners are responsible for applying technical measures to prevent,
+blocking the behavior specified at Points a, b, c, d and e, Clause 1 of this Article with respect to the information system
+under management.
+
+13
+
+Page 14
+
+3. When a cyber attack infringes or threatens to infringe upon national sovereignty, interests and security lợi
+causing serious damage to social order and safety, the specialized force to protect network security
+assume the prime responsibility for, and coordinate with the owner of the information system and relevant organizations and individuals in applying measures
+methods of determining the origin of cyber attacks, collecting evidence; Ask the business to provide services
+services on telecommunications networks, the Internet, and additional services in cyberspace
+information to prevent and eliminate cyberattacks and provide adequate and timely information and resources
+whether related.
+4. Responsibilities for preventing and combating cyber attacks are prescribed as follows:
+a) The Ministry of Public Security shall assume the prime responsibility for, and coordinate with relevant ministries and branches in, the prevention and
+carry out or handle the acts specified in Clause 1 of this Article infringing or threatening to infringe upon the sovereignty,
+interests and national security, seriously harming social order and safety nationwide,
+except for the cases specified at Points b and c of this Clause;
+b) The Ministry of National Defense shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, preventing,
+detect and handle acts specified in Clause 1 of this Article with respect to military information systems;
+c) The Government Cipher Committee shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, performing preventive work
+prevent, detect and handle the acts specified in Clause 1 of this Article with respect to cipher information systems
+of the Government Cipher Committee.
+Article 20. Prevention and combat of cyber-terrorism
+1. Competent state agencies are responsible for applying measures in accordance with the Law
+This article, Article 29 of the Law on Cyberinformation Security and the law on prevention and combat of terrorism to handle
+cyber terrorism.
+2. The information system owner regularly reviews and inspects the information system within its scope
+management to eliminate the risk of cyber terrorism.
+3. When detecting signs and acts of cyber terrorism, agencies, organizations and individuals must promptly report them
+for the network security force. The news-receiving agency is responsible for fully receiving
+informing about cyber-terrorism and promptly informing the specialized force of security protection
+network.
+4. The Ministry of Public Security shall assume the prime responsibility for, and coordinate with relevant ministries and branches in, implementing the prevention and control work
+cyber-terrorism, applying measures to neutralize sources of cyber-terrorism, dealing with cyber-terrorism,
+to minimize the consequences to the information system, except for the case specified in
+Clauses 5 and 6 of this Article.
+5. The Ministry of National Defense shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, implementing the prevention and combat
+cyber-terrorism, applying measures to handle cyber-terrorism occurring to military information systems
+the.
+6. The Government Cipher Committee shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, implementing prevention and control work.
+fight against cyber-terrorism, apply measures to deal with cyber-terrorism occurring to information systems
+ciphers under the Government Cipher Committee.
+Article 21. Prevention and handling of dangerous cyber security situations
+1. Dangerous situations about network security include:
+
+14
+
+Page 15
+
+a) Occurrence of provocative information in cyberspace is likely to cause riots and disrupt security;
+security, terrorism;
+b) Attacks on important national security information systems;
+c) Attacking many information systems on a large scale and with high intensity;
+d) Cyber ​attacks aimed at destroying important national security works and important targets
+on national security;
+d) Cyber ​attacks seriously infringe upon national sovereignty, interests and security; cause special damage
+seriously discriminating social order and safety, and lawful rights and interests of agencies, organizations and individuals
+multiply.
+2. Responsibilities for preventing dangerous cyber security situations are prescribed as follows:
+a) The network security protection force shall coordinate with the owner of the important information system
+national security, deploying technical and professional solutions to prevent, detect,
+handle dangerous situations about network security;
+b) Telecommunications, Internet, information technology enterprises, and service providers on the Internet
+telecommunications networks, the Internet, added services in cyberspace and agencies, organizations,
+Relevant individuals are responsible for coordinating with the network security protection force
+under the Ministry of Public Security in preventing, detecting and handling dangerous situations in cyber security.
+3. Measures to handle dangerous cyber security situations include:
+a) Immediately deploy the plan for prevention and emergency response to cybersecurity, prevent and eliminate
+reduce or mitigate damage caused by dangerous cyber security situations;
+b) Notify relevant agencies, organizations and individuals;
+c) Collect relevant information; continuous monitoring and supervision for dangerous situations in terms of safety
+network security;
+d) Analyze and evaluate information, forecast the possibility, scope of influence and extent of damage caused by the situation
+dangerous situations caused by network security;
+dd) Stop providing network information in a specific area or disconnect the international network connection port;
+e) Arrange forces and means to prevent and eliminate dangerous situations in terms of network security;
+g) Other measures as prescribed by the National Security Law.
+4. The handling of dangerous cyber security situations is prescribed as follows:
+a) When detecting dangerous situations on network security, agencies, organizations and individuals promptly
+notify the network security protection force and immediately apply regulatory measures
+specified at Points a and b, Clause 3 of this Article;
+b) The Prime Minister considers, decides or authorizes the Minister of Public Security to consider,
+decide and handle dangerous cyber security situations nationwide or at each location
+or towards a particular goal.
+The Prime Minister considers, decides or authorizes the Minister of National Defense to see
+consider, decide and handle dangerous cyber security situations for military information systems
+and the cipher information system under the Government Cipher Committee;
+15
+
+Page 16
+
+c) The Cybersecurity Protection Force shall assume the prime responsibility for, and coordinate with agencies, organizations and individuals in
+concerned apply the measures specified in Clause 3 of this Article to handle dangerous situations
+network security risks;
+d) Relevant agencies, organizations and individuals are responsible for coordinating with the specialized forces
+network security guards take measures to prevent and handle dangerous security situations
+network security.
+Article 22. Fight to protect network security
+1. Fighting for the protection of network security is an organized activity conducted by a specialized security force
+Cybersecurity is performed in cyberspace in order to protect national security and ensure order and security
+all society.
+2. Contents of the fight to protect network security include:
+a) To grasp the situation related to national security protection activities;
+b) Preventing and combating attacks and protecting the stable operation of security-critical information systems;
+national security;
+c) Paralyzing or restricting the use of cyberspace to damage security
+country or cause particularly serious harm to social order and safety;
+d) Actively disabling targets in cyberspace in order to protect national security
+and ensure social order and safety.
+3. The Ministry of Public Security shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, the struggle for security protection
+network.
+Chapter IV
+NETWORK SECURITY PROTECTION ACTIVITIES
+Article 23. Deployment of cybersecurity protection activities in state agencies and main organizations
+central and local administration
+1. Contents of implementing network security protection activities include:
+a) Formulate and finalize regulations and regulations on the use of internal computer networks and computer networks with Internet connection
+Internet connection; plans to ensure network security for information systems; application plan
+Deputy, troubleshooting network security incidents;
+b) Applying and implementing plans, measures and technologies to protect network security for the system
+information and information, documents are stored, compiled and transmitted on the information system under the
+management scope;
+c) Organize training on cybersecurity knowledge for officials, public servants, public employees and employees
+motion; improve the network security protection capacity for the network security guard force;
+d) Protecting network security in the provision of public services in cyberspace.
+exchange and collect information with agencies, organizations and individuals, share information internally and with other agencies
+other agencies or in other activities as prescribed by the Government;
+dd) Invest in and build physical infrastructure suitable to conditions to ensure operation
+protecting network security for information systems;
+16
+
+Page 17
+
+e) Checking network security for information systems; preventing and combating violations of the law on
+network security; respond and troubleshoot network security incidents.
+2. Heads of agencies or organizations are responsible for implementing cybersecurity protection activities
+under management.
+Article 24. Cybersecurity inspection of agencies and organizations' information systems
+on the List of important information systems for national security
+1. Cybersecurity inspection of information systems of agencies and organizations that are not on the List
+information system important for national security in the following cases:
+a) When there is an act of violating the law on cyber security infringing upon national security or causing damage to
+seriously harm social order and safety;
+b) At the request of the information system owner.
+2. Subjects of network security inspection include:
+a) Hardware, software and digital equipment systems used in the information system;
+b) Information is stored, processed and transmitted in the information system;
+c) Measures to protect state secrets and prevent and prevent disclosure and loss of state secrets through technical channels
+art.
+3. The owner of the information system is responsible for notifying the specialized force of security protection
+Cybersecurity under the Ministry of Public Security when detecting violations of the law on network security on the system
+information systems under management.
+4. The specialized cyber security force under the Ministry of Public Security conducts security inspection
+network for information systems of agencies and organizations in the cases specified in Clause 1
+This.
+5. Before conducting the inspection, the network security protection force shall notify:
+in writing to the information system owner at least 12 hours.
+Within 30 days from the date of completion of the inspection, the specialized force of security protection
+The network announces the test results and makes requests to the information system owners in the
+case of detecting weaknesses, security holes; guide or participate in troubleshooting when there is a problem
+recommendation of the information system administrator.
+6. Network security test results are kept confidential according to the provisions of law.
+7. The Government shall prescribe the order and procedures for network security inspection specified in this Article.
+Article 25. Cybersecurity protection for national cyber infrastructure and gateways
+international network
+1. Cybersecurity protection for national cyber infrastructure, network gateway cổng
+The international community must ensure a close combination between the requirements of network security protection with the development requirements
+Socioeconomic; encouraging international gateways to be located on the Vietnamese territory; encourage the team
+organizations and individuals participating in the construction of national cyber infrastructure.
+2. Agencies, organizations and individuals that manage and exploit national cyber infrastructure, portals
+international network connections have the following responsibilities:
+17
+
+Page 18
+
+a) Protecting network security under its management; subject to the management, inspection, examination and implementation
+requirements on cybersecurity protection of competent state agencies;
+b) Create conditions and implement necessary technical and professional measures for state agencies to have
+competence to perform the task of protecting network security upon request.
+Article 26. Ensuring information security in cyberspace
+1. Website, web portal or specialized page on social network of the agency
+Agencies, organizations and individuals are not allowed to provide, post or transmit information with prescribed content
+in Clauses 1, 2, 3, 4 and 5, Article 16 of this Law and other information with content infringing upon security
+national security.
+2. Domestic and foreign enterprises providing services on telecommunications networks and networks
+Internet, value-added services in cyberspace in Vietnam have the following responsibilities:
+a) Verify information when a user registers a digital account; information security, account of
+user; provide user information to the network security protection task force
+under the Ministry of Public Security upon a written request to serve the investigation and handling of illegal acts
+law on network security;
+b) Prevent information sharing, delete information with contents specified in Clauses 1, 2, 3,
+4 and 5, Article 16 of this Law on services or information systems directly operated by agencies or organizations
+management within 24 hours from the time of request of the specialized security force
+cybersecurity under the Ministry of Public Security or a competent agency of the Ministry of Information and Communications and
+keeping system logs to serve the investigation and handling of violations of the law on network security in the
+time as prescribed by the Government;
+c) Failing to provide or stop providing services on telecommunications networks, the Internet, other services;
+Additional services for organizations and individuals that post on cyberspace information with prescribed content
+in Clauses 1, 2, 3, 4 and 5, Article 16 of this Law at the request of the specialized security force
+cyber security guard under the Ministry of Public Security or a competent agency of the Ministry of Information and Communications
+pine.
+3. Domestic and foreign enterprises providing services on telecommunications networks and networks
+Internet, added services in cyberspace in Vietnam have activities of collecting,
+exploit, analyze and process data about personal information, data about user relationships
+services, data created by service users in Vietnam must store this data in Vietnam
+South within the time prescribed by the Government.
+Foreign enterprises specified in this Clause must set up branches or representative offices in Vietnam
+Vietnam.
+4. The Government shall detail Clause 3 of this Article.
+Article 27. Research and development of cybersecurity
+1. Cybersecurity research and development contents include:
+a) Building software systems and equipment for network security protection;
+b) Standard and limited method of evaluating software and equipment for network security protection
+existence of weaknesses, security holes, malware;
+c) Methods to check that the provided hardware and software perform the correct functions;
+18
+
+Page 19
+
+d) Methods of protecting state secrets, work secrets, business secrets, personal secrets,
+family secrets and private life; security when transmitting information in space
+network;
+dd) Determining the origin of information transmitted in cyberspace;
+e) Addressing threats to network security;
+g) Building a network gymnasium, a network security testing environment;
+h) Technical initiatives to raise awareness and skills on network security;
+i) Forecast of network security;
+k) Practical research, development of network security theory.
+2. Relevant agencies, organizations and individuals have the right to research and develop network security.
+Article 28. Enhance autonomy in cyber security
+1. The State encourages and creates conditions for agencies, organizations and individuals to improve their autonomy capacity
+on network security and improving the ability to manufacture, test, evaluate and verify digital devices,
+network services, network applications.
+2. The Government takes the following measures to enhance the autonomy in cyber security for:
+agencies, organizations and individuals:
+a) Promote the transfer, research, mastery and development of technologies, products, services and applications
+used to protect network security;
+b) Promote the application of new and advanced technologies related to network security;
+c) Organize training, development and use of cybersecurity human resources;
+d) Strengthening the business environment, improving competitive conditions to support enterprises in research and development
+Research and manufacture products, services and applications to protect network security.
+Article 29. Protection of children in cyberspace
+1. Children have the right to be protected, have access to information, participate in social activities, have fun and be entertained,
+privacy, privacy and other rights when participating in cyberspace.
+2. Information system owners, service providers on telecommunications networks, networks
+Internet, added services in cyberspace are responsible for controlling information content
+on the information system or on the service provided by the enterprise so as not to cause harm to
+children, infringing upon children, children's rights; prevent the sharing and removal of content containing information
+content that causes harm to children, infringes upon children and children's rights; promptly notify, coordinate
+with the specialized force for cybersecurity protection under the Ministry of Public Security for handling.
+3. Agencies, organizations and individuals participating in activities in cyberspace are responsible for coordination
+with competent authorities in ensuring children's rights in cyberspace, preventing
+information with content harmful to children according to the provisions of this Law and the law on children.
+4. Agencies, organizations, parents, teachers, caregivers of children and other related individuals
+responsibility to ensure children's rights, protect children when participating in cyberspace according to regulations
+legislation on children.
+
+19
+
+Page 20
+
+5. The network security protection force and competent authorities are responsible for applying
+take measures to prevent, detect, prevent and strictly handle acts of using space
+Networking causes harm to children, infringes on children and children's rights.
+Chapter V
+SECURITY ACTIVITIES SECURITY SECURITY
+Article 30. Cybersecurity protection force
+1. The specialized force for cybersecurity protection shall be located at the Ministry of Public Security and the Ministry of National Defense.
+2. Cybersecurity protection forces shall be arranged at ministries, branches, provincial-level People's Committees, agencies,
+organizations that directly manage information systems important to national security.
+3. Organizations and individuals may be mobilized to participate in cybersecurity protection.
+Article 31. Assurance of human resources to protect network security
+1. Vietnamese citizens have knowledge of network security, network information safety, information technology
+Information is a basic resource, mainly protecting network security.
+2. The State has programs and plans to build and develop human resources for security protection
+network.
+3. When a dangerous situation on network security, cyber terrorism, cyber attack, security incident occurs cố
+network security or threats to network security, competent state agencies shall decide to
+human resources to protect network security.
+Competence, responsibilities, order and procedures for mobilizing human resources to protect network security are implemented
+comply with the provisions of the National Security Law, the National Defense Law, the People's Public Security Law and regulations
+other provisions of relevant laws.
+Article 32. Recruitment, training and development of cybersecurity guards
+1. Vietnamese citizens who meet the criteria for moral qualities, health, qualifications and knowledge of
+network security, network information security, information technology, if you want, you can apply
+recruited into the network security force.
+2. Prioritize training and development of high-quality cyber security guards.
+3. Prioritize the development of cybersecurity training institutions that meet international standards; encourage links,
+create opportunities for cooperation on cybersecurity between the public and private sectors, domestic and
+foreign.
+Article 33. Education and retraining of cybersecurity knowledge and skills
+1. Contents of education and fostering of cybersecurity knowledge are included in national education subjects
+room and security in schools, defense and security knowledge training program
+according to the provisions of the Law on National Defense and Security Education.
+2. The Ministry of Public Security shall assume the prime responsibility for, and coordinate with concerned ministries and branches in, organizing security training courses
+network for the network security force and civil servants, public employees and employees participating in security
+network security.
+The Ministry of National Defense and the Government Cipher Committee organize training courses on cyber security for subjects
+subject under management.
+20
+
+Page 21
+
+Article 34. Dissemination of knowledge about cybersecurity
+1. The State shall adopt a policy of disseminating knowledge about cyber security nationwide
+Encourage state agencies to coordinate with private organizations and individuals to implement educational programs
+and raise awareness of network security.
+2. Ministries, branches, agencies and organizations are responsible for formulating and implementing information dissemination activities
+Cybersecurity knowledge for officials, civil servants, public employees and employees in ministries, branches and agencies
+agency, organization.
+3. Provincial-level People's Committees are responsible for formulating and implementing knowledge dissemination activities,
+raise awareness of cyber security for local agencies, organizations and individuals.
+Article 35. Funds for network security protection
+1. Funds for cybersecurity protection of state agencies and political organizations shall be funded by the state budget
+guaranteed and included in the annual state budget estimate. The management and use of economic
+Fees from the state budget shall comply with the law on state budget.
+2. Funds for network security protection for information systems of agencies and organizations other than those specified in
+Clause 1 of this Article is guaranteed by agencies or organizations.
+Chapter VI
+RESPONSIBILITIES OF AGENCIES, ORGANIZATIONS, INDIVIDUAL
+Article 36. Responsibilities of the Ministry of Public Security
+The Ministry of Public Security is responsible to the Government for performing the state management of cybersecurity and
+has the following duties and powers, except for the contents under the responsibility of the Ministry of National Defense and the Department of Defense:
+Weak Government:
+1. To promulgate or submit to competent state agencies for promulgation and implementation guidelines
+legal documents on network security;
+2. Develop and propose strategies, guidelines, policies, plans and plans for security protection
+network;
+3. Preventing and fighting against activities of using cyberspace to infringe upon sovereignty, interests,
+national security, social order and safety and prevention and combat of cybercrime;
+4. Ensuring information security in cyberspace; building a mechanism to authenticate registration information
+account number; warning, sharing network security information, threats to network security;
+5. Advise and propose the Government and the Prime Minister to consider and decide on the assignment,
+coordinate in implementing measures to protect network security, prevent and handle acts of infringing upon security
+network security in the case that the content of state management is related to the management scope of many
+Ministries and branches;
+6. Organize drills to prevent and combat cyber attacks; security incident response and remedial drills cố
+network for information systems important to national security;
+7. Examine, inspect, settle complaints and denunciations and handle violations of the law on network security.
+Article 37. Responsibilities of the Ministry of National Defense
+
+21
+
+Page 22
+
+The Ministry of National Defense is responsible to the Government for performing the state management of cybersecurity
+within the scope of management and has the following duties and powers:
+1. To promulgate or submit to competent state agencies for promulgation and implementation guidelines
+legal documents on network security within the scope of management;
+2. Develop and propose strategies, guidelines, policies, plans and plans for security protection
+network under management;
+3. Preventing and fighting activities using cyberspace to infringe on national security ninh
+within the scope of management;
+4. Coordinating with the Ministry of Public Security in organizing drills on prevention and combat of cyber attacks, response drills,
+troubleshoot network security problems for important national security information systems, deploy
+implementation of network security protection;
+5. Examine, inspect, settle complaints and denunciations and handle violations of the law on network security
+within management.
+Article 38. Responsibilities of the Ministry of Information and Communications
+1. Cooperate with the Ministry of Public Security and the Ministry of National Defense in protecting network security.
+2. Coordinating with relevant agencies in propagating and opposing information with content
+against the State of the Socialist Republic of Vietnam as provided for in Clause 1, Article 16 of the Law
+this.
+3. Requesting enterprises to provide services on telecommunications networks, the Internet, home services
+increase in cyberspace, information system owners remove information with infringing content
+the law on network security on services and information systems provided by enterprises, agencies and organizations
+direct management.
+Article 39. Responsibilities of the Government Cipher Committee
+1. Advise and propose the Minister of National Defense to promulgate or submit to competent authorities
+promulgate and organize the implementation of legal documents, programs and plans on cryptography to
+Cybersecurity protection is under the management of the Government Cipher Board.
+2. Cybersecurity protection for cipher information systems under the Government Cipher Committee and products
+cryptographic products provided by the Government Cipher Board in accordance with this Law.
+3. Unified management of cryptographic scientific and technological research; produce, use, and supply products
+cryptographic products to protect information of state secrets stored and exchanged in space
+network.
+Article 40. Responsibilities of ministries, branches and provincial-level People's Committees
+Within the ambit of their tasks and powers, ministries, branches and provincial-level People's Committees have the responsibility to:
+Responsible for the protection of network security for information and information systems under its jurisdiction
+micro management; coordinate with the Ministry of Public Security in performing the state management of cybersecurity of ministries, branches,
+local.
+Article 41. Responsibilities of service providers in cyberspace
+1. Enterprises providing services on cyberspace in Vietnam have the following responsibilities:
+
+22
+
+Page 23
+
+a) Warning about the possibility of network insecurity in the use of services in cyberspace due to
+provide and guide preventive measures;
+b) Develop plans and solutions to quickly respond to network security incidents and handle them immediately
+vulnerabilities, security holes, malicious code, cyber attacks, network intrusions and other security risks; when it happens
+network security incidents, immediately deploy emergency plans, appropriate response measures,
+and at the same time report to the network security protection force in accordance with this Law;
+c) Apply technical solutions and other necessary measures to ensure security for
+the process of collecting information, preventing the risk of disclosure, leakage, damage or loss of data; case happen
+or there is a risk of an incident of disclosure, leakage, damage or loss of user information, it is necessary to establish
+immediately provide a response solution, and at the same time notify the user and report to the force
+specialized in protecting network security according to the provisions of this Law;
+d) Coordinating and creating conditions for the specialized force to protect network security in security protection
+network.
+2. Enterprises providing services on telecommunications networks, the Internet, and value-added services on the Internet
+Cyberspace in Vietnam is responsible for complying with the provisions of Clause 1 of this Article, Clause 2
+and Clause 3, Article 26 of this Law.
+Article 42. Responsibilities of agencies, organizations and individuals using cyberspace
+1. Comply with the provisions of the law on network security.
+2. Timely provide information related to network security protection, network security threats,
+acts of infringing upon network security for competent agencies and network security protection forces.
+3. To comply with requests and instructions of competent agencies in protecting network security; help
+support and create conditions for responsible agencies, organizations and persons to take protective measures
+network security.
+Chapter VII
+TERMS ENFORCEMENT
+Article 43. Effect
+1. This Law takes effect from January 1, 2019.
+2. Information systems in operation and in use are included in the List of important information systems
+important to national security, within 12 months from the effective date of this Law, the
+The information system is responsible for ensuring that the network security conditions are met, and the specialized force
+cyber security guard assesses network security conditions according to the provisions of Article 12 of this Law;
+in case the extension is required, decided by the Prime Minister but not exceeding 12 months.
+3. Information systems in operation and in use are added to the list of information systems
+important to national security, within 12 months from the date of addition, the system owner
+The information system is responsible for ensuring that network security conditions are met, and the specialized force for security
+cyber security guards assess network security conditions according to the provisions of Article 12 of this Law;
+in case the extension is required, decided by the Prime Minister but not exceeding 12 months.
+This Law was approved by the XIV National Assembly of the Socialist Republic of Vietnam, 5th session
+passed on June 12, 2018.
+
+23
+
+Page 24
+
+PRESIDENT OF CONGRESS
+
+Nguyen Thi Kim Ngan
+
+24
+
+

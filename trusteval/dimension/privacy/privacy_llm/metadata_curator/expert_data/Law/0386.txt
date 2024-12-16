@@ -1,0 +1,776 @@
+Page 1
+
+Guidelines for the protection of personal information in the financial sector
+Practical guidelines for safety management measures, etc.
+
+February 2017
+Personal Information Protection Commission
+Financial Services Agency
+
+Page 2
+
+Guidelines for the protection of personal information in the financial sector
+Practical guidelines for safety management measures, etc.
+
+table of contents
+
+I. Security management measures stipulated in Article 8 of the Guidelines for the Protection of Personal Information in the Financial Sector
+Implementation ................................................ ................ 1
+(1) Development of basic policies and handling rules related to the safety management of personal data ..................... 1
+1-1 Establishment of basic policy regarding security management of personal data ..................... 1
+1-2 Preparation of handling rules related to the safety management of personal data ........................... 1
+1-3 Establishing rules for checking and auditing the handling status of personal data ................ 1
+1-4 Preparation of rules for outsourcing .................................................. .. 2
+(2) Establishing an implementation system for personal data security management measures ............ 2
+1) Organizational safety management measures related to the development of the implementation system ........................ 2
+2-1 Appointment of personal data management manager, etc ..................... 2
+2-2 Development of safety management measures in work regulations, etc ....................................... 3
+2-3 Operation in accordance with the handling rules for the safety management of personal data .................. 3
+2-4 Development of means for checking the handling status of personal data ............ 4
+2-5 Inspection of handling status of personal data and establishment and implementation of audit system .............. 4
+2-6 Establishing a system to deal with leaks, etc. ................................ 5
+2) Human safety management measures related to the development of the implementation system ................................ 5
+3-1 Conclusion of non-disclosure contracts for personal data with employees ..................... 5
+3-2 Clarification of employee roles and responsibilities ..................................... 6
+3-3 Thorough dissemination of safety management measures to employees, education and training ..... 6
+3-4 Confirmation of compliance status of personal data management procedures by employees ..................... 6
+3) Technical safety management measures related to the development of the implementation system ........................ 6
+4-1 Identification and authentication of users of personal data .................................. 7
+4-2 Setting of management classification of personal data and access control .................. 7
+4-3 Management of access authority to personal data .................................. 7
+4-4 Measures to prevent leakage and damage of personal data .................. 7
+4-5 Recording and analysis of access to personal data ........................ 8
+4-6 Recording and analysis of the operating status of information systems that handle personal data ......... 8
+4-7 Monitoring and auditing of information systems that handle personal data ..................... 8
+II. "Employee supervision" stipulated in Article 9 of the Guidelines for the Protection of Personal Information in the Financial Sector
+about ................................................. ................... 8
+
+Page 3
+
+III. "Supervision of contractors" stipulated in Article 10 of the Guidelines for the Protection of Personal Information in the Financial Sector
+about ................................................. ................... 9
+5-1 ・ 5-2 Criteria for selecting a contractor for personal data protection ..................... 9
+5-3-5-4 Contents related to safety management that should be included in the consignment contract .......... 10
+(Attachment 1) Established in Article 8, Paragraph 5 (2) of the Guidelines for the Protection of Personal Information in the Financial Field
+Handling rules for safety management at each management stage ..................... 11
+6-1 Handling rules at the acquisition / input stage ..................... 11
+6-2 Handling rules at the usage / processing stage ..................... 11
+6-3 Handling rules at the storage / preservation stage ..................... 13
+6-4 Handling rules at the transfer / transmission stage ..................... 14
+6-5 Handling rules at the erasure / disposal stage ..................... 14
+6-6 Handling rules at the stage of responding to leaks, etc ........................ 15
+(Attachment 2) “Subtleties” stipulated in Article 5 of the Guidelines for the Protection of Personal Information in the Financial Field
+Handling of "sensitive) information" (including biometric information) ............. 16
+7-1 ・ 7-2 ..................................................... ............... 1 6
+(Attachment 3) Individuals stipulated in Article 2, Paragraph 4 of the Guidelines for the Protection of Personal Information in the Financial Field
+Membership management at human credit information agencies ..................... 19
+8-1 Qualification examination ........................................................ ............. 1 9
+8-2 Monitoring .................................................................. ........ 1 9
+8-3 Disposal for improper use ..................................... .. 19
+8-4 External audit ........................................................ ............. 19
+
+Page 4
+
+I. Security management measures stipulated in Article 8 of the Guidelines for the Protection of Personal Information in the Financial Sector
+About implementation
+
+(1) Development of basic policies and handling rules related to the safety management of personal data
+
+(Development of basic policy regarding security management of personal data)
+1-1 Guidelines for the protection of personal information in the financial field (2017 Personal Information Protection Commission)
+Membership / Financial Services Agency Notification No. 1. Hereinafter referred to as "financial sector guidelines". ) Stipulated in Article 1, Paragraph 1
+Businesses handling personal information in the financial sector are required to use the financial sector guidelines, Article 8, Paragraph 5 (1).
+Based on (1), we have formulated a basic policy regarding the safety management of personal data that stipulates the following matters.
+The basic policy must be announced and the basic policy must be reviewed as necessary.
+I.
+① Name of business operator handling personal information
+② Contact point for handling questions and complaints regarding safety management measures
+③ Declaration regarding the security management of personal data
+④ Declaration of continuous improvement of basic policy
+⑤ Declaration of compliance with related laws and regulations
+
+(Development of handling rules related to the safety management of personal data)
+1-2 Businesses handling personal information in the financial field are required to use the financial field guidelines, Article 8, Paragraph 5 (1).
+As the "establishment of handling rules related to the safety management of personal data" stipulated in (2), the financial sector guideline
+In Handling related to safety management at each management stage of personal data specified in Article 8, Paragraph 5 (2)
+Regulations will be prepared, and the matters stipulated in Attachment 1 will be stipulated for each management stage, and if necessary.
+The regulations must be reviewed.
+For small businesses that handle all management stages by the same person, each management stage
+Instead of stipulating handling rules, the handling rules for safety management throughout all management stages
+It is also permitted to establish the following matters.
+① Roles and responsibilities of the handler
+② Limited to handlers
+③ Procedures required for security management of personal data at each management stage
+
+(Inspection of handling status of personal data and maintenance of regulations related to auditing)
+1-3 Businesses handling personal information in the financial field are required to use the financial field guidelines, Article 8, Paragraph 5 (1).
+Based on ③, we have established rules for inspections and audits regarding the handling status of personal data, and the following:
+The paragraphs shall be established and the regulations shall be reviewed as necessary.
+In addition, in the case of a business operator with a single department handling personal data, auditing will be replaced by inspection.
+
+1
+
+Page 5
+
+It is also admitted.
+① Purpose of inspection and audit
+② Inspection and audit implementation department
+③ Roles and responsibilities of the person in charge of inspection and the person in charge of inspection
+④ Roles and responsibilities of the person in charge of audit and the person in charge of audit
+⑤ Procedures related to inspections and audits
+
+(Development of regulations related to outsourcing)
+1-4 Businesses handling personal information in the financial field are listed in Article 8, Paragraph 5 (1) of the Financial Field Guidelines.
+Based on ④, we have established handling rules for outsourcing, stipulated the following items, and regularly
+The regulations must be reviewed.
+① Criteria for selecting contractors
+(2) Contents related to safety management that should be included in the consignment contract
+
+(2) Establishing an implementation system for personal data security management measures
+
+1) Organizational safety management measures related to the development of the implementation system
+
+Businesses handling personal information in the financial field are based on Article 8, Paragraph 6 of the Financial Field Guidelines.
+As "organizational security management measures" in the development of the implementation system for security management measures for personal data
+Then, the following measures must be taken.
+① Appointment of a person in charge of managing personal data
+(2) Development of safety management measures in work regulations, etc.
+③ Operation in accordance with the handling rules related to the safety management of personal data
+④ Development of means to check the handling status of personal data
+⑤ Inspection of the handling status of personal data and establishment and implementation of an audit system
+⑥ Establishing a system to respond to leaks, etc.
+
+(Establishment of personal data management manager, etc.)
+2-1 The business operator handling personal information in the financial field says, "Establishment of a person in charge of managing personal data, etc."
+Then, the following officers must be appointed.
+(1) Personal data management manager who is the general manager of business execution related to personal data safety management
+(2) Personal data manager in each department that handles personal data
+In addition, in the business where the personal data handling department is single, the person in charge of personal data management is individual.
+It is also permitted to concurrently serve as a human data manager. The person in charge of personal data management is an organization
+
+2
+
+Page 6
+
+If there is, it must be a person responsible for business execution such as a director or executive officer.
+
+(Note) Businesses handling personal information in the financial field say, "Appointing a person in charge of managing personal data, etc."
+Then, a department or a collegial committee is established to supervise the inspection and improvement of the handling of personal data.
+It is desirable to place it.
+
+2-1-1 Businesses handling personal information in the financial field are the personal data tubes specified in 2-1 ①.
+The responsible person must be in charge of the following operations.
+(1) Approval and dissemination of rules regarding the safety management of personal data and criteria for selecting contractors
+(2) Appointment of personal data manager and manager of "information on identity verification" specified in 4-1
+③ Collection of reports from personal data managers and advice / guidance
+④ Planning of education and training on the safety management of personal data
+⑤ Other matters related to the safety management of personal data in all businesses handling personal information
+
+2-1-2 Businesses handling personal information in the financial field are the personal data management specified in 2-1②.
+The scholar must be in charge of the following tasks.
+(1) Management of designation and change of personal data handlers
+② Approval of application for use of personal data and management of records, etc.
+③ Designation and change of installation location of storage media that handles personal data, etc.
+④ Management of personal data Management of settings and changes regarding classification and authority
+⑤ Understanding the handling status of personal data
+⑥ Supervision of the handling status of personal data at the contractor
+⑦ Implementation of education and training on the safety management of personal data
+⑧ Report to the person in charge of personal data management
+⑨ Other matters related to the safety management of personal data in the department in charge
+
+(Development of safety management measures in work regulations, etc.)
+2-2 Businesses handling personal information in the financial field said, "Preparation of safety management measures in work regulations, etc."
+As "equipment", the following matters are stipulated in the work regulations, etc., and personal data with employees is not collected.
+Disclosure agreements, etc. must be concluded.
+① Roles and responsibilities of employees regarding the handling of personal data
+② Disciplinary action in case of violation
+
+(Operation in accordance with the handling rules related to the safety management of personal data)
+2-3 Businesses handling personal information in the financial field are "Rules for handling personal data security"
+As "operation in accordance with", we have established a system in accordance with the handling rules related to the safety management of personal data.
+
+3
+
+Page 7
+
+Operate in accordance with the handling rules, and record the status of compliance with the matters stipulated in the handling rules.
+And confirmation must be made.
+
+(Development of means to check the handling status of personal data)
+2-4 Businesses handling personal information in the financial field are "hands that can check the handling status of personal data"
+As "maintenance of steps", a ledger, etc. including the following matters must be maintained.
+① Acquisition items
+② Purpose of use
+③ Storage location / storage method / storage period
+④ Management department
+⑤ Access control status
+
+(Inspection of handling status of personal data and establishment and implementation of audit system)
+2-5 Businesses handling personal information in the financial field said, "Inspection and audit of the handling status of personal data.
+As "improvement and implementation of the system", we have established an inspection system that the department that handles personal data will carry out by itself.
+In addition to conducting inspections, an audit system by persons other than the relevant department must be established and audits must be conducted.
+Must be.
+In addition, in the case of a business operator with a single department handling personal data, auditing will be replaced by inspection.
+It is also admitted.
+
+2-5-1 Businesses handling personal information in the financial field are in the department that handles personal data.
+Inspect by appointing the person in charge of inspection and the person in charge of inspection and formulating an inspection plan.
+A system must be put in place and regular and extraordinary inspections must be carried out. Also, after the inspection
+If you find out what is in violation of the regulations, you must improve it.
+
+2-5-2 Businesses handling personal information in the financial field are subject to audit when conducting audits.
+A person in charge of auditing / auditing is appointed from a department other than the department that handles personal data, and the auditing entity
+In addition to ensuring independence, an audit system will be established by formulating an audit plan, and regular audits will be conducted.
+And extraordinary audits must be conducted. In addition, after the audit, matters that violate the regulations, etc.
+When you understand, you must improve it.
+If the audit department handles personal data for audit work, etc., the department will handle the personal data.
+Regarding the handling of personal data, the person who is specifically appointed by the person in charge of personal data management actually audits it.
+Must be given.
+
+(Note) Businesses handling personal information in the financial field are safeguards to deal with new risks.
+Follow personal information protection measures and the latest technological trends for evaluation, review and improvement of legal measures
+
+Four
+
+Page 8
+
+Confirmation of in-house response by a person who has sufficient knowledge of information security measures (required)
+If necessary, it includes making use of persons with external knowledge to confirm. ) Etc.
+Is desirable.
+
+(Establishment of a system to deal with leaks, etc.)
+2-6 Businesses handling personal information in the financial field are "establishing a system to deal with leaks, etc."
+As a result, the following systems must be established.
+① Corresponding department
+(2) Investigation system regarding the effects and causes of leaks, etc.
+③ Examination system for recurrence prevention measures and post-measures
+④ Reporting system inside and outside the company
+
+2-6-1 Businesses handling personal information in the financial field are based on 1-2③ or 6-6-1.
+In addition to establishing a reporting system inside and outside the company, if a leak occurs, the following is listed.
+Must be implemented.
+① Report to supervisors, etc.
+② Notification to the person, etc.
+③ Facts such as leaked cases from the viewpoint of prevention of secondary damage and avoidance of similar cases
+Immediate announcement of recurrence prevention measures, etc.
+
+2) Human safety management measures related to the development of the implementation system
+
+Businesses handling personal information in the financial field are based on Article 8, Paragraph 6 of the Financial Field Guidelines.
+As a "personal safety management measure" in the establishment of an implementation system for personal data safety management measures
+The following measures must be taken.
+① Conclusion of non-disclosure contracts for personal data with employees
+② Clarification of employee roles and responsibilities
+③ Thorough dissemination of safety management measures to employees, education and training
+④ Confirmation of compliance status of personal data management procedures by employees
+
+(Conclusion of non-disclosure contract of personal data with employees)
+3-1 Businesses handling personal information in the financial field are "non-disclosure contracts for personal data with employees, etc."
+As a "conclusion of personal data", we will conclude a non-disclosure contract of personal data with a subordinate at the time of hiring, etc.
+Work rules, etc. that stipulate disciplinary action in the event of violation of disclosure contracts, etc. must be established.
+
+Five
+
+Page 9
+
+(Clarification of employee roles and responsibilities)
+3-2 Businesses handling personal information in the financial field shall "clarify the roles and responsibilities of employees".
+The following measures must be taken.
+① Clarification of the roles and responsibilities of employees regarding the handling of personal data at each management stage
+(2) Setting of personal data management classification and access authority
+③ Establishing work rules, etc. that stipulate disciplinary action in case of violation
+④ Review of regulations, etc. as necessary
+
+(Thorough dissemination of safety management measures to employees, education and training)
+3-3 Businesses handling personal information in the financial field said, "Thoroughly inform employees of safety management measures.
+The following measures must be taken as "education and training".
+① Education for employees at the time of hiring and regular education / training
+(2) Education and training for personal data managers and personal data managers
+③ Dissemination of disciplinary action in the event of violation of work rules, etc. related to the safety management of personal data
+④ Evaluation and regular review of education and training for employees
+
+(Confirmation of compliance status of personal data management procedures by employees)
+3-4 Businesses handling personal information in the financial field said, "Compliance with personal data management procedures by employees.
+As "confirmation of observance status", compliance with the matters stipulated in the handling rules for the safety management of personal data in 1-2
+Regarding the observance status, we will record and confirm based on 2-3, and check and confirm based on 2-5.
+An audit must be conducted.
+
+3) Technical safety management measures related to the development of the implementation system
+
+Businesses handling personal information in the financial field are based on Article 8, Paragraph 6 of the Financial Field Guidelines.
+As a "technical security management measure" in the development of an implementation system for personal data security management measures
+Then, the following measures must be taken.
+① Identification and authentication of users of personal data
+(2) Setting of personal data management classification and access control
+③ Management of access authority to personal data
+④ Measures to prevent leakage and damage of personal data
+⑤ Recording and analysis of access to personal data
+⑥ Recording and analysis of the operating status of information systems that handle personal data
+⑦ Monitoring and auditing of information systems that handle personal data
+
+6
+
+Page 10
+
+(Identification and authentication of users of personal data)
+4-1 Businesses handling personal information in the financial field are "identifying and authenticating users of personal data"
+As a result, the following measures must be taken.
+① Maintenance of identity verification function
+(2) Development of a function to prevent unauthorized use of information related to identity verification
+③ Measures to prevent others from knowing information about identity verification
+
+(Setting of personal data management category and access control)
+4-2 Businesses handling personal information in the financial field are asked to "set personal data management categories and access".
+The following measures must be taken as "Seth control".
+(1) Setting management categories and access privileges according to the roles and responsibilities of employees
+(2) Access control for non-authorized persons inside the business operator
+③ Measures to prevent unauthorized access from the outside
+
+4-2-1 Businesses handling personal information in the financial field said, "Measures to prevent unauthorized access from the outside.
+The following measures must be taken as "placement".
+① Limitation of accessible communication routes
+(2) Maintenance of unauthorized intrusion prevention function from external network
+③ Maintenance of unauthorized access monitoring function
+④ Maintenance of access control function by network
+
+(Management of access authority to personal data)
+4-3 Businesses handling personal information in the financial field should "manage access authority to personal data"
+As a result, the following measures must be taken.
+(1) Appropriate granting and review of access authority to personal data for employees
+(2) Limit the number of employees who are granted access to personal data to the minimum necessary
+③ Limit the access rights given to employees to the minimum necessary
+
+(Measures to prevent leakage and damage of personal data)
+4-4 Businesses handling personal information in the financial field are "measures to prevent leakage and damage of personal data"
+As well as taking measures to protect personal data, technical response and recovery procedures in the event of a failure
+Must be maintained.
+
+4-4-1 Businesses handling personal information in the financial field "take measures to protect personal data"
+As a result, the following measures must be taken.
+① Measures to prevent leakage of accumulated data
+
+7
+
+Page 11
+
+(2) Measures to prevent leakage of transmitted data
+③ Defense measures against malicious programs such as computer viruses
+
+4-4-2 Businesses handling personal information in the financial field said, "Technical response / recovery measures in the event of a failure.
+The following measures must be taken as "continuation maintenance".
+(1) Preparation of response / recovery procedures in case of unauthorized access
+(2) Countermeasures for damage caused by malicious programs such as computer viruses
+③ Maintenance of recovery function
+
+(Recording and analysis of access to personal data)
+4-5 Businesses handling personal information in the financial field said, "Recording and minutes of access to personal data.
+As "analysis", access and operation of personal data are recorded, and the analysis and storage of the record are performed.
+Must be done. In addition, the existence of abnormal records suspected of being fraudulent must be checked regularly.
+Must be.
+
+(Recording and analysis of the operating status of information systems that handle personal data)
+4-6 Businesses handling personal information in the financial field said, "Information systems that handle personal data.
+Record the operating status of information systems that handle personal data as "recording and analysis of operating status"
+At the same time, the record must be analyzed and preserved.
+
+(Monitoring and auditing of information systems that handle personal data)
+4-7 Businesses handling personal information in the financial field said, "Information systems that handle personal data.
+As "monitoring and auditing", the usage status of information systems that handle personal data, and personal data
+Access status and access status to the information system from the outside by 4-5 and 4-6
+In addition to monitoring, check the monitoring status such as periodical confirmation of the operation of the monitoring system and
+An audit must be conducted. In addition, security patch application and information system-specific fragility
+It is necessary to take measures against software-related vulnerabilities, such as finding and fixing vulnerabilities.
+
+II. "Employee supervision" stipulated in Article 9 of the Guidelines for the Protection of Personal Information in the Financial Sector
+about
+
+Businesses handling personal information in the financial field are based on Article 9 of the Financial Field Guidelines, "I.
+(2) 2) By taking the measures stipulated in "Personal Safety Management Measures Concerning Improvement of Implementation System"
+Employees must be given "necessary and appropriate supervision".
+
+8
+
+Page 12
+
+III. "Supervision of contractors" stipulated in Article 10 of the Guidelines for the Protection of Personal Information in the Financial Sector
+about
+
+Businesses handling personal information in the financial field are based on Article 10, Paragraph 3 of the Financial Field Guidelines.
+Select a person who is recognized to handle personal data properly and outsource the handling of personal data
+At the same time, we must ensure that the outsourcee implements security management measures for the personal data.
+
+Must be.
+
+(Criteria for selecting a contractor for personal data protection)
+5-1 When a business operator handling personal information in the financial field outsources the handling of personal data
+Is based on the selection of outsourcers for the following matters based on Article 10, Paragraph 3, ① of the Financial Sector Guidelines.
+Set as a quasi, select a contractor according to the standard, and review the standard regularly
+There must be.
+(1) Development of basic policies and handling rules related to the safety management of personal data at outsourcees
+(2) Establishing an implementation system for the safety management of personal data at the outsourcee
+③ Credit rating for personal data security management of the contractor based on actual results, etc.
+④ Soundness of management of the contractor
+
+5-1-1 In the criteria for selecting an outsourcer, "Safety management of personal data at the outsourcee"
+The following matters must be stipulated as "maintenance of basic policy, handling rules, etc."
+(1) Establishing a basic policy regarding the safety management of personal data at outsourcees
+(2) Development of handling rules related to the safety management of personal data at the contractor
+③ Establishing rules for inspection and audit of the handling status of personal data at the contractor
+④ Establishing rules for outsourcing at outsourced companies
+
+5-1-2 In the criteria for selecting an outsourcer, "Safety management of personal data at the outsourcee"
+As "improvement of implementation system", I. (2) 1) Organizational safety management measures, 2) Human safety management
+In addition to establishing the matters described in the measures and the technical safety management measures in 3), the contractor will re-establish the matters.
+Criteria for the maintenance status of the implementation system related to the safety management of personal data of the subcontractor when outsourcing
+Must be determined.
+
+5-2 Businesses handling personal information in the financial field are selected as outsourcers after the outsourcing contract based on 5-3.
+While regularly or at any time checking the compliance status of the matters stipulated in the fixed standards at the outsourcer,
+If the outsourcer does not meet the criteria, do not supervise the outsourcer to meet the criteria
+Must be.
+
+9
+
+Page 13
+
+(Contents related to safety management that should be included in the consignment contract)
+5-3 Businesses handling personal information in the financial field have the following security management in the consignment contract.
+Must include matters related to.
+① Authority regarding supervision, auditing, and report collection of consignors
+(2) Prohibition of leakage, theft, falsification and unintended use of personal data at the contractor
+③ Conditions for subcontracting
+④ Responsibility of the contractor in the event of a leak
+(note)
+・ Personal information handling business operators in the financial field are subcontracted as "conditions for subcontracting".
+Whether or not to accept and subcontract, prior written report or approval to the consignor, etc.
+It is desirable to include it in the consignment contract.
+・ Personal information handling business operators in the financial field are those who handle personal data at outsourced companies.
+It is desirable to include the name, title or department name in the consignment contract.
+
+5-4 Businesses handling personal information in the financial field conduct regular audits based on 5-3, etc.
+To confirm the status of compliance with safety management measures, etc. under the consignment contract at the consignee on a regular or occasional basis.
+If the contract is not complied with, the contractor will comply with the contract.
+You must supervise to protect. In addition, the business operator handling personal information in the financial field is fixed.
+The safety management measures to be included in the consignment contract must be reviewed in a periodly manner.
+
+Ten
+
+Page 14
+
+(Attachment 1) Established in Article 8, Paragraph 5 (2) of the Guidelines for the Protection of Personal Information in the Financial Field
+Handling rules for safety management at each management stage
+
+Businesses handling personal information in the financial field will be responsible for safety management at each management stage based on 1-2.
+Matters from 6-1 to 6-6-1 shall be stipulated in the relevant handling rules.
+
+(Handling rules at the acquisition / input stage)
+6-1 Businesses handling personal information in the financial field are scented in the handling rules at the acquisition / input stage.
+The following matters must be stipulated.
+① Roles and responsibilities of the handler regarding acquisition and input
+(2) Limitation of handlers regarding acquisition / input
+③ Limitation of personal data to be acquired / input
+④ Verification and confirmation procedure at the time of acquisition / input
+⑤ Application and approval procedures for work outside the rules for acquisition and input
+⑥ Management procedures for equipment, recording media, etc.
+⑦ Access control to personal data
+⑧ Recording and analysis of acquisition / input status
+(Note) Businesses handling personal information in the financial field should follow the handling rules at the acquisition / input stage.
+Therefore, it is desirable to establish the following items as "access control to personal data".
+I.
+(1) Business location and information system, etc. to prevent fraudulent activities by visitors (rooms)
+Implementation of entrance / exit (room) management of the installation location
+(Example) Preservation of entry / exit (room) records
+② Measures to prevent theft, etc.
+(Example) Implementation of recording or monitoring by taking pictures with a camera or witnessing work
+(Example) Prohibition of bringing in / out of media with recording function or implementation of inspection
+③ In terms of business, the function given to terminals that handle personal data to prevent unauthorized operations
+Limited based on the need for
+(Example) Restrictions on connection of devices with recording functions such as smartphones and personal computers, and devices
+Correspondence to update of
+
+(Handling rules at the usage / processing stage)
+6-2 Businesses handling personal information in the financial field are scented in the handling rules at the usage / processing stage.
+Therefore, organizational safety management measures and technical safety management measures must be established.
+
+6-2-1 Organizational safety management measures regarding handling rules at the usage / processing stage are listed below.
+
+11
+
+Page 15
+
+Must include matters.
+(1) Roles and responsibilities of the handler regarding use and processing
+(2) Limitation of handlers regarding use and processing
+③ Limitation of personal data to be used and processed
+④ Verification and confirmation procedure at the time of use and processing
+⑤ Application and approval procedures for work outside the rules for use and processing
+⑥ Management procedures for equipment, recording media, etc.
+⑦ Access control to personal data
+⑧ Additional measures for taking personal data out of the controlled area
+⑨ Recording and analysis of usage / processing status
+(Note) Businesses handling personal information in the financial field should follow the handling rules at the usage / processing stage.
+Therefore, it is desirable to establish the following items as "access control to personal data".
+I.
+(1) Business location and information system, etc. to prevent fraudulent activities by visitors (rooms)
+Implementation of entrance / exit (room) management of the installation location
+(Example) Preservation of entry / exit (room) records
+② Measures to prevent theft, etc.
+(Example) Implementation of recording or monitoring by taking pictures with a camera or witnessing work
+(Example) Prohibition of bringing in / out of media with recording function or implementation of inspection
+③ In terms of business, the function given to terminals that handle personal data to prevent unauthorized operations
+Limited based on the need for
+(Example) Restrictions on connection of devices with recording functions such as smartphones and personal computers, and devices
+Correspondence to update of
+
+6-2-1-1 "Additional measures for taking personal data out of the controlled area" are listed below.
+Must be included.
+① Roles and responsibilities of the handler regarding the removal of personal data outside the controlled area
+(2) Minimum restrictions required by the operator regarding the removal of personal data outside the controlled area
+③ Minimum limitation of personal data to be taken out of the controlled area of ​personal data
+④ Verification and confirmation procedure when personal data is taken out of the controlled area
+⑤ Application and approval procedure for taking personal data out of the controlled area
+⑥ Management procedures for equipment, recording media, etc.
+⑦ Recording and analysis of personal data taken out of the controlled area
+
+6-2-2 Technical safety management measures related to handling rules at the usage / processing stage are listed below.
+Must include matters.
+
+12
+
+Page 16
+
+① Identification and authentication of users of personal data
+(2) Setting of personal data management classification and access control
+③ Management of access authority to personal data
+④ Measures to prevent leakage and damage of personal data
+⑤ Access record and analysis of personal data
+⑥ Recording and analysis of the operating status of information systems that handle personal data
+
+(Handling rules at the storage / preservation stage)
+6-3 Businesses handling personal information in the financial field are scented in the handling rules at the storage / preservation stage.
+Therefore, organizational safety management measures and technical safety management measures must be established.
+
+6-3-1 Organizational safety management measures regarding handling rules at the storage / preservation stage are listed below.
+Must include matters.
+① Roles and responsibilities of the handler regarding storage and preservation
+(2) Limited to operators regarding storage and storage
+③ Limitation of personal data to be stored / stored
+④ Application and approval procedure for work outside the regulations for storage and preservation
+⑤ Management procedures for equipment, recording media, etc.
+⑥ Access control to personal data
+⑦ Recording and analysis of storage / preservation status
+⑧ Response / recovery procedure in the event of a storage / preservation failure
+(Note) Businesses handling personal information in the financial field should follow the handling rules at the storage / preservation stage.
+Therefore, it is desirable to establish the following items as "access control to personal data".
+I.
+(1) Business location and information system, etc. to prevent fraudulent activities by visitors (rooms)
+Implementation of entrance / exit (room) management of the installation location
+(Example) Preservation of entry / exit (room) records
+② Measures to prevent theft, etc.
+(Example) Implementation of recording or monitoring by taking pictures with a camera or witnessing work
+(Example) Prohibition of bringing in / out of media with recording function or implementation of inspection
+③ In terms of business, the function given to terminals that handle personal data to prevent unauthorized operations
+Limited based on the need for
+(Example) Restrictions on connection of devices with recording functions such as smartphones and personal computers, and devices
+Correspondence to update of
+
+6-3-2 The technical safety management measures related to the handling rules at the storage / preservation stage are as follows.
+
+13
+
+Page 17
+
+Must include matters.
+① Identification and authentication of users of personal data
+(2) Setting of personal data management classification and access control
+③ Management of access authority to personal data
+④ Measures to prevent leakage and damage of personal data
+⑤ Access record and analysis of personal data
+⑥ Recording and analysis of the operating status of information systems that handle personal data
+
+(Handling rules at the transfer / transmission stage)
+6-4 Businesses handling personal information in the financial field should comply with the handling rules at the transfer / transmission stage.
+Therefore, organizational safety management measures and technical safety management measures must be established.
+
+6-4-1 Organizational safety management measures regarding handling rules at the transfer / transmission stage are listed below.
+Must include matters.
+① Roles and responsibilities of the handler regarding transfer and transmission
+(2) Limitations of handlers regarding transfer / transmission
+③ Limitation of personal data to be transferred / transmitted
+④ Verification and confirmation procedure at the time of transfer / transmission
+⑤ Application and approval procedure for work outside the rules for transfer / transmission
+⑥ Access control to personal data
+⑦ Recording and analysis of transfer / transmission status
+⑧ Response / recovery procedure in the event of a failure related to transportation / transmission
+
+6-4-2 Technical safety management measures regarding handling rules at the transfer / transmission stage are listed below.
+Must include matters.
+① Identification and authentication of users of personal data
+(2) Setting of personal data management classification and access control
+③ Management of access authority to personal data
+④ Measures to prevent leakage and damage of personal data
+⑤ Access record and analysis of personal data
+
+(Handling rules at the erasure / disposal stage)
+6-5 Businesses handling personal information in the financial field are scented in the handling rules at the erasure / disposal stage.
+The following matters must be stipulated.
+① Roles and responsibilities of the handler regarding erasure / disposal
+(2) Limitation of handlers regarding erasure / disposal
+
+14
+
+Page 18
+
+③ Verification and confirmation procedure at the time of erasure / disposal
+④ Application and approval procedure for work outside the regulations for erasure / disposal
+⑤ Management procedures for equipment, recording media, etc.
+⑥ Access control to personal data
+⑦ Recording and analysis of erasure / disposal status
+
+(Handling rules at the stage of responding to leaks, etc.)
+6-6 Businesses handling personal information in the financial field are at the stage of responding to leaks, etc.
+The following matters shall be stipulated in the handling rules.
+① Roles and responsibilities of the corresponding department
+(2) Limitation of handlers regarding response to leak cases, etc.
+③ Application and approval procedure for work outside the regulations for dealing with leaks, etc.
+④ Investigation procedure regarding the impact and cause of leakage cases, etc.
+⑤ Procedures for examining recurrence prevention measures and ex post facto measures
+⑥ Procedures for reporting inside and outside the company
+⑦ Recording and analysis of the response status to leak cases, etc.
+
+6-6-1 The procedure for reporting inside and outside the company must include the following matters.
+① Report to supervisors, etc.
+② Notification to the person, etc.
+③ Facts such as leaked cases from the viewpoint of prevention of secondary damage and avoidance of similar cases
+Immediate announcement of recurrence prevention measures, etc.
+
+15
+
+Page 19
+
+(Attachment 2) “Subtleties” stipulated in Article 5 of the Guidelines for the Protection of Personal Information in the Financial Field
+Handling of "sensitive) information" (including biometric information)
+
+Businesses handling personal information in the financial field are sensitive based on Article 5 of the financial field guidelines.
+(Sensitive) Information is acquired, used, or used, except for the cases listed in each item of Paragraph 1 of the same Article.
+Acquisition, use, or use that deviates from the reasons of each item of paragraph 1 of the same article based on paragraph 2 of the same article without providing it to a third party.
+In addition to the measures stipulated in these Practical Guidelines I to III, 7-1,
+Measures prescribed in 7-1-1, 7-1-2, 7-1-3, 7-1-4, 7-1-5 and 7-2
+Will be implemented. In addition, biometric authentication information (for machines) that corresponds to sensitive information.
+Unknown information among the physical characteristics used for automatic authentication by. same as below. ) Handling
+Therefore, all measures specified in Attachment 2 must be implemented.
+
+7-1 Businesses handling personal information in the financial field are required to manage personal data as stipulated in 1-2.
+In the handling of sensitive information in the "Handling Regulations for Safety Management at Stages"
+Regulations will be prepared, and if necessary, the regulations will be taken into consideration based on the status of information and communication technology.
+It will be reviewed.
+
+7-1-1 Businesses handling personal information in the financial field are in the acquisition / input stage specified in 6-1.
+The handling rules for sensitive information are stipulated in 6-1.
+In addition to the matters to be done, the following matters shall be stipulated.
+(1) Acquisition only when stipulated in each item of Article 5, Paragraph 1 of the Financial Sector Guidelines
+(2) Minimum necessary limitation of the operator who acquires and inputs
+③ Obtaining the consent of the person and explaining to the person when the consent of the person is required for the acquisition
+Matters
+
+7-1-1-1 The handling of biometric authentication information that corresponds to sensitive information is acquired / entered.
+In addition to the matters stipulated in 7-1-1 in the handling rules at the force stage, the following matters
+Must be included.
+① Measures to prevent registration by spoofing
+② Acquisition of only the minimum biometric information required for identity verification
+③ Promptly delete the underlying biometric information after obtaining the biometric authentication information
+
+7-1-2 Businesses handling personal information in the financial field are in the usage / processing stage specified in 6-2.
+Regarding the handling of sensitive information in the handling rules, 6-2-1,
+In addition to the matters stipulated in 6-2-1-1 and 6-2-2, the following matters shall be stipulated.
+And.
+
+16
+
+Page 20
+
+(1) Use / processing only for the purposes specified in each item of Article 5, Paragraph 1 of the Financial Sector Guidelines
+(2) Minimum requirements for operators who use and process
+③ Obtaining the consent of the person and explaining to the person when the consent of the person is required for use
+Matters
+④ Setting access authority and implementing access control limited to the minimum necessary persons
+
+7-1-2-1 The handling of biometric authentication information that corresponds to sensitive information is at the stage of use.
+In addition to the matters stipulated in 7-1-2, the following matters are included in the handling rules in
+There must be.
+① Preventive measures against fraudulent authentication using forged biometric information
+② Measures to prevent unauthorized use of registered biometric information
+③ Elimination of remaining biometric information
+④ Confirmation of appropriateness such as authentication accuracy setting
+⑤ Strict identity verification procedure in alternative measures for identity verification by biometric authentication
+
+7-1-3 Businesses handling personal information in the financial field are in the storage / preservation stage specified in 6-3.
+Regarding the handling of sensitive information in the handling rules, 6-3-1 and
+In addition to the matters stipulated in 6-3-2, the following matters shall be stipulated.
+(1) Minimum limitation of the operator who stores and preserves
+(2) Setting access authority and implementing access control limited to the minimum necessary persons
+
+7-1-3-1 The handling of biometric authentication information that corresponds to sensitive information is stored and maintained.
+In addition to the matters stipulated in 7-1-3 in the handling rules at the existing stage, at the time of storage
+In addition to having to include encryption of biometric information, individuals such as names on servers, etc.
+It shall include separate management from information.
+
+7-1-4 Businesses handling personal information in the financial field are in the transfer / transmission stage specified in 6-4.
+Regarding the handling of sensitive information in the handling rules, 6-4-1 and
+In addition to the matters stipulated in 6-4-2, the following matters shall be stipulated.
+(1) Transfer / transmission only for the purposes specified in each item of Article 5, Paragraph 1 of the Financial Sector Guidelines
+(2) Setting access authority and implementing access control limited to the minimum necessary persons
+
+7-1-5 Businesses handling personal information in the financial field are in the erasure / disposal stage specified in 6-5.
+The handling rules for sensitive information are stipulated in 6-5.
+In addition to the matters to be done, the minimum necessary restrictions on the handlers who perform erasure / disposal shall be stipulated.
+To
+
+17
+
+Page 21
+
+7-1-5-1 The handling of biometric authentication information that corresponds to sensitive information is deleted or abolished.
+In addition to the items stipulated in 7-1-5 in the handling rules at the abandonment stage, biometric authentication information is provided.
+When it is no longer necessary to use it for identity verification, the biometric information held is promptly deleted.
+Must be included.
+
+7-2 Businesses handling personal information in the financial field are responsible for conducting the audits stipulated in 2-5-2.
+Therefore, regarding the handling of biometric authentication information that corresponds to sensitive information, an external audit
+And, if necessary, handle other sensitive information.
+An external audit will be conducted.
+
+18
+
+Page 22
+
+(Attachment 3) stipulated in Article 2, Paragraph 4 of the Guidelines for the Protection of Personal Information in the Financial Field
+Membership management at personal credit information agencies
+
+A personal credit information agency is one in which its members properly receive personal credit information (the demand for funds registered with the credit information agency).
+Information about the repayment ability of the person. same as below. ) Is registered and inquired, and personal credit information is adjusted for repayment ability.
+To ensure that it is not used for purposes other than inspection, this Practical Guideline I. Measures prescribed in (2)
+In addition to the setting, measures 8-1 to 8-4 will be taken.
+
+(Qualification examination)
+8-1 Personal credit information agencies should ensure that only appropriate businesses are members when applying for membership.
+Admission screening will be conducted rigorously based on the admission criteria set in advance.
+
+(monitoring)
+8-2 In the personal credit information agency, after joining, the members deviate from the membership criteria and have the ability to repay.
+To personal credit information by members so as not to use personal credit information for purposes other than the investigation of
+Appropriate and continuous monitoring of access will be carried out.
+
+(Disposal for improper use)
+8-3 The personal credit information agency will determine in advance if there is improper use of personal credit information.
+Based on the rules regarding membership management, suspension of use, withdrawal, and other dispositions will be implemented and recurrence will occur.
+Preventive measures will be taken.
+
+(External audit)
+8-4 Personal credit bureaus are the financial sector guidelines and real information of personal credit bureaus.
+Receive an external audit to confirm that safety management measures are being implemented in accordance with the business guidelines
+I will do it.
+
+19
+
+

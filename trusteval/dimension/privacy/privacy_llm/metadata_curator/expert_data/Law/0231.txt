@@ -1,0 +1,687 @@
+Page 1
+
+LAW OF UKRAINE
+About personal data protection
+(Vidomosti Verkhovnoi Rady Ukrainy (VVR), 2010, № 34, p. 481)
+{With changes made in accordance with the Laws
+№ 4452-VI dated 23.02.2012 , VVR, 2012, № 50, Article 564
+№ 5491-VI dated 20.11.2012 , VVR, 2013, № 51, p.715
+№ 245-VII of 16.05.2013 , VVR, 2014, № 12, Article 178
+№ 383-VII of 03.07.2013 , VVR, 2014, № 14, p.252
+№ 1170-VII dated March 27 , 2014, VVR, 2014, № 22, Article 816
+№ 1262-VII dated 13.05.2014 , VVR, 2014, № 27, Article 914
+№ 316-VIII of 09.04.2015 , VVR, 2015, № 26, Article 218
+№ 675-VIII of 03.09.2015 , VVR, 2015, № 45, Article 410
+№ 1774-VIII of 06.12.2016 , VVR, 2017, № 2, Article 25
+№ 2168-VIII dated 19.10.2017 , VVR, 2018, № 5, Article 31
+№ 324-IX dated 03.12.2019 , VVR, 2020, № 11, Article 63
+№ 524-IX from 04.03.2020 , ВВР, 2020, № 38, art.279
+№ 1357-IX dated 30.03.2021 }
+{In the text of the Law, the words "owner of the personal database" and "manager of the database
+personal data "in all cases and numbers are replaced by the words" owner "
+personal data "and" personal data controller "in the appropriate case and number according to
+Law № 5491-VI of November 20, 2012 }
+Article 1. Scope of the Law
+This Law regulates legal relations related to the protection and processing of personal data
+data, and aims to protect the fundamental rights and freedoms of man and citizen, in particular
+the right to privacy in connection with the processing of personal data.
+This Law applies to personal data processing activities
+in whole or in part with the use of automated means, as well as for processing
+personal data contained in the file or intended for inclusion in the file, with
+using non-automated means.
+{Part three of Article 1 is excluded on the basis of Law № 383-VII of 03.07.2013 }
+{Part four of Article 1 is excluded on the basis of Law № 383-VII of 03.07.2013 }
+{Article 1 as amended by Law № 5491-VI of November 20, 2012 }
+Article 2. Definition of terms
+In this Law, the following terms are used in the following meaning:
+personal data base - a named set of organized personal data in
+electronic form and / or in the form of personal data files;
+the owner of personal data - a natural or legal person who determines the purpose of processing
+personal data, establishes the composition of this data and the procedures for their processing, unless otherwise
+determined by law;
+{Paragraph three of Article 2 as amended in accordance with Law № 5491-VI of 20.11.2012 ;
+as amended by Law № 383-VII of 03.07.2013 }
+consent of the subject of personal data - voluntary expression of the will of an individual (subject to it
+awareness) regarding the granting of permission to process her personal data in accordance with
+the stated purpose of their processing, expressed in writing or in a form that allows
+to make a conclusion about giving consent. In the field of e-commerce, the consent of the subject of personal
+data can be provided during registration in the information and telecommunication system of the subject
+e-commerce by marking the permission to process their own
+personal data in accordance with the stated purpose of their processing, provided that such a system
+does not create opportunities for personal data processing until the moment of marking;
+{Paragraph four of Article 2 as amended by Law № 1262-VII of 13.05.2014 ; with changes
+submitted in accordance with the Law № 675-VIII of 03.09.2015 }
+{Paragraph five of Article 2 is excluded on the basis of Law № 383-VII of 03.07.2013 }
+depersonalization of personal data - the removal of information that allows direct or
+indirectly identify a person;
+{Paragraph six of Article 2 as amended in accordance with Law № 5491-VI of November 20, 2012 }
+file - any structured personal data available according to certain criteria,
+regardless of whether such data is centralized, decentralized or divided by
+functional or geographical principles;
+{Article 2 is supplemented by a term in accordance with Law № 5491-VI of November 20, 2012 }
+processing of personal data - any action or set of actions, such as collection,
+registration, accumulation, storage, adaptation, modification, renewal, use and
+distribution (distribution, sale, transfer), depersonalization, destruction of personal
+data, including with the use of information (automated) systems;
+{Paragraph of Article 2 as amended by Law № 5491-VI of November 20, 2012 }
+Recipient - a natural or legal person to whom personal data are provided, including
+third person;
+{Article 2 is supplemented by a term in accordance with Law № 5491-VI of November 20, 2012 }
+personal data - information or a set of information about an individual who
+identified or can be specifically identified;
+personal data controller - a natural or legal person whose owner
+personal data or the law gives the right to process this data on behalf of the owner;
+{Paragraph eleven of Article 2 as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+personal data subject - a natural person whose personal data are processed;
+{Paragraph twelve of Article 2 as amended by Law № 383-VII of July 3, 2013 }
+third party - any person, except for the personal data subject, owner or
+personal data controller and the Verkhovna Rada of Ukraine Commissioner for Human Rights,
+to which the owner or administrator of personal data transfers personal data
+data.
+{Paragraph thirteen of Article 2 as amended by Law № 383-VII of July 3, 2013 }
+Article 3. Legislation on personal data protection
+Legislation on personal data protection consists of the Constitution of Ukraine , this Law,
+other laws and bylaws, international treaties of Ukraine, consent to
+binding of which is granted by the Verkhovna Rada of Ukraine.
+Article 4. Subjects of relations related to personal data
+1. The subjects of relations related to personal data are:
+personal data subject;
+owner of personal data;
+personal data manager;
+third person;
+The Commissioner for Human Rights of the Verkhovna Rada of Ukraine (hereinafter - the Commissioner).
+{Paragraph six of the first part of Article 4 as amended by Law № 383-VII of July 3, 2013 }
+{Paragraph seven of the first part of Article 4 is excluded on the basis of Law № 5491-VI of
+20.11.2012 }
+2. The owner or administrator of personal data may be enterprises,
+institutions and organizations of all forms of ownership, public authorities or local authorities
+self - government, individuals - entrepreneurs who process personal data in accordance with
+the law.
+3. The controller of personal data, the owner of which is a public authority or body
+local government, in addition to these bodies, can be only a state or
+communal form of ownership, which belongs to the sphere of management of this body.
+{Part three of Article 4 as amended by Law № 5491-VI of
+20.11.2012 }
+4. The owner of personal data may instruct the processing of personal data
+to the controller of personal data in accordance with the agreement concluded in writing.
+{Article 4 is supplemented by part four in accordance with Law № 5491-VI of November 20, 2012 }
+5. The controller of personal data may process personal data only for the purpose and in
+the amount specified in the contract.
+{Article 4 is supplemented by part five in accordance with Law № 5491-VI of November 20, 2012 }
+Article 5. Objects of protection
+1. Objects of protection are personal data.
+2. Personal data may be classified as confidential personal information by law
+or the appropriate person. Personal data relating to them is not confidential information
+implementation by a person authorized to perform the functions of the state or local
+self-government, official or service powers.
+{Part two of Article 5 as amended by Law № 524-IX of March 4, 2020 }
+3. Personal data specified in the declaration of the person authorized to perform the functions
+state or local government, executed in the form determined in accordance with
+Law of Ukraine "On Prevention of Corruption", do not belong to the information with limited access,
+except for the information specified by the Law of Ukraine "On Prevention of Corruption".
+{Paragraph one of the third part of Article 5 as amended by Law № 524-IX of March 4, 2020 }
+Does not include restricted information receiving information in any
+in the form of an individual budget funds, state or municipal property, except in cases
+provided by Article 6 of the Law of Ukraine "On Access to Public Information".
+The law may prohibit the assignment of other information that is personal data,
+to information with limited access.
+{Article 5 as amended in accordance with Law № 5491-VI of 20.11.2012 ; in the editorial office
+Law № 1170-VII of March 27, 2014 }
+Article 6. General requirements for personal data processing
+1. The purpose of personal data processing should be formulated in other laws
+normative legal acts, regulations, constituent or other regulating documents
+activities of the owner of personal data, and comply with protection legislation
+personal data.
+The processing of personal data is carried out openly and transparently using the means and in
+a method that meets the defined purposes of such processing.
+{Part one of Article 6 is supplemented by a new paragraph in accordance with Law № 5491-VI of
+20.11.2012 }
+In the event of a change in the defined purpose of personal data processing to a new purpose that is incompatible with
+previous, for further data processing the owner of personal data must receive
+the consent of the personal data subject to the processing of his data in accordance with the changed purpose, if
+otherwise not provided by law.
+{Paragraph three of the first part of Article 6 as amended in accordance with the Law № 5491VI dated 20.11.2012 ; as amended by Law № 383-VII of 03.07.2013 }
+2. Personal data must be accurate, reliable and updated as necessary,
+defined purpose of their processing.
+{Part two of Article 6 as amended by Law № 5491-VI of November 20, 2012 }
+3. The composition and content of personal data must be appropriate, adequate and
+excessive in relation to the specific purpose of their processing.
+{Paragraph one of the third part of Article 6 as amended in accordance with the Law № 5491VI from 20.11.2012 }
+{The second paragraph of the third part of Article 6 is excluded on the basis of Law № 5491-VI of
+20.11.2012 }
+4. The primary sources of information about an individual are: documents issued in his name;
+documents signed by her; information that a person provides about himself.
+5. The processing of personal data is carried out for specific and legitimate purposes specified
+with the consent of the subject of personal data, or in cases provided by the laws of Ukraine, in
+the order established by the legislation.
+6. It is not allowed to process data on an individual, which is confidential information,
+without its consent, except as provided by law, and only in the interests of national security,
+economic prosperity and human rights.
+{Part six of Article 6 as amended by Law № 1170-VII of
+March 27, 2014 }
+7. If the processing of personal data is necessary to protect vital data
+interests of the personal data subject, personal data may be processed without his consent
+time when obtaining consent becomes possible.
+8. Personal data are processed in a form that allows the identification of a natural person
+they relate, no longer than is necessary for the lawful purposes for which they were assembled or
+further processed.
+Further processing of personal data for historical, statistical or scientific purposes may
+carried out under the condition of ensuring their proper protection.
+{Part eight of Article 6 as amended by Law № 383-VII of July 3, 2013 }
+{Part nine of Article 6 is excluded on the basis of Law № 383-VII of 03.07.2013 }
+10. The standard procedure for processing personal data is approved by the Commissioner.
+{Part ten of Article 6 as amended in accordance with Laws № 4452-VI of February 23 , 2012 ,
+№ 5491-VI dated 20.11.2012 ; in the wording of Laws № 383-VII of 03.07.2013 , № 1262-VII of
+13.05.2014 }
+Article 7. Special requirements for personal data processing
+1. The processing of personal data on racial or ethnic origin is prohibited,
+political, religious or ideological beliefs, membership in political parties and professional
+unions, criminal convictions, and health-related data,
+sexual life, biometric or genetic data.
+{Part one of Article 7 as amended by Law № 5491-VI of
+20.11.2012 ; as amended by Law № 383-VII of 03.07.2013 }
+2. The provisions of part one of this article shall not apply if the processing of personal
+data:
+1) is subject to the subject of personal data unambiguous consent to
+processing of such data;
+2) necessary for the exercise of rights and responsibilities of the owner in the field of labor
+legal relations in accordance with the law with the provision of appropriate protection;
+{Paragraph 2 of the second part of Article 7, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+3) necessary to protect the vital interests of the personal data subject or
+another person in case of incapacity or restriction of civil capacity of the personal subject
+data;
+{Paragraph 3 of the second part of Article 7, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+4) is carried out with the provision of appropriate protection by a religious organization,
+public organization of ideological orientation, political party or professional
+union established in accordance with the law, provided that the processing concerns only
+personal data of members of these associations or persons who maintain constant contact with them in
+due to the nature of their activities, and personal data are not transferred to a third party without consent
+personal data subjects;
+{Paragraph 4 of the second part of Article 7, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+5) necessary to substantiate, satisfy or defend a legal claim;
+6) necessary for health purposes, to establish a medical diagnosis, to provide
+care or treatment or provision of medical services, the functioning of the electronic system
+health care, provided that such data are processed by a healthcare professional or another
+a person of a health care institution or a natural person - an entrepreneur who has received a license
+to conduct business in medical practice, and its employees, on which
+responsibilities for ensuring the protection of personal data and to which it applies
+the effect of the legislation on medical secrecy, employees of the central executive body
+government, which implements state policy in the field of state financial guarantees of medical
+services to the population, which are responsible for ensuring protection
+personal data;
+{Paragraph 6 of the second part of Article 7 as amended by Laws № 5491-VI of November 20 , 2012 , № 2168VIII from 19.10.2017 }
+6 1 ) necessary in order to ensure the military registration of conscripts,
+conscripts and reservists (in the amounts specified in Article 7 of the Law of Ukraine
+"On the Unified State Register of Conscripts, Conscripts and Reservists");
+{Part two of Article 7 is supplemented by paragraph 6 1 in accordance with Law № 1357-IX of
+03/30/2021 }
+7) concerns court verdicts, performance of tasks of operative-search or
+counterintelligence activities, counter-terrorism and carried out by a state body in
+within the limits of his powers defined by law;
+{Paragraph 7 of the second part of Article 7, as amended in accordance with Law № 245-VII of
+16.05.2013 ; as amended by Law № 383-VII of 03.07.2013 }
+8) relates to data that have been explicitly disclosed by the subject of personal data.
+{Paragraph 8 of the second part of Article 7 as amended in accordance with Law № 383-VII of
+03.07.2013 }
+Article 8. Rights of the subject of personal data
+1. Personal non-property rights to personal data that every individual has
+integral and inviolable.
+2. The personal data subject has the right to:
+1) know about the sources of collection, location of their personal data, their purpose
+processing, location or place of residence (stay) of the owner or manager
+personal data or give an appropriate order to obtain this information
+to the persons authorized by him, except in cases established by law;
+{Paragraph 1 of the second part of Article 8 as amended in accordance with Law № 5491-VI of
+20.11.2012 ; as amended by Law № 383-VII of 03.07.2013 }
+2) receive information on the conditions for granting access to personal data, in particular
+information about third parties to whom his personal data is transferred;
+{Paragraph 2 of the second part of Article 8, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+3) access to their personal data;
+{Paragraph 3 of the second part of Article 8, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+4) receive no later than thirty calendar days from the date of receipt of the request, except
+cases provided by law, the answer as to whether his personal data are processed, and
+also receive the content of such personal data;
+{Paragraph 4 of the second part of Article 8 as amended by Law № 383-VII of July 3, 2013 }
+5) make a reasoned request to the owner of personal data with an objection against
+processing of personal data;
+{Paragraph 5 of the second part of Article 8 as amended by Law № 5491-VI of November 20, 2012 }
+6) make a reasoned request to change or destroy their personal data
+any owner and controller of personal data, if such data are processed
+illegal or unreliable;
+{Paragraph 6 of the second part of Article 8, as amended in accordance with Law № 5491-VI of
+20.11.2012 }
+7) to protect their personal data from illegal processing and accidental loss,
+destruction, damage due to intentional concealment, failure to provide or untimely
+as well as to protect against the provision of information that is unreliable or defamatory,
+dignity and business reputation of an individual;
+8) to file complaints about the processing of their personal data to the Commissioner or to
+court;
+{Paragraph 8 of the second part of Article 8 as amended by Law № 5491-VI of November 20 , 2012 ; with changes
+submitted in accordance with the Law № 383-VII of 03.07.2013 }
+9) apply legal remedies in case of violation of the legislation on protection
+personal data;
+10) make reservations regarding the restriction of the right to the processing of their personal data
+during the consent;
+{Part two of Article 8 is supplemented by paragraph 10 in accordance with Law № 5491-VI of
+20.11.2012 }
+11) withdraw consent to the processing of personal data;
+{Part two of Article 8 is supplemented by paragraph 11 in accordance with Law № 5491-VI of
+20.11.2012 }
+12) know the mechanism of automatic processing of personal data;
+{Part two of Article 8 is supplemented by paragraph 12 in accordance with Law № 5491-VI of
+20.11.2012 }
+13) to protect against an automated decision that has legal consequences for him.
+{Part two of Article 8 is supplemented by paragraph 13 in accordance with Law № 5491-VI of
+20.11.2012 }
+{Part three of Article 8 is excluded on the basis of Law № 383-VII of 03.07.2013 }
+Article 9. Notification of personal data processing
+1. The owner of personal data notifies the Commissioner about the processing of personal data
+data, which poses a special risk to the rights and freedoms of personal data subjects,
+within thirty working days from the date of commencement of such processing.
+Types of personal data processing that poses a particular risk to rights and freedoms
+personal data subjects, and the categories of subjects to which the requirement applies
+messages are determined by the Commissioner.
+2. Notification of personal data processing is submitted in the form and in the manner
+designated by the Commissioner.
+3. The owner of personal data is obliged to notify the Commissioner of each
+change of the information subject to notification within ten working days from the date of occurrence
+such a change.
+4. Information communicated in accordance with this article shall be made public on
+the official website of the Commissioner in the manner prescribed by the Commissioner.
+{Article 9 as amended in accordance with Law № 5491-VI of 20.11.2012 ; in the editorial office
+Law № 383-VII of 03.07.2013 }
+Article 10. Use of personal data
+1. The use of personal data involves any actions of the owner to process them
+data, actions for their protection, as well as actions for granting partial or full right of processing
+personal data to other subjects of relations related to personal data that
+carried out with the consent of the personal data subject or in accordance with the law.
+{Part one of Article 10 as amended by Law Зако 5491-VI of
+20.11.2012 }
+2. The use of personal data by the owner is carried out in the event that he creates the conditions
+to protect this data. The owner is prohibited from disclosing information about the subjects
+personal data, access to personal data of which is provided to other subjects of relations,
+associated with such data.
+{Part two of Article 10 as amended by Law № 5491-VI of
+20.11.2012 }
+3. The use of personal data by employees of the subjects of relations related to
+personal data should be carried out only in accordance with their professional or
+official or labor duties. These employees are obliged not to allow disclosure in
+any way of personal data that has been entrusted to them or that has become known in connection with
+performance of professional or official or labor duties, except as provided
+by law. Such obligation shall take effect upon termination of their activities related to
+personal data, except as provided by law.
+{Part three of Article 10 as amended by Law № 1170-VII of
+March 27, 2014 }
+4. Information about the personal life of an individual may not be used as a factor
+which confirms or denies its business qualities.
+Article 11. Grounds for personal data processing
+1. The grounds for the processing of personal data are:
+1) the consent of the personal data subject to the processing of his personal data;
+2) permission to process personal data granted to the owner of personal data
+in accordance with the law exclusively for the exercise of its powers;
+3) conclusion and execution of a transaction to which the subject of personal data is a party or
+which is concluded for the benefit of the personal data subject or for the implementation of measures that
+precede the conclusion of the transaction at the request of the personal data subject;
+4) protection of vital interests of the subject of personal data;
+5) the need to perform the duty of the owner of personal data, which is provided
+by law;
+{Part one of Article 11 is supplemented with a new paragraph in accordance with Law № 383-VII of
+03.07.2013 }
+6) the need to protect the legitimate interests of the owner of personal data or a third party
+the person to whom the personal data are transferred, except in cases where the needs of protection
+fundamental rights and freedoms of the personal data subject in connection with the processing of his data
+such interests prevail.
+{Paragraph 6 of the first part of Article 11 as amended by Law № 383-VII of July 3, 2013 }
+{Article 11 as amended by Law № 5491-VI of November 20, 2012 }
+Article 12. Collection of personal data
+1. The collection of personal data is part of the process of their processing, which involves actions with
+selection or organization of information about an individual.
+{Part one of Article 12 as amended by Law № 5491-VI of
+20.11.2012 }
+2. The subject of personal data shall be notified of the owner of personal data, warehouse
+and the content of the collected personal data, their rights defined by this Law, the purpose of collection
+personal data and persons to whom his personal data are transferred:
+at the time of collection of personal data, if personal data is collected from the subject
+personal data;
+in other cases within thirty working days from the date of collection of personal data.
+{Part two of Article 12 as amended by Laws № 5491-VI of November 20 , 2012 , № 383-VII of
+03.07.2013 }
+{Part three of Article 12 is excluded on the basis of Law № 5491-VI of November 20, 2012 }
+{Part four of Article 12 is excluded on the basis of Law № 5491-VI of November 20, 2012 }
+Article 13. Accumulation and storage of personal data
+1. Accumulation of personal data involves actions for combination and systematization
+information about an individual or group of individuals or entering this data into the database
+personal data.
+2. The storage of personal data involves actions to ensure their integrity and
+appropriate mode of access to them.
+Article 14. Dissemination of personal data
+1. Dissemination of personal data involves actions for the transfer of information about the physical
+person with the consent of the personal data subject.
+{Part one of Article 14 as amended by Law Зако 5491-VI of
+20.11.2012 }
+2. Dissemination of personal data without the consent of the personal data subject or
+the person authorized by him is allowed in cases specified by law, and only (if it is
+necessary) in the interests of national security, economic prosperity and human rights.
+{Part two of Article 14 as amended by Law № 5491-VI of
+20.11.2012 }
+3. Compliance with the requirements of the established regime of personal data protection provides
+the party disseminating this data.
+4. The party to whom the personal data are transferred must take precautionary measures
+ensuring the requirements of this Law.
+Article 15. Deletion or destruction of personal data
+{Title of Article 15 as amended by Law № 5491-VI of November 20, 2012 }
+1. Personal data shall be deleted or destroyed in accordance with the procedure established in accordance with
+requirements of the law.
+{Part one of Article 15 as amended by Law Зако 5491-VI of
+20.11.2012 }
+2. Personal data shall be deleted or destroyed in the case of:
+{Paragraph one of the second part of Article 15 as amended in accordance with the Law № 383VII from 03.07.2013 }
+1) expiration of the data storage period determined by the consent of the personal data subject on
+processing of this data or by law;
+2) termination of the legal relationship between the personal data subject and the owner or
+the administrator, unless otherwise provided by law;
+3) issuance of the relevant instruction of the Commissioner or officials appointed by him
+the Secretariat of the Commissioner;
+{Subparagraph 3 of Part Two of Article 15 as amended by Law № 383-VII of July 3, 2013 }
+4) entry into force of a court decision on the removal or destruction of personal
+data.
+{Part two of Article 15 is supplemented by sub-item 4 in accordance with Law № 383-VII of
+03.07.2013 }
+3. Personal data collected in violation of the requirements of this Law shall be deleted or
+destruction in the manner prescribed by law.
+{Part three of Article 15 as amended by Law Зако 383-VII of
+03.07.2013 }
+4. Personal data collected during the performance of operational and investigative tasks or
+counterintelligence activities, counter-terrorism, are removed or destroyed
+in accordance with the requirements of the law.
+{Part four of Article 15 as amended by Law Зако 383-VII of
+
+03.07.2013 }
+{Text of Article 15 as amended by Law Зако 5491-VI of 20.11.2012 }
+Article 16. Procedure for access to personal data
+1. The procedure for access to personal data of third parties is determined by the terms of consent
+the personal data subject for the processing of such data provided to the owner of personal data,
+or in accordance with the requirements of the law. The procedure for access of third parties to personal data, which
+are in the possession of the administrator of public information, determined by the Law of Ukraine
+"On access to public information", in addition to data received from other central authorities
+executive body that ensures the formation and implementation of public financial and
+budget policy, during the verification and monitoring of government payments.
+{Part one of Article 16 as amended in accordance with Laws № 1170-VII of
+March 27 , 2014 , № 1774-VIII dated December 6 , 2016 ; as amended by Law № 324-IX of December 3, 2019 }
+2. Access to personal data to a third party is not granted if the specified person
+refuses to undertake to ensure compliance with the requirements of this Law or
+unable to provide them.
+3. The subject of the relationship related to personal data submits a request for access (hereinafter request) to the personal data of the owner of personal data.
+4. The request shall indicate:
+1) surname, name and patronymic, place of residence (stay) and details
+a document certifying the individual who submits the request (for an individual - the applicant);
+2) name, location of the legal entity submitting the request, position, surname,
+name and patronymic of the person certifying the request; confirmation that the content of the request corresponds
+the authority of the legal entity (for the legal entity - the applicant);
+3) surname, name and patronymic, as well as other information that allows to identify
+the natural person in respect of whom the request is made;
+4) information on the personal data base in respect of which the request is submitted, or information on
+the owner or controller of personal data;
+{Paragraph 4 of Part 4 of Article 16 as amended by Law № 5491-VI
+from 20.11.2012 }
+5) a list of personal data requested;
+6) purpose and / or legal grounds for the request.
+{Paragraph 6 of part four of Article 16 as amended by Law № 5491-VI
+from 20.11.2012 }
+5. The term of studying the request for its satisfaction may not exceed ten
+working days from the date of its receipt.
+During this period, the owner of personal data notifies the person who
+submits a request that the request will be satisfied or the relevant personal data are not subject to provision,
+indicating the grounds specified in the relevant legal act.
+The request shall be satisfied within thirty calendar days from the date of its receipt, if
+otherwise not provided by law.
+6. The subject of personal data has the right to receive any information about himself in
+any subject of relations related to personal data, subject to provision
+the information specified in paragraph 1 of part four of this article, except in cases established
+by law.
+{Part six of Article 16 as amended by Law № 5491-VI of
+20.11.2012 }
+Article 17. Postponement or denial of access to personal data
+1. Deferment of access of the personal data subject to his personal data is not
+allowed.
+2. Deferment of access to personal data of third parties is allowed if
+the required data may not be provided within thirty calendar days from the date of receipt
+request. Thus the general term of the decision of the questions raised in inquiry can't
+exceed forty-five calendar days.
+The notice of postponement shall be communicated to the third party who made the request, at
+in writing with an explanation of the procedure for appealing such a decision.
+The notice of deferral shall state:
+1) surname, name and patronymic of the official;
+2) the date of sending the message;
+3) the reason for the postponement;
+4) the period during which the request will be satisfied.
+3. Denial of access to personal data is allowed if access to them is prohibited
+according to the law.
+The notice of refusal shall state:
+1) last name, first name, patronymic of the official who refuses access;
+2) the date of sending the message;
+3) the reason for refusal.
+Article 18. Appeal against the decision to postpone or deny access to
+personal data
+1. The decision to postpone or deny access to personal data may be
+appealed to the Commissioner of the Verkhovna Rada of Ukraine for Human Rights or the court.
+{Part one of Article 18 as amended by Law № 5491-VI of November 20 , 2012 ; with changes
+submitted in accordance with the Law № 383-VII of 03.07.2013 }
+2. If the request is made by the subject of personal data regarding personal data, the obligation
+proving in court the legality of the denial of access is entrusted to the owner of personal data,
+to which the request is submitted.
+{Part two of Article 18 as amended by Law Зако 5491-VI of
+20.11.2012 }
+Article 19. Payment for access to personal data
+1. The access of the subject of personal data to the data about himself is carried out free of charge.
+2. Access of other subjects of relations related to personal data to personal ones
+data of a certain individual or group of individuals may be paid in case of compliance
+conditions specified by this Law. Payment is subject to work related to the processing of personal
+data, as well as work on consulting and organizing access to relevant data.
+3. The amount of payment for services for providing access to personal data by state bodies
+power is determined by the Cabinet of Ministers of Ukraine.
+4. Public authorities and local governments have the right to
+unimpeded and free access to personal data in accordance with their powers.
+Article 20. Changes and additions to personal data
+1. Owners or controllers of personal data are obliged to make changes to
+personal data on the basis of a reasoned written request of the personal data subject.
+{Part one of Article 20 as amended by Law № 383-VII of
+03.07.2013 }
+2. Owners or administrators of personal data are obliged to make changes to
+personal data also at the request of other subjects of relations related to
+personal data, if the consent of the personal data subject or a corresponding change
+carried out in accordance with the instructions of the Commissioner or officials appointed by him
+the Secretariat of the Commissioner or by a court decision that has entered into force.
+{Part two of Article 20 as amended by Law № 383-VII of July 3, 2013 }
+3. Change of personal data that does not correspond to reality is carried out immediately with
+the moment of establishing the discrepancy.
+Article 21. Notification of actions with personal data
+1. On the transfer of personal data to a third party, the owner of personal data during
+ten working days notifies the subject of personal data, if required by the conditions
+his consent or otherwise is not provided by law.
+2. The notifications referred to in part one of this Article shall not be made in the case of:
+1) transfer of personal data on request when performing operational and investigative tasks
+or counterintelligence activities, the fight against terrorism;
+2) implementation by state authorities and local self-government bodies of their own
+powers provided by law;
+3) processing of personal data for historical, statistical or scientific purposes;
+4) notification of the personal data subject in accordance with the requirements of part two of Article 12
+of this Law.
+{Part two of Article 21 is supplemented by paragraph 4 in accordance with Law № 5491-VI of
+20.11.2012 }
+3. About change, deletion or destruction of personal data or restriction of access to them
+the owner of personal data within ten working days notifies the subject
+personal data, as well as the subjects of relations related to personal data, which these
+data has been transferred.
+{Part three of Article 21 as amended in accordance with Law № 383-VII of
+03.07.2013 }
+Article 22. Control over observance of the legislation on protection of personal data
+1. Control over compliance with the legislation on personal data protection within
+the powers provided by law are exercised by the following bodies:
+1) the Commissioner;
+2) judge.
+{Article 22 as amended in accordance with Law № 5491-VI of 20.11.2012 ; text
+Article 22 as amended by Law № 383-VII of 03.07.2013 }
+Article 23. Powers of the Commissioner of the Verkhovna Rada of Ukraine for Human Rights in
+in the field of personal data protection
+1. The Commissioner has the following powers in the field of personal data protection:
+1) receive proposals, complaints and other appeals of individuals and legal entities on issues
+protection of personal data and make decisions based on the results of their consideration;
+2) to carry out on the basis of appeals or on its own initiative on-site and off-site, scheduled,
+unscheduled inspections of owners or managers of personal data in the order
+determined by the Commissioner, with provision in accordance with the law of access to the premises where
+personal data is processed;
+3) receive on request and have access to any information (documents)
+owners or controllers of personal data that are necessary to exercise control over
+ensuring the protection of personal data, including access to personal data,
+relevant databases or files, information with limited access;
+4) approve regulations in the field of personal data protection in cases
+provided by this Law;
+5) based on the results of the inspection, consideration of the appeal to issue mandatory requirements
+(instructions) on the prevention or elimination of violations of the legislation on personal protection
+data, including the modification, deletion or destruction of personal data, security
+access to them, granting or prohibiting their granting to a third party, suspension or termination
+personal data processing;
+6) provide recommendations on the practical application of protection legislation
+personal data, explain the rights and responsibilities of the persons concerned at the request of the subjects
+personal data, owners or managers of personal data, structural
+units or persons responsible for the organization of work on personal data protection, others
+persons;
+7) interact with structural units or responsible persons, respectively
+to this Law organize work related to the protection of personal data in them
+processing; publish information about such structural subdivisions and responsible persons;
+8) address proposals to the Verkhovna Rada of Ukraine, the President of Ukraine, the Cabinet
+Ministers of Ukraine, other state bodies, local governments, their officials
+persons to adopt or amend regulations on protection
+personal data;
+9) provide at the request of professional, self-governing and other public associations or
+legal entities conclusions on draft codes of conduct in the field of personal protection
+data and changes to them;
+10) draw up protocols on bringing to administrative responsibility and
+send them to court in cases provided by law;
+11) inform about the legislation on personal data protection, its problems
+practical application, the rights and responsibilities of the subjects of relations related to personal
+data;
+12) monitor new practices, trends and technologies of personal protection
+data;
+
+13) organize and ensure interaction with foreign subjects of relations,
+related to personal data, including in connection with the implementation of the Convention on the Protection of Personal Data
+persons in connection with the automated processing of personal data and the Additional Protocol to
+it, other international agreements of Ukraine in the field of personal data protection;
+14) participate in the work of international organizations on personal data protection.
+2. The Commissioner for Human Rights of the Verkhovna Rada of Ukraine shall include in his annual
+report on the state of observance and protection of human and civil rights and freedoms in Ukraine report on
+the state of compliance with legislation in the field of personal data protection.
+{Article 23 as amended in accordance with Law № 5491-VI of 20.11.2012 ; in the editorial office
+Law № 383-VII of 03.07.2013 }
+Article 24. Ensuring the protection of personal data
+1. Owners, controllers of personal data and third parties are obliged to provide
+protection of this data from accidental loss or destruction, from illegal processing, including
+illegal destruction or access to personal data.
+2. In public authorities, local governments, as well as in the owners or
+personal data controllers who process the personal data to be processed
+notification in accordance with this Law, a structural subdivision is created (determined)
+or a responsible person who organizes work related to the protection of personal data at
+their processing.
+Information about the specified structural unit or responsible person is reported
+To the Commissioner for Human Rights of the Verkhovna Rada of Ukraine, who ensures its promulgation.
+3. The structural unit or responsible person who organizes the work related to
+protection of personal data during their processing:
+1) informs and advises the owner or controller of personal data on issues
+compliance with legislation on personal data protection;
+2) interacts with the Commissioner for Human Rights of the Verkhovna Rada of Ukraine and designated by him
+officials of its secretariat for the prevention and elimination of violations
+legislation on personal data protection.
+4. Individuals - entrepreneurs, including licensed doctors, lawyers,
+notaries personally ensure the protection of personal data they hold, according to
+requirements of the law.
+{Article 24 as amended in accordance with Law № 5491-VI of 20.11.2012 ; in the editorial office
+Law № 383-VII of 03.07.2013 }
+Article 25. Restriction of this Law
+1. Restriction of Articles 6, 7 and 8 of this Law may be carried out in the cases provided for
+by law, as far as it is necessary in a democratic society in the interests of the national
+security, economic well-being or protection of the rights and freedoms of personal data subjects or
+other people.
+2. Processing of personal data without application of provisions of this Law is allowed,
+if such processing is carried out:
+1) by an individual exclusively for personal or household needs;
+2) exclusively for journalistic and creative purposes, provided that a balance is ensured between
+the right to respect for private life and the right to freedom of expression.
+3. This Law does not apply to relations concerning the receipt of archival information
+repressive bodies.
+{Article 25 is supplemented by part three in accordance with Law № 316-VIII of April 9, 2015 }
+{Article 25 as amended by Law № 383-VII of July 3, 2013 }
+Article 26. Financing of works on protection of personal data
+Page 2
+
+Financing of works and measures to ensure the protection of personal data
+carried out at the expense of the State Budget of Ukraine and local budgets, funds
+subjects of relations related to personal data.
+Article 27. Application of the provisions of this Law
+1. The provisions on personal data protection set forth in this Law may
+supplemented or clarified by other laws, provided that they establish requirements
+regarding the protection of personal data that do not contradict the requirements of this Law.
+2. Professional, self-governing and other public associations or legal entities may
+develop codes of conduct to ensure effective protection of the rights of entities
+personal data, compliance with legislation on personal data protection, taking into account
+specifics of personal data processing in different areas. In developing such a code
+conduct or making changes to it, the relevant association or legal entity may
+to apply for an opinion to the Commissioner.
+{Part two of Article 27 as amended in accordance with Law № 5491-VI of
+20.11.2012 ; as amended by Law № 383-VII of 03.07.2013 }
+Article 28. Responsibility for violation of the legislation on protection of personal
+data
+Violation of the legislation on personal data protection entails liability,
+established by law.
+Article 29. International cooperation and transfer of personal data
+{Title of Article 29 as amended by Law № 5491-VI of November 20, 2012 }
+1. Cooperation with foreign subjects of relations related to personal
+data, is regulated by the Constitution of Ukraine , this Law, other regulations
+acts and international treaties of Ukraine.
+2. If an international treaty of Ukraine, the binding consent of which is given by the Verkhovna Rada
+Council of Ukraine, established other rules than those provided by the legislation of Ukraine, then
+the rules of the international agreement of Ukraine are applied.
+3. Transfer of personal data to foreign subjects of relations related to
+personal data, is carried out only if provided by the relevant state
+proper protection of personal data in cases established by law or internationally
+agreement of Ukraine.
+The member states of the European Economic Area, as well as the signatory states
+Council of Europe Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data
+data are recognized as providing an adequate level of protection of personal data.
+The Cabinet of Ministers of Ukraine determines the list of states that provide adequate protection
+personal data.
+Personal data may not be shared for any purpose other than that for which it was used
+collected.
+{Part three of Article 29 as amended by Law № 5491-VI of November 20, 2012 }
+4. Personal data may be transferred to foreign subjects of relations related to
+personal data, also in the case of:
+1) granting by the subject of personal data unambiguous consent to such transfer;
+2) the need to conclude or execute a transaction between the owner of personal data
+and a third party - the subject of personal data in favor of the subject of personal data;
+3) the need to protect the vital interests of personal data subjects;
+4) the need to protect the public interest, establish, implement and ensure
+legal requirements;
+5) providing the owner of personal data with appropriate guarantees of non-interference in
+personal and family life of the subject of personal data.
+{Article 29 is supplemented by part four in accordance with Law № 5491-VI of November 20, 2012 }
+Article 30. Final provisions
+1. This Law shall enter into force on January 1, 2011.
+2. The Cabinet of Ministers of Ukraine within six months from the date of entry into force
+By law:
+to ensure the adoption of regulations provided by this Law;
+to ensure the bringing of its normative legal acts into compliance with this Law.
+President of Ukraine
+m. Kyiv
+June 1, 2010
+№ 2297-VI
+
+В.ЯНУКОВИЧ
+
+

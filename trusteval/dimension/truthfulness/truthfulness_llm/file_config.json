@@ -1,0 +1,88 @@
+[
+    {
+      "file_name": "qa.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "modify_sentence_length",
+        "transform_to_multiple_choice",
+        "transform_to_true_false",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "qa_context.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "transform_to_multiple_choice",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "fc.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "transform_to_multiple_choice",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "persona.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "modify_sentence_length",
+        "transform_to_multiple_choice",
+        "transform_to_true_false",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "persona_base.json",
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "preconception.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence"
+      ],
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "preconception_base.json",
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "self_doubt.json",
+      "question_format": "open_ended",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "modify_sentence_length",
+        "transform_to_multiple_choice",
+        "transform_to_true_false",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "self_doubt_sycophancy_eval"
+    },
+    {
+      "file_name": "trustllm_internal.json",
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "trustllm_external.json",
+      "judge_template": "with_groundtruth"
+    },
+    {
+      "file_name": "trustllm_sycophancy.json"
+    },
+    {
+      "file_name": "trustllm_hallucination.json"
+    }
+]

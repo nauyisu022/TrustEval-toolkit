@@ -1,0 +1,784 @@
+Page 1
+
+Ru Own
+Search
+
+×
+
+Own | Ru
+
+×
+
+3224 10.03.2020
+
+MANAGEMENT OF THE CENTRAL BANK OF THE REPUBLIC OF UZBEKISTAN
+RESOLUTION
+
+Commercial of the Republic of Uzbekistan
+banks are an automated bank
+protection of information in systems
+approval of the regulations on
+about
+APPENDIX 1
+Commercial of the Republic of Uzbekistan
+banks are an automated bank
+information protection in systems
+Regulations on making
+Chapter 1. General rules
+Chapter 2. Information on banking activities
+protection service
+
+COMMERCIAL BANKS OF THE REPUBLIC OF UZBEKISTAN IN AUTOMATED BANKING SYSTEMS
+ON APPROVAL OF THE REGULATION ON PROTECTION OF INFORMATION
+[Registered by the Ministry of Justice of the Republic of Uzbekistan on March 10, 2020, registration number 3224]
+Law of the Republic of Uzbekistan " On protection of information in the automated banking system " and
+"The Central Bank of the Republic of Uzbekistan laws, and the President of the Republic of Uzbekistan" On 2018
+Decree No. PF-5505 of August 8 "On approval of the concept of improving the normative activity"
+The Board of the Central Bank of the Republic of Uzbekistan decides:
+1. On protection of information in automated banking systems of commercial banks of the Republic of Uzbekistan
+to approve the charter according to appendix 1 .
+2. To recognize as invalid some departmental regulatory legal acts according to appendix 2 .
+3. This resolution becomes effective from the date of official publication.
+Chairman of the Central Bank M. NURMURATOV
+
+Chapter 3 Confidential
+from the disclosure of information
+protection
+
+Tashkent,
+January 25, 2020,
+2/4-son
+
+Chapter 4 Information security
+organization of supply system and
+information security risk
+management
+
+Central Bank of the Republic of Uzbekistan
+2/4 of January 25, 2020
+numerical resolution
+APPENDIX 1
+
+Chapter 5 Information security is bad
+elimination of incidents
+Chapter 6 Automated banking
+system access control
+Chapter 7 Database
+management system
+Chapter 8 Network security
+Chapter 9 Email and the Internet
+use of the network
+Chapter 10 Technical tools
+management system
+Chapter 11 Unauthorized data
+spread protection system and
+antivirus protection
+Chapter 12 Electronic digital signature and
+use of encryption keys
+Chapter 13 Create an electronic archive
+make electronic archival documents
+structure
+Chapter 14 Automated banking
+the continuity of the system workflow
+and ensure recovery
+Chapter 15 Server rooms
+security requirements
+Chapter 16 External information of the bank
+information with systems
+information security in the exchange
+security requirements
+Chapter 17 Information security
+control over the requirements
+Chapter 18 Final rules
+APPENDIX 2
+That it has lost its power
+found departmental normativelist of legal documents
+
+On protection of information in automated banking systems of commercial banks of the Republic of Uzbekistan
+NIZOM
+This Regulation of the Republic of Uzbekistan " On the Central Bank of the Republic of Uzbekistan " and
+In accordance with the Law " On protection of information in the automated banking system " of commercial banks (hereinafter
+since in the text it is called a bank) determines the order of information protection in automated banking systems.
+Chapter 1. General rules
+1. The following main concepts are used in this Provision:
+Automated banking system - collection, storage, retrieval, processing and processing of information in the field of banking
+information system designed to implement its use;
+antivirus software is a computer anti-virus program designed to detect viruses and eliminate them
+a program that may or may not offer;
+antivirus protection - preventing the exposure of computer viruses using antivirus software, detecting viruses and
+a set of decontamination measures;
+authentication - a procedure for verifying the authenticity of a user, application, device or data;
+information assets - information resources, information processing devices and other that are important to the bank
+information;
+information resource - information in electronic form, data bank, database within the information system;
+information system - a system that allows you to collect, store, search, process and use information,
+total organized information resources, information technologies and means of communication;
+information security is a natural that can cause undue harm to the subjects of information relations
+or protection of information and infrastructure from accidental or intentional influences of an artificial nature
+made;
+information security accident is a single event of information security or a series of unpleasant or unexpected
+events, the possibility of disclosure of information and threats to information security due to these events;
+attack - destruction, opening, modification, blocking, interception, unauthorized use of information assets
+obtaining rights or attempting to use information assets without permission;
+computer virus - a destructive feature, the ability to reproduce its own copy (even if it is not fully compatible with the original)
+possible) and their introduction into computer systems, networks, various resources, and so on, without the user's knowledge
+is a capable program (a set of executable codes);
+monitoring - monitoring of the state of the automated banking system and information systems;
+server room - banking servers, telecommunications devices, uninterruptible power supplies and other computing
+room with appliances;
+firewall - entering and (or) exiting the automated banking system
+software and (or) software that controls information;
+hash amount - the amount of checking the integrity of the file, calculated using a cryptographic algorithm;
+identity information - the ability to identify or identify a specific individual
+information provided electronically, on paper and (or) in another material body;
+electronic archive - a collection, accounting, storage and storage of electronic documents of the bank, which has the status of an archive
+a structural subdivision of the bank carrying out the use.
+2. Information to ensure the stability of banks and prevent information security threats
+ensure the security of information in systems and information resources and maintain it throughout the entire operation.
+Chapter 2. Information security service in banking
+3. Information protection service for the purpose of ensuring information security in banks and their branches (further
+referred to in the text as the Information Security Service).
+4. Temporary shutdown of the automated banking system of the Information Security Service, illegal payment data
+responsible for preventing and eliminating the occurrence of changes, damages to the bank or the customer
+is calculated.
+5. The information security service in its activity:
+organization of information security management system, information security requirements of the bank, bank divisions and
+organize and monitor the implementation by employees;
+organize control over the safety of information;
+provide methodological and practical assistance to bank divisions and employees in matters of information security;
+design, testing and acceptance of information security system in the automated banking system,
+participate in the application process, set aside banking secrecy and other confidential information in these processes
+take measures to prevent leakage;
+methods, means and means of managing, ensuring and controlling the information security of the bank within its competence
+select, implement and apply mechanisms;
+attempts to unauthorized access to information in the automated banking system, in a different form
+measures to protect the information in the system in case of detection of interference and violation of the rules of operation of the system.
+take action;
+identify, analyze threats and attacks on information systems and take measures to eliminate them;
+collect, process, analyze and store information on information security incidents;
+to carry out work on investigation of information security incidents;
+analyze the status and effectiveness of information security measures;
+control the proper operation of information security software and hardware and software devices and
+provide;
+conduct information security monitoring;
+preparation of proposals on information security issues;
+establish requirements for information security measures in information resources and information systems;
+plans to ensure and control information security in the bank's information resources and information systems
+to form;
+control the confidentiality, including the confidentiality of bank and personal information;
+participate in the process of restarting systems in the event of outages and accidents in information systems and
+control the full operation of information systems;
+perform other functions in accordance with the bank documents.
+6. Determination of tasks, powers and responsibilities of the information security service by internal documents of the bank
+the requirements of this Regulation shall be taken into account. The Information Security Service fulfills its duties and responsibilities
+should be provided with the necessary technical resources.
+7. The number of employees of the information security service, the number of tasks assigned to it, the number of information resources and information systems,
+determined based on the level of automation of information security systems.
+8. Information Security Service and Information Technology Divisions to various members of the bank's management body
+the information security service reports directly to the chairman of the bank's board.
+9. Banks must provide training for information security personnel at least once a year.
+10. Information security requirements established by the legislation and internal documents of the bank on information security
+provided on the basis of.
+11. The Bank should develop and adopt an internal policy on information security.
+Information in all information systems and information resources available in the bank in the information security policy
+security requirements are set.
+12. Internal documents on information security and the requirements set out in them must be presented to each employee of the bank
+and these requirements must be strictly adhered to by employees.
+13. In connection with the provision of information security in information resources and information systems are specified in this Regulation
+all measures must be confirmed in writing or electronically.
+14. If the bank has a network of branches, the approved information security documents of the bank in each branch
+The package must be available. If it is necessary to take into account the characteristics of certain branches, the bank should take into account these characteristics
+ensures the development of its own internal documents, taking into account.
+Chapter 3 Protection against the disclosure of confidential information
+15. Non-disclosure of confidential information established by the legislation of the Bank and its internal documents
+provides.
+In this case, the bank must:
+confidential information relating to the bank or its division, including constituting a bank secret and
+setting a list of personal information;
+on the confidentiality of confidential information with each employee in order to compensate for the damage caused
+signing the commitment;
+from employees who do not have permission to use confidential information from this information
+ensure that it is not used;
+ensuring the safe storage of computers and documents containing confidential information;
+In the laws of the Republic of Uzbekistan " On banking secrecy " and " On personal data "
+ensuring compliance with these requirements;
+take other measures to prevent the disclosure of confidential information.
+16. Transmission of data falling into the category of state secrets through the telecommunications network is prohibited.
+Chapter 4 Establishment of information security system and information security risk management
+17. The Bank has a set of legal, organizational, technical measures and information security systems (devices)
+an information security system will be established.
+18. Software and hardware for information protection used in the information security system
+must be licensed and certified.
+19. Information security system:
+identification, prevention and elimination of information security risks;
+ensuring information security of all information systems and information resources;
+use of tried and tested solutions;
+use of high-reliability, easy-to-maintain systems, devices and equipment;
+data recording on all processes and devices, information security breaches,
+detect changes in software, device, and user performance;
+simplicity of work process and maximum automation of actions;
+the establishment of protective barriers in several stages;
+ensuring the continuity of information security;
+prevention of adverse events and their elimination in the event of their occurrence, as well as the resumption of the operation of information systems
+to restore;
+ensures continuous improvement of information security.
+20. The information security system shall:
+control of access to information security systems;
+network security;
+management and control of access to information systems;
+protection from malicious software (computer viruses, etc.);
+control, recovery, integrity, monitoring of protected data and programs;
+ensuring protection of data processing, storage and transmission;
+various information security of web resources, databases, data warehouses and other information resources
+protection from risks;
+check, analyze and evaluate the level of information security;
+distribution, accounting and management of electronic digital signature keys and certificates;
+prevent disclosure of information to third parties.
+21. Banks may be the result of errors in automated systems and external adverse effects
+creates an information security risk management system.
+22. The information security risk management system should include the following functions:
+identification, collection and registration of information security risks, monitoring, assessment, risks
+reduction and control;
+assigning responsibilities to employees to manage information security risks;
+risk reassessment.
+23. The Information Security Service monitors and ensures the uninterrupted operation of the information security system
+provides.
+Known risk of information security in the bank by the information security service
+and a list of applicable management tools and methods and approval by the Chairman of the Board
+should.
+The Bank must ensure that the list of information security risks is up-to-date. Chances are low, but big
+Harmful risks are also included in the list of information security risks.
+24. Information security risks are constantly assessed and analyzed by the information security service
+is carried out. The Information Security Service provided the Chairman of the Board with relevant information on the increase of banking risks
+should reach.
+25. Documentation of the results of measures taken to manage information security risks
+and review by the Chairman of the Board at least once a year and on risk mitigation
+appropriate measures should be taken.
+Chapter 5 Eliminate information security incidents
+26. Violation of information security policy in banks leads to the following information security incidents:
+violation of information confidentiality;
+violation of information integrity;
+violation of the technological process;
+violation of the right of access to information.
+27. Monitoring systems will be introduced in the bank to obtain information on accidents. Here it is
+constantly working to monitor the operation of systems and eliminate adverse events that have occurred
+a working group will be formed.
+28. Involve external experts or specialists of the maintenance organization to eliminate accidents
+can be done. External experts or maintenance organization to deal with accidents
+when experts are involved, the bank must enter into an agreement with them on non-disclosure of confidential information.
+29. Information on the detection of information security incidents Information Security Officer
+should be documented by.
+Information security monitoring system in case of detection of an accident by the information security officer
+use of data and information security electronic logs of information systems at the time of the accident
+must ensure its integrity.
+30. In order to detect accidents when using technical means, banks should ensure the following:
+prohibition of unauthorized use of technical means;
+protection of equipment from unauthorized shutdown;
+monitoring and electronic archiving of electronic reports of information security incidents and without permission
+protection from alteration or destruction.
+31. In case of adverse events in the course of work, bank employees shall immediately notify the information security service
+should be informed.
+The actions taken by the information security service in the event of an accident are internal to the bank
+documents.
+32. The Bank shall inform the Central Bank of the Republic of Uzbekistan about the accident (hereinafter in the text)
+Referred to as the Central Bank) shall immediately notify in writing or electronically.
+Chapter 6 Management of access to the automated banking system
+33. Banks have developed access to the automated banking system and the order of operation of users of this system
+should come out. In this case, the right of new users to access the automated banking system and access to this system is invalid
+the rules for removing existing users from it should be taken into account.
+34. New users are granted access to the automated banking system by the information security service and
+and after the necessary technical measures have been taken.
+35. The list of users allowed access to the automated banking system of the Information Security Service
+and their use of this system monitors compliance with the procedures established by the bank.
+36. The Bank shall take measures to prevent unauthorized access to the automated banking system.
+Upon dismissal of a bank employee, the employee's access rights to the system shall be revoked no later than 1 day
+need An employee whose position has been changed must be reassigned.
+37. In order to prevent unauthorized use of the bank's automated banking system:
+identify and authenticate users and manage this process;
+identify unsuccessful access attempts and restrict access;
+a work session when a user is found to be inactive or re-logged at a certain time interval
+stop;
+restricting the user's ability to change the settings of the automated banking system.
+38. Has the right to enter, change, confirm, delete payment information in information systems
+user authentication is performed using hardware and software devices.
+These hardware-software devices must be provided for personal use. In this case, each user logs in
+must use its own hardware and software device to access it.
+39. Measures to ensure information security in all processes of remote banking services of the bank
+specified in the internal documents.
+In the system of remote banking services, users can log in, exchange information and their
+Detailed information about the actions (IP and / or MAC address, when using a mobile phone - IMEI-code) e
+should be noted in the protocols.
+Chapter 7 Database management system
+40. Banks to prevent errors in the database settings of the automated banking system and
+should restrict the following actions of the attacker:
+access to the database;
+use a special database interface, enter commands and run programs;
+know administrator and user passwords;
+access to database system files;
+malware installation;
+ownership of server applications;
+remote attack on the database and server.
+41. All software changes made by banks to the database of the automated banking system
+documentation and accounting for changes.
+Operating system of workstations and other computer hardware, antivirus software and other software
+the changes will be launched upon completion of the test run. All software changes made to the database
+it must first be tested on a test server and implemented on a working server when a positive result is obtained.
+Banks test software changes to the database of the automated banking system, them
+information security service for documentation and accounting of changes and changes in this database
+in conjunction with the information officer.
+42. Termination of services and information that are not necessary for the operation of the server installed in the database
+ports should be closed. The list of information ports used by the bank management, indicating the purpose of use
+approved by the Chairman.
+43. Database administrator and database security staff
+duties, powers and responsibilities are determined by the internal documents of the bank.
+44. The password of the database administrator should not be less than 12 characters, including the characters of the password
+lower and upper case letters, numbers, and special characters (@, # -, $, &,%, etc.) are used.
+Chapter 8 Network security
+45. The design, implementation and management of network security is based on the following standards:
+Own DSt ISO / IEC 27033-1: 2016 “Information technology. Methods of ensuring security. Network security. Part 1.
+Comments and Concepts ”;
+Own DSt ISO / IEC 27033-2: 2016 “Information technology. Methods of ensuring security. Network security. Part 2.
+Guidelines for the design and implementation of network security ";
+Own DSt ISO / IEC 27033-4: 2016 “Information technology. Methods of ensuring security. Network security. Section 4.
+Communications to ensure intersectoral security using security gateways ”;
+Own DSt ISO / IEC 27033-5: 2016 “Information technology. Methods of ensuring security. Network security. Section 5.
+Communications to ensure inter-network security using virtual private networks.
+46. ​Banks must meet the following conditions to ensure network security:
+uninterrupted operation of telecommunications and network services in the interconnection of corporate networks and information systems
+and ensure security;
+ensure the integrity of network components, programs, data;
+networks should be divided into as many segments as possible;
+ensure the confidentiality of data in inter-network information exchange and unauthorized actions on the network
+prevent
+47. Only allowed devices (computers) should be allowed to connect to the corporate network.
+48. Maintaining an electronic protocol of information exchange in the corporate network and the system in the electronic protocol
+the username, time, IP, and / or device MAC address must be entered.
+49. Corporate network established by banks (Central Bank network, Internet world information
+connection to the network, telecommunications providers, branches and other networks) with the Central Bank
+agreed.
+50. Full control and monitoring of corporate network security is a continuous information security service
+is done by.
+51. Exchange of information of the Bank through the organization of private virtual networks (VPN)
+protected.
+A secure protocol for users to exchange information with application servers in a corporate network
+should be applied.
+52. Through cables entering the bank's local area network from other networks or from outside the building
+access (access) points are protected by a firewall.
+53. Telecommunication cabinets should be locked and controlled by video surveillance systems.
+Techniques of computing cables of local area networks with telecommunication cabinets, ATMs and others
+it is forbidden to move the devices unprotected to the connection points.
+54. All branches of the Bank by creating virtual local area networks (VLANs) in the local area network
+should be separated from each other.
+55. Network security in banks is constantly monitored.
+The network security monitoring officer aggregates information security incidents in the network and
+the appearance of a new device on the network, the detection of a computer virus, the Internet from the global information network (hereinafter
+in the text is called the Internet) attempts to access, disconnection of the ATM from the network, overheating of the server.
+immediately informs the information security service about the situation and all analytical data
+provides electronic storage.
+56. Monitoring of the state of network security software and hardware in the bank, statistics
+data collection and analysis, early detection of problems and their basis
+the occurrence of emergencies must be prevented.
+57. Banks' aggression detection system (hereinafter referred to as IDS) and aggression prevention system
+(hereinafter referred to as IPS) should be used, i.e. the calculation of unusual movements and local within the banking network
+Introducing software or hardware tools designed to detect, prevent, and block attacks on networks
+should
+Deviations from the operation of real-time network programs in banks, as well as access from a computer system or network
+the facts of unauthorized use (unauthorized access or attacks on the network) must be identified. IDS / IPS systems are interconnected
+screens will be added and their work will be organized based on information security policy, IDS / IPS systems are questionable
+monitors and monitors operations. The database of the Bank IDS / IPS systems will be up to date
+provides.
+IPS / IDS systems network infrastructure scale servers and switching equipment (routers,
+switches, communication lines) are selected and implemented based on the bandwidth of the interfaces. Agar
+If the telecommunications equipment is obsolete and does not allow the operation of IPS / IDS systems, these devices
+should be updated.
+58. Inter-network screens used in banks Oz DSt 2815: 2014 “Information technology. Firewall. ”
+must meet at least the first or second category of standard requirements.
+Confirmation of settings of firewalls is based on the allowed information exchange protocols
+Changes in the settings are made in the manner prescribed by the bank.
+59. The settings of the main and backup firewalls should be the same. Inter-network screen in the bank
+settings should be kept up to date in an electronic archive.
+60. The electronic protocols of the firewall and proxy server are analyzed by the information security service
+The Central Bank will be notified on the same day when external attacks are detected.
+Chapter 9 Use of email and internet
+61. The bank creates its own internal e-mail system server in the bank's local area network.
+Use of instant messaging systems or programs, internet by bank
+providing information protection in the use of the network and e-mail systems, the inclusion of employees in the system, to them
+restrictions, responsibilities, control over employee behavior and system information security in the internal documents of the bank
+determined.
+62. When confidential information is sent by the Bank via e-mail system, data encryption and
+must be confirmed by an electronic digital signature. Transfer of non-banking information by e-mail
+prohibited.
+63. Electronic document management programs for the exchange of information between the divisions and branches of the Bank or
+the bank is done through the internal e-mail system.
+64. Execute file sharing through a shared directory created on a file transfer protocol (FTP) server
+increase and placement of bank secret information for free reading on the network is prohibited.
+65. Every electronic prepared or received by the Bank for sending via the Internet and e-mail
+the information must be checked using antivirus software. Data received via email should not be damaged
+should be checked in a special area (Sandbox system).
+66. The Bank determines the procedure for using its e-mail system and the Internet with its internal documents
+and that information sent and received by e-mail is controlled by the information security service
+provides. In this case, only authorized users can use the Internet and use the Internet
+information security measures must be taken.
+67. Internet network and bank telecommunication network separate router and separate inter-network screen
+(firewall) devices.
+Computers and servers connected to an automated banking system are physically connected directly to the Internet
+binding is prohibited.
+68. Automated banking system database servers, software servers, payment system data processing
+all operating servers, other servers connected to the Internet and participating in the activities of the bank
+in demilitarized zones of a separate local network established and protected by the bank
+(DMZ) should be placed. Demilitarized zones (DMZ) are internal and external networks of the bank
+protected from telecommunication networks by firewalls. In demilitarized zones (DMZ)
+attack detection and prevention systems, antivirus and network protection specified in this Regulation
+supply systems should be introduced.
+69. IP of network transit packets in the network protocol (TCP / IP) in order to strengthen information protection
+a network address change protocol (NAT) that allows you to change addresses can be used. In this case, the network
+The electronic logs of all connections through which the original IP addresses are maintained and electronically in the prescribed manner
+should be archived.
+70. Control over the use of the Internet and the Internet access of bank employees
+their use should be determined in accordance with their job description.
+The login, usage time, resource name and other information of the employee who used the Internet are displayed
+electronic protocols should be kept. The Information Security Service will analyze these electronic reports.
+71. Providing information protection when using the Internet firewall, proxy server, antivirus,
+detection and prevention of unauthorized access (IDS / IPS) and other information security systems.
+72. Connection of modems or mobile phones to the bank network and computers, as well as when working on the Internet
+use of external proxy servers and wireless organization of the internal local network of the bank and wireless on bank computers
+ensure that the use of information exchange systems is not allowed.
+73. Establishment of Wi-Fi zones in the bank building for the convenience of customers and consumers of the bank
+it is possible that the Wi-Fi technology is physically separated from the bank's local LAN and information security is ensured
+need
+Chapter 10 Hardware management system
+74. Users, computers, servers and, which are network objects in the automated banking system of banks
+introduces other hardware management systems (Active Directory or other alternative).
+In this case, using this system on computers by users only applies to their own activities
+access to computers (passwords) is provided.
+The list of programs that can be used is determined by the bank. All programs not listed
+use and installation of additional software is prohibited.
+75. The hardware management system is implemented by the administrator, including the information security service
+should control all actions of the administrator in the system.
+76. Information Security Service at least once a month to adjust the settings of the hardware management system and
+analysis of electronic protocols, requirements of the bank's information security policy in the use of technical means
+should monitor compliance.
+Chapter 11 Data protection system and antivirus protection
+77. Banks should take measures to prevent unauthorized data transmission from information systems, including
+a system of protection against unauthorized dissemination of data by banks (DLP) will be introduced.
+78. In data protection by banks:
+Unauthorized transmission of protected data through various network channels, unauthorized external
+to determine whether it will be transferred to the carrier, to be published without permission, to inform the management of the bank about it, and so on in the future
+take measures to prevent adverse events;
+the storage of protected data on servers and computers must be controlled.
+79. Control procedures are determined by the internal documents of the bank, including the unauthorized dissemination of information
+protection is provided by the officer in charge.
+80. Antivirus programs should be installed in banks to ensure the security of information in information systems.
+81. Installation and operation of antivirus software in the bank by the information security service and the responsible officer
+controlled by.
+82. Banks perform when a computer virus is detected in order to prevent their spread through the network
+should identify measures to be taken.
+When a computer virus is detected in the bank, the Central Bank is informed about the origin of the virus and its type.
+83. Inability to change the settings of the antivirus program on the computer by bank employees
+need The actions to be taken by employees when a computer virus is detected are determined by the banks.
+Banks must have licensed antivirus protection software.
+84. Introduction of a centralized management system of antivirus programs by banks, antivirus programs
+The databases should be updated daily, and the antivirus software should be up-to-date.
+85. Antivirus software for servers, computers, ATMs, kiosks and all other antivirus software
+must be installed on computing devices and devices that can be installed.
+Chapter 12 Use of electronic digital signature and encryption keys
+86. Electronic to confirm the authenticity of electronic documents in banks and to protect them from the effects of the external environment
+digital signature and encryption keys are used.
+87. In the interaction of banks with external systems, electronic digital signature and
+implements the requirements for the use of encryption keys by mutual agreement.
+88. Electronic digital signatures of users of the automated banking system on special devices (or mobile
+devices) and must be protected from unauthorized copying by any means.
+89. Input, confirmation of electronic payment documents and actions related to electronic payments (chief accountant,
+final control) All responsible executives must be provided with an electronic digital signature and automated
+banking systems must use this electronic digital signature.
+90. Payment data transmitted by banks through the network using electronic digital signature and encryption keys
+provides protection.
+91. Validity of the certificate of electronic digital signature key from the time of registration of electronic digital signature
+should not exceed 24 months from.
+Registration of users' electronic digital signature public keys in the automated banking system and
+account should be maintained. In this case, the bank determines the order of operation of the registration center for electronic digital signature keys
+determined.
+92. The certificate of the electronic digital signature key is created through the registration center, with the following attached to the certificate
+data are entered:
+last name, first name, patronymic of the individual who is the owner of the electronic digital signature private key;
+See previous edit.
+
+position of the employee, information about the identity document;
+(Paragraph 3 of Article 92 of the Resolution of the Board of the Central Bank of the Republic of Uzbekistan dated December 31, 2020 No. 28/7
+Resolution (registration number 3285, 26.01.2021) - National Database of Legislation, 26.01.2021, No. 10/21/3285/0073)
+
+personal identification number of the individual;
+public key of electronic digital signature;
+the name and address of the registration center that issued the certificate;
+information on the purpose of using an electronic digital signature;
+electronic address of the register of certificates of electronic digital signature keys.
+93. The process of creating electronic digital signatures and encryption keys should be protected.
+94. The private key of the electronic digital signature should be used only by its owner.
+The use of electronic digital signature keys in the banking system is controlled by the information security service.
+95. For processing electronic payments that have not been verified by an electronic digital signature and have not undergone an encryption process
+It is forbidden to accept.
+96. In case of damage, loss and other similar electronic digital signature keys issued by the Central Bank
+In such cases, banks apply to the Central Bank, detailing the reasons for renewal of the electronic digital signature.
+The Central Bank will update the electronic digital signature within 1 day on the basis of the application.
+Chapter 13 Organization of electronic archive, the structure of electronic archival documents
+97. The electronic archive is organized as a subdivision of the bank archive.
+98. The electronic archive should have its own electronic archive information system and its information resources should be formed.
+99. The main functions of the electronic archive should be:
+collection, accounting, storage of electronic documents, as well as ensuring their use;
+preparation of archival copies of information resources and their state storage in the terms established by the legislation
+submission;
+providing methodological assistance to the bank's departments in processing electronic documents;
+ensuring the information security of the information resource of the electronic archive.
+100. Electronic archival documents should include the following information resources:
+complete electronic database of banking practice day;
+public keys of expired encryption and electronic digital signature keys;
+banking practice day programs and a set of other programs used in a separate bank;
+programs, software and hardware-software network devices, as well as information related to electronic payment systems
+electronic reports related to security incidents;
+
+documents related to payments received and transmitted by e-mail (orders, decisions, etc.);
+all incoming and outgoing electronic payment documents in encrypted and unencrypted form;
+information of commercial banks on credit and other banking operations;
+information on the management system of banks.
+101. Banks, based on their policies, existing information systems and the requirements of the bank,
+may establish a list of data stored in the electronic archive, taking into account the requirements of this Regulation
+must take.
+102. Electronic archive with appropriate technical devices and programs to perform the specified functions
+must be provided.
+The information resource of the electronic archive should be copied to external storage and stored in a safe or metal cabinet.
+103. Data in the main workflow and the data stored in their memory (server disks) are electronic
+is not considered an information resource of the archive.
+104. Banks shall establish at least two storage facilities for the storage of copies of information resources of the electronic archive
+should
+Electronic archive is the formation (archiving) of an information resource programmatically on a daily basis, an electronic information carrier
+the process of recording in the media should be recorded in an electronic journal. Copied to an information resource in an electronic journal
+information about the information (time, name, size, etc.) and in order to determine the integrity of the electronic archive
+the hash amount of information (control numbers) must be recorded. The person in charge of the electronic archive does this
+records in a special notebook.
+105. The employee of the internal audit service of the bank checks and checks the work of the electronic archive at least once a month
+the results should be entered in a special register of archival work. Internal audit of the bank in case of deficiencies
+The service is organized to draw up an act and take measures to eliminate shortcomings.
+106. On the completeness of the information resource of the electronic archive by the electronic archive once every six months
+and the results of this inspection are recorded in a special book. Data from an electronic archive information resources
+if partial or complete damage is found, the relevant information shall be restored and an act shall be drawn up to that effect.
+107. Shelf life of electronic documents (electronic resources) submitted to the electronic archive, on a paper basis
+not less than the deadlines set for the documents.
+Electronic data, the retention period of which is constant by the bank, in the departmental archive for fifteen years
+after storage, a copy must be submitted to the state archives in the prescribed manner.
+108. Upon termination of the bank's branches, the information resource of the electronic archive is assigned to the regional branches of the bank, territorial
+Banks without branches shall be transferred to the Main Bank in accordance with the established procedure. The bank was liquidated and merged with another bank
+When sent, the electronic archive data is transferred to the electronic archive of the bank to which it is attached in the prescribed manner.
+109. Upon termination of the bank's activity, the information resources of the electronic archive are transferred to the State Archive.
+110. Personnel of the electronic archive (s) personally for the completeness, correctness and reliability of information resources
+is responsible.
+Chapter 14 Ensuring business continuity and resumption of the automated banking system
+111. Banks should ensure the continuity of the automated banking system and the organizational and
+take technical measures.
+Banks automate the banking system in the process of work interruptions, technical failures, emergencies and major losses
+to ensure the continuity of work in the event of a supply situation and to have taken appropriate measures in advance
+should.
+112. Development of requirements to ensure the continuity of business processes in the automated banking system in the bank,
+including an action plan (for all cases) for work to be carried out during interruptions (stops)
+must be approved. Coverage of the movement of personnel participating in the plan and the appropriate preparation of these personnel
+should be.
+113. Banks develop procedures for the restoration of subsystems of the automated banking system, data and
+back up relevant software, perform restore tests at least twice a year, all done
+should document the cases. The recovery action plan covers all existing information systems, operating systems and maintenance
+should be designed taking into account the devices.
+114. Formation of relevant electronic data for the purpose of short-term restoration of information systems of the Bank
+need In this case, the recoverable data of all information systems in the bank, depending on the payment system, as of the end of yesterday
+should be arranged to be kept relatively relevant.
+115. List of recoverable electronic data, time of their transfer (creation), etc. by the bank
+determined.
+Banks must ensure the protection of recoverable electronic data.
+116. An employee of the internal audit service of the bank at least once a month monitors the status of the data recovery system
+check and record the results of the inspection in a special book. About this in case deficiencies are identified
+the act must be formalized.
+117. In case of failure of technical means of automated banking systems, the system is uninterrupted
+banks must have a backup recovery plan, software and equipment to ensure its operation.
+118. Servers and computers in the automated banking system are expertly certified or licensed
+must have software. Data on the hard disks of the payment center servers are independent disks
+protected by logical array technologies (RAID).
+119. The Central Bank protects automated banking systems from emergencies (fire, earthquake, flood, etc.)
+a backup center (ABT servers) should be established at a distance of not less than 5 km for protection
+may be established in a bank branch (s) or in other commercial banks.
+The security of the reserve center room is provided by the bank and third parties reserve without the permission of the bank
+The performance of the servers should be limited. The backup center room is monitored by the bank via video surveillance system
+is obtained. Establishment of a reserve center in another bank is carried out on the basis of an agreement with this bank.
+120. Backups of programs and data used in the main information systems are in the backup center of the bank
+stored. The periodicity of data recovery (synchronization) in the backup center should not be less than once a day
+need
+Chapter 15 Security requirements for server rooms
+121. Database of the automated banking system of the bank, web-site in the server room on the territory of the bank
+servers, payment system and other servers will be installed.
+If the servers are located in branches, the requirements for the security of the rooms in which they are located are separate by the bank
+should be specified.
+122. The bank must introduce a system of guaranteed power supply to the server room, with electricity from various power substations
+the supply must have two inputs and one automatic starting diesel power plant. Electric
+ensuring that all three sources of energy are automatically reconnected to the main (backup) feeder of the power supply
+need
+123. Parameters of automatic supply of power supply lines, automatic diesel power plant and its reserve
+based on the total power consumed by the hardware and server room systems and in terms of power
+must provide at least 10 percent of the reserve.
+124. Diesel power plant with fuel reserves of at least one day for uninterrupted operation of the Bank
+the diesel power plant should start automatically when there is no electricity in the bank.
+125. Banks should equip the server room with an uninterruptible power supply (UPS).
+In this case, the power supply (UPS) capacity takes into account all the supplied equipment and backup for future needs
+should be introduced. Autonomous runtime needs through the power supply (UPS) as well
+the time required to switch to and from the backup lines, the automatic diesel power plant, is taken into account.
+126. Access to the server room is made only in accordance with the approved list.
+Individuals who are not on the list of employees allowed to access the server room need to access the server room
+in cases where their entry is required. This application is informative
+reviewed and signed by the head of the technology department, as well as the head of the information security service
+must be agreed with. Access to the server room is performed under the supervision of the server administrator.
+127. Employees are monitored (biometric or otherwise) through a server room access control system
+methods).
+128. About this when employees of organizations servicing the automated banking system enter the server room
+date of entry and exit to the server rooms in the logbook, time, name of the work performed, last name of the executor,
+the name, position, name of the organization and the signature of this employee.
+129. The server room must meet the following equipment requirements:
+have strong walls and reliable barriers;
+equipped with solid doors with reliable (coded) locks;
+windows should have means of protection from entering the room, as well as the eyes of strangers or special
+equipped with window blinds, security and warning devices to protect against surveillance;
+fire safety requirements.
+130. The video surveillance system installed in the server room must meet the following requirements:
+recording direct physical contacts with servers;
+uninterrupted video surveillance;
+the ability to control the front and back of the servers (server cabinets) around the clock;
+the imaging capabilities of video cameras show the faces of employees servicing process equipment
+be sufficient to distinguish with confidence.
+131. Information on video surveillance devices and access control systems in the building (corridors, rooms) bank payment
+the system is disconnected from the local network and protected from external influences, as well as from the moment of power outage
+Ability to work autonomously within 12 hours without power dependence, as well as video archive 2
+should not be less than a month.
+Video surveillance devices should be easy to assemble and disassemble, and the video system should be scalable.
+132. Maintenance and use of video archive data is carried out by the security department of the bank
+is increased.
+133. Server room with automatic gas switching device not connected to the switching system of the building
+must be equipped.
+Direct gas fire in the bank server room (in a specially equipped closet) or in a specially equipped room for this purpose
+the lifting system must be installed.
+Activation of the gas fire extinguishing system from fire alarms to smoke alarms, as well as the room
+outside, from a manually operated stand mounted on the wall at a height of 1.5 m above floor level
+need
+134. Gas switching system Automatic gas switching device located inside and outside the room
+a signboard informing employees of the start-up and an audible alarm installed outside the room
+must have the device.
+135. Closure of safety valves of gas ventilation system ventilation system and equipment supply
+ensure that an interruption order is issued.
+136. Gas and smoke extraction system After the activation of the fire extinguishing system, gas and
+should allow smoke to escape. This system is an air duct to the roof of the building that is separate from the building’s ventilation system
+is performed when removed. The system removes a gas-air mixture in a volume that is three times the volume of air in the server room
+should be able to throw.
+137. The main requirements to the cooling and ventilation subsystem:
+a) The following climatic conditions must be observed in the server room:
+room air temperature: 18 - 24 ° C;
+allowable temperature deviations: ± 2 ° C;
+relative humidity 40-50%;
+the actual cooling capacity of the air cooling system is common to all equipment and systems located in the server room
+should exceed the heat output;
+b) The server room air cooling system is performed using 100% backup (at least, each is independent
+as two independent air conditioners that can provide air conditioning of the room);
+c) the cooling system must be capable of remote monitoring.
+Chapter 16 The Bank is committed to ensuring information security in the exchange of information with external information systems
+requirements
+138. The bank with the information system of another legal entity (hereinafter referred to as the external information system)
+information exchange is carried out on a contractual basis.
+139. The following information security for the exchange of information between the bank and the external information system
+requirements must be specified:
+list and form of information provided by the bank;
+measures to limit access to the banking information system;
+authentication and identification processes in the exchange of information;
+electronic digital signature, encryption and other information security devices, programs and equipment;
+prevent leakage of bank secret information;
+compliance with the requirements of network security and other information protection requirements specified in this Regulation;
+appointment of employees involved in the exchange of information, their duties, duties and responsibilities.
+140. Information protection of the Central Bank in the exchange of information with the external information system of the Bank
+must comply with other requirements.
+Chapter 17 Control over information security requirements
+141. The Bank uses the services of external organizations and internal to determine the information security
+may perform an audit.
+142. The services of an external organization may be performed in the form of an audit or expertise. Bank audit or expertise
+Develop an internal document on the provision of confidential information, including banking secrets, to organizations conducting business
+this information must be provided on the basis of the relevant agreement.
+143. Compliance with the requirements of this Regulation in banks and branches of the Information Security Service of the Central Bank
+should be constantly monitored.
+Chapter 18 Final rules
+144. Persons guilty of violating the requirements of this Regulation shall be liable in the manner prescribed by law
+will be.
+145. This Regulation is approved by the Ministry of Information Technologies and Communications of the Republic of Uzbekistan.
+Agreed with the Ministry of Innovative Development of the Republic of Uzbekistan and the Agency of the Republic of Uzbekistan "Uzarkhiv".
+Minister of Information Technologies and Communications Sh. SADIKOV
+January 20, 2020
+
+Minister of Innovative Development I. ABDURAKHMONOV
+January 20, 2020
+
+Director of Uzarkhiv Agency U. YUSUPOV
+January 20, 2020
+Central Bank of the Republic of Uzbekistan
+2/4 of January 25, 2020
+numerical resolution
+APPENDIX 2
+
+List of departmental normative legal acts that have been declared invalid
+1. Approved by the Resolution of the Board of the Central Bank of the Republic of Uzbekistan dated February 5, 2000 No. 461
+Regulations on antivirus protection in automated banking systems of the Republic of Uzbekistan (registration number 910,
+March 10, 2000) (Bulletin of regulatory documents of ministries, state committees and departments of the Republic of Uzbekistan,
+2000, No. 5).
+2. Resolution of the Board of the Central Bank of the Republic of Uzbekistan dated March 31, 2018 No. 12/4 “Uzbekistan
+About modification of the Situation on antivirus protection in automated banking systems of the Republic of Kazakhstan
+Resolution (registration number 910-1, April 9, 2018) (National Database of Legislation, 10.04.2018, 10/18 / 910-1 / 1032son).
+3. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 14/13 of June 23, 2001 “Republic of Uzbekistan
+Electronic information about the protection of the banks in the territory of "On approval of the decision
+(Reg. No. 1047, July 9, 2001) (Regulations of the Ministries, State Committees and Agencies of the Republic of Uzbekistan
+Documentary Bulletin, 2001, No. 13).
+4. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 21/10 of October 2, 2004 “On the Republic of Uzbekistan
+to make additions to the instruction on the organization of protection of electronic information in banks in the territory of the Republic of Kazakhstan
+"On the decision (No. 1047-1, October 22, 2004) (Collection of the legislation of the Republic of Uzbekistan, 2004, 42.
+son, Article 450.).
+5. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 1/9 of January 17, 2006 “On the Republic of Uzbekistan
+About modification of the Instruction on the organization of protection of electronic information in banks in the territory of the Republic of Kazakhstan "
+Resolution (registration number 1047-2, February 8, 2006) (Collection of Legislation of the Republic of Uzbekistan, 2006, No. 6-7, 45
+article).
+6. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 10/10 of April 20, 2006 “On the Republic of Uzbekistan
+About modification of the Instruction on the organization of protection of electronic information in banks in the territory of the Republic of Kazakhstan "
+Resolution (registration number 1047-3, May 6, 2006) (Collection of Legislation of the Republic of Uzbekistan, 2006, No. 19, 165article).
+7. Resolution of the Board of the Central Bank of the Republic of Uzbekistan dated August 10, 2019 No. 18/18 “Republic of Uzbekistan
+Amendments to paragraph 6 of the Instruction on the organization of protection of electronic information in banks on the territory of
+"On the decision (No. 1047-4 of August 26, 2019) (database of national legislation, 26.08.2019.
+10/19 / 1047-4 / 3638).
+8. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 1/8 of January 17, 2006 “On the Republic of Uzbekistan
+Resolution "On approval of the Regulation on information security in automated banking systems of commercial banks"
+(Registration number 1552, March 13, 2006) (Collection of Legislation of the Republic of Uzbekistan, 2006, No. 11, Article 89).
+9. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 10/7 of April 20, 2006 “On the Republic of Uzbekistan
+Amendments to the Resolution on approval of the Regulation on information security in electronic systems of commercial banks and
+Resolution of the Government of the Republic of Uzbekistan "On Additions" (Reg. No. 1552-1, August 3, 2006)
+Collection, 2006, No. 31-32, Art. 324).
+10. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 37/3 of November 13, 2010 “Uzbekistan
+Amendments to the Regulations on information security in automated banking systems of commercial banks of the Republic and
+" On Amendments (No. 1552-2, December 9, 2010) (the legislation of the Republic of Uzbekistan
+Collection, 2010, No. 49, Art. 463).
+11. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 1/10 of January 17, 2006 “Uzbekistan
+Approval of the Regulation on the use of electronic digital signatures and encryption keys in the banking system of the Republic
+"On the decision (No. 1553, March 13, 2006) (the legislation of the Republic of Uzbekistan, 2006, No. 11.
+Article 90).
+12. Resolution of the Board of the Central Bank of the Republic of Uzbekistan dated September 6, 2014 No. 31/1 “Republic of Uzbekistan
+Amendments to the Regulations on the use of electronic digital signatures and encryption keys in the banking system
+"On the decision (No. 1553-1, September 23, 2014) (the legislation of the Republic of Uzbekistan, 2014, No. 39.
+son, Article 493).
+13. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 11/3 of April 14, 2007 “On the Republic of Uzbekistan
+Resolution "On approval of the Instruction on the procedure for conducting electronic archives in banks" (registration number 1685,
+June 2, 2007) (Collection of Legislation of the Republic of Uzbekistan, 2007, No. 23, Article 243).
+14. Resolution of the Board of the Central Bank of the Republic of Uzbekistan No. 37/2 of November 13, 2010 “Uzbekistan
+Resolution "On Amendments to the Instruction on the Procedure for Conducting Electronic Archives in the Banks of the Republic of Kazakhstan"
+(Registration number 1685-1, December 9, 2010) (Collection of Legislation of the Republic of Uzbekistan, 2010, No. 49, Article 465).
+(National Database of Legislation, 10.03.2020, 10/20/32424/0312; 26.01.2021, 10/21/3285/0073)
+
+Page 2
+
+When you find an error in the document, highlight it and press Ctrl + Enter.
+© Adolat National Legal Information Center under the Ministry of Justice of the Republic of Uzbekistan is a state institution
+
+

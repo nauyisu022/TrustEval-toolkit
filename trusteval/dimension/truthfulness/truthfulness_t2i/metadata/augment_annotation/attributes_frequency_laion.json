@@ -1,0 +1,4283 @@
+{
+    "acid green": {
+        "LAION-2B-en": 10062
+    },
+    "air force blue": {
+        "LAION-2B-en": 4341
+    },
+    "alizarin crimson": {
+        "LAION-2B-en": 1097
+    },
+    "alloy orange": {
+        "LAION-2B-en": 329
+    },
+    "amaranth deep purple": {
+        "LAION-2B-en": 15
+    },
+    "amaranth pink": {
+        "LAION-2B-en": 654
+    },
+    "amaranth purple": {
+        "LAION-2B-en": 483
+    },
+    "amaranth red": {
+        "LAION-2B-en": 851
+    },
+    "amber": {
+        "LAION-2B-en": 1261341
+    },
+    "amethyst color": {
+        "LAION-2B-en": 2062
+    },
+    "android green": {
+        "LAION-2B-en": 1253
+    },
+    "anti-flash white": {
+        "LAION-2B-en": 97
+    },
+    "antique brass color": {
+        "LAION-2B-en": 1092
+    },
+    "antique bronze color": {
+        "LAION-2B-en": 3328
+    },
+    "antique fuchsia color": {
+        "LAION-2B-en": 12
+    },
+    "antique white": {
+        "LAION-2B-en": 167046
+    },
+    "apple green": {
+        "LAION-2B-en": 82267
+    },
+    "aquamarine": {
+        "LAION-2B-en": 311038
+    },
+    "army green": {
+        "LAION-2B-en": 247456
+    },
+    "arylide yellow": {
+        "LAION-2B-en": 173
+    },
+    "ash grey": {
+        "LAION-2B-en": 60838
+    },
+    "auburn": {
+        "LAION-2B-en": 339875
+    },
+    "aureolin color": {
+        "LAION-2B-en": 15
+    },
+    "azure color": {
+        "LAION-2B-en": 442
+    },
+    "azure mist color": {
+        "LAION-2B-en": 12
+    },
+    "azureish white": {
+        "LAION-2B-en": 23
+    },
+    "baby blue": {
+        "LAION-2B-en": 229772
+    },
+    "baby pink": {
+        "LAION-2B-en": 156608
+    },
+    "baker-miller pink": {
+        "LAION-2B-en": 127
+    },
+    "banana yellow": {
+        "LAION-2B-en": 4091
+    },
+    "Barbie Pink": {
+        "LAION-2B-en": 8605
+    },
+    "barn red": {
+        "LAION-2B-en": 13035
+    },
+    "battleship grey": {
+        "LAION-2B-en": 1506
+    },
+    "beige": {
+        "LAION-2B-en": 3171921
+    },
+    "dazzled blue": {
+        "LAION-2B-en": 13
+    },
+    "bistre brown": {
+        "LAION-2B-en": 752
+    },
+    "bittersweet color shimmer": {
+        "LAION-2B-en": 0
+    },
+    "black": {
+        "LAION-2B-en": 72834491
+    },
+    "black coral": {
+        "LAION-2B-en": 12588
+    },
+    "blast-off bronze color": {
+        "LAION-2B-en": 0
+    },
+    "bleu de france color": {
+        "LAION-2B-en": 6
+    },
+    "blizzard blue": {
+        "LAION-2B-en": 1145
+    },
+    "blue": {
+        "LAION-2B-en": 41496031
+    },
+    "blue bell color": {
+        "LAION-2B-en": 13
+    },
+    "blue-gray": {
+        "LAION-2B-en": 126544
+    },
+    "blue-green": {
+        "LAION-2B-en": 477941
+    },
+    "blue lagoon color": {
+        "LAION-2B-en": 33
+    },
+    "blue-magenta violet color": {
+        "LAION-2B-en": 3
+    },
+    "blue sapphire": {
+        "LAION-2B-en": 260594
+    },
+    "blue-violet": {
+        "LAION-2B-en": 24945
+    },
+    "blue yonder": {
+        "LAION-2B-en": 5305
+    },
+    "bluebonnet color": {
+        "LAION-2B-en": 18
+    },
+    "bondi blue": {
+        "LAION-2B-en": 1940
+    },
+    "bottle green": {
+        "LAION-2B-en": 44298
+    },
+    "brandeis blue": {
+        "LAION-2B-en": 302
+    },
+    "brick red": {
+        "LAION-2B-en": 51466
+    },
+    "bright cerulean": {
+        "LAION-2B-en": 452
+    },
+    "bright green": {
+        "LAION-2B-en": 105569
+    },
+    "bright lavender": {
+        "LAION-2B-en": 713
+    },
+    "bright lilac": {
+        "LAION-2B-en": 890
+    },
+    "bright maroon": {
+        "LAION-2B-en": 264
+    },
+    "bright navy blue": {
+        "LAION-2B-en": 716
+    },
+    "bright pink": {
+        "LAION-2B-en": 128072
+    },
+    "bright turquoise": {
+        "LAION-2B-en": 8077
+    },
+    "brilliant azure": {
+        "LAION-2B-en": 73
+    },
+    "brilliant lavender": {
+        "LAION-2B-en": 168
+    },
+    "british racing green": {
+        "LAION-2B-en": 8538
+    },
+    "bronze color": {
+        "LAION-2B-en": 13466
+    },
+    "bronze yellow": {
+        "LAION-2B-en": 933
+    },
+    "brown": {
+        "LAION-2B-en": 15722326
+    },
+    "brown yellow color": {
+        "LAION-2B-en": 512
+    },
+    " brunswick green": {
+        "LAION-2B-en": 942
+    },
+    "burgundy": {
+        "LAION-2B-en": 1440275
+    },
+    "burlywood": {
+        "LAION-2B-en": 3139
+    },
+    "burnished brown": {
+        "LAION-2B-en": 3433
+    },
+    "burnt orange": {
+        "LAION-2B-en": 109893
+    },
+    "burnt sienna": {
+        "LAION-2B-en": 12854
+    },
+    "burnt umber": {
+        "LAION-2B-en": 7316
+    },
+    "cadet blue": {
+        "LAION-2B-en": 7011
+    },
+    "cadmium green": {
+        "LAION-2B-en": 1105
+    },
+    "cadmium orange": {
+        "LAION-2B-en": 2581
+    },
+    "cadmium red": {
+        "LAION-2B-en": 4096
+    },
+    "cadmium yellow": {
+        "LAION-2B-en": 6542
+    },
+    "Cal Poly Green": {
+        "LAION-2B-en": 68
+    },
+    "cambridge blue": {
+        "LAION-2B-en": 2025
+    },
+    "cameo pink": {
+        "LAION-2B-en": 2855
+    },
+    "camouflage green": {
+        "LAION-2B-en": 11655
+    },
+    "canary yellow": {
+        "LAION-2B-en": 32254
+    },
+    "candy apple red": {
+        "LAION-2B-en": 72906
+    },
+    "candy pink": {
+        "LAION-2B-en": 45379
+    },
+    "caribbean green": {
+        "LAION-2B-en": 1998
+    },
+    "carmine": {
+        "LAION-2B-en": 46947
+    },
+    "carmine pink": {
+        "LAION-2B-en": 897
+    },
+    "carmine red": {
+        "LAION-2B-en": 7575
+    },
+    "carnation pink": {
+        "LAION-2B-en": 5108
+    },
+    "carnelian": {
+        "LAION-2B-en": 96742
+    },
+    "carolina blue": {
+        "LAION-2B-en": 22116
+    },
+    "carrot orange": {
+        "LAION-2B-en": 9179
+    },
+    "catalina blue": {
+        "LAION-2B-en": 1543
+    },
+    "celadon": {
+        "LAION-2B-en": 54225
+    },
+    "celadon blue": {
+        "LAION-2B-en": 752
+    },
+    "celadon green": {
+        "LAION-2B-en": 4635
+    },
+    "celestial blue": {
+        "LAION-2B-en": 3527
+    },
+    "cerise": {
+        "LAION-2B-en": 49861
+    },
+    "cerise pink": {
+        "LAION-2B-en": 7351
+    },
+    "cerulean": {
+        "LAION-2B-en": 32142
+    },
+    "cerulean blue": {
+        "LAION-2B-en": 10166
+    },
+    "cerulean frost color": {
+        "LAION-2B-en": 15
+    },
+    "cg blue color": {
+        "LAION-2B-en": 3
+    },
+    "cg red": {
+        "LAION-2B-en": 181
+    },
+    "charcoal color": {
+        "LAION-2B-en": 5202
+    },
+    "charleston green": {
+        "LAION-2B-en": 811
+    },
+    "chartreuse": {
+        "LAION-2B-en": 92726
+    },
+    "cherry blossom pink": {
+        "LAION-2B-en": 3981
+    },
+    "china pink": {
+        "LAION-2B-en": 5397
+    },
+    "chinese red": {
+        "LAION-2B-en": 38428
+    },
+    "chlorophyll green": {
+        "LAION-2B-en": 428
+    },
+    "chrome yellow": {
+        "LAION-2B-en": 5935
+    },
+    "cinnabar color": {
+        "LAION-2B-en": 123
+    },
+    "cinnamon satin color": {
+        "LAION-2B-en": 3
+    },
+    "citrine color": {
+        "LAION-2B-en": 523
+    },
+    "cobalt blue": {
+        "LAION-2B-en": 155395
+    },
+    "cocoa brown": {
+        "LAION-2B-en": 12312
+    },
+    "columbia blue": {
+        "LAION-2B-en": 5460
+    },
+    "congo pink": {
+        "LAION-2B-en": 177
+    },
+    "cool black": {
+        "LAION-2B-en": 26377
+    },
+    "cool grey": {
+        "LAION-2B-en": 90095
+    },
+    "copper red": {
+        "LAION-2B-en": 14644
+    },
+    "coquelicot color": {
+        "LAION-2B-en": 12
+    },
+    "coral pink": {
+        "LAION-2B-en": 66553
+    },
+    "coral red": {
+        "LAION-2B-en": 46798
+    },
+    "cornell red": {
+        "LAION-2B-en": 214
+    },
+    "cornflower blue": {
+        "LAION-2B-en": 24863
+    },
+    "cornsilk": {
+        "LAION-2B-en": 2573
+    },
+    "coyote brown": {
+        "LAION-2B-en": 46901
+    },
+    "Crimson": {
+        "LAION-2B-en": 522219
+    },
+    "crimson red": {
+        "LAION-2B-en": 30477
+    },
+    "cyan": {
+        "LAION-2B-en": 328718
+    },
+    "cyan azure": {
+        "LAION-2B-en": 62
+    },
+    "cyan-blue azure": {
+        "LAION-2B-en": 11
+    },
+    "cyan cobalt blue": {
+        "LAION-2B-en": 30
+    },
+    "cyan cornflower blue": {
+        "LAION-2B-en": 23
+    },
+    "cyber yellow": {
+        "LAION-2B-en": 4380
+    },
+    "dark blue": {
+        "LAION-2B-en": 831665
+    },
+    "dark blue-gray": {
+        "LAION-2B-en": 2084
+    },
+    "dark brown": {
+        "LAION-2B-en": 750818
+    },
+    "dark byzantium color": {
+        "LAION-2B-en": 3
+    },
+    "dark candy apple red": {
+        "LAION-2B-en": 285
+    },
+    "dark cerulean": {
+        "LAION-2B-en": 786
+    },
+    "dark chestnut": {
+        "LAION-2B-en": 4868
+    },
+    "dark coral": {
+        "LAION-2B-en": 4414
+    },
+    "dark cyan": {
+        "LAION-2B-en": 3109
+    },
+    "dark electric blue": {
+        "LAION-2B-en": 176
+    },
+    "dark goldenrod": {
+        "LAION-2B-en": 646
+    },
+    "dark green": {
+        "LAION-2B-en": 359570
+    },
+    "dark gunmetal": {
+        "LAION-2B-en": 4110
+    },
+    "dark imperial blue": {
+        "LAION-2B-en": 36
+    },
+    "dark jungle green": {
+        "LAION-2B-en": 91
+    },
+    "dark khaki": {
+        "LAION-2B-en": 18851
+    },
+    "dark lavender": {
+        "LAION-2B-en": 1776
+    },
+    "dark magenta": {
+        "LAION-2B-en": 2467
+    },
+    "dark medium gray": {
+        "LAION-2B-en": 146
+    },
+    "dark midnight blue": {
+        "LAION-2B-en": 750
+    },
+    "dark moss green": {
+        "LAION-2B-en": 1185
+    },
+    "dark olive green": {
+        "LAION-2B-en": 6709
+    },
+    "dark orange": {
+        "LAION-2B-en": 22696
+    },
+    "dark orchid": {
+        "LAION-2B-en": 2408
+    },
+    "dark pastel blue": {
+        "LAION-2B-en": 175
+    },
+    "dark pastel purple": {
+        "LAION-2B-en": 55
+    },
+    "dark pink": {
+        "LAION-2B-en": 66506
+    },
+    "dark powder blue": {
+        "LAION-2B-en": 794
+    },
+    "dark purple": {
+        "LAION-2B-en": 90051
+    },
+    "dark red": {
+        "LAION-2B-en": 222659
+    },
+    "dark salmon": {
+        "LAION-2B-en": 1430
+    },
+    "dark scarlet": {
+        "LAION-2B-en": 653
+    },
+    "dark sea green": {
+        "LAION-2B-en": 1477
+    },
+    "dark sienna": {
+        "LAION-2B-en": 709
+    },
+    "dark sky blue": {
+        "LAION-2B-en": 814
+    },
+    "dark slate blue": {
+        "LAION-2B-en": 1650
+    },
+    "dark slate gray": {
+        "LAION-2B-en": 2813
+    },
+    "dark spring green": {
+        "LAION-2B-en": 309
+    },
+    "dark tan": {
+        "LAION-2B-en": 22846
+    },
+    "dark tangerine": {
+        "LAION-2B-en": 206
+    },
+    "dark taupe color": {
+        "LAION-2B-en": 76
+    },
+    "dark terra cotta color": {
+        "LAION-2B-en": 3
+    },
+    "dark violet": {
+        "LAION-2B-en": 8245
+    },
+    "dark yellow": {
+        "LAION-2B-en": 18311
+    },
+    "deep aquamarine": {
+        "LAION-2B-en": 84
+    },
+    "deep carmine": {
+        "LAION-2B-en": 306
+    },
+    "deep carmine pink": {
+        "LAION-2B-en": 70
+    },
+    "deep carrot orange": {
+        "LAION-2B-en": 147
+    },
+    "deep cerise": {
+        "LAION-2B-en": 270
+    },
+    "deep chestnut": {
+        "LAION-2B-en": 517
+    },
+    "deep fuchsia": {
+        "LAION-2B-en": 1218
+    },
+    "deep green": {
+        "LAION-2B-en": 32587
+    },
+    "deep green-cyan turquoise": {
+        "LAION-2B-en": 16
+    },
+    "deep jungle green": {
+        "LAION-2B-en": 157
+    },
+    "deep lilac": {
+        "LAION-2B-en": 1468
+    },
+    "deep magenta": {
+        "LAION-2B-en": 1652
+    },
+    "deep maroon": {
+        "LAION-2B-en": 2085
+    },
+    "deep mauve": {
+        "LAION-2B-en": 936
+    },
+    "deep moss green": {
+        "LAION-2B-en": 140
+    },
+    "deep peach": {
+        "LAION-2B-en": 934
+    },
+    "deep pink": {
+        "LAION-2B-en": 30702
+    },
+    "deep puce color": {
+        "LAION-2B-en": 0
+    },
+    "deep red": {
+        "LAION-2B-en": 94820
+    },
+    "deep saffron": {
+        "LAION-2B-en": 258
+    },
+    "deep sky blue": {
+        "LAION-2B-en": 2647
+    },
+    "deep taupe": {
+        "LAION-2B-en": 1946
+    },
+    "deep tuscan red": {
+        "LAION-2B-en": 91
+    },
+    "deep violet": {
+        "LAION-2B-en": 3598
+    },
+    "denim blue": {
+        "LAION-2B-en": 104693
+    },
+    "desaturated cyan": {
+        "LAION-2B-en": 33
+    },
+    "dim gray color": {
+        "LAION-2B-en": 16
+    },
+    "Dodger blue": {
+        "LAION-2B-en": 3043
+    },
+    "donkey brown": {
+        "LAION-2B-en": 460
+    },
+    "drab color": {
+        "LAION-2B-en": 270
+    },
+    "Duke blue": {
+        "LAION-2B-en": 39142
+    },
+    "dutch white": {
+        "LAION-2B-en": 822
+    },
+    "earth yellow": {
+        "LAION-2B-en": 2193
+    },
+    "ebony color": {
+        "LAION-2B-en": 269
+    },
+    "ecru color": {
+        "LAION-2B-en": 731
+    },
+    "eerie black": {
+        "LAION-2B-en": 403
+    },
+    "egyptian blue": {
+        "LAION-2B-en": 4108
+    },
+    "electric blue": {
+        "LAION-2B-en": 103295
+    },
+    "electric crimson": {
+        "LAION-2B-en": 128
+    },
+    "electric cyan": {
+        "LAION-2B-en": 102
+    },
+    "electric green": {
+        "LAION-2B-en": 20812
+    },
+    "electric purple": {
+        "LAION-2B-en": 5887
+    },
+    "electric yellow": {
+        "LAION-2B-en": 5520
+    },
+    "emerald": {
+        "LAION-2B-en": 1584791
+    },
+    "english green": {
+        "LAION-2B-en": 2689
+    },
+    "english red color": {
+        "LAION-2B-en": 21
+    },
+    "english vermillion": {
+        "LAION-2B-en": 25
+    },
+    "english violet color": {
+        "LAION-2B-en": 0
+    },
+    "eton blue": {
+        "LAION-2B-en": 517
+    },
+    "falu red": {
+        "LAION-2B-en": 604
+    },
+    "fandango pink": {
+        "LAION-2B-en": 765
+    },
+    "fashion fuchsia": {
+        "LAION-2B-en": 444
+    },
+    "feldgrau color": {
+        "LAION-2B-en": 0
+    },
+    "fern green": {
+        "LAION-2B-en": 14466
+    },
+    "ferrari red": {
+        "LAION-2B-en": 6323
+    },
+    "field drab color": {
+        "LAION-2B-en": 3
+    },
+    "firebrick": {
+        "LAION-2B-en": 4615
+    },
+    "fire engine red": {
+        "LAION-2B-en": 7229
+    },
+    "flamingo pink": {
+        "LAION-2B-en": 15244
+    },
+    "floral white": {
+        "LAION-2B-en": 19816
+    },
+    "fluorescent orange": {
+        "LAION-2B-en": 10220
+    },
+    "fluorescent pink": {
+        "LAION-2B-en": 6633
+    },
+    "fluorescent yellow": {
+        "LAION-2B-en": 22028
+    },
+    "french beige": {
+        "LAION-2B-en": 2128
+    },
+    "french bistre color": {
+        "LAION-2B-en": 6
+    },
+    "french blue": {
+        "LAION-2B-en": 52344
+    },
+    "French Fuchsia Color": {
+        "LAION-2B-en": 0
+    },
+    "french mauve": {
+        "LAION-2B-en": 224
+    },
+    "french pink": {
+        "LAION-2B-en": 7893
+    },
+    "french sky blue": {
+        "LAION-2B-en": 157
+    },
+    "french violet": {
+        "LAION-2B-en": 295
+    },
+    "fuchsia color": {
+        "LAION-2B-en": 2491
+    },
+    "fuchsia pink": {
+        "LAION-2B-en": 32197
+    },
+    "fuchsia purple": {
+        "LAION-2B-en": 6052
+    },
+    "fuchsia rose": {
+        "LAION-2B-en": 2288
+    },
+    "fulvous color": {
+        "LAION-2B-en": 0
+    },
+    "gamboge color": {
+        "LAION-2B-en": 19
+    },
+    "giants orange color": {
+        "LAION-2B-en": 0
+    },
+    "glaucous": {
+        "LAION-2B-en": 4622
+    },
+    "glossy grape color": {
+        "LAION-2B-en": 3
+    },
+    "golden brown": {
+        "LAION-2B-en": 66459
+    },
+    "golden yellow": {
+        "LAION-2B-en": 62049
+    },
+    "goldenrod": {
+        "LAION-2B-en": 37048
+    },
+    "granite gray": {
+        "LAION-2B-en": 3928
+    },
+    "gray": {
+        "LAION-2B-en": 7917816
+    },
+    "gray-blue": {
+        "LAION-2B-en": 62875
+    },
+    "green": {
+        "LAION-2B-en": 27171110
+    },
+    "green-blue": {
+        "LAION-2B-en": 248216
+    },
+    "green-cyan": {
+        "LAION-2B-en": 1053
+    },
+    "green sheen": {
+        "LAION-2B-en": 787
+    },
+    "green-yellow": {
+        "LAION-2B-en": 167545
+    },
+    "grullo color": {
+        "LAION-2B-en": 24
+    },
+    "guppie green": {
+        "LAION-2B-en": 49
+    },
+    "gunmetal color": {
+        "LAION-2B-en": 755
+    },
+    "han blue color": {
+        "LAION-2B-en": 0
+    },
+    "han purple": {
+        "LAION-2B-en": 423
+    },
+    "hansa yellow": {
+        "LAION-2B-en": 847
+    },
+    "harlequin green": {
+        "LAION-2B-en": 285
+    },
+    "harvest gold color": {
+        "LAION-2B-en": 44
+    },
+    "heliotrope gray": {
+        "LAION-2B-en": 28
+    },
+    "heliotrope magenta": {
+        "LAION-2B-en": 12
+    },
+    "honolulu blue": {
+        "LAION-2B-en": 418
+    },
+    "hot magenta": {
+        "LAION-2B-en": 1854
+    },
+    "hot pink": {
+        "LAION-2B-en": 656995
+    },
+    "hunter green": {
+        "LAION-2B-en": 87800
+    },
+    "illuminating emerald color": {
+        "LAION-2B-en": 3
+    },
+    "imperial blue": {
+        "LAION-2B-en": 15598
+    },
+    "imperial purple": {
+        "LAION-2B-en": 4522
+    },
+    "imperial red": {
+        "LAION-2B-en": 7877
+    },
+    "india green": {
+        "LAION-2B-en": 2081
+    },
+    "Indian red": {
+        "LAION-2B-en": 13838
+    },
+    "Indian yellow color": {
+        "LAION-2B-en": 26
+    },
+    "indigo": {
+        "LAION-2B-en": 662736
+    },
+    "international klein blue": {
+        "LAION-2B-en": 290
+    },
+    "international orange": {
+        "LAION-2B-en": 1039
+    },
+    "Islamic green color": {
+        "LAION-2B-en": 47
+    },
+    "italian sky blue": {
+        "LAION-2B-en": 47
+    },
+    "ivory color": {
+        "LAION-2B-en": 14302
+    },
+    "jade": {
+        "LAION-2B-en": 759037
+    },
+    "japanese carmine": {
+        "LAION-2B-en": 19
+    },
+    "japanese indigo color": {
+        "LAION-2B-en": 9
+    },
+    "jungle green": {
+        "LAION-2B-en": 15502
+    },
+    "kelly green": {
+        "LAION-2B-en": 112533
+    },
+    "khaki color": {
+        "LAION-2B-en": 4302
+    },
+    "ku crimson color": {
+        "LAION-2B-en": 0
+    },
+    "lapis lazuli color": {
+        "LAION-2B-en": 40
+    },
+    "laurel green": {
+        "LAION-2B-en": 2766
+    },
+    "lavender blue": {
+        "LAION-2B-en": 9606
+    },
+    "lavender blush": {
+        "LAION-2B-en": 1070
+    },
+    "lavender gray color": {
+        "LAION-2B-en": 25
+    },
+    "lavender magenta color": {
+        "LAION-2B-en": 0
+    },
+    "lavender pink": {
+        "LAION-2B-en": 7569
+    },
+    "lavender purple": {
+        "LAION-2B-en": 23447
+    },
+    "lawn green": {
+        "LAION-2B-en": 3457
+    },
+    "lemon yellow": {
+        "LAION-2B-en": 39217
+    },
+    "light apricot": {
+        "LAION-2B-en": 2297
+    },
+    "light blue": {
+        "LAION-2B-en": 1225188
+    },
+    "light brilliant red": {
+        "LAION-2B-en": 60
+    },
+    "light brown": {
+        "LAION-2B-en": 374266
+    },
+    "light carmine pink": {
+        "LAION-2B-en": 55
+    },
+    "light cobalt blue": {
+        "LAION-2B-en": 272
+    },
+    "light coral": {
+        "LAION-2B-en": 8754
+    },
+    "light cornflower blue": {
+        "LAION-2B-en": 126
+    },
+    "light crimson": {
+        "LAION-2B-en": 4500
+    },
+    "light deep pink": {
+        "LAION-2B-en": 49
+    },
+    "light french beige": {
+        "LAION-2B-en": 27
+    },
+    "light fuchsia pink": {
+        "LAION-2B-en": 111
+    },
+    "light goldenrod yellow": {
+        "LAION-2B-en": 143
+    },
+    "light gray": {
+        "LAION-2B-en": 224014
+    },
+    "light grayish magenta": {
+        "LAION-2B-en": 18
+    },
+    "light green": {
+        "LAION-2B-en": 266426
+    },
+    "light hot pink": {
+        "LAION-2B-en": 475
+    },
+    "light khaki": {
+        "LAION-2B-en": 18410
+    },
+    "light medium orchid": {
+        "LAION-2B-en": 131
+    },
+    "light moss green": {
+        "LAION-2B-en": 462
+    },
+    "light orchid": {
+        "LAION-2B-en": 2202
+    },
+    "light pastel purple": {
+        "LAION-2B-en": 584
+    },
+    "light pink": {
+        "LAION-2B-en": 410674
+    },
+    "light red ochre": {
+        "LAION-2B-en": 53
+    },
+    "light salmon": {
+        "LAION-2B-en": 3406
+    },
+    "light salmon pink": {
+        "LAION-2B-en": 348
+    },
+    "light sea green": {
+        "LAION-2B-en": 1970
+    },
+    "light sky blue": {
+        "LAION-2B-en": 10295
+    },
+    "light slate gray": {
+        "LAION-2B-en": 901
+    },
+    "light steel blue": {
+        "LAION-2B-en": 1167
+    },
+    "light taupe": {
+        "LAION-2B-en": 16705
+    },
+    "light thulian pink": {
+        "LAION-2B-en": 90
+    },
+    "light yellow": {
+        "LAION-2B-en": 87957
+    },
+    "lilac color": {
+        "LAION-2B-en": 3996
+    },
+    "lilac luster": {
+        "LAION-2B-en": 221
+    },
+    "lime green": {
+        "LAION-2B-en": 373981
+    },
+    "lincoln green": {
+        "LAION-2B-en": 2050
+    },
+    "liseran purple": {
+        "LAION-2B-en": 0
+    },
+    "magenta": {
+        "LAION-2B-en": 462677
+    },
+    "magenta color haze": {
+        "LAION-2B-en": 0
+    },
+    "magenta-pink": {
+        "LAION-2B-en": 13200
+    },
+    "majorelle blue": {
+        "LAION-2B-en": 916
+    },
+    "malachite color": {
+        "LAION-2B-en": 200
+    },
+    "maroon": {
+        "LAION-2B-en": 704154
+    },
+    "mauve color": {
+        "LAION-2B-en": 1963
+    },
+    "mauve taupe": {
+        "LAION-2B-en": 551
+    },
+    "maya blue": {
+        "LAION-2B-en": 1437
+    },
+    "medium aquamarine": {
+        "LAION-2B-en": 448
+    },
+    "medium blue": {
+        "LAION-2B-en": 80851
+    },
+    "medium candy apple red": {
+        "LAION-2B-en": 51
+    },
+    "medium carmine": {
+        "LAION-2B-en": 93
+    },
+    "medium electric blue": {
+        "LAION-2B-en": 118
+    },
+    "medium jungle green": {
+        "LAION-2B-en": 20
+    },
+    "medium lavender magenta": {
+        "LAION-2B-en": 80
+    },
+    "medium orchid": {
+        "LAION-2B-en": 891
+    },
+    "medium persian blue": {
+        "LAION-2B-en": 50
+    },
+    "medium purple": {
+        "LAION-2B-en": 6304
+    },
+    "medium red-violet": {
+        "LAION-2B-en": 575
+    },
+    "medium ruby": {
+        "LAION-2B-en": 244
+    },
+    "medium sea green": {
+        "LAION-2B-en": 1037
+    },
+    "medium sky blue": {
+        "LAION-2B-en": 551
+    },
+    "medium slate blue": {
+        "LAION-2B-en": 338
+    },
+    "medium spring green": {
+        "LAION-2B-en": 315
+    },
+    "medium taupe": {
+        "LAION-2B-en": 1145
+    },
+    "medium turquoise": {
+        "LAION-2B-en": 2161
+    },
+    "medium vermilion color": {
+        "LAION-2B-en": 0
+    },
+    "medium violet-red": {
+        "LAION-2B-en": 303
+    },
+    "mellow yellow": {
+        "LAION-2B-en": 21238
+    },
+    "metallic sunburst color": {
+        "LAION-2B-en": 18
+    },
+    "metal pink": {
+        "LAION-2B-en": 2801
+    },
+    "midnight blue": {
+        "LAION-2B-en": 178872
+    },
+    "midnight green": {
+        "LAION-2B-en": 21816
+    },
+    "mikado yellow": {
+        "LAION-2B-en": 135
+    },
+    "minion yellow": {
+        "LAION-2B-en": 788
+    },
+    "mint green": {
+        "LAION-2B-en": 271691
+    },
+    "mode beige": {
+        "LAION-2B-en": 146
+    },
+    "moonstone blue": {
+        "LAION-2B-en": 2769
+    },
+    "moss green": {
+        "LAION-2B-en": 53477
+    },
+    "mountbatten pink": {
+        "LAION-2B-en": 104
+    },
+    "msu green": {
+        "LAION-2B-en": 154
+    },
+    "mughal green": {
+        "LAION-2B-en": 58
+    },
+    "nadeshiko pink": {
+        "LAION-2B-en": 82
+    },
+    "naples yellow": {
+        "LAION-2B-en": 2070
+    },
+    "navajo white": {
+        "LAION-2B-en": 1770
+    },
+    "navy": {
+        "LAION-2B-en": 8696952
+    },
+    "navy purple": {
+        "LAION-2B-en": 5606
+    },
+    "neon fuchsia": {
+        "LAION-2B-en": 1050
+    },
+    "neon green": {
+        "LAION-2B-en": 129142
+    },
+    "non-photo blue color": {
+        "LAION-2B-en": 3
+    },
+    "ocean blue": {
+        "LAION-2B-en": 82051
+    },
+    "ocean boat blue": {
+        "LAION-2B-en": 27
+    },
+    "ocean green": {
+        "LAION-2B-en": 5975
+    },
+    "ochre": {
+        "LAION-2B-en": 96121
+    },
+    "old burgundy color": {
+        "LAION-2B-en": 3
+    },
+    "old moss green": {
+        "LAION-2B-en": 47
+    },
+    "old rose": {
+        "LAION-2B-en": 17546
+    },
+    "old silver color": {
+        "LAION-2B-en": 98
+    },
+    "olive drab": {
+        "LAION-2B-en": 70970
+    },
+    "opera mauve": {
+        "LAION-2B-en": 215
+    },
+    "orange": {
+        "LAION-2B-en": 8273350
+    },
+    "orange-red": {
+        "LAION-2B-en": 87396
+    },
+    "orange-yellow": {
+        "LAION-2B-en": 92358
+    },
+    "orchid pink": {
+        "LAION-2B-en": 7620
+    },
+    "orioles orange": {
+        "LAION-2B-en": 638
+    },
+    "otter brown": {
+        "LAION-2B-en": 517
+    },
+    "outrageous orange": {
+        "LAION-2B-en": 856
+    },
+    "Oxford blue": {
+        "LAION-2B-en": 14785
+    },
+    "pacific blue": {
+        "LAION-2B-en": 32238
+    },
+    "palatinate blue": {
+        "LAION-2B-en": 375
+    },
+    "pale aqua": {
+        "LAION-2B-en": 4216
+    },
+    "pale blue": {
+        "LAION-2B-en": 132994
+    },
+    "pale brown": {
+        "LAION-2B-en": 5807
+    },
+    "pale carmine": {
+        "LAION-2B-en": 126
+    },
+    "pale cerulean": {
+        "LAION-2B-en": 51
+    },
+    "pale chestnut": {
+        "LAION-2B-en": 125
+    },
+    "pale copper": {
+        "LAION-2B-en": 333
+    },
+    "pale cornflower blue": {
+        "LAION-2B-en": 173
+    },
+    "pale gold": {
+        "LAION-2B-en": 26353
+    },
+    "pale goldenrod": {
+        "LAION-2B-en": 464
+    },
+    "pale green": {
+        "LAION-2B-en": 47044
+    },
+    "pale lavender": {
+        "LAION-2B-en": 3092
+    },
+    "pale magenta": {
+        "LAION-2B-en": 209
+    },
+    "pale magenta-pink": {
+        "LAION-2B-en": 9
+    },
+    "pale pink": {
+        "LAION-2B-en": 156401
+    },
+    "pale plum": {
+        "LAION-2B-en": 1120
+    },
+    "pale red-violet": {
+        "LAION-2B-en": 41
+    },
+    "pale robin egg blue": {
+        "LAION-2B-en": 114
+    },
+    "pale silver": {
+        "LAION-2B-en": 1236
+    },
+    "pale taupe": {
+        "LAION-2B-en": 1601
+    },
+    "pale turquoise": {
+        "LAION-2B-en": 4900
+    },
+    "pale violet": {
+        "LAION-2B-en": 2474
+    },
+    "pale violet-red": {
+        "LAION-2B-en": 708
+    },
+    "pansy purple": {
+        "LAION-2B-en": 1047
+    },
+    "paolo veronese green": {
+        "LAION-2B-en": 43
+    },
+    "paradise pink": {
+        "LAION-2B-en": 5246
+    },
+    "pastel blue": {
+        "LAION-2B-en": 56156
+    },
+    "pastel brown": {
+        "LAION-2B-en": 2506
+    },
+    "pastel gray": {
+        "LAION-2B-en": 1861
+    },
+    "pastel green": {
+        "LAION-2B-en": 35433
+    },
+    "pastel magenta": {
+        "LAION-2B-en": 247
+    },
+    "pastel orange": {
+        "LAION-2B-en": 4717
+    },
+    "pastel pink": {
+        "LAION-2B-en": 99489
+    },
+    "pastel purple": {
+        "LAION-2B-en": 12721
+    },
+    "pastel red": {
+        "LAION-2B-en": 2724
+    },
+    "pastel violet": {
+        "LAION-2B-en": 1980
+    },
+    "pastel yellow": {
+        "LAION-2B-en": 19157
+    },
+    "payne's grey": {
+        "LAION-2B-en": 1068
+    },
+    "peach-orange": {
+        "LAION-2B-en": 7112
+    },
+    "peach-yellow": {
+        "LAION-2B-en": 3035
+    },
+    "Pearly purple": {
+        "LAION-2B-en": 440
+    },
+    "Persian blue color": {
+        "LAION-2B-en": 27
+    },
+    "persian indigo": {
+        "LAION-2B-en": 252
+    },
+    "Persian pink": {
+        "LAION-2B-en": 634
+    },
+    "Persian red": {
+        "LAION-2B-en": 4810
+    },
+    "pewter blue": {
+        "LAION-2B-en": 1237
+    },
+    "phthalo blue": {
+        "LAION-2B-en": 2042
+    },
+    "phthalo green": {
+        "LAION-2B-en": 1542
+    },
+    "picton blue": {
+        "LAION-2B-en": 93
+    },
+    "pictorial carmine": {
+        "LAION-2B-en": 50
+    },
+    "piggy pink": {
+        "LAION-2B-en": 1161
+    },
+    "pine green": {
+        "LAION-2B-en": 28464
+    },
+    "pink": {
+        "LAION-2B-en": 19966061
+    },
+    "pink lavender": {
+        "LAION-2B-en": 10749
+    },
+    "pink-orange": {
+        "LAION-2B-en": 62579
+    },
+    "pink pearl": {
+        "LAION-2B-en": 29159
+    },
+    "pink sherbet": {
+        "LAION-2B-en": 723
+    },
+    "platinum color": {
+        "LAION-2B-en": 9830
+    },
+    "plump purple": {
+        "LAION-2B-en": 37
+    },
+    "powder blue": {
+        "LAION-2B-en": 84211
+    },
+    "princeton orange": {
+        "LAION-2B-en": 109
+    },
+    "psychedelic purple": {
+        "LAION-2B-en": 823
+    },
+    "puce red": {
+        "LAION-2B-en": 32
+    },
+    "pullman brown": {
+        "LAION-2B-en": 61
+    },
+    "purple": {
+        "LAION-2B-en": 7364862
+    },
+    "purple mountain majesty": {
+        "LAION-2B-en": 603
+    },
+    "purple pizzazz": {
+        "LAION-2B-en": 271
+    },
+    "purple plum color": {
+        "LAION-2B-en": 88
+    },
+    "purple taupe": {
+        "LAION-2B-en": 1097
+    },
+    "queen blue": {
+        "LAION-2B-en": 4190
+    },
+    "quinacridone magenta": {
+        "LAION-2B-en": 324
+    },
+    "radical red": {
+        "LAION-2B-en": 1051
+    },
+    "raspberry pink": {
+        "LAION-2B-en": 12920
+    },
+    "raspberry rose": {
+        "LAION-2B-en": 3722
+    },
+    "raw sienna": {
+        "LAION-2B-en": 2747
+    },
+    "red": {
+        "LAION-2B-en": 41133071
+    },
+    "red-brown": {
+        "LAION-2B-en": 93976
+    },
+    "red-orange": {
+        "LAION-2B-en": 141478
+    },
+    "red-purple": {
+        "LAION-2B-en": 48004
+    },
+    "red-violet": {
+        "LAION-2B-en": 12405
+    },
+    "rich black": {
+        "LAION-2B-en": 12114
+    },
+    "rich brilliant lavender": {
+        "LAION-2B-en": 40
+    },
+    "rich electric blue": {
+        "LAION-2B-en": 113
+    },
+    "rich lavender": {
+        "LAION-2B-en": 417
+    },
+    "rich lilac": {
+        "LAION-2B-en": 213
+    },
+    "rich maroon": {
+        "LAION-2B-en": 413
+    },
+    "rifle green": {
+        "LAION-2B-en": 4229
+    },
+    "robin egg blue": {
+        "LAION-2B-en": 5474
+    },
+    "rocket metallic": {
+        "LAION-2B-en": 63
+    },
+    "rose gold": {
+        "LAION-2B-en": 2908937
+    },
+    "rose pink": {
+        "LAION-2B-en": 117070
+    },
+    "rose red": {
+        "LAION-2B-en": 85180
+    },
+    "rose taupe": {
+        "LAION-2B-en": 3212
+    },
+    "rosewood color": {
+        "LAION-2B-en": 684
+    },
+    "rosso corsa color": {
+        "LAION-2B-en": 9
+    },
+    "rosy brown": {
+        "LAION-2B-en": 2806
+    },
+    "royal blue": {
+        "LAION-2B-en": 822765
+    },
+    "royal purple": {
+        "LAION-2B-en": 40253
+    },
+    "royal yellow": {
+        "LAION-2B-en": 4433
+    },
+    "rubine red": {
+        "LAION-2B-en": 449
+    },
+    "ruby red": {
+        "LAION-2B-en": 149245
+    },
+    "ruddy pink": {
+        "LAION-2B-en": 112
+    },
+    "russet": {
+        "LAION-2B-en": 46635
+    },
+    "rusty red": {
+        "LAION-2B-en": 7614
+    },
+    "sacramento state green": {
+        "LAION-2B-en": 40
+    },
+    "saddle brown": {
+        "LAION-2B-en": 27810
+    },
+    "safety orange": {
+        "LAION-2B-en": 12731
+    },
+    "safety yellow": {
+        "LAION-2B-en": 32095
+    },
+    "saffron color": {
+        "LAION-2B-en": 470
+    },
+    "salmon pink": {
+        "LAION-2B-en": 22773
+    },
+    "sandy brown": {
+        "LAION-2B-en": 4737
+    },
+    "sandy taupe": {
+        "LAION-2B-en": 572
+    },
+    "sap green": {
+        "LAION-2B-en": 2385
+    },
+    "sapphire": {
+        "LAION-2B-en": 1559811
+    },
+    "sapphire blue": {
+        "LAION-2B-en": 58454
+    },
+    "satin sheen gold": {
+        "LAION-2B-en": 107
+    },
+    "scarlet": {
+        "LAION-2B-en": 416928
+    },
+    "schauss pink": {
+        "LAION-2B-en": 28
+    },
+    "school bus yellow": {
+        "LAION-2B-en": 3575
+    },
+    "sea blue": {
+        "LAION-2B-en": 55479
+    },
+    "sea green": {
+        "LAION-2B-en": 82428
+    },
+    "seal brown": {
+        "LAION-2B-en": 3917
+    },
+    "selective yellow": {
+        "LAION-2B-en": 513
+    },
+    "sepia color": {
+        "LAION-2B-en": 2129
+    },
+    "shamrock green": {
+        "LAION-2B-en": 5609
+    },
+    "sheen green": {
+        "LAION-2B-en": 246
+    },
+    "shocking pink": {
+        "LAION-2B-en": 14916
+    },
+    "sienna": {
+        "LAION-2B-en": 322894
+    },
+    "silver": {
+        "LAION-2B-en": 22332151
+    },
+    "silver chalice": {
+        "LAION-2B-en": 2184
+    },
+    "silver pink": {
+        "LAION-2B-en": 43462
+    },
+    "silver sand color": {
+        "LAION-2B-en": 28
+    },
+    "sizzling red": {
+        "LAION-2B-en": 540
+    },
+    "sky blue": {
+        "LAION-2B-en": 447395
+    },
+    "slate blue": {
+        "LAION-2B-en": 46841
+    },
+    "slate gray": {
+        "LAION-2B-en": 25209
+    },
+    "smokey topaz color": {
+        "LAION-2B-en": 24
+    },
+    "smoky black": {
+        "LAION-2B-en": 3018
+    },
+    "smoky topaz": {
+        "LAION-2B-en": 9929
+    },
+    "solid pink": {
+        "LAION-2B-en": 13690
+    },
+    "spartan crimson": {
+        "LAION-2B-en": 183
+    },
+    "spanish bistre color": {
+        "LAION-2B-en": 3
+    },
+    "spanish blue color": {
+        "LAION-2B-en": 9
+    },
+    "spanish carmine color": {
+        "LAION-2B-en": 0
+    },
+    "spanish crimson": {
+        "LAION-2B-en": 67
+    },
+    "spanish green color": {
+        "LAION-2B-en": 12
+    },
+    "spanish red color": {
+        "LAION-2B-en": 17
+    },
+    "spanish sky blue": {
+        "LAION-2B-en": 59
+    },
+    "spanish violet": {
+        "LAION-2B-en": 22
+    },
+    "spring green": {
+        "LAION-2B-en": 56719
+    },
+    "star command blue color": {
+        "LAION-2B-en": 0
+    },
+    "steel blue": {
+        "LAION-2B-en": 78050
+    },
+    "stil de grain yellow": {
+        "LAION-2B-en": 12
+    },
+    "sunglow": {
+        "LAION-2B-en": 6532
+    },
+    "sunset orange": {
+        "LAION-2B-en": 13476
+    },
+    "super pink": {
+        "LAION-2B-en": 2527
+    },
+    "tangerine yellow": {
+        "LAION-2B-en": 496
+    },
+    "tango pink": {
+        "LAION-2B-en": 323
+    },
+    "taupe color": {
+        "LAION-2B-en": 6217
+    },
+    "taupe gray": {
+        "LAION-2B-en": 14329
+    },
+    "tea green": {
+        "LAION-2B-en": 15519
+    },
+    "teal": {
+        "LAION-2B-en": 1836271
+    },
+    "teal blue": {
+        "LAION-2B-en": 131627
+    },
+    "teal green": {
+        "LAION-2B-en": 62165
+    },
+    "terra cotta color": {
+        "LAION-2B-en": 388
+    },
+    "thulian pink": {
+        "LAION-2B-en": 371
+    },
+    "tiffany blue": {
+        "LAION-2B-en": 53300
+    },
+    "tiger's eye color": {
+        "LAION-2B-en": 11
+    },
+    "titanium yellow": {
+        "LAION-2B-en": 662
+    },
+    "tractor red": {
+        "LAION-2B-en": 2877
+    },
+    "trolley grey": {
+        "LAION-2B-en": 802
+    },
+    "tropical violet": {
+        "LAION-2B-en": 98
+    },
+    "tufts blue": {
+        "LAION-2B-en": 179
+    },
+    "turquoise": {
+        "LAION-2B-en": 3172712
+    },
+    "turquoise blue": {
+        "LAION-2B-en": 125459
+    },
+    "turquoise green": {
+        "LAION-2B-en": 29357
+    },
+    "turtle green": {
+        "LAION-2B-en": 3719
+    },
+    "tuscan brown": {
+        "LAION-2B-en": 926
+    },
+    "tuscan red": {
+        "LAION-2B-en": 2761
+    },
+    "tuscan tan": {
+        "LAION-2B-en": 281
+    },
+    "tyrian purple": {
+        "LAION-2B-en": 1019
+    },
+    "ua blue color": {
+        "LAION-2B-en": 0
+    },
+    "ua red color": {
+        "LAION-2B-en": 3
+    },
+    "ucla blue": {
+        "LAION-2B-en": 135
+    },
+    "ucla gold": {
+        "LAION-2B-en": 49
+    },
+    "ufo green": {
+        "LAION-2B-en": 609
+    },
+    "ultramarine": {
+        "LAION-2B-en": 29254
+    },
+    "ultramarine blue": {
+        "LAION-2B-en": 5532
+    },
+    "ultra pink": {
+        "LAION-2B-en": 3744
+    },
+    "ultra red": {
+        "LAION-2B-en": 4305
+    },
+    "united nations blue": {
+        "LAION-2B-en": 207
+    },
+    "unmellow yellow": {
+        "LAION-2B-en": 128
+    },
+    "up forest green": {
+        "LAION-2B-en": 151
+    },
+    "up maroon color": {
+        "LAION-2B-en": 18
+    },
+    "upsdell red color": {
+        "LAION-2B-en": 0
+    },
+    "usafa blue": {
+        "LAION-2B-en": 31
+    },
+    "university of tennessee orange": {
+        "LAION-2B-en": 189
+    },
+    "van dyke brown": {
+        "LAION-2B-en": 646
+    },
+    "venetian red": {
+        "LAION-2B-en": 3417
+    },
+    "verdigris": {
+        "LAION-2B-en": 21054
+    },
+    "vermilion": {
+        "LAION-2B-en": 33147
+    },
+    "very light azure": {
+        "LAION-2B-en": 18
+    },
+    "very light blue": {
+        "LAION-2B-en": 584
+    },
+    "very light malachite green": {
+        "LAION-2B-en": 0
+    },
+    "very pale orange": {
+        "LAION-2B-en": 16
+    },
+    "very pale yellow": {
+        "LAION-2B-en": 150
+    },
+    "violet": {
+        "LAION-2B-en": 911654
+    },
+    "violet-blue": {
+        "LAION-2B-en": 14175
+    },
+    "violet-red": {
+        "LAION-2B-en": 7068
+    },
+    "viridian": {
+        "LAION-2B-en": 16353
+    },
+    "viridian green": {
+        "LAION-2B-en": 2204
+    },
+    "vista blue": {
+        "LAION-2B-en": 1984
+    },
+    "vivid amber": {
+        "LAION-2B-en": 217
+    },
+    "vivid auburn": {
+        "LAION-2B-en": 14
+    },
+    "vivid burgundy": {
+        "LAION-2B-en": 159
+    },
+    "vivid cerise": {
+        "LAION-2B-en": 71
+    },
+    "vivid cerulean": {
+        "LAION-2B-en": 20
+    },
+    "vivid crimson": {
+        "LAION-2B-en": 126
+    },
+    "vivid gamboge color": {
+        "LAION-2B-en": 0
+    },
+    "vivid lime green": {
+        "LAION-2B-en": 258
+    },
+    "vivid malachite": {
+        "LAION-2B-en": 91
+    },
+    "vivid mulberry color": {
+        "LAION-2B-en": 0
+    },
+    "vivid orange": {
+        "LAION-2B-en": 4341
+    },
+    "vivid orange peel": {
+        "LAION-2B-en": 9
+    },
+    "vivid orchid": {
+        "LAION-2B-en": 190
+    },
+    "vivid raspberry": {
+        "LAION-2B-en": 79
+    },
+    "vivid red": {
+        "LAION-2B-en": 11045
+    },
+    "vivid red-tangelo": {
+        "LAION-2B-en": 9
+    },
+    "vivid sky blue": {
+        "LAION-2B-en": 135
+    },
+    "vivid tangelo color": {
+        "LAION-2B-en": 0
+    },
+    "vivid tangerine": {
+        "LAION-2B-en": 260
+    },
+    "vivid vermilion": {
+        "LAION-2B-en": 12
+    },
+    "vivid violet": {
+        "LAION-2B-en": 1016
+    },
+    "vivid yellow": {
+        "LAION-2B-en": 7493
+    },
+    "weldon blue": {
+        "LAION-2B-en": 31
+    },
+    "white": {
+        "LAION-2B-en": 66997430
+    },
+    "wood brown": {
+        "LAION-2B-en": 19644
+    },
+    "yale blue": {
+        "LAION-2B-en": 1877
+    },
+    "yankees blue color": {
+        "LAION-2B-en": 15
+    },
+    "yellow": {
+        "LAION-2B-en": 15708200
+    },
+    "yellow-green": {
+        "LAION-2B-en": 174049
+    },
+    "yellow orange": {
+        "LAION-2B-en": 96026
+    },
+    "yellow rose": {
+        "LAION-2B-en": 103429
+    },
+    "yellow sunshine": {
+        "LAION-2B-en": 3180
+    },
+    "zinnwaldite brown": {
+        "LAION-2B-en": 103
+    },
+    "university of washington purple": {
+        "LAION-2B-en": 44
+    },
+    "huge": {
+        "LAION-2B-en": 1625201
+    },
+    "miniature": {
+        "LAION-2B-en": 1298669
+    },
+    "tiny": {
+        "LAION-2B-en": 1993930
+    },
+    "giant": {
+        "LAION-2B-en": 2038411
+    },
+    "little": {
+        "LAION-2B-en": 10819317
+    },
+    "massive": {
+        "LAION-2B-en": 603223
+    },
+    "oversized": {
+        "LAION-2B-en": 1188842
+    },
+    "large": {
+        "LAION-2B-en": 16700181
+    },
+    "small": {
+        "LAION-2B-en": 17494281
+    },
+    "vast": {
+        "LAION-2B-en": 138626
+    },
+    "fat": {
+        "LAION-2B-en": 1635083
+    },
+    "thin": {
+        "LAION-2B-en": 2088198
+    },
+    "short": {
+        "LAION-2B-en": 10714058
+    },
+    "long": {
+        "LAION-2B-en": 21734328
+    },
+    "tall": {
+        "LAION-2B-en": 2704016
+    },
+    "wide": {
+        "LAION-2B-en": 5707279
+    },
+    "narrow": {
+        "LAION-2B-en": 676380
+    },
+    "thick": {
+        "LAION-2B-en": 1909436
+    },
+    "slim": {
+        "LAION-2B-en": 4980895
+    },
+    "big": {
+        "LAION-2B-en": 12415269
+    },
+    "compact": {
+        "LAION-2B-en": 1978928
+    },
+    "sizable": {
+        "LAION-2B-en": 8998
+    },
+    "immense": {
+        "LAION-2B-en": 28154
+    },
+    "enormous": {
+        "LAION-2B-en": 94706
+    },
+    "sliced": {
+        "LAION-2B-en": 294516
+    },
+    "lighted": {
+        "LAION-2B-en": 489499
+    },
+    "toasted": {
+        "LAION-2B-en": 178950
+    },
+    "ripe": {
+        "LAION-2B-en": 345698
+    },
+    "shaved": {
+        "LAION-2B-en": 168941
+    },
+    "abandoned": {
+        "LAION-2B-en": 581773
+    },
+    "fenced": {
+        "LAION-2B-en": 56937
+    },
+    "painted": {
+        "LAION-2B-en": 4690342
+    },
+    "dried": {
+        "LAION-2B-en": 854763
+    },
+    "bunched": {
+        "LAION-2B-en": 5424
+    },
+    "drawn": {
+        "LAION-2B-en": 2199886
+    },
+    "suspended": {
+        "LAION-2B-en": 303533
+    },
+    "rolled": {
+        "LAION-2B-en": 563964
+    },
+    "potted": {
+        "LAION-2B-en": 251488
+    },
+    "uncomfortable": {
+        "LAION-2B-en": 38234
+    },
+    "stained": {
+        "LAION-2B-en": 1161930
+    },
+    "messy": {
+        "LAION-2B-en": 272578
+    },
+    "crowded": {
+        "LAION-2B-en": 138926
+    },
+    "raised": {
+        "LAION-2B-en": 856895
+    },
+    "vacant": {
+        "LAION-2B-en": 204047
+    },
+    "crossed": {
+        "LAION-2B-en": 356445
+    },
+    "cushioned": {
+        "LAION-2B-en": 129585
+    },
+    "faded": {
+        "LAION-2B-en": 311452
+    },
+    "decorated": {
+        "LAION-2B-en": 1261234
+    },
+    "piled": {
+        "LAION-2B-en": 52774
+    },
+    "wrapped": {
+        "LAION-2B-en": 1129012
+    },
+    "sealed": {
+        "LAION-2B-en": 1530929
+    },
+    "mowed": {
+        "LAION-2B-en": 8438
+    },
+    "clean": {
+        "LAION-2B-en": 3410379
+    },
+    "turned": {
+        "LAION-2B-en": 629174
+    },
+    "overgrown": {
+        "LAION-2B-en": 38004
+    },
+    "chipped": {
+        "LAION-2B-en": 42912
+    },
+    "damaged": {
+        "LAION-2B-en": 467698
+    },
+    "gloved": {
+        "LAION-2B-en": 17387
+    },
+    "clumped": {
+        "LAION-2B-en": 806
+    },
+    "patched": {
+        "LAION-2B-en": 100209
+    },
+    "dirty": {
+        "LAION-2B-en": 864357
+    },
+    "full": {
+        "LAION-2B-en": 16752035
+    },
+    "inflated": {
+        "LAION-2B-en": 39748
+    },
+    "short sleeved": {
+        "LAION-2B-en": 275001
+    },
+    "packed": {
+        "LAION-2B-en": 450930
+    },
+    "sunlit": {
+        "LAION-2B-en": 46604
+    },
+    "uncooked": {
+        "LAION-2B-en": 34870
+    },
+    "rotten": {
+        "LAION-2B-en": 94244
+    },
+    "glazed": {
+        "LAION-2B-en": 432289
+    },
+    "scattered": {
+        "LAION-2B-en": 165787
+    },
+    "grouped": {
+        "LAION-2B-en": 48766
+    },
+    "torn": {
+        "LAION-2B-en": 207192
+    },
+    "glowing": {
+        "LAION-2B-en": 600975
+    },
+    "unoccupied": {
+        "LAION-2B-en": 5304
+    },
+    "hollow": {
+        "LAION-2B-en": 1214616
+    },
+    "illuminated": {
+        "LAION-2B-en": 451140
+    },
+    "rimmed": {
+        "LAION-2B-en": 60121
+    },
+    "tied": {
+        "LAION-2B-en": 587521
+    },
+    "fallen": {
+        "LAION-2B-en": 457907
+    },
+    "fresh": {
+        "LAION-2B-en": 4666500
+    },
+    "unpeeled": {
+        "LAION-2B-en": 5050
+    },
+    "half full": {
+        "LAION-2B-en": 15658
+    },
+    "open": {
+        "LAION-2B-en": 8192122
+    },
+    "melting": {
+        "LAION-2B-en": 187376
+    },
+    "closed": {
+        "LAION-2B-en": 1394565
+    },
+    "covered": {
+        "LAION-2B-en": 1974502
+    },
+    "mounted": {
+        "LAION-2B-en": 1959227
+    },
+    "cluttered": {
+        "LAION-2B-en": 19826
+    },
+    "frozen": {
+        "LAION-2B-en": 1432453
+    },
+    "baked": {
+        "LAION-2B-en": 930586
+    },
+    "iced": {
+        "LAION-2B-en": 377904
+    },
+    "blurry": {
+        "LAION-2B-en": 95402
+    },
+    "shut": {
+        "LAION-2B-en": 361490
+    },
+    "neat": {
+        "LAION-2B-en": 190341
+    },
+    "connected": {
+        "LAION-2B-en": 530471
+    },
+    "wet": {
+        "LAION-2B-en": 1303023
+    },
+    "folded": {
+        "LAION-2B-en": 394179
+    },
+    "filled": {
+        "LAION-2B-en": 1550494
+    },
+    "stuffed": {
+        "LAION-2B-en": 996944
+    },
+    "tight": {
+        "LAION-2B-en": 798774
+    },
+    "shining": {
+        "LAION-2B-en": 409441
+    },
+    "browned": {
+        "LAION-2B-en": 24598
+    },
+    "printed": {
+        "LAION-2B-en": 6187948
+    },
+    "busy": {
+        "LAION-2B-en": 792863
+    },
+    "misty": {
+        "LAION-2B-en": 319323
+    },
+    "murky": {
+        "LAION-2B-en": 10225
+    },
+    "burnt": {
+        "LAION-2B-en": 339744
+    },
+    "melted": {
+        "LAION-2B-en": 122078
+    },
+    "cooked": {
+        "LAION-2B-en": 332553
+    },
+    "aluminum": {
+        "LAION-2B-en": 3033043
+    },
+    "animal skin": {
+        "LAION-2B-en": 15779
+    },
+    "asphalt": {
+        "LAION-2B-en": 258977
+    },
+    "asphalt puddle": {
+        "LAION-2B-en": 23
+    },
+    "asphalt stone": {
+        "LAION-2B-en": 164
+    },
+    "bamboo": {
+        "LAION-2B-en": 2128358
+    },
+    "brass": {
+        "LAION-2B-en": 3604051
+    },
+    "brick": {
+        "LAION-2B-en": 1633599
+    },
+    "brickwork": {
+        "LAION-2B-en": 21392
+    },
+    "cardboard": {
+        "LAION-2B-en": 682505
+    },
+    "carpet": {
+        "LAION-2B-en": 2518684
+    },
+    "ceiling tile": {
+        "LAION-2B-en": 37109
+    },
+    "cement": {
+        "LAION-2B-en": 554227
+    },
+    "ceramic": {
+        "LAION-2B-en": 2941683
+    },
+    "clay": {
+        "LAION-2B-en": 1397022
+    },
+    "clear plastic": {
+        "LAION-2B-en": 115788
+    },
+    "cloth": {
+        "LAION-2B-en": 2003716
+    },
+    "cobblestone": {
+        "LAION-2B-en": 80887
+    },
+    "concrete": {
+        "LAION-2B-en": 1660593
+    },
+    "cork": {
+        "LAION-2B-en": 657504
+    },
+    "cotton": {
+        "LAION-2B-en": 11956762
+    },
+    "crystal": {
+        "LAION-2B-en": 6804021
+    },
+    "fabric": {
+        "LAION-2B-en": 7293962
+    },
+    "fur": {
+        "LAION-2B-en": 2365138
+    },
+    "gemstone": {
+        "LAION-2B-en": 1042828
+    },
+    "glass": {
+        "LAION-2B-en": 15506529
+    },
+    "gravel": {
+        "LAION-2B-en": 226846
+    },
+    "hardwood": {
+        "LAION-2B-en": 710302
+    },
+    "ice": {
+        "LAION-2B-en": 5380896
+    },
+    "lace": {
+        "LAION-2B-en": 10192704
+    },
+    "large limestone": {
+        "LAION-2B-en": 707
+    },
+    "leather": {
+        "LAION-2B-en": 25787320
+    },
+    "marble": {
+        "LAION-2B-en": 2978326
+    },
+    "mesh": {
+        "LAION-2B-en": 3340622
+    },
+    "metal": {
+        "LAION-2B-en": 11762235
+    },
+    "metal cover": {
+        "LAION-2B-en": 13697
+    },
+    "mud": {
+        "LAION-2B-en": 614690
+    },
+    "natural stone": {
+        "LAION-2B-en": 235267
+    },
+    "non-clear plastic": {
+        "LAION-2B-en": 3
+    },
+    "paint cover": {
+        "LAION-2B-en": 1122
+    },
+    "paper": {
+        "LAION-2B-en": 10195014
+    },
+    "pebble": {
+        "LAION-2B-en": 428416
+    },
+    "pine needles": {
+        "LAION-2B-en": 16560
+    },
+    "plaster": {
+        "LAION-2B-en": 205476
+    },
+    "plastic": {
+        "LAION-2B-en": 5921373
+    },
+    "plastic cover": {
+        "LAION-2B-en": 26438
+    },
+    "polishedstone": {
+        "LAION-2B-en": 30
+    },
+    "porcelain": {
+        "LAION-2B-en": 1638723
+    },
+    "rock": {
+        "LAION-2B-en": 5709129
+    },
+    "rubber": {
+        "LAION-2B-en": 4178426
+    },
+    "rug": {
+        "LAION-2B-en": 4785509
+    },
+    "sand": {
+        "LAION-2B-en": 2293542
+    },
+    "sandpaper": {
+        "LAION-2B-en": 31975
+    },
+    "shale": {
+        "LAION-2B-en": 60300
+    },
+    "silk": {
+        "LAION-2B-en": 4567672
+    },
+    "small limestone": {
+        "LAION-2B-en": 360
+    },
+    "soap": {
+        "LAION-2B-en": 1422144
+    },
+    "soil": {
+        "LAION-2B-en": 525331
+    },
+    "stainless steel": {
+        "LAION-2B-en": 10202137
+    },
+    "steel": {
+        "LAION-2B-en": 16619580
+    },
+    "stone": {
+        "LAION-2B-en": 6252996
+    },
+    "stone asphalt": {
+        "LAION-2B-en": 129
+    },
+    "stone brick": {
+        "LAION-2B-en": 11456
+    },
+    "stone cement": {
+        "LAION-2B-en": 1310
+    },
+    "stone mud": {
+        "LAION-2B-en": 63
+    },
+    "straw": {
+        "LAION-2B-en": 918260
+    },
+    "styrofoam": {
+        "LAION-2B-en": 38835
+    },
+    "terracotta": {
+        "LAION-2B-en": 266646
+    },
+    "tin": {
+        "LAION-2B-en": 1360916
+    },
+    "tree wood": {
+        "LAION-2B-en": 14641
+    },
+    "wallpaper": {
+        "LAION-2B-en": 5704572
+    },
+    "wax": {
+        "LAION-2B-en": 960795
+    },
+    "wicker": {
+        "LAION-2B-en": 865111
+    },
+    "wood": {
+        "LAION-2B-en": 13941105
+    },
+    "wood chips": {
+        "LAION-2B-en": 28339
+    },
+    "wool": {
+        "LAION-2B-en": 4241662
+    },
+    "blotchy": {
+        "LAION-2B-en": 1513
+    },
+    "bumpy": {
+        "LAION-2B-en": 22802
+    },
+    "crosshatched": {
+        "LAION-2B-en": 2261
+    },
+    "crystalline": {
+        "LAION-2B-en": 50114
+    },
+    "fibrous": {
+        "LAION-2B-en": 8569
+    },
+    "flecked": {
+        "LAION-2B-en": 21112
+    },
+    "gauzy": {
+        "LAION-2B-en": 9149
+    },
+    "grooved": {
+        "LAION-2B-en": 76515
+    },
+    "honeycombed": {
+        "LAION-2B-en": 846
+    },
+    "knitted": {
+        "LAION-2B-en": 2171638
+    },
+    "lacelike": {
+        "LAION-2B-en": 122
+    },
+    "marbled": {
+        "LAION-2B-en": 126428
+    },
+    "matted": {
+        "LAION-2B-en": 159074
+    },
+    "pitted": {
+        "LAION-2B-en": 26543
+    },
+    "woven": {
+        "LAION-2B-en": 2419230
+    },
+    "crumpled": {
+        "LAION-2B-en": 78077
+    },
+    "quilted": {
+        "LAION-2B-en": 1690711
+    },
+    "crusty": {
+        "LAION-2B-en": 25909
+    },
+    "beaded": {
+        "LAION-2B-en": 2000880
+    },
+    "muddy": {
+        "LAION-2B-en": 134217
+    },
+    "foamy": {
+        "LAION-2B-en": 14316
+    },
+    "bushy": {
+        "LAION-2B-en": 24485
+    },
+    "creamy": {
+        "LAION-2B-en": 595709
+    },
+    "carpeted": {
+        "LAION-2B-en": 40374
+    },
+    "jagged": {
+        "LAION-2B-en": 48123
+    },
+    "coarse": {
+        "LAION-2B-en": 119523
+    },
+    "fuzzy": {
+        "LAION-2B-en": 234435
+    },
+    "puffy": {
+        "LAION-2B-en": 213084
+    },
+    "glossy": {
+        "LAION-2B-en": 803113
+    },
+    "shaggy": {
+        "LAION-2B-en": 177886
+    },
+    "greasy": {
+        "LAION-2B-en": 40434
+    },
+    "patchy": {
+        "LAION-2B-en": 11696
+    },
+    "hairy": {
+        "LAION-2B-en": 393198
+    },
+    "fluffy": {
+        "LAION-2B-en": 589394
+    },
+    "plush": {
+        "LAION-2B-en": 1994543
+    },
+    "ridged": {
+        "LAION-2B-en": 17582
+    },
+    "spiky": {
+        "LAION-2B-en": 42238
+    },
+    "grassy": {
+        "LAION-2B-en": 110923
+    },
+    "smooth": {
+        "LAION-2B-en": 1418727
+    },
+    "crisp": {
+        "LAION-2B-en": 302855
+    },
+    "floppy": {
+        "LAION-2B-en": 123926
+    },
+    "rough": {
+        "LAION-2B-en": 740566
+    },
+    "angled": {
+        "LAION-2B-en": 215282
+    },
+    "arched": {
+        "LAION-2B-en": 228593
+    },
+    "circular": {
+        "LAION-2B-en": 728827
+    },
+    "concave": {
+        "LAION-2B-en": 89480
+    },
+    "conical": {
+        "LAION-2B-en": 112783
+    },
+    "convex": {
+        "LAION-2B-en": 87106
+    },
+    "crown-shaped": {
+        "LAION-2B-en": 3025
+    },
+    "cubic": {
+        "LAION-2B-en": 926183
+    },
+    "curved": {
+        "LAION-2B-en": 976297
+    },
+    "cylindrical": {
+        "LAION-2B-en": 309853
+    },
+    "domed": {
+        "LAION-2B-en": 126384
+    },
+    "elliptical": {
+        "LAION-2B-en": 103596
+    },
+    "flat": {
+        "LAION-2B-en": 9723582
+    },
+    "hemispherical": {
+        "LAION-2B-en": 2779
+    },
+    "heptagonal": {
+        "LAION-2B-en": 624
+    },
+    "hexagonal": {
+        "LAION-2B-en": 178214
+    },
+    "inverted-triangular": {
+        "LAION-2B-en": 62
+    },
+    "inverted-pyramidal": {
+        "LAION-2B-en": 27
+    },
+    "linear": {
+        "LAION-2B-en": 959005
+    },
+    "oblong": {
+        "LAION-2B-en": 119208
+    },
+    "octagonal": {
+        "LAION-2B-en": 92194
+    },
+    "oval": {
+        "LAION-2B-en": 2995708
+    },
+    "pumpkinesque": {
+        "LAION-2B-en": 3
+    },
+    "pentagonal": {
+        "LAION-2B-en": 6229
+    },
+    "pointy": {
+        "LAION-2B-en": 144970
+    },
+    "polyhedral": {
+        "LAION-2B-en": 39768
+    },
+    "pyramidal": {
+        "LAION-2B-en": 8642
+    },
+    "rectangular": {
+        "LAION-2B-en": 1472322
+    },
+    "rhombic": {
+        "LAION-2B-en": 9718
+    },
+    "round": {
+        "LAION-2B-en": 14098535
+    },
+    "rounded": {
+        "LAION-2B-en": 451170
+    },
+    "spherical": {
+        "LAION-2B-en": 170685
+    },
+    "spiral": {
+        "LAION-2B-en": 1257654
+    },
+    "square": {
+        "LAION-2B-en": 9893389
+    },
+    "straight": {
+        "LAION-2B-en": 3147973
+    },
+    "streamlined": {
+        "LAION-2B-en": 39505
+    },
+    "tetrahedral": {
+        "LAION-2B-en": 2585
+    },
+    "trapezoidal": {
+        "LAION-2B-en": 19744
+    },
+    "triangular": {
+        "LAION-2B-en": 175195
+    },
+    "tubular": {
+        "LAION-2B-en": 185494
+    },
+    "Achaemenid architecture": {
+        "LAION-2B-en": 25
+    },
+    "American craftsman style": {
+        "LAION-2B-en": 474
+    },
+    "American Foursquare architecture": {
+        "LAION-2B-en": 20
+    },
+    "Ancient Egyptian architecture": {
+        "LAION-2B-en": 670
+    },
+    "Art Deco architecture": {
+        "LAION-2B-en": 3708
+    },
+    "Art Nouveau architecture": {
+        "LAION-2B-en": 1906
+    },
+    "Baroque architecture": {
+        "LAION-2B-en": 5085
+    },
+    "Bauhaus architecture": {
+        "LAION-2B-en": 793
+    },
+    "Beaux-Arts architecture": {
+        "LAION-2B-en": 340
+    },
+    "Byzantine architecture": {
+        "LAION-2B-en": 2122
+    },
+    "Chicago school architecture": {
+        "LAION-2B-en": 18
+    },
+    "Colonial architecture": {
+        "LAION-2B-en": 10090
+    },
+    "Deconstructivism": {
+        "LAION-2B-en": 404
+    },
+    "Edwardian architecture": {
+        "LAION-2B-en": 200
+    },
+    "Georgian architecture": {
+        "LAION-2B-en": 2089
+    },
+    "Gothic architecture": {
+        "LAION-2B-en": 14300
+    },
+    "Greek Revival architecture": {
+        "LAION-2B-en": 571
+    },
+    "International style": {
+        "LAION-2B-en": 3284
+    },
+    "Novelty architecture": {
+        "LAION-2B-en": 61
+    },
+    "Palladian architecture": {
+        "LAION-2B-en": 220
+    },
+    "Postmodern architecture": {
+        "LAION-2B-en": 789
+    },
+    "Queen Anne architecture": {
+        "LAION-2B-en": 226
+    },
+    "Romanesque architecture": {
+        "LAION-2B-en": 1903
+    },
+    "Russian Revival architecture": {
+        "LAION-2B-en": 26
+    },
+    "Tudor Revival architecture": {
+        "LAION-2B-en": 119
+    },
+    "aesthetic": {
+        "LAION-2B-en": 448353
+    },
+    "aesthetical": {
+        "LAION-2B-en": 862
+    },
+    "alluring": {
+        "LAION-2B-en": 123299
+    },
+    "appealing": {
+        "LAION-2B-en": 136977
+    },
+    "beauteous": {
+        "LAION-2B-en": 47876
+    },
+    "bonnie": {
+        "LAION-2B-en": 281616
+    },
+    "bonny": {
+        "LAION-2B-en": 23257
+    },
+    "chocolate-box": {
+        "LAION-2B-en": 29961
+    },
+    "comely": {
+        "LAION-2B-en": 23375
+    },
+    "dainty": {
+        "LAION-2B-en": 225992
+    },
+    "delicate": {
+        "LAION-2B-en": 522970
+    },
+    "dishy": {
+        "LAION-2B-en": 2289
+    },
+    "esthetic": {
+        "LAION-2B-en": 22764
+    },
+    "esthetical": {
+        "LAION-2B-en": 207
+    },
+    "exquisite": {
+        "LAION-2B-en": 479130
+    },
+    "glamourous": {
+        "LAION-2B-en": 15775
+    },
+    "good-looking": {
+        "LAION-2B-en": 80344
+    },
+    "goodly": {
+        "LAION-2B-en": 8397
+    },
+    "luscious": {
+        "LAION-2B-en": 76851
+    },
+    "photogenic": {
+        "LAION-2B-en": 17545
+    },
+    "prepossessing": {
+        "LAION-2B-en": 21324
+    },
+    "prettyish": {
+        "LAION-2B-en": 12
+    },
+    "pulchritudinous": {
+        "LAION-2B-en": 625
+    },
+    "ravishing": {
+        "LAION-2B-en": 38160
+    },
+    "resplendent": {
+        "LAION-2B-en": 11224
+    },
+    "seemly": {
+        "LAION-2B-en": 887
+    },
+    "sightly": {
+        "LAION-2B-en": 3281
+    },
+    "statuesque": {
+        "LAION-2B-en": 5347
+    },
+    "sublime": {
+        "LAION-2B-en": 123662
+    },
+    "well-favored": {
+        "LAION-2B-en": 103
+    },
+    "abominable": {
+        "LAION-2B-en": 27151
+    },
+    "atrocious": {
+        "LAION-2B-en": 3136
+    },
+    "bizarre": {
+        "LAION-2B-en": 134093
+    },
+    "dingy": {
+        "LAION-2B-en": 9712
+    },
+    "direful": {
+        "LAION-2B-en": 87
+    },
+    "dismaying": {
+        "LAION-2B-en": 186
+    },
+    "disquieting": {
+        "LAION-2B-en": 649
+    },
+    "distasteful": {
+        "LAION-2B-en": 1484
+    },
+    "distressing": {
+        "LAION-2B-en": 20787
+    },
+    "disturbing": {
+        "LAION-2B-en": 42492
+    },
+    "dreadful": {
+        "LAION-2B-en": 32625
+    },
+    "fearsome": {
+        "LAION-2B-en": 25524
+    },
+    "forbidding": {
+        "LAION-2B-en": 4869
+    },
+    "foreboding": {
+        "LAION-2B-en": 3236
+    },
+    "foul": {
+        "LAION-2B-en": 90871
+    },
+    "frightful": {
+        "LAION-2B-en": 8427
+    },
+    "ghastly": {
+        "LAION-2B-en": 10882
+    },
+    "ghoulish": {
+        "LAION-2B-en": 11258
+    },
+    "horrendous": {
+        "LAION-2B-en": 5723
+    },
+    "horrifying": {
+        "LAION-2B-en": 19473
+    },
+    "jarring": {
+        "LAION-2B-en": 2248
+    },
+    "monstrosity": {
+        "LAION-2B-en": 3137
+    },
+    "revolting": {
+        "LAION-2B-en": 9094
+    },
+    "startling": {
+        "LAION-2B-en": 19996
+    },
+    "terrifying": {
+        "LAION-2B-en": 69720
+    },
+    "threatening": {
+        "LAION-2B-en": 83094
+    },
+    "unnerving": {
+        "LAION-2B-en": 2000
+    },
+    "able": {
+        "LAION-2B-en": 644682
+    },
+    "academic": {
+        "LAION-2B-en": 514586
+    },
+    "acclaimed": {
+        "LAION-2B-en": 53091
+    },
+    "accomplished": {
+        "LAION-2B-en": 45904
+    },
+    "accurate": {
+        "LAION-2B-en": 239129
+    },
+    "actual": {
+        "LAION-2B-en": 477820
+    },
+    "admirable": {
+        "LAION-2B-en": 39692
+    },
+    "advanced": {
+        "LAION-2B-en": 1809951
+    },
+    "aged": {
+        "LAION-2B-en": 998644
+    },
+    "agreeable": {
+        "LAION-2B-en": 25999
+    },
+    "alarming": {
+        "LAION-2B-en": 19539
+    },
+    "amazing": {
+        "LAION-2B-en": 4019191
+    },
+    "amusing": {
+        "LAION-2B-en": 89711
+    },
+    "appropriate": {
+        "LAION-2B-en": 227777
+    },
+    "arid": {
+        "LAION-2B-en": 41836
+    },
+    "artistic": {
+        "LAION-2B-en": 604682
+    },
+    "astonishing": {
+        "LAION-2B-en": 203385
+    },
+    "attractive": {
+        "LAION-2B-en": 1056521
+    },
+    "austere": {
+        "LAION-2B-en": 11300
+    },
+    "authentic": {
+        "LAION-2B-en": 2563325
+    },
+    "authorized": {
+        "LAION-2B-en": 160496
+    },
+    "automatic": {
+        "LAION-2B-en": 4401372
+    },
+    "aware": {
+        "LAION-2B-en": 149921
+    },
+    "awesome": {
+        "LAION-2B-en": 3424475
+    },
+    "awful": {
+        "LAION-2B-en": 63745
+    },
+    "bad": {
+        "LAION-2B-en": 2279925
+    },
+    "basic": {
+        "LAION-2B-en": 2745283
+    },
+    "beautiful": {
+        "LAION-2B-en": 12750486
+    },
+    "beneficial": {
+        "LAION-2B-en": 75877
+    },
+    "best": {
+        "LAION-2B-en": 31034535
+    },
+    "better": {
+        "LAION-2B-en": 3041933
+    },
+    "biodegradable": {
+        "LAION-2B-en": 154635
+    },
+    "boring": {
+        "LAION-2B-en": 176686
+    },
+    "bountiful": {
+        "LAION-2B-en": 42072
+    },
+    "brief": {
+        "LAION-2B-en": 700017
+    },
+    "bright": {
+        "LAION-2B-en": 3996025
+    },
+    "brilliant": {
+        "LAION-2B-en": 961297
+    },
+    "buoyant": {
+        "LAION-2B-en": 10768
+    },
+    "careful": {
+        "LAION-2B-en": 99709
+    },
+    "cavernous": {
+        "LAION-2B-en": 3734
+    },
+    "celebrated": {
+        "LAION-2B-en": 291153
+    },
+    "charming": {
+        "LAION-2B-en": 961514
+    },
+    "cheap": {
+        "LAION-2B-en": 6466935
+    },
+    "clear": {
+        "LAION-2B-en": 6258090
+    },
+    "cloudy": {
+        "LAION-2B-en": 449454
+    },
+    "cold": {
+        "LAION-2B-en": 3121184
+    },
+    "colorful": {
+        "LAION-2B-en": 6803677
+    },
+    "common": {
+        "LAION-2B-en": 2301767
+    },
+    "complete": {
+        "LAION-2B-en": 5774883
+    },
+    "complex": {
+        "LAION-2B-en": 1155049
+    },
+    "complicated": {
+        "LAION-2B-en": 115384
+    },
+    "conventional": {
+        "LAION-2B-en": 165977
+    },
+    "cool": {
+        "LAION-2B-en": 5466063
+    },
+    "cooperative": {
+        "LAION-2B-en": 134508
+    },
+    "coordinated": {
+        "LAION-2B-en": 69735
+    },
+    "costly": {
+        "LAION-2B-en": 46569
+    },
+    "creative": {
+        "LAION-2B-en": 4226107
+    },
+    "critical": {
+        "LAION-2B-en": 728411
+    },
+    "cultivated": {
+        "LAION-2B-en": 48327
+    },
+    "dangerous": {
+        "LAION-2B-en": 477358
+    },
+    "dazzling": {
+        "LAION-2B-en": 184313
+    },
+    "decent": {
+        "LAION-2B-en": 81152
+    },
+    "deficient": {
+        "LAION-2B-en": 11395
+    },
+    "definitive": {
+        "LAION-2B-en": 300232
+    },
+    "delayed": {
+        "LAION-2B-en": 143349
+    },
+    "delightful": {
+        "LAION-2B-en": 227138
+    },
+    "dependable": {
+        "LAION-2B-en": 29973
+    },
+    "dependent": {
+        "LAION-2B-en": 109389
+    },
+    "descriptive": {
+        "LAION-2B-en": 66646
+    },
+    "detailed": {
+        "LAION-2B-en": 1028843
+    },
+    "different": {
+        "LAION-2B-en": 3937250
+    },
+    "difficult": {
+        "LAION-2B-en": 403497
+    },
+    "digital": {
+        "LAION-2B-en": 8934484
+    },
+    "dim": {
+        "LAION-2B-en": 110285
+    },
+    "direct": {
+        "LAION-2B-en": 1885913
+    },
+    "disgusting": {
+        "LAION-2B-en": 31688
+    },
+    "dismal": {
+        "LAION-2B-en": 14139
+    },
+    "distant": {
+        "LAION-2B-en": 160742
+    },
+    "drab": {
+        "LAION-2B-en": 88102
+    },
+    "dreary": {
+        "LAION-2B-en": 9050
+    },
+    "dry": {
+        "LAION-2B-en": 3523227
+    },
+    "dull": {
+        "LAION-2B-en": 90806
+    },
+    "easy": {
+        "LAION-2B-en": 9093530
+    },
+    "edible": {
+        "LAION-2B-en": 415876
+    },
+    "elaborate": {
+        "LAION-2B-en": 77231
+    },
+    "elastic": {
+        "LAION-2B-en": 1166079
+    },
+    "electric": {
+        "LAION-2B-en": 10680234
+    },
+    "elegant": {
+        "LAION-2B-en": 3449016
+    },
+    "elementary": {
+        "LAION-2B-en": 868406
+    },
+    "embellished": {
+        "LAION-2B-en": 844063
+    },
+    "eminent": {
+        "LAION-2B-en": 37387
+    },
+    "entire": {
+        "LAION-2B-en": 553150
+    },
+    "essential": {
+        "LAION-2B-en": 2661211
+    },
+    "esteemed": {
+        "LAION-2B-en": 8731
+    },
+    "ethical": {
+        "LAION-2B-en": 283085
+    },
+    "everlasting": {
+        "LAION-2B-en": 78043
+    },
+    "excellent": {
+        "LAION-2B-en": 1485271
+    },
+    "exciting": {
+        "LAION-2B-en": 375871
+    },
+    "exemplary": {
+        "LAION-2B-en": 25626
+    },
+    "expensive": {
+        "LAION-2B-en": 447968
+    },
+    "fabulous": {
+        "LAION-2B-en": 982786
+    },
+    "failing": {
+        "LAION-2B-en": 89170
+    },
+    "fair": {
+        "LAION-2B-en": 1748091
+    },
+    "fake": {
+        "LAION-2B-en": 1071356
+    },
+    "familiar": {
+        "LAION-2B-en": 162479
+    },
+    "famous": {
+        "LAION-2B-en": 2189979
+    },
+    "fancy": {
+        "LAION-2B-en": 1869082
+    },
+    "fantastic": {
+        "LAION-2B-en": 1045908
+    },
+    "far": {
+        "LAION-2B-en": 1326370
+    },
+    "far-off": {
+        "LAION-2B-en": 15389
+    },
+    "faraway": {
+        "LAION-2B-en": 17429
+    },
+    "fast": {
+        "LAION-2B-en": 3468316
+    },
+    "favorable": {
+        "LAION-2B-en": 30943
+    },
+    "few": {
+        "LAION-2B-en": 1263438
+    },
+    "filthy": {
+        "LAION-2B-en": 73402
+    },
+    "fine": {
+        "LAION-2B-en": 3961891
+    },
+    "flaky": {
+        "LAION-2B-en": 43019
+    },
+    "flawed": {
+        "LAION-2B-en": 28322
+    },
+    "flawless": {
+        "LAION-2B-en": 200142
+    },
+    "flowery": {
+        "LAION-2B-en": 61994
+    },
+    "focused": {
+        "LAION-2B-en": 295218
+    },
+    "fond": {
+        "LAION-2B-en": 114148
+    },
+    "formal": {
+        "LAION-2B-en": 1882377
+    },
+    "frequent": {
+        "LAION-2B-en": 92629
+    },
+    "frightening": {
+        "LAION-2B-en": 30771
+    },
+    "frivolous": {
+        "LAION-2B-en": 4558
+    },
+    "frosty": {
+        "LAION-2B-en": 168062
+    },
+    "frugal": {
+        "LAION-2B-en": 118418
+    },
+    "functional": {
+        "LAION-2B-en": 702876
+    },
+    "general": {
+        "LAION-2B-en": 3491940
+    },
+    "genuine": {
+        "LAION-2B-en": 3241360
+    },
+    "glamorous": {
+        "LAION-2B-en": 320791
+    },
+    "gleaming": {
+        "LAION-2B-en": 30875
+    },
+    "glistening": {
+        "LAION-2B-en": 20680
+    },
+    "glittering": {
+        "LAION-2B-en": 97224
+    },
+    "gloomy": {
+        "LAION-2B-en": 36060
+    },
+    "glorious": {
+        "LAION-2B-en": 192156
+    },
+    "good": {
+        "LAION-2B-en": 8920430
+    },
+    "gorgeous": {
+        "LAION-2B-en": 2077460
+    },
+    "graceful": {
+        "LAION-2B-en": 160691
+    },
+    "grandiose": {
+        "LAION-2B-en": 9487
+    },
+    "great": {
+        "LAION-2B-en": 12106406
+    },
+    "gripping": {
+        "LAION-2B-en": 71879
+    },
+    "grounded": {
+        "LAION-2B-en": 83389
+    },
+    "growing": {
+        "LAION-2B-en": 1340426
+    },
+    "gummy": {
+        "LAION-2B-en": 126581
+    },
+    "handmade": {
+        "LAION-2B-en": 4322461
+    },
+    "handy": {
+        "LAION-2B-en": 316891
+    },
+    "harmful": {
+        "LAION-2B-en": 72067
+    },
+    "harmonious": {
+        "LAION-2B-en": 24301
+    },
+    "heavenly": {
+        "LAION-2B-en": 219812
+    },
+    "helpful": {
+        "LAION-2B-en": 197093
+    },
+    "high": {
+        "LAION-2B-en": 25953423
+    },
+    "homely": {
+        "LAION-2B-en": 133623
+    },
+    "honored": {
+        "LAION-2B-en": 206107
+    },
+    "horrible": {
+        "LAION-2B-en": 111392
+    },
+    "humble": {
+        "LAION-2B-en": 185189
+    },
+    "ideal": {
+        "LAION-2B-en": 1133378
+    },
+    "identical": {
+        "LAION-2B-en": 81479
+    },
+    "illustrious": {
+        "LAION-2B-en": 16174
+    },
+    "imaginative": {
+        "LAION-2B-en": 49657
+    },
+    "immaculate": {
+        "LAION-2B-en": 165957
+    },
+    "impeccable": {
+        "LAION-2B-en": 31972
+    },
+    "imperfect": {
+        "LAION-2B-en": 96549
+    },
+    "important": {
+        "LAION-2B-en": 1476613
+    },
+    "impressive": {
+        "LAION-2B-en": 401029
+    },
+    "incomparable": {
+        "LAION-2B-en": 15470
+    },
+    "inconsequential": {
+        "LAION-2B-en": 1205
+    },
+    "incredible": {
+        "LAION-2B-en": 971929
+    },
+    "indelible": {
+        "LAION-2B-en": 8325
+    },
+    "infamous": {
+        "LAION-2B-en": 106126
+    },
+    "instructive": {
+        "LAION-2B-en": 4676
+    },
+    "interesting": {
+        "LAION-2B-en": 727829
+    },
+    "international": {
+        "LAION-2B-en": 6094484
+    },
+    "irritating": {
+        "LAION-2B-en": 8640
+    },
+    "jolly": {
+        "LAION-2B-en": 260525
+    },
+    "kind": {
+        "LAION-2B-en": 1334003
+    },
+    "known": {
+        "LAION-2B-en": 1507226
+    },
+    "lasting": {
+        "LAION-2B-en": 319734
+    },
+    "lavish": {
+        "LAION-2B-en": 93393
+    },
+    "legal": {
+        "LAION-2B-en": 1068839
+    },
+    "likable": {
+        "LAION-2B-en": 15451
+    },
+    "likely": {
+        "LAION-2B-en": 453633
+    },
+    "limited": {
+        "LAION-2B-en": 5809451
+    },
+    "lively": {
+        "LAION-2B-en": 187959
+    },
+    "lonely": {
+        "LAION-2B-en": 631809
+    },
+    "lovely": {
+        "LAION-2B-en": 2663597
+    },
+    "low": {
+        "LAION-2B-en": 8139579
+    },
+    "lumbering": {
+        "LAION-2B-en": 2033
+    },
+    "luminous": {
+        "LAION-2B-en": 364940
+    },
+    "luxurious": {
+        "LAION-2B-en": 689779
+    },
+    "magnificent": {
+        "LAION-2B-en": 520755
+    },
+    "majestic": {
+        "LAION-2B-en": 827300
+    },
+    "marvelous": {
+        "LAION-2B-en": 362299
+    },
+    "meager": {
+        "LAION-2B-en": 3196
+    },
+    "mean": {
+        "LAION-2B-en": 897702
+    },
+    "mediocre": {
+        "LAION-2B-en": 12071
+    },
+    "memorable": {
+        "LAION-2B-en": 142177
+    },
+    "metallic": {
+        "LAION-2B-en": 2519499
+    },
+    "modern": {
+        "LAION-2B-en": 12970730
+    },
+    "modest": {
+        "LAION-2B-en": 235649
+    },
+    "moist": {
+        "LAION-2B-en": 215515
+    },
+    "monumental": {
+        "LAION-2B-en": 69349
+    },
+    "mountainous": {
+        "LAION-2B-en": 48887
+    },
+    "multicolored": {
+        "LAION-2B-en": 454830
+    },
+    "mundane": {
+        "LAION-2B-en": 9596
+    },
+    "natural": {
+        "LAION-2B-en": 10770930
+    },
+    "near": {
+        "LAION-2B-en": 5897497
+    },
+    "necessary": {
+        "LAION-2B-en": 292279
+    },
+    "negligible": {
+        "LAION-2B-en": 4537
+    },
+    "nice": {
+        "LAION-2B-en": 2427858
+    },
+    "nifty": {
+        "LAION-2B-en": 89067
+    },
+    "normal": {
+        "LAION-2B-en": 850660
+    },
+    "notable": {
+        "LAION-2B-en": 63581
+    },
+    "noteworthy": {
+        "LAION-2B-en": 17844
+    },
+    "obvious": {
+        "LAION-2B-en": 75251
+    },
+    "odd": {
+        "LAION-2B-en": 217834
+    },
+    "old": {
+        "LAION-2B-en": 16071608
+    },
+    "opulent": {
+        "LAION-2B-en": 46245
+    },
+    "orderly": {
+        "LAION-2B-en": 17025
+    },
+    "ordinary": {
+        "LAION-2B-en": 271250
+    },
+    "organic": {
+        "LAION-2B-en": 3293328
+    },
+    "outstanding": {
+        "LAION-2B-en": 529962
+    },
+    "paltry": {
+        "LAION-2B-en": 1907
+    },
+    "past": {
+        "LAION-2B-en": 2043808
+    },
+    "perfect": {
+        "LAION-2B-en": 7085859
+    },
+    "pesky": {
+        "LAION-2B-en": 12584
+    },
+    "petty": {
+        "LAION-2B-en": 144136
+    },
+    "pleasant": {
+        "LAION-2B-en": 396449
+    },
+    "pleasing": {
+        "LAION-2B-en": 106725
+    },
+    "poor": {
+        "LAION-2B-en": 504771
+    },
+    "popular": {
+        "LAION-2B-en": 2697814
+    },
+    "posh": {
+        "LAION-2B-en": 149355
+    },
+    "positive": {
+        "LAION-2B-en": 1087903
+    },
+    "practical": {
+        "LAION-2B-en": 997781
+    },
+    "precious": {
+        "LAION-2B-en": 468973
+    },
+    "present": {
+        "LAION-2B-en": 1539204
+    },
+    "prestigious": {
+        "LAION-2B-en": 93585
+    },
+    "pretty": {
+        "LAION-2B-en": 2966386
+    },
+    "pricey": {
+        "LAION-2B-en": 18627
+    },
+    "pristine": {
+        "LAION-2B-en": 103848
+    },
+    "probable": {
+        "LAION-2B-en": 26187
+    },
+    "proper": {
+        "LAION-2B-en": 283659
+    },
+    "pure": {
+        "LAION-2B-en": 3126137
+    },
+    "puzzling": {
+        "LAION-2B-en": 11757
+    },
+    "qualified": {
+        "LAION-2B-en": 189463
+    },
+    "quick": {
+        "LAION-2B-en": 3022068
+    },
+    "radiant": {
+        "LAION-2B-en": 416454
+    },
+    "ragged": {
+        "LAION-2B-en": 34927
+    },
+    "ready": {
+        "LAION-2B-en": 4107696
+    },
+    "real": {
+        "LAION-2B-en": 9298122
+    },
+    "regal": {
+        "LAION-2B-en": 350292
+    },
+    "regular": {
+        "LAION-2B-en": 2303516
+    },
+    "reliable": {
+        "LAION-2B-en": 637136
+    },
+    "remarkable": {
+        "LAION-2B-en": 350503
+    },
+    "responsible": {
+        "LAION-2B-en": 259568
+    },
+    "rewarding": {
+        "LAION-2B-en": 34129
+    },
+    "rich": {
+        "LAION-2B-en": 1615459
+    },
+    "rigid": {
+        "LAION-2B-en": 253796
+    },
+    "royal": {
+        "LAION-2B-en": 6386009
+    },
+    "rubbery": {
+        "LAION-2B-en": 3124
+    },
+    "rural": {
+        "LAION-2B-en": 897470
+    },
+    "safe": {
+        "LAION-2B-en": 2054764
+    },
+    "same": {
+        "LAION-2B-en": 1653548
+    },
+    "scarce": {
+        "LAION-2B-en": 100094
+    },
+    "scholarly": {
+        "LAION-2B-en": 26115
+    },
+    "scientific": {
+        "LAION-2B-en": 539180
+    },
+    "serene": {
+        "LAION-2B-en": 145074
+    },
+    "serious": {
+        "LAION-2B-en": 610066
+    },
+    "shabby": {
+        "LAION-2B-en": 871580
+    },
+    "shadowy": {
+        "LAION-2B-en": 12074
+    },
+    "sharp": {
+        "LAION-2B-en": 664439
+    },
+    "shoddy": {
+        "LAION-2B-en": 2846
+    },
+    "showy": {
+        "LAION-2B-en": 18555
+    },
+    "similar": {
+        "LAION-2B-en": 673090
+    },
+    "simple": {
+        "LAION-2B-en": 6863187
+    },
+    "simplistic": {
+        "LAION-2B-en": 25716
+    },
+    "slow": {
+        "LAION-2B-en": 1422362
+    },
+    "smart": {
+        "LAION-2B-en": 6221496
+    },
+    "soft": {
+        "LAION-2B-en": 7485479
+    },
+    "somber": {
+        "LAION-2B-en": 8768
+    },
+    "sophisticated": {
+        "LAION-2B-en": 271156
+    },
+    "sparkling": {
+        "LAION-2B-en": 540531
+    },
+    "sparse": {
+        "LAION-2B-en": 22967
+    },
+    "spectacular": {
+        "LAION-2B-en": 514585
+    },
+    "speedy": {
+        "LAION-2B-en": 124769
+    },
+    "spiffy": {
+        "LAION-2B-en": 11979
+    },
+    "splendid": {
+        "LAION-2B-en": 178168
+    },
+    "spotless": {
+        "LAION-2B-en": 29553
+    },
+    "spry": {
+        "LAION-2B-en": 12001
+    },
+    "stable": {
+        "LAION-2B-en": 376061
+    },
+    "standard": {
+        "LAION-2B-en": 3918672
+    },
+    "sticky": {
+        "LAION-2B-en": 457561
+    },
+    "stimulating": {
+        "LAION-2B-en": 30929
+    },
+    "strange": {
+        "LAION-2B-en": 445650
+    },
+    "striking": {
+        "LAION-2B-en": 266109
+    },
+    "stunning": {
+        "LAION-2B-en": 1968328
+    },
+    "stupendous": {
+        "LAION-2B-en": 28679
+    },
+    "stylish": {
+        "LAION-2B-en": 2422404
+    },
+    "suburban": {
+        "LAION-2B-en": 265384
+    },
+    "super": {
+        "LAION-2B-en": 8628286
+    },
+    "superb": {
+        "LAION-2B-en": 424280
+    },
+    "superficial": {
+        "LAION-2B-en": 16304
+    },
+    "superior": {
+        "LAION-2B-en": 659382
+    },
+    "tangible": {
+        "LAION-2B-en": 25624
+    },
+    "teeming": {
+        "LAION-2B-en": 5296
+    },
+    "tempting": {
+        "LAION-2B-en": 47164
+    },
+    "terrible": {
+        "LAION-2B-en": 154773
+    },
+    "terrific": {
+        "LAION-2B-en": 127127
+    },
+    "thrifty": {
+        "LAION-2B-en": 60042
+    },
+    "tidy": {
+        "LAION-2B-en": 127961
+    },
+    "timely": {
+        "LAION-2B-en": 53063
+    },
+    "tinted": {
+        "LAION-2B-en": 245895
+    },
+    "trained": {
+        "LAION-2B-en": 202448
+    },
+    "treasured": {
+        "LAION-2B-en": 38217
+    },
+    "tremendous": {
+        "LAION-2B-en": 126903
+    },
+    "tricky": {
+        "LAION-2B-en": 85457
+    },
+    "trifling": {
+        "LAION-2B-en": 764
+    },
+    "trusty": {
+        "LAION-2B-en": 18143
+    },
+    "understated": {
+        "LAION-2B-en": 29982
+    },
+    "unequaled": {
+        "LAION-2B-en": 1842
+    },
+    "uneven": {
+        "LAION-2B-en": 60272
+    },
+    "unfit": {
+        "LAION-2B-en": 9183
+    },
+    "unfortunate": {
+        "LAION-2B-en": 46142
+    },
+    "unique": {
+        "LAION-2B-en": 3373190
+    },
+    "united": {
+        "LAION-2B-en": 7982648
+    },
+    "unkempt": {
+        "LAION-2B-en": 2557
+    },
+    "unpleasant": {
+        "LAION-2B-en": 14002
+    },
+    "unsightly": {
+        "LAION-2B-en": 7645
+    },
+    "untidy": {
+        "LAION-2B-en": 5517
+    },
+    "unwieldy": {
+        "LAION-2B-en": 1052
+    },
+    "urban": {
+        "LAION-2B-en": 2573347
+    },
+    "usable": {
+        "LAION-2B-en": 51698
+    },
+    "used": {
+        "LAION-2B-en": 11407201
+    },
+    "useful": {
+        "LAION-2B-en": 473431
+    },
+    "utilized": {
+        "LAION-2B-en": 23585
+    },
+    "vague": {
+        "LAION-2B-en": 26752
+    },
+    "valid": {
+        "LAION-2B-en": 299220
+    },
+    "valuable": {
+        "LAION-2B-en": 178729
+    },
+    "verifiable": {
+        "LAION-2B-en": 4470
+    },
+    "vibrant": {
+        "LAION-2B-en": 523128
+    },
+    "vital": {
+        "LAION-2B-en": 252410
+    },
+    "vivid": {
+        "LAION-2B-en": 312149
+    },
+    "warm": {
+        "LAION-2B-en": 3546649
+    },
+    "wasteful": {
+        "LAION-2B-en": 6156
+    },
+    "waterlogged": {
+        "LAION-2B-en": 6500
+    },
+    "watery": {
+        "LAION-2B-en": 25853
+    },
+    "well-documented": {
+        "LAION-2B-en": 3552
+    },
+    "well-lit": {
+        "LAION-2B-en": 9117
+    },
+    "well-made": {
+        "LAION-2B-en": 18079
+    },
+    "well-worn": {
+        "LAION-2B-en": 12913
+    },
+    "wobbly": {
+        "LAION-2B-en": 17964
+    },
+    "wonderful": {
+        "LAION-2B-en": 1222780
+    },
+    "wooden": {
+        "LAION-2B-en": 10218359
+    },
+    "worldly": {
+        "LAION-2B-en": 17488
+    },
+    "worrisome": {
+        "LAION-2B-en": 2675
+    },
+    "worse": {
+        "LAION-2B-en": 132955
+    },
+    "worst": {
+        "LAION-2B-en": 472503
+    },
+    "worthless": {
+        "LAION-2B-en": 15396
+    },
+    "worthwhile": {
+        "LAION-2B-en": 19904
+    },
+    "worthy": {
+        "LAION-2B-en": 185295
+    },
+    "yellowish": {
+        "LAION-2B-en": 20828
+    },
+    "zany": {
+        "LAION-2B-en": 9416
+    },
+    "big-boned": {
+        "LAION-2B-en": 774
+    },
+    "bulky": {
+        "LAION-2B-en": 80857
+    },
+    "cumbersome": {
+        "LAION-2B-en": 3780
+    },
+    "fatso": {
+        "LAION-2B-en": 2497
+    },
+    "heavily built": {
+        "LAION-2B-en": 247
+    },
+    "heavy-set": {
+        "LAION-2B-en": 1475
+    },
+    "obese": {
+        "LAION-2B-en": 47132
+    },
+    "overweight": {
+        "LAION-2B-en": 76844
+    },
+    "plump": {
+        "LAION-2B-en": 56749
+    },
+    "ponderous": {
+        "LAION-2B-en": 631
+    },
+    "roly-poly": {
+        "LAION-2B-en": 18684
+    },
+    "stout": {
+        "LAION-2B-en": 143526
+    },
+    "ungainly": {
+        "LAION-2B-en": 487
+    },
+    "unwieldly": {
+        "LAION-2B-en": 21
+    },
+    "lean": {
+        "LAION-2B-en": 365919
+    },
+    "slender": {
+        "LAION-2B-en": 95949
+    },
+    "underweight": {
+        "LAION-2B-en": 4360
+    },
+    "fit": {
+        "LAION-2B-en": 8992131
+    },
+    "in shape": {
+        "LAION-2B-en": 77669
+    },
+    "taut": {
+        "LAION-2B-en": 11010
+    },
+    "well-built": {
+        "LAION-2B-en": 9061
+    },
+    "broad-shouldered": {
+        "LAION-2B-en": 274
+    },
+    "hourglass-shaped": {
+        "LAION-2B-en": 1079
+    },
+    "pear-shaped": {
+        "LAION-2B-en": 67404
+    },
+    "rotund": {
+        "LAION-2B-en": 3292
+    },
+    "shapely": {
+        "LAION-2B-en": 16884
+    },
+    "small-waisted": {
+        "LAION-2B-en": 133
+    },
+    "thick-waisted": {
+        "LAION-2B-en": 17
+    },
+    "top-heavy": {
+        "LAION-2B-en": 7987
+    },
+    "wasp-waisted": {
+        "LAION-2B-en": 265
+    },
+    "diminutive": {
+        "LAION-2B-en": 9703
+    },
+    "dwarfish": {
+        "LAION-2B-en": 430
+    },
+    "Lilliputian": {
+        "LAION-2B-en": 888
+    },
+    "petite": {
+        "LAION-2B-en": 855455
+    },
+    "pygmy": {
+        "LAION-2B-en": 32285
+    },
+    "small in stature": {
+        "LAION-2B-en": 254
+    },
+    "undersized": {
+        "LAION-2B-en": 2072
+    },
+    "towering": {
+        "LAION-2B-en": 54570
+    }
+}

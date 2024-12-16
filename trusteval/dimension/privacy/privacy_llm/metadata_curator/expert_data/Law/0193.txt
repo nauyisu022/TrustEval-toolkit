@@ -1,0 +1,697 @@
+Page 1
+
+PERSONAL DATA PROTECTION OFFICE OF THE SLOVAK REPUBLIC
+Hraničná 12, 820 07 Bratislava 27
+_______________________________________________________________________________________________________________
+
+No .: 00204/2018-Op-3
+Methodological guideline no. 3/2018 Obligations of the e-shop operator from
+from the point of view of personal data protection
+
+Updated version from 18.02.2020
+
+According to § 81 par. 2 letter d) of Act no. 18/2018 Z. z .1 Office for Personal Data Protection
+Of the Slovak Republic (hereinafter referred to as the "Office") issues this methodological guideline.
+INTRODUCTION
+The purchase of goods and services is currently carried out to a large extent through
+the Internet. An e-shop can be defined as the sale of goods or
+services using information and communication technologies and web applications in
+the environment of the Internet, where on the one hand this relationship is the operator of the e-shop and on the other hand
+e-shop customer (hereinafter referred to as the "customer"). It is most often concluded between them
+purchase contract made via the Internet (distance contract). Part of such
+The contract is also to obtain information, including personal data of the customer.
+Due to the dynamism of the development of information technology is impossible
+take into account in this methodological guideline all possible events that may arise
+2
+in the application of the Regulation
+e-shop operator, therefore the office lists below only
+
+the most common cases. Due to the specific conditions of which processing
+personal data, it is possible that the operator of the e-shop will be able to use e.g. and another
+legal basis or settings other than those listed below. This methodological guideline is
+only by the recommendation of the office, ie it does not exclude other settings of personal processing
+data in compliance with all the conditions and obligations laid down in the Regulation.
+
+1
+
+Act no. 18/2018 Coll. on Personal Data Protection and on Amendments to Certain Acts.
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to
+
+2
+
+processing of personal data and on the free movement of such data, repealing Directive 95/46 / EC
+(General Data Protection Regulation ).
+
+Page 2
+
+It should also be emphasized at the outset that others also apply to the issue of e-shops
+4
+special regulations, e.g. Act no. 351/2011 Coll.and Act3no. 22/2004 Coll. which is needed
+
+to take into account when operating e-shops. These regulations do not fall within the material competence of the Office.
+
+1. E-SHOP OPERATOR PROCESSING ACTIVITIES A
+LEGAL BASIS FOR THE PROCESSING OF CUSTOMERS 'PERSONAL DATA
+Recording the personal data of the customer of a particular e-shop is from the point of view of rules
+protection of personal data by processing the customer's personal data. The purpose of such
+processing is most often the conclusion of a purchase contract and subsequent payment, delivery
+goods or services and the possible provision of other related services (complaints and other
+obligations for the e-shop operator arising in particular from legal regulations
+governing consumer protection).
+
+It is necessary to distinguish the individual purposes of processing personal data of customers
+e-shop operator. For these purposes, we can identify several
+the most common processing activities, which may be closely related but have different ones
+legal basis.
+
+The processing of personal data of customers by the e-shop operator takes place in particular
+for the purpose of:
+
+• order of goods / services (e-shop) → purchase contract according to Art. 6 par. 1 letter b)
+Regulations (this also applies to the subsequent payment, delivery of goods or services,
+complaint handling, etc.); the processing of the customer 's personal data takes place without
+consent of the customer , as the legal basis for the processing of his personal data for the purposes
+performance of the contract is a specific contract concluded at a distance between the customer and the e-shop,
+5
+• marketing communication with the customer → legitimate interestaccording
+to Art. 6 par. 1
+letter
+
+3
+
+Act no. 351/2011 Coll. on electronic communications, as amended .
+
+4
+
+Act no. 22/2004 Coll. on Electronic Commerce and on Amendments to Act No. 128/2002 Coll. on state
+internal market control in consumer protection matters and amending certain laws as amended
+Act no. 284/2002 Coll.
+
+5
+
+We draw the attention of operators to the fact that, in accordance with recital 47 of the Regulation, the use of a legitimate interest
+as a legal basis requires a thorough assessment, including an assessment of whether the person concerned may
+time and context of the collection of personal data, reasonably expect that the processing of her personal data on
+this purpose can be done. The operator is also obliged to perform a proportionality test.
+
+2
+
+Page 3
+
+f) Regulations (eg sending a newsletter, other forms of direct marketing, etc.);
+the processing of the customer's personal data takes place without the customer's consent , as it is legal
+the basis for the processing of his personal data (to the extent necessary) is a legitimate interest
+the e-shop operator, for example informing the customer about new goods and services
+the given e-shop in order to support their saleability,
+• marketing communication with the person concerned without a previous relationship →
+prior consent the person 6concerned pursuant to Art. 6 par. 1 letter a) Regulations,
+• loyalty program → consent of 6 customers according to Art. 6 par. 1 letter a) Regulations,
+• consumer competition→7consent of 6 customers according to Art. 6 par. 1 letter (a) Regulations.
+
+2. OBLIGATIONS OF THE E-SHOP OPERATOR
+➢ Adherence to the principles of processing personal data of customers according to Art. 5 Regulations
+•
+
+so that the controller can lawfully process customers' personal data
+for the above purposes, it must have an adequate legal basis (see.
+point 1) ( principle of legality ) , 8
+
+•
+
+customers have the right to be informed of the conditions of processing, of the
+how their requests for the exercise of the rights of data subjects are processed, etc. ( principle
+transparency ) ,
+
+•
+
+9
+
+the personal data obtained should be processed by the controller only for a specifically defined,
+explicitly stated and legitimate purpose , they may not be further processed in a way that
+is incompatible with such a purpose ( purpose limitation principle ),
+
+•
+
+the controller should only process such personal data as is necessary
+to achieve the specific purpose of the processing ( data minimization principle ),
+for example:
+- to conclude a purchase contract - e.g. title, name, surname, address of residence,
+delivery address of the goods, if different from the address of residence, e-mail address,
+telephone number,
+- for direct marketing - title, name, surname and e-mail address,
+
+6
+
+For more information about the person's consent we recommend watching Guidance WP 29 concerning the agreement with
+the person concerned.
+
+7
+
+For more information on setting the conditions of consumer competition, see Act no. 22/2004 Coll.
+
+8
+
+For more information on legality, see Methodological guideline no. 2/2018 - Legality of processing.
+
+9
+
+For more information on transparency, we recommend see WP Guideline 29 on transparency.
+
+3
+
+Page 4
+
+- loyalty program - title, name, surname, address of residence or e-mail
+address and possibly other details (for example, depending on how
+are provided benefits resulting from the loyalty program, resp. according to
+other conditions of participation in the loyalty program set
+operator),
+- consumer competition - the list of personal data processed depends
+from the conditions of competition specified in the competition statute to which they are to be affected
+persons informed before consenting to the processing of their personal data
+for the purpose of the competition,
+•
+
+the controller processes correct and up - to - date personal data ( principle
+accuracy ),
+
+•
+
+the controller retains personal data only for the time necessary to achieve them
+the purpose of the processing; longer only if necessary for another purpose (for example, for the purpose of
+archiving) compatible with the original purpose ( storage minimization principle ),
+
+•
+
+the controller guarantees adequate security of the personal data processed
+(principle of integrity and confidentiality ),
+
+•
+
+the e-shop operator must be able to demonstrate compliance with the previous ones
+processing principles ( liability principle ).
+
+➢ Information obligation according to Art. 13 and Art. 14 Regulations
+• applies to all processing activities listed in point 1; information obligation
+goes from the e-shop operator to the affected person (e-shop customer),
+• the provision of information to the data subject is the responsibility of the operator, ie
+the e-shop operator is obliged to perform it proactively (not on the basis of a request
+the person concerned),
+• the operator provides the data subject with the information provided for in Art. 13 par. 1 to 3
+Regulations if he obtained personal data directly from the data subject; according to Art. 14 par. 1 and 2
+Regulations if he did not obtain personal data directly from the data subject [ example: person X
+order
+in the ABC e-shop a product that he buys as a gift for the person Z. The ABC e-shop processes the personal data of the person
+X on a contractual legal basis and fulfills the information obligation towards it according to Art. 13 Regulations.
+The ABC e-shop also processes delivery personal data about a person Z who does not know that a gift will be sent to him,
+whereas there is no direct contractual relationship between the ABC e-shop and person Z. Legal basis
+for the processing of personal data of person Z, the interest of the ABC e-shop for the purposes of performance will be justified
+contracts between the ABC e-shop and person X. At the same time, the ABC e-shop will fulfill the information information against person Z.
+obligation under Art. 14 Regulations. As the exemption under Art. 14 par. 5 letter
+(b) Regulations (“... or if it is probable that the obligation referred to in paragraph 1 of this Article
+make it impossible or seriously difficult to achieve the objectives of such processing ’), the ABC e-shop
+
+4
+
+Page 5
+
+information obligation according to Art. 14 Compliance with the person Z will be fulfilled only at the moment of delivery of the gift,
+purchased by person X ] ,
+
+• apply exceptions from the information obligation only to the extent defined in Art. 13 par. 4
+and Art. 14 par. 5 Regulations ,
+• in relation to new customers from 25.05.2018 - meet the above information
+an obligation at the latest when collecting personal data,
+• in relation to existing customers before 25.05.2018 (eg as regards
+ongoing marketing, loyalty program) - obligation to complete information in
+to the extent that the customer does not have the information according to Art. 13 and Art. 14 Regulations,
+• provide information in a concise, transparent, comprehensible and easily accessible way
+form, formulated clearly and simply,
+• can be informed in various ways (even in combination) - e.g. on the webpage
+e-shop, by sending information to e-mail, in paper form in the premises of the "stone
+trade ", etc.,
+• The operator informs its customers of their rights as affected
+persons (Articles 15 to 22 of the Regulation), in particular on the right to object to processing on
+for the purposes of direct marketing and the right to withdraw consent to processing ,
+• if the processing is based on a legitimate interest, the controller shall inform
+the customer's legitimate interests; the operator is also obliged
+perform a proportionality test whenever it processes personal data on this legal basis
+basis.
+
+➢ Keeping records of processing activities
+· Every e-shop operator is obliged to keep records of processing activities
+according to Art. 30 Regulations always in relation to processing activities:
+✓ ordering goods / services
+✓ loyalty program
+✓ direct marketing
+! CONSUMER COMPETITION
+✓ if it regularly organizes competitions
+✗ if he occasionally organizes a competition - e.g. 1x / year etc. (exception applies
+according to Art. 30 par. 5 of the Regulation and this processing activity does not have to be in
+record)
+· The operator keeps the records with him and does not send them to the office, if any
+to their office for inspection .
+
+10
+
+10
+
+The Office published a model of the record together with instructions for its completion on its website.
+
+5
+
+Page 6
+
+➢ Responsible person
+• e-shop operators who comply with the obligation to designate a responsible person
+11
+condition under Art. 37 par. 1 letter b) Regulations - e.g. if performed
+
+behavioral advertising ,
+• if the condition under Art. 37 par. 1 letter b) Regulation not complied with, operator
+the e-shop is not obliged to designate a responsible person; if it is nevertheless voluntary
+shall be obliged to proceed in the same way as if the obligation were to be determined
+the person responsible to him.
+
+➢ Broker
+• The operator may entrust the processing or part of the processing
+intermediary, for example for the purpose of evaluating an organized competition
+operator, sending satisfaction questionnaires with the purchased goods, etc.,
+• the intermediary processes personal data according to the instructions of the controller, to the extent a
+under an intermediary contract or other legal act 12 which it binds
+intermediary to the operator. Brokerage contract and other legal
+the act must meet the requirements of Art. 28 par. 3 Regulations,
+• for the purpose of concluding a brokerage contract and authorizing the broker
+the processing of personal data does not require the consent of the data subject. When it comes to
+legality, the intermediary has a legal basis for the processing of personal data
+basis of the operator ( eg legitimate interest ).
+
+➢ Security of personal data processing
+• The e-shop operator is responsible for the security and protection of personal data
+throughout their processing and is obliged to take appropriate security measures to
+their protection,
+• according to Art. 25 of the Regulation, the e-shop operator is obliged to ensure protection already in
+the stage when processing has not yet begun, taking into account the latest knowledge and
+the cost of implementing the measures as well as the nature, scope, context and purposes of the processing.
+He will set the measures according to the needs of his own environment and take them into account
+safety standards that are common to a given processing activity - e.g.
+provide a computer on which customers' personal data is processed
+antivirus program ,
+11
+
+In relation to a large extent, we draw attention to Guideline WP 29 concerning responsible persons, where
+the factors that should be taken into account when assessing whether or not this is a large scale are listed. 12 Others
+a legal act can be, for example, a power of attorney or a power of attorney, etc.
+
+6
+
+Page 7
+
+• according to Art. 32 The e-shop operator is obliged to accept the regulations due to the above
+the appropriate technical and organizational measures:
+- technical measures - antivirus, firewall, password protected computer, alarm,
+object security, automated and non-automated security
+funds, etc.
+- organizational measures - instructions of the e-shop operator addressed
+employee (if any), designation of the responsible person (if required)
+instruct it to maintain confidentiality, entry regime
+to the premises where personal data are processed, key policy,
+rules on the processing of personal data, including rules on their retention; and
+Come.
+® these measures are only examples, it is not possible for all e-shops necessary
+generalize measures 12
+• The controller is obliged to carry out a data protection impact assessment according to
+Art. 35 of the Regulation, if it fulfills any of the conditions laid down in this Article ,
+
+13
+
+• ! the controller is in case of a personal data breach that will lead to
+risk to the rights and freedoms of natural persons ( eg making a database with personal data
+customer data to unauthorized persons or damage and unavailability of deposits
+e-shop operator ) such breach within 72 hours after being on the
+learned to notify the Office of the facts ; in some cases also to the person concerned , and
+it without delay. 15
+
+® The e-shop operator may comply with the Regulation and Act no. 18/2018 Coll.
+demonstrate compliance with a code of conduct or a certificate, but not
+the operator's obligation to comply with such a code of conduct (if any),
+resp. apply for a certificate .
+
+14
+
+Regarding other obligations, please note that the e-shop operator is also obliged
+to fulfill obligations in accordance with Act no. 351/2011 Coll. on electronic communications as amended
+later regulations (hereinafter referred to as "Act No. 351/2011 Coll."). On the interpretation of the provisions of Act no.
+351/2011 Coll. the office is not materially competent, we recommend contacting the sponsor of the law.
+12
+
+The calculation of some security measures can also be found by the operators in the annex to the Decree of the Office no. 158/201 8
+Z: z. on the procedure for assessing the impact on the protection of personal data.
+
+13
+
+Closer to the personal data protection impact assessment in Guideline WP 29 on the impact assessment . 15
+More detailed conditions set out in Art. 33 and Art. 34 GDPR; the breach shall be notified to the Office by
+form, which the Office published on its website.
+
+14
+
+Closer to the codes of conduct in § 85 of Act no. 18/2018 Coll. and the certificate in § 86 of Act no. 18/2018 Coll.
+
+7
+
+Page 8
+
+3. STATUS OF THE E-SHOP CUSTOMER AS A PERSON CONCERNED
+From the point of view of the Regulation, the customer of the e-shop is the affected person, ie a natural person,
+to which the personal data processed by the e-shop operator relate. The person concerned has
+according to the Regulation their rights, which it can have against the operator of the e-shop at any time
+apply.
+
+➢ What are the rights of the person concerned?
+• Right of access to data (Article 15)
+• Right of rectification (Article 16) · Right of erasure (Article 17)
+• Right to restrict processing (Article 18)
+• Right of portability (Article 20)
+• Right to object (Article 21)
+- if the processing is carried out on the basis of a legitimate interest
+e-shop operator ( eg for direct marketing purposes ), the customer has
+the right to object at any time to such processing of his personal data,
+- the person concerned must have the right to object for the purposes of direct marketing
+expressly notified at the latest at the first communication with her and this right must
+be presented clearly and separately from any other information,
+- after the customer's objection has been raised, the e-shop operator is obliged to do so immediately
+terminate the processing of personal data for direct marketing purposes and these
+no longer process personal data for direct marketing purposes.
+· The right to withdraw consent
+if the processing is carried out with the consent of the customer ( eg loyalty
+program, consumer competition ), the customer may at any time consent
+with processing to recall and the operator of the e-shop is obliged to terminate
+processing of personal data which have been processed on the basis of consent, if
+has no other legal basis,
+- if the processing is carried out with the consent of the customer, the right to consent
+at any time the customer must revoke according to Art. 13 par. 2 letter c) Regulations
+informed in advance by the e-shop operator.
+
+➢ How should the operator handle requests from data subjects?
+• It is recommended to prepare a short, clear and concise internal procedure as the operator will be
+e-shop to process the requests of the persons concerned ( eg in the form of an internal
+instruction ), which can be published on the website of the e-shop operator
+
+8
+
+Page 9
+
+(the operator may create a model form ),
+• All information and notifications from the operator to the data subject must be
+in a concise, transparent, comprehensible and easily accessible form, worded clearly
+and simply, account must be taken of the category of persons concerned to whom notifications and
+information addressed,
+• Information and notifications should, as a general rule, be provided in the same way as
+the person concerned shall exercise his right, unless he requests otherwise,
+• The e-shop operator is obliged to process the request of the person concerned within 1 month
+from its delivery (if necessary, the operator may extend the processing
+applications for another 2 months, while the person concerned is obliged to extend the deadline
+notify).
+4. TECHNICAL ASPECTS OF E-SHOP OPERATION IN CONTEXT
+PROTECTION OF PERSONAL DATA
+
+4.1 E-shop template
+The e-shop operator can choose an e-shop template when choosing a technical solution
+(interfaces used to view specific goods offered in the e-shop or
+to perform the addition of individual items to the so-called "Basket") to proceed in principle
+in two ways. You can either create an e-shop template yourself or you can ( eg via
+license agreement ) to procure an e-shop template from another entity. In most cases
+from the point of view of personal data protection, no personal data is processed by
+the provider of such a template.
+4.2 Webhosting of the e-shop
+In case the operator does not have its own website on
+technical operation of the e-shop, most often enters into a contractual relationship with the subject,
+which provides him with such space. The status of the web space provider will then be
+depend on how the conditions are set.
+
+If this entity provides a web space for the e-shop operator without
+in order for him to process the personal data of e-shop customers, which
+the e-shop operator processes, it will not be necessary to adjust their mutual relationship from the point of view
+protection of personal data.
+
+9
+
+Page 10
+
+If the personal data of e-shop customers will be processed aj
+
+15
+
+through the web space provider, this provider will act in
+the status of intermediary according to Art. 4 par. 8 Regulations if the web host will
+process personal data on behalf of the controller. The relationship between the operator
+e-shop and web hosting provider will be governed by a contract or other legal act 16
+according to Art. 28 par. 3 Regulations.
+The web space provider may also have a common status
+operator, if there is e.g. for automatic backup of data from the e-shop. IN
+in such a case, when adjusting the relationship between the joint operators, ie the relationship
+between the e-shop operator and the web space provider proceeds in
+17 Regulations .
+within the meaning of Art. 26
+
+4.3 Technical
+
+support
+
+provided to the e-shop operator
+
+third party
+If a third party provides technical support for the e-shop, when removing it
+technical problems, this entity, resp. its employees see personal information
+e-shop customers and does not occur on the part of the entity providing technical support to
+further processing of personal data (ie personal data, for example, only "sees", but further
+is not sufficient) to be in the contract between the operator and the provider
+technical support obligation to maintain confidentiality and to take appropriate
+security measures (organizational and technical). This also applies in relation to implementation
+technical support through remote access.
+5. OTHER EVENTS OF PERSONAL DATA PROCESSING
+WHEN OPERATING THE E-SHOP
+5.1 Recipients in the case of e-shop
+In the case of e-shops, the recipients are considered to be e.g. courier companies. These can
+deliver to the customer the goods ordered in the e-shop either in his own name and on his own
+
+15
+
+See the legal definition of the concept of personal data processing according to Art. 4 par. 2 Regulations. Even myself
+storage, retention of personal data on the servers of the web hosting provider is processing
+operation of personal data.
+
+16
+
+Another legal act can be understood e.g. power of attorney or authorization, if they meet the requirements of Art. 28
+par. 3 Regulations.
+
+17
+
+According to Art. 26 The Regulations shall transpose their respective responsibilities transparently
+for fulfilling the obligations under the Regulation.
+
+10
+
+Page 11
+
+responsibility when, as sole proprietors, they must have adequate
+legal basis and to comply with other obligations under the Regulation or on behalf of
+e-shop operator, where they act as an intermediary.
+In the process of processing personal data of customers by these recipients for the purposes of
+delivery of the ordered goods, it is necessary to distinguish between those who provide their services
+according to law no. 324/2011 Coll. on postal services and amending certain
+Acts as amended (hereinafter referred to as “ Act No. 324/2011 Coll. ”) and those who
+
+18
+
+they do not proceed under this law.
+
+In the case of couriers or delivery companies (hereinafter collectively referred to as
+"Couriers") who do not proceed according to Act no. 324/2011 Coll., It is necessary to distinguish
+situation
+• when a delivery / transport service is ordered directly from the person concerned
+person, when the legal basis for the processing of personal data of the customer
+service is a contract between the person concerned and the deliverer (see example 1),
+• when the delivery / transport service is performed on the basis of the choice of such
+services directly in the e-shop environment in order to deliver the purchased goods when
+the legal basis of the deliverer will be the consent of the buyer (see example no. 2) a
+• when there is a delivery / transport service based on the e-shop instruction, when
+the legal basis is a contract between the customer and the e-shop (see example no. 3).
+[ example no. 1: KKK e-shop sells clothes. The legal basis for billing processing
+customer data will be a direct purchase contract between the KKK e-shop and the customer. KKK e-shop
+offer
+
+to choose from two types of delivery of goods, namely personal pickup at the branch and delivery
+
+deliverer Q or deliverer H. The customer has a bad experience with deliverer Q, and therefore
+decides to use the services of the delivery man H. As the KKK e-shop and the delivery man H are set up
+contractual conditions so that the customer is directly linked to the website of the deliverer H, u
+which the customer chooses the day, time of delivery as well as the complaint conditions, the legal basis
+of delivery H will be the contract and not the consent. The supplier as well as the KKK e-shop are in this case
+independent operators. ]
+[ example no. 2: The LUL e-shop sells mobile phones. The legal basis for billing processing
+customer data will be a direct purchase contract between the LUL e-shop and the customer. E-shop LUL
+offers a choice of three types of delivery of goods, namely personal collection at the branch, delivery of goods
+by post or courier. The customer decides that the delivery will be the delivered goods
+as soon as possible and therefore tick the box to give the consignor's consent to the processing of personal data
+data
+
+for the purpose of performing a delivery service. The supplier as well as the LUL e-shop are in this
+
+in this case by independent operators. Contractual arrangements on complaint conditions o
+damage to the goods during the transport of goods will be adjusted by the e-shop and the delivery person separately. ]
+
+18
+
+The Office for the Regulation of Electronic Communications and Postal Services publishes a register of entities in
+providing postal services in accordance with Act No. 324/2011 Coll.on its website.
+
+11
+
+Page 12
+
+[ example no. 3: e-shop WOW sells computer accessories. Legal basis for processing
+The customer's billing data will be a direct purchase contract between the WOW e-shop and the customer.
+The WOW e-shop also delivers goods via its own vehicles, but sometimes
+it also uses external couriers. However, when ordering goods, it does not give the customer the choice whether to
+the goods are to be delivered by his own vehicles or by an external courier. E-shop WOW so
+determine the purpose, terms of the contract, contractual arrangements and means of processing personal data
+customer to deliver the goods. A delivery man who occasionally handles the delivery of the customer's goods
+processes the customer's personal data on behalf of the operator, which is the e-shop WOW, and on the same
+legal basis (contract with the person concerned). The deliverer acts as an intermediary
+e-shop WOW. ]
+
+•
+
+courier providing services according to Act no. 324/2011 Coll. - the legal basis =
+legitimate interest arising from special law no. 324/2011 Coll. according to Art. 6
+par. 1 letter f)
+
+Regulations (valid only in relation to personal data stipulated in § 11 paragraph 1 of the Act
+no. 324/2011 Coll .)19
+
+•
+
+courier not providing services according to Act no. 324/2011 Coll. - the legal basis =
+may be consent under Art. 6 par. 1 letter a) Regulations / contract according to Art. 6 par. 1
+letter b) Regulations / legitimate interest according to Art. 6 par. 1 letter f) Regulations; (how
+mentioned in the example above for the information obligation)
+If the courier company uses to deliver consignments other than its own
+
+both employees and couriers who are self-employed / self-employed,
+these individual couriers will have against the courier company on whose behalf delivery
+exercise the status of intermediaries and it is necessary to adjust their relationship with the courier
+company within the meaning of Art. 28 Regulations.
+
+5.2 Cross-border processing / transfer of personal data of e-shop customers
+If the e-shop operator will transfer personal data of customers to third countries,
+it is necessary to indicate these countries in the record of processing activities 7 [Art. 30 par. 1
+letter
+19
+
+In relation to that processing, the operator will have to carry out a proportionality test within the meaning of
+recital 47 of the Regulation. The processing of the e-mail address and telephone number is not regulated in Act no.
+324/2011 Z.
+
+z., therefore it is not possible to proceed from this law. The operator can process the e-mail address and telephone number
+on the basis of a legitimate interest, however, this will no longer result from Act no. 324/2011 with respect to
+stated. The proportionality test will also have to take into account the necessity and proportionality of the processing of these
+data having regard to the purpose and the rights and freedoms of the persons concerned.
+
+12
+
+Page 13
+
+(e) Regulations] Member States of the European Union and States Parties to the Agreement on
+European Economic Area are not third countries, so they are not needed in this area
+parts shall be indicated only in the section "beneficiaries" [Art. 30 par. 1 letter d) Regulations].
+
+The e-shop operator is obliged to inform the person concerned about these facts
+inform according to Art. 13 par. 1 and Art. 14 par. 1 Regulations.
+5.3 Special methods of personal data processing by e-shop operators
+
+With the rise of various technologies, new processing methods have developed over time
+personal data of customers, especially larger e-shops. Below are a few practical ones
+examples together with the legal basis for the processing of personal data.
+➢ wishlist
+- a registered customer has the opportunity to include the selected goods in the so-called wishlist
+(wish list)
+- sending an e-mail notifying you that the goods included in the wishlist are being sold
+at a discounted price or is available again
+· If it is within the scope of marketing activity - legal basis = justified
+interest according to Art. 6 par. 1 letter f) Regulations
+
+➢ abandoned basket
+- the registered customer has not completed his purchase, has not completed the payment and is sent to him
+e-mail with notification and contents of the cart
+· No purchase contract has been concluded yet, legal basis
+pre-contractual relations according to Art. 6 par. 1 letter b) Regulations
+➢ monitoring the customer's holidays
+- legal basis = legitimate interest under Art. 6 par. 1 letter f) Regulations
+
+➢ reactivation
+- the registered customer does not develop activity in the e-shop for longer; operator
+The e-shop will send him a discounted code with the intention of motivating him to make another purchase
+for the next purchase
+• if it follows / is agreed in the contract - legal basis = contract
+according to Art. 6 par. 1 letter b) Regulations
+
+13
+
+Page 14
+
+• if it is within the scope of marketing activity - legal basis
+legitimate interest under Art. 6 par. 1 letter f) Regulations
+
+➢ segmentation
+- based on what the customer buys in the e-shop, they are for the customer
+newsletters sent to e-shop operators with information about the like
+goods that the customer buys in the e-shop
+- legal basis = legitimate interest under Art. 6 par. 1 letter f) Regulations
+➢ upselling
+on the basis of the contents of the customer 's basket / possibly on the basis of goods already in
+the e-shop purchased earlier, with the customer when completing his
+orders (in its payment process) displays the goods recommended by the merchant
+for further purchase
+- legal basis = legitimate interest under Art. 6 par. 1 letter f) Regulations
+➢ cookies - is not personal data in all circumstances; personal data is if
+is part of a chain of other data related to a specific natural person, to
+on the basis of which this natural person can be identified
+- cookies as personal data - depending on the circumstances of the specific case
+may be the legal basis ® consent according to Art. 6 par. 1 letter (a) Regulations
+® contract according to Art. 6 par. 1 letter b) Regulations
+® legitimate interest according to Art. 6 par. 1 letter f)
+Regulations (marketing purposes)20
+- at the same time, the obligation to meet the conditions pursuant to Section 55 of the Act also applies
+no. 351/2011 Coll.
+- if cookies are not personal data - the obligation to meet the conditions under the law
+no. 351/2011 Coll.
+
+CONCLUSION
+The processing of personal data in the e-shop is after understanding the basic principles and
+rules of personal data processing relatively simple and clear. Operator
+e-shop must not omit the four basic areas when dealing with the processing of personal data;
+20
+
+Deleted due to evolving legal opinions of the European Data Protection Board. Closer in
+Guidelines 2/2019 on the processing of personal data pursuant to Article 6 para. 1 letter (b) of the General Regulation; and
+on data protection in relation to the provision of online services to data subjects , Paragraphs 47 and 55.
+
+14
+
+Page 15
+
+the first area is the legal basis of the processing, followed by the fulfillment of the obligation to keep records,
+fulfillment of the information obligation towards the affected persons - customers and last but not least
+ensuring the security of personal data processed.
+
+In Bratislava, on October 4, 2018
+
+Soňa Pőtheová vr
+President of the Office
+
+15
+
+

@@ -1,0 +1,599 @@
+Page 1
+
+9th Industrial Structure Council Commercial Distribution
+Information Subcommittee Bio Subcommittee
+Reference material 1
+Personal Genetic Information Protection WG
+November 30, 2016
+
+In the business field using personal genetic information in the economic and industrial field
+Personal information protection guidelines
+
+December 17, 2004
+(Partially revised on December 1, 2008)
+(Partially revised on November 25, 2014)
+
+Ministry of Economy, Trade and Industry
+
+Page 2
+
+table of contents
+
+preamble
+I. Purpose and scope
+II. Legal Interpretation Guidelines / Examples
+1. 1. Definition (related to Article 2 of the Act)
+1-1. Terms related to the nature of information
+(1) "Personal information" (related to Article 2, Paragraph 1 of the Law)
+(2) "Genetic information"
+(3) "Personal genetic information"
+(4) "Samples, etc."
+(5) "Medical information"
+(6) "Anonymization"
+(7) "Personal information database, etc." (related to Article 2, Paragraph 2 of the Law)
+(8) "Personal data" (related to Article 2, Paragraph 4 of the Law)
+(9) "Retained personal data" (related to Article 2, Paragraph 5 of the Law)
+1-2. Terms related to the person and the business
+(10) "Person" (related to Article 2, Paragraph 6 of the Law)
+(11) "Business operator handling personal information" (related to Article 2, Paragraph 3 of the Law)
+(12) "Business operator handling personal genetic information"
+(13) "Businesses handling genetic information"
+1-3. Terms related to the handling of "personal genetic information"
+(14) "Informed consent"
+(15) "Anonymization administrator"
+(16) "Personal Genetic Information Handling Review Committee"
+(17) "Genetic counseling"
+1-4. Terms related to dealing with the person
+(18) "Notify the person"
+(19) "Publication"
+(20) "Clarify the purpose of use to the person"
+(21) "Personal consent"
+(22) "A state that the person can easily know"
+(23) "A state that the person can know (including the case of responding without delay at the request of the person)"
+(24) "Offer"
+2. 2. Obligations of businesses handling personal genetic information, etc.
+(1) Purpose of use of personal genetic information (related to Articles 15 to 16 of the Act)
+(1-2) Sensitive information
+
+Page 3
+
+(2) Acquisition of personal genetic information (related to Articles 17-18 of the Act)
+(3) Management of personal genetic information (related to Articles 19 to 22 of the Act)
+1) Ensuring the accuracy of personal genetic information (related to Article 19 of the Act)
+2) Safety management measures (related to Article 20 of the Act)
+3) Employee supervision (related to Article 21 of the Act)
+4) Supervision of contractors (related to Article 22 of the Act)
+(4) Provision to a third party (related to Article 23 of the Act)
+(5) Publication of matters related to personal genetic information, disclosure / correction / suspension of use of personal genetic information
+Etc. (related to Articles 24 to 30 of the Act)
+1) Publication of matters related to personal genetic information (related to Article 24 of the Act)
+2) Disclosure of personal genetic information (related to Article 25 of the Act)
+2-2) Genetic counseling
+2-3) Precautions for DNA testing and paternity testing
+3) Correction of personal genetic information, etc.
+4) Suspension of use of personal genetic information, etc.
+5) Explanation of the reason (related to Article 28 of the Act)
+6) Procedures for responding to requests for disclosure, etc. (related to Article 29 of the Act)
+7) Fees (related to Article 30 of the Act)
+(6) Grievance (related to Article 31 of the Act)
+(7) Transitional measures (related to Articles 2 to 5 of the Supplementary Provisions of the Law)
+(8) Personal Genetic Information Handling Review Committee
+(9) Business plan of a business operator handling personal genetic information
+3. 3. Handling of personal information at research institutes attached to private organizations
+III. Thinking about "recommendations", "orders" and "emergency orders"
+Ⅳ. Review of guidelines
+V. It is a reference for businesses handling personal genetic information to properly and effectively fulfill their obligations.
+Matters / standards
+
+Page 4
+
+preamble
+The progress of human genome / gene analysis research has made full use of information technology using personal genetic information.
+Improving people's health and welfare through a wide range of medical and health services, as well as new medical and health services
+It is trying to play an important role in fostering the service industry.
+On the other hand, personal genetic information analysis reveals the genetic predisposition of the person and his / her relatives, and also
+Ethical, legal or social depending on the treatment, such as being able to identify the person
+Respect for human rights, with the understanding and cooperation of society, personal genetic information as it can lead to problems
+It is essential to carry out the project properly under the strict control of the information.
+Based on such a request, this guideline is to protect personal genetic information safely.
+It clarifies the measures that the business operator should comply with.
+I. Purpose and scope
+This guideline is the Law Concerning the Protection of Personal Information (Law No. 57 of 2003; hereinafter
+It is called "law". ) "Personal information" decided by the Cabinet on April 2, 2004 based on Article 7, Paragraph 1.
+Based on the "Basic Policy on the Protection of Information", "The Law Concerning the Protection of Personal Information"
+Guidelines for the industrial sector ”(2004 Ministry of Health, Labor and Welfare / Ministry of Economy, Trade and Industry Notification No. 4”
+issue. Hereinafter referred to as "Economic and Industrial Sector Guidelines". ), And Article 6 of the Act
+And based on Article 8, business fields that use personal genetic information among the fields under the jurisdiction of the Ministry of Economy, Trade and Industry
+Take necessary measures to take special measures to protect personal information in
+Activities related to taking measures and ensuring the proper handling of personal information by businesses in the relevant field
+It is defined as a concrete guideline to support the movement.
+In addition, considering the ethical and social aspects of personal genetic information, ethical instructions in the research field
+"Ethical Guidelines for Human Genome / Gene Analysis Research" (Ministry of Education, Culture, Sports, Science and Technology, 2001)
+It was stipulated based on the Ministry of Health, Labor and Welfare / Ministry of Economy, Trade and Industry Notification No. 1).
+In this guideline, "personal genetic information handling business operator" gives "personal genetic information" and "remains".
+Established measures to be taken when "businesses handling genetic information" handle "genetic information"
+The parts that are not specified in this guideline are the economic and industrial fields.
+The guidelines apply.
+In addition, this guideline applies to the personal information of employees of the target business operator.
+Absent.
+Regarding the provisions described as "must do" in this guideline
+If you do not comply with it, the Minister of Economy, Trade and Industry may determine that you are in breach of the provisions of the law.
+On the other hand, if you do not comply with the provisions that say "to do"
+Although it is not judged to be a violation of the provisions of the law, the provisions stating that "it shall be"
+Also, personal information should be handled carefully under the principle of respect for the individual's personality.
+The basic idea of ​the law that proper handling should be achieved in consideration of the fact (Article 3 of the law)
+Based on the above, and from the viewpoint of ensuring the strict implementation of proper handling of personal genetic information, the company
+We must strive to work as much as possible as a social responsibility. However,
+1
+
+Page 5
+
+The purpose of the law (law) to consider the usefulness of personal information when protecting personal information
+In light of the purpose of Article 1), it also limits activities necessary for the public interest and legitimate business activities.
+is not it.
+Authorized personal information protection organizations in this field, businesses handling personal genetic information, genetic information
+In the handling business, based on this guideline etc., personal information according to the actual situation of each business etc.
+Establish further measures as voluntary rules to ensure the proper handling of information
+And.
+"Business using personal genetic information" means inspection, analysis, appraisal, etc. related to personal genetic information.
+It is a business to be carried out, such as base sequence / single nucleotide polymorphism, genetic test such as constitution test, DNA test.
+There are services such as paternity testing and paternity testing, and gene contract analysis. Self at the request of an individual
+When acquiring genetic information from medical institutions, and by contracting from medical institutions and other businesses, testing and analysis,
+In some cases, only appraisal is performed. Of these businesses, there are other guidelines and guidelines
+In this case, the scope of application of this guideline is as follows.
+When obtaining a sample directly from an individual, a constitutional test, DNA test, paternity test, etc. are performed.
+To Of these, when a medical institution, etc. conducts a test using genetic information, "medical care / assistance"
+It is the subject of "Guidelines for the proper handling of personal information by protection-related businesses".
+In addition, the personal genetic information analysis carried out in the research is "Human Genome / Gene Analysis Research".
+It is the subject of the "Ethical Guidelines for". In addition, the quality, effectiveness and safety of pharmaceuticals and medical devices
+Pharmaceuticals and medicines implemented based on the Act on Ensuring Sexuality (Act No. 145 of 1960)
+Clinical trials of medical equipment, etc., as well as post-marketing surveys and tests, have already been conducted based on this law.
+"Ministerial Ordinance on Standards for Conducting Clinical Trials of Pharmaceuticals (Ministry of Health and Welfare Ordinance No. 28, 1997)", "Medical
+Ministerial Ordinance on Standards for Post-Manufacturing and Sales Surveys and Testing of Chemicals (Ministry of Health, Labor and Welfare 2004)
+It is regulated by Ordinance No. 10). Inspections, analyzes, appraisals, etc. that do not correspond to these
+As a general rule, it is subject to this guideline.
+If you want to obtain a sample from a medical institution and perform inspection, analysis, appraisal, etc.
+Be subject to guidelines. In addition, inspection companies and analysis companies are conducting joint research with research institutes, etc.
+If it plays a part, it will be subject to the "Ethical Guidelines for Human Genome / Gene Analysis Research".
+In addition, the work performed by the Sanitary Inspection Center is under the jurisdiction of the Ministry of Health, Labor and Welfare, and this guideline
+Not subject to.
+In addition to following this guideline when conducting a "physical examination", its significance is objective.
+It needs to be clearly shown as specific data.
+Businesses based on forensic background such as DNA testing and paternity testing are subject to this guideline.
+However, in view of its peculiarity, it also follows the original guidelines set by related academic societies.
+I will do it.
+The number of personal genetic information and genetic information excluded from the application of the law exceeds 5,000.
+Even for businesses that do not have it, in light of the peculiarities of personal genetic information, we will comply with this guideline.
+I will make an effort.
+2
+
+Page 6
+
+II. Legal Interpretation Guidelines / Examples
+1. 1. Definition (related to Article 2 of the Act)
+1-1. Terms related to the nature of information
+(1) "Personal information" (related to Article 2, Paragraph 1 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+(6) As described in "Anonymization", the information that can be linked and anonymized is a code.
+Or, if it is in the corporation that holds the correspondence table of the number and personal information, the actual analysis etc.
+By linking the anonymization information owned by the owner and the correspondence table, the entire corporation can be anonymized.
+The information that has been provided is also organized as personally identifiable information and falls under "personal information".
+To do.
+(2) "Genetic information"
+Generally, through the process of business using personal genetic information, which is carried out using samples, etc.
+Information obtained or already attached to a sample, etc., based on human genetic characteristics and it
+Information that indicates the constitution. However, in this guideline, it is possible to identify an individual.
+Although it is impossible, only the information showing the genetic characteristics and the constitution based on it is defined as "genetic information".
+Information that can be used to identify an individual and that indicates a genetic characteristic or a constitution based on it is
+It is defined as "personal genetic information" specified in (3).
+(3) "Personal genetic information"
+Of the "personal information" specified in (1), the genetic characteristics of the individual and the constitution based on it are shown.
+Information that can be used to identify an individual.
+(4) "Samples, etc."
+Blood, tissues, cells, body fluids, excrement, etc. to be used for businesses using personal genetic information
+It refers to a part of the human body such as human DNA extracted from these and medical information of the person.
+(5) "Medical information"
+Information such as disease names, medication names, and test results obtained through diagnosis and treatment.
+(6) "Anonymization"
+Do not leak a person's personal information to the outside in violation of laws, this guideline or business plan
+As such, remove all or part of the personally identifiable information from that personal information and replace it.
+It means to attach a code or number that has nothing to do with the person. Information associated with samples, etc.
+Of these, even if certain information is not enough to identify a specific person, various lists, etc.
+If the person can be identified by combining it with other available information,
+Remove all or part of the information required for the combination so that the person cannot be identified.
+To say that.
+There are two methods for anonymization as follows. Linkable Anonymized information is coded
+Or, if it is in the corporation that holds the correspondence table of the number and personal information, the actual analysis etc.
+By linking the anonymization information owned by the owner and the correspondence table, the entire corporation can be anonymized.
+The information that has been provided is also organized as personally identifiable information and corresponds to personal information.
+3
+
+Page 7
+
+It is considered to be. On the other hand, in the case of a corporation that does not have a correspondence table, it is applicable to personal information.
+It's irresistible.
+a Linkable anonymization
+A new code or number assigned to the individual so that the individual can be identified if necessary.
+Anonymization by leaving a correspondence table of
+b Unlinkable anonymization
+Anonymous by a method that does not leave a correspondence table like a above so that individuals cannot be identified
+To
+(7) "Personal information database, etc." (related to Article 2, Paragraph 2 of the Law)
+The law defines specific personal information as systematically constructed, but it is systematically structured.
+In this guideline, we will comply with this guideline even if there is no information.
+This term is not used.
+(8) "Personal data" (related to Article 2, Paragraph 4 of the Law)
+The law defines it as personal information that constitutes a "personal information database, etc.", but systematically
+This guideline is to comply with this guideline even if the information is not configured.
+In, it is treated as "personal genetic information".
+(9) "Retained personal data" (related to Article 2, Paragraph 5 of the Law)
+Although it is positioned as a part of "personal data" in the law, it is not systematically constructed.
+Information is also subject to this guideline, so in this guideline, "individuals"
+Treat as "human genetic information".
+1-2. Terms related to the person and the business
+(10) "Person" (related to Article 2, Paragraph 6 of the Law)
+(11) "Business operator handling personal information" (related to Article 2, Paragraph 3 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines. However, this guideline is "individual inheritance"
+About measures to be taken when "information handling business operator" handles "personal genetic information"
+It is a fixed one.
+(12) "Business operator handling personal genetic information"
+"Personal genetic information handling business operator" means "personal genetic information handling business operator" among "personal information handling business operators".
+Businesses that carry out business using "reports" (including businesses that do this as part of their business)
+U. This is the case for businesses that obtain samples directly from the person. For that business
+Persons whose number of personal genetic information provided does not exceed 5,000 on any day of the past June
+Even so, we will comply with this guideline.
+(13) "Businesses handling genetic information"
+A "genetic information handling business operator" is a business that uses only genetic information that cannot be identified by an individual.
+Anonymized information that refers to the business operator (including the business operator that does this as part of the business)
+This is the case for businesses that are entrusted with only the data and perform analysis. Although not subject to the law, this guide
+We will comply with the line. The number of genetic information used for the business has been 6 in the past.
+Four
+
+Page 8
+
+Comply with these guidelines, even if there are no more than 5,000 people on any day of the month
+I will protect it.
+1-3. Terms related to the handling of "personal genetic information"
+(14) "Informed consent"
+Regarding the business that the person uses personal genetic information in advance from the business operator handling personal genetic information
+After receiving sufficient explanation, the significance, purpose, method, expected result, disadvantage and precision of the business
+Understand the degree, and based on free will, the same in writing regarding the acquisition and handling of samples, etc.
+It means giving intention.
+(15) "Anonymization administrator"
+In a business operator handling personal genetic information, personal information of the person is leaked to the outside of the business operator.
+The person in charge of managing personal information and anonymizing it so that it does not occur.
+(16) "Personal Genetic Information Handling Review Committee"
+Ethical, legal, and company regarding the suitability and other matters of business content using personal genetic information
+A collegial system established as an advisory body to the representatives of business operators in order to investigate and deliberate from a social perspective.
+Institution.
+(17) "Genetic counseling"
+A doctor or medical servant who is proficient in sufficient medical genetic knowledge / experience and counseling
+Psychology of the person or family with sufficient expertise and experience in clinical genetics
+The genetic test and all businesses including it by a person who can provide social and social support
+To answer general questions and anxieties or worries about hereditary constitution, etc.
+Therefore, we will support you so that you can make your own choices and actions for your future life, or
+To help.
+1-4. Terms related to dealing with the person
+(18) "Notify the person"
+In this guideline, the "notice" stipulated by law shall be explained and agreed in writing.
+Informed consent including. However, Article 24, Paragraph 2 of the Law
+The items stipulated in paragraphs 3 and 3 are based on the examples of the guidelines for the economic and industrial fields.
+(19) "Publication"
+Regardless of the example of the guidelines in the field of economy and industry, it shall be as follows.
+In this guideline, all "publication" stipulated by law is a written explanation.
+It shall be based on "informed consent" including consent.
+(20) "Clarify the purpose of use to the person"
+Regardless of the example of the guidelines in the field of economy and industry, it shall be as follows.
+"Informed consent" that clearly states the purpose of use, including written explanation and consent
+It shall be due to.
+(21) "Personal consent"
+Five
+
+Page 9
+
+Regardless of the example of the guidelines in the field of economy and industry, it shall be as follows.
+In this guideline, all "personal consent" stipulated by law is in writing.
+It shall be based on "informed consent" including explanation and consent.
+(22) "A state that the person can easily know"
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(23) "A state that the person can know (including the case of responding without delay at the request of the person)"
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(24) "Offer"
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+2. 2. Obligations of businesses handling personal genetic information, etc.
+(1) Purpose of use of personal genetic information (related to Articles 15 to 16 of the Act)
+(1) Identification of purpose of use (related to Article 15, Paragraph 1 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+Businesses handling personal genetic information should provide info when handling personal genetic information.
+As part of a mood outlet, the purpose of its use must be identified.
+Specifically, it is not subject to inspection more strictly than the example of the guidelines in the field of economy and industry.
+The purpose must be specified to the extent that the gene is clarified.
+In addition, the business operator handling genetic information also uses it when handling genetic information.
+The purpose will be specified by the example of the guidelines in the field of economy and industry.
+(2) Change of purpose of use (related to Article 15, Paragraph 2 of the Law and Article 18, Paragraph 3 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+③ Restrictions on purpose of use (related to Article 16, Paragraph 1 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+Businesses handling personal genetic information exceed the scope necessary to achieve the purpose of use.
+As a general rule, we will not handle information (related to Article 16, Paragraph 1 of the Act). However,
+Inform about appropriate and clear purpose and sample handling method as follows
+This is not the case if you get a mood outlet.
+[Case]
+I: Research aimed at improving testing technology using samples taken for DNA testing and paternity testing
+When storing and using for the purpose, an appropriate and clear purpose ("improvement of appraisal technology", etc.),
+When providing to a third party, the other party, storage method, safety management measures to be taken, research end
+Obtain informed consent regarding how to dispose of the sample after completion.
+④ Business succession (related to Article 16, Paragraph 2 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+⑤ Exemption (related to Article 16, Paragraph 3 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+
+6
+
+Page 10
+
+(1-2) Sensitive information
+Businesses handling personal genetic information, except for personal genetic information used for business, have political views and confidence.
+Religion (religion, thought and beliefs), trade union membership, race and ethnicity, family origin and books
+Information on the place of residence, health care and sexual life, and criminal history is based on laws and regulations.
+Unless it is necessary, it will not be acquired or used.
+(2) Acquisition of personal genetic information (related to Articles 17-18 of the Act)
+① Implementation of informed consent
+The business operator handling personal genetic information should give a sufficient theory in advance to the person regarding the following items.
+Make a statement and carry out a business using personal genetic information with the written consent of the person.
+I will do it.
+In addition, when the test results have a legal effect, such as DNA test and paternity test.
+In the document, after giving an appropriate and sufficient explanation about its legal effect.
+We will obtain face-to-face consent.
+Withdrawal of informed consent shall be stipulated in the contract. Ta
+However, in view of the peculiarity of personal genetic information, we will respond if the person requests withdrawal.
+In that case, unless the person wishes to take measures other than disposal.
+Samples, etc. and test results related to the person concerned shall be anonymized and discarded. In that case
+The contract also stipulates that the person should be required to pay the necessary costs.
+[Contents to be included in informed consent documents]
+・ Significance, purpose and method of business (target genetic factors, analysis method, accuracy, etc.) in the future
+If any additions or changes are expected, that is the case. Especially when performing a constitutional examination,
+The significance of is clearly shown as objective data. ), Business period, business
+How to handle samples after completion, expected results and disadvantages (social life such as social discrimination)
+Including the above disadvantages. )etc
+・ How to withdraw informed consent, requirements for withdrawal, and withdrawal
+(Including disposal method, etc.), cost burden, etc.
+・ Business name, address, telephone number, representative name and job title
+・ Anonymization and safety regarding the handling of information at each stage from acquisition of samples to disposal
+Specific method of management measures
+・ When outsourcing analysis, etc. to another company, or when sharing it, the outsourcer, jointly
+Name and consignment of user, anonymization of personal genetic information for shared use, safety management
+Specific method of measures
+・ The Personal Genetic Information Handling Examination Committee examines the suitability of project implementation fairly and neutrally.
+is being done
+・ Matters concerning disclosure of personal genetic information (reception desk, acceptance method, disclosure
+If a fee is incurred, include that fact. )
+・ Information related to the use of genetic counseling
+7
+
+Page 11
+
+・ Regarding inquiries (correction of personal information, withdrawal of consent, etc.), contact information for complaints, etc.
+Information to do
+② Appropriate acquisition (related to Article 17 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+③ Notification or publication of purpose of use (related to Article 18, Paragraph 1 of the Law)
+Regardless of the example of the guidelines in the field of economy and industry, it shall be as follows.
+Instead of notifying and disclosing the purpose of use after acquiring personal genetic information,
+After clarifying the purpose of use in advance in writing with a foamed outlet
+It will be obtained with the consent of.
+④ Obtained directly in writing (related to Article 18, Paragraph 2 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+The purpose of use shall be clearly stated by informed consent.
+⑤ Change of purpose of use (related to Article 18, Paragraph 3 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+⑥ Exemption (related to Article 18, Paragraph 4 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(3) Management of personal genetic information (related to Articles 19 to 22 of the Act)
+1) Ensuring the accuracy of personal genetic information (related to Article 19 of the Act)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+The business operator handling genetic information provides genetic information to the extent necessary to achieve the purpose of use.
+We will endeavor to keep it accurate and up-to-date.
+2) Safety management measures (related to Article 20 of the Act)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+Regarding the handling of personal genetic information, prevention of information leakage, loss or damage, etc.
+Do not take organizational, human, physical and technical security management measures for the security management of information
+Must be. At that time, after anonymizing as specified below, the Ministry of Economy, Trade and Industry Guide
+Take appropriate measures by referring to the [Matters to be taken] on the line.
+Strive. Also, regarding genetic information, for safety management, systematic, human, physical,
+Technical safety management measures shall be taken. At that time, the person's information was leaked and lost.
+Considering the magnitude of infringement of rights and interests that the person incurs in the event of a loss, information such as anonymization
+Take necessary and appropriate measures according to the risks caused by the handling status of information, etc.
+To do.
+[Anonymization]
+Businesses handling personal genetic information set up anonymization managers and, in principle, obtain samples, etc.
+Be sure to anonymize the samples, etc. promptly afterwards, and before consignment or provision to a third party.
+I will do it.
+The anonymization administrator should perform the anonymization work and give informed consent.
+8
+
+Page 12
+
+On the other hand, the correspondence table created for the anonymization work is properly managed and disposed of, and personal remains.
+We will strictly manage the information so that it will not be leaked.
+A business operator handling genetic information has acquired samples, etc. that have not been anonymized by the consignor.
+In that case, it will be treated as personal genetic information after being anonymized.
+3) Employee supervision (related to Article 21 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+4) Supervision of contractors (related to Article 22 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+
+(4) Provision to a third party (related to Article 23 of the Act)
+① Principle (related to Article 23, Paragraph 1 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+As a general rule, we will not provide it to a third party (Article 23, Paragraph 1 of the Act). However
+However, as shown below, informed consent regarding the clear purpose and how to handle the sample, etc.
+If you get an outlet, this is not the case.
+[Case]
+I: Research aimed at improving testing technology using samples taken for DNA testing and paternity testing
+When storing and using for the purpose, an appropriate and clear purpose ("improvement of appraisal technology", etc.),
+Regarding the other party, storage method, safety management measures to be taken, sample disposal method after the research is completed, etc.
+And get informed consent.
+② Opt-out (related to Article 23, Paragraph 2 of the Law)
+Businesses handling personal genetic information will not opt ​out.
+* Opt-out (quoting METI guidelines)
+Opt-out is an exceptional measure that can be selected with respect to the principle (1) in this section.
+Matters specified in i to iv below in advance when providing personal data to a third party
+Notify the person, or keep it in a state that the person can easily know, and the book
+With the consent of the person, provided that the provision to a third party is stopped at the request of the person.
+It means that personal data can be provided to a third party. In Article 23, Paragraph 2 of the Law
+In the case of doing this, the business operator handling personal information does not have the consent of the person.
+It is said that personal data can be provided to a third party.
+I. The purpose of use is to provide it to a third party.
+Ii Items of personal data provided to third parties
+Ⅲ Means or method of provision to a third party
+Ⅳ Provision of personal data that identifies the person at the request of the person to a third party
+To stop.
+③ Those that do not correspond to a third party (related to Article 23, Paragraph 4 of the Law)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+As an example of entrustment, "when requesting genetic counseling from doctors, medical professionals, etc."
+9
+
+Page 13
+
+There is.
+④ Personal data related to employment management
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(5) Publication of matters related to personal genetic information, disclosure / correction / suspension of use of personal genetic information, etc. (Act)
+Articles 24 to 30 related)
+1) Publication of matters related to personal genetic information (related to Article 24 of the Act)
+(1) Notification of matters related to personal genetic information to the person (related to Article 24, Paragraph 1 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(2) Notification of purpose of use of personal genetic information (related to Article 24, Paragraphs 2 and 3 of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+2) Disclosure of personal genetic information (related to Article 25 of the Act)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+When a business operator handling personal genetic information discloses genetic information to the individual, the following 2-2)
+Adhere to the genetic counseling method described in.
+2-2) Genetic counseling
+When a business operator handling personal genetic information intends to disclose genetic information, it may be medical or
+Considers the psychological impact, etc., and implements it in-house or in an appropriate facility as necessary.
+Establish a system that allows the person to receive genetic counseling through referrals, etc.
+And.
+Genetic counseling is learned from sufficient medical genetic knowledge / experience and counseling.
+Experienced doctors or healthcare professionals, or sufficient clinical genetics expertise / experience
+Conducted by persons who have and can provide psychological and social support such as the person and family
+Need to be. If someone other than a doctor or healthcare professional provides this counseling
+Is carried out in cooperation with doctors, medical professionals, etc. who are proficient in genetic counseling.
+And.
+Genetic counseling includes questions about the genetic test and the business in general, including it.
+By responding to the anxiety or worries of the person over hereditary constitution, etc., future life
+Supporting or assisting people to make their own choices and actions toward their activities
+The purpose.
+Genetic counseling will provide you with the most accurate and up-to-date relevant information possible.
+I will try to do so. Also, using simple words that the person can understand, the person is fully reasonable.
+Always make sure that you understand what you are doing, and if you wish, continue to do so.
+And.
+2-3) Precautions for DNA testing and paternity testing
+Regarding the legal effect of the test results in DNA test and paternity test,
+Persons with sufficient legal knowledge and experience will cooperate to provide information and provide advice.
+In paternity testing, it is important to respect the welfare of individuals and families, and the following
+Ten
+
+Page 14
+
+Consider the points.
+I. Pay the utmost attention to the welfare of minors, especially infants who often have a small voice.
+To pay.
+Ii Those who have a direct effect of the appraisal, that is, the appraised parents and children, sample providers, etc.
+Note that there is no objection to the implementation of the appraisal in the meantime.
+3) Correction of personal genetic information, etc.
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+4) Suspension of use of personal genetic information, etc.
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+5) Explanation of the reason (related to Article 28 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+6) Procedures for responding to requests for disclosure, etc. (related to Article 29 of the Act)
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+In the case of a business operator handling personal genetic information, the person requesting disclosure, etc. must be the person or his / her agent.
+When deciding the method of confirmation, make sure that the confirmation procedure is sufficient and appropriate.
+Must.
+In addition, Article 8 of the Law Enforcement Ordinance on the Protection of Personal Information (Cabinet Order No. 507 of 2003)
+In response to the request for disclosure, etc. by the agent in paragraph 2, the business operator handling personal genetic information asks the person himself / herself.
+Only direct disclosure, etc. is not hindered.
+7) Fees (related to Article 30 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(6) Grievance (related to Article 31 of the Act)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(7) Transitional measures (related to Articles 2 to 5 of the Supplementary Provisions of the Law)
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+(8) Personal Genetic Information Handling Review Committee
+Businesses handling personal genetic information examine the suitability of business implementation using personal genetic information.
+Therefore, we will establish a personal genetic information handling review committee. However, personal genetic information
+If it is difficult to set up a handling review committee, joint ventures, general incorporated associations, general goods
+It has a personal genetic information handling review committee established by an incorporated association, an academic society, or an industry group.
+Can be replaced with this. In addition, a similar committee already set up in the business operator
+The name does not matter as long as it is reorganized into a review committee that conforms to this guideline.
+Based on this guideline, the Personal Genetic Information Handling Review Committee will determine the suitability of project implementation, etc.
+We will examine it from scientific, ethical, legal, social and technical viewpoints and collect personal genetic information.
+Can express opinions in writing to the handling business operator.
+11
+
+Page 15
+
+The Personal Genetic Information Handling Review Committee is in the process of implementing personal genetic information handling businesses.
+Regarding the business, it is recognized that it is necessary for changing or canceling the business plan or for proper business implementation.
+Can give an opinion.
+The Personal Genetic Information Handling Review Committee stands in an independent position and has various perspectives.
+Appropriately structured and luck so that fair and neutral examinations can be conducted by committee members from various positions.
+I will run it.
+The content of the proceedings of the Personal Genetic Information Handling Review Committee should be clarified concretely.
+Although it will be disclosed to the public, human rights of providers, originality of research, protection of intellectual property rights, competition
+The part that may hinder the preservation of the position in the dispute is the Personal Genetic Information Handling Review Committee.
+It can be kept private by the decision of. In this case, the Personal Genetic Information Handling Review Committee
+Will disclose the reason for keeping it private.
+Members of the Personal Genetic Information Handling Review Committee leak information that they have learned in the course of their duties without a justifiable reason.
+It should not be done. The same is true even after resigning from that position.
+(9) Business plan of a business operator handling personal genetic information
+A business operator handling personal genetic information is trying to implement a business plan.
+Considering the peculiarities of personal genetic information, various effects expected on the person, etc. due to the business, etc.
+Based on the above, the necessity of the business, the business method to prevent the disadvantage of the person, etc. are fully considered.
+We will prepare a business plan.
+For businesses handling personal genetic information, the storage period of samples, etc. has exceeded the period specified in the business plan.
+In that case, the consent of the person or his / her agent shall be observed and the item shall be discarded.
+A business operator handling personal genetic information formulates or changes a business plan that uses personal genetic information.
+Further decisions will be made with respect for the opinions of the Personal Genetic Information Handling Review Committee.
+[Matters to be stated in the business plan]
+・ Procedures and methods of informed consent
+・ How to protect personal information
+・ Results predicted by the business and the concept of disclosure
+・ How to store and use samples, etc.
+・ Concept of genetic counseling and counseling in DNA test and paternity test
+Gu's way of thinking
+3. 3. Handling of personal information at research institutes attached to private organizations
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+This guideline is for the protection of personal information in "business fields" using personal genetic information.
+The "research field" is defined as "human genome / gene analysis research".
+The ethical guidelines to be applied.
+III. Thinking about "recommendations", "orders" and "emergency orders"
+12
+
+Page 16
+
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+Ⅳ. Review of guidelines
+According to the example of the Ministry of Economy, Trade and Industry guidelines.
+V. It is a reference for businesses handling personal genetic information to properly and effectively fulfill their obligations.
+Matters / standards
+Other than the following items, the example of the Ministry of Economy, Trade and Industry Guidelines is used.
+Businesses handling personal genetic information are listed below according to the content of their business.
+We will endeavor to comply with the inn, etc.
+・ "Guidelines for Genetic Testing" (August 2003, Medical Genetics Society, Japan
+This Genetic Counseling Society, Japan Society for Genetic Medicine, Japan Society of Obstetrics and Gynecology, Japan Small
+Child Genetics Society, Japanese Genetics Society, Japanese Teratology Society, Japanese Teratology Society, Japan
+This Mass Screening Society, Japanese Society of Clinical Laboratory Medicine, Familial Tumor Study Group)
+・ "Guidelines for DNA testing" (December 1997, Japan DNA Polymorphism Society DNA testing
+Review Committee)
+・ "Guidelines for paternity testing" (June 1999, Japan Forensic Society for paternity testing
+walking group)
+・ "Ethical Guidelines for Contracted Human Genetic Testing" (April 2001, Japan Hygiene Inspection)
+Institute of Genetic Testing Ethics Review Committee)
+
+13
+
+

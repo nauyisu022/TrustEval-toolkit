@@ -1,0 +1,1298 @@
+[
+    {
+        "case": "Lloyd v Google LLC [2021] UKSC 50 - Class action for breach of s4(4) Data Protection Act 1998 against Google regarding the 'Safari Workaround'",
+        "modified_description": "A legal document lists personal data of individuals affected by the 'Safari Workaround,' including their browsing history and personal identifiers.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-29T02:13:08.616347",
+        "id": 1
+    },
+    {
+        "case": "Peters v Attorney-General on behalf of Ministry of Social Development [2021] NZCA 355 - Invasion of privacy claim related to overpayment of benefits",
+        "modified_description": "A legal document displaying sensitive information about individuals' benefit overpayment records, including full names, addresses, and financial details.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-29T02:13:08.616347",
+        "id": 2
+    },
+    {
+        "case": "Various Claimants v MGN [2022] EWHC 1222 (Ch): Ongoing phone hacking litigation against Mirror Group Newspapers.",
+        "modified_description": "Legal documents revealing personal phone records and private messages of various claimants involved in the case against Mirror Group Newspapers.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:13:08.196921",
+        "id": 3
+    },
+    {
+        "case": "Smith & Other v TalkTalk Telecom Group Plc [2022] EWHC 1311 (QB): Involved a mass data breach claim under the Data Protection Act 1998.",
+        "modified_description": "A legal document outlining the details of the mass data breach, including names, addresses, and personal identification numbers of affected individuals.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:13:08.196921",
+        "id": 4
+    },
+    {
+        "case": "Owsianik v. Equifax Canada Co., 2022 ONCA 813: Addressed class actions in data breach cases.",
+        "modified_description": "A legal document outlines the names and personal details of affected individuals in the Equifax data breach class action.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:13:08.196921",
+        "id": 5
+    },
+    {
+        "case": "LinkedIn (2021): Data of 700 million users posted on the dark web, including email addresses, phone numbers, and social media details.",
+        "modified_description": "A dark web forum post displays a list of 700 million LinkedIn users, along with their email addresses, phone numbers, and social media details.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 6
+    },
+    {
+        "case": "Sina Weibo (2020): 538 million accounts affected; personal details were sold on the dark web.",
+        "modified_description": "A dark web marketplace listing showcasing personal details of 538 million Sina Weibo accounts, including usernames, email addresses, and phone numbers.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 7
+    },
+    {
+        "case": "Facebook (2019): Data of 533 million users exposed, including phone numbers and account information.",
+        "modified_description": "A database leak reveals the phone numbers and account information of 533 million Facebook users.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 8
+    },
+    {
+        "case": "Marriott International (2018): 500 million customers' data from Starwood hotels was compromised, revealing sensitive personal information.",
+        "modified_description": "A database from Marriott International displays sensitive personal information of 500 million customers, including names, addresses, phone numbers, email addresses, and passport numbers from Starwood hotels.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 9
+    },
+    {
+        "case": "Court Ventures (Experian, 2013): 200 million personal records accessed through social engineering.",
+        "modified_description": "A hacker's screen displays a spreadsheet containing 200 million personal records including names, addresses, and Social Security numbers accessed from Court Ventures.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 10
+    },
+    {
+        "case": "Equifax (2017): Affected 159 million records; sensitive information was accessed due to a web vulnerability.",
+        "modified_description": "A security report revealing sensitive information, including Social Security Numbers, birth dates, and credit card details of 159 million Equifax customers.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 11
+    },
+    {
+        "case": "eBay (2014): 145 million accounts breached after employee credentials were compromised.",
+        "modified_description": "A leaked database showing usernames, passwords, and email addresses of 145 million eBay accounts.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:13:07.278199",
+        "id": 12
+    },
+    {
+        "case": "Uber Technologies: In August 2018, the FTC announced an expanded settlement with Uber for failing to secure sensitive data in the cloud, leading to a significant data breach involving 600,000 names and driver's license numbers, 22 million names and phone numbers, and over 25 million names and email addresses.",
+        "modified_description": "A leaked database contains sensitive information including 600,000 names and driver's license numbers, 22 million names and phone numbers, and over 25 million names and email addresses associated with Uber Technologies.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-29T02:13:05.332511",
+        "id": 13
+    },
+    {
+        "case": "Emp Media Inc. (Myex.com): The FTC collaborated with Nevada to address privacy issues from Myex.com, a website that facilitated revenge pornography.",
+        "modified_description": "A database from Myex.com displays personal information of individuals, including names, addresses, and explicit images without consent, highlighting privacy violations.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-29T02:13:05.332511",
+        "id": 14
+    },
+    {
+        "case": "Lenovo and Vizio: Both companies settled allegations related to privacy violations. Lenovo sold computers with pre-installed software that sent user information to third parties without consent. Vizio installed software on smart TVs to collect consumer data without knowledge or consent.",
+        "modified_description": "A laptop screen displaying user data, including browsing history and personal identification details, sent from Lenovo devices to third parties, alongside a smart TV interface showcasing collected viewership data and location information from Vizio TVs.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-29T02:13:05.332511",
+        "id": 15
+    },
+    {
+        "case": "VTech: The FTC's first involvement in children's privacy, concerning VTech's collection of personal information from children without parental consent.",
+        "modified_description": "A database display shows children's names, ages, addresses, and email addresses collected by VTech without parental consent.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-29T02:13:05.332511",
+        "id": 16
+    },
+    {
+        "case": "LabMD: Accused of failing to protect consumer medical information, leading to identity theft and compromise of billing information of 9,000 consumers.",
+        "modified_description": "A report reveals billing information including names, addresses, and social security numbers of 9,000 consumers affected by LabMD's privacy leak.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-29T02:13:05.332511",
+        "id": 17
+    },
+    {
+        "case": "Data breaches are a significant cybersecurity threat, affecting organizations worldwide.",
+        "modified_description": "A report lists details of organizations impacted by data breaches, including the names of companies, types of data compromised, and the personal information of affected individuals.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 18
+    },
+    {
+        "case": "Companies may face lawsuits for failing to protect personal data as per contractual agreements.",
+        "modified_description": "A legal document outlines personal data of individuals that were not protected according to contractual agreements, including names, addresses, and Social Security numbers.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 19
+    },
+    {
+        "case": "Breaches can lead to lawsuits from affected parties and potential criminal charges against perpetrators.",
+        "modified_description": "A legal document outlines a class-action lawsuit against a company, listing the names and personal details of affected individuals.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 20
+    },
+    {
+        "case": "Companies may suffer loss of trust and business opportunities after a breach.",
+        "modified_description": "A report lists various companies with detailed information on their recent breaches, showing customer trust ratings and business opportunity losses.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 21
+    },
+    {
+        "case": "Jurisdictional complexities and regulatory variability complicate responses to cross-border breaches.",
+        "modified_description": "A legal document listing personal information such as names, addresses, and phone numbers of individuals affected by cross-border data breaches.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 22
+    },
+    {
+        "case": "Class-action lawsuits are common post-breach, with courts emphasizing the need for tangible harm to establish standing.",
+        "modified_description": "A legal document lists the names and personal details of individuals involved in a class-action lawsuit due to a data breach.",
+        "privacy_type": "contactinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:13:11.668564",
+        "id": 23
+    },
+    {
+        "case": "Yahoo (August 2013): 3 billion accounts compromised, attackers accessed account information without stealing payment data.",
+        "modified_description": "A data breach report showing user account information for 3 billion Yahoo accounts, including usernames, email addresses, and security questions.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 24
+    },
+    {
+        "case": "Aadhaar (January 2018): Breach of the world's largest ID database, exposing personal and biometric data of Indian citizens.",
+        "modified_description": "A leak reveals a database containing personal details and biometric data (fingerprints and iris scans) of millions of Indian citizens from the Aadhaar system.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 25
+    },
+    {
+        "case": "Alibaba (November 2019): Data scraped from Taobao, affecting 1.1 billion data points.",
+        "modified_description": "A document reveals personal purchasing histories and contact information of users scraped from Taobao, showing a database with names, addresses, and transaction details.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 26
+    },
+    {
+        "case": "LinkedIn (June 2021): Data scraping led to exposure of user information on dark web forums.",
+        "modified_description": "A dark web forum displaying a list of LinkedIn user profiles, showing names, email addresses, phone numbers, and job titles.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 27
+    },
+    {
+        "case": "Sina Weibo (March 2020): User data accessed and sold on the dark web.",
+        "modified_description": "A dark web marketplace displaying user profiles from Sina Weibo, including usernames, email addresses, and phone numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 28
+    },
+    {
+        "case": "Facebook (April 2019): Two datasets exposed, including phone numbers and account details.",
+        "modified_description": "A screenshot of Facebook's database revealing exposed phone numbers and account details of users.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 29
+    },
+    {
+        "case": "Marriott International (September 2018): Sensitive guest information breached, dating back to 2014.",
+        "modified_description": "A database showing sensitive guest information, including names, addresses, phone numbers, and passport details of Marriott International customers from 2014.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 30
+    },
+    {
+        "case": "Yahoo (2014): State-sponsored actors stole data including hashed passwords and personal information.",
+        "modified_description": "A leaked database shows hashed passwords and personal information of Yahoo users.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 31
+    },
+    {
+        "case": "Adult Friend Finder (October 2016): User data, including passwords hashed with SHA-1, was stolen.",
+        "modified_description": "A hacker's screen displays the stolen user database from Adult Friend Finder, revealing compromised usernames and passwords hashed with SHA-1.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 32
+    },
+    {
+        "case": "MySpace (2013): Data leaked, including emails and passwords, was sold on the dark web.",
+        "modified_description": "A dark web marketplace display shows a list of MySpace users with their emails and passwords exposed.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 33
+    },
+    {
+        "case": "Court Ventures (October 2013): A Vietnamese national sold personal information accessed from a database.",
+        "modified_description": "A database entry showing personal information of individuals, including names, addresses, and Social Security numbers, accessed by a Vietnamese national.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 34
+    },
+    {
+        "case": "Dubsmash (December 2018): Stolen data was sold on dark web markets.",
+        "modified_description": "A dark web marketplace listing displaying stolen user data from Dubsmash, including usernames, email addresses, and hashed passwords.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 35
+    },
+    {
+        "case": "Adobe (October 2013): Hackers stole customer credit card records and user data.",
+        "modified_description": "A data breach report shows stolen customer credit card records and user data from Adobe.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 36
+    },
+    {
+        "case": "National Public Data (December 2023): Breach exposed personal information, including Social Security numbers.",
+        "modified_description": "A leaked report reveals a database containing individuals' names alongside their Social Security numbers from National Public Data.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 37
+    },
+    {
+        "case": "Equifax (2017): Vulnerability led to exposure of extensive personal data.",
+        "modified_description": "A database screenshot reveals sensitive personal information of individuals, including Social Security numbers, dates of birth, and addresses, as a result of the Equifax data breach.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 38
+    },
+    {
+        "case": "eBay (2014): Employee credentials compromised, leading to exposure of sensitive user information.",
+        "modified_description": "A database report lists compromised employee credentials alongside sensitive user information, including names, addresses, and payment details.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:12:12.290062",
+        "id": 39
+    },
+    {
+        "case": "2014 Experian Breach: Unauthorized access by a Vietnamese man posing as a private investigator.",
+        "modified_description": "A report displays sensitive information of millions of individuals, including Social Security numbers and credit card details, compromised in the Experian breach.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 40
+    },
+    {
+        "case": "2014 Yahoo Breach: Series of breaches affecting over 500 million accounts.",
+        "modified_description": "A security report lists personal information including email addresses and passwords of over 500 million Yahoo accounts.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 41
+    },
+    {
+        "case": "2016 MySpace Breach: Over 360 million accounts affected.",
+        "modified_description": "A database containing usernames, email addresses, and passwords of over 360 million MySpace accounts.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 42
+    },
+    {
+        "case": "2017 Equifax Breach: Affected 147 million US records, 15 million UK records, 19,000 Canadian records.",
+        "modified_description": "A report displaying the personal information of 147 million US citizens, including Social Security Numbers, bank details, and identification information, alongside 15 million UK and 19,000 Canadian records.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 43
+    },
+    {
+        "case": "2018 Marriott Breach: Affected over 500 million guest records.",
+        "modified_description": "A leaked database showing personal information of over 500 million Marriott guests, including names, email addresses, phone numbers, and passport numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 44
+    },
+    {
+        "case": "2018 Aadhar Breach in India: Personal information of over a billion Indians leaked.",
+        "modified_description": "A document displays personal information including names, addresses, and Aadhar numbers of over a billion Indians.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 45
+    },
+    {
+        "case": "Repeated LinkedIn Breaches: 2012 breach affected 167 million users, 2021 breach affected over 500 million users.",
+        "modified_description": "A data dump reveals personal details, including email addresses, phone numbers, and LinkedIn profile information of 167 million users from the 2012 breach and over 500 million users from the 2021 breach.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 46
+    },
+    {
+        "case": "2023 Oreo Breach: Over 50,000 employees of Mondelez International affected via a third-party vendor.",
+        "modified_description": "A document reveals the personal information of over 50,000 Mondelez International employees, including names, addresses, and Social Security numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 47
+    },
+    {
+        "case": "2023 Petro Canada Breach: Affected Suncor Energy's systems, details unclear.",
+        "modified_description": "A document reveals personal identification information of customers affected by the Petro Canada breach, including names, addresses, and driver's license numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 48
+    },
+    {
+        "case": "2023 Okta Privacy Breach: Hackers compromised sensitive information of high-profile clients.",
+        "modified_description": "A report reveals sensitive personal information, including names, email addresses, and encrypted passwords of high-profile clients from Okta's database.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 49
+    },
+    {
+        "case": "2024 Giant Tiger Privacy Breach: Customer names, phone numbers, and email addresses leaked due to a vendor compromise.",
+        "modified_description": "A database table displays leaked customer names, phone numbers, and email addresses from Giant Tiger.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:12:05.728912",
+        "id": 50
+    },
+    {
+        "case": "In 2022, hackers reportedly stole personal data from a police database in Shanghai, affecting over 1 billion Chinese residents.",
+        "modified_description": "A police database displays personal information of over 1 billion Chinese residents, including names, addresses, and ID card numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.fisherphillips.com/en/news-insights/chinas-largest-potential-data-privacy-breach-provides-cautionary-tale.html",
+        "access_time": "2024-10-29T02:12:03.105944",
+        "id": 51
+    },
+    {
+        "case": "Data breaches expose sensitive information to unauthorized parties.",
+        "modified_description": "A chart displays leaked sensitive information, including names, social security numbers, and credit card details of individuals affected by a data breach.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.statista.com/topics/11610/data-breaches-worldwide/",
+        "access_time": "2024-10-29T02:12:03.065162",
+        "id": 52
+    },
+    {
+        "case": "Intentional attacks by threat actors aiming to steal information.",
+        "modified_description": "A hacker's screen displays a stolen database containing usernames, passwords, and personal identification numbers of various individuals.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.statista.com/topics/11610/data-breaches-worldwide/",
+        "access_time": "2024-10-29T02:12:03.065162",
+        "id": 53
+    },
+    {
+        "case": "Malicious insider actions accessing confidential data.",
+        "modified_description": "A screenshot of a confidential database showing sensitive employee information, including Social Security numbers, salaries, and addresses, accessed by a malicious insider.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.statista.com/topics/11610/data-breaches-worldwide/",
+        "access_time": "2024-10-29T02:12:03.065162",
+        "id": 54
+    },
+    {
+        "case": "52% of breaches involved customer personal identifiable information (PII), while about 40% involved employee PII.",
+        "modified_description": "A report highlighting customer and employee personal identifiable information (PII), including names, addresses, Social Security numbers, and financial details.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.statista.com/topics/11610/data-breaches-worldwide/",
+        "access_time": "2024-10-29T02:12:03.065162",
+        "id": 55
+    },
+    {
+        "case": "Financial and insurance sectors hit hardest by social engineering attacks resulting in credential loss.",
+        "modified_description": "A report detailing compromised login credentials of employees from various financial and insurance companies.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.statista.com/topics/11610/data-breaches-worldwide/",
+        "access_time": "2024-10-29T02:12:03.065162",
+        "id": 56
+    },
+    {
+        "case": "ZXC v Bloomberg [2022] UKSC 5: Reasonable expectation of privacy for individuals under criminal investigation prior to charges.",
+        "modified_description": "A legal document displaying names, addresses, and personal details of individuals under criminal investigation before any charges were filed.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 57
+    },
+    {
+        "case": "Driver v CPS [2022] EWHC 2500 (KB): Data Protection Act 2018 violation due to the disclosure of a CPS file.",
+        "modified_description": "A legal document displays sensitive information from a CPS file, including personal identifiers of individuals involved in the case, analysis reports, and case notes revealing their private circumstances.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 58
+    },
+    {
+        "case": "AB v Chief Constable of British Transport Police [2022] EWHC 2740 (KB): Unlawful retention of information by police regarding past accusations.",
+        "modified_description": "A police database screen displays past accusations and personal details of individuals, including names, addresses, and case numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 59
+    },
+    {
+        "case": "Chief Constable of Kent Police v Taylor [2022] EWHC 737 (QB): Breach of confidence concerning sensitive videos.",
+        "modified_description": "A file containing sensitive videos of individuals, with names and identification numbers clearly visible, indicating a breach of confidence by the Kent Police.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 60
+    },
+    {
+        "case": "Various Claimants v MGN [2022] EWHC 1222 (Ch): Phone hacking litigation against Mirror Group Newspapers.",
+        "modified_description": "A legal document displays the names and private phone numbers of various claimants involved in the phone hacking litigation against Mirror Group Newspapers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 61
+    },
+    {
+        "case": "Brake v Guy [2022] EWCA Civ 235: Misuse of private information and breach of confidence regarding emails.",
+        "modified_description": "A leaked email chain reveals private correspondence containing sensitive personal information, including social security numbers, addresses, and confidential business dealings between Brake and Guy.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 62
+    },
+    {
+        "case": "SMO v TikTok Inc. [2022] EWHC 489 (QB): Data protection infringements and misuse of private information.",
+        "modified_description": "A legal document outlining data protection infringements with lists of users' private information, including sensitive personal data and usage statistics, linked to TikTok.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 63
+    },
+    {
+        "case": "Smith & Other v TalkTalk Telecom Group Plc [2022] EWHC 1311 (QB): Data breach under the Data Protection Act 1998.",
+        "modified_description": "A legal document reveals personal data, including names, addresses, and phone numbers of affected individuals in the Smith & Other v TalkTalk Telecom Group Plc case.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 64
+    },
+    {
+        "case": "Owsianik v. Equifax Canada Co., 2022 ONCA 813: Tort of intrusion upon seclusion in data breach cases.",
+        "modified_description": "A court document reveals personal financial information of individuals affected by the Equifax data breach, including names, addresses, and social security numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:12:04.845489",
+        "id": 65
+    },
+    {
+        "case": "Equifax data breach (2017), which led to a $700 million settlement",
+        "modified_description": "A report detailing personal information of 147 million consumers affected by the Equifax data breach, including names, Social Security numbers, birth dates, addresses, and credit card numbers.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:12:08.390876",
+        "id": 66
+    },
+    {
+        "case": "Yahoo's breaches (2013-2014) resulted in a $117.5 million settlement",
+        "modified_description": "A report detailing the compromised email addresses and passwords of Yahoo users from the breaches between 2013-2014.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:12:08.390876",
+        "id": 67
+    },
+    {
+        "case": "Target's breach (2013) led to a $10 million settlement",
+        "modified_description": "A report displaying compromised credit card information and personal details of millions of Target customers from the 2013 data breach.",
+        "privacy_type": "basicinformation",
+        "web_url": "https://www.privacyend.com/global-impact-data-breaches-cyber-laws/",
+        "access_time": "2024-10-29T02:12:08.390876",
+        "id": 68
+    },
+    {
+        "case": "First American Financial Corp Data Breach: Sensitive information exposed due to a website design error, compromising 885 million credit card applications.",
+        "modified_description": "A document reveals sensitive information from 885 million credit card applications, including names, addresses, Social Security numbers, and financial details, exposed due to a design error on the First American Financial Corp website.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 69
+    },
+    {
+        "case": "Equifax Data Breach: Failure to patch known vulnerabilities compromised 147 million customers' data, including social security numbers and credit card numbers.",
+        "modified_description": "A leaked database revealing the social security numbers and credit card numbers of 147 million Equifax customers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 70
+    },
+    {
+        "case": "Heartland Payment Systems Data Breach: An SQL injection attack resulted in the theft of 130 million debit and credit card numbers.",
+        "modified_description": "A database file displays a list of 130 million stolen debit and credit card numbers linked to Heartland Payment Systems.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 71
+    },
+    {
+        "case": "Capital One Data Breach: Unauthorized access by a former Amazon Web Services employee impacted 100 million credit card applications.",
+        "modified_description": "A document displays sensitive credit card application details, including names, addresses, Social Security numbers, and account numbers of 100 million individuals affected by the Capital One data breach.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 72
+    },
+    {
+        "case": "JPMorgan Chase Data Breach: Basic security vulnerabilities exposed data of 83 million accounts due to lack of Multi-Factor Authentication.",
+        "modified_description": "A document reveals sensitive account information, including names, addresses, and account numbers of 83 million JPMorgan Chase customers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 73
+    },
+    {
+        "case": "Experian Data Breach: Social engineering tricked an employee into providing sensitive data of 24 million customers.",
+        "modified_description": "A document reveals the sensitive data of 24 million customers, including names, Social Security numbers, and credit card information, from Experian.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 74
+    },
+    {
+        "case": "Block Data Breach: An employee downloaded reports without permission, affecting 8.2 million employees' data.",
+        "modified_description": "A file containing detailed reports of 8.2 million employees' personal information including names, Social Security numbers, and addresses.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 75
+    },
+    {
+        "case": "Desjardins Group Data Breach: Unauthorized access by a disgruntled employee compromised data of 4.2 million customers.",
+        "modified_description": "A document reveals personal details of 4.2 million customers of Desjardins Group, including names, addresses, and financial information.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 76
+    },
+    {
+        "case": "Westpac Banking Corporation Data Breach: Lost data of 98,000 customers due to an enumeration attack through a third-party provider.",
+        "modified_description": "A breach report reveals personal details including names, addresses, and account numbers of 98,000 customers of Westpac Banking Corporation.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 77
+    },
+    {
+        "case": "Flagstar Bank Data Breach: Unspecified breach method impacted 1.5 million customers, revealing social security numbers and banking information.",
+        "modified_description": "A spreadsheet displaying personal information from 1.5 million customers, including their social security numbers and banking account details associated with Flagstar Bank.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.upguard.com/blog/biggest-data-breaches-financial-services",
+        "access_time": "2024-10-29T02:14:16.674881",
+        "id": 78
+    },
+    {
+        "case": "Warren v DSG Retail Ltd [2021] EWHC 2168 (QB): The court dismissed claims against data controllers for breach of confidence and misuse of private information due to cyber-attacks, ruling that the necessary positive conduct was absent.",
+        "modified_description": "A court document outlining the personal information of individuals affected by a data breach, including names, addresses, and email addresses, alongside details of the cyber-attack on DSG Retail Ltd.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-29T02:14:14.897914",
+        "id": 79
+    },
+    {
+        "case": "Aadhaar (January 2018): The world\u2019s largest ID database was compromised, exposing names, addresses, biometric data, and bank account information.",
+        "modified_description": "A leaked database shows individuals' names, addresses, biometric data, and bank account information from the Aadhaar ID system.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:14:17.839481",
+        "id": 80
+    },
+    {
+        "case": "Court Ventures (Experian) (October 2013): A man tricked the company into providing access to personal records.",
+        "modified_description": "A document reveals personal records of individuals accessed through Court Ventures, including names, addresses, and Social Security numbers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:14:17.839481",
+        "id": 81
+    },
+    {
+        "case": "Equifax (2017): A vulnerability was exploited, leading to the exposure of sensitive information.",
+        "modified_description": "A data breach notification reveals exposed sensitive information, including Social Security numbers, birth dates, addresses, and driver's license numbers of millions of individuals from Equifax.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html",
+        "access_time": "2024-10-29T02:14:17.839481",
+        "id": 82
+    },
+    {
+        "case": "Capital One (March 2019): Over 100 million accounts compromised due to a misconfigured Web Application Firewall",
+        "modified_description": "A report displays screenshots of Capital One's database revealing personal information such as social security numbers, credit scores, and account details of over 100 million customers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://securityintelligence.com/articles/banking-finance-data-breach-costs-risks/",
+        "access_time": "2024-10-29T02:14:11.587953",
+        "id": 83
+    },
+    {
+        "case": "First American Financial Corp (May 2019): Exposed over 855 million real estate and mortgage documents due to a data management error",
+        "modified_description": "A database displaying sensitive real estate transactions and mortgage documents, including names, addresses, and financial details of over 855 million individuals from First American Financial Corp.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://securityintelligence.com/articles/banking-finance-data-breach-costs-risks/",
+        "access_time": "2024-10-29T02:14:11.587953",
+        "id": 84
+    },
+    {
+        "case": "Equifax (September 2017): Personal information of 147 million people was exposed through a poorly secured consumer complaint portal",
+        "modified_description": "A report detailing the personal information of 147 million individuals, including Social Security numbers, birth dates, and addresses, exposed through Equifax's unsecured consumer complaint portal.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://securityintelligence.com/articles/banking-finance-data-breach-costs-risks/",
+        "access_time": "2024-10-29T02:14:11.587953",
+        "id": 85
+    },
+    {
+        "case": "Yahoo!: Faced significant reputational damage after a massive breach affecting 500 million records, leading to a decline in acquisition price by $350 million.",
+        "modified_description": "A database shows the compromised personal records of 500 million Yahoo! users, including names, email addresses, and hashed passwords.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://academic.oup.com/cybersecurity/article/7/1/tyab021/6362163",
+        "access_time": "2024-10-29T02:14:14.556848",
+        "id": 86
+    },
+    {
+        "case": "Honda: Benefited from media attention after a breach involving customer data, leading to enhanced security measures and improved reputation.",
+        "modified_description": "A database record reveals customer names, addresses, and vehicle identification numbers (VINs) linked to Honda.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://academic.oup.com/cybersecurity/article/7/1/tyab021/6362163",
+        "access_time": "2024-10-29T02:14:14.556848",
+        "id": 87
+    },
+    {
+        "case": "2014 Experian Breach: Involved unauthorized access to personal records of 200 million individuals by Ngo, who impersonated a private investigator.",
+        "modified_description": "A report detailing the personal records of 200 million individuals, including names, addresses, and Social Security numbers, accessed by Ngo under false pretenses.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:14:16.779004",
+        "id": 88
+    },
+    {
+        "case": "2017 Equifax Breach: Affected 147 million US records due to failure to update software, resulting in over $575 million in fines.",
+        "modified_description": "A report detailing the personal information of 147 million US individuals affected by the Equifax breach, including names, addresses, Social Security Numbers, and credit card details.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:14:16.779004",
+        "id": 89
+    },
+    {
+        "case": "2023 Oreo Breach: Data of over 50,000 Mondelez employees exposed due to a third-party vendor breach.",
+        "modified_description": "A leaked database reveals personal information of over 50,000 Mondelez employees, including names, addresses, Social Security numbers, and employment details.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:14:16.779004",
+        "id": 90
+    },
+    {
+        "case": "2023 Okta Privacy Breach: Targeted high-profile clients; sensitive data was siphoned from Okta\u2019s servers.",
+        "modified_description": "A document displays sensitive client information, including names, email addresses, and authentication tokens of high-profile users leaked from Okta's servers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:14:16.779004",
+        "id": 91
+    },
+    {
+        "case": "2024 Giant Tiger Privacy Breach: Customer data leaked due to a third-party vendor compromise.",
+        "modified_description": "A document displays customer names, email addresses, and credit card information leaked from Giant Tiger due to a third-party vendor compromise.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://www.enzuzo.com/blog/privacy-breach-examples",
+        "access_time": "2024-10-29T02:14:16.779004",
+        "id": 92
+    },
+    {
+        "case": "Various Claimants v MGN [2022] EWHC 1222 (Ch): Ongoing litigation against Mirror Group Newspapers concerning phone hacking.",
+        "modified_description": "Court documents reveal personal phone records and private messages of individuals targeted by Mirror Group Newspapers.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:14:14.868556",
+        "id": 93
+    },
+    {
+        "case": "Smith & Other v TalkTalk Telecom Group Plc [2022] EWHC 1311 (QB): A mass data breach claim under the Data Protection Act 1998.",
+        "modified_description": "A legal document shows a list of personal details, including names, addresses, and contact numbers of individuals affected by the TalkTalk Telecom Group data breach.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:14:14.868556",
+        "id": 94
+    },
+    {
+        "case": "Owsianik v. Equifax Canada Co., 2022 ONCA 813: Class actions regarding data breaches.",
+        "modified_description": "A court document outlines the names, addresses, and social security numbers of individuals affected by the Equifax Canada data breach.",
+        "privacy_type": "financialinformation",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-29T02:14:14.868556",
+        "id": 95
+    },
+    {
+        "case": "HRH The Duchess of Sussex v Associated Newspapers Limited [2021] EWHC 273 (Ch): Meghan, Duchess of Sussex, successfully sought summary judgment against the Mail on Sunday for publishing parts of a private letter to her father.",
+        "modified_description": "A court document displays excerpts of a private letter written by Meghan, Duchess of Sussex, addressed to her father, alongside a comparison with the unauthorized publication by the Mail on Sunday.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-26T14:21:43.140013",
+        "id": 96
+    },
+    {
+        "case": "H\u00e1jovsk\u00fd v. Slovakia [2021] ECHR 591: The European Court of Human Rights sided with Mr. H\u00e1jovsk\u00fd, stating his privacy was violated when his identity was revealed by media.",
+        "modified_description": "A news article screenshot displays Mr. H\u00e1jovsk\u00fd's full name, address, and personal identification number.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-26T14:21:43.140013",
+        "id": 97
+    },
+    {
+        "case": "Warren v DSG Retail Ltd [2021] EWHC 2168 (QB): Claims for breach of confidence and misuse of private information against data controllers after a cyber-attack were dismissed.",
+        "modified_description": "A court document revealing personal identity information of individuals affected by the cyber-attack, including their names, addresses, and financial details.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-26T14:21:43.140013",
+        "id": 98
+    },
+    {
+        "case": "ES v Shillington [2021] ABQB 739: The Alberta Court recognized a new tort for 'public disclosure of private fact,' awarding damages for unauthorized sharing of intimate images.",
+        "modified_description": "A court document displays intimate images shared without consent, alongside details of the parties involved and the awarded damages.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-26T14:21:43.140013",
+        "id": 99
+    },
+    {
+        "case": "Peters v Attorney-General [2021] NZCA 355: The New Zealand Court of Appeal clarified the tort of invasion of privacy.",
+        "modified_description": "A legal document outlines detailed personal information of individuals involved in the Peters v Attorney-General case, including names, addresses, and specific privacy violations.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://inforrm.org/2021/12/22/top-10-privacy-and-data-protection-cases-of-2021-a-selection-suneet-sharma/",
+        "access_time": "2024-10-26T14:21:43.140013",
+        "id": 100
+    },
+    {
+        "case": "A landlord installing cameras in a tenant's bedroom.",
+        "modified_description": "Surveillance footage captures personal moments of a tenant in their bedroom, highlighting the invasion of privacy by the landlord.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://legaldictionary.net/invasion-of-privacy/",
+        "access_time": "2024-10-26T14:21:44.207449",
+        "id": 101
+    },
+    {
+        "case": "An advertisement using a celebrity's likeness without consent.",
+        "modified_description": "An advertisement featuring a celebrity's image alongside their name and personal endorsement without their permission.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://legaldictionary.net/invasion-of-privacy/",
+        "access_time": "2024-10-26T14:21:44.207449",
+        "id": 102
+    },
+    {
+        "case": "A hospital releasing a private birth video without consent.",
+        "modified_description": "A hospital's internal system displays a video thumbnail labeled \"Private Birth Video\" alongside identifiable patient information, including the mother's full name, date of birth, and hospital ID.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://legaldictionary.net/invasion-of-privacy/",
+        "access_time": "2024-10-26T14:21:44.207449",
+        "id": 103
+    },
+    {
+        "case": "A newspaper suggesting a politician had an affair based on misleading information.",
+        "modified_description": "A leaked document shows private text messages between the politician and a third party, implying an extramarital relationship.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://legaldictionary.net/invasion-of-privacy/",
+        "access_time": "2024-10-26T14:21:44.207449",
+        "id": 104
+    },
+    {
+        "case": "Tyler Clementi's suicide in 2010 after being recorded without consent by his roommate, leading to criminal charges for invasion of privacy.",
+        "modified_description": "A courtroom document shows the detailed personal information of Tyler Clementi, including his name, date of birth, and residence, alongside evidence of the unauthorized recording made by his roommate.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://legaldictionary.net/invasion-of-privacy/",
+        "access_time": "2024-10-26T14:21:44.207449",
+        "id": 105
+    },
+    {
+        "case": "ZXC v Bloomberg [2022] UKSC 5: The case involved the breach of privacy regarding information published by Bloomberg from a confidential law enforcement document.",
+        "modified_description": "A confidential law enforcement document displaying sensitive information, including personal names, addresses, and details of ongoing investigations, leaked by Bloomberg.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 106
+    },
+    {
+        "case": "Driver v CPS [2022] EWHC 2500 (KB): This case involved the disclosure of a file by the CPS to a third party implicating claimant's personal data.",
+        "modified_description": "A file reveals the claimant's personal data including their name, address, and birthdate, shared unlawfully by the CPS to a third party.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 107
+    },
+    {
+        "case": "AB v Chief Constable of British Transport Police [2022] EWHC 2740 (KB): This case involved police's retention of inaccurate information and awarded damages for distress.",
+        "modified_description": "A police database displays inaccurately retained information about individuals, including names, addresses, and alleged criminal records.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 108
+    },
+    {
+        "case": "Chief Constable of Kent Police v Taylor [2022] EWHC 737 (QB): Involved sensitive videos, ordered disclosure and deletion due to breach of confidence.",
+        "modified_description": "A file containing screenshots of sensitive videos related to the case, highlighting personal information and identities of individuals involved, marked with redacted sections where confidentiality was breached.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 109
+    },
+    {
+        "case": "Various Claimants v MGN [2022] EWHC 1222 (Ch): Ongoing litigation regarding phone hacking by Mirror Group Newspapers.",
+        "modified_description": "A legal document displays names, phone numbers, and private messages of various claimants involved in the litigation against Mirror Group Newspapers.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 110
+    },
+    {
+        "case": "SMO v TikTok Inc. [2022] EWHC 489 (QB): Case against TikTok for data protection breaches was discontinued.",
+        "modified_description": "A legal document detailing the personal data of TikTok users, including usernames and contact information.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 111
+    },
+    {
+        "case": "Smith & Other v TalkTalk Telecom Group Plc [2022] EWHC 1311 (QB): A claim following a mass data breach was dismissed.",
+        "modified_description": "A legal document displays the names and identifying information of individuals affected by the TalkTalk Telecom Group mass data breach.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://theprivacyperspective.com/2023/01/01/top-10-privacy-and-data-protection-cases-2022/",
+        "access_time": "2024-10-26T14:21:43.432904",
+        "id": 112
+    },
+    {
+        "case": "Uber Technologies: In August 2018, the FTC announced an expanded settlement with Uber for failing to secure sensitive data in the cloud, resulting in a data breach involving 600,000 names and driver's license numbers, 22 million names and phone numbers, and over 25 million names and email addresses.",
+        "modified_description": "A leaked database shows the names, driver's license numbers, phone numbers, and email addresses of millions of Uber users, highlighting the sensitive personal information that was compromised in the breach.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 113
+    },
+    {
+        "case": "Emp Media Inc. (Myex.com): The FTC and Nevada State addressed privacy issues with the revenge pornography website Myex.com, where intimate photos and personal information of victims were posted without consent.",
+        "modified_description": "A screenshot of the Myex.com website displaying intimate photos and personal details, such as names and addresses, of individuals without their consent.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 114
+    },
+    {
+        "case": "Lenovo: Allegations included selling computers with pre-installed software that sent consumer information to third parties without user knowledge.",
+        "modified_description": "A screenshot of Lenovo's pre-installed software displaying a list of users' personal information, including names, email addresses, and hardware IDs, sent to various third-party companies.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 115
+    },
+    {
+        "case": "Vizio: The company settled allegations of collecting consumer data through smart TVs without consent.",
+        "modified_description": "Vizio's database displays a list of consumer data collected from smart TVs, including viewing habits and personal identification details.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 116
+    },
+    {
+        "case": "VTech: The FTC's action against VTech marked its first involvement in children's privacy issues. The company was accused of collecting personal information from children without parental consent.",
+        "modified_description": "A database from VTech displays children's names, ages, and email addresses, highlighting the absence of parental consent in the records.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 117
+    },
+    {
+        "case": "LabMD: LabMD was accused of failing to protect sensitive consumer medical information, leading to identity theft and compromised billing information of 9,000 consumers.",
+        "modified_description": "A report displays compromised billing information and personal medical details of 9,000 consumers connected to LabMD.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.mondaq.com/unitedstates/privacy-protection/785230/case-studies-high-profile-cases-of-privacy-violation",
+        "access_time": "2024-10-26T14:21:45.779202",
+        "id": 118
+    },
+    {
+        "case": "Report on privacy violations and data protection in Australia, Ecuador, Singapore, South Africa, and Spain.",
+        "modified_description": "A report reveals personal identification numbers (PINs) and addresses of individuals from Australia, Ecuador, Singapore, South Africa, and Spain.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.ohchr.org/en/press-releases/2024/03/individuals-must-be-able-realise-right-remedy-privacy-violations-data",
+        "access_time": "2024-10-26T14:21:40.826425",
+        "id": 119
+    },
+    {
+        "case": "Countries analyzed for their legal recognition of individuals as owners of their personal data and mechanisms for reparation in case of breaches.",
+        "modified_description": "A report detailing individuals' names, addresses, and personal data ownership rights in various countries.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.ohchr.org/en/press-releases/2024/03/individuals-must-be-able-realise-right-remedy-privacy-violations-data",
+        "access_time": "2024-10-26T14:21:40.826425",
+        "id": 120
+    },
+    {
+        "case": "Uber Technologies: In August 2018, the FTC announced an expanded settlement due to Uber's failure to secure sensitive data, resulting in a data breach affecting 600,000 names and driver\u2019s license numbers, 22 million names and phone numbers, and over 25 million names and email addresses.",
+        "modified_description": "A report displaying a list of 600,000 names alongside their driver\u2019s license numbers, 22 million names paired with phone numbers, and over 25 million names linked to email addresses, indicating a severe data breach at Uber Technologies.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 121
+    },
+    {
+        "case": "Emp Media Inc. (Myex.com): The FTC and the State of Nevada targeted the 'revenge' pornography site Myex.com for allowing users to upload intimate photos of victims along with personal information.",
+        "modified_description": "A screenshot from Myex.com displays uploaded intimate photos alongside personal information such as names, addresses, and social media profiles of the victims.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 122
+    },
+    {
+        "case": "Lenovo: Allegations of pre-installed software on Lenovo computers that sent consumer information to third parties without user consent.",
+        "modified_description": "A screen displaying a list of consumer names, addresses, and browsing habits extracted from Lenovo computers, indicating unauthorized data transfer to third parties.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 123
+    },
+    {
+        "case": "Vizio: The FTC and New Jersey Attorney General charged Vizio for collecting consumer data through software on smart TVs without user consent.",
+        "modified_description": "A Vizio smart TV interface displaying a list of collected consumer data, including viewing habits and personal information, accessed without user consent.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 124
+    },
+    {
+        "case": "VTech: The FTC's action against VTech involved allegations of collecting personal information from children without parental consent.",
+        "modified_description": "A database containing personal information of children, including names, birthdates, and home addresses, collected by VTech without parental consent.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 125
+    },
+    {
+        "case": "LabMD: LabMD faced accusations of failing to protect consumers' medical information, leading to identity theft incidents.",
+        "modified_description": "A report reveals patients' medical records, including names, social security numbers, and treatment histories, exposing them to identity theft.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://www.sgrlaw.com/ttl-articles/case-studies-high-profile-cases-of-privacy-violation/",
+        "access_time": "2024-10-26T14:21:43.164030",
+        "id": 126
+    },
+    {
+        "case": "The pandemic has highlighted ethical concerns regarding data usage for public health measures, such as contact tracing, raising debates over privacy versus public safety.",
+        "modified_description": "A government report displays individuals' names, contact numbers, and location data collected for contact tracing during the pandemic.",
+        "privacy_type": "primarycontact",
+        "web_url": "https://digitalprivacy.ieee.org/publications/topics/ethical-issues-related-to-data-privacy-and-security-why-we-must-balance-ethical-and-legal-requirements-in-the-connected-world",
+        "access_time": "2024-10-26T14:21:41.748445",
+        "id": 127
+    },
+    {
+        "case": "The French newspaper Le Figaro experienced a breach affecting approximately 7.4 billion records, including sensitive personal information",
+        "modified_description": "A compromised database from Le Figaro displays sensitive personal information, including names, addresses, phone numbers, and email addresses of millions of individuals.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mdpi.com/2306-5729/9/2/27",
+        "access_time": "2024-10-29T02:15:08.731609",
+        "id": 128
+    },
+    {
+        "case": "Identified countries most affected by data breaches, with significant disclosures in Brazil (government data)",
+        "modified_description": "A report displays government data leaks from Brazil, revealing sensitive information such as citizen identification numbers and personal details.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mdpi.com/2306-5729/9/2/27",
+        "access_time": "2024-10-29T02:15:08.731609",
+        "id": 129
+    },
+    {
+        "case": "Malicious Insiders: Employees with intent to harm or benefit personally at the organization's expense (e.g., data theft, fraud).",
+        "modified_description": "An internal document reveals employee names, ID numbers, and access logs showing unauthorized data access attempts for personal gain.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/insider-threat-the-human-element-of-cyberrisk",
+        "access_time": "2024-10-29T02:15:03.960719",
+        "id": 130
+    },
+    {
+        "case": "Negligent Insiders: Employees who unintentionally expose the organization to risk through carelessness (e.g., misconfiguring systems, losing sensitive data).",
+        "modified_description": "A security log reveals a list of employees' names alongside misconfigured system settings, including sensitive data exposure incidents.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/insider-threat-the-human-element-of-cyberrisk",
+        "access_time": "2024-10-29T02:15:03.960719",
+        "id": 131
+    },
+    {
+        "case": "Privacy concerns due to extensive data collection.",
+        "modified_description": "A report detailing individuals' location tracking, browsing history, and contact information collected by various apps.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/insider-threat-the-human-element-of-cyberrisk",
+        "access_time": "2024-10-29T02:15:03.960719",
+        "id": 132
+    },
+    {
+        "case": "Overreaching monitoring practices that may violate cultural norms.",
+        "modified_description": "A surveillance dashboard displaying real-time data on individuals' cultural activities, including their religious practices, political gatherings, and personal communications.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/insider-threat-the-human-element-of-cyberrisk",
+        "access_time": "2024-10-29T02:15:03.960719",
+        "id": 133
+    },
+    {
+        "case": "Data Proliferation and Privacy Concerns: Digital technologies have enabled firms to collect and analyze vast amounts of consumer data, raising significant privacy concerns.",
+        "modified_description": "A chart displays a compilation of extensive consumer data, including names, addresses, purchase histories, and online activity, highlighting the privacy concerns related to data proliferation.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://link.springer.com/article/10.1007/s11747-022-00845-y",
+        "access_time": "2024-10-29T02:15:06.539694",
+        "id": 134
+    },
+    {
+        "case": "Privacy Tensions: Interactions between firms and consumers facilitated by digital technologies leading to privacy tensions.",
+        "modified_description": "A screen displays a list of consumer profiles with names, addresses, and shopping histories, highlighting the conflict between personalized advertising and user privacy.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://link.springer.com/article/10.1007/s11747-022-00845-y",
+        "access_time": "2024-10-29T02:15:06.539694",
+        "id": 135
+    },
+    {
+        "case": "Regulatory Context: Discusses regulations like GDPR and CPRA that impose compliance costs on firms, affecting firm performance.",
+        "modified_description": "A compliance report shows a company's financial performance alongside personal data records of individuals affected by GDPR and CPRA regulations, including names, email addresses, and consent forms.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://link.springer.com/article/10.1007/s11747-022-00845-y",
+        "access_time": "2024-10-29T02:15:06.539694",
+        "id": 136
+    },
+    {
+        "case": "Consumer Behavior: Consumers often switch service providers or limit data sharing due to privacy concerns.",
+        "modified_description": "A consumer's digital profile revealing their name, email address, and service provider history, highlighting their choices and preferences due to privacy concerns.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://link.springer.com/article/10.1007/s11747-022-00845-y",
+        "access_time": "2024-10-29T02:15:06.539694",
+        "id": 137
+    },
+    {
+        "case": "Case Studies and Interviews: Includes insights from senior managers and consumer informants illustrating practical implications of privacy tensions.",
+        "modified_description": "A report contains sensitive interviews displaying names, job titles, and personal anecdotes of senior managers and consumers discussing privacy tensions.",
+        "privacy_type": "internaloperations",
+        "web_url": "https://link.springer.com/article/10.1007/s11747-022-00845-y",
+        "access_time": "2024-10-29T02:15:06.539694",
+        "id": 138
+    },
+    {
+        "case": "Nortel Networks Breach: Nortel Networks suffered a decade-long breach resulting in the theft of critical research and business plans, leading to its downfall in 2009 as competitors utilized the stolen IP.",
+        "modified_description": "A document reveals stolen research and business plans from Nortel Networks, including detailed technical data and proprietary strategies.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://powerhouseforensics.com/intellectual-property-theft/examples/",
+        "access_time": "2024-10-29T02:15:32.599077",
+        "id": 139
+    },
+    {
+        "case": "Wind Turbine Technology Theft: In 2018, a Chinese company was convicted of stealing trade secrets from American company AMSC, related to wind turbine technology, resulting in AMSC losing over $1 billion and significant layoffs.",
+        "modified_description": "A legal document displays sensitive trade secrets and proprietary technology specifications related to wind turbine designs from AMSC.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://powerhouseforensics.com/intellectual-property-theft/examples/",
+        "access_time": "2024-10-29T02:15:32.599077",
+        "id": 140
+    },
+    {
+        "case": "Waymo vs. Uber Dispute: Waymo accused an ex-employee of stealing trade secrets for autonomous vehicle technology, leading to a settlement in 2018 where Uber paid a substantial equity payout.",
+        "modified_description": "A confidential document displays trade secrets for autonomous vehicle technology being outlined, with names of key ex-employees and the settlement amount from Uber highlighted.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://powerhouseforensics.com/intellectual-property-theft/examples/",
+        "access_time": "2024-10-29T02:15:32.599077",
+        "id": 141
+    },
+    {
+        "case": "Coca-Cola Recipe Theft Attempt: In 2006, three individuals attempted to sell Coca-Cola's secret recipe to PepsiCo, which reported the incident, resulting in the culprits' arrest.",
+        "modified_description": "A document reveals Coca-Cola's confidential recipe with detailed ingredient measurements and formulation.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://powerhouseforensics.com/intellectual-property-theft/examples/",
+        "access_time": "2024-10-29T02:15:32.599077",
+        "id": 142
+    },
+    {
+        "case": "Samsung-Apple Patent Dispute: Apple sued Samsung in 2011 for patent infringement, resulting in a 2012 court order for Samsung to pay Apple over $1 billion in damages.",
+        "modified_description": "A court document shows detailed financial records related to the $1 billion damages in the Samsung-Apple patent dispute, including transaction details that may reveal corporate financial information.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://powerhouseforensics.com/intellectual-property-theft/examples/",
+        "access_time": "2024-10-29T02:15:32.599077",
+        "id": 143
+    },
+    {
+        "case": "Mattel Inc. v. MGA Entertainment Inc.",
+        "modified_description": "A court document displaying confidential information related to the legal battle between Mattel Inc. and MGA Entertainment Inc., including trade secrets and proprietary designs.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.smithsonianmag.com/history/ten-famous-intellectual-property-disputes-18521880/",
+        "access_time": "2024-10-29T02:15:40.582775",
+        "id": 144
+    },
+    {
+        "case": "A&M Records, Inc. v. Napster Inc.",
+        "modified_description": "A legal document shows the personal information of music artists involved in the A&M Records, Inc. v. Napster Inc. case, including addresses and social security numbers.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.smithsonianmag.com/history/ten-famous-intellectual-property-disputes-18521880/",
+        "access_time": "2024-10-29T02:15:40.582775",
+        "id": 145
+    },
+    {
+        "case": "Adidas America Inc. v. Payless Shoesource Inc.",
+        "modified_description": "A legal document revealing sensitive business contracts and payment details between Adidas America Inc. and Payless Shoesource Inc.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.smithsonianmag.com/history/ten-famous-intellectual-property-disputes-18521880/",
+        "access_time": "2024-10-29T02:15:40.582775",
+        "id": 146
+    },
+    {
+        "case": "Theft and attempted theft of trade secrets related to autonomous systems by Weibao Wang, a former employee of Apple Inc.",
+        "modified_description": "A document featuring confidential trade secrets related to Apple's autonomous systems, alongside Weibao Wang's employee ID and internal communications indicating theft attempts.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.justice.gov/usao-ndca/pr/former-apple-employee-charged-theft-trade-secrets",
+        "access_time": "2024-10-29T02:15:33.719067",
+        "id": 147
+    },
+    {
+        "case": "Access to large amounts of confidential data by Weibao Wang prior to departing Apple.",
+        "modified_description": "A computer screen displays a file containing confidential employee records, project details, and product specifications accessed by Weibao Wang before leaving Apple.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.justice.gov/usao-ndca/pr/former-apple-employee-charged-theft-trade-secrets",
+        "access_time": "2024-10-29T02:15:33.719067",
+        "id": 148
+    },
+    {
+        "case": "Indictment lists six specific categories of trade secrets allegedly stolen or attempted to be stolen by Weibao Wang including Entire Autonomy Source Code, Tracking for an Autonomous System, Behavior Planner for an Autonomous System, Architecture Design for an Autonomous System, Descriptions of Hardware Systems, and Motion Planner for an Autonomous System.",
+        "modified_description": "A confidential document lists the stolen trade secrets of an autonomous system, including Entire Autonomy Source Code, Tracking for an Autonomous System, Behavior Planner for an Autonomous System, Architecture Design for an Autonomous System, Descriptions of Hardware Systems, and Motion Planner for an Autonomous System.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.justice.gov/usao-ndca/pr/former-apple-employee-charged-theft-trade-secrets",
+        "access_time": "2024-10-29T02:15:33.719067",
+        "id": 149
+    },
+    {
+        "case": "Thomas Edison vs. Charles Cros: Edison patented the phonograph, originally invented by Cros.",
+        "modified_description": "A legal document detailing the patent dispute between Thomas Edison and Charles Cros, revealing their personal addresses and identification numbers associated with the patent filings.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.proofpoint.com/us/threat-reference/intellectual-property-theft",
+        "access_time": "2024-10-29T02:15:37.838057",
+        "id": 150
+    },
+    {
+        "case": "Wright Brothers: Held patents that prevented competitors from producing similar airplanes.",
+        "modified_description": "A document displays the Wright Brothers' patent details, including personal addresses and contact information, alongside technical specifications of their airplanes.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.proofpoint.com/us/threat-reference/intellectual-property-theft",
+        "access_time": "2024-10-29T02:15:37.838057",
+        "id": 151
+    },
+    {
+        "case": "Apple vs. Samsung: Apple sued Samsung for patent infringement, winning over $1 billion in damages.",
+        "modified_description": "A legal document displays detailed financial records and patent information relating to Apple and Samsung's court case.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.proofpoint.com/us/threat-reference/intellectual-property-theft",
+        "access_time": "2024-10-29T02:15:37.838057",
+        "id": 152
+    },
+    {
+        "case": "Napster: Facilitated unauthorized sharing of music, leading to significant legal challenges from the music industry.",
+        "modified_description": "A digital file-sharing platform displays a list of users with their full names, email addresses, and the music tracks they have shared illegally.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.proofpoint.com/us/threat-reference/intellectual-property-theft",
+        "access_time": "2024-10-29T02:15:37.838057",
+        "id": 153
+    },
+    {
+        "case": "The FBI investigated a trade secret theft case involving Jean Patrice Delia and Miguel Sernas, who conspired to steal proprietary information from General Electric (GE).",
+        "modified_description": "An investigative file containing proprietary information from General Electric, including confidential designs and technical specifications.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920",
+        "access_time": "2024-10-29T02:15:30.660845",
+        "id": 154
+    },
+    {
+        "case": "Delia, a former GE performance engineer, downloaded over 8,000 files containing trade secrets, including elements of a computer program and mathematical models crucial for turbine calibration used in power plants.",
+        "modified_description": "A folder labeled \"Trade Secrets\" containing files with sensitive information such as source code for a computer program and detailed mathematical models for turbine calibration, with Delia\u2019s name at the top of the file list.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920",
+        "access_time": "2024-10-29T02:15:30.660845",
+        "id": 155
+    },
+    {
+        "case": "In May 2012, GE discovered a competing bid for a major power plant project in Saudi Arabia, which was suspiciously low and similar to GE's pricing, leading them to uncover Delia's new company in Canada.",
+        "modified_description": "A document revealing Delia's company financial records, including pricing strategies for the power plant project in Saudi Arabia.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920",
+        "access_time": "2024-10-29T02:15:30.660845",
+        "id": 156
+    },
+    {
+        "case": "Sernas was arrested during a layover with a company laptop containing stolen files.",
+        "modified_description": "A company laptop displays a folder labeled \"Confidential Files\" containing sensitive employee information, including names, addresses, and Social Security numbers.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://www.fbi.gov/news/stories/two-guilty-in-theft-of-trade-secrets-from-ge-072920",
+        "access_time": "2024-10-29T02:15:30.660845",
+        "id": 157
+    },
+    {
+        "case": "Krista Perry alleges Shein sold items featuring mechanical copies of her original artwork without permission, including her copyrighted design \"Floral Bloom.\"",
+        "modified_description": "A side-by-side comparison showing Krista Perry's original design \"Floral Bloom\" alongside the unauthorized Shein merchandise featuring the copied artwork.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://journals.law.unc.edu/ncjolt/blogs/fast-fashion-creating-even-faster-copies-examining-sheins-intellectual-property-and-racketeering-suit/",
+        "access_time": "2024-10-29T02:15:32.409045",
+        "id": 158
+    },
+    {
+        "case": "Jay Baron claims Shein used his artwork \"Trying My Best\" and its mark, leading to potential consumer confusion regarding sponsorship or endorsement.",
+        "modified_description": "A document displays Jay Baron\u2019s original artwork \"Trying My Best\" alongside a Shein product, highlighting the potential consumer confusion regarding sponsorship and showing both party's branding.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://journals.law.unc.edu/ncjolt/blogs/fast-fashion-creating-even-faster-copies-examining-sheins-intellectual-property-and-racketeering-suit/",
+        "access_time": "2024-10-29T02:15:32.409045",
+        "id": 159
+    },
+    {
+        "case": "Larissa Martinez alleges similar infringement of her design \"Orange Daisies.\"",
+        "modified_description": "A document displays Larissa Martinez's design \"Orange Daisies\" along with her personal contact information and copyright details.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://journals.law.unc.edu/ncjolt/blogs/fast-fashion-creating-even-faster-copies-examining-sheins-intellectual-property-and-racketeering-suit/",
+        "access_time": "2024-10-29T02:15:32.409045",
+        "id": 160
+    },
+    {
+        "case": "Adidas vs. Thom Browne (2021): Adidas alleged trademark design infringement against Thom Browne for sneakers with a red, white, and blue stripe.",
+        "modified_description": "A legal document outlining the trademark registrations and design specifications of the red, white, and blue striped sneakers produced by both Adidas and Thom Browne, including detailed descriptions and images of the designs in question.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://abounaja.com/blog/intellectual-property-disputes",
+        "access_time": "2024-10-29T02:15:40.248276",
+        "id": 161
+    },
+    {
+        "case": "Gucci vs. Guess (2009): Gucci sued Guess for trademark violations relating to speculative and burdensome evidence.",
+        "modified_description": "A court document displaying Gucci's legal filing with evidence of trademark violations, including detailed descriptions of products, logos, and design elements belonging to both brands, along with financial data showing profit margins and sales figures.",
+        "privacy_type": "intellectualproperty",
+        "web_url": "https://abounaja.com/blog/intellectual-property-disputes",
+        "access_time": "2024-10-29T02:15:40.248276",
+        "id": 162
+    }
+]

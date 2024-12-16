@@ -1,0 +1,1540 @@
+Page 1
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+Guidelines for the Law Concerning the Protection of Personal Information
+(Obligation to confirm and record when provided to a third party)
+
+November 2016
+Personal Information Protection Commission
+
+Page 2
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+Guidelines for the Law Concerning the Protection of Personal Information
+(Obligation to confirm and record when provided to a third party)
+table of contents
+
+1 Positioning of this guideline ........................................................ ....... 1
+2 Applicable subject of confirmation / recording obligation ..................................... .......... 3
+2-1 Provision to a third party to which the obligation to confirm and record is not clearly stated ........................ 3
+2-1-1 When listed in each item of Article 23, Paragraph 1 of the Act .................................. .... 3
+2-1-2 When listed in each item of Article 23, Paragraph 5 of the Act .................................. .... Four
+2-1-3 When a third party is a person listed in each item of Article 2, Paragraph 5 of the Act ..................... 5
+2-2 Provision to a third party to which confirmation / recording obligations do not apply due to interpretation ........................ 6
+2-2-1 When the confirmation / recording obligation does not apply to the provider and recipient .................. 6
+2-2-1-1 Concept of "provider" ..................................... ......... 7
+2-2-1-2 Concept of "Recipient" ..................................... ......... 8
+2-2-1-3 Concept of "offering" act ..................................... ....... 9
+2-2-2 When the confirmation / recording obligation does not apply to the recipient ...................................... 9
+2-2-2-1 Applicability of "Personal Data" in Article 26 of the Act ..................... 9
+2-2-2-2 "When receiving the offer" ..................................... .. 11
+3 Obligation to confirm (related to Article 26, Paragraphs 1 and 2 of the Law, Article 15 of the Regulations) .................. 11
+3-1 Confirmation method (related to Article 26, Paragraph 1 of the Law, Article 15 of the Regulation) ........................... 11
+3-1-1 Name and address of a third party and, in the case of a corporation, the name of its representative (Article 26, Article 26 of the Act)
+Paragraph 1, Item 1, Rule 15, Paragraph 1) ................................ 11
+3-1-2 Background of acquisition of personal data by a third party (Article 26, Paragraph 1, Item 2 of the Law, Article 15 of the Regulations)
+(Section 2 relation) .................................................................. ......... 1 2
+3-1-3 Compliance with the law ..................................... .............. 1 3
+3-2 Confirmation method for third parties who have already confirmed (related to Article 15 of the Regulations) .............. 14
+4 Obligation to record (related to Article 25, Paragraph 1 and Article 26, Paragraph 3 of the Law) ........................ 14
+4-1 How to create a record, etc ..................................... ........ 15
+4-1-1 Media for creating records (related to Article 12, Paragraph 1 and Article 16, Paragraph 1 of the Regulations) ......... 15
+4-1-2 How to make a record .................................................. ......... 15
+4-1-2-1 Principles (Regulations, Article 12, Paragraph 2 and Article 16, Paragraph 2) ..................... 15
+4-1-2-2 How to create records in a batch (related to Article 12, Paragraph 2 and Article 16, Paragraph 2 of the Regulations)
+................................................................. ............ 16
+
+Page 3
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+4-1-2-3 Method by alternative means such as contracts (related to Article 12, Paragraph 3 and Article 16, Paragraph 3 of the Regulations)
+................................................................. ............ 1 7
+4-1-3 How to create a record on your behalf ... . 19
+4-2 Recorded items .................................................. ................. 1 9
+4-2-1 Recorded items of the provider (related to Article 25, Paragraph 1 of the Law) ............................ 19
+4-2-1-1 When providing to a third party by opt-out (Rule Article 13, Paragraph 1, Item 1)
+Person in charge) ................................................................ .......... 2 0
+4-2-1-2 When providing to a third party with the consent of the person (Regulation Article 13, Paragraph 1, Item 2)
+................................................................. ............ 2 1
+4-2-2 Recipient's record items (related to Article 26, Paragraph 3 of the Law) ............................ 23
+4-2-2-1 When receiving a third party offer by opt-out (Rule Article 17, Paragraph 1, Item 1)
+Relationship) ................................................ ........ 2 3
+4-2-2-2 When receiving a third party based on the consent of the person (Rule Article 17, Paragraph 1, Item 2)
+Relationship) ................................................ ........ 2 4
+4-2-2-3 When receiving a third party from a private person (related to Article 17, Paragraph 1, Item 3 of the Regulations)
+................................................................. ............ 2 5
+4-2-3 Omission of recorded items (related to Article 13, Paragraph 2 and Article 17, Paragraph 2 of the Regulations) ............. 26
+4-3 Retention period (related to Article 25, Paragraph 2 and Article 26, Paragraph 4 of the Law) ..................... 28
+[Appendix] ..................................................... ...................... 3 0
+
+Ancillary resolution by the Cabinet Committee of the House of Representatives (May 20, 2015)
+Ancillary resolution by the Cabinet Committee of the House of Councilors (August 27, 2015)
+Overall view of confirmation / recording obligations
+
+【Usage Guide】
+"Law"
+
+Law Concerning Protection of Personal Information (Law No. 57 of 2003)
+
+"Cabinet Order"
+
+Ordinance for Enforcement of Law Concerning Protection of Personal Information (Cabinet Order No. 507 of 2003)
+
+"Rules"
+
+Law Enforcement Regulations on the Protection of Personal Information (2016 Personal Information Protection Commission)
+Rule No. 3)
+
+"General Rules" Guidelines on the Law Concerning the Protection of Personal Information (General Rules)
+(Edit) (2016 Personal Information Protection Commission Notification No. 6)
+"Amendment Law" Identifies a specific individual in the Law Concerning the Protection of Personal Information and Administrative Procedures
+Law to partially revise the law regarding the use of numbers for
+Law No. 65)
+
+Page 4
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+1 Positioning of this guideline
+
+The Personal Information Protection Commission supports activities carried out by businesses to ensure the proper handling of personal information.
+To support and to implement the measures taken by the business operator appropriately and effectively with the support.
+For the purpose, the Law Concerning the Protection of Personal Information (Law No. 57 of 2003; hereinafter referred to as the "Law")
+As a concrete guideline based on Articles 4, 8 and 60, "In the Law Concerning the Protection of Personal Information
+Guidelines for General Rules (General Rules) ”(2016 Personal Information Protection Commission Notification No. 6; General Rules
+"Guidelines". ) Is stipulated, but among the obligations of the business operator stipulated by law, it is provided to a third party
+From the viewpoint of showing in an easy-to-understand manner by specializing in the part related to confirmation / recording obligations
+This guideline is established separately from the drine.
+
+The so-called list business was triggered by a large-scale leak incident in a private company that occurred in 2014.
+The fact that illegally obtained personal data is distributed to society through the intervention of a person has been recognized by society.
+In response to this, the law has provided provisions to ensure the proper provision of personal data to third parties.
+
+First, when a business operator handling personal information receives personal data from a third party, it is illegally obtained.
+The third party acquires the personal data in order to prevent the distribution of the personal data.
+It imposes an obligation to confirm the circumstances, etc. (Article 26 of the Act).
+In addition, even if personal data is illegally distributed, the Personal Information Protection Commission will handle personal information.
+Individuals by collecting reports and conducting on-site inspections (Article 40 of the Act) and inspecting records
+It is necessary to be able to identify the distribution channel of data after the fact. Therefore, the individual
+When a business operator handling personal information provides personal data to a third party, or when a third party provides personal data
+In order to receive the receipt, a record such as the name of the third party must be created and saved (Act No. 25).
+Article, Article 26).
+In addition to the above, to the Personal Information Protection Commission of the personal information handling business operator who uses opt-out
+Notification obligations and provisions for publication by the Personal Information Protection Commission have also been newly established (Article 23, Paragraphs 2 to 4 of the Act).
+(Up to section), these systems are combined to try to deter the distribution of illegally obtained personal data.
+To do.
+
+○ New provisions for confirmation / recording obligations
+The provider records the date of provision, the name of the recipient, etc. (stored for a certain period of time).
+The recipient confirms the name of the provider, the acquisition process, etc., and the date of receipt and matters related to confirmation.
+Etc. (stored for a certain period of time).
+In addition, the following two points are stipulated.
+・ Obligation to notify the Personal Information Protection Commission of a business operator handling personal information provided to a third party by opt-out
+・ Publication by the Personal Information Protection Commission
+
+1
+
+Page 5
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+On the other hand, due to this obligation to confirm and record, it is possible for businesses handling personal information that are conducting normal business activities.
+There are many voices concerned about the excessive burden of doing so, so it is necessary to establish realistic regulations.
+(Attachment resolution by the House of Representatives Cabinet Committee (May 20, 2015), to the House of Councilors Cabinet Committee
+Ancillary resolutions (August 27, 2015).
+
+This guideline is intended to prevent the distribution of illegally obtained personal data.
+On the other hand, in order to avoid an excessive burden on the business operator, the proper operation of confirmation / recording obligations should be organized.
+It shows.
+
+First, in "2 Targets of confirmation / recording obligations", the targets to which confirmation / recording obligations are applied are defined.
+Determine. And, regarding the provision to a third party to which the confirmation / recording obligation is applied, "3 Confirmation obligation" and "4 Note"
+In accordance with "Obligation to record", confirmation and creation / preservation of records will be performed.
+
+In this guideline, it is stated that "must" and "must not"
+If you do not comply with these matters, you may be judged to be in violation of the law. On the other hand, "Tsutomu
+We do not comply with matters that describe "must be done", "desirable", etc.
+Although it is not immediately judged to be a violation of the law, the characteristics of the business operator are based on the purpose of the law.
+It is desirable to respond as much as possible according to the scale and scale.
+Unless otherwise specified, the terms used in this guideline are general guidelines.
+In addition to the examples of terms used in, the following examples are used.
+"Obligation to confirm / record": Obligation to confirm based on Article 26 of the Act and notes based on Articles 25 and 26 of the Act
+Recording obligation
+"Provider": A person who provides personal data to a third party (excluding the person himself / herself, a person other than a business operator handling personal information)
+including. )
+"Recipient": A person who receives personal data from a third party (excluding the person himself / herself, a business operator handling personal information or later)
+Including outsiders. )
+
+2
+
+Page 6
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+2 Applicable to confirmation / recording obligation
+
+2-1 Provision to a third party to which confirmation / recording obligations do not apply clearly
+Clearly, confirmation / recording obligations do not apply to the following types of third-party provision.
+
+2-1-1 When listed in each item of Article 23, Paragraph 1 of the Act
+
+Law Article 25 (Paragraph 1)
+1 When a business operator handling personal information provides personal data to a third party (omitted), it creates a record (omitted).
+Must be done. However, the provision of the personal data is in each item of Article 23, Paragraph 1 (omitted).
+If applicable, this does not apply.
+
+Law Article 26 (Paragraph 1)
+1 When a business operator handling personal information receives personal data from a third party (omitted), then
+You must confirm the matters listed. However, the provision of the personal data is Article 23.
+This does not apply if each item (omitted) in Paragraph 1 is applicable.
+
+<Reference>
+Article 24 of the law
+When a business operator handling personal information provides personal data to a third party (omitted) in a foreign country (omitted)
+Except for the cases listed in each item of Paragraph 1 of the preceding Article, the proposal to a third party in a foreign country in advance
+You must obtain the consent of the person to approve the service. (Omitted)
+
+Regarding the provisions to third parties listed in (1) to (4) below, personal data shall be circulated from time to time.
+Is unlikely to be expected, so confirmation / recording obligations do not apply.
+Also, when providing personal data to a third party in a foreign country, please follow the steps (1) to (4) below.
+Recording obligations do not apply to the listed third-party provisions (Article 24 of the Act, [To third parties in foreign countries]
+Application of confirmation / recording obligation when providing personal data]).
+For details on (1) to (4), see the general guideline "3-4-1 System provided by a third party."
+See Limit Principles.
+
+(1) When required by law (related to Article 23, Paragraph 1, Item 1 of the Law)
+
+(2) When it is necessary to protect the life, body or property of a person (including a corporation)
+When it is difficult to obtain the consent of the person (related to Article 23, Paragraph 1, Item 2 of the Act)
+
+3
+
+Page 7
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+(3) When it is particularly necessary to improve public health or promote the sound development of children.
+When it is difficult to obtain the consent of the person (related to Article 23, Paragraph 1, Item 3 of the Act)
+
+(4) A national institution or a local public body or a person entrusted with it carries out the affairs stipulated by laws and regulations.
+If you need to cooperate in doing something, with your consent
+When there is a risk of hindering the performance of the relevant affairs (related to Article 23, Paragraph 1, Item 4 of the Act)
+
+2-1-2 When listed in each item of Article 23, Paragraph 5 of the Act
+
+Law Article 25 (Paragraph 1)
+1 When a business operator handling personal information provides personal data to a third party (omitted), it keeps a record (omitted).
+Must be created. However, the provision of the personal data is provided in each of Article 23 (Omitted), Paragraph 5.
+This does not apply if the item (omitted) is applicable.
+
+Law Article 26 (Paragraph 1)
+1
+
+When receiving personal data from a third party, a business operator handling personal information (omitted)
+The following matters must be confirmed. However, the provision of the personal data is the first
+This does not apply if each item (omitted) in Article 23 (omitted), Paragraph 5 is applicable.
+
+Regarding the provision to third parties listed in the following (1) to (3), see Article 23, Paragraph 5 of the Act.
+The obligation to confirm and record does not apply in view of the fact that it does not fall under the category of a third party.
+I.
+On the other hand, personal data can be sent to third parties in foreign countries according to the following types (1) to (3).
+The application relationship of the recording obligation when providing is [Note when providing personal data to a third party in a foreign country.
+Application of recording obligation].
+For details from (1) to (3), refer to the general guideline "3-4-3 Third Party".
+If not, see.
+
+(1) Collection of personal data to the extent necessary for the business operator handling personal information to achieve the purpose of use
+When the personal data is provided by entrusting all or part of the handling
+(Regarding Article 23, Paragraph 5, Item 1 of the Law)
+
+(2) When personal data is provided due to business succession due to merger or other reasons (law)
+Article 23, Paragraph 5, Item 2)
+
+Four
+
+Page 8
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+(3) Personal data shared with a specific person will be provided to that specific person.
+In some cases, to that effect and the items of personal data used jointly, joint interests
+Responsible for the scope of users, the purpose of use of users and the management of the personal data
+Notify the person in advance of the name or name of the person who has the responsibility, or the person himself / herself
+When it is in a state where it can be easily known (related to Article 23, Paragraph 5, Item 3 of the Law)
+
+[Application of recording obligation when providing personal data to a third party in a foreign country]
+The provision of personal data to third parties in foreign countries can be divided into the following types I to IV. each
+The application relationship between the type and the obligation to record is as shown in the following <Applicable table>.
+Type I: When the person's "agreement" (Article 24 of the Act) is obtained
+Type II: The third party has a personal information protection system that is recognized to be at the same level as Japan.
+As a country, the Law Enforcement Regulations on the Protection of Personal Information (2016 Personal Information Protection)
+Committee Rule No. 3. Hereinafter referred to as "rules". ) In the country specified in
+Type III: The third party continuously takes measures equivalent to the measures that the business operator handling personal information should take.
+We have established a system that conforms to the standards stipulated in the rules as a system necessary for shifting.
+If
+Type IV: When applicable to "2-1-1 Cases listed in each item of Article 23, Paragraph 1 of the Law"
+
+<Applicable table>
+By type
+
+Recording obligation
+Applicable
+
+Type I
+"2-1-2 Listed in each item of Article 23, Paragraph 5 of the Act
+Type II
+
+If it does not correspond to "Case" (* 2)
+
+Or type III
+
+"2-1-2 Listed in each item of Article 23, Paragraph 5 of the Act
+If it corresponds to "case"
+
+Yes (* 1)
+
+Nothing
+
+Type IV
+(* 1) Personal data will be provided to third parties in Japan regarding the method of creating records and items to be recorded when the obligation to record is applied.
+As in the case, you will be subject to "4 Recording Obligations".
+(* 2) Specifically, it is submitted to a third party based on Article 23, Paragraph 1 of the Law (“Consent of the person”) or Article 23, Paragraph 2 of the Law (opt-out).
+It is a case of offering.
+
+2-1-3 When a third party is a person listed in each item of Article 2, Paragraph 5 of the Act
+
+Law Article 25 (Paragraph 1)
+
+Five
+
+Page 9
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+1 Businesses handling personal information exclude personal data from third parties (excluding those listed in each item of Article 2, Paragraph 5).
+The same shall apply hereinafter in this article and the next article. ), You must make a record (omitted)
+Not.
+
+Among "third parties" who are not the person or the business operator handling personal information, the following (1) to (4)
+When exchanging personal data with or from the persons listed in, the obligation to confirm and record does not apply. Less than,
+When we say "third party" in this guideline, we basically list it in the following (1) to (4).
+Excludes those who are vulnerable.
+
+(1) National institutions (related to Article 2, Paragraph 5, Item 1 of the Law)
+(2) Local public organizations (related to Article 2, Paragraph 5, Item 2 of the Law)
+(3) Incorporated Administrative Agencies, etc. (Act on the Protection of Personal Information Held by Incorporated Administrative Agencies, etc. (2003)
+Year Law No. 59) Refers to an incorporated administrative agency, etc. prescribed in Article 2, Paragraph 1. ) (Article 2, Paragraph 5 of the Law
+No. 3 relation)
+(4) Local Incorporated Administrative Agency (Local Incorporated Administrative Agency Act (Act No. 118 of 2003), Article 2, Paragraph 1
+Refers to the prescribed local incorporated administrative agency. ) (Regarding Article 2, Paragraph 5, Item 4 of the Law)
+
+2-2 Provision to a third party to which confirmation / recording obligations do not apply due to interpretation
+
+2-2-1 When the confirmation / recording obligation does not apply to the provider and recipient
+
+Even if it is formally provided by a third party, in consideration of the purpose of confirmation / recording obligation
+For the provision to a third party, which has little need to impose a confirmation / recording obligation, the obligation is the same.
+It does not correspond to the target third party provision.
+Regarding provision to a third party, that is, the act of "providing" from the "provider" to the "recipient"
+Judge the applicability of each element in consideration of the purpose of confirmation / recording obligation.
+Specifically, from the following "2-2-1-1 Concept of" Provider "" to "2-2-1-3 Consideration of" Provide "Act"
+There may be the ideas listed up to "How to Eat", but each type is not contradictory to each other and overlaps.
+It is possible to do. In addition, in view of the purpose of confirmation / recording obligation, other matters are substantially the same.
+It does not preclude that there are types to which obligations do not apply.
+In addition, in any of the following types, it is premised that the consent of the person is substantially obtained.
+Basically, the following ideas apply to third-party provision by Putout (Article 23, Paragraph 2 of the Law).
+It doesn't fit.
+
+6
+
+Page 10
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+2-2-1-1 Concept of "provider"
+
+If the following "(1) Provided by the person" or "(2) Provided on behalf of the person" is applicable, the actual situation
+The obligation to confirm and record does not apply as it is not qualitatively provided by the "provider".
+
+(1) Provided by the person
+
+The content entered by the person himself / herself on the SNS etc. operated by the business operator is automatically converted into personal data.
+If it is placed in a state where it can be obtained by an unspecified number of third parties, it is practically "the person himself / herself".
+It is provided by.
+Therefore, the business operator handling personal information collects personal data related to the person through SNS etc.
+Even when it is acquired, both the operator of SNS etc. and the acquired personal information handling operator
+In, the obligation to confirm and record does not apply.
+Regarding the relationship between browsing and obligations based on Article 26 of the Act, please refer to "2-2-2-2"
+When receiving an offering ””.
+
+[Case corresponding to provision by the person]
+Example) When acquiring the poster's profile, posted content, etc. on SNS
+
+(2) Provided on behalf of the person
+
+The business operator handling personal information collects the personal data of the person concerned based on the consignment from the person himself / herself.
+In the case of providing by three parties, the business operator handling personal information is "on behalf of the person" on personal day.
+It is the one that provides the data.
+Therefore, regarding the provision to a third party in this case, either the provider or the recipient
+However, the obligation to confirm and record does not apply.
+A business operator handling personal information provides personal data based on entrustment from the person himself / herself.
+Whether or not it can be evaluated as a thing is mainly determined by the content of the consignment, etc., and the individual de, which is the object of provision.
+Comprehensive elements such as the content of the data, when it is provided, and the business operator handling personal information of the recipient
+Judgment from the viewpoint of whether or not the person can specifically identify the provision in consideration of
+Will be done.
+In addition, when receiving a consignment of provision of personal data from the person, the individual concerned
+The data may include personal data of a person other than the "person".
+
+[Case of providing personal data on behalf of the person]
+
+7
+
+Page 11
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+Case 1) The destination bank that received a transfer request from the person to another person's account is the transfer destination
+Provide information related to the transfer request to the destination bank that has an account
+If
+Case 2) The operator of the business operator receives a contact from the customer to request repair of the product for sale.
+Therefore, we decided to connect to a partner repair company and obtained the consent of the customer.
+Above, on behalf of the customer, give the customer's name, contact information, etc. to the repair company.
+When telling
+Case 3) A business partner is requested by a business partner to introduce a person who wants to purchase a product or service.
+Therefore, solicit applicants from customers and provide a list of applicants for purchase to businesses.
+If
+Case 4) The operator of the site accessed by the person has already been in charge for the purpose of personal authentication.
+Selected by the person among the operators of other sites that authenticate the person
+Information about the person concerned is exchanged with the person concerned via the Internet.
+If you do
+Case 5) An affiliated repairman selected by the insurance company when arranging repairs for the accident vehicle.
+When providing information related to the person concerned to the place
+Case 6) A business partner / contractor asks you to introduce a professional contractor / lawyer, etc., and you are in a professional business.
+When introducing from a list of persons / lawyers, etc.
+Case 7) The business operator is in charge of the company because the customer inquired about the contract details by telephone.
+When providing the customer with the name, contact information, etc. of the person
+Case 8) A business operator entrusted with the mediation of a transaction by the person himself / herself is a candidate for the other party.
+A place to provide information to the business operator in the range necessary for examining the validity of prices, etc.
+Go
+
+2-2-1-2 Concept of "Recipient"
+
+When providing to a person who has a relationship that can be evaluated as one with the person, such as the person's agent or family
+It is considered to be provided to the person himself / herself, does not correspond to the provision to the recipient, and the obligation to confirm / record is appropriate.
+Not used. In addition, being a family member is not always evaluated as the person himself / herself, but an individual.
+It is necessary to make a substantial judgment in consideration of the nature of human data and the relationship between the two.
+In addition, the provider intervenes the recipient with the intention of finally providing it to the principal.
+If you provide it to a third party and the person can clearly recognize it, you can also make a proposal to the person.
+It is considered as a companion and the obligation to confirm and record does not apply.
+
+[Case of providing to a person who can be evaluated as one with the person]
+
+8
+
+Page 12
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+Example) A salesperson of a financial institution gives a profit or loss of a financial product he owns to a customer who comes to the store with his family.
+When explaining the situation etc.
+
+[Providing is provided through the recipient with the intention that the provider will finally provide it to the principal.
+Case study]
+Example) Since the transfer requester's corporation transfers money to the recipient's account, it is not the name and account number of the individual.
+Which personal data to provide to the recipient bank through the destination bank
+
+2-2-1-3 Concept of "offering" act
+
+Public information that can be acquired by an unspecified number of people is information that can be acquired by the recipient.
+The act of providing it from the provider to the recipient is the act of acquisition by the recipient.
+Since the provider is acting on your behalf, a third-party proposal that should substantially impose confirmation / recording obligations
+It does not apply to the service and the obligation does not apply.
+For example, information published on homepages, information reported by news media, etc.
+Etc. are applicable. On the other hand, information that can be accessed only by a specific person, could be obtained in the business of the provider.
+The arrangement here does not apply to non-public information.
+Initially, a record will be created as a provider for the act of making personal data public.
+Must be done (Rule Article 13, Paragraph 1, Item 1-Brackets).
+In addition, even so-called public information falls under "personal information" (Article 2, Paragraph 1 of the Act).
+It should be noted that the provisions of Chapter 4, Section 1 of the Act other than the obligation to confirm and record apply.
+(Refer to the general guideline "2-1 Personal information").
+
+2-2-2 When the confirmation / recording obligation does not apply to the recipient
+
+2-2-2-1 Applicability of "Personal data" in Article 26 of the Act
+
+Article 26 of the Act is an obligation that applies when receiving the provision of "personal data", but "individual"
+Information that corresponds to "personal information" but does not correspond to "personal data", or "individual" in the first place
+If you receive information that does not fall under "personal information", the obligations of the same article do not apply.
+
+(1) When it does not correspond to "personal data" for the recipient
+
+① Judgment subject
+
+9
+
+Page 13
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+Applicability of the requirements of Article 26 of the Act must be judged based on the recipient who is the addressee of the same Article.
+Therefore, it corresponds to personal data for the provider but personal data for the recipient.
+If you receive information that does not fall under the above, the confirmation / recording obligation of the same article does not apply.
+Therefore, for example, a sales representative of a business operator handling personal information introduces a business partner.
+Take out one business card from the file managed as a database and use it
+When giving a copy to a sales representative of another business operator handling personal information, the personal information of the recipient
+The information handling business operator is not obliged to confirm and record.
+In addition, although it originally corresponds to personal data, it is exempt from the obligation to confirm and record.
+For the purpose of being divided, formally "personal information that does not correspond to personal data"
+The act of receiving the offer as is an escape from the law and can be exempted from the obligation to confirm and record.
+Absent.
+
+② At the time of judgment
+If it is provided as personal information that does not correspond to personal data, it will be said later.
+Even when personal information is entered into a personal information database, etc., Article 26 of the Act
+Confirmation and recording obligations do not apply.
+If the recipient enters the personal information into his / her own database after receipt,
+From the time of input, it will correspond to the personal data that constitutes the personal information database, etc.
+Therefore, the provisions of Articles 19 to 34 of the Act (excluding Article 26 of the Act) will be applied.
+You need to be careful.
+
+(3) Based on (1) and (2), at the time of receiving the provision to the personal information handling business operator who is the recipient
+If it corresponds to personal data, the obligation to confirm and record it will be applied.
+
+(2) When it does not correspond to "personal information" for the recipient
+
+Recipients, even if they are personal data for the provider, as in the following case
+Information that does not correspond to "personal information" (naturally does not correspond to personal data)
+Upon receipt, the confirmation and recording obligations of Article 26 of the Act do not apply.
+
+[Cases that do not correspond to personal information for the recipient]
+Case 1) Data that makes it impossible for the provider to identify an individual by deleting the name
+If you receive the offer
+Case 2) When data is provided with only the ID number managed by the provider
+
+Ten
+
+Page 14
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+2-2-2-2 "When receiving the offer"
+
+The obligation to confirm and record Article 26 of the Act is for the recipient to "receive personal data from a third party.
+Since it is applied when there is an act of "kicking", the act of simply browsing is "received"
+There is no act and the obligations of Article 26 of the Act do not apply.
+In addition, the personal information handling business operator who is the provider puts the personal data in a state where it can be used by a third party.
+The act corresponds to the act of providing.
+In addition, unilaterally personal day by oral, fax, e-mail, telephone, etc., regardless of the recipient's intention.
+If the recipient does not "receive the offer" when the data is provided, Law No. 26
+The obligation to confirm and record the article does not apply.
+
+3 Obligation to confirm (related to Article 26, Paragraphs 1 and 2 of the Law, Article 15 of the Regulations)
+
+3-1 Confirmation method (related to Article 26, Paragraph 1 of the Law and Article 15 of the Regulation)
+
+When a business operator handling personal information receives personal data from a third party, the business operator handles the personal information to the third party.
+Therefore, the following confirmation must be made. At this time, the third party handles the personal information.
+Do not falsify the matters related to the confirmation to the contractor (Article 26, Paragraph 2 of the Act. Violation of the same paragraph)
+In that case, a fine of 100,000 yen or less is required according to Article 88 of the Act).
+
+3-1-1 Name and address of a third party and, in the case of a corporation, the name of its representative (Article 26, Paragraph 1 of the Act)
+Item 1, Rule 15, Paragraph 1)
+
+Law Article 26 (Paragraph 1)
+1
+
+Businesses handling personal information receive personal information when receiving personal data from a third party.
+The following matters must be confirmed in accordance with the rules of the Information Protection Commission.
+Absent. (Omitted)
+(1)
+
+In the case of the name or name and address of the third party and the corporation, its representative (corporation)
+If there is a non-organization with a representative or manager, the representative or jurisdiction
+Name of the person
+
+Rule Article 15 (Section 1)
+1 The method of confirming the matters listed in item 1 of the same paragraph pursuant to the provisions of Article 26, paragraph 1 of the Act is for individuals.
+It shall be a method of receiving a declaration from a third party who provides the data or any other appropriate method.
+
+11
+
+Page 15
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+[Case corresponding to the method of receiving a declaration from a third party]
+Case 1) How to receive a tax return verbally
+Case 2) A method of accepting the submission of the application form, etc. after filling in the prescribed application form, etc.
+Case 3) How to accept the sending of a copy of the identity verification document
+
+[Cases that correspond to other appropriate methods]
+Case 1) How to confirm the registered items (Recipients themselves submit registration information certificate / registration information
+How to confirm the name, address, and name of the representative of the third party in the service)
+Case 2) Corporate Number (Regarding the use of numbers to identify specific individuals in administrative procedures, etc.
+The corporate number specified in Article 2, Paragraph 15 of the Act (Act No. 27 of 2013). )
+How to confirm the name and address of the corporation after receiving the indication
+Case 3) The third party publishes the name, address, and name of the representative on the company's website, etc.
+How to check the contents
+Case 4) How to check the database of a reliable private data vendor
+Example 5) How to check securities reports of listed companies, etc.
+
+3-1-2 Background of acquisition of personal data by a third party (Article 26, Paragraph 1, Item 2 of the Law, Article 15, Item 2 of the Regulations)
+Binary relation)
+
+Law Article 26 (Paragraph 1)
+1
+
+Businesses handling personal information receive personal information when receiving personal data from a third party.
+The following matters must be confirmed in accordance with the rules of the Information Protection Commission.
+Absent. (Omitted)
+(1) (Omitted)
+(2) Background of acquisition of the personal data by the third party
+
+Rule Article 15 (Section 2)
+2 The method of confirming the matters listed in item 2 of the same paragraph pursuant to the provisions of Article 26, paragraph 1 of the Act is for individuals.
+A contract showing the process of acquisition of the personal data by the third party from the third party who provides the data
+It shall be a method of receiving a written document or other document, or any other appropriate method.
+
+When a business operator handling personal information receives personal data from a third party, the third party will provide the personal data.
+It is necessary to confirm the "acquisition process" of the personal data.
+The purpose of confirming the "acquisition process" is to legally obtain the personal data to be provided.
+To prevent the use and distribution of the personal data when it is suspected that it has not been done.
+
+12
+
+Page 16
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+is there.
+Even if it is suspected that it was not obtained legally, I dare to provide personal data
+If you receive the offer, it may be judged as a violation of the provisions of Article 17, Paragraph 1 of the Law.
+The specific content of the "acquisition process" varies depending on the content of personal data, the mode of provision to a third party, etc.
+It can be, but basically, it depends on the acquisition source (customer, employee, other personal information).
+Information handling business operators, private individuals such as family and friends, so-called public information, etc.), mode of acquisition (directly from the person)
+Obtained by contact, paid, obtained from so-called public information, or obtained by referral
+Or it was acquired as a private person, etc.).
+In addition, it is enough to confirm the background of acquisition by the "third party" who provided the personal data.
+There is no obligation to go back from there and confirm the acquisition process of the person who acquired it before the "third party".
+
+[Cases that correspond to the appropriate method]
+Example 1) If the provider purchases personal data from another person, confirm the sales contract, etc.
+How to recognize
+Case 2) When the provider directly obtains the personal data from the person in writing, etc.
+How to check etc.
+Case 3) Provider and recipient where the history of acquisition by the provider is explicitly or implicitly shown.
+How to check the contract document between
+Case 4) How to accept a document that the provider pledges to have the consent of the person
+Case 5) Background of acquisition in the purpose of use, terms, etc. published on the provider's homepage
+How to check the contents of the description when
+Case 6) How to confirm the consent document by the person
+
+3-1-3 Law compliance
+
+When receiving personal data from a business operator handling personal information, the recipient will receive the personal information.
+Compliance with the law of the handling business operator (for example, purpose of use, disclosure procedure, inquiry / complaint reception desk
+It is desirable to confirm (publication, etc.). In particular, opt from personal information handling business operators
+When receiving personal data provided by a third party provided by Out, the recipient shall be the individual concerned.
+It is necessary to record that the notification items of the information handling business operator are published by the Personal Information Protection Commission.
+It should be noted that this must be done (see “4-2-2 Recipient Records”).
+As a result of confirming the legal compliance status of the personal information handling business operator who is the provider, the personal information provided
+Providing the personal data, even though it is suspected that the data was not obtained legally
+If you receive the offer, it may be judged as a violation of the provisions of Article 17, Paragraph 1 of the Law.
+
+13
+
+Page 17
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+3-2 Confirmation method for third parties who have already confirmed (related to Article 15 of the Regulations)
+
+Rule Article 15 (Section 3)
+3
+
+Notwithstanding the provisions of the preceding two paragraphs, we have already received other personal data from a third party.
+Confirmation by the method prescribed in the preceding two paragraphs (Notes regarding the confirmation by the method prescribed in the next article)
+Only when creating and saving records. ) Is confirmed
+The method is the content of the matter and the content of the matters listed in each item of Article 26, Paragraph 1 of the Act relating to the provision.
+Is a method of confirming that they are the same.
+
+Rule Supplementary Provisions Article 4
+Of the matters stipulated in each item of Article 26, Paragraph 1 of the Law, the method stipulated in Article 15 before the enforcement date
+Confirm by an equivalent method (By a method equivalent to the method specified in Article 16 for the confirmation)
+Only when the record is created and saved. )
+In that case, Article 15, Paragraph 3 can be applied. In this case, in the same paragraph, "previous two paragraphs"
+"The method specified in" can be read as "the method equivalent to the method specified in the previous two paragraphs".
+To be.
+
+When the same "person"'s personal data is exchanged multiple times, the contents are the same.
+Since it is not rational to confirm the matters in duplicate, the method already stipulated in Article 15 of the Regulation (“3-1-1 No.
+Names and addresses of the three parties, and in the case of corporations, the names of their representatives "" 3-1-2 by the third party
+Confirmation by the method of acquisition of the personal data ”), and by the method stipulated in“ 4 Recording obligation ”
+The contents are the same as those recorded in the records created and saved at that time.
+It is possible to omit the confirmation of the relevant matter.
+Numbers for identifying specific individuals in laws and administrative procedures regarding the protection of personal information
+Act to partially revise the Act on Use, etc. (Act No. 65 of 2015. Hereinafter referred to as the "Amendment Act".
+U. The same applies to records created by a method equivalent to the method specified above before the enforcement date of).
+To do.
+For example, a business operator handling personal information has already fulfilled the confirmation / recording obligation from the same provider.
+If you receive personal data while recognizing that it is a business activity of, the name of the provider,
+"Confirmation that they are the same" has been carried out regarding the process of acquisition of the personal data.
+
+4 Obligation to record (related to Article 25, Paragraph 1 and Article 26, Paragraph 3 of the Law)
+
+14
+
+Page 18
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+4-1 How to create a record, etc.
+
+Law Article 25 (Paragraph 1)
+1 When a business operator handling personal information provides personal data to a third party (omitted), personal information protection
+According to the rules of the committee, the date on which the personal data was provided, and the name of the third party.
+You must make a record of your name or name and other matters stipulated by the rules of the Personal Information Protection Commission.
+Must be. (Omitted)
+
+Law Article 26 (Section 3)
+3
+
+When the business operator handling personal information confirms according to the provisions of Paragraph 1, the Personal Information Protection Committee
+In charge of the confirmation on the date when the personal data was provided, as stipulated in the rules of the committee.
+If you do not make a record of other matters specified by the rules of the Personal Information Protection Commission
+It doesn't become.
+
+4-1-1 Media for creating records (related to Article 12, Paragraph 1 and Article 16, Paragraph 1 of the Regulations)
+
+Rule Article 12 (Section 1)
+1 The method of creating the record of the same paragraph pursuant to the provision of Article 25, paragraph 1 of the Act is document, electromagnetic record or
+It is a method of making using a microfilm.
+
+Rule Article 16 (Section 1)
+1 The method of creating the record of the same paragraph pursuant to the provision of Article 26, paragraph 3 of the Act is document, electromagnetic record or
+It is a method of making using a microfilm.
+
+Businesses handling personal information record records in documents and electromagnetic records (electromagnetic method (electronic method, magnetic method)
+An expression or other method that cannot be recognized by human perception. ) Is a record made.
+same as below. (See Article 2, Paragraph 1, Item 1 of the Law) or must be prepared using microfilm.
+Not.
+
+4-1-2 How to make a record
+
+4-1-2-1 Principle (Regulation Article 12, Paragraph 2 and Article 16, Paragraph 2)
+
+Rule Article 12 (Section 2)
+
+15
+
+Page 19
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+2 The record of Article 25, Paragraph 1 of the Law is promptly created each time personal data is provided to a third party (omitted).
+Must be done. (Omitted)
+
+Rule Article 16 (Section 2)
+2 The record of Article 26, Paragraph 3 of the Law is promptly created each time personal data is provided by a third party.
+Must be done. (Omitted)
+
+As a general rule, personal information handling business operators promptly create records each time personal data is exchanged.
+There must be.
+It is also possible to create a record before giving or receiving personal data.
+In addition to the method of creating a record for each person individually, the records of multiple target persons are integrated.
+You can also create it.
+For information provided by opt-out to a third party, see "4-1-2-2 How to create records in a batch",
+"4-1-2-3 Method by alternative means such as contract" does not apply, so always follow the above principle
+A record must be made.
+
+4-1-2-2 How to create records in a batch (related to Article 12, Paragraph 2 and Article 16, Paragraph 2 of the Regulations)
+
+Rule Article 12 (Section 2)
+2 Providing personal data to the third party continuously or repeatedly (Article 23, Paragraph 2 of the Act)
+Excludes provision by regulation. The same shall apply hereinafter in this section. ) Or to the third party
+When it is expected that personal data will be provided continuously or repeatedly
+Records can be created in a batch.
+
+Rule Article 16 (Section 2)
+2 (Omitted) Provision of personal data from the third party continuously or repeatedly (Article 23, Article 2 of the Act)
+Excludes provisions under the provisions of the section. The same shall apply hereinafter in this article. ), Or the third
+Expected to be sure to receive personal data continuously or repeatedly from the person
+Records can be created all at once.
+
+When personal data is continuously or repeatedly exchanged with a specific business within a certain period of time
+Can create records in bulk instead of creating records for individual transfers.
+It does not apply to third parties provided by opt-out.
+In addition to the method of creating a record for each person individually, the records of multiple target persons are integrated.
+You can also create it.
+
+16
+
+Page 20
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+In addition, when creating a record by integrating the records of multiple persons, continuously or repeatedly
+Even when the person who composes the data group fluctuates in the middle of the period for which personal data is exchanged.
+You can also create records all at once.
+
+[Case corresponding to the method of creating records in a batch]
+Case 1) Personal data is continuously or repeatedly created after making a record at the time of the first transfer.
+How to create additional records at any time during the transfer period
+Case 2) Record monthly within the target period for continuously or repeatedly providing and receiving personal data.
+How to create
+Case 3) Immediately after the end of the target period for continuously or repeatedly giving and receiving personal data
+How to make a record
+
+An example of "when expected to be certain" is the continuous or repetitive transfer of personal data.
+By concluding a basic contract that includes what to do, personal data will be continuously or repeatedly thereafter.
+This is the case when it is expected that it will be provided. In this case, the basic contract
+It can be recorded with the contract pertaining to.
+Considering that the "method of creating records in a batch" is an exception to the method of creating records,
+It is desirable to clarify the target period, target range, etc.
+
+4-1-2-3 Method by alternative means such as contracts (related to Article 12, Paragraph 3 and Article 16, Paragraph 3 of the Regulations)
+
+Rule Article 12 (Section 3)
+3 Notwithstanding the provisions of the preceding paragraph, in accordance with the provisions of Article 23, Paragraph 1 of the Law or Article 24 of the Law, the person shall be addressed.
+Providing personal data related to the person concerned to a third party in connection with the provision of goods or services
+In some cases, in each item of paragraph 1 of the next article in the contract and other documents prepared for the provision.
+When the matters to be specified are described, the relevant matters in Article 25, Paragraph 1 of the Act shall be written in the relevant document.
+Can be replaced with a record of.
+
+Rule Article 16 (Section 3)
+3 Notwithstanding the provisions of the preceding paragraph, from a third party in connection with the provision of goods or services to the person
+When personal data related to the person is provided, it is created for the provision.
+If the contract or other document contains the matters specified in each item of paragraph 1 of the next article, the relevant matter
+It may be replaced in writing with a record relating to the matter in Article 26, Paragraph 3 of the Act.
+
+A business operator handling personal information concludes a contract related to the provision of goods or services to the person, and takes
+
+17
+
+Page 21
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+When the contract is fulfilled, the personal data of the other party to the contract is handled as the personal information.
+When providing to a third party from a vendor, use the contract or other document created at the time of the provision.
+Since it is possible to track the distribution of personal data, we have the contract and other documents.
+Can be recorded.
+It does not apply to third parties provided by opt-out.
+In addition to the method of creating a record for each person individually, the records of multiple target persons are integrated.
+You can also create it.
+Temporarily, a document or opt that does not meet the requirements of Rule 12 (3) or Rule 16 (3).
+Documents, etc. created when provided to a third party by out are also recorded if the recorded items are described.
+However, it is necessary to pay attention to the difference in storage period (see "4-3 Storage period").
+
+(1) "Provision of goods or services to the person"
+The provider or recipient or both the provider and the recipient "articles for the person or
+Including the case where it becomes the subject of "providing services".
+
+[Case where both the provider and the recipient are the main actors]
+Example) When a group company jointly provides services between a parent company and a subsidiary, the parent company
+Consent to consent to information sharing between subsidiaries
+
+In addition, in addition to the case where the contract is the basis for "providing goods or services to the person",
+Including cases based on laws and regulations.
+
+[Cases that correspond to the provision of goods or services to the person based on laws and regulations]
+Example) From the victim of an accident caused by the operation of a car, the Automobile Liability Security Law (Showa 30)
+Based on the Year Law No. 97), the perpetrator's car owner and car damage compensation
+Directly to insurance companies that have a liability insurance contract (so-called liability insurance)
+A claim right (victim claim right) is generated, and the insurance association is responsible for fulfilling the claim right.
+When the company pays the medical fee to the hospital where the victim receives medical treatment, the victim receives medical treatment from the hospital.
+When giving and receiving personal data (medical certificate, etc.) of the perpetrator
+
+(2) "Prepared for the provision (contract and other documents)"
+It is not prevented that multiple documents are combined into one record.
+In addition to contracts and other documents created when personal data is provided to a third party, this
+Contracts and other documents that make up the content of the personal data are also "prepared for the provision.
+It corresponds to the one that was "made".
+For example, according to "a contract or other document that constitutes the content of personal data", "the person's
+
+18
+
+Page 22
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+"Name and other matters sufficient to identify the person" and "Items of the personal data"
+If you have created a record of, for other matters, another "contract and other documents"
+A record will be created by "face".
+
+[Examples of contracts and other documents that make up the contents of personal data]
+Example) Money when a business operator transfers a monetary claim with the person as the debtor to a third party
+Contract for monetary claims
+
+(3) "Contract and other documents"
+Not only the contract created between the principal and the provider, but also between the provider and the recipient
+The created contract is also included.
+In addition to the "contract", "other documents" are created internally by the business operator handling personal information.
+The completed forms, record books, etc. are also included.
+In addition, since "contracts and other documents" include electromagnetic records (see Article 7, Paragraph 3 of the Regulations).
+Reference), records on the system, etc. also fall under "contracts and other documents".
+
+4-1-3 How to create a record on your behalf
+
+Provided in view of the fact that both the provider and the recipient have the same record creation method and retention period.
+The person (or recipient) shall substitute all or part of the recording obligation of the recipient (or provider).
+(It is necessary to pay attention to the difference between the records of the provider and the recipient). In addition, this
+Even in this case, the provider and the recipient are not exempt from their obligations.
+You have to build a system that is practically equivalent to the one that you are fulfilling your obligation to create records.
+I.
+In addition, the personal information handling business operator of the consignee is an individual with a third party within the scope of the purpose of the consignment contract.
+When data is exchanged, the contractor's personal information handling business operator primarily records the data.
+It is obligatory to create it, but the contractor's personal information handling business operator can create the record on your behalf.
+Wear.
+
+4-2 Recorded items
+
+4-2-1 Recorded items of the provider (related to Article 25, Paragraph 1 of the Law)
+
+Law Article 25 (Paragraph 1)
+
+19
+
+Page 23
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+1 When a business operator handling personal information provides personal data to a third party (omitted), personal information protection
+According to the rules of the committee, the date on which the personal data was provided, and the name of the third party.
+You must make a record of your name or name and other matters stipulated by the rules of the Personal Information Protection Commission.
+Must be. (Omitted)
+
+4-2-1-1 When providing to a third party by opt-out (Regulation Article 13, Paragraph 1, Item 1)
+
+Rule Article 13 (Section 1)
+1 Matters stipulated by the rules of the Personal Information Protection Commission in Article 25, Paragraph 1 of the Act are listed in the following items.
+The matters specified in each item shall be determined according to the classification of.
+(1) When personal data is provided to a third party pursuant to the provisions of Article 23, Paragraph 2 of the Act
+Matters listed up to d
+B. Date when the personal data was provided
+(B) The name or name of the third party and other matters sufficient to identify the third party (non-special)
+When it is provided to a fixed number of people, that fact)
+C. To identify the person's name and other personal information identified by the personal data.
+Sufficient matters
+D. Items of the personal data
+
+When a business operator handling personal information provides personal data to a third party by opt-out, the following
+The item must be recorded.
+
+(1) "Date of provision of the personal data"
+
+(2) "Name or name of the third party and other matters sufficient to identify the third party (unspecified and
+
+When it is provided to a large number of people, that fact) "
+
+[Cases provided to unspecified and large numbers of people]
+Case 1) Personal data is published on the Internet and can be viewed by an unspecified number of people.
+If you put it in
+Case 2) When selling a residential map
+
+(3) "Sufficient to identify the person's name and other persons identified by the personal data.
+Matters "
+
+20
+
+Page 24
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+[Other cases that correspond to matters sufficient to identify the person concerned]
+Example) When personal data is managed by assigning a number, ID, etc. to each person
+The number / ID when the person can be identified by the number / ID, etc.
+
+In the personal data actually provided, "To identify the person's name and other persons concerned
+If "sufficient matters" are included, the personal data itself may be saved.
+It is said that "the name of the person and other matters sufficient to identify the person" are recorded.
+You can also do it.
+In addition, for example, in the description such as "the person related to all personal information held by the Company", "the relevant person"
+It is understood that it is not enough to identify the person.
+
+(4) "Items of the relevant personal data"
+
+Case 1) Name, address, phone number, age
+Case 2) Name, product purchase history
+
+The personal data itself or a copy thereof, etc. that was actually provided is described in "Items of the personal data".
+It can also be recorded.
+In addition, for example, in the description such as "any information that our company has", "of the personal data"
+It is understood that it does not correspond to "item".
+
+4-2-1-2 When providing to a third party with the consent of the person (Regulation Article 13, Paragraph 1, Item 2)
+
+Rule Article 13 (Section 1)
+1 Matters stipulated by the rules of the Personal Information Protection Commission in Article 25, Paragraph 1 of the Act are listed in the following items.
+The matters specified in each item shall be determined according to the classification of.
+(1) (Omitted)
+(2)
+
+Place where personal data is provided to a third party pursuant to the provisions of Article 23, Paragraph 1 of the Law or Article 24 of the Law.
+Matters listed in the following a and b
+B. The consent of the person in Article 23, Paragraph 1 of the Law or Article 24 of the Law has been obtained.
+(B) Matters listed in the previous item (b) to (d)
+
+When a business operator handling personal information provides personal data to a third party based on the consent of the person, the following
+The item must be recorded.
+
+twenty one
+
+Page 25
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+(1) "The consent of the person in Article 23, Paragraph 1 of the Law or Article 24 of the Law has been obtained."
+As a typical example, the case where the consent of the person is stated in the contract or other documents is applicable.
+To
+In addition, consent is given in consideration of the business content of the personal information handling business operator, the mode of provision to a third party, etc.
+If there is a trail, etc. that explicitly or implicitly indicates the existence of
+It can also be a record of "getting the intention".
+For example, only when the consent of the person is obtained by setting the system of the business operator handling personal information.
+If it is to be provided to a third party, it indicates the existence of consent.
+There can be a trail.
+
+(2) "Name or name of the third party and other matters sufficient to identify the third party (unspecified and
+When it is provided to a large number of people, that fact) "
+See "4-2-1-1 Provision to a third party by opt-out (2)".
+
+(3) "Sufficient to identify the person's name and other persons identified by the personal data.
+Matters "
+See "4-2-1-1 Provided by a Third Party by Opt-out (3)".
+
+(4) "Items of the relevant personal data"
+See "4-2-1-1 Provided by a Third Party by Opt-out (4)".
+
+<Recorded items of the provider>
+Proposal
+Offer
+
+Book
+
+three
+
+Man
+
+Person
+Year
+
+Mr
+
+Day
+
+Mr
+
+Ta
+
+etc
+
+etc
+
+With the consent of the person
+
+○
+
+Provided by a third party
+
+Man
+
+De
+-
+
+Name
+
+Book
+
+Man
+
+of
+
+Name
+
+○○
+
+Provided by a third party
+
+Individual
+
+of
+
+Month
+
+By opt-out
+
+No.
+
+of
+
+of
+
+same
+
+Term
+Eye
+
+○
+
+○
+
+○
+
+○
+
+Will
+
+○
+
+twenty two
+
+Page 26
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+4-2-2 Recipient's record items (related to Article 26, Paragraph 3 of the Act)
+
+Law Article 26 (Section 3)
+3
+
+When the business operator handling personal information confirms according to the provisions of Paragraph 1, the Personal Information Protection Committee
+In charge of the confirmation on the date when the personal data was provided, as stipulated in the rules of the committee.
+If you do not make a record of other matters specified by the rules of the Personal Information Protection Commission
+It doesn't become.
+
+4-2-2-1 When receiving a third party provision by opt-out (Regulation Article 17, Paragraph 1, Item 1)
+
+Rule Article 17 (Section 1)
+1 Matters stipulated by the rules of the Personal Information Protection Commission in Article 26, Paragraph 3 of the Act are listed in the following items.
+The matters specified in each item shall be determined according to the classification of.
+(1) Received personal data provided by a business operator handling personal information pursuant to the provisions of Article 23, Paragraph 2 of the Act.
+In the case of the following items from a to e
+B. Date of receiving personal data
+(B) Matters listed in each item of Article 26, Paragraph 1 of the Act
+C. To identify the person's name and other personal information identified by the personal data.
+Sufficient matters
+D. Items of the personal data
+(E) It is announced pursuant to the provisions of Article 23, Paragraph 4 of the Act.
+
+When a business operator handling personal information receives personal data provided by a third party by opt-out, the following
+Items must be recorded.
+
+(1) "Date of receiving the personal data"
+
+(2) "In the case of the name or address of the third party and the corporation, its representative (not a corporation)
+In the case of an organization with a designated representative or manager, the representative or manager)
+Name"
+As "Matters listed in each item of Article 26, Paragraph 1 of the Law", "Name of the third party concerned" in Item 1 of the same paragraph
+Or, in the case of a name and address and a corporation, its representative (a representative of a non-corporate organization or
+If there is a stipulation of the caretaker, the name of the representative or caretaker) must be recorded.
+Must be.
+
+twenty three
+
+Page 27
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+(3) "Background of acquisition of the personal data by the third party"
+As "Matters listed in each item of Article 26, Paragraph 1 of the Act", "Matters by the third party concerned" in Item 2 of the same paragraph
+The process of acquisition of the personal data "must be recorded.
+For details on "Background of acquisition", see "3-1-2 History of acquisition of personal data by a third party".
+checking ...
+Specifically, record the specific details of the acquisition process confirmed based on Article 26, Paragraph 1 of the Act.
+In addition to the method of doing so, save the contract and other documents that show the details of the acquisition that was confirmed.
+There is a way to do it.
+
+(4) "Sufficient to identify the person's name and other persons identified by the personal data.
+Matters "
+See "4-2-1-1 Provided by a Third Party by Opt-out (3)".
+
+(5) "Items of the personal data"
+See "4-2-1-1 Provided by a Third Party by Opt-out (4)".
+
+(6) "The fact that it has been announced by the Personal Information Protection Commission"
+Opt-out from a business operator handling personal information that has not been announced by the Personal Information Protection Commission
+If personal data is provided by G, it will be obtained by fraudulent means (Article 17, Article 1 of the Act).
+Item).
+
+4-2-2-2 When receiving a third party based on the consent of the person (related to Article 17, Paragraph 1, Item 2 of the Regulations)
+
+Rule Article 17 (Section 1)
+1 Matters stipulated by the rules of the Personal Information Protection Commission in Article 26, Paragraph 3 of the Act are listed in the following items.
+The matters specified in each item shall be determined according to the classification of.
+(1) (Omitted)
+(2)
+
+Personal information handling business operator's personal day according to the provisions of Article 23, Paragraph 1 of the Law or Article 24 of the Law
+If you receive the provision of data, the matters listed in the following a and b
+B. The consent of the person in Article 23, Paragraph 1 of the Law or Article 24 of the Law has been obtained.
+(B) Matters listed in the previous item (b) to (d)
+
+(3) (Omitted)
+
+When a business operator handling personal information receives personal data from a third party based on the consent of the individual,
+The following items shall be recorded.
+
+twenty four
+
+Page 28
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+(1) "The consent of the person in Article 23, Paragraph 1 of the Law or Article 24 of the Law has been obtained."
+See "4-2-1-2 Provision to a third party with the consent of the person (1)".
+
+(2) "In the case of the name or address of the third party and the corporation, its representative (in the corporation)
+If there is no organization and a representative or manager is stipulated, the representative or jurisdiction
+Name of the person) "
+See "4-2-2-1 When receiving a third party offer by opt-out (2)".
+
+(3) "Background of acquisition of the personal data by the third party"
+See "4-2-2-1 When receiving a third party offer by opt-out (3)".
+
+(4) "To identify the person's name and other persons identified by the personal data"
+Sufficient matters "
+See "4-2-1-1 Provided by a Third Party by Opt-out (3)".
+
+(5) "Items of the personal data"
+See "4-2-1-1 Provided by a Third Party by Opt-out (4)".
+
+4-2-2-3 When receiving a third party from a private person (related to Article 17, Paragraph 1, Item 3 of the Regulations)
+
+Rule Article 17 (Section 1)
+Matters stipulated by the rules of the Personal Information Protection Commission in Article 26, Paragraph 3 of the Act are listed in the following items.
+The matters specified in each item shall be determined according to the classification of.
+(1) (2) (Omitted)
+(3) Receive the provision of personal data from a third party (excluding those who fall under the category of business operators handling personal information)
+In the case of digits Items listed in No. 1 (b) to (d)
+
+A business operator handling personal information is another business operator handling personal information or a person listed in each item of Article 2, Paragraph 5 of the Act.
+(Refer to "2-1-3 When a third party is a person listed in each item of Article 2, Paragraph 5 of the Act")
+When receiving personal data, the following items must be recorded.
+
+(1) "In the case of the name or address of the third party and the corporation, the representative (not the corporation)
+In the case of an organization with a designated representative or manager, the representative or manager)
+Name "
+
+twenty five
+
+Page 29
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+See "4-2-2-1 When receiving a third party offer by opt-out (2)".
+
+(2) "Background of acquisition of the personal data by the third party"
+See "4-2-2-1 When receiving a third party offer by opt-out (3)".
+
+(3) "Foot to identify the person's name and other persons identified by the personal data.
+Matters "
+Refer to "4-2-1-1 When providing to a third party by opt-out (3)".
+
+(4) "Items of the relevant personal data"
+Refer to "4-2-1-1 When providing to a third party by opt-out (4)".
+
+<Recipient's record items>
+Proposal
+Offer
+To
+Vedanā
+Ke
+Ta
+Year
+Month
+Day
+By opt-out
+
+No.
+
+Tori
+
+three
+
+Gain
+
+Person
+of
+
+of
+
+Mr
+
+Sutra
+
+Name
+etc
+
+Latitude
+
+Book
+Man
+of
+Mr
+Name
+etc
+
+Individual
+To IndividualBook
+Man
+Man
+Yo Emotion Man
+De
+Information
+Ru Protect of
+Ta
+Mamoru
+of
+publicCommission
+same
+Term
+Member
+Eye
+table Meeting Will
+
+○○○○○○
+
+Provided by a third party
+With the consent of the person
+
+○○○○
+
+Provided by a third party
+From private people etc.
+
+○
+
+○○○○
+
+Provided by a third party
+
+4-2-3 Omission of recorded items (related to Article 13, Paragraph 2 and Article 17, Paragraph 2 of the Regulations)
+
+Rule Article 13 (Section 2)
+2 Of the matters stipulated in each item of the preceding paragraph, Article 25 of the Act already prepared by the method stipulated in the preceding article
+It must be recorded in the record in paragraph 1 (limited to the case where the record is saved).
+If the content is the same as that of the item, the record of the item in Article 25, Paragraph 1 of the Act is omitted.
+be able to.
+
+Rule Article 17 (Section 2)
+
+26
+
+Page 30
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+2 Of the matters specified in each item of the preceding paragraph, Article 26, Article 26 of the Act, which has already been prepared by the method specified in the preceding article.
+Matters recorded in the record of paragraph 3 (limited to the case where the record is kept)
+For items with the same content, omit the record of the relevant item in Article 26, Paragraph 3 of the Act.
+Can be done.
+
+Rule Supplementary Provisions Article 3
+Of the matters stipulated in Article 13, Paragraph 1, it corresponds to the method stipulated in Article 12 before the enforcement date.
+The record (limited to the case where the record is saved) is created by the above method.
+The provisions of Article 13, Paragraph 2 can be applied to. In this case, the same
+In the section, "the method prescribed in the preceding article" is read as "the method equivalent to the method prescribed in the preceding article".
+It shall be replaced.
+
+Rule Supplementary Provisions Article 5
+Of the matters stipulated in Article 17, Paragraph 1, it corresponds to the method stipulated in Article 16 before the enforcement date.
+The record (limited to the case where the record is saved) is created by the above method.
+Article 17, Paragraph 2 can be applied to. In this case, in the same paragraph, "Before
+The term "method prescribed in the article" can be read as "method equivalent to the method prescribed in the preceding article."
+To be.
+
+When the same "person"'s personal data is exchanged multiple times, the contents are the same.
+Since it is not necessary to record duplicate matters, it is clarified to that effect. That is,
+Records already created by the method specified in "4 Obligation to record" (limited to the case where they are actually saved)
+If the content is the same as the item recorded in, the record of the item may be omitted.
+it can.
+The same applies to records created by a method equivalent to the method specified above before the enforcement date of the revised law.
+To be like.
+Since the contents of the recorded items must be the same, for example, even if they are the same corporation, the representative
+In the scene where the record is created after the change, the name of the new representative must be recorded again.
+Must be.
+In addition, among the recorded items, the creation of records of some items should be made in Article 13, Paragraph 2 of the Regulations or Article 17 of the Regulations.
+If omitted based on Section 2 and only the record of the remaining items is created, the retention period of the entire record
+The starting point of is the time when the remaining items are created. For the storage period, refer to "4-3 Storage period".
+See.
+
+27
+
+Page 31
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+4-3 Retention period (related to Article 25, Paragraph 2 and Article 26, Paragraph 4 of the Law)
+
+Law Article 25 (Paragraph 2)
+2 The business operator handling personal information keeps the record set forth in the preceding paragraph from the date when the record is created by the Personal Information Protection Committee.
+It must be retained for the period specified by the rules of the committee.
+
+Rule Article 14
+The period specified by the rules of the Personal Information Protection Commission in Article 25, Paragraph 2 of the Act is the place listed in each of the following items.
+The period shall be the period specified in each item according to the classification.
+(1)
+
+When a record is created by the method specified in Article 12, Paragraph 3 Finally, in the record
+From the date of providing such personal data to the date when one year has passed from the date of provision
+
+(2)
+
+When a record is created by the method specified in the proviso of Article 12, Paragraph 2 Finally
+From the date when the personal data related to the record is provided to the date when three years have passed from the date of provision.
+Between
+
+(3) 3 years except for the previous two issues
+
+Law Article 26 (Section 4)
+4 The business operator handling personal information keeps the record set forth in the preceding paragraph from the date when the record is created by the Personal Information Protection Committee.
+It must be retained for the period specified by the rules of the committee.
+
+Rule Article 18
+The period specified by the rules of the Personal Information Protection Commission in Article 26, Paragraph 4 of the Act is the place listed in each of the following items.
+The period shall be the period specified in each item according to the classification.
+(1)
+
+When a record is created by the method prescribed in Article 16 Paragraph 3 Finally, in the record
+From the date when the personal data is provided to the date when one year has passed.
+
+(2)
+
+When a record is created by the method specified in the proviso of Article 16 Paragraph 2 Finally
+From the date when the personal data related to the record is provided to the date when three years have passed from the date
+Between
+
+(3) 3 years except for the previous two issues
+
+The business operator handling personal information must retain the created record for the period specified by the rules.
+The retention period depends on the method of creating the record. Specifically, it is as shown in the following table.
+If multiple records of the target person are created as a unit, the retention period will be for each record.
+It may be different for each.
+
+28
+
+Page 32
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+<Retention period>
+Another way to create a record
+
+Retention period
+
+"4-1-2-3 By alternative means such as contracts
+
+Finally, provide personal data related to the record
+
+When a record is created by "method"
+
+Until the day when one year has passed since the day you went
+Between
+
+"4-1-2-2 Those who create records in a batch
+
+Finally, provide personal data related to the record
+
+When a record is created by the law
+
+Until the day when three years have passed since the day you went
+Between
+
+Other than the above
+
+3 years
+
+29
+
+Page 33
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+【appendix】
+
+○ Ancillary resolution by the Cabinet Committee of the House of Representatives (May 20, 2015)
+1-3 (omitted)
+4 Regarding obligations such as creating records related to provision to third parties, while ensuring the purpose and effectiveness
+Take great care not to put an excessive burden on the business operator, and deal with malicious business operators.
+As for the measures, it is effective after conducting a fact-finding survey so as not to impose an excessive burden on general businesses.
+Take appropriate measures.
+(Omitted below)
+
+○ Ancillary resolution by the Cabinet Committee of the House of Councilors (August 27, 2015)
+1-3 (omitted)
+4 Regarding obligations such as creating records related to provision to third parties, while ensuring the purpose and effectiveness
+Pay sufficient attention not to put an excessive burden on the business operator.
+(Omitted below)
+
+30
+
+Page 34
+
+Personal Information Protection Law Guidelines (Obligation to Confirm and Record)
+
+<Overview of confirmation / recording obligations>
+Provide personal data
+
+Receive personal data
+
+Business operator handling personal information
+
+Business operator handling personal information
+
+Is the confirmation / recording obligation exempted in the clear text?
+("2-1 Provided by a third party to whom the obligation to confirm and record is not clearly stated")
+
+To the provider / recipient
+Confirmation / recording obligation
+Not applicable.
+
+Is the confirmation / recording obligation exempt from interpretation?
+("2-2-1 When the confirmation / recording obligation does not apply to the provider and recipient")
+
+For the recipient
+Does it correspond to "personal data"?
+("2-2-2-1 Law Article 26
+To the recipient
+
+Applicability of "personal data" ")
+
+Confirmation / recording obligation
+Not applicable.
+To "receive personal data"
+Doesn't it apply?
+("2-2-2-2" To receive the offer
+By the way, "")
+
+Contracts, etc.
+Is it provided to a third party based on a contract, etc. in which the person is involved?
+By alternative means
+("4-1-2-3 Method by alternative means such as contract")
+Creating a record
+
+Is it a repetitive and continuous third party offer?
+
+All at once
+
+("4-1-2-2 How to create records in a batch")
+
+Creating a record
+
+Is it provided to a third party based on the consent of the person?
+"4-2-1-2 When providing to a third party with the consent of the person"
+"4-2-2-2 When receiving a third party offer based on the consent of the person"
+
+Based on the consent of the person
+If provided by a third party
+Simple record items
+
+YES YES
+Obligation to confirm and record according to the principle is applied.
+
+NO
+
+31
+
+

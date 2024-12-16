@@ -1,0 +1,934 @@
+Page 1
+
+DECREE NUMBER 47-2008
+THE CONGRESS OF THE REPUBLIC OF GUATEMALA
+
+CONSIDERING:
+That the State as responsible for the common good must maintain, reinforce and apply policies and actions
+that allow greater participation in the dynamics and benefits of free economic and social development,
+modernization, economic processes without obstacles or artificial obstacles, as well as the insertion of the
+country in the streams of global progress in a sustainable and equitable way.
+
+CONSIDERING:
+That the massive immersion of technology in our society is a reality that we cannot ignore and
+therefore, traditional concepts and visions of the physical world should be reviewed to adapt them to the current
+context of the digital world.
+
+CONSIDERING:
+That the promotion of electronic commerce in all its aspects requires legislation whose
+The foundation is, among others, the facilitation of electronic commerce within and beyond the
+national borders, the validation, promotion and stimulation of operations carried out through the
+new information technologies based on the autonomy of will and support for the
+new commercial practices, taking into account technological neutrality at all times.
+
+CONSIDERING:
+That integration to global electronic commerce requires the adoption of technical instruments and
+based on models of international legislation that seek the standardization of this branch
+of so specialized law, and that legal and technical security should be given to hiring,
+communications and electronic signatures by indicating the functional equivalence to these
+latest for paper documents and handwritten signatures.
+
+THEREFORE:
+In exercise of the attributions conferred by letter a) of article 171 of the Political Constitution of the
+Republic,
+
+DECREE:
+The next:
+
+LAW FOR THE RECOGNITION OF THE
+COMMUNICATIONS AND ELECTRONIC SIGNATURES
+
+Page 2
+
+TITLE I
+ELECTRONIC COMMERCE IN GENERAL
+CHAPTER I
+GENERAL DISPOSITION
+ARTICLE 1. Scope of application.
+This law will be applicable to all types of electronic communication, transaction or legal, public act
+or private, national or international, except in the following cases:
+
+a) In the obligations contracted by the State by virtue of International Agreements or Treaties.
+b) In the written warnings that by legal provision must necessarily be printed in a certain type
+of products due to the risk involved in their commercialization, use or consumption.
+
+The State and its institutions are expressly empowered to use communications and
+electronic signatures.
+In transactions and acts carried out exclusively between private subjects and that do not affect rights
+of third parties, the parties may agree to the application of the mechanisms provided for in this law or
+any other alternatives they wish to ensure the authenticity and integrity of their
+electronic communications.
+The provisions contained in this law shall be applied without prejudice to the regulations relating to the
+celebration, formalization, validity and effectiveness of contracts and other legal acts; the regime
+legal applicable to obligations; and the obligations established for merchants by the
+current legislation.
+The rules on the presentation of electronic signature certification services included in this law,
+They do not replace or modify those that regulate the functions that correspond to people
+empowered, in accordance with the law, to attest to the signature on documents or to intervene in their elevation
+to audiences.
+
+ARTICLE 2. Definitions.
+For the purposes of this law, it will be understood as:
+Certificate: Any data message or other record that confirms the link between a signer and the data
+signature creation, usually issued by a third party other than the originator and recipient.
+Electronic Commerce: Covers the issues raised by any relationship of a commercial nature, whether or not
+contractual, structured from the use of one or more electronic communications or
+any other similar means. Relations of a commercial nature include, but are not limited to, the
+following operations: any commercial operation for the supply or exchange of goods or services; everything
+Distribution agreement; any representation operation or commercial mandate; all kinds of operations
+financial, including factoring and the leasing of capital goods with an option to buy; from
+construction of works; consulting; engineering; licensing; investment; from
+financing; banking; insurance; of any agreement for the concession or exploitation of a public service; from
+joint venture and other forms of industrial or commercial cooperation; transportation of goods or
+passengers by air, sea and rail, or by road.
+Communication: Any exposure, statement, claim, notice or request, including an offer and the
+acceptance of an offer, which the parties have to make or decide to make in connection with the training or
+fulfillment of a contract.
+
+Page 3
+
+Electronic Communication: All communication that the parties make through data messages.
+
+Signature creation data : the unique data, such as private cryptographic codes or keys, that the
+Signer used to create the electronic signature.
+Recipient: The party designated by the initiator to receive the electronic communication, but not
+is acting as an intermediary with respect to that electronic communication.
+Chronological Stamping: Electronic communication signed by a certification body that serves
+to verify that other electronic communication has not changed in a period beginning on the date
+and time when the service is provided and ends on the date and time when the communication is signed
+Electronic generated by the stamping service provider loses validity.
+Electronic Signature: The data in electronic form consigned in an electronic communication, or
+attached or logically associated with it, which can be used to identify the signer with
+relation to electronic communication and indicate that the signer approves the information collected in the
+electronic communication.
+Advanced Electronic Signature: The electronic signature that meets the following requirements:
+
+to.
+To be
+linked
+to the
+signatory
+b.
+Allow
+the
+ID
+c. Have been created using the means that the signer can keep under his exclusive control;
+d. Be linked to the data to which it refers, so that any subsequent change in them is
+detectable.
+
+from
+
+way
+of
+
+only;
+signatory;
+
+Signatory: The person who owns the signature creation data and who acts on his or her own behalf or on behalf of the
+person he represents.
+Initiator: Any party that has acted on its own behalf or on whose behalf it has acted to send or
+generate an electronic communication before being archived, if that is the case, but that there is no
+acted as an intermediary with respect to that electronic communication.
+Electronic Data Interchange (EDI): The electronic transmission of information from a computer
+to another, the information being structured in accordance with some technical standard agreed for this purpose.
+Intermediary: In relation to a certain electronic communication, any person shall be understood
+who, acting on behalf of another, send, receive or archive said electronic communication or provide any
+another service regarding him.
+Data Message: The document or information generated, sent, received or filed by means
+electronic, magnetic, optical or similar, such as, among others, Electronic Exchange
+Data (IED), electronic mail, telegram, telex or telefax.
+Relying party: The person who can act on the basis of a certificate or signature
+electronics.
+Certification Services Provider: It will be understood the entity that issues certificates and can
+provide other services related to electronic signatures.
+Headquarters or place of the commercial establishment: Any place where a party maintains a
+non-temporary operations center to carry out an economic activity other than temporary supply
+of goods or services from a certain place.
+Automated Message System: Any computer program or an electronic medium or some other
+automated means used to initiate an action or to respond to operations or messages of
+data, that I acted, totally or partially, without a natural person having to intervene or review the action
+every time an action is initiated or the system generates a response.
+
+Page 4
+
+Information System: Any system that serves to generate, send, receive; archive or process from
+some other form of electronic communications.
+
+ARTICLE 3. Interpretation.
+In the interpretation of this law, its international origin, the need for
+to promote uniformity in its application and to ensure the observance of good faith, both in the
+national and international trade.
+The questions related to matters that are governed by this law and that are not expressly
+resolved in it, they will be settled in accordance with the general principles on which it is inspired.
+
+ARTICLE 4. Modification by mutual agreement.
+Unless otherwise provided, the way in which the relationships between the parties that
+generate, send, receive, file or otherwise process electronic communications, they may
+be modified by mutual agreement between the parties. In case of no agreement, they will be understood
+formalized in accordance with the provisions of Chapter III of Title I of this Law.
+
+CHAPTER II
+APPLICATION OF LEGAL REQUIREMENTS TO COMMUNICATIONS
+ELECTRONICS
+ARTICLE 5. Legal recognition of electronic communications.
+Legal effects, validity or binding force will not be denied to a communication or a contract by the
+single reason that communication or that contract is in the form of electronic communication.
+Nothing in this law shall make a party obliged to use or accept information in
+form of electronic communication, but your agreement in this regard may be inferred from your conduct. A) Yes
+Likewise, nothing in the provisions of this law shall oblige a communication or a contract to have
+to be done or tested in some particular way.
+
+ARTICLE 6. Incorporation by Referral.
+Unless otherwise agreed between the parties, when a referral is made in an electronic communication
+total or partial to directives, norms, standards, agreements, clauses, conditions, any information or
+easily accessible terms with the intention of incorporating them as part of the content or making them
+legally binding, those terms are presumed incorporated by reference to that
+electronic communication. Between the parties and in accordance with the law, these terms will be legally valid
+as if they had been fully incorporated into electronic communication.
+
+Page 5
+
+ARTICLE 7. Written.
+When any legal norm requires that information, communication or a contract consist of
+written, on paper or in any physical medium, or foresee consequences in the event that this is not
+complies, an electronic communication will fulfill that requirement if the information consigned in its text is
+accessible for further consultation.
+
+ARTICLE 8. Signature.
+When any legal norm requires that a communication or a contract be signed by a party,
+or foresee consequences in the event that it is not signed, that requirement will be considered fulfilled with respect to
+an electronic communication:
+a) If a method is used to determine the identity of that party and to indicate the will that such party has
+part regarding the information consigned in the electronic communication; Y,
+
+b) If the method used:
+1. It is reliable and appropriate for the purposes for which the communication was generated or transmitted
+electronic, taking into account all the circumstances of the case, including any applicable agreement; or if,
+
+2. It has been shown in practice that, by itself or with the support of other evidence, this method
+It fulfills the functions set forth in subparagraph a) of this article.
+
+ARTICLE 9. Original.
+When any legal norm requires that a communication or a contract be provided or kept
+in its original format, or foresee consequences in the event that this is not fulfilled, that requirement is
+will have as fulfilled with respect to an electronic communication:
+a) If there is any reliable guarantee of the integrity of the information it contains, from the moment
+that was generated for the first time in its final form, both in electronic communication and in other
+nature; Y,
+b) If, in cases where it is required to provide the information it contains, it can be displayed to the
+person to whom it is to be provided.
+
+ARTICLE 10. Integrity of an electronic communication.
+For the purposes of article 9 above, it will be considered that the information consigned in a communication
+electronics is complete, if it meets the following criteria:
+a) This has been kept complete and without alterations other than the addition of an endorsement or any
+change that occurs in the normal course of transmission, filing or presentation; Y,
+
+b) The degree of reliability required will be determined taking into account the purpose for which the
+information, as well as all the circumstances of the case.
+
+Page 6
+
+ARTICLE 11. Admissibility and probative force of electronic communications.
+Electronic communications will be admissible as evidence. Efficacy will not be denied,
+validity or mandatory and probative force in all administrative, judicial or private actions to all types of
+information in the form of electronic communication, for the sole fact that it is a communication
+electronic, nor by reason of not having been presented in its original form.
+
+ARTICLE 12. Criteria for evaluating an electronic communication probatively.
+All information presented in the form of electronic communication will enjoy the due evidentiary force.
+in accordance with the criteria recognized by the legislation for the assessment of the evidence. When valuing
+the probative force of a data message must be taken into account the reliability of the way in which
+the message has been generated, archived or communicated; the reliability of the way it has been
+preserved the integrity of the information; the way in which its initiator and any others are identified
+relevant factor.
+
+ARTICLE 13. Conservation of electronic communications.
+When any legal norm requires that certain documents, records or information be
+conserved, this requirement will be satisfied by the conservation of the communications
+electronic, provided that the following conditions are met:
+a) That the information they contain is accessible for later consultation;
+b) That the electronic communication be kept in the format in which it was generated, sent or
+received or in a format that allows demonstrating that it accurately reproduces the information generated,
+sent or received; Y,
+c) To keep, if any, all information or data that allows determining the origin, destination
+of the message, the date and time it was sent or received.
+The documents, records or information that it has will not be subject to the obligation of conservation.
+for the sole purpose of facilitating the sending or receiving of electronic communication. Books and papers
+They may be kept in any technological medium that guarantees their exact reproduction.
+
+ARTICLE 14. Conservation of data messages and document filing through third parties.
+Compliance with the obligation to keep documents, records or information in communications
+electronic, it may be done directly or through third parties, as long as the
+conditions stated in the previous article.
+
+Page 7
+
+CHAPTER III
+ELECTRONIC COMMUNICATIONS AND FORMATION OF CONTRACTS THROUGH
+ELECTRONIC MEDIA
+ARTICLE 15. Formation and validity of contracts.
+In the formation of a contract by individuals or public entities, unless expressly agreed between the
+parties, the offer and its acceptance may be expressed through electronic communication. Not
+validity or binding force will be denied to a contract for the sole reason of having been used in its formation
+one or more electronic communications.
+
+ARTICLE 16. Acknowledgment of electronic communications by the parties.
+In the relations between the initiator and the recipient of an electronic communication, they will not be denied
+legal effects, validity or binding force to a manifestation of will or other declaration by the
+single reason for having been done in the form of electronic communication.
+
+ARTICLE 17. Attribution of an electronic communication.
+It will be understood that an electronic communication comes from the initiator, if it has been sent by the initiator himself.
+initiator.
+In the relations between the initiator and the recipient, it will be understood that an electronic communication
+comes from the initiator if it has been sent:
+a) By any person empowered to act on behalf of the initiator with respect to such communication; or,
+b) By an information system programmed by the initiator or on his behalf to operate
+automatically.
+
+ARTICLE 18. Presumption of the origin of an electronic communication.
+In relations between the initiator and the recipient, the recipient shall have the right to consider that a
+Electronic communication comes from the initiator, and to act accordingly, when:
+a) To verify that the communication came from the initiator, the recipient has applied
+suitably a procedure previously accepted by the initiator for that purpose; or,
+b) The electronic communication received by the addressee results from the acts of a person whose
+relationship with the initiator, or with any representative of his, has given him access to a method used by
+the initiator to identify an electronic communication as its own.
+What is expressed in this article will not apply from the moment the recipient has been
+informed by the initiator that the electronic communication did not come from the initiator and has had
+a reasonable time to act accordingly; or, in the cases provided for in literal b) of this article,
+from the moment the recipient knows, or should have known, of having acted with due diligence
+or having applied some agreed method, that the electronic communication did not come from the initiator.
+
+Page 8
+
+ARTICLE 19. Concordance of the electronic communication sent with the communication
+received electronics.
+Whenever an electronic communication comes from the initiator or is understood to come from him, or
+provided that the addressee has the right to act in accordance with this assumption, in the relations between the
+initiator and recipient, the latter shall have the right to consider that the electronic communication
+received corresponds to the one the initiator wanted to send, and may proceed accordingly.
+The recipient will not enjoy this right if he knew, or would have known, if he had acted appropriately.
+diligence or having applied an agreed method, that the transmission had resulted in an error in
+electronic communication received.
+The recipient will have the right to consider that each electronic communication received is a
+separate electronic communication and by acting accordingly, except to the extent duplicated by another
+electronic communication, and that the addressee knows, or should know of having acted with the due
+diligence or having applied an agreed method, that the new electronic communication was a
+duplicate.
+
+ARTICLE 20. Acknowledgment of receipt.
+If when sending or before sending an electronic communication, the initiator requests or agrees with the
+recipient who acknowledges receipt of the electronic communication, but has not agreed between them a
+determined form or method to carry it out, receipt may be acknowledged by:
+a) Any communication from the recipient, automated or not; or,
+
+b) Any act of the addressee that is sufficient to indicate to the initiator that the communication has been received
+electronics.
+When the initiator has indicated that the effects of electronic communication will be conditional on
+upon receipt of an acknowledgment of receipt, the electronic communication shall be deemed not to have been sent in
+so much so that the acknowledgment of receipt has not been received.
+
+ARTICLE 21. Lack of Acknowledgment of Receipt.
+In accordance with the previous article, when the initiator has not indicated that the effects of the message
+of data will be conditional on the receipt of an acknowledgment of receipt, if you have not received an acknowledgment within the deadline
+fixed or agreed or no term has been fixed or agreed, within a period of five days the initiator
+may:
+a) Notify the addressee that they have not received acknowledgment of receipt and set a reasonable period for its
+reception; Y,
+b) If you do not receive an acknowledgment within the period set in accordance with literal a) above, you may, giving notice of it to the
+recipient, consider that the electronic communication has not been sent or exercise any other
+right you may have.
+
+Page 9
+
+ARTICLE 22. Presumption of receipt of an electronic communication.
+When the initiator receives acknowledgment from the recipient, it shall be presumed that the recipient has received the
+corresponding electronic communication.
+
+This presumption will not imply that the electronic communication corresponds to the message received. When
+the acknowledgment of receipt indicates that the electronic communication received meets the requirements
+technicians agreed or enunciated in any applicable technical standard, it will be presumed that this is the case.
+
+ARTICLE 23. Legal effects.
+Except for the sending or receiving of electronic communications, articles 21 and 22, do not
+obey the purpose of governing the legal consequences that may arise from that communication
+electronic or your acknowledgment of receipt. The legal consequences of electronic communications are
+They will govern in accordance with the rules applicable to the act or legal business contained in said data message.
+
+ARTICLE 24. Time and place of sending and receiving electronic communications.
+If the initiator and the recipient do not agree otherwise, the electronic communication will be considered as:
+a) Issued: the moment it leaves an information system that is under the control of the
+initiator or the party sending it on behalf of the initiator or, if the electronic communication has not come from a
+information system that is under the control of the initiator or the party sending it on his behalf,
+at the time that communication is received.
+b) Received: at the time it can be retrieved by the recipient at an electronic address
+that he has designated. Electronic communication will be considered received at another electronic address
+of the recipient at the time it can be retrieved by the recipient at that address and in the
+moment in which the recipient becomes aware that this communication has been sent to said
+direction. It will be presumed that an electronic communication can be obtained by the addressee in the
+moment in which it arrives at the electronic address of this one.
+c) The electronic communication will be considered issued in the place where the initiator has its
+establishment and received in the place where the recipient has his, as determined in
+function of the provisions of this law.
+d) Paragraph b) of this article will be applicable even when the information system that serves as
+support to the electronic address is located in a place other than the one in which it is considered received
+the communication by virtue of literal c) of this article.
+
+ARTICLE 25. Invitations to present offers.
+Any proposal to enter into a contract submitted through one or more communications
+electronic, which is not directed to one or more specific parties, but is generally
+accessible to any party that makes use of information systems, as well as any proposal that makes
+use of interactive applications to place orders through such systems, it will be considered a
+invitation to tender, unless clearly indicates the intention of the party submitting the
+proposal to be bound by your offer if it is accepted.
+
+Page 10
+
+ARTICLE 26. Use of automated message systems for the formation of a contract.
+No validity or binding force shall be denied to a contract that has been formed by the interaction between a
+automated message system and a natural person, or by the interaction between systems
+automated messages, for the simple reason that no natural person has reviewed each one
+of the different acts carried out through the systems or the contract resulting from such acts nor has
+intervened in them.
+
+ARTICLE 27. Availability of contractual conditions.
+Nothing in the present law will affect the application of any rule of law by which
+oblige a party to negotiate some or all of the conditions of a contract by exchanging
+of electronic communications to be made available to the other contracting party, as determined
+way, electronic communications that contain the conditions of the contract, nor will it exempt a
+part that does not do so of the legal consequences of not having done so.
+
+ARTICLE 28. Error in electronic communications.
+When a natural person makes a mistake when entering the data of an electronic communication
+exchanged with another party's automated message system and that system does not provide you with the
+opportunity to correct the error, that person, or the party on whose behalf that person acted, will have
+Right to withdraw the part of the electronic communication in which said error occurred, if:
+a) The person, or the party on whose behalf that person acted, notifies the other party of the error as
+as soon as possible after you are aware of it and indicate that you have committed it; what if,
+b) The person, or the party on whose behalf that person has acted, has not used goods or services or
+you have obtained any material benefit or value from the goods or services, if any, that you have received
+Of the other part.
+Nothing in this article will affect the application of any rule of law that
+regulate the consequences of a mistake made, subject to the provisions of the first paragraph of this
+Article.
+
+ARTICLE 29. Location of the parties.
+For the purposes of this law, it shall be presumed that the headquarters or the place of commercial establishment of a
+part is in the place indicated by it, unless another part shows that the part that made that
+Indication has no headquarters or commercial establishment in that place.
+
+If a party has not indicated the seat or place of business establishment, and has more than one
+commercial establishment, will be considered as such, for the purposes of this Law, the one that has the
+closer relationship to the relevant contract, taking into account known circumstances or
+provided by the parties at any time before the conclusion of the contract or at the conclusion of it. Yes
+a natural person does not have a business establishment, their place of residence will be taken into account
+habitual.
+
+Page 11
+
+A place does not constitute a commercial establishment simply because it is the place:
+a) Where the equipment and technology that support the information system are located
+used by one of the parties for the formation of a contract; or,
+
+b) Where other parties can obtain access to said information system.
+The fact that a party makes use of a domain name or an email address
+linked to a certain country does not create the presumption that your business establishment is in that country.
+country.
+
+ARTICLE 30. Information Requirements.
+Nothing in the present law shall affect the application of any legal norm by virtue of the
+which the parties must disclose their identity, the location of their establishment or other data, nor will it exempt from
+legal consequences to a party who has made inaccurate statements in this regard,
+incomplete or false.
+
+TITLE II
+ELECTRONIC COMMERCE IN SPECIFIC SUBJECTS
+CHAPTER I
+MERCHANDISE TRANSPORTS
+ARTICLE 31. Acts related to merchandise transport contracts.
+Without prejudice to the provisions of Title I of this law, this chapter will be applicable to
+any of the following acts related to a contract for the carriage of goods, or
+with its fulfillment, without the list being exhaustive:
+a) Indication of the brands, the number, the quantity or the weight of the merchandise; declaration of nature
+or the value of the goods; issuance of a receipt, invoice or voucher for the goods;
+confirmation that the loading of the goods has been completed.
+b) Notification to any person of the clauses and conditions of the contract; communication of
+instructions to the bearer.
+c) Claim for the delivery of the goods; authorization to proceed with the delivery of the
+goods; notification of the loss of the goods or the damage they have suffered.
+
+d) Any other notification or statement related to the fulfillment of the contract.
+e) Promise to deliver the goods to the designated person or to a person authorized to
+claim that delivery.
+
+f) Concession, acquisition, resignation, restitution, transfer or negotiation of any right over
+goods.
+g) Acquisition or transfer of rights and obligations under the contract.
+
+Page 12
+
+ARTICLE 32. Transport documents.
+Subject to the provisions of the third paragraph of this article, in cases where the law requires that
+any of the acts enunciated in article 31 above is carried out in writing or by means of a
+document consisting of paper, this requirement will be satisfied when the act is carried out by
+medium of one or more data messages.
+
+The preceding paragraph will be applicable whether the requirement set forth therein is expressed in the form of an obligation,
+as if the law simply provides consequences in the event that the act is not carried out in writing or
+
+through a document.
+
+When any right is granted to a specific person and to no other, or this person acquires any
+obligation, and the law requires that, for that act to take effect, the right or obligation must
+transferred to that person by sending or using a document, that requirement will remain
+satisfied if the right or obligation is transferred through the use of one or more messages from
+data, provided that a reliable method is used to ensure the uniqueness of that message or those
+data messages.
+
+For the purposes of the preceding paragraph, the level of reliability required will be determined according to the purposes
+for which the right or obligation was transferred and of all the circumstances of the case, including
+any relevant agreement.
+When one or more data messages are used to carry out any of the acts stated in
+literals f) and g) of article 31 above, no document used to carry out
+any such act, unless the use of data messages has been terminated to replace it
+by the documents. Any document issued in these circumstances must contain a
+statement to that effect. The replacement of data messages by documents will not affect the rights
+nor to the obligations of the parties.
+When a legal rule is obligatorily applied to a contract for the carriage of goods that
+is consigned, or which has been recorded in a document, that rule will not cease
+apply to a contract for the carriage of goods that has been recorded in one or more
+data messages for the reason that the contract appears in that message or those data messages in
+instead of being in a document.
+
+TITLE III
+SUPPLEMENTARY PROVISIONS TO ELECTRONIC COMMERCE
+CHAPTER I
+ADVANCED ELECTRONIC SIGNATURE AND SERVICE PROVIDERS OF
+CERTIFICATION
+ARTICLE 33. Legal effects of an electronic signature or advanced electronic signature.
+The electronic signature or advanced electronic signature, which may be certified by an entity
+certification service provider, which has been produced by a secure device for the creation of
+signature, will have, with respect to the data entered in electronic form, the same legal value as the signature
+handwritten in relation to those recorded on paper and will be admissible as evidence in court, assessing
+this, according to the assessment criteria established in the procedural rules.
+
+This regulation excludes the provisions for death cause and legal acts
+of family law.
+
+Page 13
+
+When an advanced electronic signature has been fixed in an electronic communication it is presumed that
+the subscriber of that one had the intention to accredit that electronic communication and to be linked
+with its content. To be considered reliable the use of an advanced electronic signature, it
+it will have to incorporate at least the following attributes:
+a) That the signature creation data, in the context in which they are used, correspond
+exclusively to the signer;
+b) That the signature creation data were, at the time of signature, under the exclusive control of the
+signatory;
+c) That it is possible to detect any alteration of the electronic signature made after the moment of the
+firm; Y,
+d) When one of the objectives of the legal requirement of the firm is to provide assurance regarding the
+integrity of the information to which it corresponds, that it is possible to detect any alteration of that
+information made after the time of signing.
+The provisions of this article shall be understood without prejudice to the possibility that any person
+demonstrate, in any other way, the reliability of an electronic signature; or, to adduce evidence that
+an electronic signature is not reliable.
+
+ARTICLE 34. Competent body.
+The State, through the corresponding body or entity, may attribute competence to a person,
+public or private body or entity, to determine which electronic signatures comply with the provisions of
+Article 33 above. For this purpose, said determination that is made must be compatible with the
+recognized international standards or criteria.
+
+ARTICLE 35. Proceed from the Signatory.
+Where signature creation data can be used to create a legal signature, each
+signer must:
+
+a) Act with reasonable diligence to avoid the unauthorized use of your data for creating the
+firm.
+b) Without undue delay, use the means provided by the certification service provider
+in accordance with this law, or in any case to make a reasonable effort to give notice to any
+person who, as the signer can reasonably foresee, may consider the electronic signature reliable
+or provide services that support it if:
+
+1. The signer knows that the signature creation data has been compromised; or,
+2. The circumstances of which the signer is aware give rise to a considerable risk that the
+signature creation data have been compromised.
+
+c) When a certificate is used to endorse the electronic signature, act with reasonable diligence
+to ensure that all statements you have made regarding the life cycle of the certificate or
+that are to be recorded in it are exact and complete.
+
+Page 14
+
+The signatory will be responsible for the legal consequences of not having complied with the
+previous requirements set forth in this article.
+
+ARTICLE 36. Proceed from the certification service provider.
+When a certification service provider provides services to support an electronic signature that
+can be used as a signature with legal effects, that certification service provider must:
+
+a) Act in accordance with the statements made regarding its standards and practices.
+b) Act with reasonable diligence to ensure that all important statements made
+made in relation to the life cycle of the certificate or that are consigned in it are exact and precise.
+
+c) Provide the party relying on the certificate with reasonably accessible means that allow
+It is determined by the certificate:
+1. The identity of the certification service provider;
+
+2. That the signer named in the certificate had under his control the signature creation data in the
+time when the certificate was issued;
+3. That the signature creation data was valid on or before the date the certificate was issued.
+her.
+d) Provide the party that trusts the certificate with reasonably accessible means that, when
+appropriate, allow it to determine through the certificate or otherwise:
+1. The method used to verify the identity of the signer;
+2. Any limitation of the purposes or the value for which the data of
+creation of the signature or certificate;
+3. If the signature creation data is valid and not in doubt;
+4. Any limitation of the scope or degree of responsibility established by the provider of
+certification services;
+5. There is a means for the signer to notify that the signature creation data are in
+interdict, in accordance with the provisions of literal b) of article 35 of this law;
+
+6. If a service is offered to revoke the certificate in a timely manner.
+e) When services are offered in accordance with numeral 5 of literal d) of this article, provide
+a means so that the signer of notice in accordance with literal b) of article 35 of this law and, when
+offer services by virtue of numeral 6 of subsection d) of this article, make sure that there is a
+service to timely revoke the certificate.
+f) Use, when providing services, systems, procedures and reliable human resources.
+
+The certification service provider will be responsible for the legal consequences produced by the
+Failure to meet the previous requirements set forth in this article.
+
+Page 15
+
+ARTICLE 37. Reliability.
+For the purposes of literal f) of article 36 above, to determine whether the systems, procedures or
+The human resources used by a certification service provider are reliable, and to what extent
+are, the following factors may be taken into account:
+a) Human and financial resources, including the existence of assets;
+b) The quality of computer hardware and software systems;
+
+c) The procedures for the transmission of the certificate and applications for certificates, and the conservation
+of records;
+d) The availability of the information for the signers named in the certificate and for the parties that
+trust this one;
+e) The frequency and scope of the audit carried out by an independent body;
+f) The existence of a declaration from the State, an accreditation body or the service provider
+certification regarding compliance or the existence of the foregoing factors; or,
+g) Any other pertinent factors.
+
+ARTICLE 38. Proceed from the party that trusts the certificate.
+The legal consequences produced by the event will be borne by the party that relies on the certificate.
+you have not taken reasonable steps to:
+
+a) Verify the reliability of the electronic signature; or,
+b) When the electronic signature is endorsed by a certificate:
+i. Verify the validity, suspension or revocation of the certificate; Y,
+
+ii. Take into account any limitations in relation to the certificate.
+
+ARTICLE 39. Recognition of foreign certificates and foreign electronic signatures.
+When determining whether or to what extent a certificate or electronic signature produces legal effects,
+produced, the following will not be taken into consideration:
+a) Place where the certificate was issued or where the electronic signature was created or used;
+neither,
+b) The place where the establishment of the issuer or signatory is located.
+Any certificate issued abroad will produce the same legal effects as the one issued within
+of the territory of the Republic, if a substantially equivalent degree of reliability is presented.
+
+Page 16
+
+Any electronic signature created or used abroad will produce the same legal effects as the
+issued within the territory of the Republic, if it presents a degree of reliability substantially
+equivalent.
+
+In order to determine whether a certificate or an electronic signature has a degree of reliability
+substantially equivalent for the purposes of the two previous paragraphs of this article,
+they will take into account recognized international standards and any other relevant factors.
+When, without prejudice to the provisions of the three preceding paragraphs of this article, the parties
+agree between themselves the use of certain types of electronic signatures or certificates, it will be recognized
+that such agreement is sufficient for the purposes of cross-border recognition, unless the agreement is not
+valid or effective in accordance with applicable law.
+
+ARTICLE 40. Characteristics and requirements of the providers of certification services.
+They may be providers of certification services, legal persons, both public and private,
+of national or foreign origin, which upon request are authorized by the Registry of Providers of
+Certification Services of the Ministry of Economy and that comply with the established requirements
+by this, based on the following conditions:
+a) Have sufficient economic and financial capacity to provide the services authorized as
+certification service providers.
+b) Have the capacity and technical elements necessary to generate electronic signatures
+advanced, the issuance of certificates on the authenticity of the same and the conservation of messages
+of data in the terms established in this law.
+c) The legal representatives and administrators may not be persons who have been sentenced to
+custodial sentence, or who have been suspended in the exercise of their profession for serious misconduct
+against ethics or have been excluded from it. This inability will be valid for the same period
+that the penal or administrative law indicates for the effect.
+d) Have the necessary accreditations by the corresponding bodies or entities according to the
+regulations in force.
+The Ministry of Economy may issue the requirements and regulations it deems pertinent,
+always on the basis of its adaptation to recognized international standards and principles.
+
+ARTICLE 41. Activities of certification service providers.
+Certification service providers authorized by the Ministry of the Economy to provide their
+services in the country, they may carry out, among others, the following activities:
+a) Issue certificates in relation to advanced electronic signatures of natural or legal persons,
+whether they are digital or of any other nature.
+
+b) Issue certificates on the verification regarding the alteration between the sending and receiving of the
+electronic communications.
+c) Offer or facilitate the services of creation of certified advanced electronic signatures, whether they are
+digital or of any other nature.
+
+Page 17
+
+d) Issue certificates in relation to the person who has a right or obligation with respect to the
+documents set forth in literals f) and g) of article 31 of this law.
+e) Offer or facilitate the services of registration and chronological stamping in the generation, transmission and
+receipt of electronic communications.
+f) Offer archiving and conservation services for electronic communications.
+
+g) Certify in the certificates issued, the professional conditions of the holder of the signature to
+effects of constituting evidence against any public or private entity.
+
+ARTICLE 42. Obligations of the providers of certification services.
+The certification societies will have, among others, the following duties:
+a) Issue certificates as requested or agreed with the signer.
+b) Implement security systems to guarantee the issuance and creation of electronic signatures
+advanced, the conservation and archiving of certificates and documents in support of data messages.
+c) Guarantee the protection, confidentiality and due use of the information supplied by the signer.
+d) Guarantee the permanent provision of the certification body service.
+
+e) Respond in a timely manner to requests and claims made by the signatories.
+f) Provide the information required by the competent administrative or judicial entities in
+relation to the electronic signatures and certificates issued and in general to any communication
+electronics that are in their custody and administration.
+g) Allow and facilitate the performance of audits by the Registry of Service Providers of
+Certification.
+h) Prepare the regulations that define the relations with the signer and the form of provision of the
+service.
+
+i) Keep a record of the certificates.
+
+ARTICLE 43. Remuneration for the provision of services.
+The remuneration for the services of the certification service providers will be established
+freely for these.
+
+ARTICLE 44. Unilateral termination.
+Unless agreed between the parties, the certification service provider may terminate the
+binding agreement with the signer giving a notice of no less than ninety (90) days.
+
+Page 18
+
+Once this term has expired, the certification service provider will revoke the certificates that are found
+pending expiration.
+Likewise, the signer may terminate the relationship agreement with the certification society.
+giving a notice of no less than thirty (30) days.
+
+ARTICLE 45. Termination of activities by service providers of
+certification.
+Authorized certification societies may cease to carry out their activities, as long as
+have received authorization from the Registry of Certification Service Providers.
+
+ARTICLE 46. Content of the certificates.
+A certificate issued by an authorized certification service provider, in addition to being signed
+electronically for it, it must contain at least the following:
+a) Name, address and domicile of the signer.
+b) Identification of the signer named in the certificate.
+
+c) The name, address and place where the certification service provider carries out activities.
+d) The user's public key in cases of asymmetric cryptography technology.
+e) The methodology to verify the electronic signature of the signer imposed on the electronic communication.
+
+f) The serial number of the certificate.
+g) Date of issue and expiration of the certificate.
+
+ARTICLE 47. Revocation of certificates.
+Certificates may be revoked by:
+a) The signer of a certified advanced electronic signature may request the service provider of
+certification that issued a certificate, its revocation. In any case, you will be obliged to request
+revocation in the following events:
+i. Due to loss of the private key, in the case of asymmetric cryptography technology;
+
+ii. The private key has been exposed or is in danger of being misused, in the case of the
+asymmetric cryptography technology.
+b) If the signer does not request the revocation of the certificate in the event of presenting the above
+situations, will be responsible for the losses or damages incurred by third parties in good faith
+exempt from fault that they trusted the content of the certificate.
+
+Page 19
+
+c) A certification service provider will revoke a certificate issued for the following reasons:
+1. At the request of the signer or a third party on his behalf and on his behalf;
+2. Due to the death of the signer;
+
+3. By liquidation of the signer in the case of legal persons;
+4. For the confirmation that any information or fact contained in the certificate is false;
+
+5. The private key of the certification service provider or its security system has been
+compromised in a material way that affects the accounting of the certificate;
+6. Due to the cessation of activities of the certification service provider; Y,
+7. By judicial order or a competent administrative entity.
+
+ARTICLE 48. Term of conservation of the records.
+The information and records of certificates issued by a certification service provider
+must be kept for the term required by the law that regulates the particular legal act or business,
+or for ten years if there is no such term.
+
+CHAPTER II
+REGISTRATION OF CERTIFICATION SERVICE PROVIDERS
+ARTICLE 49. Functions of the Registry of Certification Services Providers.
+The Registry of Certification Service Providers, attached to the Ministry of Economy, will exercise the
+Powers that have been legally assigned to it with respect to the entities that provide services of
+certification, and additionally will have the following functions:
+a) Authorize the activity of certification service providers.
+
+b) Ensure the operation and efficient provision of the service by the providers of
+certification services.
+c) Carry out audit visits to the certification service providers.
+
+d) Revoke or suspend the authorization to operate as a provider of certification services.
+e) Request the pertinent information for the exercise of their functions.
+f) Impose sanctions on the providers of certification services in the event of non-compliance with the
+Obligations derived from the provision of the service.
+g) Order the revocation of certificates when the certification service provider issues them without the
+compliance with legal formalities.
+
+Page 20
+
+h) Ensure the observance of the constitutional and legal provisions on the promotion of the
+competition and restrictive business practices, unfair competition and consumer protection, in the
+markets served by certification service providers, coordinating, according to the
+case, with the specific authorities.
+i) Give instructions on the adequate compliance with the rules to which the
+certification service providers.
+j) Issue the regulations it deems based on the rules, regulations, criteria or principles
+recognized internationals.
+
+ARTICLE 50. Sanctions.
+The Registry of Certification Services Providers of the Ministry of Economy, in accordance with the
+due process and the right of defense, may impose, through the ministerial office of
+economy, depending on the nature and severity of the offense, the penalties for certification societies
+following:
+a) Warning.
+
+b) Institutional fines up to the equivalent of two thousand five hundred (2,500) minimum wages not
+monthly legal agricultural laws in force, and personal to the administrators and legal representatives of the
+certification service providers, up to five hundred (500) minimum wages not
+monthly legal agricultural laws in force, when it is proven that they have authorized, executed or tolerated
+conduct that violates the law.
+
+c) Immediately suspend all or some of the activities of the offending entity.
+d) Prohibit the offending entity from directly or indirectly providing certification services up to the
+term of five (5) years.
+
+e) Definitively revoke the authorization to operate as an entity that provides services of
+certification.
+
+CHAPTER III
+MISCELLANEOUS PROVISIONS
+ARTICLE 51. Prevalence of consumer protection laws.
+This Law will be applied without prejudice to the current regulations on consumer protection.
+The entities or companies involved in electronic commerce must respect the interests of the
+consumers and act in accordance with equitable practices in the exercise of their activities
+business, advertising and marketing. Likewise, entities or companies should not carry out
+any statement, incur in any omission, or engage in any practice that is false,
+misleading, fraudulent or unfair.
+Whenever entities or companies publish information about themselves or about the goods or
+The services they offer must be presented in a clear, visible, precise and easily accessible manner. A) Yes
+themselves, they must comply with any statements they make regarding their policies and practices.
+related to your transactions with consumers.
+
+Page 21
+
+Businesses should not take advantage of the special features of electronic commerce to
+conceal your true identity or location, or to evade compliance with protection regulations by
+consumer or the mechanisms of application of said rules.
+
+Companies must develop and implement effective and easy-to-use procedures that allow
+Consumers express their decision to receive or reject unsolicited commercial messages by
+medium of email. When consumers say they don't want to receive messages
+email commercials, such a decision must be respected.
+
+ARTICLE 52. Online Information.
+Without prejudice to complying with current legislation for merchants and commercial companies, the
+Companies that carry out electronic commerce must provide the following information:
+a) Information about the company: Companies that carry out transactions with consumers by
+means of electronic commerce must provide in a precise, clear and easily accessible way,
+sufficient information about themselves, which allows at least:
+1. The identification of the company - including the legal name and the name or brand of
+commercialization; the main geographical domicile of the company; email or other means
+electronic contact, or telephone number; and, where applicable, an address for purposes
+registration, and any relevant government license or registration number;
+2. A quick, easy and effective communication with the company;
+3. Appropriate and effective dispute resolution mechanisms;
+
+4. Services of attention to legal proceedings; Y,
+5. Location of the legal domicile of the company and its directors, for the use of the authorities in charge
+regulation and law enforcement.
+
+When a company discloses its membership or affiliation in a relevant scheme of
+self-regulation, business association, dispute resolution organization, or other regulatory body
+certification, it should provide consumers with an easy method to verify such information,
+as well as appropriate details to contact said organizations, and where appropriate, have access to the
+Relevant codes and practices applied by the certification body.
+b) Information on goods or services: Companies that carry out transactions with consumers
+through electronic commerce must provide. accurate and easily accessible information that
+describe the goods or services offered, in a way that enables consumers to make a decision
+informed before participating in the transaction and in terms that allow them to maintain an adequate
+record of such information.
+
+ARTICLE 53. Term.
+The Ministry of Economy will create and organize the Registry of Certification Services Providers in
+a period of no more than sixty (60) days after the entry into force of this law.
+
+Page 22
+
+ARTICLE 54. Transitory.
+The Registry of Certification Service Providers of the Ministry of Economy will have a
+additional term of six (6) months, counted from the publication of this law, to organize
+the function of inspection, control and surveillance of the activities carried out by the provider entities
+certification services, as well as to issue technical standards applicable to electronic signatures
+advanced and certificates of any kind.
+
+ARTICLE 55. Regulation.
+The Executive Branch, through the Ministry of the Economy, shall issue the regulations of this
+Law, within a period of no more than six (6) months from its publication. Likewise, it may issue
+the regulations or provisions that it considers for the proper performance of the Registry of
+Certification Service Providers.
+
+ARTICLE 56. Validity and Repeal.
+This law enters into force eight (8) days after its publication and repeals the provisions that
+are contrary to him.
+
+REFER TO THE EXECUTIVE BODY FOR PENALTY, ENACTMENT AND PUBLICATION.
+ISSUED IN THE PALACE OF THE LEGISLATIVE ORGANISM, IN THE CITY OF GUATEMALA,
+NINETEENTH OF AUGUST TWO THOUSAND EIGHT.
+
+ARÍSTIDES BALDOMERO CRESPO VILLEGAS
+PRESIDENT
+
+JOSÉ ROBERTO ALEJOS CÁMBARA
+SECRETARY
+
+ROSA ELVIZA ZAPETA OSORIO
+SECRETARY
+NATIONAL PALACE: Guatemala, September 16, two thousand and eight.
+GET PUBLISHED AND COMPLIED
+
+COLOM KNIGHTS
+
+Page 23
+
+ROMULO KNIGHTS OTERO
+ECONOMY MINISTER
+
+LIC. CARLOS LARIOS OCHAITA
+GENERAL SECRETARY
+FROM THE PRESIDENCY OF THE REPUBLIC
+
+

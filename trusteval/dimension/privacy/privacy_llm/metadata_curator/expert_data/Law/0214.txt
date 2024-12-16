@@ -1,0 +1,747 @@
+Page 1
+
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+KVKK
+PERSONAL DATA STORAGE and
+DISPOSAL POLICY
+
+KVKK Data Management Department
+
+Page 1
+
+Page 2
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+PERSONAL DATA PROTECTION INSTITUTION
+PERSONAL DATA STORAGE AND DISPOSAL POLICY
+
+TR PERSONAL DATA PROTECTION AGENCY
+ADDRESS: Nasuhi Akar Mahallesi 1407. Sokak No: 4 Çankaya / ANKARA
+PHONE: +90 312 216 50 00 WEB: www.kvkk.gov.tr
+
+All content in this Policy text, except for individual use, without permission, in whole or in part.
+copying, reproduction, use, publication and distribution is prohibited. Those who do not comply with this law
+Legal action will be taken against him in accordance with the Law on Intellectual and Artistic Works No. 5846. All rights to the product
+reserved.”
+
+KVKK Data Management Department
+
+Page 2
+
+Page 3
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+Contents
+1. INTRODUCTION .................................................. .................................................................. .................................................................. 4
+1.1 Purpose ................................................. .................................................................. .......................................... 4
+1.2 Scope ................................................. .................................................................. ...................................... 4
+1.3 Abbreviations and Definitions ................................................. .................................................................. ............... 4
+2. DISTRIBUTION OF RESPONSIBILITIES AND DUTIES .................................................. .............................................. 6
+3. RECORDING ENVIRONMENTS ................................................. .................................................................. .............................. 7
+4. EXPLANATIONS ON STORAGE AND DISPOSAL .................................................. ........................................ 7
+4.1 Remarks on Retention .................................................. .................................................................. ...... 7
+4.1.1 Legal Grounds Requiring Retention .................................................. ...................................... 8
+4.1.2 Processing Purposes Requiring Storage .................................. ...................................... 8
+4.2 Reasons for Disposal .................................................. .................................................................. ........ 9
+5. TECHNICAL AND ADMINISTRATIVE MEASURES .................................. .................................................................. ................. 9
+5.1 Technical Measures ................................................. .................................................................. .......................... 9
+5.2 Administrative Measures ................................................. .................................................................. ........................... 11th
+6. PERSONAL DATA DISPOSAL TECHNIQUES .................................................. .................................................................. .... 11th
+6.1 Deletion of Personal Data ................................................. .................................................................. ........... 11th
+6.2 Destruction of Personal Data ............................................. .................................................................. ...... 12
+6.3 Anonymization of Personal Data .................................................. .......................... 13
+7. STORAGE AND DISPOSAL TIMES ..................................... .................................................................. ............ 13
+8. PERIODIC DISPOSAL TIME .................................................. .................................................................. ............. 14
+9. PUBLICATION AND STORAGE OF THE POLICY ......................................... ..................................... 14
+10. UPDATE PERIOD OF THE POLICY .................................................. ............................................. 14
+11. ENFORCEMENT AND ANNOUNCEMENT OF THE POLICY ................................................. ............ 14
+
+KVKK Data Management Department
+
+Page 3
+
+Page 4
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+1.INTRODUCTION
+1.1 Purpose
+Personal Data Retention and Disposal Policy (“Policy”), Personal Data Protection
+The work and activities related to the storage and destruction activities carried out by the Institution (“Authority”)
+It has been prepared in order to determine the procedures and principles regarding the transactions.
+Institution; In line with the mission, vision and basic principles determined in the Strategic Plan; Institution
+employees, employee candidates, service providers, visitors and other third parties.
+Turkish Constitution, international conventions, Personal Data No. 6698
+to be processed and processed in accordance with the Law on the Protection of the Law (“Law”) and other relevant legislation.
+has determined as a priority to ensure that people use their rights effectively.
+Jobs and transactions related to the storage and destruction of personal data are carried out by the Authority.
+carried out in accordance with the Policy prepared accordingly.
+
+1.2 Scope
+Institution employees, employee candidates, service providers, visitors and other third parties
+Personal data belonging to the Institution are within the scope of this Policy and are owned by or by the Institution.
+for all recording environments where managed personal data are processed and for personal data processing.
+This Policy is applied in the activities.
+
+1.3 Abbreviations and Definitions
+Buyer Group
+
+: The fact that personal data is transferred by the data controller
+or legal entity category.
+
+Open Consent
+
+: On a specific subject, based on information and free
+volitional consent.
+
+Making Anonymous: Personal data can not be processed in any way, even by matching it with other data.
+with an identified or identifiable natural person
+rendering it unrelated.
+Working
+: Personal Data Protection Authority personnel.
+EBYS
+
+: Electronic Document Management System
+
+Electronic environment
+
+: Personal data can be created with electronic devices,
+media in which it can be read, modified, and written.
+
+Non-Electronic
+Environment
+Service provider
+
+: All written, printed, visual materials other than electronic media
+etc. other environments.
+: A specific contract with the Personal Data Protection Authority
+natural or legal person providing services within the framework of
+
+KVKK Data Management Department
+
+Page 4
+
+Page 5
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+Related person
+
+: Natural person whose personal data is processed.
+
+Related User
+
+: Technical storage, protection and
+excluding the person or unit responsible for backing up
+within the data controller organization or
+in accordance with the authority and instruction received from the person in charge
+persons processing the data.
+
+Destruction
+
+: Deletion, destruction or anonymization of personal data
+bringing in.
+
+Law
+Recording Media
+
+: Law on Protection of Personal Data No. 6698.
+
+Personal Data
+
+: Any information relating to an identified or identifiable natural person.
+kinds of information.
+
+Personal Data Processing
+
+Depending
+: Business processes of data controllers
+processing the personal data they are performing
+its activities; personal data processing purposes, data category,
+with the transferred recipient group and the data subject contact group
+created by associating and processing personal data
+to foreign countries the maximum time necessary for the purposes
+regarding the personal data to be transferred and data security
+the inventory in which they detail the measures taken.
+
+inventory
+
+Personal
+Processing
+
+of data
+
+: Fully or partially automated or any data
+non-automatic, provided that it is part of the registration system
+Any medium in which personal data are processed.
+
+: Fully or partially automated or
+provided that it is part of any data recording system
+non-automatic means of obtaining, recording,
+storage,
+storage,
+replacement,
+arrangement, disclosure, transfer, acquisition, acquisition
+making it accessible, classifying or
+on data, such as preventing the use of
+any transaction performed.
+
+again
+
+Board
+: Personal Data Protection Board
+Special Qualified Personal : People's race, ethnic origin, political thought, philosophical belief,
+religion, sect or other beliefs, disguise, association,
+Data
+foundation or union membership, health, sexual life, punishment
+with his data on his conviction and security measures
+Periodic Destruction
+
+Policy
+Data Processor
+
+biometric and genetic data.
+: The conditions for processing personal data in the law
+personal data in case of disappearance of all
+specified and repeated in the storage and disposal policy.
+deletion, destruction or ex officio at intervals
+anonymization process.
+: Personal Data Retention and Disposal Policy
+: Based on the authority given by the data controller, the data controller
+natural or legal person who processes personal data on behalf of.
+
+KVKK Data Management Department
+
+Page 5
+
+Page 6
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+Data Recording System
+
+: By structuring personal data according to certain criteria
+the recording system in which it is processed.
+
+Data Controller
+
+: Determining the purposes and means of processing personal data,
+from the establishment and management of the data recording system
+responsible natural or legal person.
+
+Data Controllers Registry : Data controllers apply to the Registry and
+that they will use in other transactions, that can be accessed over the internet,
+Information System
+Information system created and managed by the Presidency.
+VERBIS
+: Data Controllers Registry Information System
+regulation
+: Personal published in the Official Gazette dated 28 October 2017
+Deletion, Destruction or Anonymization of Data
+Regulation on Bringing.
+
+2. DISTRIBUTION OF RESPONSIBILITIES AND DUTIES
+All units and employees of the institution are taken by the responsible units within the scope of the Policy.
+the proper implementation of technical and administrative measures, training of unit employees and
+raising awareness, monitoring and continuous inspection of personal data
+to prevent the processing of personal data, to prevent unlawful access to personal data.
+and personal data is processed in order to ensure that personal data is kept in accordance with the law.
+taking technical and administrative measures to ensure data security in all environments
+It actively supports the units responsible for its issues.
+Titles, units and duties of those involved in the storage and destruction of personal data
+The distribution of the definitions is given in Table 1.
+Table 1: Task distribution of storage and disposal processes
+UNIT
+TITLE
+Head of Institution
+Data Management Department
+head
+
+Data Security and Information
+Head of Systems Department
+
+Personal Data Protection
+
+TASK
+Employees comply with the policy
+
+institution
+responsible for its movement.
+Data Management Departmentof Policy
+preparation,
+Presidency
+development, implementation,
+environments publication
+and
+responsible for updating.
+Data Security and Informationof Policy
+in the implementation
+Systems
+departmenttechnical solutions needed
+Presidency
+responsible for its submission.
+
+Human Resources and Support
+Other Units
+Head of Services,
+Law
+Works
+department
+Head, Department of Investigation
+KVKK Data Management Department
+
+to their duties
+Your policy
+
+appropriate as
+from the execution
+
+is responsible.
+
+Page 6
+
+Page 7
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+head,
+Guidance,
+Research and Institutional
+Head of Communications Department,
+Strategy Development Department
+head
+
+3. RECORDING ENVIRONMENTS
+Personal data shall be legally processed by the Institution in the environments listed in Table 2.
+is stored securely.
+Table 2: Personal data storage environments
+Electronic Media
+
+Non-Electronic Media
+
+Servers (Domain, backup, email,
+database, web, file sharing, etc.)
+✓ Software (office software, portal,
+EBYS, VERBIS.)
+✓ Information security devices (security
+wall, intrusion detection and blocking, log
+registry file, antivirus etc. )
+✓ Personal computers (Desktop, laptop)
+✓ Mobile devices (phone, tablet, etc.)
+✓ Optical discs (CD, DVD, etc.)
+✓ Removable memories (USB, Memory
+card etc.)
+✓ Printer, scanner, copier
+
+✓ Paper
+✓ Manual data recording systems (survey forms,
+visitor log)
+✓ Written, printed and visual media
+
+4. EXPLANATIONS ON STORAGE AND DISPOSAL
+By the institution; in relationship as employees, prospective employees, visitors and service providers
+personal data of employees of third parties, institutions or organizations
+It is stored and destroyed in accordance with the law.
+In this context, detailed explanations regarding storage and disposal are given below, respectively.
+given.
+
+4.1 Remarks on Retention
+The concept of processing personal data is defined in Article 3 of the Law .
+The personal data processed in the article is related to the purpose for which they are processed, limited and measured, and
+
+KVKK Data Management Department
+
+Page 7
+
+Page 8
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+to be stored for the period required for the purpose for which they are processed or stipulated in the relevant legislation.
+It has been stated that it is necessary, and the processing conditions of personal data are listed in Articles 5 and 6 .
+
+Accordingly, personal data within the framework of the activities of our Institution, as stipulated in the relevant legislation.
+or stored for a period suitable for our processing purposes.
+
+4.1.1 Legal Reasons for Retention
+Personal data processed within the framework of its activities in the institution, for the period stipulated in the relevant legislation.
+is preserved until In this context, personal data;
+• Law on Protection of Personal Data No. 6698,
+• Turkish Code of Obligations No. 6098,
+• Public Procurement Law No. 4734,
+• Civil Servants Law No. 657,
+• Social Insurance and General Health Insurance Law No. 5510,
+• Arrangement of Broadcasts on the Internet No. 5651 and These Publications
+Law on Combating Crimes Committed by
+• Public Financial Management Law No. 5018,
+• Occupational Health and Safety Law No. 6361,
+• Law on Access to Information No. 4982,
+• Law No. 3071 on the Use of the Right to Petition,
+• Labor Law No. 4857,
+• Higher Education Law No. 2547,
+• Retirement Health Law No. 5434,
+• Social Services Law No. 2828
+• Regarding Health and Safety Measures to be Taken in Workplace Buildings and Attachments
+Regulation,
+• Regulation on Archive Services
+• Other secondary regulations in force pursuant to these laws
+are stored for the specified storage periods.
+
+4.1.2 Processing Purposes Requiring Storage
+The Institution processes the personal data within the framework of its activities for the following purposes:
+keep it in line.
+• To carry out human resources processes.
+• To provide corporate communication.
+• Ensuring corporate security,
+• To be able to do statistical studies.
+
+KVKK Data Management Department
+
+Page 8
+
+Page 9
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+• To be able to perform work and transactions as a result of signed contracts and protocols.
+• Within the scope of VERBIS, employees, data controllers, contact persons, data controllers
+to determine the preferences and needs of representatives and data processors,
+edit accordingly and update if necessary.
+• As required or mandated by legal regulations, legal obligations
+ensure its implementation.
+• To liaise with real / legal persons who have a business relationship with the Institution.
+• To make legal reports.
+• Managing call center processes.
+• Obligation to prove as evidence in legal disputes that may arise in the future.
+
+4.2 Reasons for Disposal
+Personal data;
+• Amendment or repeal of the provisions of the relevant legislation, which are the basis for processing,
+• The disappearance of the purpose that requires processing or storage,
+• In cases where the processing of personal data takes place only on the basis of explicit consent, the relevant
+
+withdrawing the person's express consent,
+• Pursuant to Article 11 of the Law, the personal data of the person concerned are protected.
+the application made for the deletion and destruction of it is accepted by the Institution,
+• Deletion, destruction or anonymity of the personal data of the institution by the person concerned.
+rejecting the application made to him with the request of
+In case of finding or not responding within the time stipulated in the Law; to the Board
+to make a complaint and to approve this request by the Board,
+• The expiry of the maximum period requiring the storage of personal data and personal data
+the absence of any conditions to justify longer storage,
+cases, it is deleted, destroyed or ex officio by the Institution upon the request of the person concerned.
+deleted, destroyed or anonymized.
+
+5.TECHNICAL AND ADMINISTRATIVE MEASURES
+Safe storage of personal data, unlawful processing and
+for the prevention of access and the lawful destruction of personal data.
+Special qualifications pursuant to Article 12 of the Law and the fourth paragraph of Article 6 of the Law
+within the framework of adequate measures determined and announced by the Board for personal data.
+Technical and administrative measures are taken by the institution.
+
+5.1 Technical Measures
+The technical measures taken by the Institution regarding the personal data it processes are as follows:
+counted:
+
+KVKK Data Management Department
+
+Page 9
+
+Page 10
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+• With penetration tests, risks, threats,
+Weaknesses and vulnerabilities, if any, are revealed and necessary precautions are taken.
+• As a result of real-time analysis with information security event management, informatics
+The risks and threats that will affect the continuity of the systems are constantly monitored.
+• Access to information systems and authorization of users, with access and authorization matrix
+It is done through security policies through the corporate active directory.
+• Necessary for the physical security of the organization's information systems equipment, software and data.
+measures are taken.
+• In order to ensure the security of information systems against environmental threats, hardware
+(access control system, which allows only authorized personnel to enter the system room,
+employee monitoring system ensures the physical security of the edge switches that make up the local area network.
+supply, fire extinguishing system, air conditioning system, etc.) and software (security
+firewalls, intrusion prevention systems, network access control, anti-malware
+systems etc.) precautions are taken.
+• Risks to prevent unlawful processing of personal data are determined,
+It is ensured that the technical measures suitable for the risks are taken and technical measures are taken for the measures taken.
+checks are made.
+• Regarding access to personal data by establishing access procedures within the institution
+reporting and analysis studies are carried out.
+• Accesses to storage areas where personal data are stored are recorded and inappropriate.
+accesses or access attempts are kept under control.
+• The institution cannot access and re-use the deleted personal data for the relevant users.
+takes the necessary measures to ensure
+• In the event that personal data is unlawfully obtained by others, this
+A system and a suitable system shall be established by the Authority to notify the relevant person and the Board.
+infrastructure was created.
+• Security vulnerabilities are monitored and appropriate security patches are installed and information systems
+is kept up to date.
+• Strong passwords are used in electronic media where personal data is processed.
+• Secure record keeping (logging) systems in electronic environments where personal data is processed
+is used.
+• Data backup programs that ensure the safe storage of personal data
+is used.
+• Access, access to personal data stored in electronic or non-electronic media
+limited by its principles.
+• SHA 256 Bit by using secure protocol (HTTPS) for accessing the institution's web page.
+It is encrypted with the RSA algorithm.
+• A separate policy has been determined for the security of sensitive personal data.
+• Special qualifications for employees involved in special quality personal data processing.
+trainings were given on personal data security, confidentiality agreements were made,
+The authorizations of the users who have access to the data are defined.
+• Electronics where sensitive personal data is processed, stored and/or accessed.
+environments are protected using cryptographic methods, cryptographic keys are
+are kept in secure environments, all transaction records are logged,
+updates are constantly monitored, necessary security tests are regularly performed.
+KVKK Data Management Department
+
+Page 10
+
+Page 11
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+making / having it done, recording the test results,
+• Physical location where sensitive personal data is processed, stored and/or accessed.
+Adequate security measures are taken, physical security is ensured, and unauthorized
+entrances and exits are blocked.
+• If sensitive personal data needs to be transferred via e-mail, they are encrypted.
+It is transferred with a corporate e-mail address or using a KEP account. Portable
+If it needs to be transferred via media such as memory, CD, DVD, by cryptographic methods
+encrypted and the cryptographic key is kept in a different environment. different physical
+VPN between servers if transferring between servers in environments
+Data transfer is carried out by installing or using the sFTP method. paper media
+theft, loss, or unauthorized persons
+Necessary precautions are taken against risks such as
+sent in format.
+
+5.2 Administrative Measures
+The administrative measures taken by the Institution regarding the personal data it processes are as follows:
+counted:
+• Unlawful processing of personal data for the improvement of the qualifications of the employees.
+prevention of processing, prevention of unlawful access to personal data,
+ensuring the protection of personal data, communication techniques, technical knowledge and skills, 657
+Training is provided on Law No. and other relevant legislation.
+• Confidentiality agreements for employees regarding the activities carried out by the Institution
+is signed.
+• Discipline to be applied to employees who do not comply with security policies and procedures.
+procedure has been prepared.
+• Before starting to process personal data, the Authority shall inform the relevant persons.
+obligation is fulfilled.
+• Personal data processing inventory has been prepared.
+• Periodic and random inspections are carried out within the institution.
+• Information security trainings are provided for employees.
+
+6. PERSONAL DATA DISPOSAL TECHNIQUES
+The period stipulated in the relevant legislation or the storage period required for the purpose for which they are processed.
+At the end of the day, the personal data is collected by the Institution ex officio or upon the application of the person concerned.
+It is destroyed by the following techniques in accordance with the provisions of the relevant legislation.
+
+6.1 Deletion of Personal Data
+Personal data is deleted with the methods given in Table-3.
+
+KVKK Data Management Department
+
+Page 11
+
+Page 12
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+Table 3: Deletion of Personal Data
+Data Recording Environment
+
+Explanation
+
+Located on Servers
+Personal Data
+
+Hiding personal data on servers
+system administrator for expiration requiring
+by removing the access authorization of the relevant users by
+deletion is performed.
+
+Place in Electronic Environment Hiding personal data in electronic environment
+Field Personal Data
+expiration, except database administrator
+in no way for other employees (related users)
+
+rendered inaccessible and unusable.
+Hiding from personal data kept in the physical environment
+Located in the Physical Environment
+Personal Data
+responsible for the archive of documents for those whose deadline has expired
+in no way for other employees except the unit manager.
+rendered inaccessible and unusable. Also,
+by drawing/painting/erasing illegibly
+blackout is also applied.
+Portable
+in the mediaPersonal data stored in flash-based storage media
+Personal Data Found
+those whose period of time has expired from the data, the system
+encrypted by the administrator and access authorization only
+with encryption keys given to the system administrator
+stored in secure environments.
+
+6.2 Destruction of Personal Data
+Personal data is destroyed by the methods given in Table-4 by the Institution.
+Table 4: Destruction of Personal Data
+Data Recording Environment
+
+Explanation
+
+Hiding personal data in paper media
+Located in the Physical Environment
+Personal Data
+those whose time has expired, in paper trimming
+is irreversibly destroyed.
+In Optical / Magnetic Media
+Personal Data Included
+
+Personal media in optical and magnetic media
+those whose period of data retention has expired
+physical, such as melting, burning or pulverizing
+destruction is applied. Also, magnetic
+media is passed through a special device to a high value.
+by exposure to a magnetic field
+data is rendered unreadable.
+
+KVKK Data Management Department
+
+Page 12
+
+Page 13
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+6.3 Anonymization of Personal Data
+Anonymization of personal data, even if personal data is matched with other data
+cannot be associated with an identified or identifiable natural person in any way.
+is to be brought.
+In order for personal data to be anonymized; personal data, data controller or
+returning and/or matching data with other data by third parties
+through the use of appropriate techniques in terms of the recording environment and the relevant field of activity, such as
+cannot be associated with an identified or identifiable natural person.
+must.
+
+7. STORAGE AND DISPOSAL TIMES
+Regarding the personal data being processed by the Institution within the scope of its activities;
+➢ All personal data within the scope of activities carried out in connection with processes
+storage periods on the basis of relevant personal data in the Personal Data Processing Inventory;
+➢ Storage periods on the basis of data categories are recorded in VERBIS;
+➢ Process-based retention periods are specified in the Personal Data Retention and Disposal Policy.
+takes place.
+Over the said retention periods, Data Management Department, if necessary
+Updates are made by the Presidency.
+Ex officio deletion, destruction or anonymization for personal data whose storage period has expired.
+The process of bringing in is carried out by the Data Security and Information Systems Department.
+is brought.
+Table 5: Process-based storage and disposal times table
+PROCESS
+
+STORAGE PERIOD
+
+DISPOSAL TIME
+
+Board Transactions
+
+10 years
+
+following the expiry of the retention period
+during the first periodic destruction
+
+of contracts
+preparation
+
+expiration of the contract
+following 10 years
+
+following the expiry of the retention period
+during the first periodic destruction
+
+Institution
+Contact termination of the activity
+Execution of Activities
+following 10 years
+
+following the expiry of the retention period
+during the first periodic destruction
+
+Human
+of processes
+
+following the expiry of the retention period
+during the first periodic destruction
+
+Sources
+
+termination of the activity
+following 10 years
+
+KVKK Data Management Department
+
+Page 13
+
+Page 14
+PERSONAL DATA PROTECTION AGENCY PERSONAL DATA RETENTION AND DISPOSAL POLICY
+
+PROCESS
+
+STORAGE PERIOD
+
+DISPOSAL TIME
+
+Execution
+log
+
+Record
+
+tracking10 years
+
+following the expiry of the retention period
+during the first periodic destruction
+
+Systems
+Hardware and Software
+Access
+of processes
+Execution
+
+following the expiry of the retention period
+during the first periodic destruction
+
+2 years
+
+Visitor and Meeting
+End of the event
+Registration of Participants following 2 years
+
+following the expiry of the retention period
+during the first periodic destruction
+
+Camera Recordings
+
+following the expiry of the retention period
+during the first periodic destruction
+
+3 months
+
+8. PERIODIC DISPOSAL TIME
+Pursuant to Article 11 of the Regulation, the Authority sets the period of periodic destruction as 6 months.
+determined. Accordingly, periodic destruction process is carried out in the Institution in June and December every year.
+is performed.
+
+9. PUBLICATION AND STORAGE OF THE POLICY
+The policy is in two different environments, with wet signature (printed paper) and electronically.
+is published and disclosed to the public on the website. Printed paper copy is also Data Management
+It is kept in the file of the Department.
+
+10. POLICY UPDATE PERIOD
+The policy is reviewed as needed and the necessary sections are updated.
+
+11. ENFORCEMENT AND ANNOUNCEMENT OF THE POLICY
+The policy is deemed to have entered into force after it is published on the Institution's website.
+If it is decided to be annulled, old copies of the Policy with wet signatures
+Cancellation by the Data Management Department with a Board Decision (cancellation stamp
+by hitting or writing cancellation) and is signed by the Data Management Department for at least 5 years.
+It is kept by the Presidency.
+
+KVKK Data Management Department
+
+Page 14
+
+

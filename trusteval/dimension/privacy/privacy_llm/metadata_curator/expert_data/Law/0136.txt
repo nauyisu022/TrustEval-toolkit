@@ -1,0 +1,995 @@
+Page 1
+
+The General Data Protection Regulation
+
+A practical guide for associations
+
+Page 2
+
+Content
+Preface ................................................. .................................................. .... 3
+Reminder of some basic concepts ............................................. ..... 4
+Establishment of the register ............................................. ............................ 6
+The legitimacy of the processing of personal data .................... 7
+Information of the persons concerned ............................................ ...... 11
+Respect for the rights of the persons concerned ..................................... 12
+The data protection officer ........................................... ........ 14
+Outsourcing .............................................. ........................................ 15
+Other more specific obligations ............................................ ............ 16
+Annex 1: Model of an information notice ....................................... .... 17
+Annex 2: Illustration of a register of processing activities based on
+Article 30 of the General Data Protection Regulation ................ 19
+
+2
+
+Page 3
+
+Preface
+The general data protection regulation 1 (hereinafter: "the GDPR") has applied since
+on May 25, 2018 in all member states of the European Union. As soon as you collect and
+process personal data and that you are established in the territory of the Union,
+you are indeed subject to the GDPR, regardless of your size, your legal form,
+your activities or your corporate purpose.
+The GDPR therefore provides for the new legal framework at European level to be respected in terms of
+Data protection. In the Grand Duchy, it replaces the amended law of 2 August 2002 relating to the
+protection of individuals with regard to the processing of personal data.
+The system of prior formalities (notifications and authorizations) with the Commission
+national data protection (hereinafter: "the CNPD") provided for by the said amended law of
+August 2, 2002 no longer exists. All actors established on Luxembourg territory must be in
+able to demonstrate their compliance themselves.
+This guide aims to provide an overview and general guidance on data protection.
+non-profit associations (hereinafter in general: "associations" or
+"You"). It is mainly and above all aimed at associations whose activity is limited to
+carry out the usual data processing necessary for the management of a so-called association
+"Classic" or "traditional". It is not adapted to guide exhaustively
+associations which by the nature of their activities process personal data (in terms
+volume, sensitivity, etc.) for purposes that go beyond this usual framework (e.g.
+non-profit associations covered by the “ASFT” 2 law which work in the social field,
+family, therapeutic, etc.).
+
+1 Regulation
+
+(EU) 2016/679 of April 27, 2016 on the protection of individuals with regard to processing
+personal data and on the free movement of such data, and repealing Directive 95/46 / EC
+(general data protection regulation).
+2 The amended law of September 8, 1998 regulating relations between the State and organizations working in the fields
+social, family and therapeutic.
+
+3
+
+Page 4
+
+Reminder of some basic concepts
+- The controller is the natural or legal person, the public authority, the
+service or other body which, alone or jointly with others, determines the
+purposes and means of processing, which therefore decides "why" and "how"
+personal data is collected and processed.
+For an association, its various services, its local groups, its leaders, as well as
+its employees, provided that they are active in the performance of the tasks of
+the association, constitute a single data controller. On the other hand, its members, all
+as its apex bodies are in principle to be considered as third parties in relation to the association.
+- The subcontractor is the natural or legal person who processes personal data
+on behalf of and on the instruction of the controller as part of a service
+or a service.
+- Personal data is any information relating to a person
+identified or identifiable physical. A person can be identified:
+• directly (eg by name, first name, or a nominative email address);
+• indirectly (for example by an identifier (member number), a number (telephone), a
+biometric data (their fingerprints), several specific elements specific to
+their physical, physiological, genetic, psychological, economic, cultural or
+social, but also the voice or the image).
+The identification of a natural person can be carried out:
+• from a single data (eg name and surname or a personal email address);
+• from the crossing of a set of data, even without indicating the first name and
+name of the person concerned (example: an athlete, born on such and such a date who during a
+specific competition taking place on such and such a day, which reached a national record for the
+100-meter discipline).
+If we are in the presence of anonymous or anonymized data (information provided
+anonymous in such a way that the data subject is not or no longer identifiable, nor by the
+controller, or by a third party), the GDPR does not apply. However, as illustrated
+the above example of the athlete having achieved a national record, from time to time the single
+deletion of the name, first name and address is not enough to anonymize a whole set of different
+data. In this case, we are talking about pseudonymized data that falls within the scope
+application of the GDPR.
+- Processing of personal data is an operation, or set of operations,
+relating to personal data, regardless of the process used. GDPR appoints
+a whole series of different types of processing such as collection, registration,
+modification, dissemination or any other form of provision, or
+erasure and destruction.
+
+4
+
+Page 5
+
+Personal data processing is not necessarily computerized: files
+paper (as long as they are structured as e.g. by an alphabetical classification /
+chronological) are also concerned and must be protected under the same conditions.
+In addition, the GDPR does not apply to personal data of individuals
+deceased, for example during the publication of an obituary of a former
+member in the journal of an association, but on condition of respecting dignity and life
+deprived of relatives of the deceased.
+To summarize, here is an example illustrating the different concepts: A sports club, represented by
+its Chairman and the other members of the committee (decision-making body), should be considered in its
+together as data controller by defining why and how data
+are collected and processed. The club decides in particular to create an Excel table, containing the list
+of its active and non-active members. This list includes the following information: names,
+first names, postal addresses and email addresses. This file is used to send newsletters and as
+means of convening general meetings. The sports club hired a company WWW
+to create a website for it through which people can subscribe or receive
+information.
+The data collected are personal data, because they allow us to identify
+clearly the limbs. The data is collected for specific purposes: the management
+administration of members, sending newsletters and convening general meetings.
+The various operations such as collecting and sending information are processing
+distinct. Finally, the company WWW is to be considered as a subcontractor of the sports club in
+acting only on behalf of and on the instructions of the latter.
+→ See article 4 of the GDPR concerning the definitions of the different concepts.
+
+5
+
+Page 6
+
+Establishment of the register
+Among the obligations incumbent on the controller, appears first
+the establishment of a register of processing activities. The first step is therefore to
+inventory and accurately identify your different processing of personal data.
+Drawing up a processing register allows you to take stock. All the
+associations will in principle have to establish such a register for the processing of data which has a
+repetitive nature (such as for example: updating the list of members, managing
+contributions, updating of the website, if applicable registration to competitions, etc.).
+It is not mandatory to specify the occasional data processing in the register.
+Identify your activities that require the collection and processing of personal data
+and create a specific sheet for each activity identified according to the purpose pursued.
+Data is generally collected by associations for the following purposes:
+administrative management of members, management of the website, sending of newsletters, management of
+suppliers, management of contributions, management of accounting and management of contact lists
+(“VIP”) other than members for sending event invitations. In function
+other additional specific activities of an association, data can be
+collected for other purposes such as, for example, employee management, the fight against
+doping or the management of sports medical control.
+Each file must mainly specify (i.e. one file per data processing and per
+purpose):
+• the objective pursued (the finality - see the examples above);
+• the categories of persons concerned (example: all licensees);
+• the categories of data used (example for licensees: last name, first name, address
+postal, email address and date of birth; note: the register must contain only
+the categories of data and in no place the personal data in themselves);
+• the recipients of the data (a fiduciary, a ministry, the organizer of a tournament,
+etc.);
+• the retention period of these data (must not be longer than necessary
+to achieve the intended purposes, to be analyzed on a case-by-case basis);
+• where applicable, data transfers to a third country or to an organization
+international.
+A model of a register with concrete examples can be found in the annex, which must be adapted
+on a case-by-case basis depending on the activity and purposes of the association's data processing.
+→ See article 30 of the GDPR concerning the register of processing activities.
+
+6
+
+Page 7
+
+The legitimacy of the processing of personal data
+Each data processing must comply with and be based solely on one of the six criteria of
+legitimacy provided for by the GDPR: consent, execution of a contract, a legal obligation,
+the protection of vital interests, a mission of public interest or even the legitimate interest.
+→ See article 6 of the GDPR concerning the lawfulness of the processing.
+
+In marginal cases, legal texts may prescribe data processing by
+an association that have an impact on its activities (the Labor Code, the amended law of 21
+April 1928 on non-profit associations and foundations, the provisions on
+social security and taxes, in the context of the fight against doping, etc.). For example, the Code
+Anti-doping from the Luxembourg Anti-Doping Agency, which transcribes the rules and principles
+set forth in the World Anti-Doping Code, obliges the said Agency to publicly report the outcome
+of an anti-doping procedure, specifying, among other things, the name of the athlete or other person
+having committed the violation.
+In general, however, three criteria of legitimacy may be taken into account in the
+framework of data processing by an association:
+1. Collection of consent
+Warning: The person must have a real choice to refuse treatment and must first
+have received the information mentioned below. In addition, by setting up
+different checkboxes, a person must have the option of agreeing to treatment (e.g .:
+receive the newsletter) while refusing another (e.g. the use of data for the purposes of
+marketing). The boxes checked by default are prohibited.
+Here are some practical examples, where the collection of consent appears necessary and
+appropriate:
+➢ publication of private contact data of committee members on your site
+Internet ;
+➢ publication in an information magazine of the dates of birth of newborns
+members, as well as their wedding dates;
+➢ subscription to a newsletter;
+➢ transfer of contact details of license holders from a sports club to a sports store;
+➢ transfer of contact data of people registered in group sessions
+mutual aid to another association;
+➢ publication of the names of external sponsors (natural persons) to an association,
+as well as the amount of donations;
+➢ setting up of a “What'sApp” group by a trainer to communicate with the
+players and their parents and on condition of offering them an alternative in case of refusal.
+
+Warning: For minors, the consent of the legal representatives is required. When a
+child has reached the age of discernment or "the age of reason", which is according to case law
+current between 12 and 14 years, the double consent of parent and child is recommended,
+in order to take into account the will of the child.
+
+7
+
+Page 8
+
+Consent does not necessarily have to be in a written form, but can be
+also emerge from any other clear positive statement or act, by which a person accepts
+that personal data concerning him are processed.
+For example, by paying the contributions for his membership card, a person accepts
+to appear on the list of members of an association and to receive a request each year
+renewal of his subscription. However, for the sake of proof (towards your
+members and during checks carried out by the CNPD), it is recommended to document which
+way the consent was obtained. However, there can be no consent in the event of
+silence, boxes checked by default or inactivity.
+2. If the data processing is necessary for the performance of a contract to which the
+affected person has left. For example, to perform the employment contract of a
+employee of an association, the collection of various data is necessary (in principle the
+name, first name, address, date of birth, national identification number and account
+banking). In this case, obtaining consent is not the appropriate basis for
+data processing.
+Again, membership in an association may in certain cases and depending on the statutes
+and continuing activities (provision of services offered) be considered as
+contractual relationship between the members and the association itself. However, the treatments
+data concerning the different members must not exceed what is
+necessary to perform the said contract (in principle limited to the last name, first name, address, year
+birth and bank account).
+3. The processing is necessary for the purposes of the legitimate interests pursued by the association, to
+unless the interests or fundamental rights and freedoms of the person prevail
+concerned who require protection of personal data. here are some
+examples:
+- Publication on its website of a list of surnames, first names and years of
+birth of players from a sports club;
+- Sending to the heirs of a deceased person of a list of donors and
+amounts of donations received;
+- Publication on the website of names, first names and email addresses
+professional committee members;
+- Temporary publication of names, first names and years of birth of players
+selected for a match and the results of competitions;
+- Transmission of player and member data to the organizer of a tournament;
+- Transmission of player data to a federation in order to obtain
+Licence.
+Attention to the interests and fundamental rights of the persons concerned, as well as to the principle
+data minimization. Collect and process only the data necessary to
+achieve the planned objectives. For example: Unless you have consent, the indication
+on a website of a sports club with the exact date of birth and nationality of the players,
+as well as the private addresses of committee members would exceed what is strictly necessary and
+would constitute an interference with the privacy of the persons concerned.
+
+8
+
+Page 9
+
+Warning: An association is not entitled to process data for a purpose other than
+the one for which she collected them. For example, an association cannot transmit
+data of its members to a clothing store so that the latter sends them
+publicity, except to have the prior consent of the members.
+
+Special case of so-called "sensitive" data
+Particular vigilance is necessary in the event of the processing of sensitive data (eg.
+racial or ethnic origin, political opinions, religious or philosophical convictions,
+health data or data concerning sex life or sexual orientation). Through
+In principle, it is forbidden to process such data, unless one of the ten conditions provided for in
+GDPR is met, such as:
+➢ the explicit consent of the persons concerned;
+➢ an obligation in terms of labor law;
+➢ the processing is carried out by a foundation, an association or any other organization
+non-profit and pursuing a political, philosophical, religious or trade union purpose,
+within the framework of their legitimate activities and with the appropriate guarantees, to
+provided that said processing relates exclusively to members and that the data
+are not communicated outside this body without the consent of
+persons concerned ;
+➢ the data is clearly made public;
+➢…
+→ See article 9 of the GDPR concerning the processing of so-called “sensitive” data.
+Attention to image rights
+Image rights means that everyone has their image and the use that is made of it.
+exclusive right and may oppose unauthorized dissemination by it. Even though there is no
+no specific text relating to image rights in Luxembourg law, case law in
+the matter clearly consecrated it. Indeed, most of these judicial decisions are based on
+article 1 of the law of 11 August 1982 on the protection of privacy, which provides that
+“ Everyone has the right to respect for their private life ”.
+In principle, each person concerned must give their prior consent for the taking,
+as well as for the publication of his photo. For the taking and posting of photos of minors, the
+consent of legal representatives is required, and from the age of discernment,
+also the consent of the minor. If an association has to take and publish
+photos of minors during its activities, the CNPD recommends submitting once a year
+a consent form for said representatives and, where applicable, minors, specifying
+clearly for what purposes the photos can be taken and on what media the photos
+can be published (internet, intranet, journal of an association, on social networks, etc.),
+while allowing them to accept the publication on one medium and not on another.
+In other cases, consent to the shooting may also be manifested by an act
+clear positive, such as posing at an end-of-year party for an association
+for a photo taken by a person belonging to the association. Again, if a member of a
+association participates in an information meeting on a specific subject and if it is indicated on the
+entrance door that photos will be taken to illustrate the meeting on the website of
+9
+
+Page 10
+
+association, this member gives his consent by entering the meeting room.
+However, a person can withdraw their consent by asking the photographer to
+delete their photos on their device and / or remove them from any site in the event of publication.
+Like almost every right, image rights also have exceptions, as in the case of
+prevalence of the right to freedom of expression which includes freedom of opinion and freedom of
+receive or communicate information (such as an illustration of an activity
+of an association on its website or the publication of a press article on an event
+of an association). During a public event organized by an association, photos
+can therefore be taken and published on different media, without the consent of the persons
+concerned. If an individual objects to this publication, the association shall, to the extent of
+possible, respect this opposition and, as an illustration, remove the image (the individual photo)
+or blur the person concerned.
+In all cases, the right of data subjects to be informed, as explained above
+below, is to be respected.
+In this context, you can consult our specific guidance on our website and more
+detail relating to image rights.
+
+10
+
+Page 11
+
+Informing the people concerned
+In accordance with the principle of transparency, you must appropriately inform all
+people from whom you collect and process data (members, licensees, customers,
+suppliers, etc.), regardless of the legitimacy criterion as explained above.
+Check that the information includes the following elements:
+• your identity and contact details;
+• why you collect the data ("the purpose"; eg to manage the list of your
+members) ;
+• what authorizes you to process this data (the “legal basis”: one of the six criteria
+of legitimacy mentioned above);
+• who are the recipients of the data (eg a federation, the control service
+sports medicine, tournament organizer, etc.);
+• if you are transferring data outside the European Union (specify the country and ensure
+make sure that there are appropriate safeguards around these transfers, e.g. when you use
+a cloud platform hosted in the United States of America);
+• how long you keep the data (e.g .: as long as a person
+is a member of an association);
+• the rights of data subjects as explained below;
+• the right to lodge a complaint with the CNPD.
+To avoid too long mentions on a paper or online form, you can
+for example, give a first level of information at the end of the form and refer to your
+privacy policy or a page dedicated to privacy on your website which must
+include all of the above. At the end of this step, you have answered your
+transparency obligation.
+→ See articles 12 to 14 of the GDPR concerning the information of data subjects.
+
+11
+
+Page 12
+
+Respect for the rights of data subjects
+The people whose data you process have rights over their data, which are, moreover,
+reinforced by the GDPR. These are mainly the following rights:
+• the right to information: see what is described above;
+• the right of access: the right to obtain access to one's data and to receive a copy thereof;
+• the right of rectification: the right to obtain the rectification of inaccurate data;
+• the right to erasure (also known as the right to be forgotten): the right to obtain
+controller for the erasure of data for various reasons (e.g. if a
+person withdraws their consent on which the processing is based). Nevertheless, it does
+it is not an absolute right. For example, if data retention is necessary
+to comply with a legal obligation, the right to be forgotten is not applicable;
+• the right to object: the right to request an end to the processing of its
+personal data for reasons relating to his particular situation, unless the
+responsible demonstrates the existence of overriding legitimate and compelling reasons or if the
+processing is prescribed by law.
+Regarding the sending of advertising, a distinction is necessary according to the mode used. In case
+sending advertising by post, the GDPR gives data subjects a right to
+object ("opt-out") at any time, but their prior consent is not required.
+Thus, an association can send information flyers by post or requests
+of donations to its own members, if it allows those contacted to oppose it (for
+example by providing them with a reply coupon or a specific email address allowing
+to express their wish to no longer receive such letters).
+In the event of sending advertising by electronic mail, the amended Luxembourg law of May 30
+2005 3 continues to apply to electronic communications. Two distinct situations
+can occur in this case:
+1.if an association has obtained electronic contact details as part of a relationship
+pre-existing (e.g. when selling a membership card), it can use them at
+advertising purposes without prior consent. In return, the people
+concerned must have the right to object at any time (and be informed of this right
+when the data is collected, as well as during each prospecting message).
+2.if no link between an association and an individual exists, prior consent must
+be requested before sending electronic emails ("opt-in").
+An association must give the various people concerned the means to exercise
+indeed their rights. If you have a website, provide a contact form
+specific, dedicated phone number or email address. If you offer a
+online account, give your members the possibility to exercise their rights from their
+account. Put in place an internal process to ensure the identification and
+processing of requests within short deadlines (1 month maximum).
+
+3 The
+
+amended law of 30 May 2005 on the protection of privacy in the communications sector
+electronic.
+
+12
+
+Page 13
+
+Be careful not to keep the data longer than necessary. If for example a member
+of an association resigns, these data should in principle be deleted.
+If an individual feels that you are not respecting their rights, they can contact the CNPD.
+→ See articles 13 to 21 of the GDPR concerning the rights of data subjects.
+
+13
+
+Page 14
+
+The data protection officer
+The data protection officer occupies an important place within the legal framework
+created by GDPR. It has a mission of information, advice and control of compliance with the rules
+provisions in terms of data protection. The DPO also acts as a point of contact
+for the CNPD.
+In principle, the processing of personal data is not at the heart of daily activity
+of an association, but it is an accessory activity, essential for its functioning,
+its management and administration. The mandatory appointment of a DPO is therefore very rare in this
+field.
+It is mandatory to appoint a DPO if one of the following three conditions applies:
+1. you are a public authority or a public body (not applicable);
+2.your core activities consist of processing operations requiring regular monitoring
+and systematic on a large scale of the persons concerned (in principle not applicable);
+3.your core business consists of large-scale processing of sensitive data
+or relating to criminal convictions and offenses (rarely applicable).
+It therefore turns out that among these three scenarios, only the last one is likely to
+apply to associations, as for example within the framework of a national network of aid and
+home care services processing large-scale health data. Certain associations
+can also appoint a joint DPO, who can be either a staff member (DPO
+internal), or carry out its missions on the basis of a service contract (external DPO).
+His contact details must be communicated to the public (a specific email address on the website
+will be sufficient) and to the CNPD through the nomination form available on its website.
+→ See articles 37 to 39 of the GDPR concerning the DPO.
+
+14
+
+Page 15
+
+Outsourcing
+You can, in your capacity as data controller, entrust the management of certain
+processing of personal data by external service providers (e.g. for the implementation,
+as well as the technical management of your website, for recording data on
+servers made available by a third party, for the use of a cloud, the administrative management of
+your members, an accountant who calculates salaries, etc.).
+You can only use subcontractors who provide sufficient guarantees as to
+compliance with data protection regulations (you must check this and
+have proof).
+In the case of subcontracting, the establishment of a subcontracting contract is necessary. This
+contract must be binding on both parties, providing, among other things, that the subcontractor cannot process
+personal data for its own purposes, but only on the instruction of the
+controller. Standard clauses relating to the rules of the GDPR must be found there.
+The GDPR strengthens the obligations imposed on the processor. For example, it must also establish a
+register of processing activities, it must notify the controller of any violation of
+personal data, and it may also be subject to the obligation to appoint a DPO.
+→ See article 28 of the GDPR concerning the processor.
+
+15
+
+Page 16
+
+Other more specific obligations
+A data protection impact assessment (Articles 35 and 36 GDPR) is required
+in advance in the event of processing likely to create a high risk for the rights and
+freedoms of natural persons. Associations will only very rarely be faced with
+such an obligation.
+A personal data breach (Articles 33 and 34 of the GDPR) can never be ruled out
+one hundred percent (attacks by hackers, loss of the list of members, loss of a
+laptop or USB stick). This violation must first be recorded in your
+internal register (this register is mandatory and independent of your treatment register).
+Then, in principle, you have the obligation to notify the violation to the CNPD within 72 hours.
+and in some cases, also to the people concerned. A notification form for
+data breach can be found on the CNPD website.
+Specific rules are provided for any data transfers to third countries
+(outside the European Union) or to an international organization (articles 44 to 49 of the GDPR) and the
+persons concerned by these transfers must be informed in advance. Such is by
+example the case if you choose for the sending of your newsletters a service provider who
+offers its services in Europe, but which transfers the data to countries outside the Union
+European (e.g. United States of America, China, India, etc.). In general, the
+CNPD recommends that you check from the outset whether service providers established in the Union
+European Union offer you the same services, as they are subject to the same rules in
+data protection matters.
+You are obliged to put in place appropriate technical and organizational measures
+in order to guarantee a level of security adapted to the risk (article 32 of the GDPR). The principles of
+Data protection by design and by default (Article 25 GDPR) are very important.
+They imply that, by default, only people within an association who need
+for the performance of particular tasks have access to the personal data in question. Through
+example, the committee of an association must be able to access member data in order to
+to assume all its tasks. On the other hand, the treasurer of an association must not have access to
+all the data from the various data processing operations, but, where applicable, only
+to those which are necessary to be able to assume its tasks such as management
+contributions, keeping the books of account and making bank transfers.
+You can also consult our two brochures ( “ Your obligations in terms of
+data protection ”and “ Your data? Your rights! "), As well as our page dedicated to the GDPR
+on our website.
+
+16
+
+Page 17
+
+Annex 1: Model of an information notice
+Warning: This document is only a model of an information notice, which includes the
+mandatory information provided for in Article 13 of the GDPR. Points 1 to 4 must be completed and
+adapted on a case-by-case basis depending on the activities and purposes of the data processing of the association
+in question. Said notice is to be published at least on the association's website, otherwise and in addition in
+documents and correspondence intended for the persons concerned.
+1. Name and contact details of the controller
+Name of the association, postal address, telephone number, email address, website and possibly
+the names of the committee members.
+2. Purposes, basis of legitimacy of the processing and categories of data processed
+The association processes the following data:
+• For the administrative management of members (on the basis of consent / contract): name,
+first name, postal address, email address, date of membership;
+• For sending newsletters (on the basis of consent): surname, first name, postal address, address
+mail;
+• For supplier management (on the basis of a contract): surname and first name of the contact person,
+postal address, email address, telephone number;
+• For the management of contributions (on the basis of consent / a contract): last name, first name, address
+postal, email address, bank account;
+• For the management of contact lists other than members: last name, first name, postal address,
+mail address ;
+• For the management of employees 4 (on the basis of a contract): last name, first name, CV, postal address, address
+email, national identification number, date of birth, tax class, criminal record, account
+banking, salary, sickness certificates;
+• For the management of licensees (on the basis of consent / of a contract): last name, first name, address
+postal, email address, date of birth, photo;
+•…
+• (to be adapted on a case-by-case basis)
+
+3. Categories of recipients of processed data
+• As part of the administrative management of members, data is transferred to
+members exercising an internal function (the Committee, the secretary, the treasurer, etc.);
+• For newsletter dispatch, data is transferred to an external service provider;
+• Employee data is transferred to a fiduciary for the establishment of data sheets.
+salary ;
+• The licensees' data can be transmitted to the organizer of a tournament and to the control
+sports medicine;
+• All data is stored by a subcontractor located in Luxembourg;
+•…
+• (to be adapted on a case-by-case basis)
+
+4 If
+
+applicable: employees must be informed individually.
+
+17
+
+Page 18
+
+4. Retention period
+• Member data: 1 year after:
+o non-payment of the annual membership fee
+o that a member leaves the association
+o exclusion of a member
+o ...
+o (to be adapted on a case-by-case basis)
+• Data processed within the framework of the management of contributions: 2 months after the annual closing of
+accounts ;
+•…
+• (to be adapted on a case-by-case basis)
+
+5. Rights of data subjects
+You can access your data and obtain a copy (article 15 of the GDPR), obtain
+rectification of inaccurate or incomplete data (article 16 of the GDPR), oppose the processing of
+your data under the conditions provided for in Article 21 of the GDPR and obtain their erasure in
+the conditions provided for in Article 17 of the GDPR. You have in certain cases a right to portability
+(article 20 of the RGPD) and to the limitation of the processing under the conditions provided for by article 18 of the RGPD.
+6. Complaint
+If you believe that the processing of your data carried out by us constitutes a violation of the GDPR, you
+can lodge a complaint with the CNPD ( www.cnpd.lu ) .
+
+18
+
+Page 19
+
+Annex 2: Illustration of a register of processing activities based on Article 30 of
+general data protection regulation
+Warning: This document constitutes only a model of a register of processing activities, which includes an illustrative and non-exhaustive list of
+usual treatments of a combination. The various sections must therefore be completed and adapted on a case-by-case basis depending on the activities and
+purposes of the association's data processing.
+
+Name and contact details of the data controller: Name of the association, names of committee members, postal address, contact number
+phone, email address, website, last update 5
+Purpose
+
+Categories
+of
+
+Categories of
+processed data
+
+Categories of
+recipients
+
+Transfers
+towards
+
+people
+concerned
+Treatment
+n°1
+
+Management
+administrative
+
+Members of
+association
+
+members
+
+third country
+• Last name,
+
+• Card printing
+
+• First name
+• Address
+
+of members
+• Cloud service
+
+• Mail address
+
+• Members exercising
+
+• Subscription date
+
+an internal function
+(the secretary, etc.)
+• etc.
+
+• etc. 6
+
+Treatment
+n°2
+
+Management
+
+Members
+
+contributions
+
+Deadlines for
+the erasure of
+
+In
+
+more
+
+treatment
+Bank account
+
+of
+n ° 1:
+
+NA 7
+
+Measures
+security
+
+data
+
+organizational
+and techniques
+• Access control
+
+1 year after:
+• non-payment of the
+annual subscription
+• to have
+quits
+association
+• exclusion
+
+of a
+
+member
+• etc.
+
+Members exercising
+
+N/A
+
+internal function (the
+treasurer, etc.)
+
+2 months after closing
+
+of the file
+• Measures of
+traceability
+• Measurement of
+protection of
+software
+• etc.
+Same
+
+annual accounts
+
+The association must check regularly (+/- once a year) that the register is up to date.
+6 Whenever this document mentions “etc. », The association must adapt and complete the content of the section in question to its concrete situation.
+5
+
+7
+
+In principle not applicable.
+
+Page 20
+
+Treatment
+n°3
+
+Newsletter
+
+All those there
+having
+consented
+
+• Last name
+• First name
+
+Service provider
+external
+
+NA 8
+
+Until the withdrawal of
+consent
+
+Same
+
+N/A
+
+To be determined on a case-by-case
+Same
+basis
+
+• Address
+• Mail address
+• etc.
+
+Treatment
+n°4
+Treatment
+n°5
+
+Treatment
+n°6
+
+Site management
+
+• Members
+
+• IP adress
+
+Service provider
+
+Internet
+
+• Visitors
+
+• Cookies
+
+external
+
+• etc.
+
+Publication of
+
+of the site
+• Members
+• Spectator
+
+events
+
+pictures on the
+website
+
+Site visitors
+
+N/A
+
+Until the withdrawal of
+
+Same
+
+consent
+
+rs
+• Other third party
+
+Management
+lists
+of
+contact
+("VIP") no
+members
+
+Treatment
+n°7
+
+Photos taken during
+
+case
+
+Management
+suppliers
+
+• Politicians
+
+• Last name,
+
+• Commercial
+
+• First name
+
+ts
+• Sponsors
+
+• Address
+
+• etc.
+
+• etc.
+
+N/A
+
+N/A
+
+Until opposition of
+the person concerned
+
+Same
+
+• Trustee
+
+N/A
+
+• 10 years
+
+Same
+
+N/A
+
+• 3 years after termination
+
+Same
+
+• Mail address
+
+Suppliers • Name and first name
+
+• Members exercising
+
+of the person
+of contact
+• Address
+
+internal function (the
+treasurer, etc.)
+• etc.
+
+• Mail address
+• Number
+
+of
+
+phone
+• etc.
+Treatment
+n°8
+
+Management
+
+Employees
+
+employees
+
+In
+
+more
+
+of
+
+• Trustee
+
+treatment n ° 1:
+• CV
+
+• Members exercising
+
+• Number
+
+Committee, etc.)
+• Taxes
+
+of the employment contract
+• criminal record: 1
+
+internal function (the
+
+identification
+national
+• Tax class
+
+months from
+conclusion of the contract
+working
+• etc.
+
+• Social Security
+• etc.
+
+• Criminal record
+• Date of Birth
+
+8
+
+Be careful if the said service provider, offering its services in Europe, transfers the data to countries outside the European Union.
+
+20
+
+Page 21
+
+• Bank account
+• Salary
+• Certificates
+
+of
+
+disease
+• etc.
+Treatment
+n°9
+
+Video-
+
+Members and
+
+surveillance
+for
+protection of
+
+other
+users of
+local
+
+the
+
+Pictures
+
+goods (premises,
+installations,
+equipment,
+etc.)
+
+• Members exercising
+internal function (the
+Committee, etc.)
+• Subcontractor
+society
+guarding)
+• Police
+• Judicial authorities
+• etc.
+
+...
+
+21
+
+Page 22
+
+NATIONAL COMMISSION FOR DATA PROTECTION
+1, avenue du Rock'n'roll I L-4361 Esch-sur-Alzette
+Phone. : (+352) 26 10 60 - 1 I Fax. : (+352) 26 10 60 - 29
+
+www.cnpd.lu
+
+N/A
+
+(a
+of
+
+8 days
+
+Same
+
+
