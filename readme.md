@@ -55,6 +55,10 @@ If you encounter any issues or have questions, please:
 2. Open an issue in our GitHub repository
 3. Contact our maintainers
 
+## Video Tutorials
+
+For visual demonstrations and tutorials, check out our YouTube channel:
+[TrustEval YouTube Channel](https://www.youtube.com/@TrustEval)
 ---
 
 ## License
