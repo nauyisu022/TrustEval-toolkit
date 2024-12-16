@@ -30,8 +30,12 @@ pip install .
 
 ## Usage
 
-Here is an example of how to use this toolkit:
+### Global Config
 
+To configure your API key for the TrustEval toolkit, run the following command:
+```python
+python trusteval/src/configuration.py
+```
 
 ### Examples
 
