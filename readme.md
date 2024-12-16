@@ -16,13 +16,8 @@ cd TRUSTEVAL-TOOLKIT
 ### 2. Set up a Conda environment (Recommended)
 
 Create and activate a new environment to manage dependencies:
-<<<<<<< HEAD
-```
-conda create -n trusteval_env python=3.8
-=======
 ```bash
-conda create -n trusteval_env python=3.9
->>>>>>> e429c1f4c3c6381ed0d3f124f1e1c81c89952305
+conda create -n trusteval_env python=3.10
 conda activate trusteval_env
 ```
 
