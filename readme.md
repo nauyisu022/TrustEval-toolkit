@@ -17,7 +17,7 @@ cd TRUSTEVAL-TOOLKIT
 
 Create and activate a new environment to manage dependencies:
 ```bash
-conda create -n trusteval_env python=3.8
+conda create -n trusteval_env python=3.9
 conda activate trusteval_env
 ```
 
@@ -62,9 +62,6 @@ If you encounter any issues or have questions, please:
 2. Open an issue in our GitHub repository
 3. Contact our maintainers
 
----
-
-**Happy Evaluating!** 🚀
 
 ## License
 
