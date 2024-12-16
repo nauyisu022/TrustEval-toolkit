@@ -30,13 +30,17 @@ pip install .
 
 ## Usage
 
-Here is an example of how to use this toolkit:
+### Global Config
 
+To configure your API key for the TrustEval toolkit, run the following command:
+```python
+python trusteval/src/configuration.py
+```
 
 ### Examples
 
 Example notebooks located in the `examples` directory:
-- basic usage examples
+
 
 ## Documentation
 
@@ -51,6 +55,10 @@ If you encounter any issues or have questions, please:
 2. Open an issue in our GitHub repository
 3. Contact our maintainers
 
+## Video Tutorials
+
+For visual demonstrations and tutorials, check out our YouTube channel:
+[TrustEval YouTube Channel](https://www.youtube.com/@TrustEval)
 ---
 
 ## License
