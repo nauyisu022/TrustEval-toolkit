@@ -68,7 +68,7 @@ async def main_async(base_dir):
             print(f"Response was: {response}")
             return None
 
-    data_items = list(data.keys())
+    data_items = list(data.keys())[:1]
     tasks = [{'item': item} for item in data_items for _ in range(30)]
 
     all_data_points = await apply_function_concurrently(generate_story, tasks, max_concurrency=10)

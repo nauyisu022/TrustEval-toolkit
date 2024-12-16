@@ -27,8 +27,6 @@ sys.path.append(PROJECT_ROOT)
 from src.generation import ModelService  # Ensure this import works based on your project structure
 
 # Proxy settings (if necessary)
-os.environ['http_proxy'] = 'http://127.0.0.1:7890'
-os.environ['https_proxy'] = 'http://127.0.0.1:7890'
 
 
 class ResponseProcessor:

@@ -14,8 +14,6 @@ from PIL import Image
 
 from .base_handler import RequestHandler
 
-# os.environ['http_proxy'] = 'http://127.0.0.1:7890'
-# os.environ['https_proxy'] = 'http://127.0.0.1:7890'
 
 class OpenAISDKHandler(RequestHandler):
     def __init__(self, config):

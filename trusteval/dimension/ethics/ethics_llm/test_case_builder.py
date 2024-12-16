@@ -46,7 +46,6 @@ async def call_gpt4o_api(prompt):
     return ""
 
 
-# 基于当前脚本位置设置路径
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def load_input_json(file_path):

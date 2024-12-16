@@ -3,8 +3,6 @@ import os
 import zipfile
 from .utils import colored_print as print
 
-os.environ['http_proxy'] = 'http://127.0.0.1:7890'
-os.environ['https_proxy'] = 'http://127.0.0.1:7890'
 
 url_mapping = {
     'truthfulness_llm': 'https://drive.google.com/uc?id=10KfKoEv-wSw9Vwoq-AWJqsCVs0ABySrj',

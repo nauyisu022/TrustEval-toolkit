@@ -19,6 +19,7 @@ from .fairness.fairness_vlm.pipeline import run as fairness_vlm
 
 # # Privacy
 # from .privacy.privacy_t2i import pipeline as privacy_t2i
+from .ai_risk import dynamic_dataset_generator
 
 __all__ = [
     'fairness_vlm',
