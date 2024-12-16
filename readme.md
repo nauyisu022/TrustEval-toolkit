@@ -1,6 +1,6 @@
 # TrustEval-TOOLKIT
 
-A comprehensive toolkit for evaluating trustworthiness in language models and generated content.
+
 
 ## Installation
 
@@ -16,7 +16,7 @@ cd TRUSTEVAL-TOOLKIT
 ### 2. Set up a Conda environment (Recommended)
 
 Create and activate a new environment to manage dependencies:
-```bash
+```
 conda create -n trusteval_env python=3.8
 conda activate trusteval_env
 ```
@@ -32,22 +32,11 @@ pip install .
 
 Here is an example of how to use this toolkit:
 
-```python
-from trusteval import TrustEvaluator
-
-# Initialize evaluator
-evaluator = TrustEvaluator()
-
-# Run evaluation
-results = evaluator.evaluate(your_data)
-```
 
 ### Examples
 
-Example notebooks demonstrating various use cases are located in the `examples` directory:
-- Basic Usage Demo
-- Advanced Evaluation Examples
-- Custom Metrics Implementation
+Example notebooks located in the `examples` directory:
+- basic usage examples
 
 ## Documentation
 
@@ -65,7 +54,3 @@ If you encounter any issues or have questions, please:
 ---
 
 **Happy Evaluating!** 🚀
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
