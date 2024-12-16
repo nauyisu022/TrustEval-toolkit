@@ -1,0 +1,1223 @@
+Page 1
+
+COVID-19
+In the fight against the Covid-19 epidemic, we all stand behind it
+overriding goal to improve the health of our citizens
+to protect. But even in this special period it is important that the
+principles of data protection are complied with.
+
+We reiterate that protecting data is not an obstacle to the
+fight against the spread of the virus. The privacy principles make it possible to
+strike a good balance between the different interests at stake.
+For that reason, the Authority wants to give a few tips so that the balance is maintained between the
+protection of privacy and the protection of public health.
+
+Advice on COVID-19
+The Knowledge Center of the GBA has issued several recommendations regarding designs
+of normative texts on COVID-19. Our General Secretariat also has advice on
+data protection impact assessment (“DPIA”). You can find them all listed on
+the "Covid-19 Advice" page .
+
+Covid-19 in the workplace
+Following the outbreak of COVID-19, the Data Protection Authority received
+Recently a number of recurring questions regarding the preventive measures taken by companies
+and employers are taken to prevent the further spread of the virus and the
+conditions under which personal data - and in particular health data - in this
+connection may be processed.
+
+In accordance with article 20, 2° of the law of 3 July 1978, the employer is obliged to
+“to ensure that the work is performed under proper conditions with due care”
+with regard to the health and safety of the worker”. In implementation of this
+As a result, many employers take preventive measures. The question arises, however, how this
+
+Page 2
+
+obligation is related to the employee's right to protection of his private life and
+personal data.
+It is of course up to the employer to take a number of preventive measures regarding
+work organization (flexible working hours, teleworking, postponement of staff parties, …) as well as
+raising awareness about social distancing and hygiene in the workplace (see website FPS
+Employment, Labor and Social Dialogue) . However, preventive measures to be taken as soon as
+involve the processing of personal data, the provisions of bepalingen
+the General Data Protection Regulation (hereinafter: “GDPR”) are respected.
+Public health is of the utmost importance to us and prevention and the right to protection
+of personal data are not contradictory. We do recommend that you follow the instructions of the
+competent authorities - including the FPS Public Health - so that all genomes
+measures are proportionate. In this way, both good life hygiene and good health
+“data hygiene” assured! In response to the recently asked questions, the
+Data Protection Authority Below are some general principles regarding
+data protection and answers some frequently asked questions.
+
+Lawfulness of processing (Articles 6 and 9 GDPR)
+Also in the context of taking preventive health measures, the general rule is:
+principle that any processing of personal data must comply with the conditions of
+article 6.1 GDPR and must be based on one of the listed in this article
+legal grounds.
+In this regard, it should be noted in particular that at this stage and on the basis of the
+latest information published by the FPS Public Health regarding COVID-19
+there is no reason for a broader or systematic application of the legality ground
+contained in Article 6.1, d) GDPR (“necessity of the processing for the protection of vital
+interests of the data subject or other natural persons") in the context of taking
+preventive measures by companies and employers.
+This applies all the more to the processing of health data, for which Article 9 GDPR applies
+principle prescribes a processing ban. It should be noted that companies and
+employers undertake for the processing of this category of personal data exclusively
+can rely on Article 9.2, i) GDPR if they act in accordance with express
+guidelines imposed by the competent authorities. Furthermore, the assessment of the risks
+health, moreover, should not be carried out by the companies and employers but
+by the occupational physician, who is competent for the detection of infections and for the
+inform the employer and the persons who came into contact with the infected person.
+
+Page 3
+
+This information is provided by the company doctor on the basis of Articles 6.1, c) and 9.2, b)
+GDPR (processing for the implementation of an employment law obligation).
+
+Preventive measures and the general principles on
+personal data processing
+When processing personal data in the context of the implementation of “COVID-19”In addition to the aforementioned GDPR provisions, preventive measures also serve the general
+data processing principles must be respected.
+In particular, measures involving the processing of personal data should
+respect the principle of proportionality and the principle of minimum data processing
+(Article 5.1, c) and e) GDPR).
+After all, as with any data processing, only the minimum necessary amount
+data is processed to achieve the intended purpose.
+Furthermore, companies must be transparent about the measures taken and their
+adequately inform employees and visitors about the processing purposes and the
+retention period of the personal data collected in this context (Article 5.1, a) GDPR).
+Finally, the necessary security measures must also be taken to protect
+of the personal data to be processed (Article 32 GDPR).
+
+Can I have a real-time infrared camera in the reception area of
+my company places that measure the body temperature of my
+employees can be monitored?
+No, this is not allowed. A person's body temperature is a health data. The
+processing of health data is prohibited under Article 9.1 GDPR unless a law
+makes an exception to this. In the absence of such legal exception
+(for example, a collective labor agreement) a controller may not measure the body temperature
+measuring the employees by means of advanced electronic measuring devices such as
+fever scanners and heat cameras. See also our separate FAQ on this topic.
+
+Can I see the employees and visitors of my company
+compel them to complete a questionnaire to find out whether they
+show symptoms of COVID-19, whether they present themselves during the
+
+Page 4
+
+been in a risk area in the past 14 days and whether they have recently
+came into contact with people who tested positive for
+COVID-19?
+No, this is not allowed. The GDPR applies to the registration of personal data in the
+questionnaire.
+An organization can never oblige visitors or employees to fill in a
+such questionnaire. These questions assess the health situation of the visitor or
+employee, through which you would process health data.
+The processing of health data is prohibited under Article 9.1 GDPR unless a law een
+makes an exception to this or the data subject grants free consent. In the relationship between
+employee and employer, the employee's consent is rarely free because an employee
+may experience great pressure to consent.
+Completing the questionnaire is therefore only possible if the employee or the
+visitor can freely refuse to complete the questionnaire without incurring adverse consequences
+(e.g. not being able to access the workshop). Consequently, you can be a visitor or bezoeker
+employee to complete this questionnaire.
+
+Can my employer oblige me to take a corona test?
+undergo?
+No, this is not allowed. An employer cannot carry out such a test solely on the basis of his employer's authority
+obligatory on staff. After all, this affects the physical integrity of the
+employees. Without a legal basis, an employee should not be forced to
+have it tested. However, the Authority emphasizes that it can sometimes be of great importance that a
+staff member has himself tested, for example in the medical sector.
+
+Can an employer require his staff to wear a bracelet?
+wear that should help enforce social distancing rules
+to comply with in the workplace, to register risk contacts and to
+to observe the location of the employees.
+Situation 1: The bracelet anonymously only supports keeping a safe distance
+(so-called “social distancing”)
+
+Page 5
+
+Yes, this is allowed.
+When the bracelet only sends out a signal in case a second bracelet is within a
+predetermined perimeter, the Authority sees no problem: measure the two bracelets
+Then only the distance, and if it becomes too small (< 1.5 m) an alarm will go off to inform those involved
+To inform. There is no possible link with an identifiable person. This is
+allowed.
+Situation 2: the bracelet not only supports keeping a safe distance (so-called “social
+distancing"), but also stores location data.
+No, this is not allowed.
+In this case, the GDPR applies, because (location) data of identifiable persons
+are used.
+Since this involves storing information or gaining access to
+information stored in the terminal equipment (here: the bracelet) of the employee, are Article 5
+(3) of the ePrivacy Directive and article 129 of the Belgian law of 13 June 2005 on the
+electronic communications apply. This means that the employee's consent
+necessary to roll out this system.
+This consent must be free as prescribed by Article 7.4 of the GDPR. In the relationship
+between employee and employer, the employee's consent is rarely free because a
+employee may experience pressure to consent. Wearing the bracelet is therefore not
+possibly because the employee cannot freely refuse this without any adverse consequences
+(e.g. not being able to access the workplace).
+
+Can I install a camera in my shop that is based on
+artificial intelligence sends an alert to a
+shop assistant when the visitor is not wearing a mouth mask?
+No, this is usually not allowed.
+The camera that films the visitor of the store carries out a processing of personal data,
+even if the camera images are only stored locally and for a very short time
+(real time detection).
+Article 5 of the GDPR prescribes that the processing of personal data is always
+must be proportionate: adequate, relevant and limited to what is necessary for the
+pursued purpose.
+
+Page 6
+
+The store will have to demonstrate that this detection via camera images is the only efficient measure
+and that less privacy-intrusive solutions (such as visual check by shopper assistant)
+were inadequate. Barring exceptional circumstances, the Authority is of the opinion that
+this method of detection is disproportionate in the majority of situations.
+
+Can I install a camera in the workplace that is based on
+artificial intelligence sends an alert to the
+employer when an employee does not wear a mouth mask?
+No, this is usually not allowed.
+The camera that films the employees carries out a processing of personal data, even
+when the camera images are only stored locally and for a very short time (real-time
+detection).
+Article 5 of the GDPR prescribes that the processing of personal data is always
+must be proportionate: adequate, relevant and limited to what is necessary for the
+pursued purpose. Also the collective labor agreement no. 68 on camera surveillance
+in the workplace repeats this principle.
+The employer will have to demonstrate that the detection via camera images is the only efficient
+measure and that less privacy-intrusive solutions (such as visual control by
+supervisory staff) were insufficient. Except in exceptional circumstances, the
+Authority believes that this method of detection in the majority of situations
+is disproportionate.
+If the employer can demonstrate that the processing is proportional, it must comply with the provisions
+of the collective labor agreement no. 68 on camera surveillance in the workplace
+comply.
+
+Is a company or employer allowed in the context of the prevention of
+of the further spread of the virus the names of
+disclose infected persons/employees?
+Pursuant to the principle of confidentiality (Article 5.1, f) GDPR) and the principle of the
+minimum data processing (Article 5.1, c) of the GDPR), an employer may provide the names of data subjects
+do not just disclose information within the company. Proportionality is also an important
+basic principle to be followed when processing (medical or otherwise) personal data. With the
+In view of, for example, the prevention of further spread, the employer may of course
+
+Page 7
+
+inform other employees of an infection, without stating the
+identity of the person(s) involved.
+Indeed, in most cases it is not necessary (or even desirable) to mention a name,
+because this could also have a stigmatizing effect.
+The name of the infected person may be communicated to the occupational physician
+or the competent public authorities.
+
+Can an employer require his employees to
+report a Covid-19 infection to him for safety
+of the other employees and third parties?
+No. Employees are obliged by the Employment Agreements Act and the Welfare Act to:
+ensure the health and safety of other employees and third parties. Thereby
+employees also have an obligation to refrain from anything that could cause harm
+to other employees and third parties. These obligations do not ensure that the employer of
+can demand that his employees contact him directly in the event of a Covid-19 infection
+to inform.
+An employee who has contracted a Covid-19 infection can voluntarily indicate this
+report to employer. However, this does not authorize the employer to process this information.
+This information is personal data in the light of the GDPR and in principle may not be
+are processed. For example, the employer is not allowed to disclose the identity of the infected employee
+to the employees. However, the employer may, on the basis of the voluntary
+notification to inform the employees of an infection with a view to the
+prevention of further spread of the virus, but here the identity of the
+employee concerned will not be disclosed.
+When the work of the employees may involve intensive human contact
+an employer does ask employees to keep Covid-19 infections confidential
+report to the occupational health physician.
+
+What information can I ask an employee who
+Circumstances leave (minor absence) asks to let oneself
+vaccinate?
+When an employee requests a minor delay to be vaccinated, you may as mag
+employer only request information that is strictly necessary for the reason (vaccination against
+
+Page 8
+
+Covid-19) and the time to check. The employer may therefore ask for the confirmation
+of vaccination appointment.
+However, the employer may not take a copy of this confirmation, nor may it register
+which employees were vaccinated at what time. It is enough, after checking na
+the confirmation of the appointment, to book the absence as a minor delay.
+More information can be found in the advice 25/2021 of the Knowledge Centre.
+
+Measuring fever as part of the fight against
+COVID-19
+The GBA notes that in the context of the restart of the social and economic
+life controllers are looking for technological solutions to
+from their buildings to detect individuals developing a fever to prevent them from
+buildings and this to prevent further contamination within the buildings.
+They see the setting up of such an access policy as their task (namely to ensure safety and security).
+health of the persons concerned).
+
+Such a temperature decrease then takes place via a conventional thermometer, via digital
+fever scanners aimed at the forehead of the person concerned or via advanced
+heat camera systems.
+The GBA understands that the current situation is trying for everyone but reminds that it
+temperatures of natural persons falls under the GDPR if that act in itself or
+subsequently gives rise to the processing of personal data.
+In that case, controllers will:
+a whole range of GDPR obligations, such as transparency, towards the individuals concerned
+to ensure;
+ensure data security;
+possibly carry out a data protection impact assessment; and
+have an appropriate legal basis for processing.
+
+The temperature of a natural person is personal data. What's more, the temperature
+of a person belongs to a special category of personal data. The value of
+body temperature is in itself a personal data about health.
+
+Page 9
+
+The GDPR protects personal data that are automatically processed or intended to
+to be included in a file (or are already in it). When it comes to health data,
+then the processing is even prohibited in principle, barring exceptions.
+
+When do the temperatures of natural persons fall already
+not covered by the GDPR?
+SITUATION 1: JUST READING TEMPERATURE WITHOUT
+REGISTRATION
+If the measured body heat is only read directly and not in a file
+is registered, then there is no processing of personal data on which the
+GDPR applies.
+So if it only concerns the mere reading of the temperature on a classic thermometer,
+without the intention to record these measurement data afterwards (individualized), then
+that reading in itself is not subject to the application of the GDPR and therefore not under the supervision of
+the DPA, even if the general principles of the protection of personal data remain
+life is applicable.
+An example of this is taking the temperature of employees for the purpose of
+to report anonymously (e.g. percentage of persons with elevated temperature, without
+however, any link – not even retrospectively – with identifiable persons is possible).
+Of course, it is often precisely the intention to take additional steps with regard to
+of persons who refuse to have their temperature measured, or who would have a fever during a measurement
+show: these persons will be denied access to the buildings to continue
+to avoid the risk of contamination.
+If this does not involve additional registration of identifiable persons, there will be
+there is still no processing of personal data to which the GDPR applies
+applies.
+An example of this is the registration of the temperature of visitors (of, for example, a
+hospital, a museum or library): if the visitor refuses the
+temperature recording or in case of increased temperature measurement, normally only access to the
+building will be denied without further registration. In that case, there is still no question
+processing of personal data to which the GDPR applies.
+
+Page 10
+
+SITUATION 2: READING TEMPERATURE WITH REGISTRATION
+If, however, after the temperature has been taken, further steps are accompanied by a
+additional registration (e.g. to justify a refusal of access to the data subject, or
+to document it for other purposes), on the other hand, there will be a
+processing of personal data to which the GDPR applies.
+In this context we can, for example, think of staff members who are not allowed to leave their workplace
+entering and suppliers who are not allowed to deliver their cargo: as they are “not done” to
+are sent home, additional processing will inevitably have to be set up
+to take such a “lock-out measure” with regard to them (possibly even with financial
+impact). In other words, for them, even if the measurement result in itself would not
+are recorded, the results of that measurement are subsequently linked concretely to their
+“file” and/or identity and are therefore processed as personal data.
+An example of this is the registration of the temperature in a school context. Even though
+the read temperature itself is not registered, but a note is made in the
+student file that someone is absent or ill, then it is of course a processing
+of (possibly even medical) personal data, to which the GDPR does apply and
+for which there is no basis. This is not allowed under current legislation.
+In this case, just as in an employment context (employer-employee), because of
+a lack of equality between the parties involved cannot fall back on the
+consent of the data subject.
+For the avoidance of doubt, if the measured temperature itself of identifiable persons in a
+file is recorded, then there is always an (unauthorized) processing of
+personal data about health.
+The processing of such health data is prohibited in principle, unless
+exceptions (cf. infra).
+
+SITUATION 3: ADVANCED ELECTRONIC MEASUREMENT
+Moreover, the GDPR does not only apply to the recording of personal data in a
+file, but also if a processing takes place in an advanced digital way, which means
+This is the case if one automatically (or remotely) measures the skin temperature of a person. In that
+In that case, the data is not merely read, but is preceded (electronically)
+processed.
+After all, with such automated processing, one has to think of all the in Article 4.2)
+GDPR-mentioned processing that is performed automatically (not manually),
+including already the purely digital collection without further storage or recording.
+
+Page 11
+
+After all, “processing” does not only include storing data. just it
+advanced digital temperatures of persons per se (ie going beyond mere reading),
+is an automated processing under the GDPR.
+This also means that the use of digital advanced fever scanners, heat cameras or
+other automated systems that measure the value of body heat are in themselves a
+processing of personal data about health and is therefore not permitted.
+The next step after such an automated temperature measurement can in turn be
+not automated. There may be human intervention, in which a
+guard who oversees the recording of the temperature, the person who develops a fever
+standing and denying him access to the building, but they also have more
+advanced systems that remotely screen people for fever symptoms
+and where the entrance gate to the building automatically remains closed to persons who have a fever
+appear to develop.
+In the latter case, there is even a risk that those involved may not even realize that they are actually
+have been subjected remotely to a covert fever detection system. This would of course
+are also completely incompatible with the transparency requirements of the GDPR.
+
+The GDPR applies, now what?
+LEGAL BASIS
+If the temperatures per se or possibly afterwards are accompanied by the processing of
+personal data, and in particular personal data about health, a problem arises,
+because the processing of such health data is, after all, prohibited in principle
+(see Art. 9 para. 1 GDPR). A controller must with regard to data subjects
+and the DPA can demonstrate that it can invoke an exception within the meaning of Article 9.2 GDPR
+not to be subject to the processing ban.
+The relevant exceptions in Article 9.2 GDPR concern:
+“the data subject has given explicit consent to the processing of that data”
+personal data for one or more specified purposes, except where provided for in Union law
+or Member State law provides that the prohibition referred to in paragraph 1 cannot be exercised by the data subject
+can be lifted”;
+“the processing is necessary for the performance of obligations and the
+exercise of specific rights of the controller or the
+data subject in the field of labor law and social security and
+social protection law, to the extent permitted by Union or Member State law
+
+Page 12
+
+law or by collective agreement under Member State law
+guarantees the fundamental rights and interests of the data subject';
+“the processing is necessary for reasons of substantial public interest, on the basis of
+of Union or Member State law, where proportionality with the aim pursued
+is guaranteed, the essential content of the right to protection of
+personal data is respected and appropriate and specific measures are taken
+taken to protect the fundamental rights and interests of the
+data subject”;
+“the processing is necessary for reasons of public interest in the field of
+public health, such as protection against serious cross-border hazards to
+the health or ensuring high standards of quality and safety of the
+healthcare and of medicines or medical devices, on the basis of
+Union or Member State law laying down appropriate and specific measures
+to protect the rights and freedoms of the data subject, in particular the
+professional secrecy.”
+
+EXPRESS CONSENT
+There is an exception to the general prohibition on the processing of personal data about
+health if the data subject gives his explicit consent.
+One of the requirements for valid consent is that consent must be free
+given. See on this point Recital 42 GDPR: “Consent should not be deemed to be freely given”.
+have been granted if the data subject has no real or free choice or cannot give his consent
+refuse or revoke it without adverse consequences”.
+Requesting explicit consent from the data subject to record such data will
+therefore be problematic. After all, consent presupposes that the data subject has a choice and
+that he can therefore also refuse to consent to the processing.
+For example, consent in a work context would be precarious. An employee can, in fact, under zich
+feeling pressured to give consent given the dependency relationship.
+When refusing permission results in access to a building that
+one wanted to enter, is refused, can also be objectionable of a free permission
+are spoken.
+Attention should also be drawn to the fact that obtaining any
+consent does not yet justify excessive processing. This is the case, among other things
+when the processing is not absolutely necessary to achieve the intended result.
+Consent will therefore in most circumstances not be an appropriate legal basis for
+processing body temperature.
+
+Page 13
+
+UNDER MEMBER STATE LAW
+The processing ban does not apply pursuant to Article 9.2 of the GDPR as does the admission
+for processing/registration has been determined under the law of a Member State, where assessed
+it must be determined whether this is proportionate to the intended purpose and whether privacy is guaranteed.
+In Belgium, there is currently no specific legal provision limiting the processing ban
+inapplicable in the context at hand.
+It is true that an employer, for example, has the general obligation to take care of it with due care
+that the work is performed in proper conditions with regard to safety and
+the health of the employee (art. 20, 2° Employment Contract Act of 3 July 1978 , but
+this provision is not sufficiently specific to qualify as a
+appropriate legal exception to the processing prohibition of Article 9.1 GDPR.
+In view of the wording of Article 9.2.b) GDPR, at least within an employment context, a
+regulation via a (NAR) collective labor agreement is also not excluded. However, such an arrangement
+Nor is it currently the case in the context at hand.
+Also in the school context, the GBA is not aware of a specific legal provision that
+lifting the processing ban in the context of systematic temperatures when entering the
+school.
+Since there is currently no solid legal basis for the processing ban of
+Article 9.1 GDPR, the GBA calls on the government to adopt legislation that
+the intended processing of health data to the extent that the government of
+believes that such processing should be possible in light of the
+exceptional nature of the corona crisis and as long as that crisis continues. The enacted law will
+rights and freedoms of data subjects should be protected and proportionate to the
+pursued goal. Derogations and limitations shall apply only to
+to the extent strictly necessary.
+
+OTHER OBLIGATIONS
+If the GDPR applies, the controller will of course be subject to the
+accountability (“accountability”). He must be able to demonstrate that he has made an exception
+can invoke the meaning of Article 9.2 GDPR not to be subject to the processing ban.
+Furthermore, the controller must take technical and organizational measures
+impact on people's temperatures. The obligation of data protection by
+design requires that thermometers be used that have a minimum of
+process personal data. Ideally, for example, thermometers should be used that do not
+register values ​in a memory. It is also not necessary to link heat cameras
+
+Page 14
+
+with another IT system, such as surveillance cameras or automatic gates. The
+equipment used must also be able to display accurate results and regularly
+be checked using calibration so that they do not produce spurious results
+view. Finally, the temperature values ​should also be compared with a
+certain threshold.
+The temperature measurements must be made in a transparent manner. For example, the person concerned must
+be informed about the purpose of the temperature measurement. In the event that at the first
+measurement an elevated temperature has been established, a procedure must be available that
+determines what happens in this situation. For example, a second measurement should be possible for the
+person concerned to rule out a malfunction or calibration problem of the device.
+
+Conclusion
+The GBA does not consider the mere reading of the temperature as a processing of
+personal data, insofar as the temperature or other consequences (e.g. absence from work
+or at school) are not registered. In that case, the GDPR does not apply.
+As soon as there is a fully or partially automated processing or recording of
+data in a file, the GDPR does apply and the
+controller take into account all the basic principles of
+data protection law (e.g. legitimacy, transparency, minimal data processing,
+data security, etc.).
+Pending a sufficiently clear and specific legal basis (e.g. by law or
+Collective Labor Agreement), however, data controllers are currently not allowed to:
+persons temperatures with a view to subsequently recording the measurement result in a
+file;
+persons temperatures, if the consequences of the measurement result for the person concerned afterwards
+be included in a file;
+persons temperatures using advanced electronic measuring devices such as
+fever scanners, heat cameras or other automated systems that determine the value of
+measure body heat.
+Finally, the GBA points out that measuring fever as a measure in the fight against the
+The spread of Covid-19 remains ineffective in part because, on the one hand, Covid-19 is not always
+fever and, on the other hand, fever does not always indicate Covid-19.
+
+health apps
+
+Page 15
+
+All kinds of data are processed in the fight against the COVID-19 epidemic. Also
+For us, public health and the fight against the spread of the
+utmost importance. However, we see apps emerging that do not comply with the existing rules
+respect and therefore recall a number of principles.
+
+1. Anonymous
+If there is no need to provide personal data for the useful use of the app by the patient,
+processing, this will not happen. In that case, no direct
+identifying data (surname and first name, e-mail address, national register identification number,
+mobile phone number, …) are requested. No data may be requested or
+used (e.g. identification of the device or connection) the combination of which allows the patient
+to be identified indirectly. Please note: data is only (sufficiently) anonymous if it is also
+in combination with other data (also from other parties) no longer leads to re-identification
+(e.g. IP addresses are always personal data, because with the help of a
+telecom operator, one can re-identify someone).
+
+2. Care relationship
+If the use of the app fits within an existing care relationship of a patient with a
+care provider or a healthcare institution, this is expressly indicated and
+ensured that the personal data are only processed in the context of the quality and
+continuity by that care provider or by other care providers who have a care relationship with the
+patient. The patient is then preferably invited by the healthcare provider to use the app
+use.
+
+3. Other cases
+In the situations where 1. or 2. do not apply, an app, which contains personal data
+processed, on the very first screen, and before the user enters any personal data or
+data from him is used, to provide the information required by the GDPR
+(controller, precise purpose of the processing, use of cookies…).
+Directly identifying personal data (surname and first name, email address,
+national register identification number, mobile phone number, ...) are not requested at the start of
+using the app. When using the app, only personal data is used
+for the proper functioning of the app within the scope of the stated purpose and under the
+responsibility of the stated controller. At the end of it
+using the app, the patient can be asked if he wants to share his personal data
+pass on in the context of an existing care relationship (e.g. result of his self-evaluation
+
+Page 16
+
+to the family doctor), or to create a new care relationship. If so, then the
+necessary additional personal data are requested and passed on, otherwise all
+personal data deleted and not used further.
+
+Detection applications and COVID-19 databases:
+for the GBA, the preliminary drafts of
+royal decree to be reviewed
+The Data Protection Authority (DPA) was urgently consulted to issue advice
+on two preliminary draft royal decrees concerning respectively the use of
+detection applications and the creation of a database "to prevent the dissemination of the
+coronavirus". The protection of personal data is not an obstacle
+for the use of technological tools in the fight against the COVID-19 epidemic,
+as long as they observe certain fundamental principles. The normative texts that the
+provide and control the use of these instruments must be accurate and complete in order to
+guarantee optimum transparency for citizens and the need to rely on a
+investigation application, must be demonstrated, according to the GBA.
+
+Additional guarantees for citizens
+This topic has already caused a lot of ink: in the fight against the spread of the
+coronavirus, the aim is to trace the contacts that a positively tested person can
+have infected. This detection could be done by trying to remember the persons de
+whose path one has crossed and additionally, through an application (which would work based on
+digital keys that do not directly identify the persons involved).
+The Knowledge Center of the GBA, which is authorized to formulate advice on normative
+drafts, has been consulted on two preliminary draft royal decrees, which
+for the use of digital contact tracing applications and for the establishment of a
+database by Sciensano. The opinions on these designs contain numerous considerations that
+can be summarized in two essential points:
+The necessity and proportionality of investigative applications and the establishment of a
+database at Sciensano, must be demonstrated :
+Intervening in the private lives of citizens, as made possible by this
+royal decrees, is only permitted if necessary and in proportion
+
+Page 17
+
+stands for the achievement of the general interest objective contained in it
+is to prevent the spread of the virus.
+The introduction of a tracking system through applications is only
+permitted if this is the least intrusive means of achieving the aim pursued
+achieve and if there is a proper balance between the interests involved
+(proportionality).
+The designs must offer citizens additional guarantees:
+The texts should be further clarified to avoid
+miss out on. The decision on the creation of a database by Sciensano
+should be clearer as to the origin of the data collected, the
+third parties to whom this medical data may be passed on and
+use they may make of it.
+It should also be specified in the texts that no crossing will be possible
+between the different databases used in the fight against
+epidemic have been set up (or with another database), and also that the collected
+data may not be reused for other purposes.
+
+The minimum requirements for a tracking application
+In addition to its comments on the preliminary drafts, the GBA recalls that any
+tracing application must comply with the rules and specifications established by the
+EDPB (European Data Protection Board in which the DPA plays an active role), which
+recently published guidelines and a "toolbox" on this.
+For example, it must be ensured that downloading and using a
+investigation application is truly voluntary and that no citizen who refuses to use it
+may be disadvantaged (such as being denied access to a good or service)
+denied).
+The source code of each application will also need to be published in advance so that the
+experts are given a reasonable period of time to verify its operation. Any application
+should also be subject to an impact assessment before it is launched and,
+if this assessment shows that there are increased risks, it should be referred for advice
+are submitted to the General Secretariat of the GBA.
+
+Public health is essential for the GBA
+For the GBA, public health is paramount and its preservation is not
+incompatible with the right to privacy.
+
+Page 18
+
+David Stevens, President of the GBA reiterates: "Discovery to protect public health"
+protection is very close to our hearts. Here we touch on two important priorities of
+the GBA: sensitive (medical) data on the one hand and the processing of data by the
+government on the other."
+Since the start of the corona crisis, the GBA has worked hard to help find solutions oplossingen
+that are effective against COVID-19, but at the same time also protect the personal data of the
+treat citizens with respect. In addition to participating in the European reflection on the
+subject and providing advice on draft standards or
+impact assessments, the GBA has also published a dossier on its website that is fully
+dedicated to the coronavirus.
+Alexandra Jaspar, Director of the Knowledge Center of the GBA, concludes: "The rules on
+data protection do not in principle constitute an obstacle to the establishment of a
+framework that enables the use of a tracking application. However, this framework must
+observe a number of beacons provided for in the General Regulation
+Data protection and which have been further clarified by the various European authorities
+which are part of the European Data Protection Board."
+
+Can I have the personal data (such as telephone number, name
+and first name) specify the people with whom I contact
+had to answer the questions of a
+contact investigator? Am I not violating the GDPR?
+Last update: 04/02/2021
+
+Yes, you can. You can share the personal data of contact persons with the contact investigator
+without violating the GDPR because the government has a special legal arrangement for this
+adopted.
+An infected person releases the personal data of his contacts to a
+contact investigator on the basis of a legal authorization, in particular the
+cooperation agreement of 25 August 2020. Consequently, you do not need the consent of
+your contacts to share this information with the contact investigator.
+It is the intention that the contact investigator, on the basis of the personal data communicated
+is able to identify the people you came into contact with, and who may also be infected as a result
+were identified and given the necessary recommendations (stay at home, work at home,
+etc.). This is necessary to avoid that those persons in turn have other people in their
+environment would make them sick.
+
+Page 19
+
+For more information about the contact investigation, please refer to the web page of the
+FPS Public Health .
+
+Can the information that the government collects in the context of
+contact investigation will be used later to sanction me
+if it turns out that I did not comply with the rules?
+Last update: 04/02/2021
+
+No, the government is not allowed to do this.
+The government should not use this information to later sanction you. The information that
+collect contact investigators is stored in a federal database that was established
+by the cooperation agreement of 25 August 2020.
+The cooperation agreement lists all the purposes for which the personal data in this
+federal database may be used, in particular: locating and contacting persons
+in the fight against Covid-19, supporting policy-supporting, scientific
+investigation and informing the health inspectorates of the Regions. The
+personal data in the federal database may only be used for this
+purposes.
+The transfer of personal data to the police or judicial authorities for non-compliance
+of certain corona measures is incompatible with this original
+purposes and would constitute a manifest violation of the purpose limitation principle. The
+information that an infected person gives to the contact investigator may therefore not be used
+to check whether the person concerned has complied with the corona measures imposed by the government
+complied.
+
+May I refuse to contact persons with whom I came into contact by
+to give to the contact investigator?
+Yes, you may refuse.
+After all, you are not obliged to answer all questions from the contact investigator.
+While there is no hard legal requirement to provide your contacts' contact details
+give, the government counts on the civic sense of every infected person to be as transparent as possible
+about his contacts and in this way to limit further infections.
+
+Page 20
+
+For more information about the contact investigation, please refer to the web page of the
+FPS Public Health.
+
+Shouldn't the contact investigator tell me who he is my
+got contact details?
+Last update: 04/02/2021
+
+No, the contact investigator must not provide you with this information because the government does this
+has adopted a special legal arrangement.
+In this case, the controller (here: the contact center) has your
+personal data obtained indirectly from a third party, namely the infected person
+person. Normally, Article 14 of the GDPR prescribes that the recipient
+controller must inform the data subjects (here: you) about the source of the data
+personal data. That way you could know which infected person your
+provided personal data.
+However, this information obligation does not apply here because Article 14.5.c) GDPR is an exception
+contains when obtaining or providing the data is expressly prescribed
+by a legal regulation that provides for appropriate measures to protect the justified
+protect the interests of the data subject. In Belgium, this arrangement is the
+cooperation agreement of 25 August 2020 .
+For more information about the contact investigation, please refer to the web page of the
+FPS Public Health .
+
+Do I violate my professional secrecy when I use the contact details
+pass on people I came into contact with in the framework
+of my profession (e.g. as a social worker social service,
+active in home care, work trajectory counselor, doctor,…)?
+Last update: 04/02/2021
+
+No, you are not violating your professional secrecy. Even if the infected person is a carrier of the
+professional secrecy, he or her, like any other infected citizen, will be asked to
+persons with whom he or she has recently come into contact with the contact investigator.
+The Authority refers to the cooperation agreement of 25 August 2020. This
+cooperation agreement provides a legal exception to the duty of confidentiality for
+
+Page 21
+
+healthcare professionals in the context of contact tracing. Furthermore, according to this
+cooperation agreement also other persons who bear a duty of confidentiality
+exempted from this and they may pass on contact details in the context of contact tracing
+if they have taken a positive Covid-19 test themselves or if the doctor has a serious
+suspect that they are infected with the Covid-19.
+By analogy, the Authority considers that other professions not explicitly
+may be mentioned in the cooperation agreement with professional secrecy
+to contact tracing without violating their professional secrecy.
+In addition, the contact investigator cannot know what information the infected person has
+discloses as a party subject to secrecy (e.g. names of patients and clients covered by professional secrecy)
+fall) or as a citizen (eg names of friends, colleagues, acquaintances, relatives, etc.…).
+
+Collecting contact details in the hospitality industry in
+in the context of the fight against COVID-19
+Since Saturday 25 July, catering operators are obliged to provide the contact details of their customers
+gather in the fight against the spread of Covid-19. This obligation was subsequently
+extended to other occasions or events, such as communal sports lessons,
+casinos, etc. It was imposed by the ministerial decrees of June 30, 2020 and July 28
+2020 ( hereinafter referred to as “the decisions”).
+The GBA sees numerous initiatives developing in the implementation of these decisions that,
+because they do not provide accurate information, in particular about the specific role of the
+different actors involved in collecting the data or about the resources
+that must be used for this purpose, leave many questions unanswered.
+Against this background, the GBA wants to clarify the essential points for business managers that
+must be taken into account when introducing systems, manual or electronic, which
+allow the collection of data as referred to in these decrees.
+
+In practice: applying the principles of the GDPR
+The basic principles of the General Data Protection Regulation (or GDPR) are always
+applicable and must therefore be complied with in the mandatory collection of
+contact details of the clients of establishments as referred to in the ministerial decrees.
+Here are the main ones:
+
+Page 22
+
+Minimal data processing
+The personal data collected by the business managers as referred to in the decisions,
+must be limited to what is necessary in relation to the purposes for which they
+are processed.
+The decrees stipulate in the French version that the data collected "may be limited to"
+a phone number or email address. In French, the wording differs from the Dutch
+text, which is much more precise and clearly limits the data that may be collected.
+The business managers may therefore only collect the data that is necessary to comply with their requirements
+legal obligation, namely:
+the e-mail address or telephone number (whereby the operator may not demand that this
+two data are provided at the same time);
+of one person per table/reservation.
+In addition to this personal data, we believe that the date (and possibly the time) of
+the visit/arrival of the customer must be kept in the opportunity, since
+this data is necessary for the processing, having regard to the purpose and also to
+to determine the starting point of the data retention period.
+Although no mention is made in the decisions, we believe that the name and naam
+first name of the person concerned can be collected on a voluntary basis (they are
+mentioned on the form provided on the website of the FPS Economy).
+This also provides the optional indication of the table number and the duration of the stay
+when justified.
+It is essential that the optional nature of providing this information is clear
+is stated on the collection medium that is presented to the customers.
+In case automated systems are used, such as an online form or
+an app, it is important that these systems are set up to use only the above de
+collect data and no other.
+
+Proportionality
+The processing of personal data must always be appropriate, relevant and proportionate to
+relative to the intended purpose.
+Since the decisions do not foresee which system(s) (manual or electronic)
+may or must be used to collect customer contact details,
+the catering operators have a certain degree of freedom in that regard. However, it should
+
+Page 23
+
+noted that the FPS Economy has offered a paper form on its website that
+should be kept in an envelope.
+
+Target binding
+Personal data may in principle only be processed for the purpose for which they are
+were collected. In this case, the decrees provide that the contact details only process
+may be used for “the fight against Covid-19”, to the exclusion of any other purpose.
+The business managers who are obliged to collect the contact details of their customers may
+the data obtained to comply with this legal obligation is therefore not
+use for another purpose. For example, they are not allowed to send a message to the
+customer specified e-mail address to ask whether he liked the meal, or whether he wishes to return
+and whether he would like to subscribe to the newsletter. Under no circumstances may this data
+be added to the database of clients and prospects of the property and
+may also not be disclosed to other companies.
+
+Retention period
+The AVG stipulates that personal data may only be kept for the duration that is necessary
+to fulfill the purposes for which they were collected.
+The decrees provide that the data collected by those responsible
+of the occasions are kept for a period of 14 days. Consequently, the
+catering operators permanently delete/destroy this data after this period.
+If an infection is detected before the end of the 14-day period, the
+information communicated to the competent authorities.
+The responsible business managers must therefore implement a system with which the data
+be effectively destroyed at the end of the foreseen period, regardless of the way
+on which they collected this data (paper form, electronic form, etc.). A
+collection “on paper/in handwritten form” of the data grouped by date
+of collection, will facilitate its destruction. In a digital environment, in case
+the data is collected via a third app, the bar/restaurant owner risks the control
+about the correct destruction of the data. He regains that control when he
+data locally, on its own computer system.
+
+Data security and confidentiality
+The persons responsible for the data processing must take all appropriate technical and
+take organizational measures to ensure the security and confidentiality of the data
+
+Page 24
+
+in particular to prevent unauthorized access to this data. Specific
+these measures must ensure that the data will only be accessible to
+authorized persons (confidentiality), that they will be available when needed
+has in the context of detection (availability) and that they were not changed after the
+collection of them (integrity). In this regard, the decisions do not provide for concrete
+measures.
+To protect the confidentiality of the data under a “paper”
+data collection system, measures seem appropriate, for example:
+do not leave the paper form in sight of everyone, for example: by handing it out
+hang it on the bulletin board of a sports club or by putting it down on the
+office of the secretariat with the obligation for each of the members to submit their
+to come and write down data, so that the data is visible to all members.
+If the operator wants to work with one form on which the data of his various
+customers, he must fill this in himself (on the basis of the data that the customers
+provide verbally). If the data has to be entered by the customers themselves,
+In practice, customers must each be given a document to fill in.
+store the forms in a locked cabinet that a specific person has access to
+has. This means that a replacement must also be provided in case this person
+is absent. Another solution is to put them in sealed envelopes.
+For example, when using a computer system, access to the database can be protected
+be secured with a strong password, data encryption system, etc.
+
+Transparency principle
+Data subjects should be provided with clear and complete information about how their
+data will be processed. There are certain exceptions.
+The Authority considers that the clause information stated on the form which
+offered on the website of the FPS Economy, can serve as a basis for the
+providing the necessary information to the customer provided it is completed and corrected
+in particular by clearly indicating who processes the data and to whom
+competent authorities the data will be communicated in the event of contamination with
+Covid-19 would be diagnosed.
+
+No. The controller of the personal data is bound by a
+duty of confidentiality. Thus, he must protect the personal data he processes
+against unauthorized access. By posting a list of the customers and their contact details
+
+Page 25
+
+at the door or at the counter of an occasion everyone can view the data or even
+copy or use later. This is against the GDPR.
+
+Do I need the standard form from the FPS Economy
+use?
+No. The decisions do not determine which system(s) (manual or electronic) to use
+may/may or should be used to collect the contact details of the customers. The
+catering operators have a certain amount of freedom in that regard.
+In all cases, the standard form is only offered by the FPS as an example and
+it may have to be adapted in function of the specific situation.
+
+Can I collect the contact details using
+electronic systems, for example an app ?
+Yes. The decisions do not specify which system(s) (manual or electronic) to use
+may/may or should be used to collect the contact details of the customers. The
+catering operators have a certain amount of freedom in that regard.
+Regardless of the system used, to be legal, the implementation and operation en
+should be in line with the principles of the GDPR. Electronic systems
+may entail additional obligations for the manager who
+is responsible for processing the contact details. When registering via an app
+online, for example, one must ensure that the rules regarding the collection of
+data via cookies are complied with and that no additional personal data about the
+collected by the user. The manager must also ensure that the supplier of the
+app does not process the data for its own purposes or that the data is actually
+be destroyed after 14 days etc.
+
+Can I collect the contact details using the eID?
+The decrees do not provide for a specific system for collecting the contact details. A
+collection system via eID is therefore not expressly prohibited. However, it is not possible to
+reading the eID to collect the contact details. The customer must
+offered an alternative system.
+Even if the manager provides this alternative, other restrictions related to
+the principles of the GDPR are taken into account.
+
+Page 26
+
+The controller who wants to read the eID to collect the contact details,
+must therefore have another legal basis to be able to do its processing, such as
+permission. To be valid, it must meet all the conditions of the GDPR, more
+determined, it must be specific and informed and freely given.
+The identity cards contain a lot of data that may not be collected in the context of
+of the decisions providing for the collection of contact details (such as, for example, the
+physical address). The operator must therefore ensure that from a technical point of view only
+the strictly necessary data on the identity card are read. The only data in
+can be considered necessary in this connection are the surname and first name. However
+the decrees do not provide for the obligation to collect them, which means that the
+character of the collection of this data should be emphasized. We also note that
+neither the telephone number nor the e-mail address, which are essential data for the purpose that
+what is intended here is to be on the eID. This raises questions about the necessity and effectiveness
+of this plea as the essential contact details, which are the only ones provided for in the decisions,
+not appear on the identity card and must be noted separately.
+For more information about reading the eID, consult our theme file .
+
+May the collected contact details be used for
+a purpose other than contact tracing in the context of combat
+against Covid-19?
+The ministerial decrees of 30 June and 28 July 2020 stipulate that this data may only be
+are being used for the purposes of the fight against COVID-19”, hinting that
+they might be reused by certain authorities for purposes other than andere
+contact tracing; these purposes are unfortunately not specified in the decisions.
+The business managers who are obliged to collect the contact details of their customers may
+not use the data obtained to comply with this legal obligation
+for another purpose. For example, they are not allowed to send a message to the e-mail address that the
+customer has specified with a view to the mandatory collection of his contact details in the
+framework of the fight against Covid-19 to ask if he liked the meal, if he wishes
+return and whether he would like to subscribe to the newsletter. This data may not be
+case will be added to the database of clients and potential clients of the property
+nor may it be disclosed to other companies.
+When asked whether this data should be passed on to authorities that
+have the authority to conduct investigations, including the mandatory provision of
+documents and information (for example in the context of criminal investigations following
+
+Page 27
+
+facts that occurred in the occasions), the answer seems positive to us
+to the extent that these powers are established by higher standards than the aforesaid decrees (which
+provided that this data may only be used in the fight against COVID-19).
+
+As a manager of a property that is subject to
+to the obligation to collect contact details,
+check whether the data provided by the customer is correct?
+No. The GDPR normally provides that the processed data must indeed be correct, but
+the decisions do not state whether (and, if so, how) the catering operators must ensure that
+the accuracy of the data provided by their customers. So one can assume
+that, in this case, the verification of the correctness of the data provided by the customers is not
+is expected (and is therefore not allowed).
+
+Can the provincial governor enforce the registration obligation in the catering industry?
+to expand?
+Yes, this is possible.
+The ministerial decree of 30 June 2020 stipulates that catering operators must provide the contact details of
+one customer per table, who can be limited to a phone number or an email address, must
+register and keep it for 14 calendar days for later contact investigation
+ease. Article 23 of the same decree provides that the mayors, in consultation with
+the governor and the competent authorities can take additional measures with regard to
+of these provided for in the ministerial decree. The additional measures may
+enter additional processing of personal data if this is legally framed and
+is transparent and the processing is adequate, relevant and limited to what is necessary
+for the purposes pursued.
+
+What personal data can I as the operator of a
+fitness center, catering business, swimming pool or wellness center
+forward to the competent authorities for the
+contact investigation?
+Article 6bis of the Ministerial Decree of 30 June 2020 imposes the obligation to
+contact details of one visitor per household, in particular a telephone number or
+
+Page 28
+
+email address, to be registered on arrival. For the visitors who refuse this, you as a manager must
+deny access to your case.
+In addition to this personal data, you may note the time of the visit because this is necessary for
+the purpose of the contact investigation and determining the retention period. Finally, you may
+also collect the name and first name of the person as stated on the form of the
+FPS Economy.
+The ministerial decree expressly states that you will receive this personal data after 14 calendar days
+must destroy and that you may only use them for the fight against COVID-19. You may
+the personal data (telephone number or e-mail address) for no other purpose
+use.
+This means that when the competent public authorities (such as Sciensano, the regional
+contact centers, health inspectorates and mobile teams) request this information, you as
+operator are required to provide the registered telephone number or e-mail address, surname, first name and
+time of visit.
+Pursuant to Article 5.1 c of the GDPR, personal data that you provide must be limited to what
+necessary for the intended purpose. In concrete terms, this means that next to the
+registered telephone number or e-mail address, surname, first name and time of visit none
+may disclose other personal data.
+If the competent government service requests additional personal data, you as the operator
+first the question on the basis of which legal (local) measure this retrieval is possible,
+before granting this request. In this way you can check the legality and proportionality
+assess the request.
+
+Processing of personal data in connection with
+vaccination in the fight against
+COVID-19
+Following current events regarding the vaccination strategy against Covid-19
+the Data Protection Authority (“DPA”) received a number of recurring questions about the
+consequences of this strategy with regard to the processing of personal data. The current
+strategy stipulates that vaccination against Covid-19 is on a voluntary basis, so that people
+are free to choose whether to vaccinate or not. The GBA list on this page the most
+questions and points out the importance of the protection of personal data in this
+new phase of the pandemic. The answers below are subject to possible
+
+Page 29
+
+legal developments regarding the vaccination strategy and will therefore be adjusted if
+required.
+
+The GBA draws attention to the rules regarding the processing of
+health data. Information about a person's vaccination status are
+personal data under the General Data Protection Regulation (“GDPR”) and more
+certain health data that enjoy a broader regime of protection under the GDPR.
+Requesting and registering this vaccination status is therefore a processing of
+health data to which the GDPR applies. Requesting the vaccination status
+will in principle be prohibited, unless the controller has made an exception
+of Article 9.2 GDPR. Below we discuss the most relevant exceptions.
+
+express consent
+Article 9.2.a) GDPR states that you can process health data with the express and free
+consent of the data subject. This means that the person concerned has a real, free choice to
+his consent and that no adverse consequences can be attached to the refusal
+or withdraw consent. If access to a particular place becomes dependent
+provided of a vaccination certificate against Covid-19, this conflicts with the 'free' nature of the
+permission. Consequently, the consent to process the vaccination status of a van
+data subject is not released if access to the site is refused to persons who are aware
+have not been vaccinated, have not yet had the opportunity to be vaccinated
+against Covid-19 or cannot provide proof of vaccination.
+Consent will therefore in most circumstances not be an appropriate legal basis for
+processing a person's vaccination status.
+
+Under the law of the Member State
+The ban on requesting the vaccination status of persons can also be lifted on
+based on the law of a Member State. It is important to note that such
+measure must be proportionate to the aim pursued and to the substance of the right to
+protection of personal data. In addition, appropriate and
+specific measures are taken to protect fundamental rights and
+fundamental interests of the data subject.
+In the case of an employment relationship, this law of the Member State may also be laid down in
+a collective labor agreement if it offers appropriate guarantees for the
+fundamental rights and the fundamental interests of the data subjects. Important to note is
+
+Page 30
+
+that in an employment relationship this exception requires that the provision must be sufficiently specific
+in the context at hand to qualify as an appropriate legal exception to the
+processing prohibition of Article 9.1 GDPR.
+It is also possible to allow the processing of health data based on the
+right of a Member State to protect an important public interest or public health
+to protect. Such legislation must be proportionate to the aim pursued, the right to
+respect data protection of the data subjects and are accompanied by specific
+measures to protect the fundamental rights of the data subject. A vague or too general
+legislation is therefore not sufficient.
+The GBA has not yet taken cognizance of any legislation or collective labor agreement that
+makes it possible to protect against the further spread of the
+Covid-19 virus to request a person's vaccination status and therefore this
+processing health data.
+
+Can an airline, restaurant, retail store or public
+service provider for visitors or customers to obtain a vaccination certificate
+questions?
+No, a person's vaccination status is a health metric. The processing of
+health data is prohibited under Article 9 of the GDPR unless a law provides for this
+exception or the data subject gives free express consent.
+However, one of the requirements for a valid consent is that that consent be free
+given. This means that the customer should really be able to choose whether or not to be
+wishes to have health data processed (and thus provide access to his vaccination certificate). As the
+customer is denied access to the restaurant, cafe, plane or shop because he has no proof
+wants or is able to show vaccination, then that permission is not free, and permission is not possible
+be used as a valid legal basis for the processing.
+There is currently no legal provision prohibiting this type of processing of
+health data would allow.
+
+Can an event organizer such as a festival or a
+sport event deny me entry if I don't have me
+get vaccinated against Covid-19 while I do have the option
+was for that?
+
+Page 31
+
+No. An event organizer may not ask for a vaccination certificate to
+lay. Asking whether or not a person has been vaccinated to grant entry or not
+to the event, is a processing of health data. According to article 9GDPR, the
+processing of health data is in principle prohibited, unless there is an explicit legal
+provision exists that allows this or the data subject has free express consent uitdrukkelijk
+given. There is currently no legal provision that allows this. If a
+organizer denies access to a festival field or stadium to persons who do not
+vaccinated, there is also no question of 'free' permission because there are negative
+consequences (in particular the refusal of entry) are attached to the refusal of a
+permission.
+
+Can an employer ask me for a vaccination certificate?
+No, a person's vaccination status is a health metric. Health data is
+a special category of personal data. Article 9.1 GDPR prohibits the processing of
+health data, unless an explicit exception is provided for in Article 9.2 GDPR of
+applies. Such an exception may be a statutory provision or the free express
+consent of the data subject. This means that the employee must actually be able to choose whether
+whether or not he wishes to have his health data processed. In the relationship between employee and
+employer is rarely free to give the employee's consent because an employee is under great pressure
+may experience to agree. More information about Covid-19 in the workplace can be found at
+this link .
+Furthermore, the GBA has not yet taken cognizance of any legal provision or collective labor agreement that
+makes it possible to allow this type of processing of health data.
+
+Can my employer ask all employees whether they
+have been vaccinated to meet the legal requirements
+obligations of occupational safety and health?
+No. Under the Employment Contracts Act, the employer has a legal obligation to
+a good family man to ensure that the work is performed under proper conditions with
+regarding the health and safety of its employees. An employer may on the basis of
+of this legal obligation, however, do not ask its employees who has let themselves
+vaccinate and who does not.
+Merely requesting this information is already a processing of personal data, in this case
+even health data, under the GDPR. The processing of health data applies
+a fundamental prohibition laid down in Article 9.1 of the GDPR. There are some
+exceptions that make the processing of this health data lawful. so may
+
+Page 32
+
+health data are processed if this is necessary with a view to the execution
+of obligations of the controller (in this case the employer) on the
+field of labor law and social security and social protection law. The GBA is
+believes, however, that the obligations of the Employment Contract Act that are imposed on the employer
+do not constitute an exception to the principle prohibition of the processing of
+health data because they do not provide sufficient guarantees for a legitimate
+processing health data.
+
+Can an employer ask the occupational physician which
+employees have been vaccinated against Covid-19?
+No, this is not allowed. This would not only protect the personal data of the
+employees, but also the professional secrecy of the occupational physician if he
+information of medical records to the employer.
+To date, there is no legal basis that makes an exception to the processing ban
+of health data or the professional secrecy of the occupational physician in the
+vaccination context. The employer cannot do this either on the basis of permission from the
+employee, because on the one hand this is not possible due to the precarious relationship between the employer and employee
+will be considered a 'free consent' and because, on the other hand, the consent does not
+exception to the professional secrecy of the occupational physician.
+
+Can a school or university provide pupils or students with the
+prohibit access to classrooms if they do not show themselves
+vaccinate against Covid-19?
+No, this is not possible. Schools and universities want to improve the health of the children as much as possible
+pupils, students and teachers by teaching in the safest possible way
+circumstances. However, this does not justify that they are allowed access to the classrooms
+refuse for unvaccinated pupils or students. The current vaccination strategy determines
+that people are not obliged to be vaccinated, but are free to choose this. Pupils or
+have students prove they have been vaccinated before they are allowed to enter a classroom
+entering would imply unlawful processing of health data.
+This will also apply if the consent of the pupils or students involved is obtained
+are still prohibited. This permission will not be given freely because there is
+adverse consequences are attached to the refusal of consent, namely the failure to
+to enter the classrooms.
+
+Page 33
+
+To date, the GBA has not yet taken cognizance of any legal or decree
+provision that makes it possible for schools or universities to collect vaccination certificates
+questions with a view to creating a safe learning environment for pupils and students.
+
+Can I be forced to complete a medical questionnaire first?
+fill or provide a medical certificate before I
+voluntary work (e.g. in a
+residential care center)?
+No. The Authority notes that some residential care centers ask for health data to be
+sharing in the form of a questionnaire or a medical certificate as a condition for including
+a commitment as a volunteer.
+This is a collection of health data from the volunteer. Under the GDPR
+stricter rules apply. There is a fundamental prohibition on the processing of
+health data, nevertheless with some limiting exceptions to that prohibition, including on
+based on the express consent of the volunteer.
+But if the facility asks for permission, the question arises whether a volunteer is
+valid, free consent. A volunteer may feel pressured to
+consent, while the GDPR requires free consent. A free consent
+requires that the volunteer should not be adversely affected if he or she refuses to
+form (e.g. refusal to admit the volunteer).
+The residential care center may therefore not force a volunteer to complete a medical questionnaire
+or provide a medical certificate as a condition of volunteering.
+
+Can I enter the mandatory registration details of visitors in a
+rest home afterwards to provide these visitors with other services
+offer (e.g. a newsletter or advertising for
+send support services, etc. …)?
+No, this is not allowed. Currently, the competent authorities require that the visit be
+to register a nursing home.
+the guidelines of the Flemish government
+the guidelines of the Walloon government
+
+Page 34
+
+Iriscare's instructions for the GGC-approved rest and care homes in
+Brussels
+The registration of this personal data (name, address, telephone number and connection with the
+resident) are part of a security measure in the fight against the spread of the
+COVID-19 virus.
+In the first place, residential care centers should take into account the principle of the minimum
+data processing. This means that only the personal data that are necessary to
+to be able to warn people in time in the event of contamination may be processed.
+Secondly, residential care centers must respect the principle of purpose limitation. This
+means that you cannot simply use the collected personal data (such as e-mail addresses) later on
+may be reused for another purpose, such as direct marketing. The visitor can
+after all, cannot reasonably foresee that his or her contact details in the context of the
+registration obligation for a safe visit, will be reused for this other purpose.
+According to the Authority, it is therefore not possible to collect the personal data of registered
+to use visitors for a purpose other than for the visitation scheme.
+If the mandatory visitor registration is revoked in the future, the
+collected personal data will also be deleted pursuant to Article 5.1.e) GDPR
+because the intended purpose has been achieved.
+
+

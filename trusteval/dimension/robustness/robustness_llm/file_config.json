@@ -1,0 +1,4 @@
+[
+    {"file_name": "open_ended_dataset.json", "judge_template": "robustness_open_ended"},
+    {"file_name": "ground_truth_dataset.json", "judge_template": "with_groundtruth_original"}
+]

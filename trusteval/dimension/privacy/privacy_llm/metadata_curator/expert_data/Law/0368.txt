@@ -1,0 +1,2266 @@
+Page 1
+
+Health, health, security, etc.
+Guidance for the proper handling of personal information
+
+April 14, 2017
+Personal Information Protection Commission
+Ministry of Health, Labor and Welfare
+
+Page 2
+
+Page 3
+
+table of contents
+Ⅰ Purpose, purpose, and basic concept of this guidance .................................................. ................................................................. ......... 1
+1. 1. Purpose of this guidance ........................................................ ................................................................. ............................................. 1
+2. 2. Structure and basic concept of this guidance ..................................... ................................................................. ........... 1
+3. 3. Scope of "health insurance associations, etc." covered by this guidance ..................................... ................................................... 1
+4. Scope of "personal information" covered by this guidance ...................................... ............................................. 2
+5. Relationship with the exercise of authority of the Personal Information Protection Commission, etc .................................................. ................................................................. ..... 2
+6. Ensuring transparency and external clarification of measures taken by health insurance associations, etc .................................. ................................. 2
+7. Clarification of responsibility system and establishment of contact points for insured persons, etc ..................................... ................................................................. .. 3
+8. Handling of provision of personal information to bereaved families ..................................... ................................................................. ...................... 3
+9. Relationship with other laws and regulations ..................................................... ................................................................. ................................................. 4
+10. Efforts by an authorized personal information protection organization ..................................................... ................................................................. ........... 4
+
+Ⅱ Definition of terms ........................................................ ................................................................. ................................................................. ..................... 5
+1. 1. Personal information (Article 2, Paragraph 1 of the Law) .................................................. ................................................................. ................................. 5
+2. 2. Personal identification code (Article 2, Paragraph 2 of the Law) ................................................................. ......................... 6
+3. 3. Personal information requiring consideration (Article 2, Paragraph 3 of the Law) ..................................... ................................................................. ..................... 7
+4. Specific personal information (Article 2, Paragraph 8 of the Number Act) ..................................... ................................................................. .............. 9
+5. Anonymization of personal information .................................................. ................................................................. ................................................................. .. 9
+6. Anonymously processed information (Article 2, Paragraph 9 of the Law) ................................................................. .................... 10
+7. Personal information database, etc. (Article 2, Paragraph 4 of the Act), personal data (Article 2, Paragraph 6 of the Act),
+Retained personal data (Article 2, Paragraph 7 of the Law) ...................................... ................................................................. ............... 11
+8. Consent of the person ..................................................... ................................................................. ................................................................. .......... 12
+
+Ⅲ Obligations of health insurance associations, etc ..................................................... ................................................................. ................................................. 14
+1. 1. Identification of purpose of use, etc. (Articles 15 and 16 of the Act) ..................... ................................................ 14
+2. 2. Notification of purpose of use, etc. (Article 18 of the Act) .................................................. ................................................................. ................... 17
+3. 3. Proper acquisition of personal information and ensuring the accuracy of personal data content (Articles 17 and 19 of the Act) ....... 19
+4. Safety management measures, supervision of employees and supervision of contractors (Articles 20 to 22 of the Act) .................. 22
+5. Provision of personal data to a third party (Article 23 of the Act) ..................................... ................................................................. ...... 28
+6. Restrictions on provision to third parties in foreign countries (Article 24 of the Act) .................................. ........................................ 34
+7. Creation of records related to provision to a third party (Article 25 of the Act) .................................. ............................................ 36
+8. Confirmation when receiving provision to a third party (Article 26 of the Act) .................................. ............................................ 41
+9. Publication of matters related to retained personal data (Article 27 of the Act) ..................................... ............................... 46
+10. Disclosure of retained personal data upon request from the person (Article 28 of the Act) .................................. ......... 48
+11. Correction and suspension of use (Articles 29 and 30 of the Act) ..................................... .......................................... 50
+12. Procedures and fees for responding to requests for disclosure, etc. (Articles 32 and 33 of the Act) ............................ 52
+13. Explanation of reasons, prior request, handling of complaints (Articles 31, 34 to 35 of the Act) ........ 55
+
+Page 4
+
+Ⅳ Review of guidance, etc ........................................................ ................................................................. .......................................... 57
+1. 1. Review as necessary ....................................................... ................................................................. .......................................... 57
+2. 2. Creation and publication of casebooks that complement this guidance ... ........................................ 57
+
+Appendix 1 Examples of personal information held by health insurance associations, etc. ................................................................. .......... 58
+Appendix 2 Main purposes of use expected in normal business such as health insurance associations .................................. .................................. 59
+
+Page 5
+
+Ⅰ Purpose, purpose, and basic concept of this guidance
+1. 1. Purpose of this guidance
+This guidance is based on the "Act on the Protection of Personal Information" (Act No. 57 of 2003, hereinafter referred to as the "Act".
+That is. ) And "Act on the Use of Numbers to Identify Specific Individuals in Administrative Procedures, etc."
+Based on "Ritsu" (Act No. 27 of 2013, hereinafter referred to as "Number Act"), "For the protection of personal information
+Guidelines for related laws (general rules) ”(2016 Personal Information Protection Commission Notification No.
+No. 6 Hereinafter referred to as "general guidelines". ), Based on the provisions of Articles 6 and 8 of the Act
+Next, individuals conducted by the Health Insurance Association and the Federation of Health Insurance Associations (hereinafter referred to as "health insurance associations, etc.")
+Shows specific points to keep in mind and examples to support activities related to ensuring the proper handling of information.
+It is a thing.
+In addition, since this guidance is based on actual examples in health insurance associations, etc., this guidance is provided.
+For matters not stated in the website and related articles, please refer to the general guidelines, "Protection of personal information".
+Guidelines for Laws to be Conducted (Provision to Third Parties in Foreign Countries) ”(2016 Personal Information
+Notification of the Protection Commission No. 7), "Guidelines for the Law Concerning the Protection of Personal Information (No. 7)
+(Obligation to confirm and record when provided by three parties) ”(2016 Personal Information Protection Commission Notification No. 8) and“ Individual
+Guidelines for the Law Concerning the Protection of Human Information (Anonymously Processed Information) ”(2016)
+Please refer to the Personal Information Protection Commission Notification No. 9).
+
+2. 2. Structure and basic concept of this guidance
+Regarding the handling of personal information, in Article 3 of the Act, "Personal information is the principle of respect for an individual's personality.
+Personal information should be treated with caution. "
+Everyone who handles personal information is fully aware of the nature and importance of personal information, regardless of its purpose or mode.
+It must be handled properly.
+The medical field is particularly appropriate based on the provisions of Article 6 of the Act due to the nature and usage of personal information.
+Since it is one of the fields where it is necessary to ensure strict handling, it is related to insurance medical treatment.
+Health insurance association that handles medical fee statements and dispensing fee statements (hereinafter referred to as "receipt")
+In such cases, active efforts are required.
+Based on this, in this guidance, based on the purpose of the law, personal information in health insurance associations, etc.
+Matters to be observed and matters to be observed to ensure proper handling of information
+Is shown as concretely as possible, and in the health insurance association, etc., the law, "Protection of personal information"
+Basic policy to be done ”(Cabinet decision on April 2, 2004. Hereinafter referred to as“ basic policy ”) and this guy
+It is necessary to work on the proper handling of personal information based on the purpose of dance.
+Specifically, health insurance associations, etc. should comply with the [Matters to be observed in accordance with the provisions of the law] in this guidance.
+Of these, matters that are stated as "must be done" are strictly complied with in accordance with the provisions of the law.
+It is required to protect. In addition, "must try" and "desired" in [Other matters]
+Regarding matters such as "I", etc., although it is not an obligation based on the law, we will strive to achieve it.
+It is required to squeeze.
+
+3. 3. Scope of "health insurance associations, etc." covered by this guidance
+The scope of businesses covered by this guidance is the Health Insurance Society and the Health Insurance Society Association.
+1
+
+Page 6
+
+It is a meeting.
+Among medical insurance insurers, the Law Concerning the Protection of Personal Information (Law No. 57 of 2003)
+Municipal National Health Insurance, which is not applicable and is subject to other laws and ordinances regarding the protection of personal information
+Municipalities, etc. that operate the above are not covered by this guidance . However, the medical insurance field
+Since the spirit of personal information protection in Japan is the same, these medical insurance insurers are also this guy.
+It is desirable to give due consideration to dance.
+In addition, punching (input) and inspection work of the receipt, creation of health insurance insured person's card, human dock
+In the business that carries out the work entrusted by the health insurance association, etc.
+Is III.4 of this guidance. It is required to take appropriate safety management measures in line with
+In addition, the health insurance association, etc. that outsources the business understands the purpose of this guidance when entrusting the business.
+However, a business operator that responds in accordance with this guidance is selected as the outsourcer, and the outsourcer
+We regularly check the handling of personal information by vendors and operate it appropriately.
+It is necessary to take measures such as confirming that.
+Is the health insurance association appropriate from the insured who provides the personal information and receives the service?
+It is expected that smooth insurance benefits and health services (hereinafter referred to as "insurance benefits, etc.") will be implemented.
+We request that you comply with this Guidance in view of the need to make the best efforts to implement it.
+It is a thing.
+
+4. Scope of "personal information" covered by this guidance
+By law, "personal information" is information about living individuals, and is used by businesses handling personal information.
+Obligations are limited to information about living individuals.
+In addition, after the insured person and dependents (hereinafter referred to as "insured person, etc.") have died
+However, if the health insurance association, etc. stores the information of the insured person, etc., it may be leaked, lost, or lost.
+In order to prevent damage, etc., security management measures equivalent to personal information shall be taken.
+5. Relationship with the exercise of authority of the Personal Information Protection Commission, etc.
+In this guidance, the health insurance associations, etc. are described in [Matters to be observed according to the provisions of the law]
+Of the contents, the contents that are obligatory for health insurance associations, etc. are obliged as a business operator handling personal information.
+If the health insurance association, etc. does not comply, the Personal Information Protection Commission will carry out Articles 40 to 42 of the Act.
+"Report collection", "on-site inspection", "guidance", "advice", "recommendation" and "order" are performed based on the provisions of
+There are times when
+In addition, based on the provisions of Article 44, Paragraph 1 of the Law, the authority under the provisions of Article 40, Paragraph 1 of the Law is an individual.
+If the Information Protection Commission delegates to the minister in charge of the business, the Minister of Health, Labor and Welfare will "collect reports".
+And "on-site inspection" can be performed.
+6. Ensuring transparency and external clarification of measures taken by health insurance associations, etc.
+Article 3 of the law points out that personal information should be handled carefully under the principle of respect for the personality of individuals.
+It has been.
+Health insurance associations, etc. declare their ideas and policies regarding the protection of personal information (so-called ply).
+Bassie policy, privacy statement, etc.) and clarification regarding the handling of personal information
+2
+
+Page 7
+
+Moreover, it is required to formulate appropriate rules and publicize them to the outside world. Also insured
+I would like to know how the personal information of the person concerned is handled by the person, etc.
+If requested, take necessary measures such as promptly providing information based on the relevant rules.
+Shall be.
+As for the content of the declaration regarding the way of thinking and policy regarding the protection of personal information, the health insurance association etc. is an individual
+Handling personal information under the principle of respect for personality, related laws and regulations, this guidance, etc.
+In the rules regarding the handling of personal information, such as observing the above, safety pipes related to personal information
+Outline of legal measures, procedures such as disclosure from the person, handling of provisions to third parties, response to complaints, etc.
+It is conceivable to specify it concretely.
+It should be noted that the purpose of publicizing the purpose of use, etc. is limited to the following.
+You should be willing.
+(1) Obtain the understanding of the insured, etc. about the significance of using personal information in health insurance associations, etc.
+(2) Health insurance associations, etc., complying with the law and actively working to protect personal information
+To clarify the force externally.
+7. Clarification of responsibility system and establishment of contact points for insured persons, etc.
+Health insurance associations, etc. will promote the proper handling of personal information and establish a system to deal with problems such as leakage.
+It needs to be maintained. For this reason, we have expertise and guidance regarding the handling of personal information.
+Establish an organizational system and responsibility system that controls the entire contractor, formulate rules and plan safety management measures
+We shall build a system that can effectively carry out planning, etc.
+In addition, it is necessary to explain to the insured, etc. the purpose of using personal information at the start of use.
+It is necessary to give an easy-to-understand explanation as needed, but in addition, the insured and others were skeptical.
+It is important to secure a window function that allows you to easily inquire about the contents at any time. Furthermore
+In addition, a window function for counseling and responding to complaints from insured persons regarding the handling of personal information, etc.
+And the contact point organically cooperates with the consultation function regarding the provision of services.
+It is necessary to take measures from the standpoint of the insured, etc., such as establishing a system that can take such measures.
+In addition, a method of accepting requests for disclosure, maintenance of contact functions, etc., explanation of the purpose of use of personal information
+It is necessary to give consideration to insured persons with disabilities, etc.
+8. Handling of provision of personal information to bereaved families
+Based on the purpose of the OECD8 principle, the law applies information on living individuals and personal information.
+In principle, the consent of the person is obtained when using the information for purposes other than the intended purpose or providing it to a third party, resulting in death.
+As a general rule, personal information is not subject to the law and this guidance.
+Not. However, when the insured person dies, the bereaved family will change the personal information such as the medical fee statement.
+When an inquiry is made, the health insurance association, etc. will inform the insured person, etc. of his / her life intention, honor, etc.
+Special consideration is required while respecting the minute. For this reason, a separate guideline (“Medical fee schedule”
+Disclosure of documents, etc. to insured persons, etc. ”(March 31, 2005, Insurance No. 0331090)
+Based on the contents of), personal information such as medical fee statements shall be provided to the bereaved family.
+
+3
+
+Page 8
+
+9. Relationship with other laws and regulations
+Health insurance associations, etc. handle personal information in the laws, basic policies, and items shown in this guidance.
+In addition to eyes, you must comply with the provisions of other laws and regulations regarding the protection of personal information or confidentiality.
+Absent.
+10. Efforts in an authorized personal information protection organization
+In Article 47 of the Act, ensuring the proper handling of personal information, etc. of businesses handling personal information, etc.
+Corporations, etc. that carry out the intended business are certified by the Personal Information Protection Commission and certified by the Personal Information Protection Commission.
+It is supposed to be a body. Affiliated organizations that become certified personal information protection organizations are umbrellas
+In addition to promoting dissemination and enlightenment related to personal information protection for the following health insurance associations, in line with the purpose of the law
+Insured persons, etc. regarding the handling of personal information, etc.
+It is expected that active efforts will be made, such as opening a consultation desk for the purpose.
+
+4
+
+Page 9
+
+Ⅱ Definition of terms
+1. 1. Personal information (Article 2, Paragraph 1 of the Law)
+
+(Definition)
+Article 2 of the Act "Personal information" in this Act is information about living individuals.
+Anything that falls under any of the following items.
+(I) Name, date of birth and other descriptions contained in the information (documents, drawings or electromagnetic)
+Recording (Electromagnetic method (electronic method, electromagnetic method, etc.) Recognized by human perception
+It is a method that cannot be done. The same shall apply in item 2 of the next section. ) Is a record made. Tenth
+The same applies in Article 8, paragraph 2. ), Or voice, action, etc.
+It means all matters (excluding personal identification code) expressed by the method of. same as below. )
+What can identify a specific individual by (easily collated with other information)
+Includes those that can, and thereby identify a particular individual. )
+(Ii) Those containing a personal identification code
+
+"Personal information" is information about a living individual, and the name included in the information,
+Items that can identify a specific individual by date of birth, other description, etc. (with other information)
+Includes those that can be easily matched and thereby identify a particular individual
+Mu. ), Or those that include a personal identification code. "Personal information" includes name, gender,
+Not limited to personally identifiable information such as date of birth and facial image, personal body, property, occupation, title, etc.
+All information that represents facts, judgments, and evaluations regarding the attributes of
+Information that is made public, video and audio information is also included, and it is kept secret by encryption etc.
+It doesn't matter if it is done or not.
+In addition, for example, if there is data in the receipt that objectively inspects the insured, etc.,
+On the other hand, the name of the injury or illness judged by the doctor and the medical practice are described. All of these are insured
+This is information about individuals such as persons, but at the same time, a medical examination related to the receipt is conducted.
+From the point of view of the doctor, it also writes the name of the injury or illness that he / she judged and the medical practice.
+So, if your name is clearly stated on the receipt or you can easily identify a specific doctor from the name of the medical institution
+If possible, it can also be said to be information about an individual doctor. Therefore, receipt
+Among the information described in Puto, etc., there are two aspects: personal information of both the insured, doctors, etc.
+It should be noted that some parts have sex.
+In addition, the place where the information about the dead is also the information about the surviving individuals such as the bereaved family.
+In that case, it becomes information about the living individual.
+This guidance is intended for personal information held by health insurance associations, etc., and personal information
+Even if it is not organized in a database (see 7.), it corresponds to personal information.
+See Appendix 1 for personal information held by health insurance associations.
+* A specific individual can be identified by the written name, date of birth, and other descriptions.
+Those correspond to personal information.
+
+5
+
+Page 10
+
+2. 2. Personal identification code (Article 2, Paragraph 2 of the Law)
+
+(Definition)
+Article 2 of the law
+2 In this Act, "personal identification code" means a character or number that falls under any of the following items.
+No., symbol, or other code specified by a Cabinet Order.
+Characters converted to use the characteristics of a part of the body of a specific individual for use in a computer,
+Numbers, symbols and other codes that can identify the particular individual
+(Ii) Allocation regarding the use of services provided to individuals or the purchase of products sold to individuals
+Cards or other documents issued to individuals, or electromagnetic
+Characters, numbers, symbols or other codes recorded by the formula and the user or
+Assigned or described to be different for each purchaser or issuer
+Received a specific user or purchaser or issuance by being or recorded
+Things that can identify the person
+
+Article 1 of the Ordinance Law Concerning the Protection of Personal Information (hereinafter referred to as the "Law") Article 2, Paragraph 2 of the Cabinet Order
+The specified characters, numbers, symbols and other codes shall be as follows.
+1-2 (omitted)
+(Iii) The basic pension number stipulated in Article 14 of the National Pension Act (Act No. 141 of 1959)
+4-5 (omitted)
+(Vi) Act on the Use of Numbers for Identifying Specific Individuals in Administrative Procedures (Heisei)
+25 Year Law No. 27) Personal number prescribed in Article 2, Paragraph 5
+(Vii) It is stated in the following certificates that it will be different for each person who receives the issuance.
+Characters, numbers, symbols and other codes specified by the rules of the Personal Information Protection Commission
+B. Insured person's certificate under Article 9, Paragraph 2 of the National Health Insurance Act (Act No. 192 of 1958)
+(B) Law Concerning Ensuring Medical Care for the Elderly (Law No. 80 of 1982) Article 54, 3
+Insured person's card
+C. Insured person's certificate under Article 12, Paragraph 3 of the Long-Term Care Insurance Act (Act No. 123 of 1997)
+(Viii) Other characters, numbers, etc. specified by the rules of the Personal Information Protection Commission as equivalent to the preceding items
+Symbols and other signs
+Rules Article 3 Characters, numbers, symbols specified by the rules of the Personal Information Protection Commission, Article 1, Item 7 of the Ordinance
+Other codes shall be specified in each of the following items for each certificate.
+(I) Certificate listed in Article 1, item 7 (a) of the Ordinance Symbol, number and insurance of the certificate listed in item (a) of the same item
+Person number
+(Ii) Certificates listed in Article 1, item 7 (b) and (c) of the Ordinance
+And insurer number
+Rules Article 4 Characters, numbers, symbols specified by the rules of the Personal Information Protection Commission, Article 1, Item 8 of the Ordinance
+Other codes shall be listed below.
+6
+
+Page 11
+
+(I) Insured under Article 47, Paragraph 2 of the Health Insurance Law Enforcement Regulations (Ministry of Interior Ordinance No. 36 of 1918)
+Certificate symbol, number and insurer number
+(Ii) Symbol, number and insurer number of the elderly beneficiary certificate set forth in Article 52, Paragraph 1 of the Health Insurance Law Enforcement Regulations
+issue
+3-9 (omitted)
+(X) National Health Insurance Law Enforcement Regulations (Ministry of Health and Welfare Ordinance No. 53, 1958) Article 7-4, Paragraph 1
+The symbol, number and insurer number of the elderly beneficiary certificate to be determined
+Eleven to twenty (omitted)
+
+"Personal identification code" means personal information that can identify a specific individual from the information alone.
+Stipulated in the Law Enforcement Ordinance on the Protection of Information (Cabinet Order No. 507 of 2003; hereinafter referred to as "Cabinet Order")
+The information that includes the letters, numbers, symbols, and other codes that correspond to them.
+It becomes personal information.
+The specific contents are Article 1 of the Cabinet Order and the Law Enforcement Regulations on the Protection of Personal Information (2016).
+Personal Information Protection Commission Rule No. 3. Hereinafter referred to as "rules". ) Stipulated in Articles 2 to 4
+For those related to the Health Insurance Act (Act No. 70 of April 22, 1918),
+The symbols, numbers and insurer numbers of the insured person's card and the elderly beneficiary's card are applicable.
+Therefore, the information including all of the symbol, number and insurer number is personal information.
+It becomes.
+3. 3. Personal information requiring consideration (Article 2, Paragraph 3 of the Law)
+
+(Definition)
+Article 2 of the law
+3 In this law, "sensitive personal information" means the person's race, beliefs, social status, medical history, etc.
+Criminal history, facts of being harmed by a crime, or other unfair discrimination against the person, prejudice, etc.
+It is stipulated by a Cabinet Order that special consideration should be given to its handling so as not to cause any disadvantages.
+Personal information that includes descriptions, etc.
+Article 2 of the Ordinance The description, etc. specified by the Cabinet Order under Article 2, Paragraph 3 of the Act contains any of the following matters.
+(Excluding those that correspond to the medical history or criminal history of the person).
+(I) Physical disability, intellectual disability, mental disability (including developmental disability) and other personal information protection commissions
+There is a physical or mental disability specified in the rules.
+(Ii) A person who engages in medical-related duties such as a doctor for the person (in the next issue, "Doctor"
+Etc. " ) Health checkups and other tests for prevention and early detection of illness
+Results of inspection (referred to as "health diagnosis, etc." in the same issue)
+(Iii) Based on the results of a medical examination, etc., or because of illness, injury, or other physical or mental changes.
+Guidance, medical treatment, or dispensing for improving the physical and mental condition of the person by a doctor, etc.
+What was done.
+
+7
+
+Page 12
+
+(Iv) Arrest, search, seizure, detention, prosecution, etc.
+The procedure for the criminal case was carried out.
+(V) The juvenile or the juvenile stipulated in Article 3, Paragraph 1 of the Juvenile Law (Law No. 168 of 1948)
+As a suspected person, investigation, guardianship measures, referees, protective measures and other juvenile protection matters
+The procedure for the matter has been carried out.
+Regulations Article 5 Disorders of mental and physical functions stipulated by the rules of the Personal Information Protection Commission, Article 2, Item 1 of the Ordinance
+The following obstacles are considered.
+
+(I) Physical disabilities listed in the attached table of the Welfare Law for Persons with Disabilities (Law No. 283 of 1945)
+(Ii) Intellectual disabilities referred to in the Welfare Law for Persons with Intellectual Disabilities (Law No. 37 of 1960)
+(Iii) Refers to the Act on Mental Health and Welfare for Persons with Mental Illness (Act No. 123 of 1950)
+Mental disorders (prescribed in Article 2, Paragraph 2 of the Developmental Disability Support Act (Act No. 167 of 2004)
+Including developmental disabilities, excluding those listed in the previous item. )
+(Iv) Diseases for which treatment methods have not been established and other special diseases that affect the daily lives of persons with disabilities.
+Article 4 of the Act for Comprehensive Support for Social Life (Act No. 123 of 2005)
+The degree of disability due to what is specified by the Cabinet Order in paragraph 1 is the degree specified by the Minister of Health, Labor and Welfare in the same paragraph.
+Things
+
+"Personal information requiring consideration" is taken so as not to cause unfair discrimination, prejudice or other disadvantages.
+It is stipulated in Article 2, Paragraph 3 of the Law, Article 2 of the Cabinet Order, and Article 5 of the Regulations that special consideration is required for handling.
+Personal information that includes a description, etc. In addition, care-requiring individuals assumed in health insurance associations, etc.
+The information that corresponds to the information is the medical history posted on the receipt, the fact that the person was harmed by the crime, etc.
+Facts of disabilities (physical disability, intellectual disability, mental disability, etc.) confirmed from the application form, the conclusion of the medical examination
+The fact that the results and measures after the medical examination (improvement guidance or medical treatment by a doctor, dispensing) were taken is mentioned.
+I can get rid of it.
+As a general rule, personal consent is required to obtain sensitive personal information and provide it to a third party.
+As a method of obtaining the consent of the person, it is usually considered necessary for insurance benefits to the insured, etc.
+Clarify the scope of use of personal information by posting it on the website, etc., and insured persons, etc.
+Unless there is a clear manifestation of opposition or reservation, personal information within these ranges will be provided.
+Use the idea of ​"implicit consent", assuming that consent has been obtained for use
+There is. (Refer to III5. (3) for details)
+On the other hand, regarding sensitive personal information, certain conditions are met in accordance with the provisions of Article 23, Paragraph 2 of the Law.
+How to provide to a third party without obtaining the consent of the person by adding (third party proposal by opt-out)
+(Supplement) is not allowed.
+In addition, health insurance associations, etc. must acquire personal information for the purpose of providing it to third parties.
+Is usually not expected.
+
+[Points of sensitive personal information]
+When acquiring sensitive personal information, the consent of the person is required. (See III3.)
+
+8
+
+Page 13
+
+4. Specific personal information (Article 2, Paragraph 8 of the Number Act)
+
+Numbering Law Article 2
+8 In this law, "specific personal information" means an individual number (corresponding to an individual number and the individual concerned).
+Numbers, symbols and other codes used in place of numbers, other than resident's card codes
+Including. Article 7, paragraphs 1 and 2, Article 8 and Article 48, and Supplementary Provisions Article 3, 1
+The same shall apply hereinafter except for paragraphs 3 to 3 and paragraph 5. ) Is included in the content.
+
+"Specific personal information" refers to personal information that includes the personal number specified in the Number Act. Special
+Fixed personal information is not only subject to the numbering method, but also subject to the law as personal information.
+It should be noted that.
+Regarding the specific handling of "specific personal information", please refer to "Proper handling of specific personal information".
+Guidelines for Business (Business) December 11, 2014 Personal Information Protection Commission "and
+And see the "Digital PMO for Health Insurers" site.
+5. Anonymization of personal information
+From the personal information, the name, date of birth, address, personal identification code, etc. included in the information, etc.
+It refers to making it impossible to identify a specific individual by removing the information that identifies the person.
+For facial photographs, it is generally possible to identify a specific individual by masking the area of ​the eyes.
+It is considered that there is no such thing. If necessary, add a code or number that is not related to the person.
+Sometimes.
+Even if such processing is performed, if personal information is used within the health insurance association, etc., the health insurance association, etc.
+Correspondence table between personal information and other information obtained in the company or the code or number attached at the time of anonymization, etc.
+It is conceivable that a specific insured person, etc. can be identified by collating with. In the law, "other
+Can be easily matched with the information in the information, thereby identifying a specific individual.
+It is said that "what will be" is also included in the personal information, and when anonymizing it,
+It is necessary to take into consideration the purpose of use of the information and the user, etc.
+It is also necessary to consider measures such as gaining will.
+In addition, we will introduce the results of medical examinations of specific insured persons and examples of health guidance in group health guidance.
+Name, date of birth, address, individual, etc.
+It is thought that anonymization will be achieved by erasing the identification code, etc., but the results of medical examinations and health guidance
+As usual, if sufficient anonymization is difficult, the consent of the person must be obtained.
+In addition, specific insured persons used for referrals in health guidance conducted by such groups.
+Anonymization of medical examination results, etc., is defined and handled as anonymized information (see II6.).
+It should be noted that it is different.
+
+9
+
+Page 14
+
+6. Anonymously processed information (Article 2, Paragraph 9 of the Law)
+
+(Definition)
+Article 2 of the law
+9 In this law, "anonymously processed information" means according to the classification of personal information listed in each of the following items.
+Individuals so that they cannot identify a specific individual by taking the measures specified in each item.
+Information about an individual obtained by processing the information, and it is possible to restore the personal information.
+It means something that cannot be done.
+(I) Personal information corresponding to paragraph (1), item (i) Delete some of the descriptions, etc. contained in the personal information.
+To do (by a method that does not have regularity that can restore the part of the description, etc.
+Includes replacement with other descriptions. ).
+(Ii) Personal information corresponding to paragraph (1), item (ii) All personal identification codes included in the personal information
+(A method without regularity that can restore the personal identification code)
+Including replacing with other description etc. ).
+
+"Anonymously processed information" means taking measures that determine personal information according to the classification of personal information.
+Information about an individual obtained by processing it so that a specific individual cannot be identified.
+The personal information is restored so that a specific individual cannot be re-identified.
+Say.
+[Points of anonymous processing information]
+When creating anonymously processed information from personal information, process it according to the standards stipulated in the rules.
+It will be subject to certain restrictions. For details, see the "Act on the Protection of Personal Information"
+Guidelines (Anonymously Processed Information) ”(2016 Personal Information Protection Commission Notification No. 9
+No.).
+Businesses handling anonymously processed information (related to Article 2, Paragraph 10 of the Law)
+Regarding the definition of an anonymously processed information handling business operator, the separately defined "Act on the Protection of Personal Information"
+Guidelines for Ritsu (Anonymously Processed Information) ”(2016 Personal Information Protection Commission Notification No.
+See No. 9).
+(reference)
+(Definition)
+Article 2 of the law
+10 In this Act, "anonymously processed information handling business operator" means information including anonymously processed information.
+It is an aggregate, and you can search for specific anonymously processed information using a computer.
+You can easily search for information that is systematically configured and other specific anonymously processed information.
+What is specified by a Cabinet Order as being systematically constructed so as to be (in Article 36, paragraph 1)
+It is called "anonymous processing information database, etc." ) Is used for business purposes. However
+However, the persons listed in each item of paragraph 5 are excluded.
+
+10
+
+Page 15
+
+Article 6 of the Ordinance The information specified by the Cabinet Order under Article 2, Paragraph 10 of the Act contains certain anonymously processed information.
+By organizing according to the rules of, you can easily search for specific anonymously processed information.
+A collection of information systematically organized so that it can be easily searched for a table of contents, index, etc.
+It means something that has something to do.
+
+7. Personal information database, etc. (Article 2, Paragraph 4 of the Act), personal data (Article 2, Paragraph 6 of the Act), possession
+Personal data (Article 2, Paragraph 7 of the Law)
+
+(Definition)
+Article 2 of the law
+4 In this law, "personal information database, etc." is a collection of information including personal information.
+However, the following items (there is little risk of harming the rights and interests of individuals in terms of usage)
+Excludes those specified by Cabinet Order. ).
+Systematically configured so that specific personal information can be searched using a computer
+What you did
+(Ii) In addition to the items listed in the previous item, so that specific personal information can be easily searched.
+What is specified by a Cabinet Order as a systematic structure
+Article 3 of the Ordinance There is little risk of harming the rights and interests of individuals from the viewpoint of how to use Article 2, Paragraph 4 of the Act.
+Those specified by Cabinet Order shall fall under any of the following items.
+(I) It was issued for the purpose of selling to an unspecified number of people, and
+The issuance was not made in violation of the law or the provisions of an order based on the law.
+(Ii) It can be purchased or made at any time by an unspecified number of people.
+When.
+(Iii) It is used for its original purpose without adding other information about the living individual.
+That is.
+2 What is specified by a Cabinet Order under Article 2, Paragraph 4, Item 2 of the Act is a certain rule regarding the personal information contained therein.
+To make it easier to search for specific personal information by organizing according to the rules
+A collection of information systematically organized in the table of contents, index, and other information to facilitate searching.
+Those that have things.
+
+"Personal information database, etc." is to search for specific personal information using a computer.
+A collection of information, including personal information, systematically structured so that it can be done, or a computer
+Even if you do not use, there are certain rules (for example, fifty) for personal information processed on paper.
+Organize and classify according to syllabary, date of birth, etc.) and easily search for specific personal information.
+Add a table of contents, index, code, etc. so that it can be easily searched by others.
+It means what you are saying.
+
+11
+
+Page 16
+
+(Definition)
+Article 2 of the law
+6 In this law, "personal data" means personal information that constitutes a personal information database, etc.
+Tell the news.
+
+"Personal data" refers to personal information that constitutes a "personal information database, etc."
+
+(Definition)
+Article 2 of the law
+7 In this law, "retained personal data" is disclosed and disclosed by the business operator handling personal information.
+You can make corrections, additions or deletions, suspend use, delete, and suspend provision to third parties.
+It is personal data that has the authority to do so, and the public interest and others can be clarified by clarifying its existence.
+Those specified by Cabinet Order as being detrimental to the interests of
+It means something other than the one that will be erased inside.
+Article 4 of the Ordinance The items specified by Cabinet Order under Article 2, Paragraph 7 of the Act shall be as follows.
+(I) By clarifying the existence or nonexistence of the personal data, the life and body of the person or a third party
+Or something that could harm your property
+(Ii) By clarifying the existence or nonexistence of the personal data, it promotes illegal or unjust acts.
+Or something that may induce
+(Iii) There is a risk that the security of the country will be impaired by clarifying the existence of the personal data.
+There is a risk that the relationship of trust with other countries or international organizations will be damaged, or other countries or international organizations
+Those that may suffer disadvantages in negotiations with
+(Iv) By clarifying the existence or nonexistence of the personal data, crime prevention, suppression or investigation
+Others that may interfere with the maintenance of public safety and order
+Article 5 of the Ordinance The period specified by a Cabinet Order under Article 2, Paragraph 7 of the Act shall be June.
+
+"Retained personal data" is the content of personal data disclosed by the business operator handling personal information.
+Corrections, additions or deletions, suspension of use, erasure and suspension of provision to third parties can be made.
+Those who have authority. However, (1) the public interest and others will be clarified as to whether or not it exists.
+(2) It will be deleted within 6 months (excluding renewal).
+Excludes.
+Regarding receipts, medical examination results, health guidance records, etc., regardless of the medium, personal day
+Corresponds to tabas, etc.
+8. Consent of the person
+
+"Personal consent" means the handling of personal information of the person indicated by the business operator handling personal information.
+A manifestation of the person's intention to consent to be handled by the method (the person concerned)
+12
+
+Page 17
+
+It is assumed that you can confirm that. ).
+In addition, "obtaining the consent of the person" means taking the personal information to indicate the intention of the person's consent.
+It means that the handling business operator recognizes it, and the person himself / herself is the same depending on the nature of the business and the handling status of personal information.
+You must use reasonable and appropriate methods that you consider necessary to make your judgment.
+Absent.
+In addition, regarding the result caused by agreeing to the handling of personal information, minors
+Persons, adult guardians, guardians and assisted persons do not have the ability to judge
+Needs to obtain consent from a parent or legal representative.
+[Case with the consent of the person]
+Case 1) Oral manifestation of consent from the person
+Case 2) Receipt of a written consent (including electromagnetic records) from the person
+Case 3) Receiving an email from the person to the effect that he / she agrees
+Case 4) Checking the confirmation column to the effect that the person agrees
+Case 5) Click the button on the homepage to the effect that the person agrees
+Case 6) Voice input to the effect that the person agrees, touch to the touch panel, buttons and screens
+Input by switch etc.
+In principle, the law requires the consent of the individual in the case of unintended use of personal information or provision to a third party.
+I'm asking for that. This is one of the eight OECD principles that form the basis of the law, which is the principle of usage restrictions.
+As a manifestation of the idea, for health insurance associations, etc., provide appropriate insurance benefits, etc. to insured persons, etc.
+Use of personal information that is usually considered necessary in the health insurance association, etc. for the purpose of
+In addition to posting the surroundings on the websites of health insurance associations, etc., distribution of pamphlets, contact point for business establishments
+It should be clarified by posting, installing, and public notices on bulletin boards of the health insurance association, etc.
+Things that benefit the insured, etc., or things that are not necessarily profitable, such as medical expense notifications
+The burden on the trader side (health insurance association, etc.) is enormous, and it is not necessarily rational for the insured person, etc.
+For those that cannot be said to exist, the insured, etc. have a particularly clear manifestation of opposition / reservation.
+If not, it is assumed that consent has been obtained for the use of personal information within these ranges.
+Conceivable. (See III5. (3) (4))
+In these cases, as much as possible, depending on the insured's understanding and judgment.
+It is important to notify the insured person, etc. and try to obtain their consent.
+[About the consent of the person in the sensitive personal information]
+A place where health insurance associations, etc. properly acquire sensitive personal information directly from the person in writing or verbally, etc.
+In that case, when the person provides the information, the business operator handling the personal information will provide the information.
+It is understood that there was the consent of the person to acquire it.
+
+13
+
+Page 18
+
+Ⅲ Obligations of health insurance associations, etc.
+1. 1. Identification of purpose of use, etc. (Articles 15 and 16 of the Act)
+
+(Specification of purpose of use)
+Article 15 of the Act When a business operator handling personal information handles personal information, the purpose of its use
+(Hereinafter referred to as "purpose of use") must be specified as much as possible.
+2 When changing the purpose of use, the business operator handling personal information shall change the purpose of use before the change and its relevance.
+Do not go beyond what is reasonably acceptable to have.
+(Restrictions depending on the purpose of use)
+Article 16 of the Act A business operator handling personal information shall comply with the provisions of the preceding Article without obtaining the consent of the person in advance.
+Personal information must not be handled beyond the scope necessary to achieve the specified purpose of use.
+2 A business operator handling personal information may start a business from another business operator handling personal information due to a merger or other reasons.
+If personal information is acquired in connection with the succession, without obtaining the consent of the person in advance,
+Beyond the scope necessary to achieve the purpose of use of the personal information before the succession, the personal information
+Do not handle.
+(3) The provisions of the preceding two paragraphs shall not apply in the following cases.
+When required by law
+When it is necessary to protect the life, body or property of two people, and obtain the consent of the person
+When it is difficult to do.
+(Iii) When it is particularly necessary to improve public health or promote the sound development of children.
+When it is difficult to obtain the consent of the person.
+Shikoku organizations or local public bodies or those entrusted with them carry out the affairs stipulated by laws and regulations.
+When it is necessary to cooperate with what you do, and by obtaining the consent of the person
+When there is a risk of hindering the performance of the office work.
+
+(1) Identification and restriction of purpose of use
+When a health insurance association, etc. acquires personal information from an insured person, etc. who wishes to receive insurance benefits, etc.
+Providing personal information to insured persons, etc., office work related to insurance benefits, etc. of health insurance associations, etc.
+It is clear to the insured that it will be used for personal numbers based on the numbering method.
+Be done.
+When using personal information other than these, it is not always obvious to the insured.
+Not the purpose. In this case, when acquiring personal information, the purpose of use is clearly stated.
+Measures such as publication must be taken. (See III2.)
+The intended use purposes assumed in normal business such as health insurance associations are illustrated in Attached Table 2, and are healthy.
+With reference to these, insurance associations, etc. identify what is normally required in light of their own business.
+And make it public (posting on the homepage of the health insurance association, etc.). (See III2.)
+Regarding the scope of the purpose of use listed in Attached Table 2, the purpose of use stipulated in Article 15, Paragraph 2 of the Act
+When making changes, the changed purpose of use must be notified or announced to the person.
+Absent. (See III2.)
+
+14
+
+Page 19
+
+(2) Exceptions to restrictions depending on the purpose of use
+Health insurance associations, etc. were specified by the provisions of Article 15 of the Act without obtaining the consent of the person in advance.
+Personal information must not be handled beyond the scope necessary to achieve the purpose of use (Article 16 of the Act).
+In the cases listed in Paragraph 1) and Paragraph 3 of the same Article, it is not necessary to obtain the consent of the person. concrete
+An example is as follows.
+① When required by law
+Personal information based on laws and regulations, such as on-site inspections based on Article 29 or 198 of the Health Insurance Act
+When using
+As the provisions of the laws and regulations that form the basis, generally, Article 218 of the Code of Criminal Procedure (investigation by warrant), ground
+Article 72-63 of the Tax Law (question inspection right related to investigations on individual business tax, similar to various tax laws
+There is a provision of) etc.
+Since these laws and regulations are obligatory to respond, investigations, etc. are conducted by health insurance associations, etc.
+If you do, you will be obliged to answer.
+In addition, with regard to Article 197, Paragraph 2 of the Code of Criminal Procedure (interrogation necessary for investigation), etc., there are exceptions to the law.
+Although it is subject to regulation, it is considered as voluntary cooperation under the relevant law, and health insurance associations, etc. are interrogated, etc.
+If this is done, it is necessary to judge whether or not to answer for each individual case. this
+In that case, even if personal information is handled without the consent of the person, it does not constitute a violation of Article 16 of the Act.
+However, there is a risk that the person concerned will be required to claim damages based on the Civil Code.
+(2) Obtain the consent of the person when it is necessary to protect the life, body or property of the person.
+When it is difficult
+(Example)
+・ For insured persons who have become unconscious, medical institutions, etc. can provide information on family contact information, etc.
+When providing to
+③ When it is particularly necessary to improve public health or promote the sound development of children.
+When it is difficult to obtain the consent of the person
+(Example)
+・ For epidemiological investigations and research, use personal names for information obtained from health examinations and cancer examinations.
+When providing to researchers face down
+・ Medical matters that occurred at medical institutions that submit receipts to the health insurance association to improve medical safety.
+Personal information to provide information to the national government, local governments, third parties, etc. regarding the deceased, etc.
+When handling information
+④ A national institution, a local public body, or a person entrusted with it carries out the affairs stipulated by laws and regulations.
+When it is necessary to cooperate with the matter, the matter is obtained by obtaining the consent of the person.
+When there is a risk of hindering the performance of duties
+(Example)
+・ When the business operator handles personal information at the request of the police
+15
+
+Page 20
+
+・ When handling personal information in general statistical surveys and statistical surveys conducted by local governments
+[Matters to be observed according to the provisions of the law]
+・ When handling personal information, health insurance associations, etc. should not specify the purpose of use as much as possible.
+Must be.
+・ When the purpose of use is changed, the health insurance association, etc. will be related to the purpose of use before the change.
+Do not go beyond what is reasonably acceptable.
+・ Health insurance associations, etc. are necessary to achieve the specified purpose of use without obtaining the consent of the person in advance.
+Do not handle personal information beyond the scope of the above. In addition, in order to obtain the consent of the person
+Use personal information (call using the insured's contact information to obtain consent
+In such cases), it is permissible to process the personal information in order to anonymize it.
+・ Although the consent of the person was obtained at the time of acquiring the personal information, after that, the person himself / herself
+If there is a request to revoke the consent for a part of the purpose of use, personal information after that
+Regarding the handling of information, we will handle it only to the extent that the consent of the person has not been revoked.
+・ Health insurance associations, etc. will take over the business from other businesses due to merger or other reasons.
+If personal information is acquired, it is necessary to obtain the consent of the person before the succession without obtaining the consent of the person in advance.
+Do not handle personal information beyond the scope necessary to achieve the purpose of use of personal information.
+Absent.
+・ If you fall under the exception of restrictions on the purpose of use (Article 16, Paragraph 3 of the Law), without obtaining the consent of the person.
+Can handle personal information.
+(Refer to III2. For the handling when changing the purpose of use)
+[Other matters]
+・ Even if it is based on the law, which is an exception to the restriction on the purpose of use, it is not the purpose of use.
+When handling personal information for the purpose of, based on the purpose of the relevant law, etc., the scope of handling
+Is required to be limited to the range that is truly necessary.
+・ If the insured person is a minor, etc., it is sufficient to obtain the consent of a legal representative, etc., but it is certain.
+For minors, etc. who have the ability to judge, the consent of the person, etc., with the consent of the legal representative, etc.
+To get.
+
+16
+
+Page 21
+
+2. 2. Notification of purpose of use, etc. (Article 18 of the Act)
+
+(Notification of purpose of use at the time of acquisition, etc.)
+Article 18 of the Act When a business operator handling personal information acquires personal information, it uses it in advance.
+Unless the purpose is announced, promptly notify the person of the purpose of use or publicly.
+Must be represented.
+2 The business operator handling personal information shall conclude a contract with the person regardless of the provisions of the preceding paragraph.
+In accordance with the contract and other documents (including electromagnetic records; the same shall apply hereinafter in this section).
+When acquiring the personal information of the person mentioned, it is written directly from the person in writing.
+When acquiring the personal information of the person concerned, the purpose of use is given to the person in advance.
+Must be specified. However, it is urgently necessary to protect human life, body or property.
+This does not apply if there is a need.
+3 When the business operator handling personal information changes the purpose of use, the changed purpose of use will be discussed.
+The person must be notified or made public.
+4. The provisions of the preceding three paragraphs shall not apply in the following cases.
+(I) By notifying or disclosing the purpose of use to the person, the life, body, of the person or a third party,
+When there is a risk of harming property or other rights and interests
+(Ii) The right of the business operator handling personal information by notifying or publicizing the purpose of use.
+When there is a risk of harming profits or legitimate interests
+Cooperate with national organizations or local public bodies to carry out the affairs stipulated by law
+When it is necessary, the purpose of use is notified or announced to the person concerned.
+When there is a risk of hindering the performance of office work.
+(Iv) When it is recognized that the purpose of use is clear from the status of acquisition
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. announce the purpose of use in advance when acquiring personal information.
+If you keep it or obtain personal information, promptly notify the person of the purpose of use, or
+Must be published.
+・ As a method of disclosing the purpose of use, in addition to posting on the homepage of the health insurance association, etc.
+By distributing the information, posting / installing on the bulletin boards of business establishments and health insurance associations, public notices, etc.
+It is necessary to make it public as widely as possible.
+・ Health insurance associations, etc., when requesting the entry of a questionnaire when accepting an application for a medical examination, etc.
+If you want to obtain the personal information of the person directly from the person in writing, you must do so in advance.
+However, the purpose of use must be clearly stated on the bulletin board of the office in charge or the health insurance association.
+Must be.
+・ If the purpose of use is changed, the health insurance association, etc. will inform the person about the changed purpose of use.
+Must be known or published.
+・ Notification of purpose of use, etc. when it is recognized that the purpose of use is clear from the status of acquisition, etc.
+If the exception is applicable, the above contents do not apply. (When "the purpose of use is clear"
+Ⅲ1. (Refer to (1))
+17
+
+Page 22
+
+[Other matters]
+・ The purpose of use is an exception to this regulation. "It is recognized that the purpose of use is clear from the status of acquisition.
+Indicate the purpose of use to the insured in an easy-to-understand manner even if it falls under "when it is possible"
+From this point of view, when announcing the purpose of use, the purpose of use should also be described.
+・ If there is a request from the insured, etc., a detailed explanation and a document describing the contents will be issued.
+
+18
+
+Page 23
+
+3. 3. Proper acquisition of personal information and ensuring the accuracy of personal data content (Articles 17 and 19 of the Act)
+
+(Proper acquisition)
+Article 17 of the Act A business operator handling personal information acquires personal information by deception or other improper means.
+Must not be.
+2 Businesses handling personal information obtain the consent of the person in advance, except in the following cases.
+Therefore, you must not obtain sensitive personal information.
+When required by law
+When it is necessary to protect the life, body or property of two people, with the consent of the person
+When it is difficult to get
+(Iii) If there is a particular need for improving public health or for the sound development of children, this book
+When it is difficult to obtain the consent of a person
+Shikoku organizations or local public bodies or those entrusted with them complete the affairs stipulated by laws and regulations.
+If you need to cooperate in doing something, by getting your consent
+When there is a risk of hindering the performance of the relevant affairs.
+(V) The personal information requiring consideration is the person, national institution, local public body, each item of Article 76, paragraph 1.
+When it is disclosed by the person listed in the above or other person specified by the rules of the Personal Information Protection Commission
+(Vi) Other cases specified by Cabinet Order as equivalent to the cases listed in the preceding items
+Rule Article 6 Persons stipulated by the rules of the Personal Information Protection Commission, Article 17, Paragraph 2, Item 5 of the Act shall be as follows:
+A person who falls under any of the items.
+(I) Foreign governments, foreign government agencies, foreign local governments or international organizations
+(Ii) A person equivalent to a person listed in each item of Article 76, paragraph 1 of the Act in a foreign country.
+Article 7 of the Ordinance When specified by a Cabinet Order under Article 17, Paragraph 2, Item 6 of the Act, the following cases shall apply.
+By visually observing or photographing the person, personal information requiring consideration that is clear in appearance can be obtained.
+When to get
+(Ii) In the cases listed in each item of Article 23, Paragraph 5 of the Act, personal information requiring consideration, which is personal data.
+When receiving information.
+
+(Ensuring the accuracy of data contents, etc.)
+Article 19 of the Act A business operator handling personal information shall, to the extent necessary to achieve the purpose of use, personal information.
+Keep the data accurate and up-to-date, and when it is no longer necessary to use it,
+We must endeavor to erase personal data without delay.
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. must not acquire personal information by deception or other fraudulent means.
+・ Regarding the past medical history, etc. necessary for health guidance, etc., the person himself / herself regarding the range that is truly necessary.
+In addition to obtaining directly from, a person who has obtained the consent of the person himself / herself regarding the provision to a third party (III5. (3)
+Includes those who are believed to have obtained the implied consent of the person. ) In principle
+19
+
+Page 24
+
+To do. However, it is unavoidable to obtain it from a family member other than the person himself / herself for health guidance, etc.
+If not, this is not the case.
+・ Obtaining family personal information from a child who does not have sufficient judgment without the consent of the parent
+Must not be.
+・ When acquiring sensitive personal information, the consent of the person must be obtained in advance.
+However, in the cases stipulated in each item of Article 17, Paragraph 2 of the Law, it is not necessary to obtain the consent of the person.
+I.
+(Example)
+・ When a sudden illness or other situation occurs, the medical history of the person can be checked by a doctor or nursing member of the health insurance association.
+When the teacher hears from his family, it is considered to fall under Article 17, Paragraph 2, Item 2 of the Law.
+・ The business operator submits personal information corresponding to sensitive personal information at the request of the police.
+Therefore, when acquiring the personal information, there is a possibility that it falls under Article 17, Paragraph 2, Item 4 of the Law.
+I think there is.
+・ In addition, the personal information requiring consideration can be entrusted, business succession or joint interest as stipulated in each item of Article 23, Paragraph 5 of the Act.
+It is not necessary to obtain the consent of the person in advance when acquiring it for use.
+[Cases that violate Article 17, Paragraph 2 of the Law]
+Persons specified in Article 17, Paragraph 2, Item 5 of the Law and Article 6 of the Regulations without obtaining the consent of the person
+Information on the person's beliefs, criminal history, etc. from the information published on the Internet by the outside
+Own database, etc. as part of the information about the person that has been acquired and already held
+To register with.
+
+・ Health insurance associations, etc. are within the range necessary to achieve the purpose of use of providing appropriate insurance benefits, etc.
+We must endeavor to keep personal data accurate and up-to-date.
+
+・ When the health insurance association, etc. no longer needs to use the personal data they hold, that is,
+Therefore, it is a rational reason to hold the personal data in relation to the purpose when the purpose of use is achieved.
+When the reason no longer exists, or when the purpose of use is not achieved, but the premise of the purpose
+If the business itself is canceled, we will endeavor to delete the personal data without delay.
+There must be(※). In addition, the storage period, etc. is stipulated by the stipulations and regulations of laws and regulations.
+If so, this is not the case.
+(*) "Erase of personal data" means that the personal data cannot be used as personal data.
+In addition to deleting the data, it is possible to identify a specific individual from the data.
+Including things like avoiding it.
+[Other matters]
+・ When personal information is obtained from another health insurance association, etc. by providing it to a third party, the content of the personal information
+If any doubt arises, ask the person about the facts described.
+・ Health insurance associations, etc., in order to ensure the accuracy and up-to-dateness of the contents of personal data III 4. (2) In ②
+In the committees shown, specific rules are formulated and training for improving the technical level is conducted.
+20
+
+Page 25
+
+It is desirable to hold it.
+・ Provision to a third party (cases listed in each item of Article 23, Paragraph 1 of the Act, entrustment of handling of personal information, matters
+Excludes cases where personal information is provided due to business succession and shared use. ) Due to personal information (decree
+Excludes personal information obtained from the information stipulated in Article 2, item 2. )
+Compliance with the law of the provider (for example, opt-out (see Article 23, Paragraphs 2 and 3 of the Law), use
+Confirm the purpose, disclosure procedure, disclosure of the reception desk for inquiries and complaints, etc.), and personally
+While selecting a person who manages information appropriately as a provider, we actually collect personal information
+When obtaining, for example, inspection of documents such as contracts showing the process of acquisition or alternatives
+After confirming the acquisition method of the personal information by a rational method, the personal information is legal.
+If it cannot be confirmed that it was acquired, it may have been acquired by deception or other fraudulent means.
+Since there is a possibility that it is, be careful, including refraining from acquiring it.
+Is desirable.
+
+21
+
+Page 26
+
+4. Safety management measures, supervision of employees and supervision of contractors (Articles 20 to 22 of the Act)
+
+(Safety management measures)
+Article 20 of the Act A business operator handling personal information may leak, lose or damage the personal data it handles.
+If necessary and appropriate measures are taken for the prevention of personal data and other security management of personal data
+It doesn't become.
+(Employee supervision)
+Article 21 of the Act A business operator handling personal information has its employees handle personal data.
+Therefore, it is necessary and appropriate for the employee so that the personal data can be safely managed.
+You have to give a serious supervision.
+(Supervision of contractor)
+Article 22 of the Act A business operator handling personal information entrusts all or part of the handling of personal data.
+In that case, we will be entrusted to manage the security of the personal data entrusted to us.
+Necessary and appropriate supervision must be given to those who have been.
+
+(1) Safety management measures, etc. that should be taken by health insurance associations, etc.
+① Safety management measures
+Health insurance associations, etc. prevent leakage, loss or damage of the personal data they handle, and other individuals.
+Take organizational, human, physical, and technical security management measures for the security management of human data
+I have to do it. At that time, if the personal data of the person is leaked, lost or damaged, etc.
+In consideration of the magnitude of infringement of rights and interests suffered by the person, the nature of the business and the handling of personal data
+Necessary and appropriate measures shall be taken according to the risks caused by the situation. In addition, it should be noted.
+In that case, we will take safety management measures according to the nature of the medium on which personal data is recorded.
+② Employee supervision
+Health insurance associations, etc. need and appropriate for employees to comply with the safety management measures in (1).
+I have to supervise. An "employee" is a business under the direction and order of the business operator.
+It includes all persons engaged in business, and not only those who have an employment relationship, but also directors,
+It also includes dispatched workers.
+"Thorough protection of personal information in the health insurance association" (December 25, 2002)
+In the notice of the chief of the health insurance association), the officers and employees of the health insurance association are notified in the service regulations, etc.
+It is supposed to impose the duty of confidentiality of the staff.
+③ Supervision of consignor
+When entrusting all or part of the handling of personal data, the health insurance association, etc.
+"Selection of appropriate contractor" and "Safety" so that the safety management measures for the personal data can be taken appropriately.
+Concluding a consignment contract that includes compliance with all management measures "" Status of handling of personal data at the consignee
+By "understanding", it is necessary to manage and supervise the contractor as necessary and appropriate.
+(2) Matters that can be considered as safety management measures
+22
+
+Page 27
+
+Health insurance associations, etc. leak or lose personal data in view of the importance of the personal data they handle.
+Or, for the prevention of damage and other safety management, considering the scale, the condition of employees, etc., the following
+Necessary measures shall be taken with reference to the efforts shown in.
+If the same health insurance association has multiple offices (branches), the offices (branches) are located between the offices (branches).
+Information exchange does not correspond to provision to a third party, but safety management measures are taken for each office (branch).
+We will manage the safety of personal information based on the purpose of use of personal information.
+(1) Development and publication of regulations regarding personal information protection
+・ Health insurance associations, etc. are concerned with regulations and other personal information protection that stipulate procedures for disclosing retained personal data.
+We have put in place rules and posted them on the homepages of health insurance associations, etc., including a system for responding to complaints.
+Or, distribution of pamphlets, posting and installation on bulletin boards such as business offices and health insurance associations,
+Make public notices, etc. to thoroughly inform the insured.
+・ In addition, regarding the regulations regarding safety management measures for information systems that handle personal data.
+Perform maintenance in the same way.
+(2) Development of organizational structure, etc. to promote the protection of personal information
+・ In order to clarify the responsibility system of employees and promote concrete efforts, health insurance associations, etc.
+For the implementation and operation of security management of personal data by those who have sufficient knowledge about personal information protection
+Person in charge of handling personal information who has responsibility and authority for relations (for example, across organizations such as officers)
+As a person who can supervise), a person in charge of personal information management, a person in charge of information system audit, etc.
+Establish departments, committees, etc. to establish and promote the protection of personal information.
+・ Regularly self-evaluate the safety management measures for personal data taken by health insurance associations, etc.
+Make appropriate improvements in matters that should be reviewed or improved.
+・ The information system audit manager conducts an audit regarding the thoroughness of personal information protection measures and responds as necessary.
+Sufficient for personal information protection measures and information security measures based on the latest technological trends
+Confirmation of correspondence within the office by a person with knowledge (confirmed by utilizing a person with external knowledge
+Including letting. ) Is carried out.
+
+(3) Establishing a reporting communication system in the event of problems such as leakage of personal data
+・ 1) If an accident such as leakage of personal data occurs, or it is judged that there is a high possibility that it will occur.
+2) If there is a fact that the rules regarding the handling of personal data are violated
+Alternatively, establish a reporting and communication system to the person in charge when it is judged that the signs are high.
+・ Information such as leakage of personal data may be reported from the outside as part of complaints, etc.
+Since it will be fixed, we will also cooperate with the system for responding to complaints. (See III13.)
+④ Establishing rules regarding the protection of personal information at the time of employment contract
+・ In employment contracts and work regulations, confidentiality obligations are imposed not only during the working period but also after leaving the job.
+We will establish and thoroughly implement rules regarding the protection of personal information of employees.
+⑤ Implementation of education and training for employees
+23
+
+Page 28
+
+・ Implementation of education and training for employees to ensure the appropriate protection of personal data handled
+By enlightening employees who will handle personal data in actual business, etc.
+Thorough awareness of personal information protection of people.
+⑥ Physical safety management measures
+-To prevent theft or loss of personal data, take the following physical security management measures.
+-Implementation of entrance / exit (room) management (recording or supervision by shooting with a camera or witnessing work, etc.)
+Implementation of vision)
+-Implementation of preventive measures against theft, etc.
+-Physical protection such as fixing equipment and devices
+-Prohibition of bringing in / out of media with recording function or implementation of inspection
+-Prohibition or restriction of connection of media with recording function
+-Implementation of password lock for personal computers, etc. when leaving the desk
+⑦ Technical safety management measures
+・ In order to prevent theft or loss of personal data, "Core system related to proper handling of personal information"
+About strengthening security measures of the system (re-request) "(Notified on December 18, 2015)
+Regarding the information system that handles personal data in accordance with the purpose of
+Take control measures.
+-Access management for personal data (authentication by ID, password, etc., work of each staff member
+Adopting a system configuration that allows access only to the range necessary for business according to the content)
+-Saving access records for personal data
+-Installing a firewall for personal data
+-Encryption and password setting for personal data
+-Periodical records of access to personal data and operations, and the existence of abnormal records suspected of being fraudulent
+Confirmation
+-Networks connected to mission-critical systems and networks connected to the Internet
+Physical or logical separation of
+-Software-related vulnerability countermeasures (application of security patches, relevant information system)
+Discovery of unique vulnerabilities and their correction, etc.)
+-Update software and hardware at the necessary and appropriate time
+⑧ Saving personal data
+・ When storing personal data for a long period of time, personal data such as prevention of deterioration of storage media
+Store properly so that it does not disappear.
+・ When it is necessary to save personal data, such as when responding to inquiries from the person himself / herself.
+Save it in a searchable state such as index maintenance so that you can respond quickly.
+⑨ Disposal and deletion of unnecessary personal data
+・ When disposing of personal data that is no longer needed, personal data cannot be restored, such as by incineration or dissolution.
+24
+
+Page 29
+
+Dispose of in a possible form.
+・ When disposing of information devices that handle personal data, restore the personal data in the storage device.
+Erase it into an impossible form and discard it.
+・ When outsourcing these disposal operations, the handling of personal data is also included in the outsourcing contract.
+And clearly define.
+(3) Handling when outsourcing business
+① Supervision of contractors
+Health insurance associations, etc. will punch (input) and inspect the receipt, create a health insurance insured person's card, etc.
+When entrusting all or part of the handling of personal data such as medical examinations such as human docks and health guidance
+Necessary and appropriate supervision of trustees to comply with safety management measures based on Article 20 of the Act
+I have to be the governor.
+
+"Necessary and appropriate supervision" includes safety specified by the business operator who is the consignor in the consignment contract.
+In addition to incorporating the details of management measures into the contract and making it an obligation of the trustee, the business is being carried out appropriately.
+It also includes checking things regularly.
+In addition, when the business is subcontracted, the subcontractor has improperly handled it.
+If a problem arises, the health insurance association or the subcontracted business operator may be liable.
+② Precautions when outsourcing business
+When a related business operator such as a health insurance association outsources all or part of the handling of personal data,
+The following matters should be noted.
+-Select a business operator that handles personal information appropriately as a contractor (trustee).
+When selecting an outsourcer, safety management measures for the outsourcer are required at least under Article 20 of the Act.
+Confirmation of the contractor's system, regulations, etc. to confirm that it is the same as the one
+In addition, if necessary, go to a place where personal data is handled or a reasonable alternative
+It is hoped that the person in charge of handling personal information will make an appropriate evaluation after confirming by the method.
+Good.
+・ Appropriate handling of outsourced business, outsourced business, and personal information in the contract
+Includes content related to (In addition to during the consignment period, handling of personal data after the consignment is completed
+Including. ), Publicize the contract details.
+-Regularly confirm that the trustee handles personal information appropriately.
+・ If there is any doubt about the handling of personal information by the trustee (request from the insured, etc.)
+Including cases where confirmation is considered necessary. ) Asks the trustee for an explanation
+Take appropriate measures such as requesting improvement as necessary.
+・ From the viewpoint of personal information protection, mask personal information as much as possible.
+Therefore, make an effort to entrust the personal information after anonymizing it.
+-In addition, when entrusting, you should provide only the range of information that is originally required.
+Providing to other businesses even matters that are not required to provide information
+Try not to get angry.
+25
+
+Page 30
+
+* Notice regarding contractor consignment in the health insurance association
+In addition to the above precautions, we will comply with the notice regarding outsourcing of contractors.
+・ "Thorough protection of personal information" (December 25, 2002, No. 122,50003)
+・ "Thorough protection of personal information in the health insurance association" (December 25, 2002)
+"4. Measures for outsourcing regarding the processing of personal information" of Hosho No. 122,50001)
+③ Precautions when subcontracting business
+When the health insurance association subcontracts all or part of the processing related to personal information, the following
+You should keep in mind the matter.
+・ Although it is not prohibited to subcontract business including personal information, the health insurance association
+Do not subcontract the processing of personal information that does not involve a direct contractual relationship with.
+("Thorough protection of personal information in the health insurance association" (December 25, 2002)
+"4. Measures related to outsourcing regarding the processing of personal information" of Hoho No. 122,50001)
+Place ")
+・ When subcontracting business including personal information or subcontracting processing related to personal information
+By masking personal information as much as possible from the viewpoint of personal information protection
+After anonymizing the personal information, the contractor will not provide the personal information to the subcontractor.
+Strive.
+In this case, the Health Insurance Society will not be able to conclude a consignment contract with the primary consignee.
+The primary contractor clearly states in the consignment contract that it will comply with the matters listed in the above notification criteria.
+Of course, in addition to this, in the entrustment contract, when subcontracting,
+The primary subcontractor shall be in writing to the subcontractor regarding the possibility of subcontracting and the subcontracting.
+Prior reporting or approval, and under the subcontracting contract, the criteria for notification to the subcontractor
+Indicate in the primary consignment contract that it is clearly stated that the matters listed in the above are to be observed.
+If the primary contractor intends to subcontract, the health insurance association will be the place to consign.
+As with the case, the subcontractor, the business content to be subcontracted, and how to handle the personal data of the subcontractor
+Direct or primary entrustment that requires prior reporting or approval procedures from the primary entrustment regarding laws, etc.
+By conducting regular audits through the subcontractor, the primary subcontractor will contact the subcontractor in this article.
+Appropriately supervise the primary contractor, and the subcontractor manages safety based on Article 20 of the Act.
+It is advisable to fully confirm that measures will be taken.
+
+(4) Handling when storing the receipt in a medium other than paper, etc. or outsourcing them
+At health insurance associations, etc., storage of receipts in media other than paper or computer processing of receipts
+And when outsourcing them, the health insurance association, etc. handles the operation and outsourcing, etc.
+Regulations shall be established and implemented to ensure safety.
+
+(5) Prevention of secondary damage in the event of problems such as leakage of personal information
+When problems such as leakage of personal information occur, prevention of secondary damage and occurrence of similar cases
+26
+
+Page 31
+
+From the viewpoint of avoidance, etc., while giving consideration to the protection of personal information, the facts will be disclosed as much as possible.
+In addition, promptly report to the local welfare bureau under the jurisdiction.
+In addition, if a problem such as leakage of personal data occurs, "leakage of personal data, etc."
+Regarding measures to be taken when a proposal occurs ”(2017 Personal Information Protection Commission Notification No. 1)
+Next, (1) reporting inside the business operator and preventing the spread of damage, (2) investigating the facts and investigating the cause.
+Ming, (3) Identification of the scope of impact, (4) Examination and implementation of recurrence prevention measures, (5) Books that may be affected
+It is desirable to take necessary measures such as contacting people, ⑥ facts and measures to prevent recurrence.
+I. In addition, if a case such as a leak is discovered, the facts and measures to prevent recurrence will be discussed.
+We shall endeavor to promptly report to the Personal Information Protection Commission.
+However, the Health Insurance Association, which is the target business operator of the certified personal information protection organization stipulated in Article 47, Paragraph 1 of the Law.
+The union, etc. shall endeavor to promptly report to the authorized personal information protection organization to which it belongs.
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. prevent leakage, loss or damage of the personal data they handle, and other personal data.
+Necessary and appropriate measures must be taken for the safety management of the data.
+・ Health insurance associations, etc., when making their employees handle personal data, the relevant personal day
+Necessary and appropriate supervision of the employee must be carried out so that the safety of the employee can be managed.
+Must be.
+・ When the health insurance association, etc. outsources all or part of the handling of personal data, it will handle it.
+Necessary for the entrusted person so that the entrusted personal data can be safely managed
+Appropriate supervision must be provided.
+[Other matters]
+・ Safety management measures are appropriate for health insurance associations, etc. to further promote efforts related to safety management measures.
+In addition to verifying whether or not this is the case at regular intervals, verification by an external organization is conducted as necessary.
+It is desirable to improve by receiving it.
+
+27
+
+Page 32
+
+5. Provision of personal data to a third party (Article 23 of the Act)
+
+(Restrictions on provision to third parties)
+Article 23 of the Act A business operator handling personal information shall be a business operator handling personal information in advance, except in the following cases.
+Do not provide personal data to third parties without your consent.
+When required by law
+When it is necessary to protect the life, body or property of two people, with the consent of the person
+When it is difficult to get.
+(Iii) When it is particularly necessary to improve public health or promote the sound development of children.
+When it is difficult to obtain the consent of the person.
+Shikoku organizations or local public bodies or those entrusted with them carry out the affairs stipulated by laws and regulations.
+To obtain the consent of the person when it is necessary to cooperate in carrying out
+When there is a risk of hindering the performance of the relevant affairs.
+2 Businesses handling personal information are personal data provided to third parties (excluding sensitive personal information.
+The same shall apply hereinafter in this section. ), An individual whose person is identified at the request of the person
+When it is decided to suspend the provision of personal data to a third party, the following matters
+Notify the person in advance as stipulated by the rules of the Personal Information Protection Commission.
+Or put it in a state that the person can easily know, and notified the Personal Information Protection Commission.
+In that case, regardless of the provisions of the preceding paragraph, the personal data may be provided to a third party.
+(I) The purpose of use is to provide it to a third party.
+(Ii) Items of personal data provided to a third party
+(3) Method of providing to a third party
+(Iv) Suspension of provision of personal data that identifies the person to a third party at the request of the person
+To do.
+5 How to accept the request of the person
+3 The business operator handling personal information is a place to change the matters listed in item 2, item 3 or item 5 of the preceding paragraph.
+In that case, the content to be changed shall be determined by the rules of the Personal Information Protection Commission.
+Ecklonia cava, notify the person, or put it in a state that the person can easily know, and protect personal information
+Must be notified to the protection committee.
+4 The Personal Information Protection Commission shall, when notified pursuant to the provisions of paragraph 2, the Personal Information Protection Commission.
+Matters pertaining to the notification shall be published pursuant to the rules of the member committee. Before
+The same shall apply when there is a notification pursuant to the provisions of paragraph.
+5 In the following cases, the person who receives the provision of the personal data is suitable for the provisions of the preceding items.
+For use, it shall not correspond to a third party.
+(I) Collection of personal data to the extent necessary for the business operator handling personal information to achieve the purpose of use
+When the personal data is provided by entrusting all or part of the handling
+(Ii) When personal data is provided due to business succession due to a merger or other reasons
+(Iii) Personal data shared with a specific person will be provided to that specific person.
+In some cases, to that effect and items of personal data to be shared, shared use
+Responsible for the scope of the person who does it, the purpose of use of the person who uses it, and the management of the personal data.
+28
+
+Page 33
+
+Notify the person in advance of the name or name of the person who does the work, or the person can easily know
+When it is in a ready state.
+6 The business operator handling personal information shall be the purpose of use or personal day of the user prescribed in item 3 of the preceding paragraph.
+When changing the name or name of the person who is responsible for the management of data,
+You must notify the person in advance about the condition or put it in a state that the person can easily know.
+Must be.
+
+(1) Handling provided by a third party
+Health insurance associations, etc. should not provide personal data to a third party without obtaining the consent of the person in advance.
+In the following cases, it is necessary to obtain the consent of the person.
+(Example)
+・ Inquiries from private insurance companies
+When an insured person wants to take out private life insurance, the life insurance company will take care of it.
+If you receive an inquiry about your health condition, please do not answer your health condition without your consent.
+It doesn't become.
+Non-life insurance company for insured persons who are being treated for injuries due to a traffic accident
+There was an inquiry about the symptomatology as necessary for the examination of non-life insurance payment payment
+In that case, the name of the injury or illness must not be answered without the consent of the person.
+
+・ Inquiries from the workplace
+When there is an inquiry about the name of an employee's injury or illness from the boss of the workplace, etc.
+Do not answer the name of the injury or illness without your will.
+
+・ Inquiries from the school
+When there is an inquiry about the health condition of children / students from school staff, etc.
+Do not answer the health condition etc. without obtaining the consent of the person.
+
+・ Inquiries from companies for marketing purposes
+Regarding the existence of insured persons with high blood pressure from companies aiming to sell health foods
+If you are inquired about the existence of the product, its name, address, etc. without the consent of the person.
+Do not answer.
+
+* Definition of "person" and "third party" in this article
+・ "Person": An individual identified by personal data.
+・ "Third party": A person other than the person and the business operator handling personal information, a natural person or a corporation.
+It doesn't matter if it is another organization.
+
+(2) Exceptions provided by a third party
+However, in the following cases, it is not necessary to obtain the consent of the person.
+① When required by law
+29
+
+Page 34
+
+Personal information based on laws and regulations, such as on-site inspections based on Article 29 or 198 of the Health Insurance Act
+When using information (see III1. (2) ①)
+
+(2) Obtain the consent of the person when it is necessary to protect the life, body or property of the person.
+When it is difficult to
+(Example)
+・ For insured persons who have become unconscious, medical institutions, etc. can provide information on family contact information, etc.
+When providing to
+* If it is difficult to obtain the consent of the person, it is the same even if the consent of the person is requested.
+If you do not intend to, obtain the consent of the person without going through the procedure to ask for the consent of the person.
+This includes cases where
+③ When it is particularly necessary to improve public health or promote the sound development of children.
+When it is difficult to obtain the consent of the person
+(Example)
+・ For epidemiological investigations and research, use personal names for information obtained from health examinations and cancer examinations.
+When providing to researchers face down
+・ Medical matters that occurred at medical institutions that submit receipts to the health insurance association to improve medical safety.
+Of the information provided to the national government, local governments, third-party organizations, etc. regarding the deceased, information such as name, etc.
+If you need special information
+④ A national institution or a local public body or a person entrusted with it carries out the affairs stipulated by laws and regulations.
+If you need to cooperate in doing something, with your consent
+When there is a risk of hindering the performance of the relevant office work
+(3) When it is considered that the consent of the person has been obtained
+Comprehensive implicit consent has been obtained for the following cases of provision of information to third parties:
+It is thought that.
+・ Of the purposes of use that are normally required for insurance benefits to insured persons, the following example
+Una, things that are beneficial to the insured, etc., or medical expense notifications, etc. on the business side (health insurance association)
+Etc.) The burden is enormous and it is not always for the insured to obtain explicit consent.
+Regarding the scope of use, although it is not rational, post it on the homepage,
+Distribution of flelets, posting / installation and public notices on bulletin boards such as business offices and health insurance associations
+If there is no clear manifestation of opposition or reservation from the insured, etc.
+Go
+In addition, on the homepage, notices in the office, etc.
+(ｧ) When the insured, etc. has difficulty in agreeing with the purpose of use indicated by the health insurance association, etc.
+Requests the health insurance association, etc. to obtain the clear consent of the person in advance regarding the matter.
+What you can do.
+30
+
+Page 35
+
+(I) If the insured person does not express his / her intention in (ｧ), he / she will be insured for the announced purpose of use.
+It is assumed that the consent of the insurer, etc. has been obtained.
+(ｩ) Consent and reservation may be changed at any time afterwards upon request from the insured, etc.
+Is possible.
+Should also be posted.
+* Examples where comprehensive consent by impliedness is considered acceptable
+
+・ Payment of high-cost medical expenses via the employer (transfer to salary account)
+・ Payment of additional benefits via the employer (transfer to salary account)
+・ Notification of medical expenses for each household
+(4) When it does not correspond to "third party"
+(1) When information is provided to other businesses, but does not fall under the category of "third party"
+For those who receive the personal data in the cases listed in each item of Article 23, Paragraph 5 of the Act,
+It does not correspond to a third party, and information can be provided without the consent of the person. Health insurance association, etc.
+Specific examples in are as follows.
+
+・ When outsourcing operations such as receipt inspection and health guidance
+・ Notify the person in advance that personal data will be shared with a specific person.
+If you are
+* Notes on shared use of personal data
+When the health insurance association and the business operator stipulated in the Industrial Safety and Health Act jointly carry out a health examination
+Personal data in advance, such as when post-instruction is provided jointly using the results of medical examinations
+If it is planned to be used jointly with a specific person, (a) it will be used jointly.
+Items of personal data, (a) Scope of joint users (whether they are listed individually or the range from the perspective of the person)
+It is necessary to specify so that the enclosure is clear), (c) purpose of use of the user, (e) relevant
+Notify the person in advance of the name or name of the person responsible for the management of personal data,
+Or, keep it in a state that the person can easily know and make it clear that it will be used jointly.
+If so, the joint user does not fall under the category of a third party.
+In this case, (a) and (b) cannot be changed, and (c) and (e) are thought by the person himself / herself.
+It can be changed within the range that is not difficult to determine, and before the change, notify the person or the person
+It must be in a state that can be easily known.
+If it is not for shared use, the health insurance association and the business operator stipulated in the Industrial Safety and Health Act
+Insured or labor in sharing the results of the medical examination because they are different entities
+The consent of the person will be required.
+
+(2) When information is provided within the same business operator and does not correspond to a third party
+When providing information within the same business operator, providing the personal data to a third party
+31
+
+Page 36
+
+Therefore, the information can be provided without the consent of the person. In health insurance associations, etc.
+Specific examples are as follows.
+
+・ Exchange of information within the health insurance association, etc., such as cooperation with other departments within the health insurance association, etc.
+・ Information exchange between offices (branches) of health insurance associations with multiple offices (branches)
+・ Exchange of information with multiple branches within the Federation of Health Insurance Unions and information between branches
+Exchange of information
+・ Use in training for employees of health insurance associations, etc. (In relation to the purpose of use specified and announced
+It may be necessary to take necessary measures for unintended use)
+・ Exchange of information for business analysis within the health insurance association, etc.
+Of these, when using receipts, medical examination records, etc. for internal training such as health insurance associations, be specific.
+Obtain the consent of the person again, including how to use it, or anonymize it so that no individual is identified.
+To do.
+(5) Other points to note
+・ Notes on providing information to other businesses
+In addition to providing information to third parties, even if information is provided to other businesses, (1) based on laws and regulations
+If there is an exception provided by a third party, such as in the case of a case, (2) if it does not correspond to "third party", (3)
+It is essentially necessary when providing information by anonymizing so that no one is identified.
+It should be provided only to the extent of the information that can be provided, and it is not required to provide the information.
+It should not be provided to other businesses even for the item.
+In addition, to provide personal information that has the duality of both insured persons and doctors to a third party.
+In order to do so, the consent of both parties is required, but if only one consent is provided to a third party,
+Perform after masking the other part related to personal information.
+[Matters to be observed according to the provisions of the law]
+・ In health insurance associations, etc., personal data is provided to a third party without obtaining the consent of the person in advance.
+Do not offer. For health insurance associations, etc., it is necessary to obtain the consent of the person in (2).
+If this is the case, it is not necessary to obtain the consent of the person.
+・ If the person consents to the provision of personal data to a third party, then the person himself / herself will give a third party.
+If there is a request to revoke the consent for a part of the scope of provision by the person, the subsequent individual
+Regarding the handling of personal data, we shall handle it only within the scope of the consent of the person.
+To
+[Other matters]
+・ Even if information that does not fall under the provision of a third party is provided, the homepage of the health insurance association, etc.
+In addition to posting on the page, distribution of pamphlets, bulletin boards such as business offices and health insurance associations
+Information will be provided as much as possible by posting / installing, public notice, etc., and insured.
+We will secure a system that can respond to inquiries from rugged people.
+32
+
+Page 37
+
+・ For example, in the case of business consignment, among the business consigned by the relevant business operator such as the health insurance association
+Agreement, etc. regarding the handling of personal information with the contractor, the contractor, and the contractor
+We will announce the details of the consignment.
+
+33
+
+Page 38
+
+6. Restrictions on provision to third parties in foreign countries (Article 24 of the Act)
+For details, see "Guidelines for the Law Concerning the Protection of Personal Information (Foreign countries)"
+(Provision to a third party) ”(2016 Personal Information Protection Commission Notification No. 7).
+(reference)
+(Restrictions on provision to third parties in foreign countries)
+Article 24 of the Act A business operator handling personal information means a foreign country (a country or region outside the region of Japan).
+Same as below. ) (Individuals recognized as being at the same level as Japan in protecting the rights and interests of individuals
+Established by the rules of the Personal Information Protection Commission as a foreign country that has a system for protecting personal information
+Excludes those. The same shall apply hereinafter in this article. ) Is a third party (handling of personal data)
+This is in line with the measures that the business operator handling personal information should take according to the provisions of this section.
+The rules of the Personal Information Protection Commission stipulate that it is necessary to take the appropriate measures continuously.
+Excludes those who have a system that meets the standards. The same shall apply hereinafter in this article. )
+When providing personal data, except for the cases listed in each item of paragraph 1 of the preceding article, in advance
+You must obtain the consent of the person to allow the provision to a third party in a foreign country. in this case
+In, the provisions of the same Article do not apply.
+Regulations Article 11 The criteria stipulated by the rules of the Personal Information Protection Commission under Article 24 of the Act are as follows.
+It shall correspond to the deviation.
+(I) Receive the provision between the business operator handling personal information and the person who receives the provision of personal data.
+Regarding the handling of the personal data by the person, by an appropriate and rational method, the law
+Implementation of measures in line with the purpose of the provisions of Chapter 4, Section 1 is ensured.
+(Ii) The person who receives the personal data is based on the international framework for handling personal information.
+Must be certified.
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. provide personal data to third parties in foreign countries based on the provisions of Article 24 of the Act.
+In that case, to a third party in a foreign country, except as provided in each item (*) of Article 23, Paragraph 1 of the Act.
+You must obtain your consent to provide it.
+・ However, if any of the following (1) or (2) applies, Article 23, Paragraph 1 of the Law, as in Japan.
+Provision to a third party with the consent of the person based on the provisions of the pillar, or consignment or joint use based on paragraph 5 of the same Article
+It can be provided by use.
+(1) Has a personal information protection system in which a third party in a foreign country is recognized to be at the same level as Japan
+As a country, the Law Enforcement Regulations on the Protection of Personal Information (2016 Personal Information Protection)
+Protection Committee Rule No. 3. Hereinafter referred to as "rules". ) In the country specified
+(2) A third party in a foreign country continues to take measures equivalent to the measures that a business operator handling personal information should take.
+We have established a system that conforms to the standards stipulated in the rules as a system necessary to take such measures.
+If
+(*) Each item of Article 23, Paragraph 1 of the Law
+・ When providing personal data in accordance with laws and regulations (related to No. 1)
+34
+
+Page 39
+
+・ Specific rights and interests such as the life, body or property of a person (including a corporation) are infringed.
+It is necessary to provide personal data to protect this,
+And when it is difficult to obtain the consent of the person (related to No. 2)
+・ Especially necessary for improving public health or for the sound development of children who are developing physically and mentally
+When it is necessary and it is difficult to obtain the consent of the person (No. 3 Seki)
+Person in charge)
+・ It is necessary to obtain the cooperation of private companies, etc. in order for national organizations to carry out the affairs stipulated by laws and regulations.
+When there is a need, a cooperating private company, etc. will send personal data to an institution, etc. in the country concerned.
+Obtaining the consent of the person himself / herself will hinder the performance of the relevant affairs.
+When there is a risk of affecting (related to No. 4)
+
+35
+
+Page 40
+
+7. Creation of records related to provision to a third party (Article 25 of the Act)
+For details, see "Guidelines for the Law Concerning the Protection of Personal Information (Provided by a Third Party)"
+(Obligation to confirm and record at the time) ”(2016 Personal Information Protection Commission Notification No. 8).
+
+(Creation of records related to provision to a third party, etc.)
+Article 25 of the Act A business operator handling personal information lists personal data as a third party (listed in each item of Article 2, Paragraph 5).
+Excludes those who When provided to), as stipulated by the rules of the Personal Information Protection Commission,
+Date of provision of the personal data, name or name of the third party and other personal information protection
+A record of the matters stipulated in the Commission Regulations shall be made. However, the individual concerned
+Places where the provision of data falls under any of the items of Article 23, paragraph 1 or each item of paragraph 5 (omitted)
+In that case, this is not the case.
+2 The business operator handling personal information keeps the record set forth in the preceding paragraph from the date when the record is created by the Personal Information Protection Committee.
+It must be retained for the period specified by the rules of the committee.
+(Creation of records related to provision to a third party)
+Rule Article 12 The method of making a record of the same paragraph pursuant to the provision of Article 25, paragraph 1 of the Act is a document,
+It shall be a method of making using electromagnetic recording or microfilm.
+2 The record set forth in Article 25, Paragraph 1 of the Act shall be promptly provided each time personal data is provided to a third party (omitted).
+Must be created in. However, personal data will continue to be younger for the third party.
+Repetitively provide (omitted) personal data to the third party continuously
+Make a batch of records when it is expected to be provided repeatedly
+be able to.
+3 Notwithstanding the provisions of the preceding paragraph, pursuant to the provisions of Article 23, Paragraph 1 of the Act or Article 24 of the Act, this
+Providing personal data related to a person to a third party in connection with the provision of goods or services to the person
+In the case of provision, the contract and other documents prepared for the provision shall be included in paragraph 1 of the next article.
+When the matters specified in each item are stated, the relevant document shall be used in Article 25, paragraph 1 of the Act.
+It can be replaced with a record of the matter.
+(Recorded items related to provision to a third party)
+Regulations Article 13 Matters stipulated by the Personal Information Protection Commission Regulations in Article 25, Paragraph 1 of the Act are as follows:
+The matters specified in each item shall be applied according to the classification of the cases listed in each item.
+(I) When personal data is provided to a third party pursuant to the provisions of Article 23, paragraph 2 of the Act
+Matters listed up to
+B. Date when the personal data was provided
+(B) The name or name of the third party and other matters sufficient to identify the third party (non-special)
+When it is provided to a fixed number of people, that fact)
+C. To identify the person's name and other personal information identified by the personal data.
+Sufficient matters
+D. Items of the personal data
+(Ii) Providing personal data to a third party pursuant to the provisions of Article 23, Paragraph 1 of the Act or Article 24 of the Act.
+In the case of the following matters listed in a and b
+36
+
+Page 41
+
+B. The fact that the consent of the person in question, Article 23, Paragraph 1 of the Act or Article 24 of the Act has been obtained.
+(B) Matters listed in the previous item (b) to (d)
+2 Of the matters specified in each item of the preceding paragraph, Article 25 of the Act already created by the method specified in the preceding article.
+It is recorded in the record of paragraph 1 (limited to the case where the record is kept)
+If the content is the same as the item, the record of the item in Article 25, Paragraph 1 of the Act is omitted.
+Can be abbreviated.
+(Retention period of records related to provision to a third party)
+Rule Article 14 The period specified by the rules of the Personal Information Protection Commission set forth in Article 25, Paragraph 2 of the Act is as follows.
+Depending on the classification of the cases listed in each item, the period shall be the period specified in each item.
+(I) When a record is created by the method prescribed in Article 12, paragraph (3) Finally, the relevant record is involved.
+From the day when the personal data is provided to the day when one year has passed
+(Ii) When a record is created by the method prescribed in the proviso of Article 12, paragraph (2) Finally
+From the date when the personal data related to the record is provided to the date when three years have passed since the date of provision.
+(3) In cases other than the previous two items, three years
+
+(1) When the recording obligation does not apply
+Recording obligations do not apply in the following cases:
+(1) When a third party is a person listed in each item of Article 2, Paragraph 5 of the Law
+When exchanging personal data with the persons listed in 1) to 4) below, it is obligatory to record.
+Does not apply.
+1) National institution (related to Article 2, Paragraph 5, Item 1 of the Law)
+2) Local public bodies (related to Article 2, Paragraph 5, Item 2 of the Law)
+3) Incorporated Administrative Agencies, etc. (Act on the Protection of Personal Information Held by Incorporated Administrative Agencies, etc. (Fair)
+Law No. 59 of 2015) Refers to an incorporated administrative agency, etc. prescribed in Article 2, Paragraph 1. ) (Law
+Article 2, Paragraph 5, Item 3)
+4) Local Incorporated Administrative Agency (Local Incorporated Administrative Agency Act (Act No. 118 of 2003) Article 2
+Refers to a local incorporated administrative agency specified in Paragraph 1. ) (Regarding Article 2, Paragraph 5, Item 4 of the Law)
+
+(2) When each item of Article 23, Paragraph 1 of the Act is applicable (see III5. (2))
+Since it is unlikely that personal data will be circulated from time to time, the obligation to record does not apply.
+I.
+1) When providing personal data in accordance with laws and regulations (related to No. 1)
+(Example)
+・ Reimbursement to non-life insurance companies, etc. related to third-party acts
+・ Information linkage stipulated in the Number Act
+・ Specific medical examination, implementation status management of health guidance and reporting to the national government
+2) Specific rights and interests such as the life, body or property of a person (including a corporation) are infringed.
+It is necessary to provide personal data to protect it, and
+When it is difficult to obtain the consent of the person (related to No. 2)
+
+37
+
+Page 42
+
+3) Especially necessary for improving public health or for the sound development of children who are developing physically and mentally
+In this case, and it is difficult to obtain the consent of the person (related to No. 3)
+4) It is necessary to obtain the cooperation of private companies, etc. in order for national organizations, etc. to carry out the affairs stipulated by laws and regulations.
+If there is, a cooperating private company, etc. will provide personal data to the institution, etc. in the country concerned.
+Obtaining the consent of the person to provide will hinder the performance of the relevant affairs.
+When there is a risk (related to No. 4)
+
+(3) When each item of Article 23, Paragraph 5 of the Act is applicable (see III.5. (4))
+The recording obligation does not apply in view of the fact that it is said to be "not applicable to a third party".
+I.
+1) Collection of personal data within the range necessary for the business operator handling personal information to achieve the purpose of use
+When the personal data is provided by entrusting all or part of the handling
+(Regarding Article 23, Paragraph 5, Item 1 of the Law)
+(Example)
+・ Outsourcing for translation related to overseas medical expenses
+・ Outsourcing of data processing such as qualifications of insured persons
+・ Outsourcing to industrial physicians related to health guidance and health consultation
+・ Outsourcing of medical examinations to medical institutions
+・ Consignment of operation of health promotion facilities (recreation centers, etc.)
+・ Consignment of inspection / examination of the contents of the receipt data
+・ Punch input for computer processing of receipt data, entrustment of image capture processing
+・ Outsourcing of data processing related to medical expense analysis and medical expense notification
+2) When personal data is provided due to business succession due to merger or other reasons (law)
+Article 23, Paragraph 5, Item 2)
+3) Personal data shared with a specific person is provided to that specific person.
+In some cases, to that effect and the items of personal data used jointly, jointly
+About the range of users, the purpose of use of users and the management of the personal data
+Notify the person in advance of the name or name of the responsible person, or the book
+When it is in a state that people can easily know (related to Article 23, Paragraph 5, Item 3 of the Law)
+(Example)
+・ Health insurance federation's high-cost medical benefit consortium
+・ Providing medical examination results to business owners as part of collaboration health
+・ Participation in medical expense analysis business at the headquarters of the Federation of Health Insurance Associations
+
+④ When providing on behalf of the person
+Health insurance association, etc. provides personal data of the insured person to a third party based on entrustment from the insured person.
+In that case, the business operator handling personal information provides personal data "on behalf of the person".
+It is a thing.
+Therefore, the obligation to record does not apply to the provision to a third party in this case.
+(Example)
+
+38
+
+Page 43
+
+・Individuals such as details when paying high medical expenses and additional benefits via the business owner
+
+When data is provided to business owners
+・ Consultation or notification to insurance companies, medical institutions, etc. in third-party reimbursement work
+
+⑤ When providing to a person who has a relationship that can be evaluated as one with the person
+When providing to a person who has a relationship that can be evaluated as one with the person, such as the person's agent or family, this
+It is considered to be provided to the human side and the obligation to record does not apply.
+(Example)
+・Personal data for family members is used as a book when notifying medical expenses for each household.
+
+When provided to people on the WEB etc.
+[Matters to be observed according to the provisions of the law]
+(2) Application of recording obligation
+In cases where none of the cases described in (1) apply, the health insurance association, etc. will send personal data to the third party.
+When provided to a person, a record stipulated by law shall be created and the record shall be retained.
+
+① How to make a record, etc.
+1) Medium for creating records
+Health insurance associations, etc. should not make records using documents, electromagnetic records or microfilm.
+Must be.
+
+2) How to make a record
+As a general rule, health insurance associations, etc. must promptly create records each time personal data is exchanged.
+Must be.
+
+3) How to create records in a batch
+Sending and receiving personal data continuously or repeatedly with a specific business within a certain period of time
+In that case, instead of creating records for individual transfers, it is possible to create records in bulk.
+it can.
+
+4) Method by alternative means such as contract
+The health insurance association, etc. concludes a contract related to the provision of goods or services to the person, and the contract
+Along with the performance, the health insurance association, etc. will provide the personal data of the other party of the contract to a third party.
+If so, the distribution of personal data will be carried out with the contract and other documents created at the time of provision.
+Since it is possible to track the contract, it is possible to record it in the contract or other documents.
+it can.
+
+5) How to create a record on your behalf
+Received in view of the same record creation method and retention period for both the provider and the recipient
+The territory may substitute all or part of the provider's obligation to record (provider and receipt).
+
+39
+
+Page 44
+
+It is necessary to pay attention to the difference in the recorded items of the person. ). Even in this case,
+Providers and recipients are not exempt from their obligations, so they are essentially self-reported.
+It is necessary to build a system equivalent to the one that fulfills the obligation to create records.
+
+② Recorded items
+1) Recorded items of the provider
+If the health insurance association, etc. provides personal data to a third party based on the consent of the person, the following items
+You have to record your eyes.
+・ The fact that the consent of the person has been obtained
+・ Name or name of a third party and other matters that can identify the third party
+・ Name of the person identified by personal data and other matters that can identify the person
+・ Personal data items
+③ Omission of recorded items
+When the same "person"'s personal data is exchanged multiple times, the same content
+There is no need to record duplicate items. Already stipulated in "7. (2) Application of recording obligation"
+The matters and contents recorded in the record created by the above method (only when it is actually saved)
+For items that are the same, the recording of the relevant matter may be omitted.
+
+④ Storage period
+Health insurance associations, etc. must retain the created records for the period specified in the regulations. Retention period
+It should be noted that is different depending on the method of creating the record.
+
+Another way to create a record
+
+Retention period
+
+By alternative means such as contracts
+
+Finally, the provision of personal data related to the record
+
+When creating a record
+
+One year has passed since the day of the event
+Until the day
+
+By the method of creating records in a batch
+
+Finally, the provision of personal data related to the record
+
+If you create a record
+
+Three years have passed since the day of the event
+Until the day
+
+Other than the above
+
+3 years
+
+40
+
+Page 45
+
+8. Confirmation, etc. when receiving provision to a third party (Article 26 of the Act)
+For details, see "Guidelines for the Law Concerning the Protection of Personal Information (Provided by a Third Party)"
+(Obligation to confirm and record at the time) ”(2016 Personal Information Protection Commission Notification No. 8).
+
+(Confirmation when receiving a third party offer, etc.)
+Article 26 of the Act When a business operator handling personal information receives personal data from a third party
+(Omitted) must confirm the following matters. However, the personal data
+If the provision of is applicable to any of the items of Article 23, paragraph 1 or each item of paragraph 5, this limit
+Not.
+(I) In the case of the name or name and address of the third party and the corporation, its representative (in the corporation)
+If there is no organization with a representative or manager, the representative or manager)
+Name
+(Ii) Background of acquisition of the personal data by the third party
+2 The third party in the preceding paragraph is when the business operator handling personal information confirms according to the provisions of the same paragraph.
+Therefore, the matters related to the confirmation must not be deceived to the business operator handling personal information.
+3 When the business operator handling personal information confirms according to the provisions of paragraph 1, the personal information protection committee
+According to the rules of the committee, the date of receipt of the personal data and the confirmation
+You must make a record of such matters and other matters stipulated by the rules of the Personal Information Protection Commission.
+Must be.
+4 The business operator handling personal information keeps the record set forth in the preceding paragraph from the date when the record is created by the Personal Information Protection Committee.
+It must be retained for the period specified by the rules of the committee.
+(Confirmation when receiving a third party offer)
+Rule Article 15 Confirmation of the matters listed in item 1 of the same paragraph pursuant to the provisions of Article 26, paragraph 1 of the Act.
+The method is to receive a declaration from a third party who provides personal data and other appropriate methods.
+To do.
+2 The method for confirming the matters listed in item 2 of the same paragraph pursuant to the provisions of Article 26, paragraph 1 of the Act is individual.
+Shows the process of acquisition of the personal data by the third party from the third party who provides the personal data
+It shall be a method of receiving a contract or other written presentation, or any other appropriate method.
+3 (omitted)
+(Creation of records related to confirmation when receiving a third party offer)
+Rule Article 16 The method of making a record of the same paragraph pursuant to the provision of Article 26, paragraph 3 of the Act is a document,
+It shall be a method of making using electromagnetic recording or microfilm.
+2 The record set forth in Article 26, Paragraph 3 of the Act shall be promptly recorded each time personal data is provided by a third party.
+Must be created in. However, individuals from the third party continuously or repeatedly
+Provision of data (excluding provision pursuant to the provisions of Article 23, Paragraph 2 of the Act. The same shall apply hereinafter in this Article.
+Ji. ), Or continuously or repeatedly from the third party
+Records when it is expected that you will be offered can be created in a batch.
+Wear.
+3 Notwithstanding the provisions of the preceding paragraph, from a third party in connection with the provision of goods or services to the person
+When personal data related to the person is provided, it is created for the provision.
+41
+
+Page 46
+
+If the contract or other document contains the matters specified in each item of paragraph 1 of the next article, the relevant matter
+In writing, it may be replaced with a record relating to the relevant matter set forth in Article 26, paragraph 3 of the Act.
+(Recorded items when receiving a third party offer)
+Regulations Article 17 Matters stipulated by the Personal Information Protection Commission Regulations in Article 26, Paragraph 3 of the Act are as follows:
+The matters specified in each item shall be applied according to the classification of the cases listed in each item.
+(I) Received the provision of personal data pursuant to the provisions of Article 23, paragraph 2 of the Act from a business operator handling personal information.
+In case of digits Items listed in the following a to e
+B. Date of receiving personal data
+(B) Matters listed in each item of Article 26, Paragraph 1 of the Act
+C. To identify the person's name and other personal information identified by the personal data.
+Sufficient matters
+D. Items of the personal data
+(E) The fact that it has been announced pursuant to the provisions of Article 23, Paragraph 4 of the Act
+(Ii) Individuals from businesses handling personal information pursuant to the provisions of Article 23, Paragraph 1 of the Act or Article 24 of the Act.
+When data is provided Matters listed in the following a and b
+B. The fact that the consent of the person in question, Article 23, Paragraph 1 of the Act or Article 24 of the Act has been obtained.
+(B) Matters listed in the previous item (b) to (d)
+(Iii) Received personal data provided by a third party (excluding those who fall under the category of business operators handling personal information)
+In the case of the first item (b) to (d)
+2 (Omitted)
+
+(Retention period of records when receiving a third party offer)
+Regulations Article 18 The period specified by the rules of the Personal Information Protection Commission in Article 26, Paragraph 4 of the Act is as follows.
+Depending on the classification of the cases listed in each item, the period shall be the period specified in each item.
+(I) When a record is created by the method prescribed in Article 16, paragraph (3) Finally, the relevant record is involved.
+From the day when the personal data is provided to the day when one year has passed
+(Ii) When a record is created by the method prescribed in the proviso of Article 16, paragraph (2) Finally
+From the date when the personal data related to the record is provided to the date when three years have passed since the date of receipt.
+(3) In cases other than the previous two items, three years
+
+(1) When the confirmation / recording obligation does not apply
+
+7. As in the case of creating records related to provision to a third party (Article 25 of the Act), (1) a third party is the second party of the Act.
+If you are a person listed in each item of Article 5, Paragraph 5, or if you fall under each item of Article 23, Paragraph 1 of the Act (III5. (2)
+See), if applicable to the fifth each item Article 23 ③ method (Ⅲ5. (4) refer), on behalf of ④ principal
+When receiving the provided personal data, ⑤ A place that corresponds to a person who has a relationship that can be evaluated as one with the person
+In that case, the confirmation / recording obligation does not apply. Specific examples are as follows: 7. See (1).
+In addition, the confirmation / recording obligation does not apply in the following cases.
+
+⑥ When it does not correspond to personal data for the recipient
+Information that is personal data for the provider but not for the recipient
+If you receive, the confirmation / recording obligation does not apply.
+
+42
+
+Page 47
+
+⑦ When it does not correspond to personal information for the recipient
+Receipt even if it corresponds to personal data for the provider, as in the following case
+Information that does not correspond to "personal information" for a person (naturally does not correspond to personal data)
+If you receive, the confirmation / recording obligation does not apply.
+[Cases that do not correspond to personal information for the recipient]
+(Example)
+・ Providing data that prevents the provider from identifying an individual by deleting the name
+When receiving a companion
+・ When data is provided with only the ID number managed by the provider
+[Matters to be observed according to the provisions of the law]
+(2) Application of confirmation obligation
+When receiving personal data from a third party, the health insurance association, etc. will contact the third party as follows.
+Confirmation must be made as follows.
+① Confirmation method
+1) The name and address of a third party and, in the case of a corporation, the name of its representative
+2) Background of acquisition of personal data by a third party
+3) Compliance with the law [Other matters]
+When a health insurance association, etc. receives personal data from another business operator, that business operator
+Status of compliance with the law (for example, purpose of use, disclosure procedure, publication of inquiry / complaint reception desk,
+When receiving personal data provided by a third party by opt-out, the relevant business
+It is also confirmed that the notification items of the person have been announced by the Personal Information Protection Commission)
+It is desirable to admit.
+(2) Confirmation method for third parties who have already confirmed
+When the same "person"'s personal data is exchanged multiple times, the same
+Since it is not rational to confirm the contents in duplicate, it is already specified in "(1) Confirmation method".
+Confirm by the method, create by the method specified in "8. (3) Obligation to record", and
+For items that have the same contents as those recorded in the records stored at that time
+Therefore, the confirmation of the matter can be omitted.
+
+(3) Application of recording obligation
+In addition, when personal data is provided by a third party, the health insurance association, etc. will make a statement stipulated by law.
+You must make a record and keep the record.
+① How to make a record, etc.
+1) Medium for creating records
+Health insurance associations, etc. create records using documents, electromagnetic records, or microfilm.
+43
+
+Page 48
+
+Must.
+2) How to make a record
+As a general rule, health insurance associations, etc. promptly create records each time personal data is exchanged.
+There must be.
+3) How to create records in a batch
+Sending and receiving personal data continuously or repeatedly with a specific business within a certain period of time
+If you do, instead of creating records for individual transfers, create records in bulk
+Can be
+4) Method by alternative means such as contract
+The health insurance association, etc. concludes a contract related to the provision of goods or services to the person, and the contract
+Upon fulfillment of the contract, personal data of the other party of the contract will be provided by a third party.
+If you do, please use the contract or other document created at the time of provision of your personal data.
+Since it is possible to track the distribution, record the contract and other documents.
+Can be
+
+5) How to create a record on your behalf
+Considering that both the provider and the recipient have the same record creation method and retention period
+The provider may substitute all or part of the recipient's obligation to record (provide).
+It should be noted that there are differences in the records of the person and the recipient. ). In this case
+Even so, the provider and the recipient are not exempt from their obligations.
+You have to build a system that is practically equivalent to the one that fulfills the obligation to create records by itself.
+Not.
+② Recorded items
+1) Recipient's record items
+When the health insurance association, etc. receives the personal data provided by a third party based on the consent of the person,
+The following items shall be recorded.
+・ The fact that the consent of the person has been obtained
+・ The name or name and address of a third party, and in the case of a corporation, the name of its representative
+・ Background of acquisition of the personal data by a third party
+・ Being able to identify the person's name and other persons identified by personal data
+Term
+・ Personal data items
+③ Omission of recorded items
+When the same "person"'s personal data is exchanged multiple times, the same
+It is not necessary to record the contents in duplicate. Already "8. (3) Application of recording obligation"
+44
+
+Page 49
+
+It was recorded in the record created by the method specified in (only when it is actually saved).
+If the item and the content are the same, the recording of the item may be omitted.
+④ Storage period
+Health insurance associations, etc. must retain the created records for the period specified in the regulations. Save
+It should be noted that the period varies depending on the method of creating the record.
+
+Another way to create a record
+
+Retention period
+
+By alternative means such as contracts
+
+Finally, the provision of personal data related to the record
+
+If you make more records
+
+One year has passed since the day of the event
+Until the day
+
+By the method of creating records in a batch
+
+Finally, the provision of personal data related to the record
+
+When creating a record
+
+Three years have passed since the day of the event
+Until the day
+
+Other than the above
+
+3 years
+
+45
+
+Page 50
+
+9. Publication of matters related to retained personal data (Article 27 of the Act)
+
+(Publication of matters related to retained personal data, etc.)
+Article 27 of the Act The business operator handling personal information shall be concerned with the following matters regarding retained personal data.
+And put it in a state that the person can know (including the case of replying without delay at the request of the person)
+Must be done.
+(I) Name or name of the business operator handling personal information
+(Ii) Purpose of use of all retained personal data (corresponding to Article 18, Paragraph 4, Items 1 to 3)
+Except when )
+(Iii) Request pursuant to the provisions of the following paragraph or Article 29, paragraph 1 or Article 30, paragraph 1 of the next article
+Procedures for responding to requests pursuant to the provisions of paragraph (3) or paragraph (3) (according to the provisions of Article 33, paragraph (2))
+When the amount of the fee is set, the amount of the fee is included. )
+(Iv) In addition to the items listed in the preceding three items, it is necessary to ensure the proper handling of retained personal data.
+Items specified by Cabinet Order
+2 The business operator handling personal information uses the retained personal data that identifies the person concerned.
+When requested to notify the target, the person must be notified without delay.
+I. However, this does not apply if any of the following items apply.
+(I) The purpose of use of the retained personal data that identifies the person concerned is clear according to the provisions of the preceding paragraph.
+If
+(Ii) When it falls under Article 18, paragraph 4, items 1 to 3
+3 The business operator handling personal information is the purpose of use of the retained personal data requested based on the provisions of the preceding paragraph.
+If you decide not to notify the person, you must notify the person without delay.
+Must be.
+(Necessary matters regarding ensuring proper handling of retained personal data)
+Article 8 of the Ordinance The items specified by Cabinet Order under Article 27, Paragraph 1, Item 4 of the Act shall be as follows.
+(I) To file a complaint regarding the handling of retained personal data by the business operator handling personal information.
+(Ii) When the business operator handling personal information is a business operator subject to an authorized personal information protection organization
+The name of the authorized personal information protection organization and the address to which the complaint can be resolved
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc., regarding the retained personal data, (a) the name or name of the business operator handling the personal information,
+(B) Purpose of use of all retained personal data (specified in Article 18, Paragraph 4, Items 1 to 3 of the Act)
+Except for the exceptions made. ), (C) Notification, disclosure, correction, use of the purpose of use of retained personal data
+Fees for notification or disclosure of procedures such as suspension and the purpose of use of retained personal data
+About the amount, (e) where to file a complaint, etc., the state that the person can know (without delay at the request of the person)
+Including the case of answering. ) Must be placed.
+・ The health insurance association, etc. will notify the person of the purpose of use of the retained personal data that identifies the person.
+When requested, when the purpose of use is clarified by the above measures and Law No. 1
+Notification must be made without delay, except in cases corresponding to the exceptions from Article 8, Paragraph 4, Items 1 to 3.
+46
+
+Page 51
+
+Must be.
+・ When the health insurance association, etc. decides not to notify the purpose of use, it will be delayed to the person.
+You must notify that fact.
+・ Personal information held before the enforcement of the law will be handled in the same way.
+[Other matters]
+・ Health insurance associations, etc., regarding the purpose of use, disclosure, correction, suspension of use, etc. of retained personal data
+Regarding the method of procedure, the amount of fees related to notification or disclosure of the purpose of use, the destination of complaints, etc.
+At least, in addition to posting on the websites of health insurance associations, etc., distribution of pamphlets, business establishments
+Information can be provided by posting / installing on bulletin boards such as the contact person in charge or the health insurance association, or by public notice.
+In addition to clarifying only, documents will be issued or inquiries will be made at the request of the insured.
+We will secure a system that can answer specific details when there is a problem.
+
+47
+
+Page 52
+
+10. Disclosure of retained personal data upon request from the person (Article 28 of the Act)
+
+(Disclosure)
+Article 28 of the Act The person is a retained individual who can identify the person to the business operator handling personal information.
+Disclosure of data can be requested.
+(2) When a business operator handling personal information receives a request pursuant to the provisions of the preceding paragraph, it shall give a Cabinet Order to the person himself / herself.
+The retained personal data must be disclosed without delay by the method specified in. Ta
+However, if the disclosure falls under any of the following items, all or part of it
+Can not be disclosed.
+When there is a risk of harming the life, body, property or other rights and interests of the person or a third party
+(Ii) There is a risk of significantly hindering the proper implementation of the business of the business operator handling personal information.
+If
+(Iii) When it violates other laws and regulations
+3 The business operator handling personal information shall have all or all of the retained personal data pertaining to the request pursuant to the provisions of paragraph 1.
+When it is decided not to disclose a part or the retained personal data does not exist
+In that case, the person must be notified to that effect without delay.
+4 According to the provisions of other laws and regulations, the method equivalent to the method prescribed in the main text of paragraph 2 for the person
+It is supposed to disclose all or part of the retained personal data that identifies the person concerned.
+In such cases, the provisions of paragraphs 1 and 2 shall apply to all or part of the retained personal data.
+The fixed does not apply.
+(How a business operator handling personal information discloses retained personal data)
+Article 9 of the Ordinance The method specified by the Cabinet Order under Article 28, Paragraph 2 of the Act shall be the method of delivery of documents (disclosure).
+If there is a method agreed by the person who made the request, the method) shall be applied.
+
+(1) Principle of disclosure
+The health insurance association, etc. receives a request from the person to disclose the retained personal data that identifies the person.
+In such a case, the person in question will be given the relevant personal day without delay by means of delivery of a document, etc.
+Must be disclosed.
+(2) Disclosure exception
+If the disclosure falls under any of the items of Article 28, Paragraph 2 of the Act, all or all of them
+Some may not be disclosed.
+By disclosing it, Article 28, Paragraph 2, Item 1 of the Act "Hurts the rights and interests of the person or a third party.
+It is not easy for health insurance associations to judge whether or not there is it, so a separate finger
+Needle ("Disclosure of medical fee statement, etc. to insured persons, etc." (March 31, 2005, Insurance Bureau)
+Based on the content of the long notice), the judgment of the attending physician shall be required for disclosure.
+[Matters to be observed according to the provisions of the law]
+48
+
+Page 53
+
+・ Health insurance associations, etc. receive a request from the person to disclose the retained personal data that identifies the person.
+In that case, the retained personal data must be disclosed to the person without delay.
+In addition, when the retained personal data that identifies the person concerned does not exist, notify that fact.
+And. However, by disclosing it, it falls under any of the items of Article 28, Paragraph 2 of the Act.
+In that case, all or part of it may not be disclosed.
+・ II1. As mentioned in, for example, in the receipt information, the insured person's personal day
+It is said that it is also the personal data held by the doctor who examined the receipt.
+Although some parts have a face, the entire receipt is owned by the insured, etc.
+Because it is a data, when there is a request for disclosure from the insured person etc., the duality is
+It is not possible not to disclose all or part of it for some reason. However, Article 28 of the Law
+If any of the items in paragraph 2 applies, we will not disclose all or part of it in accordance with the law.
+be able to.
+-The method of disclosure shall be the method agreed by the person who issued the document or made the request.
+・ Health insurance associations, etc. will not disclose all or part of the requested personal data.
+When a decision is made, the person must be notified to that effect without delay. Also,
+If you notify the person, you must try to explain the reason to the person.
+Yes (see III13.).
+・ If the provisions of other laws and regulations stipulate the disclosure of retained personal data, the relevant law
+It shall be in accordance with the provisions of the Ordinance.
+[Other matters]
+・ In principle, if there is a request for disclosure from a person who can request disclosure, such as a legal representative,
+After explaining to the insurer, etc. that the retained personal data will be disclosed, the legal representative, etc.
+Will be disclosed to.
+・ If the health insurance association, etc. decides not to disclose all or part of the retained personal data,
+When explaining the reason to the person, it is basically shown in writing. Also,
+It is desirable to also explain the response system for complaints.
+
+49
+
+Page 54
+
+11. Correction and suspension of use (Articles 29 and 30 of the Act)
+
+(Correction, etc.)
+Article 29 of the Act The person is a retained individual who can identify the person to the business operator handling personal information.
+If the content of the data is not true, correct, add or delete the content of the retained personal data (hereinafter
+Below, in this article, it is referred to as "correction, etc." ) Can be requested.
+2 When a business operator handling personal information receives a request pursuant to the provisions of the preceding paragraph, it corrects the content.
+Purpose of use, unless special procedures are stipulated by the provisions of other laws and regulations.
+To the extent necessary to achieve the above, we will conduct the necessary investigation without delay, and based on the results, we will
+The contents of the retained personal data must be corrected.
+3 The business operator handling personal information shall have all the contents of the retained personal data pertaining to the request pursuant to the provisions of paragraph 1.
+When making corrections, etc. for a part or part, or making a decision not to make corrections, etc.
+In some cases, to that effect without delay to the person (when corrections are made, the contents are included).
+Must be notified.
+(Suspension of use, etc.)
+Article 30 of the Act The person shall be able to identify the person himself / herself to the business operator handling personal information.
+When the data is handled in violation of the provisions of Article 16 or in violation of the provisions of Article 17
+If it was acquired, the use of the retained personal data will be suspended or deleted (hereinafter referred to as this).
+In the article, it is called "suspension of use, etc." ) Can be requested.
+2 When a business operator handling personal information receives a request pursuant to the provisions of the preceding paragraph, the request shall be made.
+When it turns out that there is a reason, to the extent necessary to correct the breach, without delay,
+The use of the retained personal data must be suspended. However, the relevant individual de
+If it costs a lot of money to suspend the use of data, it is difficult to suspend the use of other data.
+In such cases, take necessary alternative measures to protect the rights and interests of the person.
+At times, this is not the case.
+3 The person is the second person to have the retained personal data that identifies the person to the business operator handling personal information.
+If it is provided to a third party in violation of the provisions of Article 13, paragraph 1 or Article 24, the said
+You can request the suspension of provision of retained personal data to a third party.
+4 When a business operator handling personal information receives a request pursuant to the provisions of the preceding paragraph, the request shall be made.
+When it becomes clear that there is a reason, we will provide the retained personal data to a third party without delay.
+Must be stopped. However, due to the suspension of provision of the retained personal data to a third party
+When it costs a lot of money and it is difficult to stop providing it to other third parties
+Therefore, when taking necessary alternative measures to protect the rights and interests of the person, this is the case.
+Not limited to.
+5 The business operator handling personal information is not sure of all the retained personal data related to the request pursuant to the provisions of paragraph 1.
+Or when the use of some parts is suspended or the decision not to suspend the use
+Or all or part of the retained personal data pertaining to the request pursuant to the provisions of paragraph 3.
+When the provision to a third party is stopped or the provision to a third party is not stopped
+When a decision is made, the person must be notified without delay.
+
+50
+
+Page 55
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. are based on the provisions of Article 29, Paragraph 2 of the Law or Article 30, Paragraph 2 or Paragraph 4.
+Received a request from the person to suspend the provision of retained personal data to a third party, such as correction of retained personal data or suspension of use.
+In the case of digits, if those claims are found to be appropriate, do not take these measures.
+Must be.
+・ However, for suspension of use, etc. and suspension of provision to third parties, a large amount of cost will be charged for suspension of use, etc.
+In cases where it is difficult to take such measures, such as when it is necessary to do so, the rights and interests of the person are protected.
+This shall not apply when taking necessary alternative measures to do so.
+・ In the following cases, it is not necessary to take these measures.
+(1) Even if there is a request for correction, etc., (a) A place where correction, etc. is not necessary from the viewpoint of the purpose of use
+If (a) the indication that is incorrect is incorrect, or (c) the object of correction, etc. is not a fact and is related to the evaluation.
+If the information is
+(2) Even if there is a request to suspend the provision to a third party such as suspension of use, procedure violation etc.
+If the indication is incorrect
+・ When the health insurance association, etc. takes the above measures or decides not to take them, the person himself / herself
+You must notify us without delay. Also, when notifying the person
+You must try to explain the reason to the person (see III13.).
+
+[Other matters]
+・ Health insurance associations, etc. have received requests for corrections, suspension of use, etc., or suspension of provision to third parties.
+If it is decided not to take these measures for all or part of the person data, the person will be notified.
+In explaining the reason for this, it is basically shown in writing. In that case,
+It is desirable to also explain the response system for complaints.
+・ When correcting retained personal data, make sure that the person who made the correction, the content, the date and time, etc. are known.
+Must be done.
+-Do not falsify the words and phrases of the retained personal data.
+
+51
+
+Page 56
+
+12. Procedures and fees for responding to requests for disclosure, etc. (Articles 32 and 33 of the Act)
+
+(Procedures for responding to requests for disclosure, etc.)
+Article 32 of the Act A business operator handling personal information shall make a request pursuant to the provisions of Article 27, paragraph 2 or 20.
+According to the provisions of Article 8, Paragraph 1, Article 29, Paragraph 1 or Article 30, Paragraph 1 or Paragraph 3.
+Regarding requests (hereinafter referred to as "requests for disclosure, etc." in this Article and Article 53, Paragraph 1)
+However, the method of accepting the request or request may be determined pursuant to the provisions of a Cabinet Order.
+it can. In this case, the person must make a request for disclosure, etc. in accordance with the method.
+Must be.
+2 The business operator handling personal information is the subject of the request for disclosure, etc. to the person.
+It is possible to request the presentation of matters sufficient to identify personal data. Smell in this case
+Therefore, the business operator handling personal information can easily and accurately request disclosure, etc.
+In consideration of the convenience of the person, such as the provision of information that contributes to the identification of the retained personal data.
+Appropriate measures must be taken.
+(3) Requests for disclosure, etc. may be made by an agent pursuant to the provisions of a Cabinet Order.
+4 The business operator handling personal information establishes procedures for responding to requests for disclosure, etc. based on the provisions of the preceding three paragraphs.
+In doing so, care must be taken not to impose an excessive burden on the person.
+Absent.
+(Commission)
+Article 33 of the Act A business operator handling personal information shall notify the purpose of use pursuant to the provisions of Article 27, paragraph 2.
+Or when a request for disclosure pursuant to the provisions of Article 28, paragraph 1 is received.
+Fees may be collected for the implementation of such measures.
+2 When collecting a fee pursuant to the provisions of the preceding paragraph, the business operator handling personal information shall take the actual cost into consideration.
+The amount of the fee must be set within the range that is considered reasonable.
+I.
+(Method of accepting requests for disclosure, etc.)
+Article 10 of the Ordinance A business operator handling personal information requests disclosure, etc. pursuant to the provisions of Article 32, Paragraph 1 of the Act.
+Matters that can be determined as the method of acceptance shall be as follows.
+(I) Request for disclosure, etc.
+(Ii) Documents to be submitted when requesting disclosure, etc. (including electromagnetic records; Article 14, paragraph 1)
+And the same shall apply in Article 21, paragraph 3. ) Form and other methods for requesting disclosure, etc.
+(Iii) Confirmation that the person making the request for disclosure, etc. is the person himself / herself or the agent prescribed in the next article.
+Law
+(Iv) Method of collecting fees set forth in Article 33, paragraph 1 of the Act
+(An agent who can request disclosure, etc.)
+Article 11 of the Ordinance A fee for requesting disclosure, etc. pursuant to the provisions of Article 32, Paragraph 3 of the Act
+The person in charge shall be the following agent.
+(I) Legal representative of a minor or an adult guardian
+(Ii) An agent delegated by the principal to request disclosure, etc.
+52
+
+Page 57
+
+(1) Identification of information to be disclosed, etc.
+The Health Insurance Society, etc., regarding requests for disclosure, etc. to the person, is the subject of the personal day held by the person.
+It is possible to request the presentation of matters sufficient to identify the data, but in this case, it is easy for the person himself / herself.
+Contributes to the identification of the retained personal data so that disclosure, etc. can be requested accurately.
+Information should be provided and other measures should be taken in consideration of the convenience of the person.
+In addition, regarding the disclosure of retained personal data, etc., at the request of the person, etc., the retained personal data will be disclosed.
+All or part of the data is covered, but the amount of personal data held by the person concerned is diverse and the amount of data is large.
+If it is difficult or inefficient to disclose the whole information, such as when it is huge, the health insurance association, etc. will disclose it by the person himself / herself.
+Convenience of the person, such as providing information that can be used as a reference to identify the range of information for making a request, etc.
+We shall provide support in consideration of.
+(2) Request for disclosure, etc. by an agent
+Regarding disclosure of retained personal data, in addition to the person himself / herself, (1) the law of minors or adult guardians
+Legal representative, (2) Requests for disclosure, etc. may be performed by a representative delegated by the principal.
+it can.
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. impose an excessive burden on the individual regarding requests for disclosure of retained personal data, etc.
+Establish a method for accepting requests for the following matters within the scope of
+Can be
+(A) Reception desk for requests for disclosure, etc.
+(B) Document format to be submitted when requesting disclosure, etc., and how to accept other requests for disclosure, etc.
+Law
+(C) Method of confirming that the person requesting disclosure, etc. is the person or his / her agent
+(E) Collected when notifying the purpose of use of retained personal data or disclosing retained personal data
+How to collect fees
+・ Health insurance associations, etc. will be subject to personal day holdings, etc. regarding requests for disclosure, etc.
+It is possible to request the presentation of matters sufficient to identify the data, but in this case, the person himself / herself is responsible.
+To identify the retained personal data so that disclosure, etc. can be requested easily and accurately.
+Providing useful information and other measures that take into consideration the convenience of the individual must be taken.
+・ Requests for disclosure of retained personal data, etc. are statutory for minors or adult guardians in addition to the person himself / herself.
+It can be done by an agent, an agent delegated by the person to make the request, etc.
+To
+・ Health insurance associations, etc. are requested to notify the purpose of use of retained personal data, or retained personal data.
+When requested to disclose data, a fee may be collected for the implementation of the measures.
+In that case, the fee will be charged within the range that is considered reasonable in consideration of the actual cost.
+You have to set the amount.
+[Other matters]
+
+53
+
+Page 58
+
+・ Health insurance associations, etc. may establish procedures for disclosure of retained personal data while paying attention to the following points.
+desirable.
+-It is desirable that the method of requesting disclosure, etc. be in writing, but the insured, etc. can freely request, etc.
+It is inappropriate to request a reason for requesting disclosure, etc.
+-Confirm that the person requesting disclosure, etc. is the person (or his / her agent).
+-When there is a request for disclosure, etc., after confirming with the medical institution, promptly retain personal data
+The disclosure, etc. of the above will be decided, and this will be notified to the person who made the request for disclosure, etc.
+-When disclosing retained personal data, there is a possibility that each item of Article 28, Paragraph 2 of the Act may be applicable.
+In that case, it will be examined by a review committee, etc. established to consider whether or not disclosure is possible.
+After that, it is desirable to promptly decide whether or not to disclose.
+-When disclosing retained personal data, it does not impose an excessive burden on the person.
+You can specify the date, time, place, method, etc. in the box.
+・ In principle, if there is a request for disclosure from a person who can request disclosure, such as an agent,
+After explaining to the insurer, etc. that the retained personal data will be disclosed, a request for disclosure, etc. will be made.
+Disclosure shall be made to the person.
+・ When there is a request from an agent, etc., ① Comprehensive that cannot grasp the specific intention of the person
+Based on delegation made long before the request for disclosure, etc. is made
+When a request is made, the person who made the request for disclosure, etc. and the person who made the disclosure when explaining to the person
+Fully explain the contents of personal data, confirm the intention of the person, and request an agent
+We will take measures based on the intention of the person regarding the appropriateness of the request, the scope of disclosure, etc.
+
+54
+
+Page 59
+
+13. Explanation of reasons, prior request, handling of complaints (Articles 31, 34 to 35 of the Act)
+
+(Explanation of reason)
+Article 31 of the Act The business operator handling personal information shall be Article 27, Paragraph 3, Article 28, Paragraph 3, and 20.
+Measures requested or requested by the person pursuant to the provisions of Article 9, paragraph 3 or the preceding Article, paragraph 5.
+When notifying that the measures will not be taken for all or part, or different from the measures
+If you notify the person that you will take action, you must try to explain the reason to the person.
+It doesn't become.
+(Advance billing)
+Article 34 of the Act The person himself / herself is Article 28, Paragraph 1, Article 29, Paragraph 1 or Article 30, Paragraph 1
+Or, when attempting to file an action relating to a request pursuant to the provisions of paragraph 3, the defendant in that action
+Make the request in advance to the person who should be, and two weeks from the date of arrival
+Only after a lapse of time can the complaint be filed. However, the complaint
+This shall not apply when the person who should be the defendant of the above refuses the request.
+(2) The request set forth in the preceding paragraph shall be deemed to have arrived when the request should normally have arrived.
+(3) The provisions of the preceding two paragraphs shall be Article 28, paragraph 1, Article 29, paragraph 1 or Article 30, paragraph 1.
+Applies mutatis mutandis to the petition for provisional disposition order pertaining to the request pursuant to the provision of paragraph 3.
+(Handling of complaints by business operators handling personal information)
+Article 35 of the Act The business operator handling personal information shall appropriately and promptly make complaints regarding the handling of personal information.
+You have to make an effort for proper processing.
+2 Businesses handling personal information must endeavor to establish the system necessary to achieve the purpose set forth in the preceding paragraph.
+Must be.
+
+[Matters to be observed according to the provisions of the law]
+・ Health insurance associations, etc. will be notified of the purpose of use of the retained personal data requested by the person, or from the person.
+In the case of requested disclosure, correction, suspension of use, etc., the fact that the measures will not be taken or the measures thereof
+If you notify the person that you will take different measures, explain to the person the reason.
+I have to try. In addition, we must also explain the response system for complaints.
+It doesn't become.
+・ Health insurance associations, etc. must endeavor to respond appropriately and promptly to complaints regarding the handling of personal information.
+It doesn't become. In addition, the Health Insurance Society, etc. responds to complaints appropriately and promptly.
+We must make efforts to establish the necessary system, such as setting up a contact point for responding to complaints and establishing procedures for responding to complaints.
+Must be.
+[Other matters]
+・ When explaining the reason to the person, the health insurance association, etc. basically shows it in writing.
+To At that time, it is desirable to also explain the system for responding to complaints.
+・ Health insurance associations, etc. are insured by setting up a dedicated window when responding to complaints from insured persons, etc.
+Strive to create an environment where insurers can easily consult.
+・ Health insurance associations, etc. related businesses should discuss the system for responding to complaints from insured persons, etc.
+55
+
+Page 60
+
+In addition to posting on the homepage, distribution of pamphlets, offices in charge, health insurance associations, etc.
+It is possible to inform the insured, etc. by posting / installing on the bulletin board, public notice, etc.
+desirable.
+
+56
+
+Page 61
+
+Ⅳ Review of guidance, etc.
+1. 1. Review as needed
+The way of thinking about the protection of personal information changes in response to changes in social conditions and public awareness.
+It is thought that it will go.
+Therefore, this guidance shall be examined and reviewed as necessary.
+2. 2. Creation and publication of casebooks that complement this guidance
+The Personal Information Protection Commission and the Ministry of Health, Labor and Welfare promote the protection of personal information in health insurance associations, etc.
+A collection of case studies (Q & &) that complements this guidance so that health insurance associations can respond smoothly.
+A) shall be prepared and made public.
+
+57
+
+Page 62
+
+Appendix 1 Examples of personal information held by health insurance associations, etc.
+
+Types of personal information Information content
+Application related
+
+・ Symbol / number, name, date of birth, gender, individual number, insured person's branch number
+・ Qualification acquisition / loss date, remuneration / bonus record, dependents, previous year's income
+amount
+* In the case of dependents, in addition to the above, the livelihood maintenance relationship with the insured person is shown.
+Information (relationship, cohabitation, etc.)
+* For voluntary continuous insured persons, in addition to the above, contact information such as address and location
+
+Insurance benefit-related (in-kind) ・ Information on medical fee statement (receipt)
+[Clinical date / number of days, medical institution name / location, injury / illness name, medical treatment
+Information on the contents, medical expenses, etc.]
+Insurance benefits related (cash) ・ Medical expenses, transportation expenses related
+[Therapeutic equipment contents / wearing date, Judo rehabilitation teacher / Anma / Hari / Kyu /
+Information on massagers, transfer history / costs, other reasons for application, etc.]
+・ Injury and illness allowance related
+[Injury and illness name, period of incapacity to work, amount of remuneration during the period of incapacity to work, amount of pension received,
+Information on attendance status and doctor's opinions]
+・ Maternity allowance ・ Childbirth and childcare lump sum related
+[Birth date, commuting status, remuneration amount during the leave period, treatment for childbirth
+information】
+・ Burial fee (expense) related
+[Date of death, cost of burial, information on claimant]
+Health business related
+
+・ Health checkup, health guidance related (with specific health checkup, specific health guidance, business establishment)
+
+* Depends on the business content
+Including collaboration health of
+Become
+
+[Date of consultation, name / location of medical examination institution, medical examination / interview result, guidance result]
+
+58
+
+Page 63
+
+Appendix 2 Main purposes of use expected in normal business such as health insurance associations
+
+1. Purpose of use required for insurance benefits for insured persons, etc.
+[Cases related to internal use by health insurance associations, etc.]
+・ Confirmation of insured qualifications, certification of dependents, and issuance management of health insurance insured certificate
+・ Implementation of insurance benefits and additional benefits
+・ Usage office work stipulated in the Number Act
+[Cases involving the provision of information to other businesses]
+・ Payment to salary account (business owner) for automatic payment of high-cost medical expenses and partial contribution refunds, etc.
+・ Outsourcing for translation related to overseas medical expenses
+・ Reimbursement to non-life insurance companies, etc. related to third-party acts
+・ Health insurance federation's high-cost medical benefit consortium
+・ Information linkage stipulated in the Number Act
+・ Outsourcing of data processing such as qualifications of insured persons
+2. Purpose of use required for collecting insurance premiums, etc.
+[Cases related to internal use by health insurance associations, etc.]
+・ Understanding the standard monthly salary and standard bonus
+・ Collection of health insurance premiums, long-term care insurance premiums, and adjusted insurance premiums
+3. Purpose of use required for health business
+[Cases related to internal use by health insurance associations, etc.]
+・ Health checkups, health guidance and health consultations for maintaining and improving health
+・ Implementation of specific medical examinations and health guidance
+・ Operation of health promotion facilities (recreation centers, etc.)
+[Cases involving the provision of information to other businesses]
+・ Specific medical examination, implementation status management of health guidance and reporting to the national government
+・ Outsourcing to industrial physicians related to health guidance and health consultation
+・ Outsourcing of medical examinations to medical institutions
+・ Consignment of operation of health promotion facilities (recreation centers, etc.)
+・ Providing medical examination results to business owners as part of collaboration health
+・ Notification of medical expenses to insured persons, etc.
+4. Purpose of use required for examination and payment of medical fees
+[Cases related to internal use by health insurance associations, etc.]
+・ Inspection and examination of medical fee statement (receipt), etc.
+[Cases involving the provision of information to other businesses]
+・ Consignment of inspection / examination of the contents of the receipt data
+・ Punch input for computer processing of receipt data, entrustment of image capture processing
+5. Purpose of use necessary for stabilizing the operation of the health insurance association
+[Cases related to internal use by health insurance associations, etc.]
+・ Medical cost analysis ・ Disease analysis
+
+59
+
+Page 64
+
+[Cases involving the provision of information to other businesses]
+・ Outsourcing of data processing related to medical expense analysis and medical expense notification
+・ Participation in medical expense analysis business at the headquarters of the Federation of Health Insurance Associations
+6. Other
+[Cases related to internal use by health insurance associations, etc.]
+・ Basic materials for maintaining and improving the management and operation of the health insurance association
+[Cases involving the provision of information to other businesses]
+・ Consultation or notification to insurance companies, medical institutions, etc. in third-party reimbursement work
+
+60
+
+

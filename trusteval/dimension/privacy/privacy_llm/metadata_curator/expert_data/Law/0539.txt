@@ -1,0 +1,2982 @@
+Page 1
+
+DELETING PERSONAL DATA,
+DESTRUCTION or ANONYMOUS
+BUILDING GUIDE
+Page 2
+
+DELETING PERSONAL DATA,
+DESTRUCTION or ANONYMOUS
+BUILDING GUIDE
+Page 3
+
+GUIDE FOR DELETING, DESTROYING OR MAKING PERSONAL DATA ANONYMOUS
+KVKK Publications
+ISBN: 978-975-19-6807-4
+January 2018, Ankara
+Photos
+
+: www.shutterstock.com
+
+Personal Data Protection Authority
+Address : Nasuh Akar Mahallesi Ziyabey Caddesi 1407. Sokak No:6 Balgat /Çankaya / ANKARA / TURKEY
+Phone : +90 312 216 50 50
+Web : www.kvkk.gov.tr
+
+Page 4
+
+“The texts, photographs and other content in this book may be partially or without permission, except for individual use.
+It is strictly forbidden to copy, reproduce, use, publish and distribute in its entirety. to this ban
+Legal action will be taken against those who do not comply with the Law No. 5846 on Intellectual and Artistic Works. All of the product
+rights reserved.”
+
+Page 7
+5
+6
+
+ii
+
+SUMMARY
+This Guide; Law No. 6698 on the Protection of Personal Data (“Law”) and other relevant legislation
+the reasons for the processing of personal data processed in accordance with the provisions of the
+in the event of its deletion, destruction or anonymization.
+explains the methods.
+The methods of deletion and destruction in the Guide are taken into account in the environment in which personal data is processed and stored.
+The methods of anonymization and the deterioration of anonymity are explained separately.
+explained in detail with application examples.
+
+ABSTRACT
+
+This Guide explains the major methods for the erasure, destruction or anonymization of personal
+data processed in accordance with the provisions of the Law on the Protection of Personal Data
+(Law No. 6698) and other relevant legislation, providing that no reason for processing that data
+is left.
+In the Guide, the erasure and destruction methods, considering the environment in which the
+personal data is processed and stored are explained separately. Besides, anonymization methods
+and de-anonymization are covered in detail along with the examples of implementation.
+
+KEYWORDS:
+
+Personal data, deletion, destruction, anonymization, degradation of anonymity.
+
+KEY WORDS:
+
+Personal data, erasure, destruction, anonymization, de-anonymization.
+
+Page 8
+
+iii
+
+CONTENTS
+SUMMARY
+ABSTRACT
+KEYWORDS
+KEY WORDS
+Figures, Pictures and Tables
+
+ii
+ii
+ii
+ii
+v
+
+I. INTRODUCTION
+1.1. Purpose and Basis
+1.2. Scope
+1.3. Definitions
+
+one
+2nd
+2nd
+3
+
+II. DELETING AND DESTROYING PERSONAL DATA
+2.1. Deletion of Personal Data
+2.1.1. Deletion Process of Personal Data
+2.1.2. Methods of Deletion of Personal Data
+a) Application Type Cloud Solutions as a Service
+(such as Office 365, Salesforce, Dropbox)
+b) Personal Data in Paper Media
+c) Office Files on the Central Server
+ç) Personal Data in Portable Media
+d) Databases
+
+5
+6
+6
+7
+
+2.2. Destruction of Personal Data
+2.2.1. Personal Data Destruction Methods
+a) Local Systems
+b) Environmental Systems
+c) Paper and Microfiche Media
+d) Cloud Environment
+
+9
+9
+9
+12
+13
+13
+
+7
+7
+9
+9
+9
+
+Page 9
+
+iv
+III. MAKING PERSONAL DATA ANONYMOUS
+3.1. Methods of Making Personal Data Anonymous
+3.1.1. Anonymization Methods That Do Not Ensure Value Distortion
+a) Subtracting Variables
+b) Removing Records
+c) Regional Hiding
+d) Generalization
+d) Lower and Upper Bound Coding
+e) Global Coding
+f) Sampling
+3.1.2. Anonymization Methods That Provide Value Distortion
+a) Micro Joining
+b) Data Exchange
+c) Add Noise
+3.1.3. Statistical Methods to Strengthen Anonymization
+a) K-Anonymity
+b) L-Diversity
+c) T-Proximity
+
+15
+16
+17
+18
+19
+19
+21
+21
+22
+24
+24
+25
+26
+27
+28
+28
+30
+33
+
+3.2. Choosing the Anonymization Method
+
+34
+
+3.3. Anonymity Assurance
+
+35
+
+3.4. Deterioration of Anonymization by Reverse Processing of Anonymized Data
+Related Risks
+
+35
+
+IV. RESOURCES USED WHEN PREPARING THE GUIDE AND ITS INVESTIGATION
+DOCUMENTS CONSIDERED TO BE SUITABLE
+
+39
+
+Page 10
+
+v
+
+FIGURES, PICTURES AND TABLES
+Shapes List
+Figure 2.1. Deletion Process of Personal Data
+
+6
+
+Pictures List
+Picture 2.1. Example of Blackening of Personal Data
+Picture 2.2. Degausser Device
+Picture 2.3. Physical Destruction
+Picture 2.4. Overwrite
+
+8
+9
+10
+11th
+
+Tables List
+Table 3.1. Anonymization Methods
+Table 3.2. Example of Subtracting Variables
+Table 3.3. Example of Removing Records
+Table 3.4. Regional Hiding Original Dataset
+Table 3.5. Regional Post-Concealment Distribution
+Table 3.6. Lower and Upper Bound Coding Original Dataset
+Table 3.7. Anonymized Dataset after Lower and Upper Bound Encoding
+Table 3.8. Global Coding Original Dataset
+Table 3.9. Global Post-Coding Anonymized Dataset
+Table 3.10. Micro Consolidation Original Dataset
+Table 3.11. New Dataset Resulting from Micro-Association
+Table 3.12. Data Exchange Original Dataset
+Table 3.13. New Dataset Obtained as a Result of Data Exchange
+Table 3.14. Add Noise Original Dataset
+Table 3.15. Noise Addition Result Dataset
+Table 3.16. K-Anonymity Original Dataset
+Table 3.17. K-Anonymous Applied Dataset
+Table 3.18. L-Diversity Original Dataset
+Table 3.19. K=4 Anonymized Dataset
+Table 3.20. New Dataset Obtained as a Result of Applying K=4 Anonymity and L=3 Diversity
+Table 3.21. K=3 Anonymity and L=3 Diversity Applied Dataset
+Table 3.22. Dataset Obtained as a Result of T-Proximity
+
+17
+18
+19
+20
+20
+21
+22
+23
+23
+25
+26
+26
+27
+27
+28
+29
+30
+31
+31
+32
+33
+34
+
+Page 12
+11
+
+I. INTRODUCTION
+Page 13
+
+2nd
+
+1.1. Purpose and Basis
+In the third paragraph of Article 7 of the Law, “Personal data cannot be deleted, destroyed or
+The procedures and principles regarding the anonymization are regulated by a regulation.
+Pursuant to this provision and subparagraph (e) of the first paragraph of Article 22 of the Law, Personal Data
+Deletion, Destruction or Anonymization of Personal Data by the Protection Board (“Board”)
+The Regulation on the Bringing of the Law (“Regulation”) has been prepared and dated 28 October 2017 and 30224
+Published in the Official Gazette No.
+Clarity in practice on how to carry out such transactions based on this Regulation
+Attention should be paid to various topics in order to ensure
+Deletion, Destruction or Anonymization of Personal Data by the Board in order to attract
+Bringing the Guide (“Guide”) has been prepared and made available to the public.
+
+1.2. Scope
+Your guide;
+The first part is the introduction part; In this section, the purpose, the basis of the preparation of the guide,
+The scope of the guide and definitions are included.
+In the second part, deletion of personal data, deletion methods and process and personal data
+destruction and methods related to it are explained.
+In the third part, anonymization of personal data and methods and words related to this are discussed.
+on how to choose the methods in question, the assurance of anonymity and the deterioration of anonymity.
+risks are explained.
+In the fourth part, the sources used in the preparation of the guide and the appropriateness of its examination are given.
+Documents considered to be relevant are included.
+
+Page 14
+
+3
+
+1.3. Definitions
+Recipient group: The natural or legal person to whom personal data is transferred by the data controller
+category,
+Direct identifiers: Disclosures that, by themselves, directly reveal the person they are in a relationship with
+identifiers that identify and make them distinguishable,
+Indirect identifiers: They come together with other identifiers to reveal the person they are in a relationship with.
+identifiers that extract, disclose and make distinguishable,
+Relevant person: The real person whose personal data is processed,
+Relevant user: Responsible for technical storage, protection and backup of data
+within the organization of the data controller or with the exception of the person or unit
+real or legal entity that processes personal data in line with the authority and instruction received from the person responsible
+people,
+Destruction: Deletion, destruction or anonymization of personal data,
+Law: Law on Protection of Personal Data No. 6698, dated 24/3/2016,
+Blackening: All of the personal data with an identified or identifiable natural person.
+operations such as scratching, painting and icing,
+Recording medium: Fully or partially automated or any data recording system
+All kinds of personal data that are processed by non-automatic means, provided that they are part of
+environment,
+Personal data retention and destruction policy: The purpose for which personal data is processed
+deletion, destruction and anonymization with the process of determining the maximum time required for
+the policy on which they are based,
+Masking: Protecting certain areas of personal data with an identified or identifiable natural person.
+such as erasing, scratching, painting and starring in an unrelated way.
+transactions,
+Data registration system: The registration system in which personal data is processed and structured according to certain criteria,
+means.
+For definitions not included in this Guide, the definitions in the Law and Regulation can be consulted.
+
+Page 16
+15
+
+II. PERSONAL DATA
+DELETE and NO
+TO BE
+Page 17
+
+6
+
+Deletion and destruction of personal data, as specified in the personal data retention and destruction policy.
+can be carried out by the methods described below in accordance with the principles.
+
+2.1. Deletion of Personal Data
+Deletion of personal data means that personal data cannot be accessed in any way for the relevant users and
+the process of rendering it unusable.
+Data controller, deleted personal data cannot be accessed and reused for relevant users.
+It is obliged to take all kinds of technical and administrative measures necessary to ensure
+
+2.1.1. Deletion Process of Personal Data
+The process to be followed in the deletion of personal data is as follows:
+●
+
+Determining the personal data that will be the subject of the deletion process.
+
+●
+
+for each personal data using an access authorization and control matrix or a similar system.
+identifying users.
+
+●
+
+The authorization and methods of the relevant users such as access, retrieval, reuse
+detecting.
+
+●
+
+Access, retrieval, reuse authorization of the relevant users within the scope of personal data and
+closure and elimination of methods.
+
+Figure 2.1. Deletion Process of Personal Data
+
+Page 18
+
+7
+
+2.1.2. Methods of Deletion of Personal Data
+Since personal data can be stored in various recording media, it is possible to use methods suitable for recording media.
+they must be deleted. Examples of this are given below:
+
+a) Application Type Cloud Solutions as a Service (Office 365,
+such as Salesforce, Dropbox)
+In the cloud system, data should be deleted by issuing a delete command. While performing the said operation
+Note that the relevant user does not have the authority to restore the deleted data on the cloud system.
+should be done.
+
+b) Personal Data in Paper Media
+Personal data on paper should be deleted using the blackout method. Blackout
+process, the personal data on the relevant document is cut off, where possible,
+in non-recoverable cases and in a way that cannot be read with technological solutions.
+It is made by making it invisible to the relevant users by using fixed ink.
+For example, as can be seen from the petition in Picture 2.1 below, the deletion of personal data
+given to our Institution by a person who did not get any results although he applied to the data controller with his request.
+When a copy of the petition is requested to be shared; personal data in the aforementioned petition
+by scratching / painting / deleting these personal data in a way that cannot be read in order to protect
+some kind of blackout was applied.
+
+Page 19
+
+8
+
+Picture 2.1. Example of Blackening of Personal Data
+
+Page 20
+
+9
+
+c) Office Files on the Central Server
+Deleting the file with the delete command in the operating system or deleting the file or file.
+The access rights of the relevant user on the directory where it is located must be removed. the aforementioned transaction
+It should be noted that the user concerned is not also a system administrator.
+
+ç) Personal Data in Portable Media
+Personal data in flash-based storage media should be stored encrypted and stored on these media.
+must be deleted using appropriate software.
+
+d) Databases
+Relevant lines containing personal data must be deleted with database commands (DELETE etc.).
+While performing the aforementioned operation, the user is not also the database administrator.
+attention should be paid.
+
+2.2. Destruction of Personal Data
+Destruction of personal data, personal data cannot be accessed by anyone in any way,
+is the process of making it irrecoverable and unusable. Data controller, no personal data
+responsible for taking all necessary technical and administrative measures
+
+2.2.1. Personal Data Destruction Methods
+In order to destroy personal data, it is necessary to identify all copies of the data and to
+one or more of the following methods, depending on the type of systems
+It must be destroyed one by one using:
+
+a) Local Systems
+In order to destroy the data on the said systems, one of the following methods or
+several are available.
+i) De-magnetizing: Magnetic media is passed through a special device to a very high
+by exposing it to a magnetic field of rated value, the data on it becomes unreadable.
+degradation process.
+
+Page 21
+
+10
+
+Picture 2.2. Degausser Device
+ii) Physical Destruction: Melting, burning or dusting of optical and magnetic media
+It is the process of physically destroying it, such as turning it into a state. Melting optical or magnetic media,
+data by processes such as burning, pulverizing, or passing through a metal grinder.
+rendered inaccessible. Overwriting or de-magnetizing solid state disks
+If the process is not successful, this media must also be physically destroyed.
+
+Page 22
+
+11th
+
+Picture 2.3. Physical Destruction
+iii) Overwrite: At least seven on magnetic media and rewritable optical media
+Preventing recovery of old data by typing random data consisting of 0s and 1s once
+process. This process is done using special software.
+
+Picture 2.4. Overwrite
+
+Page 23
+
+12
+
+b) Environmental Systems
+Depending on the media type, the disposal methods available are as follows:
+i) Network devices (switches, routers, etc.): Storage environments inside the devices in question
+is fixed. Products often have a delete command but no destroy feature.
+It must be destroyed using one or more of the appropriate methods specified in (a).
+ii) Flash-based environments: ATA (SATA, PATA, etc.), SCSI (SCSI) of Flash-based hard drives
+Express etc.) interface, using <block erase> command if supported,
+not supported, use the manufacturer's recommended method of disposal or use the appropriate appropriate method specified in (a).
+It must be destroyed by using one or more of the methods.
+iii) Magnetic tape: It can transfer data with the help of micro magnet pieces on the flexible tape.
+storage environments. By exposing it to very strong magnetic environments and de-magnetizing it, or
+It must be destroyed by physical destruction methods such as burning, melting.
+iv) Units such as magnetic disk: Data storage on flexible (plate) or fixed media
+They are environments that store them with the help of micro magnet parts. exposed to very strong magnetic environments
+It is destroyed by demagnetizing or physical destruction methods such as burning or melting.
+must be done.
+v) Mobile phones (Sim card and fixed memory areas):
+There is a delete command in fixed memory areas, but most of them have a destroy command.
+not available. destroyed by one or more of the appropriate methods specified in (a)
+must be done.
+vi) Optical discs: They are data storage media such as CD, DVD. burning, breaking into small pieces,
+It must be destroyed by physical destruction methods such as melting.
+vii) Peripherals such as a printer with removable data recording media, fingerprint door access system
+units: All data recording media have been removed by verifying that they have been removed, according to their characteristics specified in (a).
+It must be destroyed by using one or more of the appropriate methods.
+
+Page 24
+
+13
+
+viii) Environment such as printer with fixed data recording medium, fingerprint door access system
+volumes: Most of these systems have a delete command, but a destroy command
+not available. destroyed by one or more of the appropriate methods specified in (a)
+must be done.
+
+c) Paper and Microfiche Media
+Since the personal data in the said media is permanently and physically written on the media,
+the host environment must be destroyed. Paper shred or clipping media while performing this operation
+machines of incomprehensible size, horizontally and vertically if possible, that cannot be reassembled.
+should be divided into small pieces.
+Personal data transferred from the original paper format to electronic media by scanning
+by using one or more of the appropriate methods specified in (a) according to the electronic medium.
+must be destroyed.
+
+d) Cloud Environment
+During the storage and use of personal data in the said systems, cryptographic
+methods, and where possible for personal data, especially every service received.
+separate encryption keys must be used for a cloud solution. cloud computing
+when the service relationship ends; encryption required to make personal data usable
+All copies of keys must be destroyed.
+In addition to the above environments; personal items on devices that have malfunctioned or sent for maintenance.
+Data destruction is carried out as follows:
+i) For the maintenance and repair of the relevant devices, third institutions such as manufacturers, dealers and service
+one or more of the appropriate methods specified in (a) of the personal data contained in it before it is transferred.
+destroyed by the use of a few,
+ii) In cases where destruction is not possible or appropriate, the data storage medium
+disassembled and stored, other defective parts are sent to third institutions such as manufacturer, seller, service.
+sending,
+iii) By copying personal data of personnel coming from outside for purposes such as maintenance and repair,
+Taking the necessary measures to prevent his removal from the institution,
+must.
+
+Page 26
+25
+
+III. PERSONAL DATA
+ANONYMOUS
+BRING
+Page 27
+
+16
+
+Anonymization of personal data means that even if personal data is matched with other data,
+means that it cannot be associated with an identified or identifiable natural person in any way.
+In order for personal data to be anonymized; personal data, data controller or recipient
+records such as returning by groups and/or matching data with other data.
+determined by the use of appropriate techniques for the environment and the relevant field of activity.
+or made unrelated to an identifiable natural person.
+The data controller is responsible for all kinds of technical and administrative procedures necessary for the anonymization of personal data.
+responsible for taking measures. Anonymization of personal data, personal data storage and
+It is carried out with the following methods in accordance with the principles specified in the destruction policy.
+
+3.1. Methods of Making Personal Data Anonymous
+Anonymization means all direct and/or indirect identifiers in a dataset.
+by removing or changing it, preventing the identification of the person concerned, or
+the feature of being distinguishable in a group/crowd that cannot be associated with a real person.
+way to lose.
+Does not point to a specific person as a result of the blocking or loss of these features.
+data is considered anonymized data. In other words, anonymized data is
+Before the transaction is made, it is the information that identifies a real person, after this transaction, it is with the relevant person.
+It has become unrelated and disconnected from the person.
+The purpose of anonymization is to break the link between the data and the person identified by this data.
+Automatic or non-automatic applied to the records in the data recording system where personal data is kept.
+grouping, masking, derivation, generalization, randomization.
+All of the tie-breaking processes are called anonymization methods. These methods
+The data obtained as a result of the application must not be able to identify a specific person.
+Examples of anonymization methods are shown in the table below:
+
+Page 28
+
+17
+
+Anonymous No Value Irregularity
+Methods of Making
+
+•
+•
+•
+•
+•
+•
+•
+
+Subtracting Variables
+Removing Records
+Regional Hiding
+Generalization
+Lower and Upper Bound Coding
+Global Coding
+Sampling
+
+Anonymity that Provides Value Irregularity
+Fetch Methods
+
+•
+•
+•
+
+Micro Joining
+Data Exchange
+Add Noise
+
+Enhancing Anonymization
+Statistical Methods
+
+•
+•
+•
+
+K-Anonymity
+L-Diversity
+T-Proximity
+
+Table 3.1. Anonymization Methods
+
+3.1.1. Anonymization Without Value Distortion
+Methods
+In methods that do not provide value irregularity, the values ​of the data in the set
+no change, addition or subtraction is applied, instead the row or
+Changes are made to all columns. Thus, while there is a change in the entire data,
+The values ​in the fields retain their original state. Anonymization without value disorder
+Some of the fetching methods are explained below with examples:
+
+Page 29
+
+18
+
+a) Subtracting Variables
+It is provided by removing one or more of the variables from the table by completely deleting them.
+It is a method of anonymization. In such a case, the entire column in the table is completely
+will be removed. This method is a more appropriate method if the variable is a high-order descriptor.
+the solution does not exist, the variable is too sensitive data to be disclosed to the public, or
+It can be used for reasons such as not serving analytical purposes.
+
+Age Gender Zip Code Income
+
+Religion
+
+20
+
+K
+
+SO17
+
+20,000
+
+Buddhist
+
+38
+
+TO
+
+SO18
+
+22,000
+
+Muslim
+
+29
+
+TO
+
+SO16
+
+32,000
+
+Christian
+
+31
+
+K
+
+SO17
+
+31,000
+
+Muslim
+
+44
+
+K
+
+SO15
+
+68,000
+
+Jewish
+
+78
+
+TO
+
+SO14
+
+28,000
+
+Jewish
+
+Table 3.2. Example of Subtracting Variables
+
+Page 30
+
+19
+
+b) Removing Records
+In this method, anonymity is obtained by removing a row containing singularity in the data set.
+It is strengthened and the probability of making assumptions about the dataset is reduced. Usually
+extracted records do not have a common value with other records and have an idea about the data set.
+These are records that people can easily guess.
+For example, in a dataset that includes survey results, only one employee from any industry
+the person is included in the survey. In such a case, the "industry" variable from all survey results
+It may be preferable to remove only the record of this person, rather than removing it.
+
+Age Gender
+
+Birth Y.
+
+Sector
+
+Degree
+
+31
+
+K
+
+Istanbul
+
+architecture
+
+3.22
+
+31
+
+TO
+
+Istanbul
+
+architecture
+
+3.04
+
+31
+
+TO
+
+Ankara
+
+Industry
+
+3.22
+
+43
+
+K
+
+Ankara
+
+Industry
+
+2.86
+
+51
+
+TO
+
+Eskisehir
+
+Art
+
+2.93
+
+27
+
+K
+
+Istanbul
+
+Trade
+
+2.97
+
+27
+
+K
+
+Ankara
+
+Trade
+
+2.98
+
+Table 3.3. Example of Removing Records
+
+c) Regional Hiding
+In the regional hiding method, the aim is to make the dataset more secure and predictive.
+to reduce the risk of feasibility. The combination of values ​for a particular record is barely visible.
+creates a situation and this situation causes that person to be distinguishable in the relevant community.
+the value that created the exception is changed to "unknown" if it is likely to cause it.
+For example, Table 3.4 shows HIV status by age, gender and occupation. In this table
+Since the record belongs to a child with age = 3, it creates an exceptional situation and provides predictability.
+and increases the risk of making assumptions about the child's family.
+
+Page 31
+
+20
+
+Age
+
+Gender
+
+Profession
+
+HIV Status
+
+17
+
+K
+
+Teacher
+
+Positive
+
+28
+
+TO
+
+architect
+
+Negative
+
+16
+
+TO
+
+Positive
+
+3
+
+K
+
+Teacher
+4
+
+64
+
+K
+
+Engineer
+
+Positive
+
+52
+
+K
+
+Engineer
+
+Positive
+
+Positive
+
+Table 3.4. Regional Hiding Original Dataset
+
+Therefore; The age digit of the record mentioned with the regional hiding method is declared as “unknown”.
+is changed and the new state in Table 3.5 is obtained, the predictability of the dataset
+risk will be reduced.
+
+Age
+
+Gender
+
+Profession
+
+HIV Status
+
+17
+
+K
+
+Teacher
+
+Positive
+
+28
+
+TO
+
+architect
+
+Negative
+
+16
+
+TO
+
+Positive
+
+Unknown
+
+K
+
+Teacher
+4
+
+64
+
+K
+
+Engineer
+
+Positive
+
+52
+
+K
+
+Engineer
+
+Positive
+
+Positive
+
+Table 3.5. Regional Post-Concealment Distribution
+
+Page 32
+
+21
+
+d) Generalization
+It is the process of converting the relevant personal data from a specific value to a more general value. cumulative reports
+It is the most used method in production and operations carried out on total figures.
+The new values ​obtained as a result belong to a group that makes it impossible to reach a real person.
+Shows total values ​or statistics for
+For example, a person with TR ID Number 12345678901 bought diapers from the e-commerce platform.
+Then he should have bought wet wipes as well. In the anonymization process
+xx% of people who buy diapers from the e-commerce platform using the generalization method are the same
+At the same time, it can be concluded that he buys wet wipes.
+
+d) Lower and Upper Bound Coding
+The lower and upper bound coding method defines a category for a certain variable and
+It is obtained by combining the remaining values ​in the grouping it creates. Usually in a particular variable
+low or high values ​are collected together and a new definition is given to these values.
+is made and progressed.
+In the example below, Table 3.6 represents the original dataset and Table 3.7 represents the bottom and top of the selected variables.
+It shows the form that has been redesigned and anonymized by border coding.
+
+Age
+
+Gender
+
+Profession
+
+Income (Annual)
+
+Test Result
+
+Expenditures
+(Monthly)
+
+3*
+
+K
+
+Engineer
+
+92,000
+
+Negative
+
+8,000
+
+4*
+
+TO
+
+architect
+
+110,000
+
+Negative
+
+9,600
+
+4*
+
+TO
+
+Doctor
+
+149,000
+
+Negative
+
+10,000
+
+5*
+
+K
+
+Doctor
+
+123,000
+
+Positive
+
+10,800
+
+5*
+
+TO
+
+Doctor
+
+125,000
+
+Negative
+
+11.100
+
+2nd*
+
+TO
+
+Pharmacist
+
+85,000
+
+Positive
+
+16,300
+
+Table 3.6. Lower and Upper Bound Coding Original Dataset
+
+Page 33
+
+22
+
+The values ​of the Income and Expenditures variables in the table are calculated using the lower and upper bound coding method.
+changed as follows;
+Income (Annual): Low = values ​less than and equal to 100,000;
+Average = values ​between 100,000 and 120,000;
+High = values ​greater than and equal to 120,000,
+Expenditures (Monthly): Low = Values ​less than and equal to 10,000;
+Average = values ​between 10,000 and 11,000;
+High = values ​greater than or equal to 11,000,
+According to this coding, the anonymized table will take the following form.
+Age
+
+Gender
+
+Profession
+
+Income
+(Yearly)
+
+Test Result Expenditures
+(Monthly)
+
+3*
+
+K
+
+Engineer
+
+Low
+
+Negative
+
+Low
+
+4*
+
+TO
+
+architect
+
+Middle
+
+Negative
+
+Low
+
+4*
+
+TO
+
+Doctor
+
+High
+
+Negative
+
+Middle
+
+5*
+
+K
+
+Doctor
+
+High
+
+Positive
+
+Middle
+
+5*
+
+TO
+
+Doctor
+
+High
+
+Negative
+
+High
+
+2nd*
+
+TO
+
+Pharmacist
+
+Low
+
+Positive
+
+High
+
+Table 3.7. Anonymized Dataset after Lower and Upper Bound Encoding
+
+e) Global Coding
+The global coding method is a digital coding method where lower and upper bound coding is not possible.
+in datasets that do not contain values ​or have values ​that cannot be sorted numerically
+It is a grouping method. In general, estimates and assumptions are made by clustering certain values.
+It is used where it facilitates execution. A common and new group for the selected values
+All records in the dataset are replaced with this new definition.
+In the example below, Table 3.8 is the original dataset and Table 3.9 is from the global coding application.
+shows the next anonymized dataset.
+
+Page 34
+
+23
+
+Gender
+
+Profession
+
+District
+
+Marital status
+
+K
+
+architect
+
+Cankaya
+
+The married
+
+K
+
+Engineer
+
+Cankaya
+
+Single
+
+K
+
+architect
+
+Cankaya
+
+Divorced
+
+K
+
+architect
+
+Cankaya
+
+Single
+
+K
+
+Engineer
+
+Cankaya
+
+Single
+
+K
+
+Engineer
+
+Cankaya
+
+Divorced
+
+K
+
+Engineer
+
+Cankaya
+
+The married
+
+Table 3.8. Global Coding Original Dataset
+
+In this dataset, the data of the population of women in a single district has two variables in the occupation variable.
+Since agglomeration is seen in the category, a single category can be obtained from the combination of the two categories in question.
+and in this case, the data is made more secure.
+
+Gender
+
+Profession
+
+District
+
+Marital status
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+The married
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+Single
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+Divorced
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+Single
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+Single
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+Divorced
+
+K
+
+Architect or Engineer
+
+Cankaya
+
+The married
+
+Table 3.9. Global Post-Coding Anonymized Dataset
+
+Page 35
+
+24
+
+f) Sampling
+In the sampling method, instead of the whole data set, a subset from the set is described or
+is shared. Thus, a person who is known to be in the whole data set is described or
+accurate prediction of individuals as it is not known whether they are in the shared sample subset
+production risk is reduced. Simple statistics in determining the subset to be sampled
+methods are used.
+For example; Demographic information, occupation and health status of women living in Istanbul.
+In case of anonymizing or sharing a data set about
+scanning and estimating a relevant dataset of a woman known to have lived
+may be meaningful.
+However, in the relevant dataset, only the records of women whose population is registered is Istanbul.
+are left, those whose population registrations are in other provinces are excluded from the data set and anonymization is applied.
+and if the data is disclosed or shared, the person accessing the data is a woman who is known to live in Istanbul.
+Since he cannot guess whether his record is in Istanbul or not, the information belonging to this person he knows
+It will not be able to make a reliable estimate as to whether it is included in the data at hand.
+
+3.1.2. Anonymization with Value Irregularity
+Methods
+Unlike the methods mentioned above, with methods that provide value irregularity; available
+By changing the values, distortion is created in the values ​of the data set. In this case, the records
+Since the values ​it carries are changing, the planned benefit from the data set is correct.
+needs to be calculated. Even if the values ​in the dataset are changing, the total statistics
+By ensuring that it is not corrupted, it is still possible to continue to benefit from the data.
+Some of the anonymization methods that provide value irregularity are given below with examples.
+explained:
+
+Page 36
+
+25
+
+a) Micro Joining
+With this method, all records in the dataset are first arranged in a meaningful order and then
+The whole set is divided into a certain number of subsets. Then each subset is determined.
+Average the value of that variable of the subset by averaging the value of the variable.
+replaced with value. Thus, the average value of that variable valid for the entire data set.
+will not change.
+The records in Table 3.10 below, the variables in the “Income” column are compared to each other according to their values.
+are divided into groups of three that are close to each other and the groups are marked with color codes. Within each group
+The arithmetic average of the values ​was taken and all records in the group were assigned the new values ​found.
+It is prevented from being able to detect the original value.
+Age
+
+Gender
+
+Post code
+
+Income
+
+23
+
+K
+
+1556
+
+25,000
+
+37
+
+K
+
+1559
+
+28,000
+
+41
+
+TO
+
+1559
+
+37,000
+
+25
+
+K
+
+1557
+
+49,000
+
+34
+
+TO
+
+1558
+
+56,000
+
+48
+
+TO
+
+1556
+
+60,000
+
+Table 3.10. Micro Consolidation Original Dataset
+
+New value as a result of micro-joining for group 1: (25,000 + 28,000 + 37,000) / 3 = 30,000
+New value as a result of micro-joining for group 2: (49.000 + 56,000 + 60.000) / 3 = 55.000
+
+Page 37
+
+26
+
+Age
+
+Gender
+
+Post code
+
+Income
+
+23
+
+K
+
+1556
+
+30,000
+
+37
+
+K
+
+1559
+
+30,000
+
+41
+
+TO
+
+1559
+
+30,000
+
+25
+
+K
+
+1557
+
+55,000
+
+34
+
+TO
+
+1558
+
+55,000
+
+48
+
+TO
+
+1556
+
+55,000
+
+Table 3.11. New Dataset Resulting from Micro-Association
+
+b) Data Exchange
+The data exchange method is a subset of variables between pairs selected from the records.
+are the changes to the record obtained by exchanging the values ​of the This method is basically
+It is used for variables that can be categorized and the main idea is to evaluate the values ​of the variables.
+It is the transformation of the database by changing between records belonging to individuals.
+Age
+
+Gender
+
+Province
+
+Income
+
+21
+
+K
+
+Istanbul
+
+20,000
+
+24
+
+K
+
+Ankara
+
+30,000
+
+35
+
+TO
+
+Izmir
+
+30,000
+
+36
+
+K
+
+Istanbul
+
+25,000
+
+45
+
+TO
+
+Izmir
+
+55,000
+
+50
+
+TO
+
+Izmir
+
+15,000
+
+Chart. 3.12. Data Exchange Original Dataset
+Table 3.12 has records containing the original values. Data exchange operation in Table 3.13
+It contains the new data set obtained as a result of As can be seen from the table in question
+Age = “24”, Gender = “F”, Province = “Ankara” with the income information of the record Age = “45”, Gender = “M”,
+The income information of the record with province = “İzmir” has been changed with each other. Likewise Age = “35”,
+Gender = “M”, Province = “İzmir” with the income information of the record Age = “50”, Gender = “M”, Province = “İzmir”
+Income information of the records that were registered with each other was exchanged and a new data set was created.
+
+Page 38
+
+27
+
+Age
+
+Gender
+
+Province
+
+Income
+
+21
+
+K
+
+Istanbul
+
+25,000
+
+24
+
+K
+
+Ankara
+
+55,000
+
+35
+
+TO
+
+Izmir
+
+15,000
+
+36
+
+K
+
+Istanbul
+
+20,000
+
+45
+
+TO
+
+Izmir
+
+30,000
+
+50
+
+TO
+
+Izmir
+
+30,000
+
+Table 3.13. New Dataset Obtained as a Result of Data Exchange
+
+c) Add Noise
+With this method, adding and
+stickers are made. This method is mostly applied on datasets containing numeric values.
+Distortion applies equally to each value.
+
+Age
+
+Gender
+
+Province
+
+Income
+
+21
+
+K
+
+Izmir
+
+45,000
+
+24
+
+K
+
+Ankara
+
+20,000
+
+35
+
+TO
+
+Ankara
+
+123,000
+
+36
+
+K
+
+Ankara
+
+18,000
+
+45
+
+TO
+
+Istanbul
+
+75,000
+
+50
+
+TO
+
+Istanbul
+
+7,000
+
+Table 3.14. Add Noise Original Dataset
+
+Page 39
+
+28
+
+For the income variables in Table 3.14, +80.000 is applied to the values ​of each record and
+The new variables in Table 3.15 have been created.
+Age
+
+Gender
+
+Province
+
+Income
+
+21
+
+K
+
+Izmir
+
+125,000
+
+24
+
+K
+
+Ankara
+
+100,000
+
+35
+
+TO
+
+Ankara
+
+203,000
+
+36
+
+K
+
+Ankara
+
+98,000
+
+45
+
+TO
+
+Istanbul
+
+155,000
+
+50
+
+TO
+
+Istanbul
+
+87,000
+
+Table 3.15. Noise Addition Result Dataset
+
+3.1.3. Statistical Strengthening Anonymization
+Methods
+In anonymized datasets, some values ​in records are combined with singular scenarios.
+identification of the persons in the records or regarding their personal data.
+hypotheses can be derived.
+For this reason, using various statistical methods in anonymized data sets.
+Anonymity can be strengthened by minimizing the singularity of the records in the dataset.
+The main purpose of these methods is to minimize the risk of anonymity degradation, while leaving the data set.
+is to keep the benefit to be provided at a certain level.
+
+a) K-Anonymity
+In anonymized datasets, implicit identifiers are combined with the right combinations.
+if the identities of the persons in the records are identifiable, or to a certain
+easily predictable information about anonymization processes
+undermined the trust. Based on this, data that has been anonymized by various statistical methods
+clusters had to be made more reliable.
+
+Page 40
+
+29
+
+K-anonymity allows multiple people to be identified with certain fields in a dataset,
+to prevent the disclosure of personal information showing singular characteristics in certain combinations
+was developed for Combining some of the variables in a dataset
+If there is more than one record of the combinations created, the equivalent to this combination
+The probability of detecting the identities of incoming people decreases. For example; In Table 3.16, the nameThere are variables such as surname, date of birth, gender, illness and zip code.
+Name surname Date of Birth Gender
+
+Postal Code Disease Name
+
+*
+
+1983
+
+TO
+
+3440*
+
+cold
+
+*
+
+1980
+
+K
+
+3440*
+
+Hepatitis B
+
+*
+
+1983
+
+TO
+
+3440*
+
+Asthma
+
+*
+
+1982
+
+TO
+
+3440*
+
+Headache
+
+*
+
+1982
+
+TO
+
+3440*
+
+Glioma
+
+*
+
+1983
+
+TO
+
+3440*
+
+Hypertension
+
+*
+
+1983
+
+TO
+
+3440*
+
+Headache
+
+*
+
+1980
+
+K
+
+3440*
+
+Flu
+
+*
+
+1983
+
+TO
+
+3440*
+
+Lung cancer
+
+Table 3.16. K-Anonymity Original Dataset
+In the table, masking is applied to the values ​of the name-surname and zip code variables.
+anonymized, but containing the same values ​when such anonymization is made.
+If there is only one record, it will be possible to identify the right person with this record. However, multiplexing
+In this case, a certain variety of variables that can create a singularity will be provided. For example;
+In Table 3.16, 5 records, born in 1983, gender male and starting with zip code 3440
+Born in 1983, since five different disease varieties were provided in the "Diagnostic Name" field for
+Which of these 5 diseases does a person with a male gender and zip code starting with 3440 have?
+It is not possible to speculate as to whether Therefore, the framework as in Table 3.17
+date of birth, gender and zip code data in the records containing the same values.
+If disclosed or shared, those who were born in 1983 are male and have a zip code.
+Predicting which of these 5 diseases a person starting with 3440 has
+It is not possible.
+
+Page 41
+
+30
+
+Name surname Date of Birth Gender
+
+Postal Code Disease Name
+
+*
+
+1980
+
+K
+
+3440*
+
+Flu
+
+*
+
+1980
+
+K
+
+3440*
+
+Hepatitis B
+
+*
+
+1982
+
+TO
+
+3440*
+
+Headache
+
+*
+
+1982
+
+TO
+
+3440*
+
+Glioma
+
+*
+
+1983
+
+TO
+
+3440*
+
+cold
+
+*
+
+1983
+
+TO
+
+3440*
+
+Hypertension
+
+*
+
+1983
+
+TO
+
+3440*
+
+Headache
+
+*
+
+1983
+
+TO
+
+3440*
+
+Asthma
+
+*
+
+1983
+
+TO
+
+3440*
+
+Lung cancer
+
+Table 3.17. K=4 Anonymity Applied Dataset
+
+b) L-Diversity
+The L-diversity method, which is formed by the studies carried out on the shortcomings of K=4 anonymity, is the same.
+take into account the diversity of sensitive variables corresponding to combinations of variables.
+takes. In Table 3.18, the disease information of people who are hospitalized in a hospital is given.
+K-anonymity is applied by not giving names, surnames or identity numbers of these persons.
+Possibility of being detected as zip code, age and ethnicity information are shared together
+exists.
+
+Page 42
+
+Post code
+
+Age
+
+nationality
+
+Disease
+
+31
+
+13053
+
+28
+
+Russian
+
+Heart
+
+13068
+
+29
+
+American
+
+Heart
+
+13068
+
+21
+
+Chinese
+
+Viral Infection
+
+13053
+
+23
+
+American
+
+Viral Infection
+
+14853
+
+50
+
+British
+
+Cancer
+
+14853
+
+55
+
+Russian
+
+Heart
+
+14850
+
+47
+
+American
+
+Viral Infection
+
+14850
+
+49
+
+American
+
+Viral Infection
+
+13053
+
+31
+
+American
+
+Cancer
+
+13053
+
+37
+
+British
+
+Cancer
+
+13068
+
+36
+
+Japanese
+
+Cancer
+
+13068
+
+35
+
+American
+
+Cancer
+
+Table 3.18. L-Diversity Original Dataset
+Post code
+
+Age
+
+nationality
+
+Disease
+
+130**
+
+< 30
+
+*
+
+Heart
+
+130**
+
+< 30
+
+*
+
+Heart
+
+130**
+
+< 30
+
+*
+
+Viral Infection
+
+130**
+
+< 30
+
+*
+
+Viral Infection
+
+1485*
+
+≥ 40
+
+*
+
+Cancer
+
+1485*
+
+≥ 40
+
+*
+
+Heart
+
+1485*
+
+≥ 40
+
+*
+
+Viral Infection
+
+1485*
+
+≥ 40
+
+*
+
+Viral Infection
+
+130**
+
+3*
+
+*
+
+Cancer
+
+130**
+
+3*
+
+*
+
+Cancer
+
+130**
+
+3*
+
+*
+
+Cancer
+
+130**
+
+3*
+
+*
+
+Cancer
+
+Table 3.19. K=4 Anonymized Dataset
+
+Page 43
+
+32
+
+As can be seen from Table 3.19, the information masking logic (zip code) in Table 3.18
+and by masking from age information, groups of 4 were created) firstly K=4.
+Anonymity has been strengthened by the anonymity method.
+However, as can be seen in Table 3.19 as a result of the first operation, all “Disease”
+values ​are grouped as “Cancer”. This is for people in their 30s starting with zip code 130.
+shares the information that everyone has “Cancer” regardless of their nationality.
+A user who has these two information can conclude that a person with this characteristic he knows has cancer.
+can be reached easily. For this reason, attention should be paid to creating a certain diversity within each group.
+masking method should be used.
+In Table 3.20, K=4 in an anonymized dataset grouped as follows
+Groups were formed in the same way, and at the same time, L=3 in each group.
+(i.e. by keeping at least 3 types of diseases) diversity was obtained.
+Anonymization by ensuring that each group includes 4 records and 3 different diseases
+has been made. This process strengthened the anonymization process, and the user with external information
+reduced its predictive power.
+Post code
+
+Age
+
+nationality
+
+Disease
+
+1305*
+
+≤ 40
+
+*
+
+Heart
+
+1305*
+
+≤ 40
+
+*
+
+Viral Infection
+
+1305*
+
+≤ 40
+
+*
+
+Cancer
+
+1305*
+
+≤ 40
+
+*
+
+Cancer
+
+1485*
+
+> 40
+
+*
+
+Cancer
+
+1485*
+
+> 40
+
+*
+
+Heart
+
+1485*
+
+> 40
+
+*
+
+Viral Infection
+
+1485*
+
+> 40
+
+*
+
+Viral Infection
+
+1306*
+
+≤ 40
+
+*
+
+Heart
+
+1306*
+
+≤ 40
+
+*
+
+Viral Infection
+
+1306*
+
+≤ 40
+
+*
+
+Cancer
+
+1306*
+
+≤ 40
+
+*
+
+Cancer
+
+Table 3.20. Obtained as a result of applying K=4 Anonymity and L=3 Diversity
+New Dataset Acquired
+
+Page 44
+
+33
+
+c) T-Proximity
+Although the L-diversity method provides diversity in personal data, the method in question
+cannot provide adequate protection because it is not concerned with the content and sensitivity of the data.
+situations occur.
+In this way, the degree of closeness of personal data and values ​to each other within themselves.
+and the dataset is made anonymous by dividing it into subclasses according to these closeness degrees.
+This process is called the T-proximity method.
+In Table 3.21; K-anonymity with K=3 based on date of birth, gender and zip code fields
+and L-diversified to be L=3 but born in 1970, address 3440*
+A male resident has serious illnesses such as cancer, brain tumor, and hepatitis b.
+Since there are diseases, it can be determined that the disease of the person in question in this group is serious.
+
+Date of Birth Gender
+
+Postal Code Disease Name
+
+Number of patients
+
+198*
+
+TO
+
+3440*
+
+Flu
+
+80
+
+198*
+
+TO
+
+3440*
+
+Blood pressure
+
+20
+
+198*
+
+TO
+
+3440*
+
+Headache
+
+70
+
+197*
+
+TO
+
+3440*
+
+Cancer
+
+10
+
+197*
+
+TO
+
+3440*
+
+Glioma
+
+10
+
+197*
+
+TO
+
+3440*
+
+Hepatitis B
+
+10
+
+Table 3.21. K=3 Anonymity and L=3 Diversity Applied Dataset
+
+In order to reduce this predictive power, the groupings within the anonymization are shown in Table 3.22.
+As can be seen, such an arrangement was made that in groups consisting of triple records (F=3)
+adjusted to have at least 3 different (L=3) disease types, but these 3 different
+ensuring that not all diseases are serious (brain tumor and Hepatitis-B are serious diseases)
+headache is not a serious disease) estimates of patients in that group have been reduced.
+
+Page 45
+
+34
+
+Date of Birth Gender
+
+Postal Code Disease Name
+
+Number of patients
+
+≥ 1970
+
+TO
+
+3440*
+
+Flu
+
+80
+
+≥ 1970
+
+TO
+
+3440*
+
+Cancer
+
+10
+
+≥ 1970
+
+TO
+
+3440*
+
+Blood pressure
+
+70
+
+1975 ≤ x ≤1985 E
+
+3440*
+
+Headache
+
+20
+
+1975 ≤ x ≤1985 E
+
+3440*
+
+Glioma
+
+10
+
+1975 ≤ x ≤1985 E
+
+3440*
+
+Hepatitis B
+
+10
+
+Table 3.22. Dataset Obtained as a Result of T-Proximity
+
+3.2. Choosing the Anonymization Method
+Data controllers will decide which of the above methods will be applied to the data they have.
+they make a decision. To the dataset owned when applying anonymizing methods
+It is recommended that data controllers take into account the following features:
+The nature of the data,
+the size of the data,
+The structure of the data in physical environments,
+diversity of data,
+The desired benefit / purpose of processing from the data,
+The frequency of data processing,
+The reliability of the party to which the data will be transferred,
+The effort to make the data anonymized is meaningful,
+The magnitude of the damage that may arise in the event of the anonymity of the data being compromised,
+Distribution/centralization ratio of data,
+Access authorization control of users to relevant data,
+The effort it will take to construct and implement an attack that will disrupt anonymity
+likely to be significant.
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+The data controller, who thinks that he/she has made a data anonymized, may send personal data to other institutions and
+with the use of information that is known to be within the organization or publicly available
+whether the data again identifies a person, with the contracts it will make and the risk
+It is your responsibility to control your analysis.
+
+Page 46
+
+35
+
+3.3. Anonymity Assurance
+Decision to make a personal data anonymized instead of deletion or destruction
+the following conditions must be met. Ensure that these conditions are met
+those responsible must:
+●
+
+●
+
+●
+
+By combining the anonymized dataset with another dataset, anonymity
+not broken,
+A meaningful whole such that one or more values ​can make a record singular.
+unable to create,
+Values ​in the anonymized dataset can combine to produce an assumption or result
+not become.
+
+Due to these risks, data controllers do not have this effect on the data sets they have anonymized.
+As the features listed in the article change, they make checks and anonymity is protected.
+they need to be sure.
+
+3.4. By Reversing Anonymized Data
+Risks of De-anonymization
+Anonymization is the process applied to personal data and the distinctiveness and identity of the dataset.
+These processes are reversed by various interventions,
+the re-identification of the anonymized data and the identification of real persons.
+there is a risk of it becoming pernicious. This is referred to as anonymity degradation.
+Anonymization processes can only be done by manual actions or automated enhanced processes.
+or by hybrid processes consisting of a combination of both types of transactions. But the important thing
+who can access the data after the anonymized data has been shared or disclosed, or
+Measures have been taken to prevent anonymity being compromised by new users who have
+that is.
+To the actions carried out consciously regarding the destruction of anonymity,
+attacks”. These attacks are different by users of different profiles.
+possible with motivations.
+
+Page 47
+
+36
+
+We can collect the motivations of the attacks under the following headings:
+Attacks to test the degree and reliability of anonymity,
+● To put institutions, companies, organizations, a particular person or community in a difficult position.
+and attacks to create reputational risks,
+●
+
+●
+
+Personal data that will arise as a result of anonymity
+attacks made with the aim of obtaining material or moral benefit from values.
+
+Profiles of users executing attacks, depending on the difference in the scenarios listed above
+and access rights also vary. These individuals are in the examples listed below.
+They can have profiles:
+A general user with access to publicly available data,
+● A professional, academician specialized in software, statistics, data mining.
+or researcher,
+●
+
+A user who works in the organization, company, organization or has the right to access the systems,
+● Some other data or systems that work using anonymized data
+user with access
+●
+
+relative, family member or
+his friend.
+
+● The
+
+As a result of the attacks, if the anonymity is broken, the personal data
+There are three different scenarios. These scenarios are;
+The identity of the real person has been fully revealed,
+● The emergence of certain information belonging to a real person,
+● The emergence of a hypothetical information about a person,
+●
+
+can be counted as
+The situation where the identity of the person is completely revealed is mostly anonymous in the hands of the attacker.
+combining the rendered data with another dataset that it has obtained or has access to.
+or encodings of code or aliases used instead of direct identifiers
+may result from deterioration. In such a case, direct identifiers of the natural person
+reached and identity becomes fully detectable.
+
+Page 48
+
+37
+
+In some cases, although the identity may not be fully detectable, a person's relevant anonymity
+a user who knows that he is in the dataset that has been anonymized
+Due to the narrow definition, it can reveal a characteristic of that person. For example,
+shares a single diagnosis and treatment information for all 20-year-old female patients of a hospital
+In the event of this, a person who knows that the 20-year-old woman he knows was treated at that hospital
+learns about the person's illness. In order to prevent these situations, only 20 of the hospital's
+By expanding the age range and gender instead of older female patients, and improving diagnostic and therapeutic information.
+taking measures to ensure the diversity of the individual and a certain person can be distinguished.
+should reduce the probability.
+Similarly, very precise and less diverse, especially of a particular class, group, or community.
+to that group, class, or community if individual information is disclosed or shared.
+It will be allowed to draw hypothetical conclusions about persons known to belong to it.
+For example; of a public body for a single disease for individuals living in a particular geographical area.
+assumptions about all people who have traveled in that geography
+will ensure its implementation.
+In this context, reversing the anonymized personal data with various interventions
+and make the anonymized data re-identifying and distinguishing real persons.
+It should be investigated whether there is a risk of conversion, and action should be established accordingly.
+
+Page 50
+49
+
+IV. GUIDE
+PREPARING
+BENEFICIARY
+RESOURCES and
+EXAMINATION
+WILL BE SUITABLE
+EVALUATED
+DOCUMENTS
+Page 51
+
+40
+Article 29
+
+Article 29 Data Protection Group, Opinion 4/2007 on the concept of personal
+data, 2007, see http://ec.europa.eu/justice/policies/privacy/docs/
+wpdocs/2007/wp136_en.pdf
+
+Article 29
+
+Article 29 Data Protection Group, Opinion 5/2014 on Anonymisation
+Techniques, see http://ec.europa.eu/justice/data-protection/article-29/
+documentation/opinion-recommendation/files/2014/wp216_ en.pdf
+
+Leg
+
+A.Bacak, K-Anonimity and L-Diversity to Publish Data Preserving Privacy
+Methods, 2013, see https://www.bilgiguvenligi.gov.tr/siniflandiril mamis/
+k-anonimity-and-l-diversity--for-privacy-protecting-data-publish
+methods.htm
+
+Barbaro/ Zeller
+
+M.Barbaro, T.Zeller, A Face is Exposed for AOL Searcher No. 4417749, New
+York Times, see http://www.nytimes.com /2006/08/09/technology/09aol.
+html?pagewanted=all&_r=0
+
+Barth-Jones
+
+DCBarth-Jones, The Re-Identification of Governor William Weld's Medical
+Information: A Critical Re-Examination of Health Data Identification Risks
+and Privacy Protections, Then and Now (2012). Available at SSRN: http://
+ssrn.com/abstract=2076397 or http://dx.doi.org/10.2139/ssrn.2076397
+
+Brown/Marsden
+
+I.Brown, CT Marsden, Regulating Code: Good Governance and Better
+Regulation in the Information Age, The MIT Press, 2013
+
+Castells
+
+M. Castells, The Rise of the Network Society, Volume One, trans. E.Kılıç, İstanbul Bilgi
+Publications, 2005
+
+Cavoukian/ El Emam
+
+A.Cavoukian, K.El Emam, De-identification Protocols:Essential for Protecting
+Privacy, Privacy by Design, June 25, 2014. https://www.ipc.on.ca/wpcontent/uploads/Resources/pbd-de-identifcation_essential.pdf
+
+Cavoukian
+
+A.Cavoukian, Privacy By Design, Take the Challenge, Canada, 2009
+
+Page 52
+
+41
+Christen/ Alfano/
+Bangerter/ Lapsley
+
+M.Christen, M.Alfano, E.Bangerter, D.Lapsley, Ethical Issues of Morality
+Mining: Moral Identity as a Focus of Data Mining, Ethical Data Mining
+Applications for Socio- Economic Development, IGI Global, 2013
+
+Chunara/ Andrews/
+Brownstein
+
+R.Chunara, JRAndrews, JS Brownstein, Social and News Media Enable
+Estimation of Epidemiological Patterns Early in the 2010 Haitian Cholera
+See Outbreak, The American Society of Tropical Medicine and Hygiene, 2010.
+http://healthmap.org/documents /Chunara_AJTMH_2012.pdf
+
+Clifton/ Tassa
+
+C.Clifton, T.Tassa, On Syntactic Anonymity and Differential Privacy, 2013
+Trance. Data Privacy 6, 2 (2013), 161-183.
+
+Blacksmith
+
+İ.Demirci, T-Closeness Method To Publish Data Preserving Confidentiality, 2014
+cf. http://www.phphocam.com/t-closeness-method-privacy-preservingfor-data-publish/#sthash.z70qZ2sb.dpuf
+
+Digital Rights Ireland
+and Seitlinger
+
+Judgment in Joined Cases C-293/12 and C-594/12,Digital Rights Ireland and
+Seitlinger and Others, Court of Justice of the European Union , Press Release
+No 54/14, Luxembourg, 8.4.2014
+
+Directive 95/46/EC
+
+Directive 95/46/EC of the European Parliament and of the Council of 24
+October 1995 on the protection of individuals with regard to the processing of
+personal data and on the free movement of such data, Oficial Journal of the
+European Communities of 23 November 1995, No L. 281, p. 31.
+
+Directive 2002/58/EC
+
+Directive 2002/58/EC of the European Parliament and of the Council of 12
+July 2002 concerning the processing of personal data and protection of
+privacy in the electronic communications sector OJ L201/37
+
+Divanis / Loukides
+
+AGDivanis, DGLoukides, Medical Data Privacy Handbook, Springer 2015
+
+Doyle / Lane
+
+P. Doyle, J. Lane, Confidentiality, Disclosure and Data Access: Theory and
+Practical Applications for Statistical Agencies, North-Holland Publishing, Dec
+31, 2001
+
+Page 53
+
+42
+Al-Emam
+
+K.El Emam, Guide to the de-identification of Personal Health Information,
+CRC Press, 2013
+
+El Emam / Arbuckle
+
+K. El Emam, L. Arbuckle, Anonymizing Health Data, O'Reilly, Cambridge, MA.
+2013
+
+European Statistical
+System Project
+(ESSNet)
+
+A. Hundepool, J. Domingo-Ferrer, L. Franconi, S. Giessing, ES Nordholt,
+K.Spicer, PP Wolf, Handbook on Statistical Disclosure Control Version 1.2,
+ESSNet, 2010
+
+European Statistical
+System Project
+(ESSNet)
+
+A.Hundepool, A. De Wetering, R.Ramaswamy, L.Franconi, S.Polettini,
+A. Capobianchi, PPde Wolf, J. Domingo, V. Torra, R. Brand, S. Giessing, μARGUS version 4.2 User's Manual, ESSNet-Project, 2008
+
+Fayyoumi/ Oommen
+
+E.Fayyoumi, BJOommen, A survey on statistical disclosure control and
+micro-aggregation techniques for secure statistical databases. 2010,
+Software Practice and Experience. 40, (2010), 1161-1188. DOI=10.1001/spec.
+v40:12 http://dx.doi.org/10.1002/spe.v40:12
+
+Fung/ Wang/ Chen/ Yu
+
+BCMFung, K.Wang, R.Chen, PSYu, Privacy-Preserving Data Publishing: A
+Survey on Recent Developments, Computing Surveys, June 2010
+
+garfinkel
+
+SLGarfinkel NISTIR 8053 De-Identification of Personal Information,
+2015 see https://www.huntonprivacyblog.com/wp-content/uploads/
+sites/18/2015/10/NIST.IR_.8053.pdf
+
+Gozucuklu
+
+M.Gözüçuk, A Controversial Solution in Data Processing: Data
+Anonymization Istanbul Bilgi University Institute of Social Sciences Law
+Master's Program (Informatics Law), 2014
+
+Bushy
+
+İ.Gür, Argued between the EU and the USA on the Protection of Personal Data
+Disputes, Turhan Bookstore, 2010
+
+Gurses/ Danezis
+
+S.Gürses, G.Danezis, A Critical Review of Ten Years of Privacy Technology,
+UK, 2012
+
+Page 54
+
+43
+Gürses/ Troncoso/ Diaz
+
+S.Gürses, C.Troncoso, C.Diaz, Engineering Privacy by Design, International
+Conference on Privacy and Data Protection (CPDP) Book,
+
+Hilbert
+
+M.Hilbert, Big Data for Development: From Information- to Knowledge
+Societies, United Nations ECLAC, 2013
+
+Honer
+
+J.Honer, US government commits big R&D money to 'Big Data', see http://
+www.zdnet.com/blog/btl/us- government-commits-big-r-andd-moneyto-big-data/72760
+
+Hunter/Letterie
+
+J.Hunter, J.Letterie, IBM harnesses power of Big Data to improve Dutch flood
+control and water management systems, see http://www-03.ibm.com/
+press/us/en/pressrelease/41385.wss
+
+ICO
+
+Office of the Information Commissioner, Privacy by Design, 2008, see http://ico.org.
+uk/for_organisations/data_protection/ topic_guides/~/ media/documents/
+pdb_report_html/ PRIVACY_BY_DESIGN_REPORT_V2.ashx
+
+ICO
+
+Information Commissioner's Office, Anonymization: Managing Data Protection
+See Risk Code of Practice, 2012. http://ico.org.uk/for_ organisations/data_
+protection/topic_guides/anonymisation
+
+ICO
+
+Information Commissioner's Office, Anonymisation: Managing data protection
+risk, Code of Practice 2012, Information Commissioner's Office. https://ico.
+org.uk/media/for-organisations/documents/1061/ anonymisation-code.
+pdf.
+
+Sustenance
+
+G.Irzık, “Information Society or Information Society? Analytical-Critical One
+Approach”, Transition to Information Society Problems Opinions Comments Comments
+
+coot
+
+MRKoot, Measuring and Predicting Anonymity, Gildeprint Drukkerijen, 2012
+
+Korff
+
+D.Korff, Comperative Study on Different Approaches to New Privacy
+Challenges, In Particular in the Light of Technological Developments, Working
+Paper No. 2: Data Protection Laws in the EU: The Difficulties in meeting the
+
+Page 55
+
+44
+challenges posed by global social and technical developments, London
+Metropolitan University, 2010, see http://ec.europa.eu/ justice/policies/
+privacy/docs/studies/new_privacy_challenges/ final_report_working_
+paper _2_en.pdf
+Krishnan
+
+K.Krishnan, Data Warehousing in the Age of Big Data, Newnes, 2013
+
+Kuzeci
+
+E.Küzeci, Protection of Personal Data, Turhan Bookstore, 2010
+
+Lagos / Polonetsky
+
+Y. Lagos, J. Polonetsky, Public vs. Nonpublic Data: The Benefits of
+Administrative Controls, Stanford Law Review Online, 66:103, Sept. 3, 2013
+
+laney
+
+D.Laney, 3D Data Management: Controlling Data Volume, Velocity and
+Variety, META Group, 2001. See. http://blogs.gartner.com/douglaney/
+files/2012/01/ad949-3D-Data-ManagementControlling-Data-VolumeVelocity-and- Variety.pdf
+
+lessig
+
+L. Lessig, Code Version 2.0, Basic Books, 1996
+
+Levine/Roos
+
+JH Levine, HB Roos, Introduction to Data Analysis: The Rules of Evidence,
+cf. http://www.dartmouth.edu/~mss/docs/Volume s_1-2.pdf
+
+Li/Li/
+venkatasubramanian
+
+N.Li, T.Li, S.Venkatasubramanian, t-Closeness: Privacy beyond k-Anonymity
+and l-Diversity, Data Engineering (ICDE) IEEE 23rd International Conference,
+
+Machanavajjhala/
+Gehrke/ Kifer
+
+A. Machanavajjhala, J.Gehrke, D.Kifer, l-Diversity: Beyond Privacy
+k-Anonymity, Cornell University, 2007
+
+McCallister/ Grance/
+Scarfone
+
+E.McCallister, T.Grance, K.Scarfone, Guide to Protecting the Confidentiality of
+Personally Identifiable Information (PII), Special Publication 800-122, National
+Institute of Standards and Technology, US Department of Commerce, 2010
+
+Moore
+
+RA Moore Jr, Controlled Data-Swapping Techniques for Masking Public Use
+Microdata Sets, US Bureau of the Census Washington, 1996
+
+Page 56
+
+45
+Morozov
+
+E.Morozov, The Net Delusion: How not to Liberate World, Penguin Books,
+2011
+
+Narayanan / Shmatikov
+
+A.Narayanan, V.Shmatikov, How to Break Anonymity of the Netflix Prize
+Dataset, The University of Texas, 2008
+
+ohms
+
+P.Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of
+Anonymization, UCLA Law Review, Vol 57, 2010
+
+rate
+
+A.Oram, The Information Technology Fix For Health, OReilly, 2014
+
+Ozdemir
+
+H.Özdemir, Private Law of Personal Data in the Field of Electronic Communications
+Protection According to Its Provisions, Seçkin Publishing, 2009
+
+Ozmen
+
+Ş.I.Özmen, New Trade Route in Network Economy: E-Commerce, İstanbul Bilgi
+University Press, 2012
+
+Pfitzmann / Hansen
+
+A.Pfitzmann, M.Hansen, Anonymity, Unobservability, Pseudonymity, and
+See Identity Management:A Proposal for Terminology. http://dud.inf.tudresden.de/literatur/Anon_Terminology_v0.18.pdf
+
+schmarzo
+
+B.Schmarzo, Big Data:Understanding How Data Powers Big Business, Wiley,
+2013
+
+Simon
+
+P.Simon, Too Big To Ignore:The Business Case for Big Data, Wiley, 2013
+
+Spiekerman / Cranor
+
+S.Spiekerman, LFCranor, Engineering Privacy, IEEE Transactions on
+Software Engineering, Vol. 35, No. 1, 2009
+
+Stream Computing
+Bulletin of IEEE
+
+A. Biem, E. Bouillet, H. Feng, A. Ranganathan, A. Riabov, O. Verscheure,
+H.Koutsopoulos, M.Rahmani, B.Güç, Real-Time Traffic Information
+Management using Stream Computing, see http://sites.computer.org/
+debull/A10june/Anan d.pDf
+
+Page 57
+
+46
+Sweeney
+
+L.Sweeney, k-Anonymity: A Model for Protecting Privacy, Carnegie Mellon
+University, 2002
+
+Swire / Ahmad
+
+PPSwire, K.Ahmad, Foundations of Information Privacy and Data
+Protection, IAPP , 2012
+
+Lightning
+
+O.Şimşek, Protection of Personal Data in Constitutional Law, Beta Press,
+2008
+
+hit
+
+Y.Vural, ρ-Achievement: Publishing Benefit-Based Data with Privacy Protection
+Model Ph.D. Thesis, Hacettepe University Computer Engineering. 2017
+
+Yakowitz
+
+J.Yakowitz, Tragedy of Data Commons, Harvard Journal of Law and
+Technology, Vol.25, 2011
+
+Warren/Brandeis
+
+SDWarren, LDBrandeis, The Right to Privacy, Harvard Law Review, 1890
+
+Wolfe/ Gunasekara/
+bogue
+
+N.Wolfe, L.Gunasekara, Z.Bogue, Crunching Digital Data can help the
+world,
+2011, http://edition.cnn.com/2011/OPINION/02/02/wolfe.
+gunasekara.bogue.data/index.html?_s=PM:O PINION
+
+wu
+
+FTWu, Defining Privacy and Utility in Data Sets, University of Colorado
+Law Review 1117 (2013)
+
+

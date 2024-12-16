@@ -1,0 +1,539 @@
+Page 1
+
+Guidelines for personal information protection in the financial sector
+
+February 2017
+Personal Information Protection Commission
+Financial Services Agency
+
+Page 2
+
+Guidelines for personal information protection in the financial sector
+
+table of contents
+
+Article 1 Purpose, etc. (related to Article 1 of the Act) ........... 1
+Article 2 Identification of purpose of use (related to Article 15 of the Act) ..................... .... 2
+Article 3 Form of Consent (Relationship to Articles 16, 23 and 24 of the Law) ........................ 3
+Article 4 Restrictions on purpose of use (related to Article 16 of the Act) ..................................... 3
+Article 5 Sensitive information ..................................... ..... Four
+Article 6 Notification of purpose of use at the time of acquisition (related to Article 18 of the Act) ........................ 5
+Article 7 Ensuring the accuracy of data contents (related to Article 19 of the Act) ............................ 5
+Article 8 Safety management measures (related to Article 20 of the Act) ..................................... ..... 6
+Article 9 Employee supervision (related to Article 21 of the Act) ..................................... ...... 7
+Article 10 Supervision of contractors (related to Article 22 of the Act) ..................................... ..... 8
+Article 11 Restrictions on provision to third parties (related to Article 23 of the Act) .................................. ... 9
+Article 12 Publication of matters related to retained personal data (related to Article 27 of the Act) .................. 10
+Article 13 Disclosure (related to Article 28 of the Act) .................................................. ......... 11
+Article 14 Explanation of reasons (related to Article 31 of the Act) ..................................... ..... 11
+Article 15 Procedures for responding to requests for disclosure, etc. (related to Article 32 of the Act) ..................... 11
+Article 16 Handling of complaints by businesses handling personal information (related to Article 35 of the Act) .................. 11
+Article 17 Response to cases of leakage of personal information, etc ..................................... 12
+Article 18 Formulation of Personal Information Protection Declaration (Articles 18 and 27 of the Law and Basic Policy) ......... 12
+Article 19 Review of guidelines ...................................................... ..... 13
+
+Page 3
+
+Article 1 Purpose, etc. (related to Article 1 of the Act)
+1 This guideline is the Law Concerning the Protection of Personal Information (Law No. 57 of 2003; hereinafter referred to as the "Law"".
+That is. ), Law Enforcement Ordinance on the Protection of Personal Information (Cabinet Order No. 507 of 2003; hereinafter referred to as "Enforcement Ordinance"
+That is. ), Law Enforcement Regulations on the Protection of Personal Information (2016 Personal Information Protection Commission Regulation No.
+No. 3 Hereinafter referred to as "enforcement rules". ) And Basic Policy on Protection of Personal Information (April 2004)
+Cabinet decision on the 2nd of March. In Article 18, it is called "basic policy". ), To protect personal information
+Guidelines for related laws (general rules) (2016 Personal Information Protection Commission Notification No. 6)
+issue. Hereinafter referred to as "general guidelines". ), Based on Articles 6 and 8 of the Act
+Protection of personal information in the fields under the jurisdiction of the Financial Services Agency (hereinafter referred to as the "financial field")
+Take necessary measures so that special measures can be taken, and the business operator in the field is individual
+It is also defined as a specific guideline to support activities related to ensuring the proper handling of personal information.
+It is.
+For parts not specified in this guideline, general guidelines and personal information
+Guidelines for the Law Concerning the Protection of Information (Provision to Third Parties in Foreign Countries) (2016)
+Year Personal Information Protection Commission Notification No. 7), guidelines (confirmation / recording obligation when provided to a third party)
+(2016 Personal Information Protection Commission Notification No. 8) and the guidelines (anonymously processed information) (flat)
+2016 Personal Information Protection Commission Notification No. 9) is applied.
+2 In accordance with the provisions stated in this guideline that "must be"
+If you do not, it may be judged as a violation of the provisions of the law.
+In addition, it is described as "to be", "appropriate" and "desirable" in this guideline.
+When a business operator handling personal information in the financial field does not comply with the regulations
+In that case, it will not be judged as a violation of the provisions of the law, but the provisions are for personal information in the financial field.
+Regarding the handling of personal information in view of its nature and usage, handling of personal information in the financial field
+It is stipulated as a matter that requires particularly strict measures for businesses, and is an individual in the financial field.
+Businesses handling personal information shall endeavor to comply.
+3 The specific examples described in this guideline are described to the effect of limiting them.
+Please note that it is not a thing and there may be factors to be considered separately depending on the individual case.
+To do.
+4 Authorized personal information protection organizations in the financial field have created or changed personal information protection guidelines, and
+Business associations, etc. in the financial field are associations of business associations, etc. based on the actual conditions and characteristics of the business.
+Create or change voluntary rules (guidelines for business associations, etc.) for member companies, etc.
+In that case, the target business operator or business operator group of the authorized personal information protection group, etc.
+Member companies, etc., when handling personal information, guide the laws and regulations regarding the protection of personal information.
+In addition to the line and this guideline, it is necessary to take measures in accordance with the guideline or rule.
+is there. In particular, in the case of certified personal information protection groups, due to the revision of the law, certified personal information protection groups
+Must take necessary measures to make the target business operator comply with the personal information protection guidelines
+
+1
+
+Page 4
+
+It is also important to keep in mind that it was decided not to do so.
+5 Businesses handling personal information in the financial field prevent leakage, unauthorized leakage, etc. of personal information.
+Therefore, in addition to the laws and regulations regarding the protection of personal information, general guidelines and this guideline,
+It is necessary to establish an appropriate management system for personal information in accordance with relevant laws and regulations.
+
+Article 2 Identification of purpose of use (related to Article 15 of the Act)
+Other than the following items, the general guidelines are used as examples.
+1 When a business operator handling personal information in the financial field specifies the purpose of use in accordance with Article 15 of the Act
+Therefore, for abstract purposes such as "use for the purpose required by the company", "specify as much as possible"
+It doesn't become a thing. The purpose of use is specified after showing the financial products or services to be provided.
+It is desirable to do so, and the following examples can be considered.
+(Example)
+・ Acceptance of our deposits
+・ Our credit judgment and post-credit management
+・ Underwriting of our insurance, payment of insurance claims and benefits
+・ Sales and solicitation of financial products and services of our company or affiliated companies and affiliated companies
+・ Recruitment of insurance for our company or affiliated companies / affiliated companies
+・ Market research and development / research of financial products / services within our company
+・ Confirmation of qualifications when purchasing specific financial products and services
+2 Businesses handling personal information in the financial field have the purpose of using specific personal information based on laws and regulations.
+If it is limited, it shall be clearly stated.
+3 A place where a business operator handling personal information in the financial field acquires personal information in the credit business.
+In that case, we will obtain the consent of the person regarding the purpose of use, and the purpose of use in the contract etc.
+The target shall be clearly separated from other contract clauses. In this case, the business operator is in business
+Personal information acquired in the credit business as a condition of credit by unfairly using the superior position of
+The purpose of use is to use the information for sending direct mail of financial products other than the business concerned.
+You should not act to consent, and the person himself / herself is involved in sending the direct mail, etc.
+The purpose of use can be rejected.
+4 A business operator handling personal information in the financial field uses personal information in the credit business.
+Information agency (to a business operator handling personal information that collects information on individual repayment ability and conducts credit business
+The business is to provide the relevant information. same as below. ), To that effect
+Must be clearly stated in the purpose of use. Furthermore, the consent of the person regarding the specified purpose of use
+To get.
+5 “It is reasonably recognized that it is related to the purpose of use before the change,” as stipulated in Article 15, Paragraph 2 of the Act.
+Regarding "range", the following examples can be considered.
+(Allowable example)
+
+2
+
+Page 5
+
+"Send product information by mail" → "Send product information by email"
+(Example not recognized)
+"Used for questionnaire aggregation" → "Used for mailing product information, etc."
+
+Article 3 Form of Consent (Relationship to Articles 16, 23 and 24 of the Law)
+Other than the following items, the general guidelines are used as examples.
+Businesses handling personal information in the financial field are the books stipulated in Articles 16, 23 and 24 of the Act.
+In principle, when obtaining the consent of a person, this shall be in writing (including electromagnetic records; the same shall apply hereinafter).
+And.
+If the business operator uses a pre-prepared consent document, the size of the characters and the size of the characters
+By changing the wording of the text, the provisions regarding the handling of personal information are clearly distinguished from others.
+It is desirable that the person understands it. Or check the consent document prepared in advance
+Confirm by a method that can clearly reflect the intention of the person, such as providing a column and checking by the person
+It is desirable to do.
+
+Article 4 Restrictions based on purpose of use (related to Article 16 of the Act)
+Other than the following items, the general guidelines are used as examples.
+As an example of the case of Article 16 Paragraph 3 of the Law, General Guidelines 3-1-5 (System based on purpose of use)
+In addition to the cases listed in (Exceptions to the limit), the following cases can be considered.
+① When required by law
+(Example)
+・ Article 8 (1) of the Act on Prevention of Transfer of Criminal Proceeds (Act No. 22 of 2007)
+When filing a suspicious transaction based on the section
+・ Securities based on Articles 210 and 211 of the Financial Instruments and Exchange Act (Act No. 25 of 1948)
+When responding to an investigation of a criminal case by a staff member of the Transaction Monitoring Committee
+In addition, although there is a provision in the law that a third party can request the provision of personal information,
+Personality in the financial sector when it is not possible to respond to it on a legitimate basis
+In light of the purpose of the relevant law, the information handling business operator is recognized as necessary and rational for unintended use.
+Be careful to respond within the range.
+(2) A national institution or a local public body or a person entrusted with it carries out the affairs stipulated by laws and regulations.
+When it is necessary to cooperate with what you do, and by obtaining the consent of the person
+When there is a risk of hindering the performance of the office work.
+(Example)
+・ When providing information about the account used for wire fraud to the police
+In addition, the business operator handling personal information in the financial field has the purpose in light of the purpose of any request.
+Care should be taken to respond within the range where the necessity and rationality of external use are recognized.
+
+3
+
+Page 6
+
+Article 5 Sensitive information
+1 Businesses handling personal information in the financial field are on par with sensitive personal information stipulated in Article 2, Paragraph 3 of the Act.
+Membership in a labor union, hometown, registered domicile, health care and sexual life (of these, individuals requiring consideration
+Excludes information. ) Information (person, national agency, local public body, Law No. 76)
+Those published by the persons listed in each item of Article 1 or Article 6 of the Enforcement Regulations, or
+Excludes those that are apparent on the outside, which are obtained by visually observing or photographing the person.
+Hereinafter referred to as "sensitive information". ), Except for the following cases
+It shall not be acquired, used or provided to a third party.
+① When based on laws and regulations
+② When it is necessary to protect human life, body or property
+③ When there is a particular need to improve public health or promote the sound development of children
+④ A national institution or a local public body or a person entrusted with it carries out the affairs stipulated by laws and regulations.
+If you need to cooperate in doing
+⑤ Political / religious organizations or labor unions to the extent necessary to carry out tax withholding work, etc.
+Acquire and use sensitive information about employees, etc. regarding affiliation or membership
+Or when providing to a third party
+⑥ Sensitivity to the extent necessary to carry out the transfer of rights and obligations through inheritance procedures
+B) When acquiring, using or providing information to a third party
+(7) Consent of the person due to the need to ensure proper business operations in the insurance and other financial fields
+Acquisition, use, or third party of sensitive information to the extent necessary for business execution based on
+When providing
+⑧ Based on the consent of the person, the biometric authentication information corresponding to the sensitive information is confirmed.
+When used for recognition
+2. Businesses handling personal information in the financial field list sensitive information in the preceding paragraph.
+In the case of acquisition, use, or provision to a third party, acquisition, which deviates from the reasons listed in the same paragraph,
+It shall be handled with particular care so as not to use it or provide it to a third party.
+3 Businesses handling personal information in the financial field post sensitive information in paragraph 1.
+When acquiring, using, or providing to a third party, for example, acquiring sensitive personal information
+In order to do so, the consent of the person must be obtained in advance in accordance with Article 17, Paragraph 2 of the Act.
+It is necessary to take appropriate measures in accordance with laws and regulations regarding the protection of personal information.
+Keep in mind that it does not.
+4 Businesses handling personal information in the financial field provide sensitive information to third parties.
+In doing so, the provisions of Article 23, Paragraph 2 (opt-out) of the Act shall not apply.
+Of the sensitive information, sensitive personal information is described in the same section.
+Note that it is not possible to use ptout.
+
+Four
+
+Page 7
+
+Article 6 Notification of purpose of use at the time of acquisition (related to Article 18 of the Act)
+Other than the following items, the general guidelines are used as examples.
+1 Regarding the "notification" stipulated in Article 18, Paragraph 1 of the Act, which is carried out by businesses handling personal information in the financial field.
+As a general rule, it shall be in writing. In addition, regarding "publication" specified in the same paragraph,
+Depending on the business mode such as how to sell your own financial products, you can use the Internet homepage, etc.
+Appropriate methods such as publication of the information, posting of documents at the office counter, etc.
+2. Businesses handling personal information in the financial field shall comply with Article 18, Paragraph 2 of the Act when conducting credit business.
+When acquiring the personal information of the person directly written from the person, the purpose of use is clearly stated.
+It is hoped that the consent of the person will be obtained regarding the purpose of use by providing a confirmation column in the document to be used.
+Good.
+In addition, in the case of credit business, if the consent of the person regarding the purpose of use is obtained at the time of application, the relevant declaration
+Regarding personal information for which consent has been obtained for the purpose of use at the time of inclusion, "Notification" based on Article 18, Paragraph 1 of the Law
+Or, it does not require "publication", but for information acquired after that, the purpose of use should be stated in advance.
+Unless it is announced, the purpose of use must be notified to the person or announced.
+3 As an example of the case of Article 18, Paragraph 4 of the Law, General Guidelines 3-2-5 (Notification of Purpose of Use, etc.)
+In addition to the cases listed in (When it is not necessary to do), the following cases can be considered.
+① By notifying or disclosing the purpose of use to the person, the life, body, of the person or a third party,
+When there is a risk of harming property or other rights and interests
+(Example)
+・ Information on antisocial forces such as gangsters, information on suspicious transaction notifications, transfer fraud
+The provider of information about the account used for and information on malicious persons who interfere with business is reversed.
+When there is a risk of buying a grudge
+(2) Handling of personal information in the financial field by notifying or disclosing the purpose of use to the person
+When there is a risk of harming the rights or legitimate interests of the business operator
+(Example)
+・ The soundness of the company will be revealed by clarifying new services and sales know-how under development.
+When it harms the competition
+・ It will be revealed that we have obtained information about the account used for the transfer fraud.
+If the company that received the information is harmed by
+
+Article 7 Ensuring the accuracy of data contents (related to Article 19 of the Act)
+Other than the following items, the general guidelines are used as examples.
+Businesses handling personal information in the financial field protect personal data of depositors or policyholders.
+Depending on the purpose of use of the personal data held, such as the term of stay within a certain period after the end of the contract
+The same retention period will be set, and personal data that has passed the period will be deleted.
+
+Five
+
+Page 8
+
+Article 8 Safety management measures (related to Article 20 of the Act)
+1 Businesses handling personal information in the financial field leak, lose, or lose the personal data they handle.
+Is a basic policy and handling rules related to safety management to prevent damage and other safety management of personal data.
+Necessary and appropriate measures such as maintenance of the schedule and maintenance of the implementation system related to safety management measures must be taken.
+Must be. Necessary and appropriate measures are taken according to each stage of acquisition, use, storage, etc. of personal data.
+Including "organizational safety management measures", "human safety management measures" and "technical safety management measures"
+Must be one.
+This measure is the rights and interests that the person suffers if personal data is leaked, lost or damaged.
+Record the nature of the business, the handling status of personal data, and personal data in consideration of the magnitude of infringement.
+It shall be based on the risk caused by the nature of the medium.
+For example, a list that can be purchased by an unspecified number of people at any time at a bookstore, and is completely processed by the business operator.
+For those that do not, it is considered unlikely that they will infringe on the rights and interests of individuals.
+To dispose of it, dispose of it without processing it with a document shredding machine, etc., or collect waste products.
+Even if it is issued to, it does not violate the obligation of the business operator's safety management measures.
+2 "Organizational security management measures" in this article refers to security management measures for personal data.
+Clearly define the responsibilities and authorities of the contractor (see Article 21 of the Act), and establish and operate safety management regulations.
+Establishing a system for business operators handling personal information, such as checking and auditing the implementation status of personal information
+It means an implementation measure.
+3 "Personal safety management measures" in this article means non-disclosure contracts of personal data with employees, etc.
+To ensure the safety management of personal data by concluding and implementing education and training for employees
+Supervising employees.
+4 "Technical security management measures" in this article means personal data and information that handles it.
+Security management of personal data such as access control to the stem and monitoring of information systems
+Refers to technical measures.
+5 Businesses handling personal information in the financial field have basic policies and measures regarding the security management of personal data.
+The following "organizational safety management measures" must be taken to improve the handling rules.
+(Organized safety management measures)
+⑴ Maintenance of regulations, etc.
+(1) Development of basic policy regarding security management of personal data
+(2) Development of handling rules related to the safety management of personal data
+③ Establishing rules for checking and auditing the handling status of personal data
+④ Development of regulations related to outsourcing
+⑵ Handling rules for safety management at each management stage
+① Handling rules at the acquisition / input stage
+(2) Handling rules at the usage / processing stage
+③ Handling rules at the storage / preservation stage
+
+6
+
+Page 9
+
+④ Handling rules at the transfer / transmission stage
+⑤ Handling rules at the erasure / disposal stage
+⑥ Handling rules at the stage of responding to leaks, etc.
+6 Businesses handling personal information in the financial field have established an implementation system for the security management of personal data.
+As equipment, the following "organizational safety management measures", "human safety management measures" and "technical safety"
+"Management measures" must be taken.
+(Organized safety management measures)
+① Appointment of a person in charge of managing personal data
+(2) Development of safety management measures in work regulations, etc.
+③ Operation in accordance with the handling rules related to the safety management of personal data
+④ Development of means to check the handling status of personal data
+⑤ Inspection of the handling status of personal data and establishment and implementation of an audit system
+⑥ Establishing a system to respond to leaks, etc.
+(Personal safety management measures)
+① Conclusion of non-disclosure contracts for personal data with employees
+② Clarification of employee roles and responsibilities
+③ Thorough dissemination of safety management measures to employees, education and training
+④ Confirmation of compliance status of personal data management procedures by employees
+(Technical safety management measures)
+① Identification and authentication of users of personal data
+(2) Setting of personal data management classification and access control
+③ Management of access authority to personal data
+④ Measures to prevent leakage and damage of personal data
+⑤ Recording and analysis of access to personal data
+⑥ Recording and analysis of the operating status of information systems that handle personal data
+⑦ Monitoring and auditing of information systems that handle personal data
+
+Article 9 Employee supervision (related to Article 21 of the Act)
+1 Businesses handling personal information in the financial field are required to manage the security of personal data in accordance with Article 21 of the Act.
+Establish an appropriate internal control system so that it can be planned, and necessary and appropriate supervision of its employees
+Must be done.
+The supervision will incur the rights and interests of the individual if personal data is leaked, lost or damaged.
+Considering the magnitude of infringement, risks due to the nature of the business and the handling status of personal data, etc.
+It shall correspond.
+2. The term "employee" as used in this Article means directly or indirectly within the organization of a business operator handling personal information.
+A person who is engaged in the business of a business under the command and supervision of the business, and is a subordinate who has an employment relationship.
+
+7
+
+Page 10
+
+Not only contractors (regular employees, contract employees, part-time employees, part-time employees, part-time employees, etc.)
+Persons who do not have an employment relationship with a contractor (directors, executive officers, directors, corporate auditors, auditors, dispatched employees, etc.)
+Is also included.
+3 Businesses handling personal information in the financial field will deal with employees through the following system development, etc.
+It must be supervised as necessary and appropriate.
+(1) Individuals that employees have learned about their work during their tenure and after they have retired from their jobs.
+Adopt a contract, etc. that informs the data to a third party or does not use it for purposes other than the intended purpose
+To be fastened at the time of use.
+(2) Roles and responsibilities of employees through the formulation of handling rules for the proper handling of personal data
+Clarification and thorough dissemination of safety management obligations to employees, education and training.
+③ In-house safety management measures to prevent employees from taking out personal data, etc.
+Confirmation of compliance status, etc., and inspection and audit system for protection of personal data by employees
+To maintain the degree.
+
+Article 10 Supervision of contractors (related to Article 22 of the Act)
+1 Businesses handling personal information in the financial field entrust all or part of the handling of personal data
+If so, Article 22 of the Act will ensure the safety management of personal data entrusted with its handling.
+In accordance with this, necessary and appropriate supervision of the entrusted person shall be carried out.
+The supervision will incur the rights and interests of the individual if personal data is leaked, lost or damaged.
+Considering the magnitude of infringement, the scale and nature of the outsourced business, the handling status of personal data, etc.
+It shall be based on the risk caused by.
+2 “Consignment” includes personal information handling businesses in the financial field, regardless of the type or type of contract.
+Any contract that involves having another person handle all or part of your personal data
+Including.
+3 Businesses handling personal information in the financial field recognize that they handle personal data properly.
+In addition to selecting and entrusting the person to be handled, the security management measures for personal data entrusted with the handling are shown in the figure.
+It is necessary to secure measures for the security management of personal data even at the contractor so that it can be done.
+Not. If two or more stages of consignment are made, the contractor's business operator will be the subcontractor, etc.
+It is also necessary to supervise whether or not the business operator is sufficiently supervised.
+Specifically, a business operator handling personal information in the financial field shall, for example, implement the following.
+(1) For the safety management of personal data, it is related to the maintenance and safety management of the organizational system at the contractor.
+The contents of the formulation of basic policies and handling rules are set as the criteria for selecting contractors, and the criteria are set regularly.
+I have to review it.
+When selecting an outsourcer, go to a place where personal data is handled as necessary.
+Or, after confirming by a rational method instead of this, the person in charge of personal data management, etc.
+Appropriate evaluation is desirable.
+
+8
+
+Page 11
+
+(2) Authority regarding supervision, auditing, and report collection of the consignor, leakage of personal data at the consignor
+Places where plagiarism, falsification, prohibition of unintended use, conditions related to subcontracting, leaks, etc. occur
+Incorporate safety management measures that include the responsibilities of the joint contractor into the consignment contract, and regularly
+Comply with the safety management measures, etc. stipulated in the consignment contract on a regular or occasional basis by conducting audits, etc.
+It is necessary to confirm the observance status and review the safety management measures.
+In addition, regarding the compliance status of safety management measures, etc. stipulated in the consignment contract, personal data management responsibility
+Appropriate evaluation, including consideration by the person in charge, to review the safety management measures, etc.
+Is desirable.
+If the subcontractor intends to subcontract, the consignor will subcontract in the same way as when subcontracting.
+Consignment of the other party, the business content to be subcontracted, the handling method of personal data of the subcontractor, etc.
+Conduct regular audits, either directly or through a contractor, requesting prior reporting or approval procedures
+The subcontractor shall properly supervise the subcontractor in this Article over the subcontractor.
+It is desirable to fully confirm that the contractor will take safety management measures based on Article 20 of the Act.
+I. The same shall apply to the case where the subcontractor subcontracts again and thereafter.
+
+Article 11 Restrictions on provision to third parties (related to Article 23 of the Act)
+Other than the following items, the general guidelines are used as examples.
+1 Businesses handling personal information in the financial field shall be provided with third parties in accordance with Article 23 of the Act.
+As a general rule, when obtaining the intention, it shall be in writing, and through the description in the document,
+① Third party who provides personal data
+(2) Purpose of use by the provided third party
+③ Contents of information provided to a third party
+Will be obtained after making the person aware of.
+2 Provision to personal credit information agencies
+When personal data is provided to a personal credit information agency, go through the personal credit information agency.
+Since the information will be provided to the member companies of the institution, the personal credit information institution will be individually provided.
+A business operator handling personal information in the financial field that provides personal data shall obtain the consent of the individual.
+To
+In obtaining consent from the person, the person himself / herself collects personal data through a personal credit information agency.
+Make a decision on consent, clearly recognizing that it will also be provided to member companies of the institution.
+I will be able to do it. For this reason, the business operator shall write the consent in the preceding paragraph.
+In addition to the matters specified in, the statement that personal data will be provided to the member companies of the institution and this
+The person who uses personal data as a member company of the institution will be displayed.
+The indication of "a person who uses personal data as a member company of the institution" is "a member company of the institution".
+It is an objective and clear indication to the person of the extension of "a person who uses personal data as a business".
+Is necessary, the method of describing the name of the member company, the rules of the institution, etc. and the member company
+
+9
+
+Page 12
+
+Internet homepage that constantly publishes the business name (contact information for grievance processing, etc.)
+Whether or not the person agrees by the method of entering the address (which describes the contents of Article 18)
+It means to show with concreteness enough to judge. In addition, personal credit information to be displayed to the person
+It is said that the terms and conditions of the news agency clearly indicate the qualifications for joining the institution and the extension of member companies.
+In addition, from the perspective of proper management of personal data and prevention of unintended use of information, the safety management system
+It is appropriate to clearly state maintenance, compliance with confidentiality, and sanctions for violations.
+Businesses handling personal information in the financial field demand funds from personal credit information agencies.
+
+For information on the repayment ability of a person, for purposes other than investigating the repayment ability of the fund demander.
+Handle with care so as not to use it.
+3 Application of the provisions of Article 23, Paragraph 2 (opt-out) of the Act in credit business
+Businesses handling personal information in the financial field are concerned with the ability of individuals to repay their credit business.
+The provisions of Article 23, Paragraph 2 of the Act shall not apply when providing information to personal credit information agencies.
+And, the consent of the person shall be obtained in accordance with the preceding paragraph.
+4 Notifications, etc. stipulated in Article 23, Paragraph 5, Item 3 of the Act (Notifications, etc. for shared use)
+Businesses handling personal information in the financial field are required to submit the "Notice" stipulated in Article 23, Paragraph 5, Item 3 of the Act.
+As a general rule, it shall be in writing.
+Notification of "range of joint users" by a business operator handling personal information in the financial field, etc.
+It is desirable to list the people who will use it jointly. Also, jointly profit
+When notifying the person by showing the extension of the person who uses it, the person can easily understand it.
+It is necessary to specifically identify the people who will use it jointly. As a concrete example showing extension
+Is
+・ Our subsidiary listed in our company and securities reports, etc.
+・ Company consolidated by the Company and the equity method as stated in the Company and securities reports, etc.
+the company
+Such a method is appropriate.
+In addition, the same item is for all persons other than "the person responsible for the management of personal data" specified in the same item.
+It should be noted that this does not mean that the person who uses the service is exempted from the responsibility for safety management.
+
+Article 12 Publication of matters related to retained personal data (related to Article 27 of the Act)
+Other than the following items, the general guidelines are used as examples.
+Businesses handling personal information in the financial field regarding retained personal data in accordance with Article 27 of the Act
+When placing matters in a state that the person can know, the mode of business such as how to sell their own financial products
+It is necessary to use an appropriate method accordingly, and as a method of continuous publication, for example, Article 18
+Always posted on the Internet homepage together with the "Personal Information Protection Declaration" stipulated in
+It is conceivable that the information will be posted, or that it will be posted and installed at the counter of the office at all times.
+
+Ten
+
+Page 13
+
+Article 13 Disclosure (related to Article 28 of the Act)
+Other than the following items, the general guidelines are used as examples.
+As an example of the case of Article 28, Paragraph 2, Item 2 of the Law, General Guidelines 3-5-2 (Owned Individual Degree)
+In addition to the cases listed in (Disclosure of data), the following cases can be considered.
+(Example)
+・ When a request for disclosure of information added by a business operator handling personal information such as credit examination details is received
+・ A place where disclosure of retained personal data hinders proper implementation of evaluations and tests
+Go
+・ When there is a risk that corporate secrets will be revealed
+In addition, just because the amount of retained personal data to be disclosed is large, it is the place of Article 28, Paragraph 2, Item 2 of the Law.
+Not applicable.
+
+Article 14 Explanation of reasons (related to Article 31 of the Act)
+Businesses handling personal information in the financial field shall comply with Article 31 of the Act, Article 27, Paragraph 3 and 28 of the Act.
+Requested or requested by the person pursuant to the provisions of Article 3, Article 29, Paragraph 3 or Article 30, Paragraph 5
+When notifying that all or part of the requested measures will not be taken or its
+When notifying the person to take a measure different from the measure, when explaining the reason to the person
+The grounds and grounds for the decision not to take measures or to take different measures
+I will show the fact that becomes.
+
+Article 15 Procedures for responding to requests for disclosure, etc. (related to Article 32 of the Act)
+Other than the following items, the general guidelines are used as examples.
+1 Businesses handling personal information in the financial field receive requests for disclosure, etc. in accordance with Article 32 of the Act.
+If you decide how to do this, please contact us together with the "Declaration of Protection of Personal Information" stipulated in Article 18.
+-Always post on the net homepage, or post and equip at the office window, etc.
+It will be done.
+2 The person who makes a request for disclosure, etc., based on Article 32, Paragraph 3 of the Act and Article 10, Item 3 of the Enforcement Ordinance is the person himself / herself.
+Or, it is sufficient to determine the method of confirming that you are the agent specified in Article 11 of the Cabinet Order.
+In addition, care should be taken to ensure that the confirmation procedure is appropriate.
+In addition, the business operator responds to the request for disclosure, etc. by the agent of Article 11, Item 2 of the Enforcement Ordinance.
+Only direct disclosure is not prevented.
+
+Article 16 Handling of complaints by businesses handling personal information (related to Article 35 of the Act)
+Other than the following items, the general guidelines are used as examples.
+As an example of the development of the necessary system stipulated in Article 35, Paragraph 2 of the Law, General Guidelines 3-6 (individuals)
+Employees who handle complaints other than those listed in (Grievance processing regarding the handling of personal information)
+
+11
+
+Page 14
+
+Sufficient education and training can be considered.
+
+Article 17 Response to cases of leakage of personal information, etc.
+1 Businesses handling personal information in the financial field are cases of leakage of personal information or anonymously processed information.
+The description, etc. deleted from the personal information used to create the personal information, the personal identification code, and Article 36, Paragraph 1 of the Act.
+Leakage of information regarding processing methods performed according to regulations (hereinafter referred to as "leakage of personal information, etc."
+Proposal, etc. " ) Accidents will be reported immediately to the supervisory authorities.
+2 Businesses handling personal information in the financial field have accidents such as leakage of personal information, etc.
+In that case, from the perspective of preventing secondary damage and avoiding the occurrence of similar cases, the facts of the case, etc.
+The person in charge and measures to prevent recurrence will be announced as soon as possible.
+3 Businesses handling personal information in the financial field have accidents such as leakage of personal information, etc.
+In that case, promptly notify the person who was the subject of the case, etc. of the facts of the case, etc.
+And so on.
+
+Article 18 Formulation of Personal Information Protection Declaration (Articles 18 and 27 of the Law and Basic Policy)
+1 Businesses handling personal information in the financial field shall set in advance the policy for dealing with personal information.
+Considering the importance of explaining in an easy-to-understand manner, the way of thinking about the protection of personal information of businesses and
+Policy declarations (so-called privacy policies, privacy statements, etc.).
+In this guideline, it is called "Personal Information Protection Declaration". ), For example,
+The contents are always posted on the Internet homepage or posted / equipped at the office counter, etc.
+It will be announced by the public.
+(1) Comply with relevant laws and regulations, do not use personal information for purposes other than the intended purpose, and take appropriate measures for handling complaints.
+Declaration of action policy for personal information protection such as assembling
+(2) Easy to understand procedures such as notification / publication of the purpose of use of personal information in Article 18 of the Act
+Explanation
+③ Minutes about procedures related to the handling of personal information, such as procedures for disclosure, etc. in Article 27 of the Act
+Easy-to-understand explanation
+④ Contact point for handling questions and complaints regarding the handling of personal information
+2 The personal information protection declaration states the characteristics of business activities from the perspective of protecting the rights and interests of consumers, etc.
+It is desirable to include as much description as possible in consideration of the following points according to the scale and actual situation.
+Castanopsis.
+(1) Direct mail will be sent when requested by the person regarding the retained personal data.
+Voluntarily respond to suspension of use, etc.
+(2) Promote transparency of consignment processing, such as clarifying the presence or absence of consignment and the content of the consigned office work.
+When.
+(3) The business operator may limit the purpose of use for each type of customer in consideration of the business content.
+
+12
+
+Page 15
+
+It is beneficial for the person, such as the business operator voluntarily working to limit the purpose of use according to the person's choice.
+To make the purpose clearer.
+④ Specify the source of personal information or the method of obtaining it (type of source, etc.) as specifically as possible.
+To do.
+
+Article 19 Review of guidelines
+The way of thinking about the protection of personal information is the change of social situation, the change of public perception, the advancement of technology.
+It may change depending on the progress, international trends, etc., and this guideline is the situation after the enforcement of the law.
+It shall be reviewed as necessary in consideration of changes in various environments.
+
+13
+
+

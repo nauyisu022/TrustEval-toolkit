@@ -1,0 +1,2401 @@
+Page 1
+
+MEDIA CENTER | GLOSSARY | NEED HELP | PRESS | FR- EN | COOKIES MANAGEMENT
+
+PARTICULAR
+
+PROFE SSIONNEL
+
+MY STEPS
+THEMATIC APPROACHES
+THEMES TECHNOLOGIES
+OFFICIAL TEXT TECHNOLOGIES
+CNIL OFFICIAL TEXTS CNIL
+> The national framework> The “Informatique et Libertés” law
+
+The Data Protection Act
+June 17, 2019
+
+Law n ° 78-17 of January 6, 1978 relating to data processing, files and freedoms.
+Since June 1,er2019, the law of January 6, 1978, known as "Informatique et Libertés", is in force in a
+new drafting. It includes in particular the provisions relating to "national leeway"
+authorized by the General Data Protection Regulation (GDPR) that the legislator has chosen to exercise
+as well as the transposition measures into French law of the “police-justice” Directive .
+The reading of the law is simplified by this new wording. It specifies the different regimes
+applicable depending on the nature of the processing operations concerned: processing under the GDPR, processing
+"Police-justice", processing relating to national defense or State security, etc. It also includes
+common provisions, applicable to all processing.
+As a reminder, the “Informatique et Libertés” law is not intended to take over in full the provisions of the
+GDPR, even if it expressly refers to it in certain cases. For processing operations falling under the GDPR, the
+a good understanding of the legal framework therefore presupposes reading the GDPR and the law of 6
+January 1978.
+The law "Informatique et Libertés", in this new wording, is finally fully applicable in all
+Oversea territories.
+▶ Find out more about the entry into force of the new Data Protection Act
+
+Summary
+Title I: Common provisions
+Chapter I - Principles and definitions
+Article 1
+Article 2
+
+er
+
+Article 3
+Article 4
+Article 5
+Article 6
+Article 7
+Chapter II: The National Commission for Informatics and Freedoms
+Section 1: Organization and missions
+Article 8
+Article 9
+Article 10
+Article 11
+Article 12
+Article 13
+Article 14
+Article 15
+Article 16
+Article 17
+Article 18
+Section 2: Control of the implementation of processing
+Article 19
+Section 3: Corrective measures and sanctions
+Article 20
+Article 21
+Article 22
+Article 23
+Section 4: Cooperation
+Article 24
+Article 25
+Article 26
+Article 27
+Article 28
+Article 29
+Chapter III: Special provisions relating to the registration number of
+persons in the national identification directory of natural persons
+Article 30
+Chapter IV: Formalities prior to the implementation of processing
+Article 31
+Article 32
+Article 33
+Article 34
+Article 35
+Article 36
+Chapter V: Obligations of data controllers and rights of
+people
+Article 37
+Article 38
+Article 39
+Chapter VI: Criminal provisions
+Article 40
+Article 41
+Title II: Processing covered by the personal data protection regime
+provided for by Regulation (EU) 2016/679 of April 27, 2016
+Chapter I: General provisions
+Article 42
+Article 43
+Article 44
+Article 45
+Article 46
+Article 47
+Chapter II: Rights of the data subject
+Article 48
+Article 49
+Article 50
+Article 51
+Article 52
+Article 53
+Article 54
+Article 55
+Article 56
+Chapter III: Obligations of the controller and the processor
+Section 1: General obligations
+Article 57
+Article 58
+Article 59
+Article 60
+Article 61
+Section 2: Obligations in the event of processing likely to give rise to a risk
+high for the rights and freedoms of individuals
+Article 62
+Article 63
+Section 3: Processing of personal data in the field of
+health
+Article 64
+Sub-section 1: General provisions
+Article 65
+Article 66
+Article 67
+Article 68
+Article 69
+Article 70
+Article 71
+Sub-section 2: Special provisions relating to processing at
+for research, study or evaluation in the field of health
+Article 72
+Article 73
+Article 74
+Article 75
+Article 76
+Article 77
+Section 4: Processing for archival purposes in the public interest, for the purposes of
+scientific or historical research or for statistical purposes.
+Article 78
+Article 79
+Section 5: Processing of personal data for journalism purposes
+and literary and artistic expression.
+Article 80
+Chapter IV: Rights and obligations specific to processing in the
+electronic communications.
+Article 81
+Article 82
+Article 83
+Chapter V: Provisions governing the processing of personal data
+relating to deceased persons.
+Article 84
+Article 85
+Article 86
+Title III: Provisions applicable to processing operations falling under Directive (EU) 2016/680
+of the European Parliament and of the Council of 27 April 2016 on the protection of
+natural persons with regard to the processing of personal data by
+competent authorities for the prevention and detection of criminal offenses,
+investigation and prosecution in the matter or the execution of criminal sanctions, and at the
+circulation of these data, and repealing Council Framework Decision 2008/977 / JHA
+Chapter I: General provisions.
+Article 87
+Article 88
+Article 89
+Article 90
+Article 91
+Article 92
+Article 93
+Article 94
+Article 95
+Article 96
+Chapter II: Obligations incumbent on the competent authorities, on those responsible for
+processing of personal data and to subcontractors.
+Article 97
+Article 98
+Article 99
+Article 100
+Article 101
+Article 102
+Article 103
+Chapter III: Rights of the data subject
+Article 104
+Article 105
+Article 106
+Article 107
+Article 108
+Article 109
+Article 110
+Article 111
+Chapter IV: Transfers of personal data to States
+not belonging to the European Union or to recipients established in
+States not belonging to the European Union.
+Article 112
+Article 113
+Article 114
+Title IV: Provisions applicable to processing relating to State security and
+defense
+Article 115
+Article 116
+Article 117
+Article 118
+Article 119
+Article 120
+Chapter II: Other provisions.
+Section 1: Obligations incumbent on the data controller.
+Article 121
+Section 2: Obligations of the subcontractor
+Article 122
+Section 3: Transfers of personal data to States
+not belonging to the European Union or to recipients established in
+States not belonging to the European Union
+Article 123
+Article 124
+Title V: Provisions relating to overseas territories
+Article 125
+Article 126
+Article 127
+Article 128
+
+Title I: Common provisions
+er
+
+Chapter I - Principles and definitions
+Article 1
+
+Information technology must be at the service of every citizen. Its development must take place within the framework of
+international cooperation. It must not undermine human identity, human rights, or
+private life, or individual or public freedoms.
+The rights of individuals to decide and control the uses which are made of the personal data
+concerning and the obligations incumbent on the persons who process these data are exercised within the framework of the
+Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, of Directive (EU) 2016/680
+of the European Parliament and of the Council of April 27, 2016 and of this law.
+Article 2
+
+This law applies to automated processing of all or part of personal data, as well as
+that the non-automated processing of personal data contained or called to appear in
+files, when their manager fulfills the conditions provided for in article 3 of this law, with the exception of
+processing carried out by natural persons for the exercise of strictly personal activities or
+domestic workers.
+Constitutes a personal data file any structured set of personal data
+accessible according to determined criteria, whether this set is centralized, decentralized or distributed in a
+functional or geographic.
+Unless otherwise provided, within the framework of this law the definitions of article 4 of the
+Regulation (EU) 2016/679 of April 27, 2016.
+Article 3
+
+I. - Without prejudice, with regard to the processing operations falling within the scope of Regulation (EU) 2016/679 of 27
+April 2016, the criteria provided for in article 3 of this regulation, all the provisions of this law
+apply to the processing of personal data carried out in the context of the activities of a
+establishment of a controller or subcontractor on French territory, that the processing
+takes place or not in France.
+II. - National rules adopted on the basis of the provisions of the same regulation referring to the law
+national care to adapt or supplement the rights and obligations provided for by this regulation therefore apply
+that the data subject resides in France, including when the data controller is not established in
+France.
+However, when one of the processing operations mentioned in 2 of article 85 of the same regulation is involved, the rules
+national laws mentioned in the first paragraph of II are those to which the controller reports, when he is
+established in the European Union.
+Article 4
+
+Personal data must be:
+1 ° Processed lawfully, fairly and, for processing covered by Title II, transparent with regard to the
+concerned person ;
+2 ° Collected for specific, explicit and legitimate purposes, and not to be processed subsequently
+manner incompatible with these purposes. However, further processing of data for archival purposes
+in the public interest, for scientific or historical research purposes, or for statistical purposes is considered
+as compatible with the initial purposes of data collection, if it is carried out in accordance with the
+provisions of Regulation (EU) 2016/679 of April 27, 2016 and of this law, applicable to such processing
+and if it is not used to make decisions with regard to the persons concerned;
+3 ° Adequate, relevant and, with regard to the purposes for which they are processed, limited to what is
+necessary or, for treatments covered by Titles III and IV, not excessive;
+4 ° Accurate and, if necessary, kept up to date. All reasonable steps must be taken to ensure that
+personal data which are inaccurate, having regard to the purposes for which they are processed, either
+erased or corrected without delay;
+5 ° Kept in a form allowing the identification of the persons concerned for a period
+not exceeding that necessary with regard to the purposes for which they are processed. However, the data at
+personal character may be kept beyond this period insofar as they are processed
+exclusively for archival purposes in the public interest, for scientific or historical research purposes, or
+for statistical purposes. The choice of data kept for archival purposes in the public interest is made
+under the conditions provided for in Article L. 212-3 of the Heritage Code;
+6 ° Processed in such a way as to guarantee appropriate security of personal data, including
+protection against unauthorized or unlawful processing and against original loss, destruction or damage
+accidental, or access by unauthorized persons, using technical or organizational measures
+appropriate.
+Article 5
+
+Processing of personal data is only lawful if and to the extent that it fulfills at least one
+of the following conditions:
+1 ° The processing, when it falls under Title II, has received the consent of the data subject, under the conditions
+mentioned in 11 of article 4 and in article 7 of regulation (EU) 2016/679 of 27 April 2016 previously
+mentionned ;
+2 ° The processing is necessary for the performance of a contract to which the data subject is a party or for the performance
+pre-contractual measures taken at the latter's request;
+3 ° The processing is necessary for compliance with a legal obligation to which the controller is
+submitted ;
+4 ° The processing is necessary to protect the vital interests of the data subject or of another
+Physical person ;
+5 ° The processing is necessary for the performance of a task of public interest or relating to the exercise of authority
+public vested in the controller;
+6 ° Except for processing carried out by public authorities in the performance of their duties, the
+processing is necessary for the purposes of the legitimate interests pursued by the controller or by a
+third party, unless the interests or fundamental rights and freedoms of the data subject prevail.
+require the protection of personal data, in particular when the data subject is a
+child.
+Article 6
+
+I. - It is forbidden to process personal data that reveal the alleged racial origin or
+ethnicity, political opinions, religious or philosophical beliefs or affiliation
+union of a natural person or to process genetic data, biometric data for the purposes of
+uniquely identify a natural person, health data or data
+concerning the sexual life or sexual orientation of a natural person.
+II. - The exceptions to the prohibition mentioned in I are fixed under the conditions provided for in 2 of article 9
+of Regulation (EU) 2016/679 of April 27, 2016 and by this law.
+III. - Likewise, processing, automated or not, justified by
+the public interest and authorized in accordance with the procedures provided for in II of article 31 and in article 32.
+Article 7
+
+The provisions of this law do not preclude the application, for the benefit of third parties, of the provisions
+relating to access to administrative documents and public archives.
+Consequently, the holder cannot be regarded as an unauthorized person within the meaning of 6 ° of article 4.
+a right of access exercised in accordance with other legislative and regulatory provisions relating to access
+administrative documents and public archives.
+
+Chapter II: The National Commission for Informatics and Freedoms
+Section 1: Organization and missions
+Article 8
+
+I. - The National Commission for Informatics and Freedoms is an independent administrative authority. It
+is the national supervisory authority within the meaning and for the application of Regulation (EU) 2016/679 of April 27, 2016.
+It performs the following missions:
+1 ° It informs all data subjects and all data controllers of their rights and
+obligations and can, to this end, provide appropriate information to local authorities, their
+groups and small and medium-sized enterprises;
+2 ° It ensures that the processing of personal data is carried out in accordance with the
+
+provisions of this law and other provisions relating to the protection of personal data
+provided for by laws and regulations, European Union law and commitments
+international from France.
+As such:
+a) It gives an opinion on the treatments mentioned in Articles 31 and 32;
+b) It establishes and publishes guidelines, recommendations or benchmarks intended to facilitate the implementation
+compliance of the processing of personal data with the texts relating to data protection at
+personal character and to carry out a prior risk assessment by the data controllers and their
+subcontractors. It encourages the development of codes of conduct defining the obligations incumbent on
+data controllers and their subcontractors, taking into account the risk inherent in data processing
+of a personal nature for the rights and freedoms of natural persons, in particular minors. It
+approves and publishes the reference methodologies intended to promote compliance with
+personal health data. It takes into account, in all areas of its action, the situation
+people without digital skills, and the specific needs of local authorities,
+their groups and micro, small and medium-sized enterprises;
+c) In consultation with public and private organizations representing the actors concerned, it establishes and
+publish model regulations to ensure the security of personal data processing systems
+personnel and to govern the processing of biometric, genetic and health data. As such, except for
+processing carried out on behalf of the State acting in the exercise of its prerogatives of power
+public, it may prescribe additional measures, in particular technical and organizational
+processing of biometric, genetic and health data in application of 4 of Article 9 of Regulation (EU)
+2016/679 of April 27, 2016 and additional guarantees regarding the processing of personal data
+personnel relating to criminal convictions and offenses in accordance with article 10 of the same
+regulation;
+d) It deals with complaints, petitions and complaints lodged by a data subject or by an organization,
+an organization or association, examines or investigates the subject-matter of the complaint, to the extent
+necessary, and inform the complainant of the progress and outcome of the investigation within a
+reasonable, especially if further investigation or coordination with another supervisory authority
+is necessary ;
+e) It responds to requests for advice from the public authorities and, where applicable, the courts, and advises the
+people and organizations that implement or plan to implement automated processing
+personal data;
+f) It gives notice without delay to the public prosecutor, under the conditions provided for in Article 40 of the Code of
+criminal procedure, when it becomes aware of a felony or misdemeanor, and can present observations
+in criminal proceedings, under the conditions provided for in article 41 of this law;
+g) It may, by special decision, appoint one or more of its members or the secretary general, in the
+conditions provided for in article 19 of this law, to proceed or to have proceeded by the agents of its services
+to verifications relating to all processing and, where applicable, to obtain copies of all documents or
+information media useful for its missions;
+h) It may decide to certify persons, products, data systems or procedures for the purposes
+to recognize that they comply with Regulation (EU) 2016/679 of April 27, 2016 and this law. She takes
+taking into consideration, to this end, the specific needs of local authorities, their groupings and
+micro, small and medium enterprises. It approves, for the same purposes, organizations
+certifiers, on the basis, where applicable, of their accreditation by the national accreditation body
+mentioned in b of 1 of article 43 of the same regulation or decides, jointly with this body, that this
+the latter proceeds to their approval, under conditions specified by decree in Council of State taken after opinion of the
+National Commission for Informatics and Freedoms. The commission develops or approves the criteria for
+certification and accreditation benchmarks;
+i) It may certify or approve and publish general standards or methodologies for the purposes of
+certification, by approved or accredited third parties according to the methods mentioned in h of this 2 °, of the
+compliance with this law on the anonymization process of personal data, in particular with a view to
+the reuse of public information posted online under the conditions provided for in Title II of Book III of
+code of relations between the public and the administration.
+Such certification is taken into account, if applicable, for the implementation of the sanctions provided for in the
+section 3 of this chapter;
+j) It responds to requests or referrals provided for in Articles 52, 108 and 118;
+k) It may establish a list of processing operations likely to create a high risk which must be subject to
+prior consultation in accordance with Article 90;
+l) It carries out awareness-raising actions among consumer mediators and public mediators,
+within the meaning of Article L. 611-1 of the Consumer Code, with a view to the proper application of this law;
+3 ° On request or on its own initiative, it issues a label to products or procedures aimed at
+protection of personal data, attesting to their compliance with the provisions of this law. The
+President may, when the complexity of the product or the procedure justifies it, have recourse to any person
+independent qualified to carry out their assessment. The cost of this assessment is borne by
+the company applying for the label; it withdraws the label when it notes, by any means, that the conditions which
+allowed its issuance are no longer satisfied;
+4 ° It keeps itself informed of the evolution of information technologies and makes public its
+assessment of the resulting consequences for the exercise of the rights and freedoms mentioned in Article 1;
+As such:
+a) It is consulted on any bill or decree or any provision of a bill or decree relating to
+the protection of personal data or the processing of such data. It can also be
+consulted by the President of the National Assembly, by the President of the Senate or by the committees
+competent authorities of the National Assembly and the Senate as well as at the request of a parliamentary group president
+on any proposed law relating to the protection of personal data or the processing of such
+data. In addition to the cases provided for in Articles 31 and 32, when a law provides that a decree or an order is made after
+opinion of the commission, this opinion is published with the decree or order;
+b) It proposes to the Government legislative or regulatory measures to adapt the protection of
+freedom to develop IT and digital processes and techniques;
+c) At the request of other independent administrative authorities, it may provide assistance in matters of
+Data protection ;
+d) It can be associated, at the request of the Prime Minister, in the preparation and definition of the position
+French in international negotiations in the field of personal data protection
+staff. It can participate, at the request of the Prime Minister, in the French representation in
+international organizations and the European Union competent in this field;
+e) It leads a reflection on the ethical problems and the social questions raised by the evolution of
+computer and digital technologies;
+f) It promotes, as part of its missions, the use of technologies to protect privacy,
+in particular data encryption technologies;
+5 ° It may present observations before any court on the occasion of a dispute relating to the application of the
+this law and the provisions relating to the protection of personal data provided for by the texts
+laws and regulations, European Union law, in particular Regulation (EU) 2016/679 of 27
+April 2016, and France's international commitments.
+II. - For the accomplishment of its missions, the commission may proceed by way of recommendation and
+take individual or regulatory decisions in the cases provided for by this law.
+The commission presents each year to the President of the Republic and to the Prime Minister a public report
+reporting on the performance of its mission.
+Article 9
+
+I. - The National Commission for Informatics and Freedoms is made up of eighteen members:
+1 ° Two deputies and two senators, appointed respectively by the National Assembly and by the Senate in a manner
+to ensure pluralistic representation;
+2 ° Two members of the Economic, Social and Environmental Council, elected by this assembly;
+3 ° Two members or former members of the Council of State, of a rank at least equal to that of advisor, elected by
+the general assembly of the Council of State;
+4 ° Two members or former members of the Court of Cassation, of a rank at least equal to that of adviser,
+elected by the general assembly of the Court of Cassation;
+5 ° Two members or former members of the Court of Auditors, of a grade at least equal to that of adviser
+master, elected by the general assembly of the Court of Auditors;
+6 ° Three personalities qualified for their knowledge of digital technology and questions relating to freedoms
+individual, appointed by decree;
+7 ° Two personalities qualified for their knowledge of digital technology and questions relating to freedoms
+individual, appointed respectively by the President of the National Assembly and by the President of the Senate;
+8 ° The president of the Commission for access to administrative documents, or his representative.
+It also includes, in an advisory capacity, the Defender of Rights or his representative.
+The two members appointed or elected by the same authority in application of 1 ° to 5 ° are a woman and a
+man. The three members mentioned in 6 ° include at least one woman and one man.
+The two members mentioned in 7 ° are a woman and a man. For the application of this rule, the member
+succeeding a woman is a man and the one succeeding a man, a woman. However, the new
+appointed member is of the same sex as the one he replaces, i.e. in the event of termination of the mandate before its expiry
+normal, or in the event of renewal of the mandate of the other member mentioned in 7 °.
+According to terms set by decree in the Council of State, the college is, with the exception of its president, renewed
+by half every two years and six months.
+The president is appointed by decree of the President of the Republic from among the members for the duration of his
+mandate. The committee elects from among its members two vice-presidents, including a deputy vice-president. The president and the
+vice-presidents make up the office.
+The president performs his duties on a full-time basis. Its function is incompatible with any detention, direct or
+indirect, interests in a company in the electronic communications or IT sector.
+The term of office of president is five years.
+The president of the commission receives a salary equal to that relating to the second of the two categories
+higher state jobs classified off-scale.
+If necessary, the deputy vice-president exercises the powers of the president.
+The Secretary General is responsible for the operation and coordination of the services under the authority of the
+President.
+The restricted formation of the commission is composed of a president and five other members elected by the
+commission within it. The members of the office are not eligible for the restricted training.
+In the event of a tie vote, that of the president is decisive.
+II. - The mandate of the members of the commission is five years; it is renewable once, subject to
+tenth and eleventh paragraphs of I.
+Article 10
+
+Commission agents are appointed by the president.
+Those agents who may be called upon to participate in the implementation of verification missions
+mentioned in Articles 19 and 25 must be authorized to do so by the committee; this authorization does not exempt
+the application of the provisions defining the procedures authorizing access to secrets protected by law.
+Article 11
+
+Commission agents are bound to secrecy for any facts, acts or information they may have obtained
+knowledge by virtue of their duties, under penalty of the penalties provided for in article 413-10 of the penal code and,
+subject to what is necessary for the establishment of the annual report, in article 226-13 of the same code.
+Article 12
+
+The committee's internal regulations specify in particular the rules relating to deliberations,
+files and their presentation to the committee, as well as the terms of implementation of the
+labeling procedure provided for in 3 ° of I of article 8.
+Article 13
+
+Subject to the skills of the office and limited training, the committee meets in training
+plenary.
+The agenda of the committee meeting in plenary formation is made public.
+In the event of a tie-vote, the president's vote is decisive.
+The committee may instruct the president or the deputy vice-president to exercise those of his powers.
+mentioned:
+1 ° In f and g of 2 ° of I of article 8;
+2 ° In d of 2 ° of I of article 8;
+3 ° In d of 4 ° of I of article 8;
+4 ° Articles 52, 108 and 118;
+5 ° In article 66;
+6 ° In 4 of Article 34 of Regulation (EU) 2016/679 of April 27, 2016, for decisions documenting compliance
+of the conditions mentioned in point 3 of the same article 34;
+7 ° In a and h of 3 of article 58 of the same regulations.
+A decree in the Council of State, taken after consulting the National Commission for Informatics and Freedoms, sets the
+conditions and limits within which the chairman of the committee and the deputy vice-chairman may delegate
+their signature.
+Page 2
+
+Article 14
+
+The National Commission for Informatics and Freedoms and the Commission for Access to Documents
+administrative bodies meet in a single college, on the joint initiative of their presidents, when a subject
+of common interest justifies it.
+Article 15
+
+The bureau may be instructed by the commission to exercise the powers of the latter mentioned in the last paragraph.
+of Article 10.
+Article 16
+
+The restricted formation takes the measures and pronounces the sanctions against the data controllers
+or subcontractors who do not comply with the obligations arising from Regulation (EU) 2016/679 of April 27
+2016 and this law under the conditions provided for in section 3 of this chapter.
+Its members deliberate without the presence of the commission agents, with the exception of those in charge of
+holding of the meeting.
+Members of the restricted formation cannot participate in the exercise of the powers of the committee.
+mentioned in d, f and g of 2 ° of I of article 8 and in article 19 of this law.
+Article 17
+
+A government commissioner, appointed by the Prime Minister, sits on the committee. Of
+Deputy commissioners may be appointed under the same conditions.
+The Government Commissioner attends all the deliberations of the committee meeting in formation
+plenary session as well as those of the meetings of its bureau whose purpose is to exercise the powers delegated in
+application of article 15. He may attend the sessions of the restricted formation, without being present at the deliberation. He
+is made addressee of all the opinions and decisions of the committee and the restricted formation.
+Except in the case of measures or sanctions falling under section 3 of this chapter, it may cause a
+second deliberation of the commission, which must take place within ten days of the initial deliberation.
+Article 18
+
+Members of the Government, public authorities, managers of public or private companies, officials
+various groups and more generally the holders or users of processing or data files.
+personal data may not oppose the action of the National Commission for Informatics and
+freedoms or its members and must on the contrary take all necessary measures to facilitate its task.
+Except in cases where they are bound by professional secrecy, people interviewed in connection with
+verifications made by the commission in application of g of 2 ° of I of article 8 are required to provide the
+information requested by it for the exercise of its missions.
+
+Section 2: Control of the implementation of processing
+Article 19
+
+I. - The members of the National Commission for Informatics and Freedoms as well as the agents of its services
+authorized under the conditions defined in the last paragraph of article 10 have access, from 6 a.m. to 9 p.m., to
+the exercise of their missions, in places, premises, enclosures, installations or establishments used for the implementation
+implementation of personal data processing.
+The territorially competent public prosecutor is informed beforehand.
+When the processing of personal data is carried out, either in parts of these places,
+premises, enclosures, installations or establishments assigned to the private home, either in such places, premises,
+enclosures, installations or establishments entirely assigned to the private home, the visit cannot take place
+that after the authorization of the judge of freedoms and the detention of the tribunal de grande instance in the jurisdiction
+of which the premises to be visited are located, under the conditions provided for in II of this article.
+II. - The person in charge of these places, premises, enclosures, installations or establishments is informed of his right
+opposition to the visit. When he exercises this right, the visit can only take place after the authorization of the judge of
+freedoms and the detention of the tribunal de grande instance in whose jurisdiction the premises to be visited are located,
+which decides under conditions set by decree in the Council of State. However, when the urgency, the gravity of the facts
+at the origin of the control or the risk of destruction or concealment of documents justifies it, the visit may
+take place without the person in charge of the premises having been informed, with the prior authorization of the judge of freedoms and
+of detention. In this case, the person in charge of the premises cannot oppose the visit.
+The visit is carried out under the authority and control of the liberty and detention judge who authorized it, in
+presence of the occupant of the premises or his representative who may be assisted by a counsel of his choice or,
+default, in the presence of two witnesses who are not under the authority of the persons responsible for
+at control.
+The order authorizing the visit is enforceable on the basis of the minute. She mentions that the judge having
+authorized visit may be requested at any time to suspend or stop this visit. It
+indicates the time limit and the means of appeal. It may be subject, according to the rules provided for by the procedural code
+civil, of an appeal to the first president of the court of appeal. The latter also hears appeals against the
+conduct of visit operations, the purpose of which is the effective exercise of the missions provided for in III.
+III. - For the exercise of the missions falling under the National Commission for Informatics and Freedoms in
+application of Regulation (EU) 2016/679 of April 27, 2016 and of this law, members and agents
+mentioned in the first paragraph of I of this article may request communication of all documents
+necessary for the accomplishment of their mission, whatever the medium, and take a copy thereof. They can
+collect, in particular on site or upon convocation, any useful and necessary information and justification
+to the accomplishment of their mission. They can access, under conditions preserving confidentiality
+with regard to third parties, computer programs and data as well as requesting their transcription by any
+appropriate treatment in documents directly usable for control purposes. Secrecy cannot
+to be opposed to them except concerning the information covered by the professional secrecy applicable to the relations
+between a lawyer and his client, by the secrecy of the sources of journalistic processing or, subject to the
+second paragraph of this III, by medical secrecy.
+Medical confidentiality is enforceable with regard to information that is included in the processing necessary for the purposes
+preventive medicine, medical research, medical diagnostics, the administration of care or
+treatment, or health service management. Communication of individual medical data
+included in this category of treatment can only be done under the authority and in the presence of a doctor.
+Apart from on-site inspections and upon summons, they can make any useful findings. They can
+in particular, from an online public communication service, consult the data freely
+accessible or made accessible, including recklessly, negligently or through the act of a third party, where
+appropriate by accessing and staying in automated data processing systems over time
+necessary for the findings. They can transcribe the data by any appropriate processing in
+documents that can be used directly for control purposes.
+For the control of online public communication services, the members and agents mentioned in the first
+paragraph of I can carry out any online operation necessary for their mission under an assumed identity. AT
+penalty of nullity, their acts may not constitute an incitement to commit an offense. The use of a
+assumed identity has no impact on the regularity of the findings made in accordance with the third
+paragraph of this III. A decree in the Council of State, taken after the opinion of the National Commission for Informatics
+and freedoms, specifies the conditions under which these members and agents proceed in these cases to their
+findings.
+The members and agents mentioned in the first paragraph of I may, at the request of the chairman of the committee,
+be assisted by experts.
+A report is drawn up of the verifications and visits carried out in application of this article. This minutes
+is drawn up contradictorily when the verifications and visits are carried out on the spot or on convocation.
+IV. - For processing involving State security and which is exempt from publication of the act
+regulation which authorizes them in application of III of article 31, the decree in Council of State which provides for this
+exemption may also provide that the processing is not subject to the provisions of this article.
+V. - In the exercise of its supervisory power over the processing operations covered by Regulation (EU) 2016/679
+of April 27, 2016 and this law, the National Commission for Informatics and Freedoms is not
+competent to control the processing operations carried out, in the exercise of their function
+jurisdictional, by the courts.
+
+Section 3: Corrective measures and sanctions
+Article 20
+
+I. - The president of the National Commission for Informatics and Freedoms may notify a person in charge of
+processing or its subcontractor due to the fact that the planned processing operations are likely to violate the
+provisions of Regulation (EU) 2016/679 of April 27, 2016 or of this law.
+II. - When the data controller or his subcontractor does not comply with the obligations resulting from the
+Regulation (EU) 2016/679 of April 27, 2016 or of this law, the president of the National Commission for
+data processing and freedoms may, if the breach noted is likely to be the subject of a
+compliance, issue a formal notice to it, within the time limit it sets:
+1 ° To meet the requests presented by the data subject in order to exercise their rights;
+2 ° To bring the processing operations into conformity with the applicable provisions;
+3 ° With the exception of processing which is of interest to State security or defense, to communicate to the person
+concerned a personal data breach;
+4 ° To rectify or erase personal data, or to limit the processing of such data.
+In the case provided for in 4 ° of this II, the president may, under the same conditions, give formal notice to the
+controller or his subcontractor to notify the recipients of the data of the measures he has taken
+taken.
+The deadline for compliance may be set at 24 hours in the event of extreme urgency.
+The president declares, if necessary, the closure of the formal notice procedure.
+The president may ask the board to make the formal notice public. In this case, the decision to
+the end of the formal notice procedure is the subject of the same publicity.
+III. - When the data controller or his subcontractor does not comply with the obligations resulting from the
+Regulation (EU) 2016/679 of April 27, 2016 or of this law, the president of the National Commission for
+data processing and freedoms can also, if necessary after having addressed to it the warning provided for in I of
+this article or, where applicable in addition to a formal notice provided for in II, refer to the formation
+of the commission with a view to pronouncing, after contradictory procedure, one or more of the
+following measures:
+1 ° A call to order;
+2 ° An injunction to bring the processing into line with the obligations resulting from the (EU) Regulation
+2016/679 of April 27, 2016 or of this law or to satisfy the requests presented by the person
+concerned in order to exercise their rights, which may be matched, except in cases where the processing is carried out
+by the State, a fine the amount of which may not exceed 100,000 € per day of delay from the date
+fixed by the restricted formation;
+3 ° With the exception of processing which concerns State security or defense or those falling under Title III of
+this law when they are implemented on behalf of the State, the temporary or definitive limitation of
+processing, prohibition or withdrawal of an authorization granted in application of the same regulation or of the
+this law;
+4 ° The withdrawal of a certification or the injunction, to the certification body concerned, to refuse a certification
+or withdraw the certification granted;
+5 ° With the exception of processing which concerns State security or defense or those falling under Title III of
+this law when they are implemented on behalf of the State, the suspension of the flow of data addressed
+to a recipient located in a third country or to an international organization;
+6 ° The partial or total suspension of the decision approving binding corporate rules;
+7 ° With the exception of cases where the processing is implemented by the State, an administrative fine cannot
+exceed 10 million euros or, in the case of a company, 2% of the total worldwide annual turnover of
+the previous year, whichever is higher. In the hypotheses mentioned in 5 and 6 of
+Article 83 of Regulation (EU) 2016/679 of April 27, 2016, these ceilings are raised, respectively, to 20 million
+euros and 4% of said turnover. The restricted training takes into account, in determining the
+amount of the fine, the criteria specified in the same article 83.
+The draft measure is, if necessary, submitted to the other supervisory authorities concerned in accordance with the procedures
+defined in article 60 of the same regulation.
+Article 21
+
+I. - When the non-compliance with the provisions of Regulation (EU) 2016/679 of April 27, 2016 or of this law
+entails a violation of the rights and freedoms mentioned in article 1 of this law and that the president of the
+commission considers that it is urgent to intervene, it seizes the restricted formation, which can, within the framework of a
+adversarial emergency procedure defined by decree of the Council of State, adopt one of the following measures:
+1 ° The temporary interruption of the implementation of the processing, including a transfer of data outside
+the European Union, for a maximum period of three months, if the treatment is not among those who
+concern the security of the State or the defense or those falling under Title III when they are implemented for the
+state account;
+2 ° Limiting the processing of some of the personal data processed, for a maximum period
+of three months, if the treatment is not among those which concern the security of the State or the defense or of
+those falling under Title III when they are implemented on behalf of the State;
+3 ° The temporary suspension of the certification issued to the data controller or to his subcontractor;
+4 ° The provisional suspension of the approval issued to a certification body or a body responsible for
+
+compliance with a code of conduct;
+5 ° The provisional suspension of the authorization issued on the basis of III of article 66 of this law;
+6 ° The injunction to bring the processing into line with the obligations resulting from Regulation (EU) 2016/679
+of April 27, 2016 or of this law or to satisfy the requests presented by the data subject with a view to
+to exercise their rights, which may be accompanied, except in the case where the processing is carried out by the State, of a
+fine, the amount of which may not exceed € 100,000 per day of delay from the date set by the
+limited training;
+7 ° A call to order;
+8 ° The information of the Prime Minister so that he takes, if necessary, the measures allowing to put an end to the
+violation found, if the treatment in question is among those which concern the security of the State or
+defense or those falling under Title III of this law when they are implemented on behalf of the State.
+The Prime Minister then informs the restricted party of the follow-up he gave to this information to the
+fifteen days after receiving it.
+II. - In the event of exceptional circumstances provided for in 1 of article 66 of regulation (EU) 2016/679 of April 27
+2016, when the restricted committee adopts the provisional measures provided for in 1 ° to 4 ° of I of this article,
+it immediately informs the other supervisory authorities of the content of the measures taken and their reasons
+concerned, the European Data Protection Board mentioned in Article 68 of the same Regulation and the
+European Commission.
+When the restricted committee has taken such measures and considers that definitive measures should be
+taken, it implements the provisions of 2 of Article 66 of Regulation (EU) 2016/679 of April 27, 2016.
+III. - For processing covered by Regulation (EU) 2016/679 of April 27, 2016, when a regulatory authority
+competent control pursuant to the same regulation has not taken appropriate action in a situation where
+it is urgent to intervene in order to protect the rights and freedoms of the persons concerned, the limited training,
+referred by the chairman of the committee, may ask the European Data Protection Board for a
+emergency notice or a binding emergency decision under the conditions and according to the modalities provided for in the 3
+and 4 of article 66 of the said regulation.
+IV. - In the event of a serious and immediate violation of the rights and freedoms mentioned in article 1 of this law, the
+president of the committee may also request, by means of summary proceedings, the competent court
+to order, if necessary under penalty, any measure necessary to safeguard these rights and freedoms.
+Article 22
+
+The measures provided for in III of article 20 and 1 ° to 7 ° of I of article 21 of this law are pronounced on
+the basis of a report drawn up by one of the members of the National Commission for Informatics and Freedoms,
+appointed by its president from among the members not belonging to the restricted formation. This report
+is notified to the controller or his processor, who may submit observations and be
+represent or assist. The rapporteur may present oral observations to the restricted panel but may not
+not take part in its deliberations. The restricted panel can hear any person whose hearing it
+seems likely to make a useful contribution to its information, including the agents of the services of the commission.
+The restricted party may make the measures it takes public. She can also order their
+inclusion in publications, newspapers and media it designates, at the expense of the sanctioned persons.
+Without prejudice to the information obligations incumbent on the controller or his subcontractor
+in application of article 34 of regulation (EU) 2016/679 of April 27, 2016, the restricted formation may
+order that this person in charge or this subcontractor inform individually, at its expense, each of the persons
+concerned of the violation noted of the provisions of this law or of the aforementioned regulation as well as, the case
+appropriate, of the measure pronounced.
+When the restricted panel has pronounced a financial penalty which has become final before the criminal judge
+has ruled definitively on the same or related facts, the latter may order that the fine
+administrative charge is charged against the criminal fine that it pronounces.
+The penalty is settled by the restricted formation, which fixes the final amount.
+Pecuniary penalties and periodic penalty payments are collected as the State's foreign tax debts and
+to the domain.
+Article 23
+
+When a certification body or a body responsible for compliance with a code of conduct has failed in its
+obligations or has not complied with the provisions of Regulation (EU) 2016/679 of 27 April 2016 or those of
+this law, the president of the National Commission for Informatics and Freedoms may, if necessary after
+formal notice, seize the restricted formation of the commission, which can pronounce, in the same
+conditions than those provided for in Articles 20 to 22, withdrawal of the accreditation issued to this body.
+NOTE: In accordance with Article 29 of Ordinance No. 2018-1125 of December 12, 2018, these provisions
+come into force at the same time as the decree amending decree n ° 2005-1309 of 20 October 2005 taken
+for the application of the law n ° 78-17 of January 6, 1978 relating to data processing, files and freedoms, in
+its wording resulting from this ordinance, and no later than June 1, 2019.
+
+Section 4: Cooperation
+Article 24
+
+Under the conditions provided for in Articles 60 to 67 of Regulation (EU) 2016/679 of 27 April 2016, the Commission
+National Data Protection Authority implements cooperation and mutual assistance procedures
+with the supervisory authorities of the other Member States of the European Union and carries out with these authorities
+joint operations.
+The commission, the president, the bureau, the restricted formation and the commission agents implement,
+each as far as it is concerned, the procedures mentioned in the first paragraph of this article.
+The committee can instruct the office:
+1 ° To exercise its prerogatives as the authority concerned, within the meaning of Article 4 of Regulation (EU) 2016/679 of
+April 27, 2016, and in particular to issue a relevant and reasoned objection to the draft decision of another
+supervisory authority;
+2 ° When the commission adopts a draft decision as the lead authority or the authority concerned,
+implement the cooperation, consistency control and dispute resolution procedures provided for
+by Regulation (EU) 2016/679 of April 27, 2016 and to adopt the decision on behalf of the committee.
+Article 25
+
+I. - For the application of Article 62 of Regulation (EU) 2016/679 of April 27, 2016, the National Commission for
+data processing and freedoms cooperates with the supervisory authorities of the other Member States of the Union
+European Union, under the conditions provided for in this article.
+II. - Whether it acts as the relevant supervisory authority or as the lead authority within the meaning of the
+Articles 4 and 56 of Regulation (EU) 2016/679 of April 27, 2016, the National Commission for Informatics and
+freedoms is competent to deal with a complaint or a possible violation of the provisions of the same
+regulation also affecting other Member States. The chairman of the committee invites the others
+control authorities concerned to participate in the joint control operations that it decides to conduct.
+III. - When a joint control operation takes place on French territory, members or agents
+authorities of the commission, acting as reception control authority, are present alongside the
+members and agents of other supervisory authorities participating, where applicable, in the operation. For request of
+the supervisory authority of a Member State, the chairman of the committee may authorize, by specific decision,
+those of the members or agents of the supervisory authority concerned who present guarantees comparable to those of
+those required of the agents of the commission, in application of article 10 of this law, to be exercised, under its
+authority, all or part of the powers of verification and investigation available to members and officers of the
+commission.
+IV. - When the committee is invited to contribute to a joint control operation decided by the authority
+control of another Member State, the chairman of the committee decides on the principle and the conditions
+participation, designates the members and authorized agents and informs the requesting authority thereof in the
+conditions provided for in Article 62 of Regulation (EU) 2016/679 of April 27, 2016.
+Article 26
+
+I. - The processing operations falling under Title III are subject to cooperation between the National Commission for
+data processing and freedoms and the supervisory authorities of other Member States of the European Union in
+the conditions provided for in this article.
+II. - The commission communicates the relevant information to the supervisory authorities of the other member states and
+assist them by implementing, in particular, at their request, control measures such as
+consultation, inspection and investigation measures.
+The committee responds to a request for mutual assistance made by another supervisory authority in
+as soon as possible and at the latest one month after receipt of the request containing all the information
+necessary, in particular its purpose and reasons. It can only refuse to comply with this request if it
+is not competent to deal with the subject-matter of the request or the measures it is invited to carry out, or if a
+provision of European Union or French law precludes this.
+The committee shall inform the requesting supervisory authority of the results obtained or, as the case may be, of the progress
+of the case or of the measures taken to follow up on the request.
+The commission may, for the exercise of its missions, request the assistance of a supervisory authority of another
+Member State of the European Union.
+The commission gives the reasons for any refusal to comply with a request when it considers that it is not
+competent authority or where it considers that complying with the request would constitute a breach of Union law
+European or French law.
+Article 27
+
+When the commission acts as the lead supervisory authority within the meaning of Article 56 of Regulation (EU)
+2016/679 of April 27, 2016 in the case of cross-border processing within the European Union, it
+communicate without delay to the other supervisory authorities concerned the report of the rapporteur mentioned in
+first paragraph of Article 22 as well as all the useful information of the procedure which made it possible to establish
+the report, before any hearing of the controller or his subcontractor. Authorities
+concerned are enabled to attend, by any appropriate means of retransmission, the hearing by the
+limited training of the controller or his subcontractor, or to become aware of a
+report drawn up following the hearing.
+After deliberation, the restricted committee submits its draft decision to the other supervisory authorities.
+concerned in accordance with the procedure defined in Article 60 of Regulation (EU) 2016/679 of 27 April 2016. A
+In this capacity, it decides on the taking into account of the relevant and reasoned objections issued by these authorities and
+if it decides to rule out one of the objections, refers to the European Data Protection Board
+in accordance with article 65 of the same regulations.
+The conditions of application of this article are defined by decree of the Council of State, after consulting the
+National Commission for Informatics and Freedoms.
+Article 28
+
+When the commission acts as the supervisory authority concerned, within the meaning of Article 4 of Regulation (EU)
+2016/679 of April 27, 2016, the chairman of the committee is seized of the draft corrective measures submitted to
+the commission by a lead supervisory authority.
+When these measures are equivalent to those defined in I and II of article 20 of this law, the
+President decides, if necessary, to issue a relevant and reasoned objection, in accordance with the procedures set out in
+article 60 of the same regulations.
+When these measures are of equivalent object to those defined in III of article 20 of this law, the president
+enters the restricted formation. The president of the restricted formation or the member of the restricted formation
+that he designates may, if necessary, issue a relevant and reasoned objection under the same conditions.
+Article 29
+
+The National Commission for Informatics and Liberties may, at the request of an authority exercising
+powers similar to its own in a non-member state of the European Union, subject to guarantees
+appropriate for the protection of personal data and other fundamental rights and freedoms,
+carry out checks under the same conditions as those provided for in Article 19, except in the case of a
+treatment mentioned in I or II of article 31. Subject to the same reservations, it may submit requests to
+same purposes to an authority exercising powers similar to its own.
+The commission is authorized to communicate the information it collects or holds, at their request,
+to authorities exercising powers similar to its own in non-member states of the Union
+European Union, subject to appropriate safeguards for the protection of personal data and
+other fundamental rights and freedoms, except in the case of processing mentioned in I or II of article 31.
+For the implementation of this article, the commission concludes beforehand an agreement organizing its
+relations with the authority exercising powers similar to its own. This agreement is published in
+Official newspaper.
+
+Chapter III: Special provisions relating to the number
+registration of people in the national directory of identification of
+physical persons
+Article 30
+
+A decree by the Council of State, taken after a reasoned and published opinion from the National Commission for Informatics and
+freedoms, determines the categories of data controllers and the purposes of this processing in light of the
+which the latter can be implemented when they relate to data bearing the number
+registration of persons in the national register of identification of natural persons. Implementation
+processing takes place without prejudice to the obligations incumbent on data controllers or on
+their subcontractors in application of section 3 of chapter IV of regulation (EU) 2016/679 of April 27, 2016.
+Do not fall within the scope of the first paragraph of this article those of processing relating to
+personal data including the registration number of persons in the directory
+national identification of natural persons or who require consultation of this directory:
+1 ° Which have exclusively official statistics purposes, are implemented by the official statistical service
+and do not include any of the data mentioned in I of article 6 or in article 46;
+2 ° Which have exclusively scientific or historical research purposes;
+3 ° The purpose of which is to provide users of the administration with one or more teleservices
+electronic administration defined in article 1 of ordinance n ° 2005-1516 of 8 December 2005 relating to
+electronic exchanges between users and administrative authorities within the meaning of this same article 1, and
+between these same administrative authorities.
+The exemption provided for processing the purposes of which are mentioned in 1 ° and 2 ° of this article,
+is only applicable if the registration number in the national identification directory of natural persons
+is previously the subject of a cryptographic operation replacing it with a non-significant statistical code.
+This operation is repeated at a frequency defined by decree of the Council of State, taken after a reasoned opinion and
+published by the National Commission for Informatics and Freedoms. Processing for the purpose of
+to perform this cryptographic operation are not subject to the first paragraph.
+For the processing whose purposes are mentioned in 1 °, the use of the non-significant statistical code is not
+authorized only within the official statistical service.
+For processing the purposes of which are mentioned in 2 °, the cryptographic operation and, where applicable,
+the interconnection of two files by the use of the specific non-significant code which results from them cannot be
+provided by the same person or by the controller.
+By way of derogation from the first paragraph, the processing of personal data in the field of health
+are governed by section 3 of chapter III of title II, with the exception of:
+1 ° The treatments mentioned in article 67;
+2 ° Processing including the registration number in the national identification directory of persons
+physical used as a personal health identifier in application of Article L. 1111-8-1 of the French Code of
+public health, apart from those treatments used for research purposes.
+
+Chapter IV: Formalities prior to the implementation of processing.
+Article 31
+
+I. - Are authorized by order of the competent minister (s), taken after a reasoned and published opinion of the Commission
+national data processing and freedoms, the processing of personal data implemented to
+the State account and:
+1 ° Which concern the security of the State, defense or public security;
+2 ° Or which have as their object the prevention, investigation, observation or prosecution of criminal offenses or
+the execution of criminal convictions or security measures.
+The opinion of the commission is published with the order authorizing the processing.
+II. - Those of these treatments which relate to data mentioned in I of article 6 are authorized by decree
+in Council of State taken after a reasoned and published opinion of the commission. This notice is published with the decree authorizing the
+treatment.
+III. - Certain treatments mentioned in I and II may be exempted, by decree of the Council of State, from the
+publication of the regulatory act authorizing them. For these treatments, is published, together with the
+decree authorizing the exemption from publication of the act, the meaning of the opinion issued by the commission.
+IV. - For the application of this article, the processing operations which meet the same purpose, relate to
+identical data categories and have the same recipients or recipient categories can be
+authorized by a single regulatory act. In this case, the person in charge of each processing sends to the
+commission a commitment that it conforms to the description in the authorization.
+Article 32
+
+Are authorized by decree of the Council of State, taken after a reasoned and published opinion of the National Commission of
+data processing and freedoms, the processing of personal data implemented on behalf of
+the State, acting in the exercise of its prerogatives of public power, which relate to genetic data
+or on biometric data necessary for the authentication or control of the identity of persons.
+Article 33
+
+I. - The requests for opinions addressed to the National Commission for Informatics and Freedoms under the
+this law specify:
+1 ° The identity and address of the controller or, if the latter is not established in the national territory or in
+that of another Member State of the European Union, that of its representative and, where applicable, that of the
+person making the request;
+2 ° The purpose or purposes of the processing, as well as, for the processing covered by Articles 31 and 32, the description
+general of its functions;
+3 ° Where applicable, interconnections, mergers or any other form of contact with
+other treatments;
+4 ° The personal data processed, their origin and the categories of persons concerned by the
+treatment ;
+5 ° The retention period of the information processed;
+6 ° The service (s) responsible for carrying out the processing as well as, for processing falling within the
+Articles 31 and 32, the categories of persons who, by reason of their functions or for the needs of the service, have
+direct access to recorded data;
+7 ° The recipients or categories of recipients authorized to receive communication of the data;
+8 ° The function of the person or the service to which the right of access provided for in articles 49,105 and
+119, as well as the measures relating to the exercise of this right;
+9 ° The measures taken to ensure the security of processing and data and the guarantee of secrets
+protected by law and, where applicable, an indication of the use of a subcontractor;
+10 ° Where applicable, the transfers of personal data envisaged to a non-State
+member of the European Union, in whatever form.
+Requests for opinions relating to processing involving State security, defense or public security
+may not include all of the information listed above. A decree in the Council of State, taken
+after consulting the National Commission for Informatics and Civil Liberties, establishes the list of these treatments and
+information that requests for opinions relating to such processing must include at least.
+II. - The person in charge of a treatment already authorized and likely to be the subject of an update made
+public under the conditions provided for in Article 36 inform the committee without delay:
+1 ° Any change affecting the information mentioned in I;
+2 ° Any deletion of processing.
+Article 34
+
+I. - The National Commission for Informatics and Freedoms, referred to in the context of Articles 31 or 32, is
+deliver within eight weeks of receipt of the request. However, this delay may be
+renewed for six weeks by reasoned decision of the president.
+II. - The opinion requested from the committee on a treatment, which is not delivered at the end of the period provided for in I, is
+deemed favorable.
+Article 35
+
+The acts authorizing the creation of a processing operation in application of Articles 31 and 32 specify:
+1 ° The purpose of the processing and, where applicable, its name;
+2 ° The service to which the right of access provided for in Articles 49, 105 and 119 is exercised;
+3 ° The categories of personal data recorded;
+4 ° The recipients or categories of recipients authorized to receive communication of this data;
+5 ° Where applicable, the exemptions from the information obligation provided for in III of article 116;
+6 ° Where applicable, the limitations and restrictions on the rights of data subjects provided for in Article 23 of
+Regulation (EU) 2016/679 of April 27, 2016 and in article 107.
+7 ° Where applicable, the designation, among the joint controllers, of the point of contact for
+persons concerned.
+Article 36
+
+I. - The commission makes available to the public, in an open and easily reusable format, the list of
+automated processing which has been the subject of one of the formalities provided for in Articles 31 and 32, with the exception of
+those mentioned in III of article 31, as well as by section 3 of chapter III of title II.
+This list specifies for each of these treatments:
+1 ° The act deciding the creation of the processing;
+2 ° The purpose of the processing and, where applicable, the name;
+3 ° The identity and address of the controller or, if the latter is not established in the national territory or in
+that of another Member State of the European Union, those of its representative;
+4 ° The function of the person or the service to which the right of access provided for in articles 49,105 and 119 is exercised
+;
+5 ° The categories of personal data being processed, as well as the recipients and
+categories of recipients authorized to receive communication thereof;
+6 ° Where applicable, the planned transfers of personal data to a non-member State
+of the European Union.
+II. - The commission makes its opinions, decisions or recommendations available to the public.
+
+Chapter V: Obligations incumbent on data controllers and
+human rights
+Article 37
+
+I. - Subject to this article, Chapter I of Title V of Law No. 2016-1547 of November 18, 2016 of
+modernization of the justice of the XXIst century and chapter X of title VII of book VII of the code of justice
+administrative procedures apply to action initiated on the basis of this article.
+II. - When several natural persons placed in a similar situation suffer damage resulting in
+for common cause a similar breach of the provisions of Regulation (EU) 2016/679 of 27
+April 2016 or of this law by a personal data controller or a subdealing, a class action can be brought before the civil jurisdiction or the administrative jurisdiction
+competent in view of the individual cases presented by the applicant, who informs the National Commission of
+computing and freedoms.
+III. - This action may be taken with a view either to putting an end to the breach mentioned in II, or to initiate the
+liability of the person who caused the damage in order to obtain compensation for material damage and
+moral suffered, either of these two ends.
+However, the responsibility of the person who caused the damage can only be engaged if the giving rise
+of the damage is after May 24, 2018.
+IV. - Can only exercise this action:
+1 ° The associations regularly declared for at least five years having in their statutory object the
+protection of privacy or protection of personal data;
+2 ° Consumer defense associations representative at national level and approved in application
+of Article L. 811-1 of the Consumer Code, when the processing of personal data affects
+consumers;
+3 ° Trade unions of employees or representative officials within the meaning of Articles L. 2122-1, L.
+2122-5 or L. 2122-9 of the labor code or III of article 8 bis of law n ° 83-634 of July 13, 1983 on
+rights and obligations of civil servants or trade unions representing judges of the judiciary, when
+the processing affects the interests of the persons whom the statutes of these organizations instruct them to defend.
+When the action aims to repair the damage suffered, it is exercised within the framework of the individual procedure.
+repair defined in Chapter I of Title V of Law No. 2016-1547 of 18 November 2016 on the modernization of
+justice of the twenty-first century and in chapter X of title VII of book VII of the code of administrative justice.
+Article 38
+
+Any person can mandate an association or an organization mentioned in IV of article 37, a
+association or organization whose statutory object is related to the protection of rights and freedoms
+when these are ignored in the context of the processing of personal data, or a
+association of which this person is a member and whose statutory object involves the defense of interests in relation
+with the purposes of the disputed processing, for the purposes of exercising on its behalf the rights provided for in Articles 77 to 79 and 82
+of Regulation (EU) 2016/679 of April 27, 2016. It can also mandate them to act before the Commission
+national data processing and freedoms, against it before a judge or against the controller
+or its subcontractor before a court when a processing operation falling under Title III of this present
+law.
+Article 39
+
+In the event that, when a complaint is lodged against a data controller or his subcontractor, the
+National Commission for Informatics and Freedoms considers the complaints put forward relating to the protection
+the rights and freedoms of a person with regard to the processing of their personal data, or in a manner
+general in order to ensure the protection of these rights and freedoms within the framework of its mission, it may ask the
+Council of State to order, if necessary under penalty, either the suspension of a data transfer, or the
+extension of the suspension of such a transfer that it would itself have previously ordered, and it matches
+then its conclusions of a request for a preliminary ruling to the Court of Justice of the European Union with a view to
+assess the validity of the European Commission's adequacy decision taken on the basis of
+
+Article 45 of Regulation (EU) 2016/679 of April 27, 2016 as well as all acts taken by the Commission
+European Union with regard to the appropriate guarantees in the context of the transfers of data mentioned in
+article 46 of the same regulations.
+When the data transfer in question does not constitute a processing operation carried out by a
+Page 3
+
+jurisdiction in the exercise of its judicial function, the National Commission for Informatics and
+freedoms may apply, under the same conditions, to the Council of State for the purpose of ordering, either the suspension of
+data transfer based on an adequacy decision of the European Commission taken on the basis
+of Article 36 of Directive (EU) 2016/680 of the European Parliament and of the Council of April 27, 2016, i.e.
+extension of the suspension of this transfer that she herself would have already ordered, pending
+the assessment by the Court of Justice of the European Union of the validity of this adequacy decision.
+
+Chapter VI: Criminal provisions
+Article 40
+
+Violations of the provisions of this law are provided for in section 5 of chapter VI of title II of the book
+II of the penal code.
+Article 41
+
+The public prosecutor advises the president of the National Commission for Informatics and Freedoms of
+all proceedings relating to the offenses provided for in section 5 of chapter VI of title II of book II of
+penal code and, where applicable, the follow-up given to them. He informs him of the date and purpose of the hearing
+judgment by registered letter sent at least ten days before this date.
+The investigating or trial court may call on the president of the National Commission for
+data processing and freedoms or its representative to submit observations or develop them orally at
+the audience.
+
+Title II: Processing falling under the data protection regime
+personal nature provided for by Regulation (EU) 2016/679 of April 27
+2016
+Chapter I: General provisions
+Article 42
+
+I. - This title does not apply to the processing of personal data carried out:
+1 ° In the context of an activity which does not fall within the scope of European Union law,
+in particular the treatments mentioned in Title IV;
+2 ° In the context of activities falling within the scope of Chapter II of Title V of the Treaty on Union
+European;
+3 ° By the competent authorities for the purposes of prevention and detection of criminal offenses, investigations and
+prosecution in the matter or execution of criminal sanctions, including protection against threats to the
+public safety and the prevention of such threats;
+4 ° Temporary copies made in the context of technical transmission and supply activities
+access to a digital network, with a view to the automatic, intermediate and transient storage of data and to
+the sole purpose of allowing other recipients of the service the best possible access to the information transmitted.
+II. -This title applies without prejudice to Articles 32-3-3, 32-3-4 and 34-4 of the Postal and
+telecommunications relating to the liability of intermediary service providers as amended by
+article 9 of law n ° 2004-575 of June 21, 2004 for confidence in the digital economy and 10 of law n °
+2004-669 of July 9, 2004 relating to electronic communications and communication services
+audiovisual.
+III. -This title applies without prejudice to the provisions of article 6 of law n ° 2004-575 of June 21
+2004 for confidence in the digital economy.
+Article 43
+
+The principles, rules and conditions of lawfulness of the processing of personal data applicable are
+those defined in Chapter II of Regulation (EU) 2016/679 of 27 April 2016 and in Chapter I of Title I of the
+this law.
+Article 44
+
+Article 6 does not apply if one of the conditions provided for in 2 of Article 9 of Regulation (EU) 2016/679 of 27
+April 2016 is met, as well as for:
+1 ° The treatments necessary for the purposes of preventive medicine, medical diagnostics, administration
+care or treatment, or the management of health services and implemented by a member of a
+profession, or by another person on whom the obligation to
+professional secrecy the breach of which is punishable by article 226-13 of the penal code;
+2 ° Statistical processing carried out by the National Institute for Statistics and Economic Studies or one of
+ministerial statistical services in compliance with Law No. 51-711 of 7 June 1951 on the obligation,
+coordination and secrecy in matters of statistics, after consulting the National Council for Statistical Information;
+3 ° Processing comprising data concerning health justified by the public interest and in accordance with
+provisions of section 3 of chapter III of this title;
+4 ° Processing in accordance with the standard regulations mentioned in c of 2 ° of I of article 8 implemented by the
+employers or administrations which relate to biometric data strictly necessary for the control
+access to workplaces as well as to devices and applications used in the context of assignments
+entrusted to employees, agents, trainees or service providers;
+5 ° Processing relating to the reuse of public information appearing in decisions
+mentioned in article L. 10 of the administrative justice code and article L. 111-13 of the organization code
+judicial, provided that such processing has neither the purpose nor the effect of allowing the re-identification of
+persons concerned ;
+6 ° The processing operations necessary for public research within the meaning of Article L. 112-1 of the Research Code, under
+reserves that reasons of important public interest make them necessary, under the conditions provided for by the g of
+2 of Article 9 of Regulation (EU) 2016/679 of 27 April 2016, after a reasoned and published opinion from the Commission
+national data processing and freedoms delivered according to the modalities provided for in article 34 of this law.
+Article 45
+
+Pursuant to 1 of Article 8 of Regulation (EU) 2016/679 of April 27, 2016, a minor may alone consent to
+processing of personal data with regard to the direct offer of services by the company of
+information from the age of fifteen.
+When the minor is under the age of fifteen, the processing is only lawful if consent is given
+jointly by the minor concerned and the holder (s) of parental authority with regard to this minor.
+The data controller writes in clear and simple terms, easily understandable by the minor, the
+information and communications relating to the processing which concerns him.
+Article 46
+
+The processing of personal data relating to criminal convictions, offenses or
+Related security measures can only be carried out by:
+1 ° Courts, public authorities and legal persons managing a public service, acting in the
+within their legal powers as well as private law legal persons collaborating in the public service of
+justice and belonging to categories whose list is fixed by decree in the Council of State, taken after a reasoned opinion
+and published by the National Commission for Informatics and Liberties, to the extent strictly necessary for
+their mission;
+2 ° The auxiliaries of justice, for the strict needs of the exercise of the missions which are entrusted to them by the law;
+3 ° Natural or legal persons, in order to enable them to prepare and, where applicable, to exercise and
+follow a legal action as a victim, respondent, or on behalf of them and have them executed
+the decision rendered, for a period strictly proportional to these purposes. Communication to a third party is not
+then possible only under the same conditions and to the extent strictly necessary for the pursuit of these
+same purposes;
+4 ° The legal entities mentioned in Articles L. 321-1 and L. 331-1 of the Intellectual Property Code,
+acting under the rights they manage or on behalf of victims of rights violations
+provided for in Books I, II and III of the same code for the purpose of ensuring the defense of these rights;
+5 ° The re-users of the public information appearing in the decisions mentioned in Article L. 10 of the Code
+administrative justice and article L. 111-13 of the code of judicial organization, provided that the
+treatments implemented have neither the purpose nor the effect of allowing the re-identification of persons
+concerned.
+Article 47
+
+No court decision involving an assessment of a person's behavior may have as its
+basis for automated processing of personal data intended to evaluate certain aspects of the
+personality of that person.
+No decision producing legal effects with regard to a person or significantly affecting him
+cannot be taken on the sole basis of automated processing of personal data, including
+profiling, with the exception of:
+1 ° The cases mentioned in a and c of 2 of article 22 of regulation (EU) 2016/679 of 27 April 2016, under the
+reservations mentioned in point 3 of the same article 22 and on condition that the rules defining the treatment as well as the
+main characteristics of its implementation are communicated, with the exception of secrets protected by the
+law, by the data controller to the data subject if he so requests;
+2 ° Individual administrative decisions taken in compliance with Article L. 311-3-1 and Chapter I of
+Title I of Book IV of the Code of Relations between the Public and the Administration, provided that the processing does not
+does not relate to the data mentioned in I of article 6 of this law. These decisions hardly involve
+nullity, the explicit mention provided for in article L. 311-3-1 of the code of relations between the public and the administration.
+For these decisions, the data controller ensures control over algorithmic processing and its
+developments in order to be able to explain, in detail and in an intelligible form, to the person concerned how
+whose processing has been implemented in its regard.
+By way of derogation from 2 ° of this article, no decision by which the administration decides on an appeal
+administration mentioned in Title I of Book IV of the Code of Relations between the Public and the Administration cannot
+be taken on the sole basis of automated processing of personal data.
+
+Chapter II: Rights of the data subject
+Article 48
+
+The right to information is exercised under the conditions provided for in Articles 12 to 14 of Regulation (EU) 2016/679 of
+April 27, 2016.
+In particular, when personal data is collected from a minor under the age of fifteen
+years, the data controller transmits to the minor the information mentioned in article 13 of this regulation
+in clear and easily accessible language.
+The person from whom personal data concerning him is collected is also
+informed, unless it has been previously informed, by the controller or his representative of the right to
+define directives relating to the fate of his personal data after his death, under the conditions
+provided for in Article 85.
+Pursuant to article 23 of the same regulation, the right to information does not apply to data
+collected under the conditions provided for in article 14 of this regulation and used during processing carried out
+on behalf of the State and affecting public security, insofar as such a limitation is necessary
+to respect the purposes pursued by this processing and provided for by the act establishing the processing.
+The provisions of the previous paragraph are applied when the processing is carried out by the
+public administrations whose mission is either to control or collect taxes or to carry out
+checks on the activity of natural or legal persons that may give rise to the observation of a
+violation or breach, administrative fines or penalties.
+Article 49
+
+The data subject's right of access is exercised under the conditions provided for in Article 15 of Regulation (EU)
+2016/679 of April 27, 2016.
+In the event of a risk of concealment or disappearance of personal data, the competent judge may
+order, including in summary proceedings, all measures likely to avoid this concealment or disappearance.
+The provisions of the first paragraph do not apply when personal data is kept.
+in a form which clearly excludes any risk of invasion of the privacy and data protection of
+persons concerned and for a period not exceeding that necessary for the sole purposes of establishment
+statistics or scientific or historical research.
+Article 50
+
+The right of rectification is exercised under the conditions provided for in Article 16 of Regulation (EU) 2016/679 of 27
+April 2016.
+Article 51
+
+I.- The right to erasure is exercised under the conditions provided for in Article 17 of Regulation (EU) 2016/679 of 27
+April 2016.
+II.-In particular, at the request of the data subject, the controller is required to erase in
+as soon as possible the personal data that have been collected as part of the service offer of
+the information society when the data subject was a minor at the time of collection. When he has
+transmitted the data in question to a third party itself responsible for processing, it takes reasonable measures,
+including of a technical nature, taking into account available technologies and implementation costs, to
+inform the third party who processes these data that the data subject has requested the deletion of any link to
+these, or any copy or reproduction thereof.
+In the event of failure to perform the erasure of personal data or in the event of no response from the
+controller within a period of one month from the request, the data subject may refer
+the National Commission for Informatics and Freedoms, which decides on this request within
+three weeks from the date of receipt of the complaint.
+Article 52
+
+By way of derogation from Articles 49 to 51, for processing carried out by public administrations and
+private persons entrusted with a public service mission whose mission is to control or collect
+taxes, the rights of access, rectification and erasure are exercised under the conditions provided for in article
+118, if such restrictions were provided for in the act instituting the treatment.
+The same provisions are applied when the processing concerns public security, subject to
+the application of the provisions of Title III.
+By way of derogation from Articles 49 to 51, for processing carried out by financial courts, in the
+framework of their non-jurisdictional missions provided for by the Code of Financial Jurisdictions, in particular
+when such missions are likely to reveal irregularities calling for the implementation of a
+judicial procedure, the right of access may be limited under the conditions provided for in e and h of 1 of article
+23 of Regulation (EU) 2016/679 of April 27, 2016.
+Article 53
+
+The right to restriction of processing is exercised under the conditions provided for in Article 18 of Regulation (EU)
+2016/679 of April 27, 2016.
+Article 54
+
+The obligation to notify in the event of rectification or erasure of personal data or the
+limitation of processing is carried out under the conditions provided for in Article 19 of Regulation (EU) 2016/679 of 27
+April 2016.
+Article 55
+
+The right to data portability is exercised under the conditions provided for in Article 20 of Regulation (EU)
+2016/679 of April 27, 2016.
+Article 56
+
+The right to object is exercised under the conditions provided for in Article 21 of Regulation (EU) 2016/679 of April 27
+2016.
+This right does not apply when the processing meets a legal obligation or, under the conditions provided for in
+Article 23 of the same regulation, when the application of these provisions has been precluded by a provision
+express of the act initiating the treatment.
+
+Chapter III: Obligations incumbent on the controller and the
+subcontractor
+Section 1: General obligations
+Article 57
+
+Pursuant to Article 24 of Regulation (EU) 2016/679 of April 27, 2016, the controller implements
+implement appropriate technical and organizational measures to ensure and be able to demonstrate
+that the processing is carried out in accordance with this same regulation and this law.
+The controller and, where applicable, his representative keep the register of processing activities
+under the conditions provided for in article 30 of this regulation. They appoint a data protection officer
+under the conditions provided for in section 4 of chapter IV of the same regulation.
+Article 58
+
+I. -The controller notifies the National Commission for Informatics and Freedoms and
+communicate to the data subject any personal data breach in application of the
+Articles 33 and 34 of Regulation (EU) 2016/679 of April 27, 2016.
+II. -A decree in the Council of State, taken after advice from the National Commission for Informatics and Freedoms, fixes
+the list of processing operations and categories of processing authorized to derogate from the right to communicate a
+data breach governed by Article 34 of the same Regulation when the notification of a disclosure or a
+unauthorized access to this data is likely to represent a risk for national security, defense
+national or public security.
+The derogation provided for in this article is only applicable to the processing of personal data.
+personnel necessary to comply with a legal obligation requiring the processing of this data or for the exercise
+a public interest mission with which the data controller is invested.
+Article 59
+
+When the purposes and means of processing are determined by several controllers, their
+respective obligations are exercised under the conditions provided for in Article 26 of Regulation (EU) 2016/679 of 27
+April 2016 and by this law.
+Article 60
+
+The status of subcontractor does not in any way exempt from compliance with the applicable provisions of the Regulation (EU)
+2016/679 of April 27, 2016 and of this law.
+The processing carried out by a subcontractor is governed by a contract or any legal act that binds the subcontractor to
+with regard to the controller, in written form, including electronic format, respecting the
+conditions provided for in article 28 of the regulations.
+The subcontractor and, where applicable, his representative must keep the register mentioned in article 30 of the same.
+regulation.
+When a processor uses another processor to carry out specific processing activities
+on behalf of the controller, he concludes with this subcontractor the contract mentioned in the second
+indentation. The third paragraph also applies.
+Article 61
+
+In accordance with Article 29 of Regulation (EU) 2016/679 of April 27, 2016, except legislative or
+contrary regulations, the subcontractor or any other person acting under the authority of the
+controller or under that of the processor having access to personal data of
+process this data without the consent of the controller.
+
+Section 2: Obligations in the event of processing likely to give rise to a high risk for
+rights and freedoms of natural persons
+Article 62
+
+Prior to the implementation of the processing, the controller carries out an impact analysis of the
+processing operations planned for the protection of personal data under the conditions
+provided for in Article 35 of Regulation (EU) 2016/679 of April 27, 2016.
+Article 63
+
+In accordance with Article 36 of Regulation (EU) 2016/679 of April 27, 2016, the data controller is required to
+to consult the National Commission for Informatics and Freedoms prior to the implementation of the
+processing where it appears from the impact assessment provided for in Article 62 that the processing would present a risk
+high if the controller did not take measures to mitigate the risk.
+
+Section 3: Processing of personal data in the field of health
+Article 64
+
+When the exercise of the right of access applies to personal health data, they may be
+communicated to the data subject, according to their choice, directly or through a doctor
+that it designates for this purpose, in compliance with the provisions of Article L. 1111-7 of the Public Health Code.
+Sub-section 1: General provisions
+Article 65
+
+Processing containing data concerning the health of individuals are subject, in addition to those of the
+Regulation (EU) 2016/679 of April 27, 2016, with the provisions of this section, with the exception of the categories
+of the following treatments:
+1 ° Processing falling under 1 ° of article 44 of this law and a and c to f of 2 of article 9 of the regulations
+(EU) 2016/679 of April 27, 2016;
+2 ° Processing allowing studies to be carried out from data collected in application of 1 ° of
+article 44 of this law when these studies are carried out by the personnel ensuring this follow-up and intended to
+their exclusive use;
+3 ° The processing operations implemented for the purpose of ensuring the service of the services or the control by the organizations
+responsible for the management of a basic health insurance scheme as well as the payment of benefits by the
+supplementary health insurance organizations;
+4 ° Processing carried out in health establishments by the doctors responsible for information
+medical, under the conditions provided for in the second paragraph of Article L. 6113-7 of the Public Health Code;
+5 ° The treatments carried out by regional health agencies, by the State and by the public body that it
+designates in application of the first paragraph of article L. 6113-8 of the same code, within the framework defined in the same
+article L. 6113-8.
+Article 66
+
+I. - The processing operations falling under this section can only be implemented in consideration of the
+purpose of public interest that they present. The guarantee of high standards of quality and safety of healthcare
+health and drugs or medical devices is an end of public interest.
+II. -The standards and standard regulations, within the meaning of b and c of 2 ° of I of article 8, applicable to processing
+falling under this section are established by the National Commission for Informatics and Freedoms, in
+consultation with the National Institute for Health Data mentioned in Article L. 1462-1 of the Health Code
+public and public and private organizations representative of the actors concerned.
+Processing in accordance with these standards can be implemented on condition that their managers
+send beforehand to the National Commission for Informatics and Freedoms a declaration attesting to
+this compliance.
+These repositories may also relate to the description and guarantees of the procedure allowing the updating of
+provision for processing of health data sets with a low risk of impact on life
+private.
+III. -The treatments mentioned in I which do not comply with a reference system mentioned in II cannot
+be implemented only after authorization from the National Commission for Informatics and Freedoms. The
+authorization request is presented in the forms provided for in Article 33.
+IV. -The National Commission for Informatics and Freedoms may, by a single decision, issue to the same
+requesting authorization for processing for the same purpose, relating to categories of
+identical data and having identical recipient categories.
+V. -The National Commission for Informatics and Freedoms takes a decision within two months from
+upon receipt of the request. However, this period may be extended once for the same period by decision.
+motivated by its president or when the National Institute of Health Data is referred to in application of the second
+paragraph of article 72.
+When the National Commission for Informatics and Freedoms has not taken a decision within these deadlines, the
+authorization request is deemed to have been accepted. However, this provision is not applicable if the authorization is
+the subject of a prior notice pursuant to subsection 2 of this section and that the notice or notices
+renderings are not expressly favorable.
+Article 67
+
+By way of derogation from Article 66, the processing of personal data in the field of health
+work by the bodies or services entrusted with a public service mission appearing on a list fixed by
+order of the ministers responsible for health and social security, taken after consultation with the National Commission for
+IT and freedoms, the sole purpose of which is to respond, in the event of an emergency, to an alert
+health and to manage the consequences thereof, within the meaning of section 1 of chapter III of title I of book IV of the first
+part of the Public Health Code, are subject only to the provisions of section 3 of chapter IV of the
+Regulation (EU) 2016/679 of April 27, 2016.
+The processing mentioned in the first paragraph of this article which uses the registration number of
+persons in the national identification directory of natural persons are implemented under the conditions
+provided for in article 30 of this law.
+The exemptions governed by the first paragraph of this article end one year after the creation of the processing.
+if the latter continues to be implemented beyond this period.
+Article 68
+
+Notwithstanding the rules relating to professional secrecy, members of the health professions may
+transmit to the data controller authorized under Article 66 the data to
+personal character they hold.
+When these data allow the identification of persons, their transmission must be carried out in
+conditions likely to guarantee their confidentiality. The National Commission for Informatics and Freedoms
+may adopt recommendations or benchmarks on the technical processes to be implemented.
+When the result of the data processing is made public, the direct or indirect identification of persons
+involved must be impossible.
+The persons called upon to carry out the data processing as well as those who have access to the data
+to which it relates are bound by professional secrecy under the penalties provided for in article 226-13 of the code
+criminal.
+Article 69
+
+The people from whom personal data is collected or about whom
+such data is transmitted are individually informed in accordance with the provisions of the Regulation
+(EU) 2016/679 of April 27, 2016.
+However, this information may not be provided if the data subject has intended to make use of the right
+which is recognized by article L. 1111-2 of the public health code to be left in the ignorance of a
+diagnosis or prognosis.
+
+Article 70
+
+The recipients of the information and exercise the rights of the data subject by the processing are the holders
+the exercise of parental authority, for minors, or the person in charge of a representation mission
+within the framework of a guardianship, a family authorization or a future protection mandate, for adults
+protected whose condition does not allow them to make an informed personal decision on their own.
+By way of derogation from the first paragraph of this article, for the processing of personal data
+carried out within the framework of research mentioned in 2 ° and 3 ° of Article L. 1121-1 of the Public Health Code
+or studies or evaluations in the field of health, having a purpose of public interest and including
+minors, information can be provided to only one of the holders of the exercise of authority
+parental if it is impossible to inform the other holder or if it cannot be consulted within a compatible timeframe
+with the methodological requirements specific to carrying out the research, study or evaluation at
+regard to its purposes. This paragraph does not preclude the subsequent exercise by each holder of
+the exercise of parental authority, the rights mentioned in the first paragraph.
+For these treatments, minors aged fifteen or over may object to the holders of the exercise of
+parental authority have access to the data concerning him collected during the research, study or
+evaluation. The minor then receives the information and exercises his rights alone.
+For these same treatments, minors aged fifteen or over may object to the holders of
+the exercise of parental authority are informed of the data processing if the fact of participating in it leads to
+reveal information on preventive action, screening, diagnosis, treatment or
+intervention for which the minor has expressly opposed the consultation of the holders of the authority
+parental, in application of Articles L. 1111-5 and L. 1111-5-1 of the Public Health Code, or if the family ties
+are broken and that the minor benefits personally from the reimbursement of benefits in kind from
+health and maternity insurance and additional cover set up by law n ° 99-641 of 27
+July 1999 establishing universal health coverage. He then exercises his rights alone.
+Article 71
+
+Information relating to the provisions of this subsection must be provided in particular in all
+establishment or center where prevention, diagnosis and treatment activities are carried out leading to the
+transmission of personal data for the processing mentioned in this title.
+Sub-section 2: Special provisions relating to processing for the purposes of research, study or
+evaluation in the health sector
+Article 72
+
+Automated processing of personal data, the purpose of which is or becomes research or
+studies in the field of health as well as the evaluation or analysis of care practices or activities or
+prevention are subject to subsection 1 of this section, subject to this subsection.
+The National Institute for Health Data mentioned in Article L. 1462-1 of the Public Health Code can be
+seize or be seized, under conditions defined by decree in Council of State, by the National Commission of
+data processing and freedoms or the minister responsible for health on the public interest nature presented by
+treatments mentioned in the first paragraph of this article.
+Article 73
+
+In accordance with the standards mentioned in II of article 66 of this law, reference methodologies are
+approved and published by the National Commission for Informatics and Freedoms. They are established in
+consultation with the National Institute for Health Data mentioned in Article L. 1462-1 of the Health Code
+public and public and private organizations representative of the actors concerned.
+When the processing conforms to a benchmark methodology, it can be implemented without authorization
+mentioned in article 66 of this law, on condition that its manager sends to the
+National Commission for Informatics and Freedoms a declaration attesting to this conformity.
+Article 74
+
+Anyone has the right to object to personal data concerning them being the subject of
+the lifting of professional secrecy made necessary by processing of the type mentioned in
+section 65.
+Article 75
+
+In the event that the research requires examination of genetic characteristics, informed and express consent
+data subjects must be obtained prior to the implementation of the data processing. The
+this article is not applicable to research carried out in application of article L. 1131-1-1 of the code of
+public health.
+Article 76
+
+Authorization for processing is granted by the National Commission for Informatics and Freedoms in the
+conditions defined in article 66, after notice:
+1 ° The competent committee for the protection of persons mentioned in Article L. 1123-6 of the Health Code
+public, for authorization requests relating to research involving human beings
+mentioned in Article L. 1121-1 of the same code;
+2 ° The expert committee for research, studies and evaluations in the field of health, for
+authorization requests relating to studies or evaluations as well as to research not involving the
+human person, within the meaning of 1 ° of this article. A decree in the Council of State, taken after the opinion of the
+National Commission for Informatics and Freedoms, sets the composition of this committee and defines its rules of
+operation. The members of the Expertise Committee are subject to Article L. 1451-1 of the Health Code
+public.
+The files presented in the context of this section, excluding research involving the person
+human, are deposited with a single secretariat provided by the National Institute of Health Data, which
+ensures their orientation towards the competent bodies.
+Article 77
+
+In accordance with the missions and powers of the National Commission for Informatics and Freedoms and
+in order to strengthen the proper application of security and data protection rules, an audit committee of the
+national health data system is established. This audit committee defines an audit strategy and then a
+programming, of which it informs the committee. He has audits carried out on all the systems bringing together,
+organizing or making available all or part of the data from the national health data system to
+research, study or evaluation purposes as well as the systems making up the national data system
+health.
+The audit committee includes representatives of the departments of the ministries responsible for health and safety
+social and solidarity, the National Health Insurance Fund responsible for processing the system
+national health data system, other data producers in the national health data system,
+the National Institute of Health Data, as well as a person representing private actors in the field of
+health. Qualified personalities may be appointed to it. The president of the National Commission of
+IT and Liberties, or its representative, attends as an observer.
+The audits, the content of which is defined by the audit committee, are carried out by service providers selected according to
+the criteria and procedures for obtaining guarantees attesting to their competence in the audit of
+information systems and their independence from the audited entity.
+The selected service provider submits to the chairman of the audit committee the list of people in charge of each audit and
+information to guarantee their skills and independence.
+The audit missions are carried out on documents and on site. The procedure followed includes an adversarial phase. The
+communication of individual medical data can only be done under the authority and in the presence of a
+doctor, with regard to information contained in a treatment necessary for the purposes of medicine
+prevention, medical research, medical diagnostics, the administration of care or treatment,
+or health service management.
+For each mission carried out, exchanges take place, if necessary, between the people in charge of the audits, the
+Chairman of the Audit Committee, the data controller mentioned in II of Article L. 1461-1 of the Code of
+public health and the president of the National Commission for Informatics and Freedoms.
+If the audit committee is aware of information likely to reveal serious shortcomings upstream or
+during an audit or in the event of opposition or obstruction of the audit, a report is sent without delay by the
+chairman of the audit committee to the chairman of the National Commission for Informatics and Freedoms.
+Each commissioned mission draws up a report highlighting in particular the anomalies observed and the shortcomings
+the rules applicable to audited information systems.
+If the mission finds serious shortcomings at the end of the audit, it immediately informs the chairman of the
+audit committee, which immediately informs the president of the National Commission for Informatics and Freedoms
+and the data controller mentioned in II of article L. 1461-1 of the public health code.
+In an emergency, the director general of the National Health Insurance Fund may suspend
+temporarily access to the national health data system before the end of the audit if it has
+sufficiently worrying elements concerning serious breaches of the aforementioned rules. He must in
+immediately inform the chairman of the committee and the chairman of the committee. Restoring access
+can only be done with the agreement of the latter with regard to the corrective measures taken by the audited entity. These
+provisions are without prejudice to the specific prerogatives of the National Commission for Informatics and
+freedoms.
+The final report of each mission is sent to the audit committee, to the president of the National Commission
+data processing and freedoms and to the audited data controller.
+A decree in the Council of State, taken after the opinion of the National Commission for Informatics and Freedoms, specifies
+the composition of the committee and defines its operating rules as well as the audit procedures.
+
+Section 4: Processing for archival purposes in the public interest, for research purposes
+scientific or historical or for statistical purposes
+Article 78
+
+When the processing of personal data is carried out by the public archive services in
+archival purposes in the public interest in accordance with Article L. 211-2 of the Heritage Code, the rights
+provided for in Articles 15, 16 and 18 to 21 of Regulation (EU) 2016/679 of 27 April 2016 do not apply in the
+to the extent that these rights make it impossible or seriously hinder the achievement of these purposes. Conditions
+and the appropriate guarantees provided for in article 89 of the same regulation are determined by the heritage code and
+other legislative and regulatory provisions applicable to public archives. They are also
+ensured by compliance with state-of-the-art standards in electronic archiving.
+A decree by the Council of State, taken after a reasoned and published opinion from the National Commission for Informatics and
+freedoms, determines under what conditions and subject to what guarantees it may be waived in all or
+party to the rights provided for in Articles 15,16,18 and 21 of the same Regulation, with regard to processing at
+scientific or historical research purposes, or and for statistical purposes.
+Article 79
+
+Under the conditions of b of 5 of article 14 of regulation (EU) 2016/679 of 27 April 2016, when the data to
+personal character were initially collected for another purpose, the provisions of 1 to 4 of the same article
+14 do not apply to processing for archival purposes in the public interest, for research purposes
+scientific or historical or for statistical purposes, or the reuse of such data for statistical purposes
+under the conditions of article 7 bis of law n ° 51-711 of June 7, 1951 on obligation, coordination and secrecy
+in terms of statistics.
+
+Section 5: Processing of personal data for the purposes of journalism and
+literary and artistic expression
+Article 80
+
+By way of derogation, the provisions of 5 ° of article 4, those of articles 6,46,48,49,50,53,118,119 and those of
+Chapter V of Regulation (EU) 2016/679 of April 27, 2016 does not apply, when such a derogation is
+necessary to reconcile the right to protection of personal data and freedom of expression and
+information, to the processing carried out for the purposes of:
+1 ° University, artistic or literary expression;
+2 ° To exercise in a professional capacity, the activity of journalist, in compliance with the ethical rules of this
+profession.
+The provisions of the preceding paragraphs do not preclude the application of the provisions of the Civil Code, laws
+relating to the written or audiovisual press and the penal code, which provide for the conditions for exercising the right to
+response and which prevent, limit, remedy and, where appropriate, punish breaches of privacy and
+reputation of people.
+
+Chapter IV: Rights and obligations specific to processing in the
+electronic communications sector
+Article 81
+
+The rights and obligations mentioned in chapters II and III apply subject to the provisions
+particulars of this chapter.
+Article 82
+
+Any subscriber or user of an electronic communications service must be clearly informed and
+complete, unless it has been previously completed by the controller or his representative:
+1 ° The purpose of any action aimed at accessing, by electronic transmission, information already
+stored in its electronic communications terminal equipment, or to enter information in
+this equipment;
+2 ° The means at his disposal to oppose it.
+These accesses or registrations can only take place if the subscriber or user has
+expressed, after receiving this information, his consent which may result from appropriate parameters of
+its connection device or any other device under its control.
+These provisions do not apply if access to the information stored in the terminal equipment of the
+the user or the recording of information in the user's terminal equipment:
+1 ° Either, has the sole purpose of enabling or facilitating communication by electronic means;
+2 ° Either, is strictly necessary for the provision of an online communication service at the express request
+of the user.
+Article 83
+
+I. - This article applies to the processing of personal data implemented within the framework of
+the provision to the public of electronic communications services over communications networks
+electronic devices open to the public, including those supporting data collection devices and
+Page 4
+
+identification.
+For the purposes of this article, a personal data breach is any breach of
+security resulting in accidental or unlawful destruction, loss, alteration, disclosure
+or unauthorized access to personal data being processed within the framework of the
+provision of electronic communications services to the public.
+II. - In the event of a personal data breach, the communications service provider
+accessible to the public immediately informs the National Commission for Informatics and Freedoms.
+When this violation may infringe the personal data or the privacy of a subscriber or
+of another natural person, the supplier also informs the interested party without delay.
+However, the notification of a personal data breach to the data subject is not necessary if the
+National Commission for Informatics and Liberties noted that appropriate protective measures have
+been implemented by the supplier in order to make the data incomprehensible to anyone not
+authorized to access it and have been applied to the data affected by the said violation.
+Failing this, the National Commission for Informatics and Liberties may, after examining the seriousness of the
+violation, give notice to the supplier to also inform the interested parties.
+III. - Each electronic communications service provider maintains an inventory of violations
+personal data, in particular their modalities, their effect and the measures taken to
+remedy and keep it at the disposal of the commission.
+
+Chapter V: Provisions governing the processing of personal data
+personal character relating to deceased persons
+Article 84
+
+The processing of personal data relating to deceased persons is governed by the
+provisions of this chapter.
+The rights mentioned in Chapter II expire on the death of the person concerned. However, they can be
+provisionally maintained under the conditions set out in Article 85.
+Article 85
+
+I. - Anyone can define directives relating to the storage, erasure and communication
+of his personal data after his death. These directives are general or specific.
+The general directives concern all personal data relating to the person
+concerned and can be registered with a digital trusted third party certified by the Commission
+national data processing and freedoms.
+The references of the general directives and the trusted third party with whom they are registered are listed.
+in a single register, the terms and access of which are set by decree of the Council of State, taken after advice
+motivated and published by the National Commission for Informatics and Freedoms.
+The specific directives concern the processing of personal data mentioned by these
+guidelines. They are registered with the data controllers concerned. They are the subject of
+specific consent of the data subject and may not result from the sole approval by the latter of the
+Terms of Service.
+The general and specific directives define the way in which the person intends to be exercised, after
+his death, the rights mentioned in Chapter II of this Title. Compliance with these guidelines is without prejudice
+provisions applicable to public archives containing personal data.
+When the directives provide for the communication of data which also include data to be
+personal nature relating to third parties, this communication is carried out in compliance with this law.
+The person can modify or revoke his directives at any time.
+The directives mentioned in the first paragraph of this I may designate a person responsible for their
+execution. When the person is deceased, the latter then has the capacity to take cognizance of the directives and
+request their implementation from the data controllers concerned. In the absence of designation or, except
+contrary directive, in the event of the death of the designated person, his heirs have the capacity to take cognizance of the
+directives on the death of their author and request their implementation from the data controllers
+concerned.
+Any contractual clause of the general conditions of use of a treatment relating to data to
+personal character limiting the prerogatives granted to the person by virtue of this article is deemed not to be
+written.
+II. - In the absence of directives or of contrary mention in these directives, the heirs of the person
+concerned may exercise, after his death, the rights mentioned in Chapter II of this Title II in the
+necessary measure:
+1 ° The organization and settlement of the deceased's estate. As such, heirs can access the
+processing of personal data concerning him in order to identify and obtain communication of
+useful information for the liquidation and division of the estate. They can also receive communication from
+digital goods or data resembling family memories, transmissible to heirs;
+2 ° The taking into account, by the data controllers, of his death. As such, the heirs can make
+close the user accounts of the deceased, oppose the continuation of data processing to
+personal character concerning it or have them updated.
+When the heirs so request, the controller must justify, at no cost to the
+applicant, that he has carried out the operations required in application of the previous paragraph.
+Disagreements between heirs on the exercise of the rights provided for in this II are brought before the court of
+large competent body.
+III. - Any provider of an online public communication service informs the user of the fate of the data
+which concern him at his death and allows him to choose whether or not to communicate his data to a third party that he
+designates.
+Article 86
+
+Information concerning deceased persons, including that appearing on the certificates of the cases
+death, may be the subject of treatment for research, study or evaluation purposes in the field
+health, unless the person concerned expressed his refusal in writing during his lifetime.
+
+Title III: Provisions applicable to processing operations falling under
+Directive (EU) 2016/680 of the European Parliament and of the Council of 27
+April 2016 on the protection of individuals with regard to
+processing of personal data by the authorities
+competent for the purpose of preventing and detecting infringements
+criminal proceedings, investigations and prosecutions in the matter or the execution of
+criminal sanctions, and the free movement of such data, and
+repealing Council Framework Decision 2008/977 / JHA
+Chapter I: General provisions
+Article 87
+
+This title applies, without prejudice to Title I, to the processing of personal data
+work, for the purposes of prevention and detection of criminal offenses, investigation and prosecution in the matter
+or the execution of criminal sanctions, including protection against threats to public safety and
+prevention of such threats, by any competent public authority or any other body or entity to which
+been entrusted, for the same purposes, with the exercise of public authority and the prerogatives of public power, hereinafter
+referred to as the competent authority.
+These processing operations are only lawful if and to the extent that they are necessary for the performance of a task.
+carried out, for one of the purposes set out in the first paragraph, by a competent authority within the meaning of the same
+first paragraph and where the provisions of Articles 89 and 90 are complied with.
+proportionality of the retention period of personal data, taking into account the purpose of the file
+and the nature or seriousness of the offenses concerned.
+Article 88
+
+The processing of data mentioned in I of article 6 is only possible if absolutely necessary,
+subject to appropriate guarantees for the rights and freedoms of the data subject, and either if it is authorized
+by a legislative or regulatory provision, or if it aims to protect the vital interests of a person
+physical, or if it relates to data clearly made public by the data subject.
+Article 89
+
+I. - If the processing is carried out on behalf of the State for at least one of the purposes set out in
+first paragraph of Article 87, it is provided for by a legislative or regulatory provision made in the
+conditions provided for in I of article 31 and in articles 33 to 36.
+II. - If the processing relates to the data mentioned in I of article 6, it is provided for by a provision
+legislative or regulatory taken under the conditions provided for in II of Article 31.
+Article 90
+
+If the processing is likely to create a high risk for the rights and freedoms of individuals
+physical, in particular because it relates to the data mentioned in I of article 6, the person in charge of
+processing carries out an impact assessment relating to the protection of personal data.
+If the processing is implemented on behalf of the State, this impact assessment is sent to the Commission
+national data processing and freedoms with the request for an opinion provided for in article 33.
+In other cases, the controller or his subcontractor consults the National Commission for
+data processing and freedoms prior to the implementation of the processing of personal data,
+which also takes a decision within the time limits provided for in Article 34:
+1 ° Or when the impact assessment relating to data protection indicates that the processing would present a
+high risk if the controller does not take measures to mitigate the risk;
+2 ° Or when the type of processing, in particular due to the use of new mechanisms,
+technologies or procedures, presents high risks to the freedoms and rights of data subjects.
+Article 91
+
+Personal data collected by the competent authorities for the purposes set out in
+first paragraph of Article 87 may not be processed for other purposes, unless such processing is
+authorized by legislative or regulatory provisions or by European Union law. When
+personal data are processed for such other purposes, Regulation (EU) 2016/679 of April 27, 2016
+applies, unless the processing is carried out as part of an activity outside the scope
+application of European Union law.
+When the competent authorities are responsible for carrying out tasks other than those carried out for the
+purposes set out in the first paragraph of Article 87, Regulation (EU) 2016/679 of April 27, 2016 applies to
+processing carried out for such purposes, including archival purposes in the public interest, for the purposes of
+scientific or historical research or for statistical purposes, unless the processing is carried out within the
+as part of an activity outside the scope of European Union law.
+If the processing is subject to specific conditions, the competent authority transmitting the data informs
+the recipient of these personal data of these conditions and the obligation to respect them.
+The competent authority which transmits the data does not apply, by virtue of the third paragraph of this article,
+to recipients established in other Member States of the European Union or to services, bodies and
+bodies established under Chapters 4 and 5 of Title V of the Treaty on the Functioning of the European Union
+conditions different from those applicable to transfers of similar data within the State
+member to which the competent authority transmitting the data belongs.
+Article 92
+
+Processing carried out for one of the purposes set out in the first paragraph of Article 87 other than those for
+which the data were collected are authorized if they are necessary and proportionate for this purpose, under
+subject to compliance with the provisions of Chapter I of Title I and this Title.
+These processing operations may include archiving in the public interest, for scientific, statistical or
+historical, for one of the purposes set out in the first paragraph of Article 87.
+Article 93
+
+Processing for archival purposes in the public interest, for scientific or historical research purposes
+or for statistical purposes are implemented under the conditions provided for in 2 ° and 5 ° of Article 4 as well as, for
+the processing referred to in Article 91, in Section 4 of Chapter III of Title II.
+Article 94
+
+Personal data based on facts are, as far as possible, distinguished from those
+based on personal assessments.
+Article 95
+
+No court decision involving an assessment of a person's behavior may have as its
+basis for automated processing of personal data intended to evaluate certain aspects of the
+personality of that person.
+No other decision producing legal effects with regard to a person or affecting him in a
+significant cannot be taken on the sole basis of automated data processing intended to predict or
+to assess certain personal aspects relating to the person concerned.
+
+Any profiling which results in discrimination against natural persons on the basis of categories
+particular personal data mentioned in I of article 6 is prohibited.
+Article 96
+
+Personal data may not be the subject of a processing operation on the part of a subcontractor.
+dealing only under the conditions provided for in 1, 2 and 10 of article 28 and article 29 of Regulation (EU) 2016/679
+of April 27, 2016 and to this article.
+Subcontractors must provide sufficient guarantees regarding the implementation of technical measures and
+appropriate organizational structure, so that the processing meets the requirements of this Title and
+guarantees the protection of the rights of the data subject.
+The processing by a processor is governed by a contract or other legal act, which binds the processor to
+with regard to the controller, defines the object and duration of the processing, the nature and the purpose of the
+processing, the type of personal data and the categories of data subjects, the obligations and
+the rights of the data controller as well as the technical and organizational measures intended to
+guarantee the security of the processing, and provides that the subcontractor acts only on the instruction of the person in charge of
+treatment. The content of this contract or of this legal act is specified by decree of the Council of State taken after
+opinion of the National Commission for Informatics and Freedoms.
+
+Chapter II: Obligations incumbent on the competent authorities,
+responsible for processing personal data and
+subcontractors
+Article 97
+
+The competent authorities shall take all reasonable measures to ensure that the personal data
+that are inaccurate, incomplete or no longer up to date be erased or rectified without delay or not
+are not transmitted or made available. To this end, each competent authority verifies, to the extent of
+possible, the quality of personal data before their transmission or availability.
+As far as possible, during any transmission of personal data, additional
+information enabling the receiving competent authority to judge the accuracy, completeness and
+reliability of personal data and their level of updating.
+If it turns out that inaccurate personal data has been transmitted or that personal data
+personnel have been transmitted illegally, the recipient is informed without delay. In this case, the
+personal data are rectified or erased or their processing is restricted in accordance with Article
+106.
+Article 98
+
+The controller establishes, as far as possible and where appropriate, a clear distinction between
+personal data of different categories of data subjects, such as:
+1 ° Persons in respect of whom there are substantial grounds for believing that they have committed or are on the
+point of committing a criminal offense;
+2 ° Persons convicted of a criminal offense;
+3 ° Victims of a criminal offense or persons in respect of whom certain facts lead one to believe
+that they could be victims of a criminal offense;
+4 ° Third parties to a criminal offense, such as persons who may be called upon to testify during investigations into
+related to criminal offenses or subsequent criminal proceedings, persons who can provide
+information on criminal offenses or contacts or associates of any of the persons mentioned in
+1 ° and 2 °.
+Article 99
+
+I. - In order to demonstrate that the processing is carried out in accordance with this title, the controller
+and its subcontractor implement the measures provided for in 1 and 2 of Articles 24 and 25 of Regulation (EU)
+2016/679 of April 27, 2016 and those appropriate in order to guarantee a level of security adapted to the risk,
+in particular with regard to processing relating to special categories of personal data
+personnel mentioned in I of article 6 of this law.
+II. - With regard to automated processing, the controller or his subcontractor puts in
+implement, following a risk assessment, measures to:
+1 ° Prevent any unauthorized person from accessing the facilities used for treatment;
+2 ° Prevent data carriers from being read, copied, modified or deleted in an unauthorized manner.
+authorized;
+3 ° Prevent the unauthorized entry of personal data into the file, as well as the inspection,
+unauthorized modification or deletion of stored personal data;
+4 ° Prevent automated processing systems from being used by people who are not there
+authorized using data transmission facilities;
+5 ° Guarantee that persons authorized to use an automated processing system cannot access
+that the personal data to which their authorization relates;
+6 ° Guarantee that it can be verified and noted at which instances personal data has been or
+may be transmitted or made available by data transmission facilities;
+7 ° Guarantee that it can be verified and ascertained a posteriori which personal data has been
+introduced into automated processing systems and when and by whom they were there
+introduced;
+8 ° Prevent that, during the transmission of personal data as well as during the transport of
+data carriers, the data may be read, copied, modified or deleted in an unauthorized manner;
+9 ° Guarantee that the installed systems can be restored in the event of an interruption;
+10 ° Ensure that the system functions operate, that operating errors are signaled and that the
+stored personal data cannot be corrupted by a malfunction of the
+system.
+Article 100
+
+The controller and his subcontractor keep a register of processing activities in the
+conditions provided for in 1 to 4 of Article 30 of Regulation (EU) 2016/679 of April 27, 2016. This register contains
+also the general description of the measures to guarantee a level of security adapted to the risk, in particular
+with regard to processing relating to special categories of personal data
+mentioned in I of article 6 of this law, the indication of the legal basis of the processing operation, including
+including transfers, for which the personal data are intended and, where applicable, the use of
+profiling.
+Article 101
+
+The controller or his subcontractor establishes for each automated processing a log of
+collection, modification, consultation, communication operations, including transfers,
+interconnection and erasure, relating to such data.
+The logs of consultation and communication operations make it possible to establish the reason, the date and
+time. They also make it possible, as far as possible, to identify the people who consult or
+communicate the data and the recipients thereof.
+This log is only used for the purpose of verifying the lawfulness of the processing, self-checking, guarantee
+data integrity and security and for the purposes of criminal proceedings.
+This newspaper is made available to the National Commission for Informatics and Freedoms at its request.
+Article 102
+
+Articles 31, 33 and 34 of Regulation (EU) 2016/679 of April 27, 2016 are applicable to the processing of
+personal data covered by this title.
+If the personal data breach relates to personal data that has been
+transmitted by the controller established in another Member State of the European Union or to that
+ci, the controller established in France also notifies the violation to the controller of
+the other Member State as soon as possible.
+The communication of a personal data breach to the data subject may be delayed,
+limited or not to be issued therefore and for as long as a measure of this nature constitutes a measure
+necessary and proportionate in a democratic society, taking into account fundamental rights and
+legitimate interests of the individual, to avoid interfering with investigations, research or proceedings
+administrative or judicial, to avoid prejudicing the prevention or detection of criminal offenses,
+investigation or prosecution thereof or the execution of criminal sanctions, to protect security
+public, to protect national security or to protect the rights and freedoms of others.
+Article 103
+
+Except for jurisdictions acting in the exercise of their judicial function, the data controller
+designates a data protection officer.
+A single data protection officer may be appointed for several competent authorities, depending on
+their organizational structure and size.
+The provisions of 5 and 7 of article 37, 1 and 2 of article 38 and 1 of article 39 of Regulation (EU)
+2016/679 of April 27, 2016, insofar as they concern the data controller, are applicable to
+processing of personal data covered by this title.
+
+Chapter III: Rights of the data subject
+Article 104
+
+I. - The data controller makes the following information available to the data subject:
+1 ° The identity and contact details of the data controller and, where applicable, those of his representative;
+2 ° Where applicable, the contact details of the data protection officer;
+3 ° The purposes pursued by the processing for which the data are intended;
+4 ° The right to lodge a complaint with the National Commission for Informatics and Freedoms and
+the contact details of the commission;
+5 ° The existence of the right to ask the controller for access to personal data,
+their rectification or erasure, and the existence of the right to request a limitation of the processing of
+personal data relating to a data subject.
+II. - In addition to the information mentioned in I, the data controller provides the data subject,
+in specific cases, the following additional information to enable him to exercise his rights:
+1 ° The legal basis of the processing;
+2 ° The retention period for personal data or, failing that when this is not possible, the
+criteria used to determine this duration;
+3 ° Where applicable, the categories of recipients of personal data, including those established in
+States not belonging to the European Union or within international organizations;
+4 ° If necessary, additional information, in particular when the personal data are
+collected without the knowledge of the data subject.
+Article 105
+
+The data subject has the right to obtain from the controller confirmation that data to be
+personal character concerning them are or are not processed and, when they are, the right to access said
+data as well as the following information:
+1 ° The purposes of the processing as well as its legal basis;
+2 ° The categories of personal data concerned;
+3 ° The recipients or categories of recipients to whom the personal data have been
+communicated, in particular to recipients who are established in States outside the Union
+European or within international organizations;
+4 ° Where possible, the retention period for personal data envisaged or, failing this
+where this is not possible, the criteria used to determine this duration;
+5 ° The existence of the right to request from the controller the rectification or erasure of the data
+personal nature, and the existence of the right to request a limitation of the processing of such data;
+6 ° The right to lodge a complaint with the National Commission for Informatics and Freedoms and
+the contact details of the commission;
+7 ° The communication of personal data being processed as well as any information
+available as to their source.
+Article 106
+
+I. - The data subject has the right to obtain from the controller:
+1 ° That personal data concerning him which are
+inaccurate;
+2 ° That incomplete personal data concerning him be completed, including
+providing a supplementary declaration for this purpose;
+3 ° That personal data concerning him / her be erased as soon as possible when the
+processing is carried out in violation of the provisions of this law or when such data must be erased
+to comply with a legal obligation to which the controller is subject;
+4 ° That the processing be limited in the cases provided for in III of this article.
+II. - When the interested party so requests, the data controller must justify that he has carried out the
+operations required in application of I.
+III. - Instead of deleting, the data controller limits the processing:
+1 ° Or when the accuracy of the personal data is contested by the data subject without his
+it is possible to determine whether the data is correct or not;
+2 ° Or when the personal data must be kept for evidentiary purposes.
+When processing is limited in application of 1 ° of this III, the controller informs the
+data subject before terminating the restriction of processing.
+IV. - The data controller informs the data subject of any refusal to rectify or delete
+personal data or to limit the processing of such data, as well as the reasons for the refusal.
+V. - The data controller communicates the rectification of inaccurate personal data to
+the competent authority from which these data originate.
+VI. - When personal data has been rectified or erased or the processing has been limited to
+under I and III, the data controller notifies the recipients so that they can rectify or erase the
+data or limit the processing of data under their responsibility.
+Article 107
+
+I. - The rights of the natural person concerned may be subject to restrictions as provided for
+in II of this article from then on and for as long as such a restriction constitutes a necessary measure and
+proportionate in a democratic society taking into account fundamental rights and interests
+legitimate person for:
+1 ° Avoid interfering with investigations, research or administrative or legal proceedings;
+2 ° Avoid harming the prevention or detection of criminal offenses, investigations or prosecutions by
+matter or execution of penal sanctions;
+3 ° Protect public security;
+4 ° Protect national security;
+5 ° Protect the rights and freedoms of others.
+These restrictions are provided for in the act establishing the treatment.
+II. - When the conditions provided for in I are met, the data controller can:
+1 ° Delay or limit the communication to the person concerned of the information mentioned in II of article
+104 or not to communicate this information;
+2 ° Refuse or limit the right of access of the data subject provided for in Article 105;
+3 ° Not informing the person of the refusal to rectify or erase personal data or to limit
+the processing of these data, nor the reasons for this decision, by derogation from IV of article 106.
+III. - In the cases mentioned in 2 ° of II of this article, the data controller informs the person
+concerned, as soon as possible, of any refusal or limitation of access as well as the reasons for the refusal or
+of limitation. This information may not be provided when its communication is likely to
+compromise one of the objectives set out in I. The data controller records the reasons of fact or of
+law on which the decision is based and makes this information available to the National Commission for
+computing and freedoms.
+IV. - In the event of restriction of the rights of the data subject intervening in application of II or III, the
+controller informs the data subject of the possibility, provided for in Article 108, to exercise their
+rights through the National Commission for Informatics and Freedoms. Except in the case provided for in 1 ° of
+II, he also informs him of the possibility of filing a judicial appeal.
+Article 108
+
+In the event of restriction of the rights of the data subject intervening in application of II or III of article 107,
+the person concerned can apply to the National Commission for Informatics and Freedoms.
+The commission appoints one of its members belonging or having belonged to the Council of State, to the Court of
+cassation or to the Court of Auditors to carry out the useful investigations and make changes
+required. The latter may be assisted by an agent of the commission. The commission informs the person
+concerned that the necessary verifications have been carried out and his right to lodge a judicial appeal.
+When the commission notes, in agreement with the controller, that the communication of
+the data contained therein does not call into question its purposes, State security, defense or security
+public, these data may be communicated to the applicant.
+Article 109
+
+I. - The information mentioned in Articles 104 to 106 is provided by the data controller to the
+data subject by any appropriate means, including by electronic means and, in general, under the
+same form as request.
+II. -No payment is required to take the measurements and provide this same information, except in the case of
+manifestly unfounded or abusive request.
+In the event of a manifestly unfounded or abusive request, the data controller may also refuse to
+follow up on the request.
+In the event of a dispute, the burden of proof of the manifestly unfounded or abusive nature of the requests
+is the responsibility of the data controller to whom they are sent.
+Article 110
+
+Any natural person has the right to oppose, for legitimate reasons, that personal data
+personnel concerning them are subject to treatment.
+The provisions of the first paragraph do not apply when the processing meets a legal obligation or
+when the application of these provisions has been precluded by an express provision of the act establishing the
+treatment.
+Article 111
+
+The provisions of this chapter do not apply when the personal data appear either
+in a judicial decision, or in a judicial file being processed during a procedure
+criminal. In these cases, access to this data and the conditions for rectifying or erasing this data do not
+may be governed only by the provisions of the Code of Criminal Procedure.
+
+Chapter IV: Transfers of personal data to States
+not belonging to the European Union or to established recipients
+in states outside the European Union
+Article 112
+
+The person responsible for processing personal data may not transfer data or authorize the
+transfer of data already transmitted to a State which does not belong to the European Union until the
+following conditions are met:
+1 ° The transfer of this data is necessary for one of the purposes set out in the first paragraph of article 87;
+2 ° The personal data are transferred to a person in charge established in this State not belonging to
+the European Union or within an international organization which is a competent authority responsible for
+purposes coming under the first paragraph of Article 87 in France;
+3 ° If the personal data come from another State, the State which transmitted these data has
+previously authorized this transfer in accordance with its national law.
+However, if the prior authorization cannot be obtained in good time, such personal data
+may be transmitted again without the prior authorization of the State which transmitted these data when
+this new transmission is necessary to prevent a serious and immediate threat to security
+of another State or for the protection of the essential interests of France. The authority from which came
+this personal data is informed without delay;
+4 ° The European Commission has adopted an adequacy decision in application of article 36 of the directive
+(EU) 2016/680 of 27 April 2016 or, in the absence of such a decision, a legally binding instrument
+provides appropriate guarantees with regard to the protection of personal data or, in
+in the absence of such a decision and such an instrument, the data controller has assessed all the
+circumstances of the transfer and believes that there are such appropriate safeguards.
+The appropriate guarantees provided by a binding legal instrument mentioned in 4 ° may result
+or guarantees relating to the protection of data mentioned in the agreements implemented with
+this State does not belong to the European Union, or legally binding provisions required
+the opportunity for data exchange.
+When the controller other than a court carrying out a processing activity within the framework of
+of its judicial activities transfers personal data on the sole basis of the existence
+appropriate guarantees with regard to the protection of personal data, it advises the Commission
+national data processing and freedoms categories of transfers falling under this foundation.
+In this case, the data controller must keep track of the date and time of the transfer, the information
+on the receiving competent authority, the justification for the transfer and the personal data
+transferred. This information is made available to the National Commission for Informatics and
+freedoms at his request.
+Where the European Commission has repealed, amended or suspended an adequacy decision adopted in
+application of article 36 of directive (EU) 2016/680 of 27 April 2016, the data controller can
+nevertheless transfer personal data or authorize the transfer of data already transmitted
+to a State not belonging to the European Union if appropriate guarantees with regard to the
+protection of personal data are provided in a legally binding instrument or if
+this manager believes, after having assessed all the circumstances of the transfer, that there are guarantees
+appropriate with regard to the protection of personal data.
+Article 113
+
+By way of derogation from Article 112, the person in charge of processing personal data may not, in
+the absence of an adequacy decision or of appropriate guarantees, transfer this data or authorize the transfer
+of data already transmitted to a State which does not belong to the European Union until the transfer is
+necessary :
+1 ° To protect the vital interests of the person concerned or of another person;
+2 ° To protect the legitimate interests of the data subject when French law so provides;
+3 ° To prevent a serious and immediate threat to the public security of another State;
+4 ° In special cases, for one of the purposes set out in the first paragraph of Article 87;
+5 ° In a particular case, the establishment, exercise or defense of legal rights in connection with the
+same purposes.
+In the cases mentioned in 4 ° and 5 ° of this article, the data controller
+personnel do not transfer this data if they believe that the fundamental rights and freedoms of the person
+concerned outweigh the public interest in the context of the proposed transfer.
+When a transfer is made for the purpose of safeguarding the legitimate interests of the data subject, the
+controller keeps track of the date and time of the transfer, information on the authority
+competent recipient, the justification for the transfer and the personal data transferred. He puts
+this information available to the National Commission for Informatics and Freedoms at its request.
+Article 114
+
+Any competent public authority mentioned in the first paragraph of Article 87 may, in certain cases
+individuals, transfer personal data directly to recipients established in a State
+not belonging to the European Union when the other provisions of this law applicable to
+processing operations falling under the same Article 87 are complied with and that the following conditions are met:
+1 ° The transfer is necessary for the performance of the mission of the competent authority which transfers these data for
+one of the purposes set out in the first paragraph of said Article 87;
+2 ° The competent authority which transfers these data establishes that there are no fundamental rights or freedoms
+of the data subject which prevail over the public interest making the transfer necessary in the case in question;
+3 ° The competent authority which transfers these data considers that the transfer to the competent authority of the other State
+is ineffective or inappropriate, in particular because the transfer cannot be made in a timely manner;
+4 ° The competent authority of the other State is informed as soon as possible, unless this is ineffective
+or inappropriate;
+5 ° The competent authority which transfers these data informs the recipient of the purpose or purposes for
+which the personal data transmitted must only be processed by
+this recipient, provided that such processing is necessary.
+The competent authority transferring data informs the National Commission for Informatics and
+freedoms of transfers meeting the conditions provided for in this article.
+The competent authority keeps track of the date and time of this transfer, information on the recipient,
+the justification for the transfer and the personal data transferred.
+
+Title IV: Provisions applicable to processing relating to State security and
+defense
+Article 115
+
+This title applies, without prejudice to Title I, to the processing of personal data
+work on behalf of the State and which concern State security or defense.
+
+Chapter I: Rights of the data subject
+Article 116
+
+I. - The person from whom personal data concerning him is collected is
+informed, unless it has been previously informed, by the data controller or his representative:
+1 ° The identity of the controller and, where applicable, that of his representative;
+2 ° The purpose of the processing for which the data is intended;
+3 ° The obligatory or optional nature of the answers;
+
+4 ° The possible consequences, with regard to him, of a failure to answer;
+5 ° The recipients or categories of recipients of the data;
+6 ° The rights which it holds from the provisions of Articles 117 to 120;
+7 ° Where applicable, the planned transfers of personal data to a non-member State
+Page 5
+
+of the European Union ;
+8 ° The retention period of the categories of data processed or, if this is not possible, the criteria used
+allowing this duration to be determined.
+When such data is collected by means of questionnaires, the latter must mention the
+prescriptions appearing in 1 °, 2 °, 3 ° and 6 °.
+II. -When personal data has not been collected from the data subject, the
+controller or his representative must provide the latter with the information listed in I as soon as
+the recording of the data or, if a communication of the data to third parties is envisaged, at the latest when
+of the first data communication.
+When the personal data was initially collected for another purpose, the provisions of
+the previous paragraph do not apply when the data subject is already informed or when his
+information proves impossible or requires efforts disproportionate to the interest of the process.
+III. - The provisions of I do not apply to the data collected under the conditions provided for in II in the
+to the extent that such a limitation is necessary to respect the purposes pursued by the processing.
+Article 117
+
+Any natural person has the right to oppose, for legitimate reasons, that personal data
+personnel concerning them are subject to treatment.
+The provisions of the first paragraph do not apply when the processing meets a legal obligation or
+when the application of these provisions has been precluded by an express provision of the act authorizing the
+treatment.
+Article 118
+
+I. - Requests for the exercise of the right of access, rectification and erasure are addressed to the
+National Commission for Informatics and Liberties which designates one of its members belonging to or having
+belonged to the Council of State, the Court of Cassation or the Court of Auditors to carry out useful investigations
+and make the necessary changes. The latter may be assisted by an agent of the commission. The
+commission informs the person concerned that the necessary verifications have been carried out and of their right to
+lodge a judicial appeal.
+When the commission notes, in agreement with the controller, that the communication of
+the data contained therein does not call into question its purposes, State security, defense or security
+public, these data may be communicated to the applicant.
+Article 119
+
+I. - By way of derogation from article 118, when the processing is likely to include information whose
+communication would not jeopardize the purposes assigned to it, the regulatory act authorizing the
+processing may provide that the rights of access, rectification and erasure may be exercised by the
+data subject to the data controller directly contacted under the conditions provided for in II to
+III of this article.
+II. - The person concerned proving his identity has the right to obtain:
+1 ° Confirmation that personal data concerning them are or are not the subject of this
+treatment ;
+2 ° Information relating to the purposes of the processing, the categories of personal data
+processed and to the recipients or categories of recipients to whom the data are communicated;
+3 ° Where applicable, information relating to the transfers of personal data envisaged to
+destination of a non-member state of the European Union;
+4 ° The communication, in an accessible form, of personal data concerning him as well as
+any information available as to the origin of these;
+5 ° Information making it possible to know and contest the logic underlying the automated processing in
+case of a decision taken on the basis of it and producing legal effects with regard to the person concerned.
+Obviously abusive requests, in particular by their number, their repetitive or systematic nature
+can be rejected.
+III. - The data subject proving his identity may also require the controller to
+are, as the case may be, rectified, supplemented, updated, blocked or erased the personal data
+personnel concerning it, which are inaccurate, incomplete, equivocal, out of date, or whose collection, use,
+disclosure or retention is prohibited.
+When the interested party so requests, the data controller must justify, at no cost to the applicant,
+that he has carried out the required operations.
+In the event of a dispute, the burden of proof rests with the data controller with whom the
+right of access except when it is established that the contested data were communicated by the interested party or with
+his agreement.
+If data has been transmitted to a third party, the controller must perform the necessary diligence in order to
+notify it of the transactions it has carried out in accordance with the first paragraph of III.
+Article 120
+
+No court decision involving an assessment of a person's behavior may have as its
+basis for automated processing of personal data intended to evaluate certain aspects of the
+personality of that person.
+No other decision producing legal effects with regard to a person or affecting him in a
+significant cannot be taken on the sole basis of automated processing of personal data
+personnel intended to foresee or evaluate certain personal aspects relating to the data subject.
+
+Chapter II: Other provisions
+Section 1: Obligations incumbent on the controller
+Article 121
+
+The controller is required to take all useful precautions, with regard to the nature of the data
+and the risks presented by the processing, to preserve data security and, in particular, prevent
+whether they are distorted, damaged, or that unauthorized third parties have access to them.
+
+Section 2: Obligations of the subcontractor
+Article 122
+
+Personal data may not be the subject of a processing operation on the part of a subcontractor.
+processor, a person acting under the authority of the controller or that of the processor, that
+on the instructions of the controller.
+The subcontractor must present sufficient guarantees to ensure the implementation of security measures
+and confidentiality mentioned in 6 ° of article 4 and in article 121. This requirement does not discharge the
+controller of its obligation to ensure compliance with these measures.
+The contract between the subcontractor and the controller includes an indication of the obligations incumbent on
+to the subcontractor in terms of data security and confidentiality protection and provides that the
+subcontractor can only act on the instruction of the controller.
+
+Section 3: Transfers of personal data to States not belonging to
+the European Union or to recipients established in States not belonging to
+the European Union
+Article 123
+
+The controller may not transfer personal data to a State that does not belong to
+not to the European Union unless this State ensures a sufficient level of protection of privacy and freedoms
+and fundamental rights of individuals with regard to the processing of which these data are subject or may be
+the object.
+The sufficiency of the level of protection provided by a State is assessed in particular on the basis of
+provisions in force in that State, the safety measures applied there, specific characteristics
+processing, such as its purposes and duration, as well as the nature, origin and destination of the data
+processed.
+Article 124
+
+However, the data controller may transfer personal data to a State not
+not meeting the conditions of article 123 if the person to whom the data relates has consented
+expressly upon their transfer or if the transfer is necessary under one of the following conditions:
+1 ° To safeguard the life of this person;
+2 ° To safeguard the public interest;
+3 ° Compliance with obligations enabling the establishment, exercise or defense of legal claims to be ensured;
+4 ° The consultation, under regular conditions, of a public register which, by virtue of legislative provisions
+or regulatory, is intended for the information of the public and is open to consultation of the latter or any
+person showing a legitimate interest;
+5 ° The performance of a contract between the controller and the data subject, or of pre-contractual measures
+taken at the request of the latter;
+6 ° At the conclusion or performance of a contract concluded or to be concluded, in the interest of the person concerned,
+between the controller and a third party.
+An exception may also be made to the prohibition provided for in article 123 if such a transfer is authorized by
+decree, taken after a reasoned opinion from the National Commission for Informatics and Freedoms, when the processing
+guarantees a sufficient level of protection of privacy and the fundamental rights and freedoms of
+people, in particular because of the contractual clauses or internal rules to which it is subject. When the
+transferred data result from processing created by a regulatory act exempted from publication in
+application of III of article 31, the decree authorizing the transfer is itself exempt from publication.
+The committee takes a decision within two months of receiving the request for an opinion.
+However, this period may be renewed once by reasoned decision of its chairman. When the commission does
+has not taken a decision within these time limits, the opinion requested from the commission on the transfer is deemed to be favorable.
+
+Title V: Provisions relating to overseas territories
+Article 125
+
+This law is applicable in New Caledonia, French Polynesia, the Wallis and Futuna Islands and
+in the French Southern and Antarctic Territories, in its wording resulting from ordinance n ° 2018-1125 of
+December 12, 2018 issued in application of article 32 of law n ° 2018-493 of June 20, 2018 relating to
+protection of personal data and amending Law No. 78-17 of 6 January 1978 relating to
+data processing, files and freedoms and various provisions concerning the protection of data at
+personal character.
+Article 126
+
+For the application of this law in Saint-Barthélemy, in Saint-Pierre-et-Miquelon, in New Caledonia, in
+French Polynesia, in the Wallis and Futuna Islands and in the French Southern and Antarctic Lands, the
+reference to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protection of individuals with regard to the processing of personal data and the freedom
+circulation of these data is replaced by the reference to the rules in force in mainland France by virtue of
+Regulation (EU) 2016/679 of April 27, 2016.
+Article 127
+
+Article 37 of this law is not applicable in New Caledonia and French Polynesia insofar as it
+interests group action before the courts of the judiciary.
+Article 128
+
+I. - For the application of article 37 of this law in the Wallis and Futuna Islands, the words: “of articles L.
+2122-1, L. 2122-5 or L. 2122-9 of the labor code ”are replaced by the words:“ of the decree adopted in application
+of article 73 of law n ° 52-1322 of December 15, 1952 establishing a labor code in the territories and
+associated territories under the French overseas ministry ”.
+II. - For the application of articles 65 to 77 of this law in New Caledonia, in French Polynesia, in
+the Wallis and Futuna Islands and in the French Southern and Antarctic Lands, the references to articles L. 14511, L. 1461-1, L. 1462-1, L. 6113-7 and L. 6113-8 of the public health code are replaced by the provisions
+having the same object applicable locally.
+III. - For the application of article 67 of this law in New Caledonia and French Polynesia, the
+reference to section 1 of chapter III of title I of book IV of part one of the public health code
+is replaced by the provisions having the same object applicable locally.
+
+Subscribe to the newsletter
+name@example.fr
+
+SUBSCRIBE TO THE NEWSLETTER
+
+Your email address is only used to send you CNIL newsletters. You
+can use the unsubscribe link integrated in the newsletter at any time. Learn more about managing your
+data and your rights
+
+National Commission for Informatics and
+Freedoms
+
+TECHNOLOGIES
+
+MY STEPS
+
+THEMES
+
+Biometrics
+
+Understand my rights
+
+Bank-Credit
+
+Cookies and other trackers
+
+Control my data
+
+Trade - advertising
+
+Cybersecurity
+
+To act
+
+Coronavirus (COVID-19)
+
+Video surveillance -
+
+What is data
+
+Innovation
+
+Video protection
+
+personal?
+
+Housing
+
+Artificial intelligence
+MEDIATHETIC
+
+Connected objects
+
+GLOSSARY
+
+Blockchain
+Civic tech
+
+FR-EN GLOSSARY
+NEED HELP
+HURRY
+
+Open data
+OFFICIAL TEXTS
+
+Police-Justice
+Social
+
+The European framework
+
+VSE-PME
+
+The national framework
+
+Job
+
+The decisions of the CNIL
+
+Public services
+
+GDPR in dataviz
+
+Political and civic life
+
+FR | IN
+COOKIES MANAGEMENT
+
+CNIL
+Missions
+Operation
+In Europe & in the world
+A look back at the history of the CNIL
+Interregulation and partnerships
+Recruitment
+Public markets
+Open CNIL
+
+LEGAL NOTICE | PERSONAL DATA | PUBLIC INFORMATION | RECRUITMENT | RSS FEEDS | MY ACCOUNT | CONTACT
+
+

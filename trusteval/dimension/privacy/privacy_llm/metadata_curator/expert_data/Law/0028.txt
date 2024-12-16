@@ -1,0 +1,572 @@
+Page 1
+
+Anyone installing a security camera used to have to comply with privacy legislation. With time, however,
+showed that a specific law was needed to optimally protect the privacy of citizens. Only
+in this way, the interests of all parties could best be met: the filmmaker and the
+filmed.
+
+As with the GDPR, the Camera Act also provides for a right of access. Everyone who filmed
+has a right to inspect the images. This right can of course only be exercised
+when the images were actually recorded. To exercise this right
+a reasoned request to the controller in accordance with the GDPR is sufficient. It
+request must contain sufficient detailed information to accurately identify the images concerned
+to be able to locate.
+
+What is a security camera?
+According to the Camera Act, a surveillance camera is:
+any fixed, temporary fixed or mobile observation system;
+that is for the purpose of surveillance and surveillance of places
+with the specific intention:
+prevent, detect or arrest crimes against persons or property
+traces (e.g. the association of co-owners that wants to prevent vandalism in the
+entrance hall of an apartment building or a company that wishes to
+secure), or
+prevent, determine or detect nuisance (e.g. a municipality that wants to
+prevent loiterers from terrorizing certain streets or providing
+cameras to prevent illegal dumping), or
+to check compliance with municipal regulations (e.g. in the context of
+paid parking on the street), or
+to maintain public order (e.g. during an annual fair);
+and that processes images only for these purposes.
+Although the majority of the cameras installed in Belgium are surveillance cameras, there are
+exceptions and certain surveillance cameras do not have to comply with the provisions of the Camera Act
+comply.
+For instance:
+surveillance cameras whose installation and use modalities are approved by a special
+legislation are regulated. The Football Act is an example of this (camera surveillance
+in certain football stadiums). It is important that this special legislation is sufficient
+
+Page 2
+
+must contain details regarding the placement and use of these devices (a mere
+reference to the word “camera” for example is not sufficient);
+surveillance cameras in front of the employee, set up in a monitored
+workplace with a view to health and safety, protection of the goods of
+the enterprise, control of the production process and control of the labor of the
+employee. In the private sector, Collective Labor Agreement (CAO) No. 68
+are complied with
+surveillance cameras installed and used by the inspection and control services if this
+expressly permitted by the legislation governing their powers to
+indeed be able to use cameras in the context of their specific
+exercises.
+It may happen that both the Camera Act and collective labor agreement no. 68 are applicable at the workplace
+camera surveillance are applied simultaneously. After all, practice shows that the two goals
+can be present at the same time and that often only one camera system is used
+is becoming. A well-known example is camera surveillance in a department store. These cameras can
+at the same time serve to supervise the personnel operating the cash register and to
+prevent crimes (e.g. theft), in which customers are also filmed. On the one hand
+the controller must therefore respect the Camera Act for the persons who
+fall under the Camera Act (e.g. the customers) and on the other hand the AVG for camera surveillance
+at the workplace (the staff member who operates the cash register), with a number of additional,
+specific requirements if collective labor agreement no. 68 applies.
+The Camera Act explicitly states that if the same responsible person uses a surveillance camera
+for multiple purposes, the different legislations of
+are applicable. In the event of a conflict between any of these provisions, the
+rules of the Camera Act are applied.
+Police camera use, in particular all cameras used by the police
+used, has been removed from the scope of the Camera Act and the Police Office Act
+expressly regulates its placement and use. The rules are different with this one too
+of the Camera Act in view of the specific tasks of the police.
+In addition, this legislation states that the Data Protection Authority is not (any longer) competentbevoegd
+for this police camera use, but a specific government agency, in particular the
+Control body on Police Information (the so-called COC).
+For all questions about these cameras, please contact the Police Control Body
+information .
+
+The placement of a surveillance camera
+
+Page 3
+
+When you want to install and use a surveillance camera, you have to take into account the
+proportionality principle.
+The proportionality principle means:
+that there must be a balance between the interests of the
+controller and the right to protection of the privacy of the data controller
+filmed person. For example: is it necessary for a doctor's waiting room to have a
+camera is installed?;
+that the processing of the images must be appropriate and necessary, ie the
+controller must check whether no other measures are possible
+that interfere less with the private life of the filmed person. For example, it is not
+necessary for a concert organizer to film the entrance to the concert hall to ensure
+see that every concertgoer pays. After all, he can assign one or more supervisors to the
+entrance places that check every concertgoer for possession of a valid
+entrance ticket;
+that no superfluous images may be processed and that, in principle, the camera
+may be directed to a place for which the controller is not
+is authorized. A dancing owner who places a security camera is not allowed to use his camera
+places in the direction of the street, so that he would be able to detect any amok makers from afar
+can see it coming. Such images are not only superfluous, because the vast majority
+of the road users is not a dancing visitor (let alone a run amok) but the
+In principle, the manager is also not authorized to film the public road. to this
+the Camera Act provides for one exception. Certain places can be a certain
+entail a safety risk that gives the controller the opportunity to also
+to be able to film the perimeter around this place. Examples of such “sensitive”
+places are: airports, military domains and nuclear sites.
+The Camera Act recognizes three types of places:
+non-enclosed place: any place not delimited by an enclosure and free
+accessible to the public.
+Examples: the public road, a market place, a town square, an open park.
+An enclosure can also be visual as long as the places can be clearly distinguished from each other
+distinguish;
+enclosed place accessible to the public: any building or any enclosure
+demarcated area for use by the public only.
+Examples: a retail store, shopping centers, department stores, a counter of a bank,
+museums, a gym, a restaurant, cafes and a doctor's office;
+
+Page 4
+
+enclosed place not open to the public: any building or by any person
+enclosed area for the exclusive use of the
+usual users.
+Examples: a family home, an apartment building (including the communal
+entrance hall), an office building (where no services are provided to the public) and
+factories.
+If there is any doubt about the type of place or if several places are covered by the same
+camera system, the strictest regime will apply. so will
+for example, the regime of the closed place accessible to the public should be applied
+If one camera system, both the front office (the room where the customer is) and the
+back office (the room where the bank clerk works) of a bank.
+Even before the controller installs a surveillance camera in a non-private
+place, he must receive a positive advice from the relevant municipal council, which has the
+chief of police.
+This advice from the city council should NOT be requested if the non-closed place is a
+is a motorway or a road for which a public authority other than the municipality
+is responsible. The chief of police for that zone is still being consulted.
+The controller is the same figure as with the GDPR. So he is the person who
+determines the purpose and means of processing, here the filming of persons. It could be about
+a natural person (e.g. a doctor), a legal person (e.g. a private limited company), an association (e.g. a
+sports club) or a government (e.g. the municipality).
+The Camera Act expressly states that the controller in a non-decided
+place can only be the public authority (given the definition of that type of place).
+It is the controller who must comply with the law and is responsible when
+the Camera Act is being violated. He is also a contact person for both the filmed
+person as well as for the controlling government.
+A CCTV system installer or the security firm that
+manages surveillance cameras, always acts on behalf of a controller and
+as such cannot be regarded as a controller, but only as a processor.
+
+Icon placement
+The controller must inform you that it uses a
+security camera. He will do this on the basis of an icon.
+
+Page 5
+
+The Camera Act provides for a uniform model, so that it is always clear to citizens that they
+is being filmed. This pictogram contains a number of mandatory information (including the contact person).
+The dimensions also vary depending on the location so that the visibility of the icon
+is always insured.
+The surveillance camera should never be used secretly or covertly. The Camera Act prohibits
+this. This means that as a person being filmed you must always give your prior consent. It
+fact that you enter a place where an icon tells you about using a
+security camera, is considered a prior consent.
+
+Type of place
+
+Dimensions
+
+Material
+
+Non-enclosed place (public road)
+
+0.60 x 0.40
+m
+
+aluminum sheet of
+at least 1.5 mm thickness
+
+Closed place open to the public,
+whose access is not delimited by
+an immovable building
+(for example: large open parking)
+
+0.60 x 0.40
+m
+
+aluminum sheet of
+at least 1.5 mm thickness
+
+Closed place open to the public,
+
+0.60 x 0.40
+m
+OR
+A4
+OR
+0.15 x 0.10
+
+aluminum sheet of
+at least
+1.5mm thickness or
+plasticized
+sticker
+
+0.60 x 0.40
+m
+OR
+A4
+OR
+0.15 x 0.10
+
+aluminum sheet of
+at least
+1.5mm thickness or
+plasticized
+sticker
+
+whose access is demarcated by a
+immovable structure (e.g.: building)
+
+Not open to the public closed
+place
+
+Mobile ANPR in non-enclosed place –
+use of vehicles equipped with mobile
+ANPR cameras by or on behalf of the
+municipalities
+
+Page 6
+
+The proper use of the images and the obligation of the
+reporting and maintaining an internal register
+The Camera Act prescribes how the controller may use the images
+and this differs according to the type of location where the filming is made.
+When the surveillance camera is installed in an unconfined place (e.g. the public road), one may not
+view the images in real time only under the following conditions:
+under the supervision of the police services;
+so that the competent services can intervene immediately in the event of crime, damage, nuisance
+or disturbance of public order and their actions can be optimally controlled.
+Security guards may also be authorized by the public authorities to perform such
+to view images in real time (and this in accordance with their legislation). The King can also
+designate additional persons who can view these images under the supervision of the police
+see.
+Actually recording the images (e.g. on tape, disc or digital) is only allowed to
+to collect evidence of nuisance, crime or harm and to deter perpetrators, disruptors of the
+public order, to trace and identify witnesses or victims.
+With regard to whether or not the enclosed place is accessible to the public, the Camera Act states
+expressly agree that the images may only be viewed in real time in order to
+to be able to intervene immediately in the event of crime, damage, nuisance or disturbance of the public
+order.
+Actually recording the images (e.g. on tape, disc or digital) is only allowed to
+to collect evidence of crimes, nuisance or harm and also to identify perpetrators, disruptors of
+public order, to trace and identify witnesses or victims.
+The current Camera Act explicitly states that any installation of a surveillance camera must be
+to be notified to the police services and this no later than the day before the date on which the
+security camera is put into use. Also any change to the applied
+camera facility must be reported.
+In order to practically organize this reporting system, the FPS Home Affairs has decided to:
+provide them with a web application for this. You can find more information about it
+electronic reporting form. Such a notification is made per place and must be a number of
+contain data to identify the processing such as: the identity of the declarant,
+the type of place, the address, the type of camera, the location of the camera,… What this
+
+Page 7
+
+As regards the last point, the intention is moreover to mark the localization on the in the
+form integrated geographic map.
+An annual check/check must be carried out by the responsible person.
+In addition to announcing the placement of one or more surveillance cameras, the
+responsible also to keep an internal register with the image processing activities
+from his surveillance cameras. This register must exist in a written form (possibly
+electronic) and must be kept at the disposal of the
+Data Protection Authority.
+This register contains, among other things, the name and contact details of the responsible person, the
+precise purposes of the processing, the categories of the recipients, possible transfer
+to third countries, the retention period, a description of the security measures and also a
+number of typical information elements specific to camera use, such as the
+indication of the type of place.
+The controller or the person acting under its authority shall furthermore take all
+necessary precautions to protect access to the images from access
+by unauthorized persons. The person responsible for a closed place accessible to the public
+can, according to the Camera Act, place a control screen that publicly displays the images in real time time
+distributed in that place. Just think of the screen that when entering a
+supermarket and where the person entering sees himself being filmed as he sees the screen
+passes.
+The controller of a decision, whether or not publicly accessible publiek
+place, or the person acting under his authority:
+may communicate the filmed images to the police services or the judicial authorities
+if he establishes facts that constitute a possible infringement and where the images
+can contribute to prove these facts or identify the perpetrators;
+must communicate the filmed images to the police when they request it in
+the framework of their administrative or judicial police missions and if the images
+concern the established infringement.
+If it concerns a closed place accessible to the public, the person responsible can also
+transfer images in real time to the police (1) in the context of specific places
+that pose a particular security risk (e.g. airports, military areas, penitentiary
+institutions,…) or (2) when a fact occurs for which the intervention of the
+police forces is required. However, to be able to use this option, you must first
+a written agreement is required between the specific person responsible and the police service
+in which the modalities for that transfer are described.
+
+Page 8
+
+Certain images may not be processed at all, including images that:
+Violating your intimacy (think of a camera in the toilets, in a changing room or in
+the shower);
+are aimed at obtaining information about your philosophical, religious, political,
+union affiliation, ethnic or social origin, sexual life or state of health,
+(a security camera along a busy shopping street does not serve to monitor the number of veiled
+count women who do their shopping in a particular store, just like the camera in
+the porch of a church may not serve to identify the faithful).
+
+The retention period of the images
+Although recording is not mandatory, the images may be used according to the Camera Act
+kept.
+The retention period is never longer than one month, unless the recorded images have a
+contribute to the proof of a crime, damage or nuisance or to the
+identifying a perpetrator, a disturber of public order, a witness or a victim.
+However, the Camera Act states that for certain places (indicated in an implementing decree) the
+maximum retention period of 1 month can be extended to 3 months. It trades every time
+about places that may present a particular safety risk. Examples of such
+places are: stations, airports, nuclear sites, military domains, correctional institutions.
+It is useful to remember that the risks of invasion of privacy are much greater
+the longer the retention period of the images.
+
+Mobile surveillance cameras
+In some limited cases, the Camera Act also allows a responsible person to use
+of mobile surveillance cameras.
+First of all, this law contains an explicit definition of what constitutes a mobile surveillance camera
+must be seen: the “surveillance camera that is moved during the observation to
+different places or positions”. The type example is a moving car with a
+camera on his roof. It is therefore important that a camera on a car that is parked is not
+can be regarded as a mobile surveillance camera just in view of the definition mentioned above.
+In the non-closed areas, mobile surveillance cameras may only be used with the
+with a view to automatic number plate recognition by or on behalf of the municipality and this for
+definite purposes:
+
+Page 9
+
+preventing, determining or detecting nuisance and/or
+checking compliance with municipal regulations regarding paying
+parking (many municipalities outsource control of this to private parking companies that
+sometimes driving around with a car or scooter with a so-called ANPR camera to
+scan number plates so that it can quickly be determined whether the vehicle concerned is already
+if you have not paid for parking).
+If a municipality wishes to use mobile surveillance cameras, it must first confirm the positive
+obtain advice from the relevant municipal council after the latter has informed the local chief of police
+has consulted. The municipal council also immediately determines the validity period of its advice that
+however, can be renewed. When requesting this advice, the
+controller clearly state the particular purposes for using the
+mobile surveillance cameras must indicate as well as the perimeter in which they are used
+will be (which may correspond to the entire territory of the municipality) and
+the foreseen usage modalities.
+Mobile surveillance cameras can also be used in confined areas:
+A first possibility concerns security officers in the context of the
+private security legislation and the use of mobile surveillance cameras in non
+private places accessible to the public and then in very specific places
+which by their nature are subject to special security risks such as, for example,
+nuclear sites, airports, international stations or military domains.
+A second possibility concerns the use of mobile surveillance cameras on a
+private place where no one is expected to be present.
+Finally, a mobile surveillance camera can also be used by a natural
+person for personal or household use, but only in a
+publicly accessible place.
+Whenever a controller wishes to use a mobile surveillance camera
+(except in the latter case, in particular if it concerns a natural person for personal or
+domestic use in a closed place not accessible to the public) also serves here
+notification of the event and there is also an obligation to keep an internal record
+registry.
+In principle, when using mobile surveillance cameras, the uniform model of
+icon to be handled. This icon can be either at the entrance of the place
+be hung where the mobile surveillance camera is used or on the vehicle
+(for example, the scooter or car used for checking the
+paid parking). In addition, the Camera Act also states that any other information channel can
+be called in to inform citizens clearly (e.g. the municipal website).
+
+Page 10
+
+In principle, a maximum retention period of 1 month will also apply here, which is
+cases can be extended to 3 months.
+
+QUESTIONS
+
+Can I just put up a security camera?
+No. When you want to place and use a surveillance camera for surveillance and surveillance
+you must comply with a special legal regime, the so-called Camera Act. For the aspects that
+are not expressly regulated in the Camera Act, the GDPR applies.
+There are separate regulations for a number of very specific surveillance cameras
+(for example the Football Act or Collective Labor Agreement No. 68 of June 16, 1998 on the protection of the
+privacy of the employees in relation to the camera surveillance on the
+workplace or surveillance cameras installed and used by the inspection and
+control services).
+All other cameras installed where no special legal regulation is available must be
+in principle comply with the principles of the GDPR.
+
+When do I have to apply the camera law?
+It must clearly deal with a so-called "surveillance camera", so not just any
+camera will be subject to the Camera Act. To assist the data controller
+the Camera Act explicitly defines what should be regarded as a surveillance camera.
+The law defines a surveillance camera as any fixed, temporary fixed or mobile surveillance system
+which aims to:
+prevent, detect or detect crimes against persons or property, or
+prevent, determine or detect nuisance, or
+to check compliance with (certain) municipal regulations
+to maintain public order.
+The system processes images for this.
+
+I wish to report a security camera. Where can I
+doing this?
+The current Camera Act explicitly states that any installation of a surveillance camera must be
+to be notified to the police services and this no later than the day before the date on which the
+
+Page 11
+
+security camera is put into use. Also any change to the applied
+camera facility must be reported.
+In order to practically organize this reporting system, the FPS Home Affairs has decided to:
+provide a web application for this. You can request more information about the electronic
+report form via the following website: www.meldcamera.be. Such notification will
+still have to be done per place and will have to contain some data to determine the
+be able to identify processing such as: the identity of the declarant, the type of
+location, address, type of camera, location of the camera,… Regarding this last point
+in addition, is it the intention to mark the localization on the in the form
+integrated geographic map. An annual check/check must be carried out by the
+controller to take place.
+The Data Protection Authority is therefore no longer involved in this notification obligation and
+for further (practical) questions about this aspect, you should therefore contact the
+the aforementioned FPS. It is important to report that the report/report is no longer
+will be publicly available.
+
+Does placing a fake camera fall under the Camera Act?
+A fake surveillance camera (or a so-called "dummy" camera) is not subject to the
+obligations of the Camera Act. After all, the definition of a surveillance camera requires the
+processing the images, which in principle is not the case with such a fake camera.
+
+In which cases can I use mobile
+surveillance cameras?
+The Camera Act only allows a controller to use toe
+makes mobile surveillance cameras.
+First of all, the Camera Act explicitly defines what should be included under a mobile surveillance camera
+understood, in particular the surveillance camera that is moved during the observation in order to
+filming from different places and positions.
+Such mobile surveillance cameras may only be used in the non-closed areas plaatsen
+with a view to automatic number plate recognition by or on behalf of the municipality and
+this for definite purposes:
+preventing, determining or detecting nuisance and/or
+checking compliance with municipal regulations regarding paying
+parking (many municipalities outsource control of this to private parking companies that
+
+Page 12
+
+sometimes driving around with a car or scooter with a so-called ANPR camera to
+scan number plates so that it can quickly be determined whether the vehicle concerned is already
+if you have not paid for parking).
+Mobile surveillance cameras can also be used in confined areas:
+A first possibility concerns security officers in the context of the
+private security legislation and the use of mobile surveillance cameras in non
+private places accessible to the public and then in very specific places
+which by their nature are subject to special security risks such as, for example,
+nuclear sites, airports, international stations or military domains.
+A second possibility concerns the use of mobile surveillance cameras on a
+private place where no one is expected to be present.
+Finally, a mobile surveillance camera can also be used by a natural
+person for personal or household use, but only in a
+publicly accessible place.
+
+Is filming with a hidden camera allowed?
+The Camera Act stipulates that any covert use of surveillance cameras is prohibited. The law
+after all, obliges the controller to use a uniform model of pictogram
+places so that the person entering the place knows that he will be filmed. in itself
+he does not necessarily have to see the camera itself. He must know that the place
+is “monitored” by a surveillance camera.
+
+I want to place a surveillance camera in a closed place that
+is not accessible to the public. What procedure do I need
+to follow?
+Your processing must be proportionate. This means that there must be a balance between
+on the one hand, the interests of the controller and, on the other hand, the right to
+protection of the private life of the person being filmed. The processing of the images must
+appropriate and necessary, which means that you should check that there are no other
+are measures that interfere less with the private life of the person being filmed.
+You, as the controller, make the decision to place a
+security camera. At the latest the day before you start using the security camera, you must
+communicate the decision to the police services, via an electronic report form. Also every
+changes to the installed camera facility must be reported.
+
+Page 13
+
+This declaration must not be made if the surveillance camera is by a natural person
+is used for personal or domestic use (e.g. in a private home).
+To inform the citizen that you have installed a surveillance camera, you must provide a voorzien
+specific icon.
+With regard to enclosed places not accessible to the public, the
+surveillance cameras are not specifically aimed at a location for which the
+controller does not process the data itself. In particular, the law provides
+that the surveillance cameras facing a non-closed area or one open to the public
+accessible confined space, should be placed so that recordings on that
+place are kept to a strict minimum.
+
+I want to place a surveillance camera in a closed place that
+accessible to the public. What procedure do I need
+to follow?
+Your processing must be proportionate. This means that there must be a balance between
+on the one hand, your interest as a controller and, on the other, the right to protection
+of the filmed person's private life. The processing of the images must be appropriate and
+necessary, which means that you should check that there are no other measures that
+less intervention in the private life of the filmed person.
+You, as the controller, make the decision to place a
+security camera. At the latest the day before you start using the security camera, you must
+communicate the decision to the police services, via an electronic report form. Also any change
+must be reported to the installed camera facility.
+To inform the citizen that you have installed a surveillance camera, you must provide a voorzien
+specific icon.
+The surveillance cameras in an enclosed area accessible to the public must not
+specifically aimed at a place for which the controller does not own the data
+processed. In practice, this means that you are not allowed to film the public road or other people's
+property (e.g. the property of neighbors).
+
+I want to place a fixed surveillance camera in a non-closed area
+place. Which procedure should I follow?
+
+Page 14
+
+It is important that a placement of a fixed surveillance camera in a non-closed place only
+can be done by a government, not by any other agency, nor by a private person.
+The processing must be proportional. This means that there must be a balance between
+on the one hand, the interests of the controller and, on the other hand, the right to
+protection of the private life of the person being filmed. The processing of the images must
+appropriate and necessary, which means that you should check that there are no other
+are measures that interfere less with the private life of the person being filmed.
+Before installing the fixed surveillance camera in a non-confined place, make sure it is positive
+obtain advice from the municipal council, which will inform the chief of police of the police zone concerned for this purpose
+consult. This advice from the city council should NOT be requested if the
+non-enclosed place is a motorway or other road for which another public
+government than the municipality is responsible. The chief of police of that zone is still being
+consulted.
+You must communicate your decision at the latest the day before you start using the surveillance camera
+to the police services, via an electronic report form. Also any change to the
+installed camera facility must be reported.
+To inform the citizen that you have installed a fixed surveillance camera, you must ensure
+for a specific icon.
+Fixed surveillance cameras placed in a non-enclosed area should not be specifically
+be directed to a place for which the controller is not itself authorized to
+to process data, unless he has explicit permission to do so from the
+controller of that other location.
+
+What requirements do I have to meet if I have a mobile
+want to use a security camera?
+If a municipality wishes to install a mobile surveillance camera in a non-closed area,
+it must first obtain a positive advice from the concerned municipal council after it has
+last consulted the local chief of police. The city council also immediately determines the
+period of validity of its advice, which can, however, be renewed at the request of the
+controller. When requesting this advice, the
+controller clearly state the particular purposes for using the
+mobile surveillance cameras must indicate as well as the perimeter in which they are used
+will be (which may correspond to the entire territory) and the foreseen
+usage modalities.
+
+Page 15
+
+Whenever a controller wishes to use a mobile surveillance camera
+(unless it concerns a natural person for personal or household use in a
+closed place not accessible to the public) must also be notified of this
+happen and there is also an obligation to keep an internal register.
+In principle, when using mobile surveillance cameras, the uniform model of
+icon to be handled. This icon can be either at the entrance of the place
+be hung where the mobile surveillance camera is used or on the vehicle
+(e.g. the scooter or the car used for checking the payment
+parking). In addition, the Camera Act also states that any other information channel can be enabled
+to inform the citizen clearly (e.g. the municipal website).
+In principle, a maximum retention period of 1 month will also apply here, which is
+cases can be extended to 3 months.
+
+

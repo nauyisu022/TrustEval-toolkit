@@ -1,0 +1,1464 @@
+Page 1
+
+GROUP DATA PROTECTION ARTICLE 29
+
+16/NL
+WP 243 rev.01
+
+Guidelines for Data Protection Officers (DPO)
+
+Approved on December 13, 2016
+Last revised and approved on April 5, 2017
+
+The Working Party was established under Article 29 of Directive 95/46/EC. It is an independent European advisory body on
+data protection and privacy. The tasks are defined in Article 30 of Directive 95/46/EC and in
+Article 15 of Directive 2002/58/EC.
+The secretariat is provided by Directorate C (Fundamental Rights and the Rule of Law) of the Directorate-General for Justice and
+Consumers of the European Commission, 1049 Brussels, Belgium, room MO59 03/068.
+Website: http://ec.europa.eu/justice/data-protection/index_en.htm
+
+Page 2
+
+THE WORKING GROUP FOR THE PROTECTION OF NATURAL PERSONS IN
+RELATED TO THE PROCESSING OF PERSONAL DATA
+
+Established by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995,
+
+Having regard to Articles 29 and 30,
+
+Having regard to the Rules of Procedure of the Working Group,
+
+HAS ADOPTED THE FOLLOWING GUIDELINES:
+
+2
+
+Page 3
+
+Index
+1
+
+PREFACE ................................................. .................................................. ................................... 5
+
+2
+
+DESIGNATION OF A DATA PROTECTION OFFICER .......... 6
+
+2.1. Mandatory designation ................................................... .................................................. .................................. 6
+2.1.1 "Governmental authority or body" ................................................ .................................................. .. 7
+2.1.2 "Core tasks" ................................................... .................................................. ............................................... 8
+2.1.3 "Large scale" ................................................ .................................................. .................................. 9
+2.1.4 "Regular and systematic observation" ......................................... .................................. 10
+2.1.5 Special categories of data and data relating to criminal convictions and criminal offenses
+facts 11
+2.2. Data protection officer of the processor ................................................................ ......................... 11
+2.3. Designation of a single data protection officer for multiple organizations .......... 12
+2.4. Accessibility and Location of the Data Protection Officer .......................................... 13
+2.5. Expertise and Skills of the Data Protection Officer ....................................... 13
+2.6. Publication and communication of the contact details of the data protection officer 15
+
+3
+
+POSITION OF THE DATA PROTECTION OFFICER ......................... 16
+
+3.1. Involvement of the Data Protection Officer in all matters related
+concerned with the protection of personal data ................................................................ ............................................... 16
+3.2. Resources needed ................................................................ .................................................. ................................... 17
+3.3. Instructions and "fulfilling their duties and obligations independently" ................................................. .......... 18
+3.4. Dismissal or sanctions for the performance of duties as a data protection officer .......................... 19
+3.5. Conflicts of Interest .................................................................. .................................................. .................................... 20
+
+4
+
+DUTIES OF THE DATA PROTECTION OFFICER ..................... 21
+
+4.1. Checking compliance with the General Data Protection Regulation ................................................. .. 21
+4.2. Role of the data protection officer in a data protection impact assessment . 21
+4.3. Cooperating with the supervisory authority and acting as a point of contact ................................................... 22
+4.4. Risk-based approach ................................................................ .................................................. .................. 23
+4.5. Role of the DPO in record-keeping ............................................... 23
+
+5
+APPENDIX - OFFICIAL GUIDELINES FOR
+DATA PROTECTION: WHAT YOU NEED TO KNOW ......................................... ................... 25
+APPOINTMENT OF THE DATA PROTECTION OFFICER ..................... 25
+1
+
+WHICH ORGANIZATIONS NEED AN OFFICER
+
+APPOINT DATA PROTECTION? .................................................. .......................... 25
+2
+
+WHAT DOES "KEY TASKS" MEAN? .................................................. ................................... 25
+
+3
+
+WHAT DOES "LARGE SCALE" MEAN? .................................................. ................... 26
+
+4
+
+WHAT DOES "REGULAR AND SYSTEM OBSERVATION" MEAN? .......... 26
+
+3
+
+Page 4
+
+5
+
+CAN ORGANIZATIONS JOIN AN OFFICER FOR
+
+APPOINT DATA PROTECTION? IF YES, UNDER WHAT CONDITIONS?
+27
+6
+
+WHERE SHOULD THE DATA PROTECTION OFFICER LOCATED
+
+TO BE? .................................................. .................................................. ................................................ 27
+7
+
+CAN THERE BE AN EXTERNAL DATA PROTECTION OFFICER
+
+BE APPOINTED? .................................................. .................................................. .......... 28
+8
+
+ABOUT WHAT PROFESSIONAL QUALITIES THE OFFICER SHOULD
+
+HAVE FOR DATA PROTECTION? .................................................. ................ 28
+POSITION OF THE DATA PROTECTION OFFICER ............................ 29
+9
+WHAT RESOURCES SHOULD THE DATA CONTROLLER OR DE
+PROCESSOR TO THE DATA PROTECTION OFFICER
+PROVIDE? .................................................. .................................................. .................. 29
+10
+
+WHAT GUARANTEES DOES THE OFFICER HAVE FOR
+
+DATA PROTECTION TO PERFORM HIS/HER TASKS INDEPENDENTLY
+TO CARRY OUT? WHAT DOES "CONFLICT OF INTEREST" MEAN? ................................................ 29
+DUTIES OF THE DATA PROTECTION OFFICER ................................ 30
+11
+
+WHAT DOES "CONFIRMATION CHECK" MEAN? .................................................. ..... 30
+
+12
+
+IS THE DPO PERSONALLY RESPONSIBLE FOR THE NON-COMPLIANCE
+
+OF THE DATA PROTECTION REQUIREMENTS? ............................................... 30
+13
+
+WHAT ROLE DOES THE DATA PROTECTION OFFICER PLAY
+
+IN THE DATA PROTECTION IMPACT ASSESSMENTS AND THE REGISTERS
+OF THE PROCESSING ACTIVITIES? .................................................. ................................ 30
+
+4
+
+Page 5
+
+1 Introduction
+The General Data Protection Regulation, 1 which comes into force on 25 May 2018, provides a
+modernized accountability-based compliance framework for
+data protection in Europe. Data protection officers will in this new
+legal framework is central to many organizations to ensure compliance with the provisions of the general
+data protection regulation.
+by virtue of
+
+the
+
+general
+
+regulation
+
+data protection
+
+should
+
+particular
+
+controllers and processors a data protection officer
+indicate 2 . This applies to all government agencies and bodies (regardless of the
+data) and for other organizations that, as one of their core tasks, systematically and on a large scale
+monitor individuals or process certain categories of personal data on a large scale.
+Even if the General Data Protection Regulation does not specifically specify the appointment of a
+data protection officer is required, organizations may be able to
+interested in appointing a data protection officer on a voluntary basis.
+The Article 29 Working Party ("WP29") encourages these voluntary efforts.
+The concept of the data protection officer is not new. Although Directive 95/46/EC 3
+no organization is obliged to appoint a data protection officer, it is
+In recent years, it has become the custom in several Member States to appoint an official for
+establish data protection.
+Before the introduction of the General Data Protection Regulation, the WP29 argued that
+the data protection officer is the cornerstone of accountability and that it
+appointing a data protection officer can simplify compliance and further
+can provide a competitive advantage for companies 4 . In addition to their compliance
+simplify by implementing accountability tools (such as enabling
+1
+
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+
+protection of natural persons with regard to the processing of personal data and concerning the
+free movement of such data, and repealing Directive 95/46/EC (General Regulation
+data protection), (OJ L 119, 4.5.2016). The General Data Protection Regulation is relevant
+for the EEA and will apply after it is incorporated into the EEA Agreement.
+2 The appointment of a data protection officer is also mandatory for competent authorities from
+pursuant to Article 32 of Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016
+on the protection of natural persons with regard to the processing of personal data by
+competent authorities for the purposes of the prevention, investigation, detection and prosecution of
+offenses or the execution of penalties, and regarding the free movement of such data, and to en
+repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, pp. 89-131), and national
+implementing legislation. While these guidelines focus on officers for
+data protection under the General Data Protection Regulation, but the comparable
+provisions in this advisory are also relevant to data protection officers under Directive
+2016/680.
+3 Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection
+of natural persons in connection with the processing of personal data and on free movement
+of that data (OJ L 281, 23.11.1995, p. 31).
+4 See http://ec.europa.eu/justice/data-protection/article-29/documentation/otherdocument/files/2015/20150617_appendix_core_issues_plenary_en.pdf
+
+5
+
+Page 6
+
+data protection impact assessments and conducting or enabling audits),
+Data Protection Officers act as intermediaries between relevant
+stakeholders (such as supervisory authorities, data subjects and business units within a
+organization).
+Data protection officers are not personally responsible for non-compliance
+of the General Data Protection Regulation. In the General Regulation
+data protection clearly states that it is the controller or processor who
+must ensure and be able to demonstrate that the processing is in accordance with the respective
+provisions of the General Data Protection Regulation (Article 24(1)) has been implemented.
+Data protection compliance is the responsibility of the
+controller or processor.
+The controller or processor also plays a crucial role in enabling the
+enable the effective performance of the duties of the data protection officer. A
+appointing a data protection officer is a first step, but officials for
+data protection should also be given sufficient autonomy and resources to perform their tasks
+to exercise effectively.
+The General Data Protection Regulation recognizes that the officer for
+data protection is a key figure in the new data management system and
+rules for his/her designation, position and duties. These guidelines are intended to
+clarification of the relevant terms and conditions of the General Data Protection Regulation to
+to help controllers and processors to comply with the law, but also to
+to assist data protection officers in their duties. The guidelines also contain
+recommendations for good practice based on experience gained in certain EU Member States. The
+WP29 monitors the implementation of these guidelines and can update them where necessary
+complete details.
+2 Designation of a data protection officer
+2.1. Mandatory designation
+Under Article 37(1) of the General Data Protection Regulation, the designation of aanwijzing
+a data protection officer is required in three specific cases 5 :
+a) where the processing is carried out by a public authority or body 6 ;
+b) where the core tasks of the controller or processor consist of
+processing operations requiring regular and systematic observation on a large scale of data subjects
+require; or
+c) where the core tasks of the controller or processor consist of
+large-scale processing of special categories of data 7 or 8 of personal data
+with regard to criminal convictions and offenses 9 .
+
+5
+
+Note that pursuant to Article 37(4), the law of the European Union or that of a Member State also applies in
+
+other situations may require the designation of data protection officers.
+6
+
+With the exception of courts acting in their specific capacity. See Article 32 of Directive
+
+(EU) 2016/680.
+
+6
+
+Page 7
+
+In the following paragraphs, the WP29 provides advice on the criteria and terminology used in
+Article 37(1).
+Unless it is clear that an organization is not required to appoint a data protection officer
+to designate, the WP29 recommends controllers and processors to carry out the internal analysis
+document that was performed to determine whether or not an officer was
+data protection officer should be appointed in order to demonstrate that with the relevant
+factors have been taken into account correctly 10 . This analysis is part of the documentation in accordance with the
+accountability principle. It may be required by the supervisory authority and must be
+be updated as necessary, for example if the controllers and processors have new
+carry out activities or offer new services that fall under the cases referred to in Article 37(1)
+can fall.
+When an organization voluntarily appoints a data protection officer,
+his or her designation, position and duties the same conditions of Articles 37 to 39 that would
+apply if the designation had been mandatory.
+Nothing prevents an organization that is not legally obliged to
+designate a data protection officer and do not voluntarily want a data protection officer
+to appoint employees or outside consultants for protection duties
+of personal data. In this case it is important to ensure that no
+confusion exists about their function, status, position and duties. Therefore, in all communication
+within the company as well as with data protection authorities, with data subjects and with the larger
+be made clear to the public that such person or adviser is not an officer for
+data protection. 11
+The Data Protection Officer is appointed, either mandatorily or voluntarily, for all
+processing activities carried out by the controller or processor.
+2.1.1 " GOVERNMENT AUTHORITY OR GOVERNMENT BODY "
+The General Data Protection Regulation does not define what constitutes a " public authority"
+or governmental body" exactly. The WP29 believes that such a concept in the national
+legislation should be determined. Consequently, the term "public authorities and
+public authorities" national, regional and local authorities, but under the applicable national
+
+7
+
+Under Article 9, this includes personal data revealing a person's racial or ethnic
+
+background, political opinions, religious or philosophical beliefs, or membership of
+turn out to be a trade union, and the processing of genetic data, biometric data for the purpose of
+unique identifier of a natural person, data about health or data about sex life or the
+sexual orientation of a natural person.
+8 In Article 37(1)(c), the words " and " are used. See point 2.1.5 further in this document for explanation
+about using " or " instead of " and ".
+9 Article 10.
+10
+
+See Article 24(1).
+
+11
+
+This is also relevant to Chief Privacy Officers (CPOs) or other privacy professionals who have some
+companies already employ and which may not always meet the criteria of the General Regulation
+data protection, for example in terms of available resources or safeguards with
+regarding independence; in that case, they cannot act as data protection officers
+considered and so called.
+
+7
+
+Page 8
+
+In legislation, the concept usually includes a range of other public law bodies 12 . in that
+cases, a designation of a data protection officer is mandatory.
+A government function may be performed and public authority may be exercised 13 by both
+public authorities or bodies such as other public or private natural persons or
+legal entities, in various sectors such as, in accordance with the national regulations of a Member State, the
+public transport, water and energy supply, road infrastructure, public broadcasting, social
+housing or disciplinary bodies for protected professions.
+In these cases, those involved may find themselves in much the same situation as those whose
+the data is processed by a government agency or body. In particular, data can
+processed for similar purposes, and similarly people have little or no
+choice whether and how their data is processed, thus giving them the additional protection
+need that can be completed with the designation of a data protection officer
+reached.
+While not mandatory in such cases, the WP29 recommends as good practice that
+private law organizations that perform government tasks or exercise public authority, a
+appoint a data protection officer. Such a data protection officer is
+for all processing activities performed, including those that have nothing to do with the
+performance of a governmental function or the performance of an official obligation (e.g. the management of
+a database of employees).
+2.1.2 " CORE TASKS "
+Article 37(1)(b) and (c) of the General Data Protection Regulation
+referred to the " [processing carried out by] the controller or processor
+mainly charged" . Recital 97 specifies that the core functions of a
+controller relate to “ main activities and not to the processing of
+personal data as an ancillary activity ". "Core tasks" can be considered as the most important
+acts necessary to achieve the objectives of the controller or processor
+reach.
+However, this does not mean that activities in which the processing of data is an integral part
+forms part of the controller's or processor's activity, not as "core tasks"
+must be interpreted. For example, the core task of a hospital is to provide healthcare.
+But a hospital cannot provide safe and efficient healthcare without processing verwerking
+medical data, such as patients' medical records. Consequently, the processing of
+this kind of data should be considered one of the core tasks of any hospital and should be
+hospitals thus appoint data protection officers.
+Another example is a private security company that monitors a number of
+private shopping centers and public spaces. Surveillance is the core business of the company, so what?
+
+12
+
+See e.g. the definition of " public body " and " body governed by public law " in Article 2(1) and (2) of
+Directive 2003/98/EC of the European Parliament and of the Council of 17 November 2003 on the reuse of
+public sector information (OJ L 345, 31.12.2003, p. 90).
+13 Article 6(1)(e).
+
+8
+
+Page 9
+
+is inextricably linked to the processing of personal data. Consequently, this company too
+appoint a data protection officer.
+On the other hand, all organizations carry out certain activities, such as the payment of their employees
+or standard IT support. These are examples of necessary support functions for the
+core task or main activity of the organization. Even though these activities are necessary or
+essential, they are generally regarded as additional functions rather than core tasks.
+2.1.3 " WIDE SCALE "
+Article 37(1)(b) and (c) lays down that the processing of personal data is
+scale must be carried out to ensure the designation of a data protection officer
+to make necessary. The General Data Protection Regulation does not define what is
+intended for large-scale processing. Recital 91 does provide some explanation on this
+given 14 .
+Indeed, it is not possible to determine the amount of data processed or the number of
+provide those involved with precise figures, which may be applicable in all situations. However, that excludes
+It does not matter that a standard practice can be further elaborated over time for the
+identification of more specific and/or quantitative criteria for what the term " large scale " means
+relating to certain current processing activities. The WP29 also plans to
+contribute to this development by providing examples of the relevant thresholds for the
+designation of a data protection officer to share and make public.
+In any event, the WP29 recommends that the following factors in particular be taken into account when
+determine whether the processing is performed on a large scale or not:
+• The number of data subjects concerned - either as a specific number or as a proportionate
+part of the relevant population
+• The amount of data and/or the range of the different data items processed
+• The duration or permanence of the data processing
+• The geographic scope of the processing activity
+
+14
+
+According to the recital, this concerns in particular " large-scale processing operations intended for processing"
+
+of a significant amount of personal data at regional, national or supranational level, of which
+could be impacted by a large number of data subjects and which may [...] carry a high risk
+on the other hand, the recital specifically states that " the processing of personal data is not
+[may] be considered a large-scale processing when it comes to the processing of
+personal data of patients or clients by an individual doctor, another healthcare professional or by a
+lawyer" . It is important to keep in mind that examples are included in the recital
+given of the extremes on the scale (processing by an individual physician versus processing data
+whole country or at European level); between these extremes there is a large gray zone. Further
+account should also be taken of the fact that in this recital to
+data protection impact assessments. This implies that certain elements may
+specific to that context and not necessarily in exactly the same way to the designation of
+data protection officers apply.
+
+9
+
+Page 10
+
+Here are some examples of large-scale processing:
+• Processing of patient data in the context of the regular business operations of a
+Hopital
+• Processing of travel data of persons using the public transport system in a city
+use (e.g. tracing via travel cards)
+• Processing real-time geolocation data from customers of an international fast food chain
+for statistical purposes by a processor that specializes in providing
+such services
+• Processing of customer data in the context of the regular business operations of a
+insurance company or a bank
+• Processing of personal data for the purpose of behaviour-related publicity by a
+search engine
+• Processing of data (content, surfing behaviour, location) via providers of telephony or
+internet services
+Below are some examples of processing operations that are not considered large-scale:
+• Processing of patient data by an individual physician
+• Processing of personal data concerning criminal convictions and criminal offenses
+facts by an individual lawyer
+
+2.1.4 " REGULAR AND SYSTEM OBSERVATION "
+The term "regular and systematic observation" of data subjects is not defined in the
+General Data Protection Regulation, but the concept of " controlling the behavior of
+data subjects " is mentioned in recital 24 15 and clearly includes all forms of investigation and
+profiling on the internet, also with a view to behaviour-related publicity.
+However, the concept of observation is not limited to the internet, and tracking people online must be
+only be regarded as one example of observation of the behavior of those involved 16 .
+The WP29 interprets the term "regularly" in one or more of the following ways:
+• Something that occurs continuously or at specific times over a period of time
+• Recurring or repetitive at set times
+• Something that occurs constantly or periodically
+The WP29 interprets the term "systematic" in one or more of the following ways:
+
+15
+
+"In order to determine whether a processing can be regarded as monitoring the behavior of data subjects,
+
+should be established whether natural persons are tracked on the internet, and, inter alia, whether in that
+connection, personal data processing techniques may be used in which a profile is
+drawn up by a natural person, in particular to take decisions concerning him or his
+analyze or predict personal preferences, behaviors and attitudes."
+16 Note that recital 24 focuses on the extraterritorial application of the General Regulation
+data protection. In addition, there is always a difference between the formulations " monitoring
+their behaviour" (Article 3(2)(b)) and "regular and systematic observation [...] of data subjects" (Article
+37(1)(b)), as a result of which they can be regarded as two different concepts.
+
+10
+
+Page 11
+
+• Something that occurs according to a system
+• Pre-arranged, organized or methodical
+• Something that occurs as part of a general data collection program programma
+• Something that is carried out in the context of a strategy
+Below are some examples of activities that serve as a regular and systematic observation of
+data subjects are considered: to manage a telecommunications network; telecommunications services
+to deliver; email retargeting; marketing activities based on data; profiling and scoring
+for the purpose of risk assessment (e.g. for assigning a creditworthiness score,
+determination of insurance premiums, fraud prevention, money laundering detection); location tracking,
+e.g. via mobile apps; customer loyalty programs; behavioral publicity; monitoring
+of health and fitness data via wearable devices; closed circuit TV; linked
+devices e.g. smart meters, smart cars, home automation etc.
+
+2.1.5 S PECIAL DATA CATEGORIES AND DATA RELATING TO CRIMINAL
+JUDGMENTS AND CRIMINAL FACTS
+
+Article 37(1)(c) concerns the processing of special categories of data referred to in
+Article 9 and of personal data relating to criminal convictions and criminal offenses
+facts referred to in Article 10. Although the word "and" is used in the provision, there is no
+policy that states that the two criteria must be applied simultaneously. The text must then
+can also be read as if it said "or".
+2.2. Data protection officer of the processor
+Article 37 applies to the appointment of a data protection officer for both
+controllers 17 as processors 18 . Depending on who meets the criteria for mandatory
+designation, in some cases it is only the controller or only the
+processor who is required to designate a data protection officer, while in other
+both cases (with the respective officials then having to work together).
+It is important to emphasize that even if the controller meets the criteria for
+mandatory designation, his processor is not by definition obliged to be an officer for
+establish data protection. But that can be good practice.
+Examples:
+• A small family business engaged in the distribution of domestic appliances in
+one city uses the services of a processor whose core task is website data
+analyzes and assists with internet behavior-based publicity and marketing. Given the
+small number of customers and the relatively limited number of activities make the activities of the
+family business and its customers for "large scale" data processing.
+
+17
+
+The controller is defined in Article 4(7) as the person or body that
+
+determines the purposes and means of the processing.
+18 The processor is defined in Article 4(8) as the person or body that processes data on behalf of the
+controller processed.
+
+11
+
+Page 12
+
+The operations of the processor, which has many customers like this small business, are
+however, large-scale processing. The processor must therefore, pursuant to Article 37(1)
+under b), designate a data protection officer. At the same time it is
+family business itself is not obliged to appoint a data protection officer.
+• A medium-sized tile manufacturer outsources its services to labour-related
+healthcare to a third-party processor, who has a large number of similar customers.
+The processor must, in accordance with Article 37(1)(c), be an officer for
+data protection, as the processing takes place on a large scale. The
+manufacturer, on the other hand, is not by definition obliged to appoint an official for
+designate data protection.
+
+designate data protection.
+The data protection officer appointed by a processor also monitors
+activities performed by the processors' organization when it acts as a
+independent controller acts (e.g. HR, IT, logistics).
+2.3. Designation of a single data protection officer for multiple organizations
+Article 37(2) allows a group to have a single officer for
+appoints a data protection officer, provided that this person is " easy to contact from any establishment"
+contact is ". The notion of accessibility refers to the duties of the officer for
+data protection as a contact person for data subjects 19 , the supervisory authority 20 ,
+but also within the organization. It is assumed that one of the tasks of the
+data protection officer consists of "the controller or the
+processor and the employees who process, [to] inform and advise on their obligations under
+under this Regulation" 21 .
+To ensure that the data protection officer, whether internally or externally,
+can be reached, it must above all be ensured that his contact details are in accordance with
+requirements of the General Data Protection Regulation are available 22 .
+He or she, assisted by a team if necessary, must be able to work efficiently with those involved
+communicate 23 and cooperate with the relevant supervisory authorities 24 . Which
+19
+
+Article 38(4): " Data subjects may contact the data protection officer about
+
+all matters relating to the processing of their data and the exercise of their
+rights under this Regulation ”.
+20 Article 39(1)(e): "to act as a contact point for the supervisory authority regarding met
+processing-related matters, including the prior referred to in Article 36
+consultation, and, where appropriate, consult on any other matter ".
+21 Article 39(1)(a).
+22
+
+See also point 2.6 below.
+
+23
+
+Article 12(1): "The controller shall take appropriate measures to ensure that the data subject
+
+the information referred to in Articles 13 and 14 and the information referred to in Articles 15 to 22 and Article 34
+communication related to the processing in a concise, transparent, intelligible and easy
+accessible form and in clear and plain language, in particular when the information
+specifically for a child."
+24
+
+Article 39(1)(d) : "cooperate with the supervisory authority"
+
+12
+
+Page 13
+
+also implies that all communications must be in the language or languages ​of the relevant
+supervisory authorities and data subjects. The availability of an officer for
+data protection (physically at the same location as the employees, through a hotline or through another
+secure communication channel) is essential to ensure that data subjects are
+can contact the data protection officer.
+Pursuant to Article 37(3), a single data protection officer may be appointed for
+various government agencies or public bodies, taking into account their organizational structure
+and size. The same considerations regarding resources and communication apply. Since the
+data protection officer has multiple tasks, the controller should
+or assure the processor that a single data protection officer, if necessary
+assisted by a team, can perform these tasks efficiently despite the fact that he works for several
+government agencies and bodies has been appointed.
+
+2.4. Accessibility and location of the data protection officer
+According to Section 4 of the General Data Protection Regulation, the officer must for
+data protection are easily accessible.
+To ensure this, the WP29 recommends that the data protection officer
+located in the European Union, regardless of whether the controller or processor is already
+or not located in the European Union.
+However, it cannot be excluded that in some cases where the controller
+whether the processor does not have an establishment in the European Union 25 , an official for
+data protection can perform his/her activities more efficiently when he/she is outside the EU
+established.
+2.5. Expertise and skills of the data protection officer
+Article 37(5) provides that the data protection officer is " designated"
+by virtue of his professional qualities and, in particular, his expertise in the field of
+the law and practice of data protection and its ability the referred to in Article 39
+tasks ". Recital 97 states that the required level of expertise should be
+are determined on the basis of the data processing activities performed and the protections
+is required for the processed personal data.
+• Level of expertise
+The level of expertise required is not strictly defined, but must be proportionate to the
+sensitivity and complexity of the data, as well as the amount of data an organization
+processed. For example: in a particularly complex data processing activity or when processing
+a large amount of sensitive data may require a higher
+
+25
+
+See Article 3 of the General Data Protection Regulation on territorial scope.
+
+13
+
+Page 14
+
+level of expertise and support are required. Furthermore, there is also a difference
+according to whether the organization systematically transfers personal data outside the European Union, then
+whether such transfers are only occasional. The Data Protection Officer
+should therefore be chosen with care, taking into account the
+data protection that may arise within the organization.
+• Professional qualities
+Although Article 37(5) does not specify professional qualities with which the
+designation of a data protection officer should be taken into account, it is
+fact that data protection officers should have some experience with national and
+European data protection laws and practices, as well as in-depth knowledge
+of the General Data Protection Regulation, a relevant element. Furthermore, it is also
+interesting if the supervisory authorities provide appropriate and regular training for
+encourage data protection officers.
+Knowledge of the controller's industry and organization is helpful. The
+The data protection officer must also have a sufficient understanding of the performed
+processing activities, the information systems and the needs of the controller
+in the field of data security and data protection.
+In the case of a public authority or body, the official must
+data protection also have a thorough knowledge of the administrative rules and procedures
+from the organization.
+• Ability to fulfill his duties
+The ability to perform the duties associated with the position of data protection officer
+hearing should be understood as referring to his/her personal skills and knowledge, but
+also has to do with his position within the organization. Important personal qualities are
+for example, integrity and a high degree of professional ethics; the main task of the
+data protection officer is to ensure that the General Regulation
+data protection is complied with. The data protection officer plays a
+fundamental role in creating a culture of data protection within the organization and
+also assists in the implementation of essential elements of the General Regulation
+data protection, such as the principles of data processing 26 , the rights of the
+data subjects 27 , data protection by design and data protection by
+default settings 28 , register of processing activities 29 , security of processing 30 and
+reporting and communication of data breaches 31 .
+• Data Protection Officer based on a service agreement dienstverlening
+
+26
+
+Chapter II.
+
+27
+
+Chapter III.
+
+Article 25.
+29 Article 30.
+30 Article 32.
+31 Articles 33 and 34.
+28
+
+14
+
+Page 15
+
+The position of the data protection officer may also be held on the basis of a
+service agreement concluded with a person or an organization that is not part of the
+organization of the controller/processor. In the latter case it is from
+It is essential that all members of the organization who perform the functions of an officer
+data protection, to all applicable requirements listed in Section 4 of the General
+data protection regulation (for example, it is essential that no
+conflicts of interest). It is also important that all such members are protected under
+the provisions of the General Data Protection Regulation (e.g. no unfair termination
+of the service agreement for activities as a data protection officer,
+nor unfair dismissal of any employee in the organization who performs the duties of an officer
+for data protection). At the same time, individual skills and assets can be
+are combined so that several people working as a team serve their customers even more efficiently
+to be of service.
+With a view to legal transparency and good organization and to avoid conflicts of interest among members
+of the team, we recommend that you prioritize the tasks within the officer's team
+clearly define data protection, as well as a single person for each customer as
+main contact person and "responsible person". Generally speaking, it would also
+It would be interesting to specify these points in the service agreement.
+2.6. Publication and communication of the official's contact details for
+data protection
+Under Article 37(7) of the General Data Protection Regulation, the verordening
+controller or processor:
+• disclose the contact details of the data protection officer, and
+• the contact details of the data protection officer to the relevant
+supervisory authorities communicate.
+The purpose of these requirements is to ensure that both data subjects (both within and outside the
+organization) as supervisory authorities easily and directly with the officer for
+be able to contact data protection without contacting another part of the organisation
+should contact. Confidentiality is equally important: for example, employees may be reluctant to
+lodge a complaint with the data protection officer if the confidentiality of their
+communications is not guaranteed.
+The data protection officer is with regard to the performance of his/her duties
+in accordance with Union or Member State law of secrecy or confidentiality
+held (Article 38(5)).
+The contact details of the data protection officer must include information that
+enables the data subjects and supervisory authorities to inform him/her in an easy way
+(a postal address, a direct telephone number and/or a specific e-mail address).
+Where applicable, for purposes of communication with the general public, other
+forms of communication are provided, for example a specific hotline or a special of
+contact form on the organization's website that goes directly to the officer for
+data protection is sent.
+
+15
+
+Page 16
+
+Article 37(7) does not require that the disclosed contact details also include the name of the
+data protection officer. Although it may be a good practice
+may be able to do so, it is up to the controller or processor, as well as the
+Data Protection Officer to decide whether or not to do so in the specific circumstances
+is not necessary or useful 32 .
+Communication of the name of the data protection officer to the supervisory authority
+authority is, however, essential if the DPO acts as a point of contact
+between the organization and the supervisory authority (Article 39(1)(e)).
+The WP29 also recommends as a good practice that an organization provides the name and contact details of the
+data protection officer to its employees. Thus, the name and
+contact details of the data protection officer internally on the intranet of the
+organization, can be published in the company telephone directory and in organization charts.
+
+3 Position of the data protection officer
+3.1. Involvement of the Data Protection Officer in all matters concerning
+related to the protection of personal data
+Article 38 of the General Data Protection Regulation states that the
+controller and the processor must ensure that the officer for
+data protection is "duly and in a timely manner involved in all matters related to
+concerned with the protection of personal data".
+It is critical that the data protection officer, or their team, is informed as early as possible
+may be involved in all matters related to data protection.
+With regard to data protection impact assessments, the General Regulation
+data protection explicitly stated that the data protection officer asked
+must be involved and specified that the controller in the execution of
+such impact assessments should seek advice from the DPO 33 .
+By ensuring that the data protection officer is informed and
+is consulted, compliance with the General Data Protection Regulation becomes possible
+created and promotes a privacy approach by design, which is therefore standard procedure
+within the management of the organisation. It is also important that the officer
+for data protection is seen as an interlocutor within the organization and that he/she
+is part of the relevant working groups that deal with data processing within the organisation
+occupy.
+Consequently, for example, the organization must ensure that:
+
+32
+
+Note that Article 33(3)(b), which describes what information to be given to the supervisory
+
+authority and the data subjects must be provided in the event of a personal data breach, as opposed to in
+Article 37(7) also specifically requires that the name (and not just the contact details) of the
+data protection officer should be communicated.
+33 Article 35(2).
+
+16
+
+Page 17
+
+• the data protection officer is regularly invited to attend meetings
+of senior management and middle management to attend;
+• his/her presence is recommended when decisions are made that have consequences
+have for data protection. All relevant information must be provided in a timely manner
+be provided to the data protection officer so that he/she can provide appropriate advice
+grant;
+• the opinion of the DPO is duly considered
+taken. In case of disagreement, the WP29 recommends as good practice for the reasons for not
+following the advice of the Data Protection Officer;
+• the data protection officer is immediately consulted as soon as a
+data breach or other incident occurs.
+Where applicable, the controller or processor may provide guidelines or
+develop data protection programs that determine when the
+data protection officer should be consulted.
+3.2. Resources Required
+Under Article 38(2) of the General Data Protection Regulation, the organisation
+support its data protection officer by “providing him access to
+personal data and processing activities and by making the necessary resources available to him
+to fulfill [his] duties and maintain his expertise". In particular
+the following items should be taken into account:
+• Active support of the Data Protection Officer function by the
+senior management (such as at board level).
+• Sufficient time for the data protection officers to perform their duties.
+This is especially important when an internal data protection officer is
+appointed on a part-time basis or when the external data protection officer
+in addition to its other duties, is also responsible for data protection. Conflicting priorities
+could otherwise result in the official's duties
+data protection are neglected. Have sufficient time to perform the tasks as
+Being able to dedicate a data protection officer is of the utmost importance. It is
+good practice to allocate a certain percentage of the time available for the tasks of
+data protection officer, when this position is not on a full-time basis
+base is covered. Furthermore, it is also good practice to calculate the time required for the
+performance of the position, as well as the appropriate level of priority for the duties as
+data protection officer, and the data protection officer
+(or the organisation) to draw up a work programme.
+• Adequate support in terms of financial resources, infrastructure (offices,
+facilities, equipment) and personnel where applicable.
+• Official announcement of the appointment of the Data Protection Officer to
+all staff members to ensure that everyone in the organization is aware of the
+existence of this function.
+• Necessary access to other services such as HR, legal, IT, security, etc.,
+so that the data protection officers of those other services have the necessary
+receive essential support, assistance or information.
+
+17
+
+Page 18
+
+• Continuing education. Data protection officers must be given the opportunity
+to keep abreast of new developments in data protection.
+The aim should be to increase the level of expertise of the officials
+continuously increase data protection and encourage them to participate in
+training on data protection and other forms of professional development,
+such as participating in privacy forums, workshops, etc.
+• Given the size and structure of the organization, it may be necessary to build a team around the
+to compose a data protection officer (an officer for
+data protection and his/her staff). In those cases, the internal
+structure of the team and the tasks and responsibilities of each member become clear
+fixed. When the position of data protection officer by an external
+service provider is held, in the same way a team of persons working for that
+entity, in fact, all the tasks of the DPO work as a team
+under the responsibility of a designated primary contact person of the
+customer.
+Typically, more resources should be made available to the DPO
+are made as the processing activities are more complex and/or more sensitive. The function for
+data protection must be efficient and adequately resourced in relation to the
+performed data processing.
+3.3. Instructions and "to fulfill their duties and obligations independently"
+Article 38(3) lays down some basic safeguards to help ensure that
+data protection officers perform their tasks sufficiently autonomously within the organization
+can fulfill. In particular, controllers/processors must ensure
+that the data protection officer " does not receive any instructions regarding the
+performance of [his or her] duties". Recital 97 adds that officials for
+data protection" should be able to fulfill their duties and obligations independently,
+regardless of whether they are employed by the controller ".
+This means that when performing their duties under
+Article 39 should not receive instructions on how to handle a particular matter
+treat, for example what result they should arrive at, how they should investigate a complaint,
+or whether or not they should consult the supervisory authority. In addition, they can also
+not receive instructions to take a particular position on any matter related
+complies with data protection law, for example a specific interpretation of the law.
+However, the autonomous nature of the data protection officers does not mean that they
+have more decision-making powers than is required for their duties under Article 39.
+The controller or processor remains responsible for compliance with the laws
+data protection and must also be able to demonstrate such compliance 34 . As the
+controller or processor make decisions that are not in line with the
+General Data Protection Regulation and the advice of the officer for
+
+34
+
+Article 5(2).
+
+18
+
+Page 19
+
+data protection, the latter should be given the opportunity to express his/her dissenting opinion
+to top executives and those who make the decisions. In that regard,
+Article 38(3) provides that the data protection officer " report directly "
+[issues] to the senior manager of the controller or the processor" .
+Such direct reporting ensures that senior management (e.g. the board of
+board) is aware of the advice and recommendations that the officer
+data protection provided in the context of its mission to the controller or
+inform and advise the processor. Another example of direct reporting is the
+drafting an annual report of the data protection officer's activities for
+the highest executives.
+3.4. Dismissal or sanctions for performing duties as a data protection officer
+Article 38(3) states that data protection officers are "by the
+controller or processor is not fired or penalized for the performance
+of [their] duties" .
+This requirement strengthens the autonomous position of the data protection officers and
+helps ensure that they act independently and have adequate protection to protect their
+fulfill data protection tasks.
+Sanctions are only prohibited under the General Data Protection Regulation if they are
+imposed as a result of the data protection officer's
+obligations as a data protection officer. For example, an officer can
+data protection, for example, believe that a particular processing is
+likely to result in a high risk and the controller or processor
+recommend carrying out a data protection impact assessment, but where the
+however, the controller or the processor does not agree with the decision of the officer
+for data protection. In such a situation, the data protection officer
+not be fired for providing this advice.
+Sanctions can take various forms and can be either direct or indirect. That's how they can
+consist of, for example, refusing or delaying promotion; preventing further expansion
+of the career; refusing benefits given to other employees. It is not necessary
+that these sanctions are also effectively implemented, the threat alone is sufficient, as long as the
+the intent is thereby to penalize the data protection officer for reasons that make
+with his/her activities as a data protection officer.
+As a normal business procedure and as would be the case for any other
+employee or contractor under and pursuant to any applicable national agreement or
+labor and criminal law, a data protection officer can still lawfully
+be dismissed for reasons other than for the performance of his/her duties as an officer for
+data protection (e.g. in case of theft, physical, psychological or sexual harassment or similar
+serious misconduct) .
+In this context, we should also note that the General Data Protection Regulation does not
+specify how and when a data protection officer is dismissed or
+
+19
+
+Page 20
+
+someone else can be replaced. But the more solid the contract with the official for
+data protection and the more safeguards there are against unfair dismissal, the more
+it is more likely that they will be able to act autonomously. That is why the WP29 welcomes all
+efforts of organizations in this area.
+
+3.5. Conflicts of Interest
+Pursuant to Article 38(6), data protection officers may have " other duties and
+perform duties" . However, to this end, the organization must ensure that " these duties or duties are not
+lead to a conflict of interest" .
+The absence of a conflict of interest is closely related to the requirement to act autonomously.
+While data protection officers may hold other positions, they
+only other duties and duties are entrusted if they do not give rise to any
+conflict of interest. In particular, this means that the data protection officer within the
+organization cannot hold a position where he or she can achieve the objectives of and the resources for the
+processing of personal data. Given the specific organizational structure of each
+organization should be assessed on a case-by-case basis.
+As a rule of thumb, positions with a conflict of interest are considered within the organization: positions
+in senior management (e.g. Chief Executive, Chief Operating, Chief Financial, Chief Medical
+Officer, Head of Marketing, Head of Human Resources or Head of IT),
+but also lower positions within the organizational structure if these persons achieve the objectives of and
+resources for the processing of data. In addition, a conflict of interest
+also occur, for example, when an external data protection officer
+is asked to represent the controller or processor in the
+court in lawsuits over data protection issues.
+Depending on the activities, size and structure of the organization, it may
+controllers or processors are good practice to:
+• identify the positions that may be incompatible with the position of officer for
+data protection;
+• to draw up internal rules for this purpose in order to avoid conflicts of interest;
+• include a more general explanation of conflicts of interest;
+• declare that their data protection officer has no conflict of interest in
+his function as a data protection officer, as a way of informing others for this
+requirement to raise awareness;
+• include safeguards in the organization's house rules and ensure that the
+vacancy for the position of data protection officer or the
+service agreement is sufficiently specified and detailed to
+avoid conflicts of interest. In this regard, we must take into account the fact that
+conflicts of interest can take various forms, depending on whether the
+data protection officer has been recruited internally or externally.
+4 Duties of the Data Protection Officer
+
+20
+
+Page 21
+
+4.1. General Data Protection Regulation compliance check
+Article 39(1)(b) provides data protection officers, among other tasks,
+also tasked with ensuring compliance with the General Data Protection Regulation
+to check. Recital 97 further specifies that the official for
+data protection " should assist the controller or processor in the
+monitoring internal compliance with this Regulation ".
+As part of the compliance check duties, officers must
+data protection in particular:
+• collect information to identify processing activities;
+• analyze and monitor compliance with processing activities;
+• inform, advise and make recommendations to the controller or processor
+to do.
+Compliance checking does not mean that the data protection officer personally
+is responsible for any non-compliance. In the General Data Protection Regulation
+clearly states that it is the controller, and not the officer for
+data protection that [takes] appropriate technical and organizational measures to
+guarantee and be able to demonstrate that the processing is in accordance with this Regulation
+is carried out " (Article 24(1)). Data protection compliance is a professional
+responsibility of the controller, not the officer for
+data protection.
+4.2.
+
+Role
+
+from
+
+the
+
+officer
+
+in front of data protection
+
+Bee
+
+a
+
+required
+
+a
+
+data protection impact assessment
+In accordance with Article 35(1), it is the task of the controller, not of
+the
+
+officer
+
+in front of
+
+data protection,
+
+to
+
+true
+
+conduct a data protection impact assessment. The data protection officer may
+however, play a very important and useful role in helping the data controller.
+In line with the principle of data protection by design, Article 35(2) specifically
+imposed that the controller, when carrying out a
+data protection impact assessment " seek advice"
+
+to the officer for
+
+data protection. Article 39(1)(c), on the other hand, provides for the official
+data protection obligation to " provide advice on request with
+with regard to the data protection impact assessment and [monitor] its implementation in
+accordance with Article 35 ".
+The WP29 recommends that the controller seek advice from the officer for
+data protection on matters such as the following 35 :
+
+35
+
+Article 39(1) specifies the tasks of the data protection officer and
+
+indicated that the data protection officer performs " at least" the following tasks. Consequently
+nothing prevents the controller from performing other tasks for the data protection officer
+
+21
+
+Page 22
+
+• whether or not a data protection impact assessment should be carried out;
+• which methodology should be followed in a data protection impact assessment;
+• whether the data protection impact assessment should be performed in-house or outsourced;
+• which safeguards (including technical and organizational measures) must be taken
+applied to mitigate any risks to the rights and interests of data subjects;
+• whether or not the data protection impact assessment has been carried out correctly and whether the
+conclusions (whether or not to carry out the processing and which safeguards apply) whether or not in
+comply with the General Data Protection Regulation.
+If the controller does not comply with the data protection officer
+advice given, should be stated in the documentation on the data protection impact assessment
+be motivated specifically and in writing as to why the advice was not taken into account 36 .
+The WP29 further advises the controller to, for example, in the agreement of
+the data protection officer, but also in information provided to employees, management
+(and other data subjects, if applicable) is provided, clearly define the precise duties of the
+data protection officer and their scope, in particular with regard to the
+conducting a data protection impact assessment.
+4.3. Cooperate with the supervisory authority and act as a point of contact
+Under Article 39, paragraph 1, d) and e) the officer must Data " with the
+supervisory authority cooperate " and " act as contact point for the supervisory authority
+authority on matters related to processing, including those referred to in Article
+36 prior consultation and, where appropriate, consult on any other
+matter" .
+These tasks refer to the role of "mediator" of the DPO
+mentioned in the introduction to these Guidelines. The Data Protection Officer
+acts as a point of contact to facilitate the supervisory authority's access to all
+documents and information on the performance of the tasks referred to in Article 57, as well as on the
+exercise of its investigative, corrective, authorization and advisory powers referred to in Article
+58. As already mentioned, with regard to the
+performing his/her duties in accordance with Union or Member State law until
+kept secret or confidential (Article 38(5)). The obligation to
+however, secrecy/confidentiality does not prevent the data protection officer
+to contact the supervisory authority and ask for its advice. In Article 39,
+paragraph 1(e) provides that the data protection officer is the supervisory
+authority on any matter, when relevant.
+
+other than the tasks explicitly mentioned in Article 39(1), or to describe those tasks in more detail
+specify.
+36 Article 24(1) provides that " taking into account the nature, scope, context and purpose of the
+processing, as well as with the risks to rights and freedoms varying in likelihood and severity
+of natural persons, the controller appropriate technical and organizational
+takes measures to ensure and to be able to demonstrate that the processing is in accordance with this
+regulation is being implemented. Those measures shall be reviewed and updated if necessary ”.
+
+Page 23
+
+4.4. Risk-based approach
+Article 39(2) requires that the data protection officer " duly"
+takes into account the risk associated with the processing, and the nature, scope,
+context and the processing purposes ".
+This article is based on a general principle of following common sense and that
+may be relevant to many aspects of an officer's day-to-day work for
+data protection. In fact, this article mandates that officials for
+data protection should prioritize their activities and focus their efforts on
+matters that pose a higher risk to data protection. This does not mean that they
+compliance checks on data processing activities, which in comparison have a lower
+level of risk should be omitted, but it does indicate that they are mainly
+should focus on the activities with a higher risk.
+This selective and pragmatic approach helps data protection officers to
+to advise the controller on the
+data protection impact assessment method to be used, the matters dealt with by an internal or external
+data protection investigation should be investigated, the internal training courses provided at the
+employees or directors responsible for the processing must be given and to
+which processing activities he/she needs to devote more time and resources to.
+4.5. Role of the DPO in record-keeping
+In accordance with Article 30(1) and (2), it is the controller or processor, and not the
+Data Protection Officer, who “ keeps a record of the processing activities that
+under his responsibility " or "keep a register of all categories of
+processing activities carried out on behalf of a controller".
+In practice, it is often the data protection officers who make inventories
+and maintain a record of processing activities based on information provided to them
+granted by the various departments in their organization that are responsible for the processing of personal data
+vouch. This practice was established in accordance with several existing national
+laws and in accordance with data protection rules applicable to the European institutions and bodies
+apply 37 .
+
+22
+
+Article 39(1) lists the duties to be performed by the official for
+data protection as a minimum. Nothing prevents the controller
+or the processor, therefore, to entrust the data protection officer with the
+maintaining the register of processing activities, under the supervision of the
+controller or processor. Such a register should be regarded as a
+of the data protection officer's tools to carry out his duties, including
+in particular, monitor compliance, as well as provide information and advice to the
+controller or processor.
+In any event, the register kept pursuant to Article 30 should also be considered as
+a tool that enables the controller and the supervisory authority
+37
+
+Article 24(1)(d) of Regulation (EC) No 45/2001.
+
+23
+
+Page 24
+
+to obtain, on request, an overview of all activities of an organization in which
+personal data are processed. Consequently, this is then a prior requirement in view of
+compliance, and as such effective measures for accountability.
+
+24
+
+Page 25
+
+5 APPENDIX
+
+-
+
+GUIDELINES
+
+IN FRONT OF
+THE
+
+OFFICER
+
+IN FRONT OF
+
+DATA PROTECTION: WHAT YOU NEED TO KNOW
+The purpose of this appendix is ​to answer in a simple and easy-to-read format:
+some essential questions that organizations may ask themselves about the provisions in the general regulation
+data protection requirements for the appointment of an officer for
+data protection.
+Designation of the data protection officer
+
+1 Which organizations should appoint a data protection officer?
+The appointment of a data protection officer is mandatory:
+• if the processing is carried out by a public authority or body (irrespective of the
+type of data being processed);
+• if the core tasks of the controller or processor consist of processing operations
+that require regular and systematic observation of data subjects on a large scale;
+• if the core tasks of the controller or processor consist of processing on
+large scale of special categories of data or of personal data related to
+criminal convictions and offences.
+Please note that Union or Member State law also restricts the designation of
+DPOs can demand. Finally, even if the designation of a data protection officer does not
+is mandatory, organizations may sometimes find it helpful to voluntarily appoint an officer for
+designate data protection. The Article 29 Working Party ("WP29") encourages
+these voluntary efforts. When an organization voluntarily appoints an officer for
+data protection designation, the same applies to his or her designation, position and duties
+conditions that would apply if the designation had been mandatory.
+Source: Article 37(1) of the General Data Protection Regulation
+
+2
+
+What does "core tasks" mean?
+
+"Core tasks" can be considered as the most important actions performed with the
+with a view to achieving the objectives of the controller or processor. This one
+also include all activities where the processing of data is an integral part of the
+activity of the controller or processor. For example, the processing of medical
+data, such as patient medical records, is considered one of the core tasks of
+any hospital and should hospitals have data protection officers
+appoint.
+On the other hand, all organizations carry out supporting activities, for example the payment of
+their employees or basic IT support. These are examples of necessary
+support functions for the core task or activity of the organization. Even though these are
+activities are necessary or essential, they are usually considered as additional functions rather than as core tasks
+considered.
+Source: Article 37(1)(b) and (c) of the General Data Protection Regulation
+
+25
+
+Page 26
+
+3 What does "large scale" mean?
+The General Data Protection Regulation does not define exactly what is meant
+with "on a large scale". In particular, the WP29 recommends considering the following factors
+when determining whether the processing is performed on a large scale:
+• The number of data subjects concerned - either as a specific number or as a proportionate share
+of the relevant population
+• The amount of data and/or the range of the different data items processed
+• The duration or permanence of the data processing
+• The geographic scope of the processing activity
+Here are some examples of large-scale processing:
+• Processing of patient data in the context of the regular business operations of a
+Hopital
+• Processing of travel data of persons using the public transport system in a city
+use (e.g. tracing via travel cards)
+• Processing real-time geolocation data from customers of an international fast food chain with
+for the purpose of statistical processing by a specialized service
+• Processing of customer data in the context of the regular business operations of a
+insurance company or a bank
+• Processing of personal data for the purpose of behaviour-related publicity by a
+search engine
+• Processing of data (content, surfing behaviour, location) via providers of telephony or
+internet services
+Below are some examples of processing operations that are not considered large-scale:
+• Processing of patient data by an individual physician
+• Processing of personal data concerning criminal convictions and offences
+by an individual lawyer
+Source: Article 37(1)(b) and (c) of the General Data Protection Regulation
+
+4 What does "regular and systematic observation" mean?
+The term "regular and systematic observation" of data subjects is not defined in the
+General Data Protection Regulation, but clearly covers all forms of detection and
+profiling on the internet, also with a view to behaviour-related publicity. The concept of "observation"
+however, is not limited to the Internet.
+Below are some examples of activities that serve as a regular and systematic observation of
+data subjects are considered: to manage a telecommunications network; telecommunications services
+to deliver; email retargeting; marketing activities based on data; profiling and scoring
+for the purpose of risk assessment (e.g. for assigning a creditworthiness score,
+determination of insurance premiums, fraud prevention, money laundering detection); location tracking,
+e.g. via mobile apps; customer loyalty programs; behavioral publicity; monitoring
+of health and fitness data via wearable devices; closed circuit TV; linked
+devices e.g. smart meters, smart cars, home automation etc.
+
+26
+
+Page 27
+
+The WP29 interprets the term "regularly" in one or more of the following ways:
+• Something that occurs continuously or at specific times over a period of time
+• Recurring or repetitive at set times
+• Something that occurs constantly or periodically
+The WP29 interprets the term "systematic" in one or more of the following ways:
+• Something that occurs according to a system
+• Pre-arranged, organized or methodical
+• Something that occurs as part of a general data collection program programma
+• Something that is carried out as part of a strategy
+Source: Article 37(1)(b) of the General Data Protection Regulation
+
+5 Can organizations jointly appoint a data protection officer
+appoint? If so, under what conditions?
+Yes. A group may appoint a single data protection officer, provided that
+this person "is easy to contact from any location ". The notion of accessibility refers
+to the tasks of the data protection officer as contact person for data subjects,
+the supervisory authority as well as within the organisation. To ensure that the officer for function
+data protection, whether internally or externally, is accessible, above all it must be ensured that
+its contact details in accordance with the General Data Protection Regulation
+are available. The data protection officer, assisted if necessary by a
+team, be able to communicate efficiently with those involved and with the relevant
+supervisory authorities to cooperate. In other words, all communications must
+take place in the language or languages ​of the relevant supervisory authorities and data subjects. The
+availability of a data protection officer (physically in the same location as the
+employees, through a hotline or other secure communication channel) is essential
+to ensure that data subjects can contact the data protection officer
+record.
+A single data protection officer can work for several government agencies or
+public bodies are designated, taking into account their organizational structure and size.
+The same considerations regarding resources and communication apply. Since the official
+has multiple tasks for data protection, the controller or the
+processor to ensure that a single data protection officer, assisted where necessary
+by a team, can perform these tasks efficiently despite the fact that he works for several
+government agencies and bodies has been appointed.
+Source: Article 37(2) and (3) of the General Data Protection Regulation
+6 Where should the data protection officer be located?
+To ensure this, the WP29 recommends that the data protection officer
+located in the European Union, regardless of whether the controller or processor is already
+or not located in the European Union. However, it cannot be excluded that in some cases
+where the controller or processor does not have an establishment in the European Union,
+
+27
+
+Page 28
+
+a data protection officer can perform his/her activities more efficiently when
+he/she is located outside the EU.
+7 Can an external data protection officer be appointed?
+Yes. The data protection officer may appoint a staff member of the
+controller or the processor (internal data protection officer),
+or can perform the tasks on the basis of a service agreement. That means that the
+data protection officer may also be a third party who performs his/her function on the basis of
+of a service agreement concluded with an individual or an organization.
+When the position of data protection officer is performed by an external service provider
+held, a team of individuals working for that entity can effectively perform all the duties of the officer
+for data protection as a team, under the responsibility of a customer
+appointed main contact person and "responsible person". In this case it is essential that
+all members of the external organization performing the duties of the data protection officer
+comply with all applicable requirements of the General Data Protection Regulation.
+With a view to legal transparency and good organization and to avoid conflicts of interest among members
+of the team, the Guidelines recommend that the tasks within the team of the
+external data protection officer to be clearly set out in a service agreement
+as well as appoint a single person as main contact person and "responsible" for the customer
+to set.
+Source: Article 37(6) of the General Data Protection Regulation
+
+8 What professional qualities should the data protection officer
+possess?
+The data protection officer is designated on the basis of his professional
+qualities and, in particular, his expertise in the field of legislation and practice
+on data protection and his/her ability to perform his/her duties.
+The required level of expertise should be determined on the basis of the performed
+data processing activities and the protection required for the processed data.
+For example: in a particularly complex data processing activity or when processing a large
+number of sensitive data may require a higher level of
+expertise and support are required.
+The relevant skills and expertise include:
+• expertise in national and European data protection laws and practices, with
+including a thorough understanding of the General Data Protection Regulation
+• insight into the processing operations performed
+• knowledge of information technologies and data security
+• industry and organization knowledge
+• ability to foster a culture of data protection within the organization
+
+28
+
+Page 29
+
+Source: Article 37(5) of the General Data Protection Regulation
+
+Position of the data protection officer
+
+9 What resources must the controller or processor provide to the
+provide a data protection officer?
+The data protection officer must have the necessary resources to
+to perform tasks.
+Depending on the nature of the processing as well as the activities and size of the organisation
+The following resources should be made available to the data protection officer
+stated:
+• Active support of the Data Protection Officer function by the
+senior management
+• Sufficient time for the data protection officers to perform their duties
+• Adequate support in terms of financial resources, infrastructure (offices,
+facilities, equipment) and personnel where applicable
+• Official announcement of the appointment of the Data Protection Officer to
+all staff
+• Access to other services within the organization so that the officers for
+data protection of those other services the necessary essential support, assistance
+or receive information
+• Continuing education
+Source: Article 38(2) of the General Data Protection Regulation
+
+10 What safeguards does the data protection officer have to
+be able to carry out his/her tasks independently? What does "conflict of interest" mean?
+There are several safeguards that should enable the data protection officer
+to act independently:
+• No instructions by the controllers or processors regarding the
+exercising the duties of the data protection officer
+• No dismissal or sanctions by the controller for the implementation of the
+duties of the data protection officer
+• No conflict of interest with other potential duties and obligations
+The other duties and obligations of a data protection officer should not be
+lead to a conflict of interest. This means in the first instance that the data protection officer
+cannot hold a position within the organization in which he or she achieves the objectives of and
+
+29
+
+Page 30
+
+means of processing personal data. Given the specific
+organizational structure of each organization should be assessed on a case-by-case basis.
+As a rule of thumb, positions with a conflict of interest are considered within the organization: positions
+in senior management (e.g. Chief Executive, Chief Operating, Chief Financial, Chief Medical
+Officer, Head of Marketing, Head of Human Resources or Head of IT),
+but also lower positions within the organizational structure if these persons achieve the objectives of and
+resources for the processing of data. In addition, a conflict of interest
+also occur, for example, when an external data protection officer
+is asked to represent the controller or processor in the
+court in lawsuits over data protection issues.
+Source: Article 38(3) and Article 38(6) of the General Data Protection Regulation
+
+Duties of the Data Protection Officer
+
+11 What does "compliance check" mean?
+As part of the compliance check duties, officers must
+data protection in particular:
+• collect information to identify processing activities;
+• analyze and monitor compliance with processing activities;
+• inform, advise and make recommendations to the controller or processor
+to do.
+Source: Article 39(1)(b) of the General Data Protection Regulation
+
+12 Is the DPO personally responsible for non-compliance with
+data protection?
+No. Data protection officers are not personally responsible for the noncompliance with data protection requirements. It is the controller or the
+processor who must ensure and be able to demonstrate that the processing is in accordance with this
+regulation has been implemented. Data protection compliance is the responsibility
+of the controller or processor.
+13 What role does the data protection officer play in the
+data protection impact assessments
+
+and
+
+the
+
+registers
+
+from
+
+the
+
+processing activities?
+For the data protection impact assessment, the controller or the
+processor ask the data protection officer for advice in, among other things, the following
+situations:
+
+30
+
+Page 31
+
+• whether or not a data protection impact assessment should be carried out;
+• which methodology should be followed in a data protection impact assessment;
+• whether the data protection impact assessment should be performed in-house or outsourced;
+• which safeguards (including technical and organizational measures) must be taken
+applied to mitigate any risks to the rights and interests of data subjects;
+• whether or not the data protection impact assessment has been carried out correctly and whether the
+conclusions (whether or not to carry out the processing and which safeguards apply) whether or not in
+comply with data protection requirements.
+With regard to records of processing activities, it is the controller or the
+processor and not the data protection officer responsible for maintaining such records.
+However, nothing prevents the controller or processor from informing the officer om
+for data protection to keep the records of the
+processing activities, under the supervision of the controller or processor.
+Such registers should be considered as one of the resources for the officer for
+data protection to carry out its tasks, in particular to ensure compliance, as well as information
+provide to and advise the controller or processor.
+Source: Article 39(1)(c) and Article 30 of the General Regulation
+data protection
+
+Done at Brussels, 13 December 2016
+
+On behalf of the working group
+the chairwoman
+Isabelle FALQUE-PIERROTIN
+
+Last revised and approved on April 5
+2017
+
+On behalf of the working group
+the chairwoman
+Isabelle FALQUE-PIERROTIN
+
+31
+
+

@@ -1,0 +1,963 @@
+Page 1
+
+Ru Own
+
+ORQ-578 01.11.2019
+
+Own | Ru
+
+The document is currently being amended
+
+LAW OF THE REPUBLIC OF UZBEKISTAN
+ON PAYMENTS AND PAYMENT SYSTEMS
+Adopted by the Legislative Chamber on September 19, 2019
+Approved by the Senate on October 11, 2019
+Chapter 1. General rules
+Article 1 The purpose of this Act
+The purpose of this Law is to regulate relations in the field of payments and payment systems.
+Article 2 Scope of this Law
+The application of this Law is between individuals and legal entities that are providers of payment services and users of payment services
+applies to relations arising in the course of making payments and providing payment services.
+This Law does not apply to transactions with crypto-assets.
+Article 3 Legislation on payments and payment systems
+The legislation on payments and payment systems consists of this Law and other legislative acts.
+If an international agreement of the Republic of Uzbekistan provides for in the legislation of the Republic of Uzbekistan on payments and payment systems
+the rules of an international treaty shall apply if rules other than those prescribed are established.
+Article 4 Basic concepts
+The following basic concepts are applied in this Law:
+beneficiary - a person receiving funds;
+Valuation date - specified by the initiator in the payment document, which should be transferred to the bank account of the beneficiary
+date;
+identification tool - a unique identifier consisting of an electronic digital signature of the sender of the order or a combination of letters, numbers or symbols
+or other designated and agreed upon by the payment service provider to identify the user of the payment services
+identifier (personal password, one-time identification code, biometric identification tool);
+clearing - the process of collecting, comparing and recording the mutual claims and obligations of the participants of the payment system for money;
+remote service system - a user of payment services for the use of electronic services and a provider of these services
+a set of telecommunications, digital and information technologies, software and equipment that provide communication between;
+day of operation - the period of time during which orders are received and processed;
+initiator - a person who ordered to make a payment;
+payment - fulfillment of a monetary obligation in cash or transfer of funds using means of payment;
+payment agent - a legal entity that is not a bank, which has concluded an agency agreement with a bank or payment organization for the provision of payment services;
+means of payment - a payment document or electronic means of payment, which is or is the basis for making a payment;
+payment subagent - a legal entity that is not a bank or has entered into a subagent agreement with a payment agent for the provision of payment services
+individual entrepreneur;
+payment organization - a legal entity that is not a bank and is authorized to carry out activities for the provision of payment services;
+payer - the person at whose expense the payment is made;
+payment service - a service provided by a payment service provider to a user of payment services;
+payment services market - related to the provision and use of payment services, as well as the issuance and use of payment instruments
+set of relationships;
+payment service user - an individual or legal entity using the payment services of a payment service provider;
+order - an instruction of the payment initiator to make a payment to the payment service provider, which is an electronic payment
+in the form of payment documents or in the form of consent of the user of payment services when using the tool or remote service system
+is represented;
+electronic money - unconditionally stored in electronic form by the issuer of electronic money and accepted as a means of payment in the electronic money system
+and non-recoverable monetary obligations.
+Chapter 2. Payment systems
+Article 5 Payment system and payment system participants
+The payment system is determined by the payment system operator, the payment system participants and (or) the payment system operator of the payment organization
+relations that ensure the implementation of cooperation through the application of procedures, infrastructure and rules of the payment system
+is a set.
+Banks that perform settlements with the payment system operator and enter into an agreement on participation in the payment system are the payment system
+participants.
+Article 6 Types of payment systems, criteria for determining their importance
+Payment systems are divided into important payment systems and other payment systems.
+If the uninterrupted operation of the payment system contributes to the stable functioning of the payment services market of the Republic of Uzbekistan, it will work
+and interruptions (interruptions) may lead to risks in the market of payment services of the Republic of Uzbekistan.
+The Central Bank of the Republic of Kazakhstan (hereinafter referred to as the Central Bank) includes this payment system as an important payment system.
+If the payment system occupies a share of the payment services market in excess of the amount established by the Central Bank for this market and (or)
+payments through the payment system in the territory of the Republic of Uzbekistan for a period of not less than the indicators set by the Central Bank
+if implemented, this system is an important payment system.
+Other payment systems are payment systems that do not comply with the descriptions of payment systems listed in the second and third parts of this article
+is calculated.
+Article 7 Payment system operator
+The operator of the payment system is a legal entity carrying out activities to ensure the operation of the payment system in the territory of the Republic of Uzbekistan.
+A legal entity that is not a payment system operator shall use the words “payment system” in its name and (or) trademark and the words derived from these words.
+from the words that allow us to assume that the activities to ensure the functioning of the payment system are carried out by this legal entity
+not allowed to use.
+Payment system operator:
+determines the rules of the payment system and monitors their compliance by the participants of the payment system;
+processing and delivery of messages of payment system participants (participants) on payment and information,
+carries out individual execution or clearing of orders;
+enters into an agreement with a participant of the payment system on participation in the payment system;
+ensures the functioning of the payment system infrastructure;
+ensures compliance with information security requirements and measures for uninterrupted operation of the payment system;
+ensures that the participants of the payment system have equal and open access to the services provided to them.
+The payment system operator's own license to carry out the activities of the payment system operator when providing information about the payment system
+must indicate the number.
+Article 8 Payment system rules
+The rules of the payment system should include:
+procedures for the payment system, including payments in the payment system, the order of application of payment notification formats,
+payment system work schedule and risk management system in the payment system;
+a description of the services provided by the payment system operator and the operations performed in the payment system;
+terms of participation in the payment system;
+the order of cooperation of payment system participants with the payment system operator;
+the procedure for recalling the payment order;
+the procedure for resolving the insolvency of the participants of the payment system;
+the procedure for compliance with information security requirements;
+measures applied to a participant of the payment system for violation of the rules of the payment system.
+The rules of the payment system stipulate that the participants of this payment system participate in other payment systems, as well as this payment system
+the provision of services to other payment systems by persons servicing the infrastructure (including persons who are employees of the operator of this payment system)
+except) is prohibited.
+Rules of the payment system, changes and additions to these rules, tariffs (cost of services) of the payment system operator, as well as these tariffs
+(cost of services) payment system within three working days after confirmation of information on all changes by the payment system operator
+should be published on the official website of the operator.
+Rules of the payment system, changes and additions to these rules, tariffs (cost of services) of the payment system operator, as well as these tariffs
+(cost of services) fifteen days after the announcement of all changes on the official website of the payment system operator, the payment system operator and
+used by participants.
+Operators of payment systems enter into agreements on cooperation of their payment systems, provided that such cooperation in the rules of payment systems
+If the order is reflected, you can create.
+Payment system operator to the Central Bank:
+information on changes and additions to the rules of the payment system to which these changes and additions are made
+no later than fifteen working days before the date;
+information on changes in tariffs (cost of services) of the payment system operator until the date of these changes
+no later than five working days.
+Article 9 Risk management system in the payment system
+Risk management system in the payment system Risk detection, monitoring and management, as well as the continuity of the payment system
+determines the procedures for ensuring the operation of the payment system and includes a plan for the resumption of operations of the payment system operator.
+Methods of risk management in the payment system Features of the organization of the payment system, risk management model, payment clearing and
+payment procedures taking into account settlement procedures, number of money transfers and their amounts, final settlement time
+determined by the operator.
+The risk management system in the payment system may provide for the following methods of risk management:
+setting the maximum amount (limits) of obligations of the participants of the payment system, taking into account the level of risk;
+creation of a guarantee fund of the payment system on a separate deposit account in the bank;
+management of sequential execution of orders of payment system participants;
+settlement in the payment system during the business day;
+settlements within the funds provided by the participants of the payment system;
+providing credit opportunities.
+Article 10 Important payment system operator
+In addition to the conditions specified in Article 7 of this Law, the operator of the essential payment system :
+the point of view that the quality of services provided to the participants of the payment system and users of payment services will satisfy them
+analyzes in terms of;
+ensures the operation of a two-way communication mechanism with participants of the payment system and users of payment services;
+efficiency of the payment system in terms of satisfaction of payment system participants and users of payment services
+analysis taking into account the results of consideration of appeals and inquiries received through the two-way communication mechanism in the reporting year
+publishes the results on its official website once a year, no later than the first quarter following the reporting period;
+conducts self-assessment of the operation of an important payment system;
+forms the risk management body of the payment system and uses at least two methods of risk management;
+internal documents:
+1) regulations of the risk management body of the payment system, including its powers;
+2) the work of the payment system, which assesses the satisfaction of the needs of the participants of the payment system for the quality of services provided
+efficiency criteria;
+3) determine the procedure for pre-trial settlement of disputes with participants of the payment system.
+An announcement on the official website of the major payment system operator within three working days after the approval of the documents specified in this article
+is done.
+Article 11 Self-assessment of the performance of an important payment system
+In order to determine the compliance of the payment system with the requirements of this Law and international standards by the operator of the essential payment system
+a set of measures to be implemented is a self-assessment of the performance of an important payment system.
+The operator of an important payment system monitors the operation of the payment system at least once every three years in terms of its compliance with international standards
+evaluates.
+The operator of an important payment system submits to the Central Bank the results of a self-assessment of the performance of an important payment system and is self-reported
+announces on its official website within three working days after the completion of the assessment.
+Article 12 Completion of payments in the payment system
+Payments are made in the payment system after the funds have been transferred to the account of the participant for whose benefit they were made.
+is considered complete.
+Suspension of expenses on the bank account of the participant of the payment system and (or) transfer of money from the client's bank account
+by calling the payments directed to the payment system by this participant before receiving the decisions of the competent state bodies on the seizure of funds
+are non-refundable and non-refundable payments. These payments must be made and finalized.
+Chapter 3 Payment services market
+Article 13 Payment service providers
+Payment service providers include:
+Central Bank;
+banks;
+payment organizations;
+payment agents;
+payment subagents.
+In this Law, banks are not considered as payment organizations, payment agents and payment subagents.
+Article 14 Types of payment services
+Services include payment services:
+accepting and making payments using a bank account;
+acceptance of cash for transfer to bank accounts, including third party accounts;
+acceptance of cash by the payer to make a payment without opening a bank account;
+issuance and reimbursement of electronic money;
+issuance of bank cards;
+sale of electronic money and bank cards;
+acceptance and processing of payments made using electronic money;
+provide the bank with the information necessary for the processing and payment of payments in electronic form or the funds on these payments
+to receive;
+receipt and execution of funds through the money transfer system.
+The following services are not included in the payment services:
+to whom the payer has obligations to be performed without the participation of the payment service provider;
+issuance of cash by the executor;
+collection of banknotes, coins and valuables;
+Carrying out exchange operations with cash foreign currency without opening a bank account;
+in favor of the beneficiary by the payment service provider of funds on payments received without the participation of third parties
+information between the beneficiary, the individual entrepreneur and the payment service provider, which is a legal entity at the time of the transfer.
+ensuring communication and technological cooperation.
+Article 15 Payment services
+Payment services:
+Central Bank;
+banks;
+payment organization, including acceptance of cash for transfer to bank accounts, issuance of electronic money and bank cards
+mustasno;
+within the types of payment services allowed for banks and payment organizations by the payment agent and the payment subagent.
+Remote service of a payment service provider that provides payment services to the user's own bank account
+to use the system or to use the services of another payment service provider, provided that the payment service provider has such
+to ensure equal access of all suppliers to information security and payment services, if there are technical possibilities of use
+will be justified in compliance with the requirements.
+It is prohibited to provide payment services in the territory of the Republic of Uzbekistan without the appropriate license of the Central Bank. This requirement applies to payment agents and
+does not apply to the activities of payment subagents.
+Provision of payment services by a payment organization as a payment agent or payment subagent under an agency contract for the provision of payment services
+has the right to carry out activities on
+The payment organization must indicate its license number when providing information about its activities.
+Article 16 Contract for payment services
+Payment service is a contract between a payment service user and a payment service provider, including a public offer
+on the basis of a contract of type. The contract for the provision of payment services must include:
+types and general features of payment services provided;
+procedure and terms of payment services;
+the amount of fees and brokerage fees charged;
+the procedure for providing information on payment services;
+the order of actions to protect against unauthorized payments;
+the conditions under which the payment service provider has the right to refuse to provide payment services;
+the procedure for resolving issues of unauthorized payments;
+the right of the payment service user to terminate the contract;
+the procedure for filing objections and resolving disputes;
+compensation for damages for unreasonable refusal or inadequate execution of orders of the user of payment services
+the order of compensation and the amount of compensation.
+The contract for the provision of payment services may provide for additional conditions necessary for the provision of payment services.
+Payment to be made on the date of conclusion of the contract between the payment service provider and the user of payment services
+does not have the right to unilaterally increase the amount of brokerage fees for services. Make more international payments
+except for brokerage fees charged by the payment service provider on the change of these fees
+notifies the user in the manner and within the time specified in the contract.
+Article 17 Requirements to the payment service provider
+The payment service provider provides payment services only in accordance with the conditions stipulated in the order of the user of payment services
+shows.
+It is prohibited for the payment service provider to change the terms and details of the payment service user's order.
+The payment service provider is not entitled to initiate payment without the user’s order of payment services.
+Until the payment services are provided to the user of the payment services provider on the amount of the brokerage fee
+provides information.
+It is prohibited to charge an intermediary fee for the provision of payment services from the amount of payment, including the payment services of the beneficiary and the beneficiary
+except as provided in the contract between the supplier, provided that the brokerage fee is deducted from the amount of payment.
+The Beneficiary's payment service provider shall inform the Beneficiary about the amount of payment received at the request of the Beneficiary and the deductions made from it.
+informs.
+The payment service provider shall ensure compliance with the following conditions when providing payment services:
+against money laundering, terrorist financing and proliferation of weapons of mass destruction
+duly verify and identify the user of payment services in accordance with the legislation on combating;
+legalization of proceeds from crime, financing of terrorism and distribution of weapons of mass destruction
+availability of requisites for the payer and the beneficiary in the legislation on combating financing, including payment
+Acceptance of cash by the sender of the organization's funds for making payments without opening a bank account
+excluding the provision of services;
+information that allows to identify the payer and (or) the beneficiary for at least five years after the provision of payment services
+ensuring safety;
+to take necessary legal, organizational and technical measures to protect the means of identification of the user of payment services.
+The fact that the payment service provider has provided the payment service to the user after the payment service has been provided
+submits a supporting document in paper or electronic form. Requirements for the content of the document confirming the provision of payment services Central Bank
+determined by.
+Payment service operators and payment service providers shall ensure the confidentiality of the information they receive when providing payment services
+and does not allow their disclosure to third parties, as provided by the Law of the Republic of Uzbekistan "On Bank Secrecy"
+except in cases of detention.
+Article 18 Restrictions on the activities of the payment organization
+Payment organizations are not entitled to engage in activities not related to the provision of payment services.
+The restriction provided for in the first part of this Article shall not apply to the following types of activities:
+advertising, marketing, consulting and information services;
+software development, customization, modification and technical support;
+services related to the use of information and communication technologies, including information and technical services, data processing and
+creation and use of services, databases and information resources for their implementation;
+creation of information systems and networks and ensuring their security;
+development and implementation of cryptographic information protection tools;
+microfinance services.
+If the types of activities provided for in the second part of this article are included in the list of activities for which a license is required
+the payment organization must obtain the appropriate license in the prescribed manner, which entitles it to carry out these activities.
+Article 19 Provision of payment services through payment agents and payment subagents
+Banks and payment organizations have the right to provide payment services to users of payment services through a payment agent and a payment subagent.
+Payment services to the user of payment services are provided by the payment agent or payment subagent in compliance with the following requirements:
+provision of payment services on behalf of the bank or payment organization;
+submission of a document confirming the fact of payment services to the user of payment services and containing the necessary details;
+in accordance with the terms of the contract concluded by the paying agent with the bank or payment organization, and by the payment subagent with the paying agent
+recovery in accordance with the contract.
+The following information shall be provided to the user of payment services by the payment agent or payment subagent before the start of payment services
+are:
+the name of the payment service and the address of the place where these services are provided;
+Taxpayer's name, identification number, location (postal address) of the bank, payment organization and payment agent, telephone number, payment
+name or surname, name, patronymic, identification number, payment of the taxpayer in case of rendering services by the payment subagent
+location of the subagent (postal address), telephone number;
+license number of the bank or payment organization;
+the amount of the fee charged for the provision of payment services.
+Banks and payment organizations maintain registers of payment agents and payment subagents. The payment agent is the payment subagents involved
+provides information on these subagents to the bank or payment organization for inclusion in the register.
+Control over the compliance of banks and payment organizations with the terms of the agency agreement on the provision of payment services by the payment agent
+performs.
+The payment agent monitors compliance by the payment subagent with the terms of the subagent agreement on the provision of payment services
+increases.
+The bank and the payment organization that has concluded agency agreements with the payment agent for the provision of payment services shall provide these services to the Central Bank,
+as well as information on its payment agents as well as payment subagents.
+Payment services to users of payment services on the obligations of the payment agent and the payment subagent of the bank and the payment organization
+will be jointly and severally liable with the paying agent and the paying subagent who entered into the agency agreements for rendering.
+Chapter 4 Regulation of payment systems and payment services market
+Article 20 The main directions of state policy in the field of payments and payment systems
+The main directions of state policy in the field of payments and payment systems are:
+ensuring the rights, freedoms and legitimate interests of payment service providers and users of payment services;
+creation of conditions for the development of the system of payment services;
+improving the quality of services provided;
+support the development of cashless payment systems.
+Article 21 Powers of the Central Bank
+In order to ensure the efficient, reliable and secure operation of payment systems of the Central Bank, their
+Carries out regulation in accordance with the law.
+In order to regulate payment systems, the Central Bank:
+carries out licensing of payment system operators and payment organizations;
+Maintains the register of payment system operators and the register of payment organizations;
+coordinates the rules of the payment system and the order of cooperation of the payment organization with the participants of the payment system;
+defines the criteria of importance of payment systems;
+exercises control over payment systems;
+imposes measures and sanctions on payment system operators and payment organizations for violation of the requirements of this Law;
+Determines the procedure for making non-cash payments in the territory of the Republic of Uzbekistan;
+LexUZ review
+See: Regulations on cashless settlements in the Republic of Uzbekistan (13.04.2020, registration number 3229).
+
+Determines the rules of operation of the interbank payment and clearing systems of the Central Bank;
+determines the procedure for opening, maintaining and closing bank accounts;
+determines the procedure for submission of payment-related information to the Central Bank by payment system operators and payment organizations;
+Establishes the rules of issuance and circulation of bank cards in the territory of the Republic of Uzbekistan;
+Establishes the rules of issuance and circulation of electronic money in the territory of the Republic of Uzbekistan;
+Software for cooperation with the Central Bank's interbank payment and clearing systems, including automated banking
+sets requirements for information security systems, as well as payment systems;
+determines the minimum amount of authorized capital of payment system operators and payment organizations;
+sets limits on payments and money transfers with electronic money;
+has the right to submit a proposal to the antimonopoly body in case of unreasonable increase of tariffs for payment services;
+the effectiveness of control activities in relation to international payment systems, the participants of which operate in the territory of the Republic of Uzbekistan
+cooperates with regulatory authorities of other countries and international financial institutions in order to increase.
+Article 22 Procedure for licensing the activities of payment system operators
+Obtaining a license to operate as a payment system operator for banks and non-bank legal entities as license applicants
+for the purpose of applying for a license to the Central Bank in the form prescribed by the Central Bank.
+The following shall be attached to the Bank's application for a license:
+a copy of the decision of the bank's management to establish a payment system;
+business plan for the development of the payment system for the next two calendar years, which includes the objectives and planned results of the payment system,
+including analysis of market and infrastructure factors;
+Document confirming the payment of a fee by the Central Bank for consideration of the application of the license applicant;
+rules of the payment system.
+The following shall be attached to the application for a license of a legal entity that is not a bank:
+a copy of the decision of the authorized body of the legal entity on the establishment of the payment system;
+business plan for the development of the payment system for the next two calendar years, which includes the objectives and planned results of the payment system,
+including analysis of market and infrastructure factors;
+payment system rules;
+written consent of the bank to become a settlement bank of the payment system, including in the form in which the contract was concluded with him
+consent;
+Document confirming the payment of a fee by the Central Bank for consideration of the application of the license applicant;
+balance sheet and statement of financial performance as of the last reporting date;
+information on the founders (participants), including the amount of their share in the capital;
+information on the head and members of the executive body, including their information, place of work and position
+information received, copies of supporting documents are attached to this information;
+on the risk management system, including ensuring the safety of funds of users of payment services
+information on requirements;
+information on security systems, control mechanisms and systems;
+a document on security policy, including a detailed risk assessment, as well as information security and payment services
+to ensure the protection of users against risks, including fraud and unlawful disclosure of confidential and personal information
+a description of the measures to be taken to reduce the risks of misuse;
+against money laundering, terrorist financing and proliferation of weapons of mass destruction
+a description of the measures to ensure compliance with the requirements of the legislation on combating.
+The application form for the issuance of a license and a list of required documents will be posted on the official website of the Central Bank.
+The decision of the Central Bank to issue or refuse to issue a license shall be accompanied by the application of the license applicant together with all necessary documents.
+within a period of thirty days from the date of receipt.
+Negotiation of the rules of the payment system is carried out simultaneously with the consideration of the application of the license applicant and the documents attached to it
+is increased.
+The Central Bank shall notify the license applicant within three working days after the decision to grant or refuse to issue a license.
+sends a notification that a decision has been made.
+When making a decision to issue a license, the Central Bank shall make an appropriate entry in the Register of Payment System Operators about the payment system operator
+enters.
+Notification of the decision to issue a license Payment of bank account details and state duty to the license applicant
+sent (submitted) in writing or electronically through the information system, indicating the deadline.
+The payment system operator carries out its activities after obtaining a license and agreeing on the rules of the payment system.
+The Central Bank refuses to issue a license to a license applicant in the following cases:
+when the license applicant submits documents that are not properly executed;
+when the documents submitted by the license applicant contain incorrect or distorted information;
+when the license applicant does not comply with the terms and conditions of the license.
+Notice of refusal to issue a license to the license applicant in writing or through the information system, indicating the reasons for refusal
+sent (submitted) in electronic form. The license applicant may remedy the reasons and submit the documents for reconsideration
+the term should not exceed two months.
+If the license applicant eliminates the reasons that served as the basis for refusal to issue a license, the Central Bank shall reconsider the documents.
+the exit shall be made within ten days from the date of receipt of the application of the license applicant together with all necessary documents. License
+no fee will be charged for reconsideration of the plaintiff's application.
+In case of change of information about the payment system operator, the payment system operator shall notify the Central Bank within three working days
+in electronic form or through the information system. Central Bank Payment Systems on the basis of a notification received from the payment system operator
+make appropriate changes to the register of operators within three working days.
+The payment system operator shall submit to the Central Bank of each payment system to carry out activities as an operator of two or more payment systems
+applies for a license to carry out activities as an operator, attaches to the application the documents specified in this article.
+Article 23 Termination of the payment system operator's license
+The Central Bank decides to terminate the license of the payment system operator in the following cases:
+when the payment system operator applies for termination of the license;
+upon expiration of the license for the right to conduct banking operations in the bank that is the operator of the payment system;
+in case of liquidation of the payment system operator - from the moment of liquidation or in case of liquidation as a result of reorganization of its activity - reorganized
+from the moment of its replacement, as well as the state of the newly formed legal entity in the operator of the reorganized payment system
+with the exception of the presence of a license to carry out the same type of licensed activity on the date of registration;
+if the payment system operator has not been operating for one year from the date of obtaining the license or the payment system operator has not been operating for six years.
+when suspended for a period of more than one month.
+When applying for termination of the license, the operator of the payment system must provide the following:
+1) in case of liquidation of the payment system operator:
+on liquidation of the payment system operator by its founders (participants) or the body of the legal entity represented in the constituent documents
+a decision stating the reasons for termination;
+liquidation, approved by the founders (participants) of the payment system operator or the body of the legal entity represented in the constituent documents
+process, fulfillment of obligations to the participants of the payment system and procedures and deadlines for satisfaction of creditors' claims
+received termination plan;
+Balance sheet confirming the availability of funds to satisfy the claim at the time of application to the Central Bank;
+information on the graduate or the composition of the liquidation commission and other necessary information;
+2) in other cases - procedures and terms of performance of obligations to participants of payment system.
+Termination of the payment system operator's license is carried out in court in the following cases:
+when the requirements provided for in this Law are regularly violated by the payment system operator or once grossly violated;
+Violations affecting the uninterrupted operation of the payment system within three months from the date of sending the first instruction of the Central Bank
+not eliminated by the payment system operator during
+When it is determined that the decision of the Central Bank to issue a license is illegal.
+Termination of the payment system operator's license on the grounds not provided for in this Article is not allowed.
+The decision of the Central Bank to terminate the license shall be issued to the operator of the payment system within three days from the date of this decision.
+will be delivered in writing no later than the day. From the date of receipt of the decision to terminate the license by the operator of the payment system
+the license must be returned to the Central Bank and destroyed within ten days.
+Information on the expiration of the license of the payment system operator in the media, including the Central Bank
+should be published on the official website. Validity of the payment system operator's license from the date of the decision to terminate its validity
+will be terminated from.
+The decision of the Central Bank to terminate the license may be appealed in court. The court ruled that the license was valid
+if the termination is found to be unjustified, the Central Bank shall be liable to the licensee in the amount of the damage caused to it.
+Procedure and terms of completion of payment and settlement operations upon expiration of the payment system operator's license
+Determined by the Central Bank.
+Article 24 Procedure for licensing the activities of payment organizations
+As a license applicant, legal entities are required by the Central Bank to obtain a license to carry out the activities of a payment organization.
+apply to the Central Bank for a license in the prescribed form.
+The following shall be attached to the application for a license:
+business plan of the payment organization for the next two calendar years;
+a document confirming the payment of a fee for consideration of the application of the payment organization by the Central Bank;
+balance sheet and statement of financial performance as of the last reporting date;
+the order of cooperation of the payment organization with the operator of the payment system and the participants of the payment system;
+information on the founders (participants), including the amount of their share in the capital;
+information on the head and members of the executive body, including information about them, place of work and position,
+copies of supporting documents are attached to it;
+information on the risk management system, including the requirements for ensuring the safety of customers' funds;
+information on security systems, control mechanisms and systems;
+a document on security policy, including a detailed risk assessment, as well as information security and payment services
+to ensure the protection of users against risks, including fraud and unlawful disclosure of confidential and personal information
+a description of the measures to be taken to reduce the risks of misuse;
+against money laundering, terrorist financing and proliferation of weapons of mass destruction
+a description of the measures to ensure compliance with the requirements of the legislation on combating.
+The application form for the issuance of a license and a list of required documents will be posted on the official website of the Central Bank.
+From the date of receipt of the application of the payment organization for the issuance or refusal to issue a license of the Central Bank with all the necessary documents
+makes a decision within a period of thirty days.
+Agreeing on the procedure for cooperation of the payment organization with the participants of the payment system, the application of the payment organization and the attached,
+at the same time as reviewing the documents required for licensing.
+The Central Bank shall notify the license applicant within three working days after the decision to grant or refuse to issue a license.
+sends a notification that a decision has been made.
+When making a decision to issue a license, the Central Bank shall make an appropriate entry about the payment organization in the register of payment organizations.
+Notification of the decision to issue a license Payment of bank account details and state duty to the license applicant
+sent (submitted) to the payment organization in writing or electronically through the information system, indicating the term.
+A payment organization may operate as a payment service provider after obtaining a license.
+The Central Bank refuses to issue a license to a payment organization in the following cases:
+when the payment organization submits documents that are not properly executed;
+in the presence of incorrect or distorted information in the documents submitted by the payment organization;
+when the payment organization does not comply with the requirements and conditions of the license.
+Notification of refusal to issue a license to the payment organization in writing or through the information system, indicating the reasons for refusal
+sent (submitted) in electronic form. The payment organization was able to eliminate the above reasons and submit the documents for reconsideration
+the period should not exceed two months.
+Reconsideration of documents if the payment organization eliminates the reasons that served as the basis for refusal to issue a license
+The application of the organization shall be processed by the Central Bank within ten days from the date of receipt together with all necessary documents. Payment
+no fee will be charged for reconsideration of the application of the organization.
+In case of changes in the information on the payment organization, the payment organization shall notify the Central Bank in writing or within three working days.
+must be notified electronically through the system. Three working days to the register of payment organizations on the basis of a notification received from the payment institution of the Central Bank
+makes appropriate changes during
+Article 25 Termination of the payment organization's license
+The Central Bank decides to terminate the payment organization's license in the following cases:
+when the payment organization applies for termination of the license;
+in case of liquidation of the payment organization - from the moment of liquidation or in case of liquidation as a result of reorganization - from the time of reorganization
+In this case, the change of the payment organization, as well as the state of the newly created legal entity in the reorganized payment organization
+except for the date of registration, if there is a license to carry out the same type of licensed activity;
+if the payment organization has not been operating for one year from the date of obtaining the license or for more than six months
+when suspended for a period.
+Termination of the payment organization's license is carried out in court in the following cases:
+when the requirements provided for in this Law are routinely violated by the payment organization or once grossly violated;
+When it is determined that the decision of the Central Bank to issue a license is illegal.
+Termination of a payment organization's license on the grounds not provided for in this Article shall not be allowed.
+The decision of the Central Bank to terminate the license shall be submitted to the payment organization within three days from the date of this decision.
+will be delivered in writing no later than. The decision to terminate the license is made within ten days from the date of receipt by the payment organization
+The license must be returned to the Central Bank and destroyed.
+
+Information on the expiration of the license of the payment organization is published in the media, including the official of the Central Bank
+should be published on the website. Validity of a payment organization's license from the date of the decision to terminate its validity
+terminated.
+Payment services are provided by the payment organization upon receipt by the Central Bank of the notice of termination of its license
+and he must remove the words “payment organization” from his name within a month.
+The decision of the Central Bank to terminate the license may be appealed in court. The court ruled that the license was valid
+if the termination is found to be unjustified, the Central Bank shall be liable to the licensee in the amount of the damage caused to it.
+Article 26 Procedure for reorganization of the payment organization
+Reorganization of a payment organization (merger, acquisition, division, separation, change) of the founders (participants) of the organization
+according to the decision of the Central Bank.
+In the event of a decision to reorganize a payment organization, the Central Bank shall be provided with the following information:
+decision on reorganization of the payment organization;
+documents describing the conditions, forms, procedure and terms of reorganization of the payment organization;
+financial forecast of the consequences of the reorganization of the payment organization;
+audit report in accordance with the legislation on auditing;
+business plan of the payment organization for the next two calendar years, formed as a result of reorganization;
+the order of cooperation of the payment organization with the participants of the payment system, formed as a result of reorganization.
+Results of consideration of documents submitted by the central bank payment organization within fifteen working days from the date of their submission
+has the right to advise on.
+Within fifteen days from the date of submission of information on reorganization by the reorganized payment organizations to the Central Bank
+publish relevant information on the reorganization in the media, including on its official website.
+Licensing of a payment organization formed as a result of reorganization shall be carried out in accordance with the requirements of this Law.
+Article 27 Requirements for the heads of the executive bodies of the payment system operator and the payment organization
+The heads of the executive bodies of the payment system operator and the payment organization have access to higher education and in the field of banking and finance or information
+at least two years of experience in the field of communication technologies, as well as a reputation for impeccable business, payment systems within its competence
+ensure the effective management of risks, have the necessary experience, knowledge and skills to make informed decisions.
+The heads of the executive bodies of the payment system operator and the payment organization shall comply with the requirements specified in the first part of this Article
+in the absence of which the Central Bank has the right to instruct to replace the heads of the payment system operator and the executive bodies of the payment organization.
+This instruction may be appealed in court.
+Chapter 5 Exercising control and monitoring over the operation of payment systems
+Article 28 Exercising control over the operation of payment systems
+When exercising control over the operation of payment systems of the Central Bank:
+personal information, including information related to the operation of payment systems from payment system operators and payment organizations
+requests the information it contains;
+forms and deadlines for submission of reports on the operation of payment systems by payment system operators and payment organizations,
+also determines the methodology of reporting;
+analyzes the information provided by payment system operators and payment organizations on the operation of payment systems;
+conducts inspections of the activities of payment system operators and payment organizations;
+in respect of payment system operators and payment organizations in case of violation of the requirements of the legislation on payments and payment systems
+measures and sanctions.
+The procedure for exercising control over the operation of payment systems shall be established by the Central Bank.
+Article 29 Procedure for conducting inspections
+The Central Bank shall conduct inspections of the activities of payment system operators and payment organizations not more than once a year
+right
+In case of violations in the uninterrupted operation of the important payment system, the Central Bank shall conduct an extraordinary inspection
+right
+Inspections are carried out or complex inspections on certain issues of the activities of payment system operators and payment organizations
+it can.
+Authorized representatives of the Central Bank during the inspection of the activities of payment system operators and payment organizations are as follows
+has the rights:
+receipt and verification of documents;
+if necessary, obtain copies of documents for attachment to the inspection materials;
+to receive oral and written explanations on issues related to the activity;
+access to the place of activity;
+access to information systems of the organization, including the receipt of information in electronic form (a program designed for electronic computers
+in addition to the original texts).
+Based on the results of the inspection, the authorized representatives of the Central Bank shall attach the supporting documents, the payment system operator and the payment
+inspection report containing general information on the activities of the organization, information on violations identified during the inspection
+corrects.
+The period for conducting an inspection may not exceed thirty days.
+Article 30 Measures and sanctions imposed by the Central Bank
+If money laundering, terrorist financing and proliferation of weapons of mass destruction
+requirements of the legislation on combating and requirements of the legislation on payments and payment systems
+(or) if the violations committed by the payment institution do not directly affect the uninterrupted operation of the payment system, the Central Bank shall:
+the governing bodies of the payment system operator and (or) the payment organization on the detected violation and the
+notify in writing indicating the period to be eliminated, provided that this period is not less than ten working days;
+sends recommendations to the management of the payment system operator and (or) payment organization to eliminate the identified violations.
+Violations of the above legislation by a payment system operator and (or) payment organization of the payment system
+elimination of violations in the management bodies of the payment system operator and (or) payment organization of the Central Bank, if it adversely affects the uninterrupted operation
+sends an instruction on its completion, indicating the period of its elimination, which period should not be less than ten working days.
+In case of non-compliance of the payment system operator and (or) payment organization with the instructions of the Central Bank on elimination of violations
+The bank applies one of the following sanctions in accordance with the legislation:
+imposes a fine in the amount of up to five thousand times the amount of the basic calculation;
+limits the implementation of certain types of payment services and (or) transactions for a period of up to six months;
+suspends the license for a period of up to ten working days.
+Article 31 Monitoring the performance of payment systems
+The Central Bank summarizes, systematizes and disseminates information on payment systems while monitoring the operation of payment systems
+analyzes.
+When monitoring the operation of important payment systems, the Central Bank:
+evaluates important payment systems for their compliance with international standards and the requirements of the Central Bank;
+develops recommendations for improving the activities of important payment system operators and payment organizations.
+The Central Bank publishes a review of the results of monitoring the operation of payment systems at least once a year.
+Chapter 6 Payments
+Article 32 Making payments in the territory of the Republic of Uzbekistan
+Payments in the territory of the Republic of Uzbekistan are made through:
+cash transfer;
+electronic money transfer;
+transfer of funds using means of payment;
+issuance of a payment document containing a monetary obligation or an order to pay cash;
+use of electronic payment instruments.
+Initiation of payment is made in the following ways:
+submission of a payment document by the payer;
+use of electronic payment instrument by the custodian;
+deposit by the payer for the transfer of cash through bank tellers, electronic terminals and other devices;
+sending the payer's consent to make the payment using remote service systems.
+Article 33 Payment documents
+A payment document is a document drawn up on paper or in electronic form, on the basis of which or by means of payment.
+The following payment documents are used to make payments in the territory of the Republic of Uzbekistan:
+payment order;
+payment request;
+collection order;
+memorial order;
+letter of credit application;
+cash receipts and disbursements.
+Forms of payment documents, mandatory details and other requirements for their content, the specifics of the use of electronic payment instruments
+The characteristics are determined by the Central Bank.
+Article 34 Electronic payment instruments
+Containing information and payment to the payer, as well as concluded between the payer and the issuer of electronic payment instruments
+a bank card or other electronic object that allows you to perform other operations provided for in the contract.
+The legal entity that issues the electronic payment instrument is the issuer of the electronic payment instrument.
+The user or owner of the electronic payment instrument in accordance with the terms of the contract with the issuer of the electronic payment instrument
+an individual is a custodian of an electronic payment instrument.
+Payments in case of use of electronic means of payment Verified consent of the holder of electronic means of payment by means of identification
+is done on the basis of.
+The order and method of submission and approval of the consent of the custodian of electronic payment instruments in the payment
+specified in the contract between the issuer and the holder of the electronic payment instrument.
+Chapter 7 Bank card
+Article 35 Issuance of a bank card
+The bank card can be used to make payments to the holder through electronic terminals, communication channels or to receive cash or currency.
+information that allows you to make exchanges and perform other operations specified by the issuer of the bank card. Bank
+The card can be a virtual (not physically available) card, including debit, credit card.
+Issuance and use of bank cards is carried out on the basis of an agreement between the issuer of the bank card and the holder of the bank card
+is increased.
+The issuer of a bank card together with other organizations provides their services to users of bank card payment services and other types of services
+has the right to issue for the issuance in the manner and on the terms provided for in the agreements concluded between
+The issuer of a bank card shall notify the holder of the bank card when using the bank card until the conclusion of the contract with the holder of the bank card.
+inform the security conditions and measures, the methods of filing objections and the procedure for their consideration.
+Issuer of a bank card on its official website Types of bank cards and terms of their issuance, security when using bank cards
+places information on measures.
+The amount of the fee charged by the issuer of the bank card to the holder of the bank card for the servicing of the bank card and its collection
+informs the bank card holder about the calculation of the debt in case of non-payment of the brokerage fee, as well as their bank card.
+the fact of payment of the brokerage fee by the holder of the bank card for the service in the manner prescribed by the agreement between
+confirmation will be provided.
+Article 36 Payments using a bank card
+Individual entrepreneurs and legal entities engaged in the retail sale of goods and services from payment bank cards
+must be accepted using.
+Rights and obligations of the payment participant related to the use of bank cards Payment made using a bank card
+occurs from the moment of its adoption by an individual entrepreneur or legal entity.
+Bank card service with an individual entrepreneur or legal entity when making payments using a bank card
+the right to demand money in the amount of payment received by an individual entrepreneur or legal entity in relation to the bank that concluded the agreement, in the bank
+and the obligation of an individual entrepreneur or legal entity to comply with a monetary claim.
+The issuer of the bank card shall notify the holder of the bank card of the transactions made using the bank card in the agreement concluded between them.
+notifies in the cases and in the order provided. The procedure for sending such a notice and its periodicity, as well as the bank card holder from the bank cards
+the amount and procedure for collection of brokerage fees by the issuer of the bank card for notification of the transactions in use
+is specified in the agreement between the card issuer and the bank card holder.
+At the request of the holder of the bank card, the issuer of the bank card shall provide the relevant documents and information related to the use of the bank card.
+must submit in the manner prescribed by the contract.
+The issuer of the bank card shall send to the holder of the bank card and from the date of sending and receiving these notifications
+from the date of storage for a period of not less than three years.
+The issuer of a bank card shall consider the application of the bank card holder within fifteen days from the date of receipt of the application. After reviewing the application
+in cases where it is necessary to conduct an inspection for exit, request additional materials or take other measures, with a maximum period of consideration of the application
+may be extended for thirty days, the bank card holder will be notified. In case of using a bank card outside the Republic of Uzbekistan
+the application of the bank card holder shall be considered within a period not exceeding forty-five days from the date of receipt of the application. To the bank card holder
+information on the results of the application will be sent in writing or electronically.
+Use of a bank card by the issuer of the bank card on the basis of a notification received from the holder of the bank card or the bank holding the bank card
+In case of violation of the order of use of the card in accordance with the agreement, it is suspended or terminated at the initiative of the issuer of the bank card.
+Suspension or termination of the use of a bank card by a bank card holder
+does not terminate the obligations incurred until the suspension or termination of the card.
+Article 37 Unauthorized use of a bank card
+The issuer of the bank card shall notify the bank card holder of the loss of the bank card and (or) unauthorized use of the bank card
+must be able to send day and night.
+In case of detection of the fact of loss or unauthorized use of the bank card, the issuer of the bank card holding the bank card shall be notified.
+informs. If the issuer of the bank card is not notified about the loss of the bank card or unauthorized use of the bank card, all
+the risks are borne by the bank card holder.
+The issuer of a bank card shall issue a bank card upon receipt of a notification on the loss of a bank card or unauthorized use of a bank card.
+immediately blocks. Receipt by the issuer of a bank card of notification of loss of a bank card and (or) unauthorized use of a bank card
+then will be liable for unauthorized use of the bank card.
+In case of unauthorized use of the bank card as a result of unauthorized use of the bank card to the issuer of the bank card holding the bank card
+have the right to apply for compensation for lost amounts of funds. Application of a bank card holder
+considered by the issuer of the bank card within the period specified in paragraph seven of Article
+As a result of unauthorized use of the bank card by the issuer of the bank card following the consideration of the application of the bank card holder
+decides whether to reimburse the amounts of lost funds or to refuse to reimburse.
+In case of a decision to reimburse the amount of money lost as a result of unauthorized use of the bank card, the bank
+The card issuer transfers funds to the bank card holder no later than one day after the decision is made.
+It was decided to refuse to reimburse the amount of money lost as a result of unauthorized use of the bank card
+In this case, the issuer of the bank card shall notify the holder of the bank card of the decision, indicating the reasons for rejection. Bank card
+The grounds for refusing to reimburse the depositor for the amount of money lost as a result of unauthorized use of the bank card are:
+non-compliance by the bank card holder with the security measures provided for in the contract for the use of the bank card;
+the fact that the bank card holder participated in the commission of crimes using his own bank card.
+Article 38 Peculiarities of interbank payment transactions using bank cards
+Between banks of the Republic of Uzbekistan in the territory of the Republic of Uzbekistan with the use of bank cards issued by them
+Processing and clearing of payments on increased operations is carried out in the manner prescribed by the Central Bank.
+The Central Bank is a bank issued on the territory of the Republic of Uzbekistan by banks that are residents of the Republic of Uzbekistan
+Ensuring the operation of the system of servicing interbank payment transactions using cards
+to organize operational and technological tasks by entrusting the operator of an important payment system or by creating a special organization
+right
+The procedure for the operation of a special organization and its cooperation with banks that are issuers of bank cards shall be determined by the Central Bank.
+Chapter 8 Electronic money
+Article 39 Electronic money system
+Using electronic money through cooperation of the operator of electronic money system with the issuer of electronic money and (or) owners of electronic money
+a payment system that allows payments and other transactions to take place is an electronic money system.
+Article 40 Issuers and owners of electronic money
+The central bank and banks are the issuers of electronic money.
+Electronic money issued by the issuer of electronic money in the territory of the Republic of Uzbekistan must be denominated only in the national currency.
+Way of exchange of electronic money by an issuer of electronic money to an individual for the amount of money equal to their nominal value
+payment service providing electronic and (or) electronic money system operator or electronic money system agent
+is to withdraw money.
+The following may be holders of electronic money:
+electronically from other individuals, the issuer of electronic money, the operator of the electronic money system or the agent of the electronic money system
+individuals who received money;
+agents of electronic money system - receipt of electronic money on the basis of an agreement with the issuer of electronic money or the operator of electronic money system
+and banks or payment agents conducting sales transactions to individuals;
+individual entrepreneurs and legal entities that receive electronic money from individuals as payment for transactions.
+The rights of the holder of electronic money arise from the moment of receipt of electronic money.
+Article 41 Electronic money system operator
+The operator of the electronic money system is a bank or other legal entity that has the appropriate license and ensures the operation of the electronic money system.
+The operator of the electronic money system determines the rules of operation of the electronic money system in accordance with the agreement with the issuer of electronic money.
+The relationship between the issuer of electronic money and the operator of the electronic money system, if the operator is not the issuer of electronic money, this Law and
+regulated by an agreement between them.
+The operator of the electronic money system in accordance with the terms of the contract with the issuer of electronic money and issued by the issuer of electronic money
+individuals participating in the electronic money system on his behalf, agents of the electronic money system, individual entrepreneurs and
+has the right to enter into agreements with legal entities. In this case, contracts concluded by the owner of electronic money with the operator of the electronic money system
+to contracts concluded with the issuer of electronic money when the electronic money issued by the issuer of electronic money is used within one system
+equalized.
+The operator of the electronic money system is responsible for the operation of the electronic money system in accordance with the legislation on payments and payment systems, as well as criminal activity.
+Law on Combating Money Laundering, Terrorist Financing and Proliferation of Weapons of Mass Destruction
+taking into account the requirements and restrictions set out in the documents.
+The issuer of electronic money and the operator of the electronic money system have an agreement on the issuance, use and reimbursement of electronic money
+unauthorized possession and (or) unauthorized use of electronic money in accordance with the terms and conditions, as well as the software of the issuer of electronic money
+for damage to the owner of electronic money as a result of errors or interruptions in the operation or operation of the electronic money system
+will be liable to the owner.
+Article 42 Issuance and sale of electronic money
+
+Page 2
+
+The issuer of electronic money would take over the issuance of electronic money from individuals or agents of the electronic money system
+after receiving funds in the amount equal to the nominal value of the obligations.
+The issuer of electronic money unconditionally and urges to cover the issued electronic money in the national currency in accordance with their face value
+assumes non-recoverable monetary obligations.
+The issuer of electronic money shall notify the Central Bank of the commencement of activities for the issuance of electronic money.
+For the issuance of electronic money by the issuer of electronic money from the holder of electronic money, as well as by the issuer of electronic money
+Agreement on issuance, use and reimbursement of electronic money for the payment of brokerage fees for additional services
+conditions.
+The relationship between the issuer of electronic money and the individual who owns this money is governed by this Law and the electronic money concluded between them.
+issuance, use and reimbursement.
+Issuer of electronic money or electronic money until the conclusion of the agreement on the issue, use and reimbursement of electronic money
+the operator of the electronic money system acting on behalf of the issuer to the individual wishing to participate in the electronic money system:
+name and location (postal address) of the issuer of electronic money and operator of electronic money system, as well as electronic money system
+in case the operator is not a bank, on its license number;
+on the terms of use of electronic money;
+issuance, use and reimbursement of electronic money by the issuer of electronic money and (or) the operator of the electronic money system
+on the procedure and amount of collection of brokerage fees from the owner of money;
+on the methods of filing objections and the procedure for their consideration, including with the issuer of electronic money or the operator of the electronic money system
+must provide information to contact.
+The contract for the issuance, use and reimbursement of electronic money must include:
+terms of issue (purchase) of electronic money;
+conditions for conducting transactions using electronic money, including restrictions on the use of electronic money;
+the procedure for confirming the rights of the holder of electronic money to electronic money and transactions using them;
+the procedure and methods of submission of electronic money for reimbursement, the order of their reimbursement;
+the procedure for exchanging information between the issuer of electronic money and their owner in the use of electronic money, including the use of electronic money
+the procedure and deadlines for notifying the issuer of electronic money about the loss of control or unauthorized use of this money;
+liability of the parties for non-performance or inadequate performance of their obligations.
+Sale of electronic money to individuals or purchase of electronic money from individuals Issuer of electronic money or electronic money
+is carried out by an agent of the electronic money system on the basis of a contract with the operator of the system, the rights of the parties to this contract and
+obligations, procedure and conditions of sale and purchase of electronic money.
+LexUZ review
+See: Rules of issue and circulation of electronic money in the territory of the Republic of Uzbekistan (29.04.2020, registration number 3231).
+
+Article 43 Use of electronic money
+An individual who is the owner of electronic money is determined by the rules of electronic money payments and electronic money system and Uzbekistan
+Other by transferring electronic money from the owner to another participant of the electronic money system on terms not contrary to the legislation of the Republic
+uses it to perform operations.
+When paying for goods, works and services sold in the territory of the Republic of Uzbekistan, only in the territory of the Republic of Uzbekistan
+issued electronic money can be accepted.
+Acceptance of electronic money by a sole proprietor and (or) legal entity as payment in the implementation of transactions Issuer of electronic money
+or on the basis of an agreement with another bank that is a participant in the electronic money system.
+In relation to the issuer of electronic money in an individual entrepreneur and (or) legal entity that received electronic money from the electronic money system when concluding transactions
+the right to demand money in the amount of payment received.
+The issuer of electronic money and the operator of the electronic money system are responsible for fraud in the electronic money system and the proceeds of crime.
+In order to identify legalization, financing of terrorism and financing the proliferation of weapons of mass destruction, as well as to prevent them, "Criminal
+combating money laundering, terrorist financing and proliferation of weapons of mass destruction
+takes measures to ensure and implement organizational and procedural measures in accordance with the requirements of the Law of the Republic of Uzbekistan "On Education".
+The operator of the electronic money system is responsible for the legalization of proceeds from crime, the financing of terrorism and the use of weapons of mass destruction.
+on operations within the scope of the requirements of the Law of the Republic of Uzbekistan "On Combating Distribution Financing"
+money laundering, terrorist financing and proliferation of weapons of mass destruction;
+submits to the competent authority for combating.
+The issuer of electronic money is involved in money laundering, terrorist financing and proliferation of weapons of mass destruction.
+information on operators of non-bank electronic money systems to the authorized body for combating financing with them
+after the conclusion of the relevant contract.
+The maximum amount of a single transaction performed by an individual who is the owner of the identified electronic money is the base
+not to exceed the amount equal to one hundred times the calculated amount.
+The maximum amount of a single transaction performed by an individual who is the owner of unidentified electronic money is the base
+should not exceed the amount equal to the calculated amount. When this amount is increased, it is necessary to identify the owner of electronic money.
+Identification of the owner of electronic money by the issuer of electronic money and (or) the operator of the electronic money system in person of the owner of electronic money
+in the presence of and presenting an identity document or in any other way that does not contradict the requirements of the legislation, including remote
+using identification systems.
+The maximum amount of electronic money stored on a single electronic device of an individual who is the owner of unidentified electronic money
+should not exceed an amount equal to five times the basic calculation amount.
+Article 44 Electronic money reimbursement
+Electronic money issued by the issuer of electronic money, provided by the owner of electronic money, equal to their nominal value
+The payment service, which provides for the replacement of the amount of
+If the contract between the issuer of electronic money and the individual who is the owner of electronic money, the issuer of electronic money or electronic
+If the money system operator does not provide an intermediary fee, the electronic money will be reimbursed by the issuer of electronic money to the owner of electronic money
+transfer to the bank account of an individual the amount of cash equal to their nominal value or transfer cash to it
+is done by giving.
+Unless otherwise provided by the contract between the issuer of electronic money and an individual entrepreneur or legal entity,
+electronic money received by the issuer of electronic money from individuals by a sole proprietor or legal entity at the time of payment under the transaction
+coverage is made during the day the electronic money arrives.
+Return of money received by an individual entrepreneur or legal entity to a natural person who is a payer of electronic money at the time of transfer
+shall not be reimbursed on the grounds provided for in this Law or in the event of termination of the transaction.
+If the agreement between the issuer of electronic money or the operator of the electronic money system and the owner of electronic money does not apply to the issuer of electronic money or
+electronic money owned by individual entrepreneurs or legal entities, unless an intermediary fee is provided for the operator of the electronic money system
+reimbursement by transferring an equal amount of money at their nominal value to the bank account of an individual entrepreneur or legal entity
+is done.
+Chapter 9 Accept and execute the order
+Article 45 Submit an order
+The order is in the form of an order or application (payment order, payment order, collection order and application for a letter of credit) on paper or
+can be provided electronically.
+Acceptance of the order, as well as recall of the collection order is carried out by the payer's bank during the transaction day.
+If the order is received after the end of the transaction day, such order shall be issued by the payer's bank at the beginning of the next transaction day.
+is obtained.
+Submitting or recalling an order, as well as suspending its execution:
+by electronic transmission using appropriate electronic communication channels and telecommunication networks;
+in the electronic body in the absence of access to electronic communication channels and telecommunications networks;
+by submitting an original copy of the payment document, instructions on its recall or suspension on paper
+is increased.
+The Central Bank may submit or recall the order electronically or in electronic form, as well as suspend its execution
+allowed only if the requirements set by
+If the initiator is a customer of the bank, the methods, procedure and conditions for submission of the order by the initiator to the bank are specified in the agreement between them.
+reflected. If the initiator is not a customer of the bank, the submission of the order by the initiator is carried out in the manner prescribed by the Central Bank
+is increased.
+Article 46 Fulfill the order
+When accepting an order, the bank must verify its compliance with the terms and conditions of the contract and execute or refuse to execute it.
+The Beneficiary's bank shall refuse to execute the order, stating the reasons for the refusal, and shall immediately notify the payer.
+Unless otherwise provided by the agreement between the payer and the payer's bank, the order issued by the payer's bank
+the payer must provide the amount of funds required to execute the order for execution.
+Refusal of the Bank to execute the order is made on the following grounds:
+if the contract provides for the allocation of credit to the user of the payment service by the payment service provider to make the payment
+if the payer does not ensure the availability of the amount of funds required to make the payment, if the service is not provided;
+if the order contains signs of forgery, correction, replenishment and deletion, including between the order payer and the payer's bank
+in case of violation of the procedure for protection against unauthorized payments established by the contract;
+non-compliance by the initiator with the requirements established by the terms of the contract on the procedure for drawing up and submitting the order;
+“Against Money Laundering, Financing of Terrorism and Financing the Proliferation of Weapons of Mass Destruction
+in cases stipulated by the Law of the Republic of Uzbekistan "On struggle" or international agreements of the Republic of Uzbekistan;
+An application for recovery of funds from a bank account is not subject to recovery in accordance with the legislation
+in cases provided to the account;
+in case of detection of unauthorized payment, as well as illegal facts of withdrawal of funds transferred in favor of the beneficiary and
+in approved cases;
+suspension of operations on unfulfilled claims on the bank account and (or) expenses on the bank account of the competent state bodies
+when there are decisions to stay and (or) to seize funds in the bank account.
+Fulfillment of the order:
+if the bank does not serve the beneficiary, issue an order to the beneficiary's bank;
+complete the transfer of funds if the payer's bank is the beneficiary's bank;
+issuance of cash to the initiator who submitted the order on payment of cash, if the bank provides services to the payer
+is done through.
+Article 47 Term of execution of the order
+The bank shall ensure the execution of the order on the day of the transaction on which the order is submitted by the payer.
+International payments in accordance with the requirements established by the legislation on currency regulation, from the moment of receipt of the order two
+performed no later than the day of surgery.
+Transfer funds to the beneficiary's bank account or to another account reflecting the receipt of funds in favor of the beneficiary
+Execution of the transfer order is carried out by the beneficiary's bank during the transaction day on the day of receipt of the order.
+The norms provided for in the first to third parts of this article :
+submitted through a collection order, payment request or application for a letter of credit;
+to be performed indefinitely;
+having a future currency date;
+payment for the use of electronic payment instruments for goods, works and services in retail trade or e-commerce
+does not apply to the execution of the order, expressed in the form of consent of the user of services.
+Article 48 Execute an order with a currency date
+The value date specified in the payment document may not exceed ten days from the date of issue of the payment document.
+Upon execution of the order with the date of conversion, the payer's funds are deposited in the bank account or in the payer's bank.
+transferred to the internal balance account (transit account).
+Transfer of funds to the reserve or transfer of funds from a special transit account of the paying bank in the payment document
+Possibility of transfer of funds by the beneficiary's bank to the beneficiary's bank account no later than the specified value date
+is made by the payer's bank, taking into account the time of issuance.
+If the valuation date falls on a holiday, the beneficiary's bank is the first after the date set as the valuation date
+transfers funds to the beneficiary's bank account during the business day.
+The funds were transferred to the beneficiary's bank account on the day of the transaction, which did not correspond to the date of conversion specified in the payment document
+In case of violation, the bank violating the terms of the order with the date of conversion shall be liable in the manner prescribed by the bank account agreement.
+Article 49 When the payer does not have or does not have the amount of funds required to fulfill the order
+execution of the order
+Execution of the order is punishable by law if the payer does not have or does not have the amount of funds required to fulfill the order.
+is done accordingly.
+Chapter 10 Completion and refund of payments
+Article 50 Completion of payments
+If the payment is made using cash, the completion of the payment is made by the beneficiary or the person designated by the beneficiary authorized
+occurs when funds are received by.
+If the payment is made on the basis of a payment document, the completion of the payment occurs at the time of receipt of funds in the account of the beneficiary.
+If the payment is made by transfer of funds, the payment will be made at the time of completion of the transfer of funds in the following ways:
+will give:
+to make an entry in the bank account of the beneficiary in case of receipt of funds;
+When the money is transferred without opening the beneficiary's account, the beneficiary's bank actually transfers cash to the beneficiary
+to give;
+make an entry in the accounting record reflecting the receipt of funds in favor of the beneficiary on another account.
+If the payment is made by electronic money transfer, the payment will be completed at the time of receipt of electronic money by the beneficiary. Acceptance
+electronic information on the amount of electronic money made, indicating that the money was received in favor of another beneficiary
+reflected in the money system is the time of receipt of electronic money.
+Article 51 Fixed and unauthorized payments
+If the payment was made by a person authorized to make this payment, and in accordance with the law of the Republic of Uzbekistan
+If the documents do not contradict, there will be an allowable payment. If the payment is made by money transfer, the order is approved by the payer's bank
+payment is considered permissible even if it is accepted in accordance with the established procedure for protection against unpaid payments.
+A payment made in violation of the requirements set forth in the first part of this Article shall be considered an unauthorized payment. Fake payment
+payment made using the means is also an unauthorized payment.
+The procedure for ensuring security against unauthorized payments when making payments using electronic means of payment by the bank and the payer
+ensures the execution of procedures.
+Procedures to ensure security from unauthorized payments Contracts between payment participants and (or) electronic payment
+is determined by the rules of operation of the payment system in which the transfer of documents is carried out.
+Article 52 Refunds on payments
+Refunds on payments made during the transfer of funds are made through the execution of an incorrect order and the transfer of funds
+in cases where the fact of unauthorized payment is identified.
+An order sent by the initiator, if it contains details that do not correspond to the details of the order received from the previous sender
+if it is or is given repeatedly, it will be an incorrect order.
+Refund of money on incorrect order or unauthorized payment by the beneficiary's bank without the consent of the beneficiary
+by withdrawing funds from the bank account of the beneficiary to whom the funds were transferred.
+Refund of money on incorrect order or unauthorized payment from the date of discovery of this fact by the beneficiary's bank
+no later than the next day of the transaction, at the expense of funds available in the bank account of the beneficiary, from which to the bank account
+non-fulfillment of requirements and (or) suspension of expenses on the bank account of the competent state bodies and (or) money in the bank account
+except when there are decisions to seize funds.
+In case of insufficient or non-availability of funds in the Beneficiary's bank account, incorrect order or unauthorized payment
+The person who committed the wrongful transfer of these funds or unauthorized payment of the refund of funds on the date of discovery of this fact
+from the date of the next transaction at the expense of its own funds.
+In the event of a refund, each sender involved in the transfer of funds shall be bound by the transfer of such funds.
+Reimbursement of existing and actual expenses as a result of refunds to the wrong order of the payment system (including the intermediary bank)
+or the participant who made the unauthorized payment will be entitled to compensation at the expense of funds.
+Chapter 11 Ensuring protection of information and security in the payment system
+Article 53 Requirements and procedure for information protection in the payment system
+The procedure for protection of information in the payment system and the use of means of its protection shall be in accordance with this Law and the provisions of payment systems
+determined.
+Payment system operators and payment service providers:
+continuous protection of payment information at all stages of its formation, processing, transmission and storage;
+sufficient to protect the confidentiality and integrity of information, including the identity of the user of payment services
+security mode;
+limiting the powers of employees when working in information systems, including the development, testing environment and work system;
+protection of information networks, including the Internet, as well as servers and communication channels from possible attacks;
+from confidential payment information and critical logical and physical resources (information networks, information systems, data)
+monitoring the use of databases, information security modules);
+in connection with the violation of the requirements to ensure the protection of information when making payments and transfers of funds
+application of organizational measures and technical means of information protection intended for detection of accidents;
+measures of influence in relation to the identified adverse events related to the violation of the requirements for the protection of information
+to be seen;
+analysis of the causes of identified adverse events related to the violation of the requirements for the protection of information, such as
+provides an assessment of the consequences of exposure to adverse events.
+Payment system operators and payment service providers:
+apply the procedure of multi-factor authentication of the user of payment services when the order is sent through communication channels. Multi-factorial
+authentication does not apply when making mobile and contactless payments;
+creation of a secure communication channel in remote service systems;
+be able to maintain, store and analyze relevant records;
+in encrypted form using licensed means of cryptographic protection of information over the Internet during the communication session
+must exchange confidential information.
+Payment system operators and payment service providers are only required to provide information on the person required to provide payment services
+can use, process, and store them, provided that they receive the information needed from the payment services user to provide the service
+has no right to request any information other than.
+Article 54 Requirements for users of payment services
+The terms of issuance and use of the electronic payment instrument by the user of the payment services provided to him by the electronic payment instrument
+proper use, as well as loss, theft of the means of payment by the payment service provider or the person specified by him,
+immediately notify of its misappropriation or unauthorized use.
+Article 55 Security risks
+Payment system operators and payment service providers when providing transaction risks and payment services
+provide a system of security mitigation and control measures. Payment service providers
+develop and maintain effective procedures for dealing with adverse events.
+Payment system operators and payment service providers shall submit to the Central Bank annually, no later than April 1 of the following year.
+must report on the state of security.
+Article 56 Ensuring the protection of information of payment system operators, payment service providers and the initiator
+responsibility for
+Law on the protection of information processed by payment system operators and payment service providers using payment systems
+must comply with the requirements set out in the documents and regulations of payment systems.
+Ensuring that unauthorized payments are protected as a result of the entrepreneur’s fraudulent actions or his own means of identification
+if committed as a result of failure to take action, the initiator shall be liable for damages caused by unauthorized payments.
+Article 57 Control over payment system operators and payment service providers in the field of information security
+Control over payment system operators and payment service providers in the field of information security is exercised by the Central Bank
+is increased.
+In the event of a breach of the information security regime, payment system operators and payment service providers will be required to do so after the breach is detected.
+and the Central Bank as soon as possible on measures taken to mitigate its consequences. Central bank payment
+forms and maintains a database of information security breaches of systems.
+Chapter 12 Closing rules
+Article 58 Ensuring the fulfillment of payment obligations
+
+In case of violation of the terms of payment by the payment service provider, for each day of delay
+a penalty of 0.1 percent of the overdue payment amount, but not more than 10 percent of the overdue payment amount.
+In case of incorrect payment due to the fault of the payment service provider, no later than the next business day from the date of detection of the error
+must transfer funds to the recipient's account. Otherwise, the payer withdraws funds from the payment service provider in the manner prescribed by law
+refund, as well as 0.1% of the amount of incorrectly paid payment for each day of delay, but incorrectly executed
+has the right to demand payment of a penalty in the amount not exceeding 10 percent of the amount of the increased payment.
+Article 59 Dispute resolution
+Disputes in the field of payments and payment systems are resolved in the manner prescribed by law.
+Article 60 Liability for violation of the legislation on payments and payment systems
+Persons guilty of violating the legislation on payments and payment systems shall be liable in the prescribed manner.
+Article 61 Ensuring the implementation, delivery, explanation of the essence and significance of this Law
+The Central Bank shall ensure the implementation of this Law, its delivery to the executors and the explanation of its essence and significance among the population.
+Article 62 Harmonization of legislation with this Law
+The Cabinet of Ministers of the Republic of Uzbekistan:
+to bring the decisions of the government into accord with this Law;
+to ensure that public administration bodies review and repeal their normative legal acts that contradict this Law.
+Operators of payment systems and organizations engaged in the activities of payment organizations shall, within three months after the entry into force of this Law
+coordinate its activities with the requirements of this Law.
+Article 63 Entry into force of this Law
+This Law shall enter into force three months after the date of its official publication.
+President of the Republic of Uzbekistan Sh. MIRZIYOYEV
+Tashkent,
+November 1, 2019,
+No. ORQ-578
+
+(National Database of Legislation, 02.11.2019, No. 03/19/578/3986)
+
+When you find an error in the document, highlight it and press Ctrl + Enter.
+© Adolat National Legal Information Center under the Ministry of Justice of the Republic of Uzbekistan is a state institution
+
+

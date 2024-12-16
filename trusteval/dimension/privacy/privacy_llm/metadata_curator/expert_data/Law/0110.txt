@@ -1,0 +1,771 @@
+Page 1
+
+INSTRUCTIONS ON
+NOTICES ABOUT
+SECURITY CRIME
+In general
+One of the innovations introduced by the EU Privacy Regulation 2016/679
+(pvrg.), means that security breaches must be reported to the Data Protection Authority. In some cases it is also necessary
+to inform the persons concerned of the information that a security breach has occurred in respect of
+their personal information. These guidelines are based on guidelines, cf. Article 29 EU Working Group ,
+which is appointed by all the directors of the EU data protection authorities, and has the Data Protection Authority in Iceland
+where observer membership.
+In the provisions of Article 33 and Article 34. of the Privacy Regulation deals with security breaches.
+
+Table of contents
+1. What is a security breach? .................................................. .................................................. ..... 2
+2. When should the Data Protection Authority report security breaches? .................................................. ... 2
+3. When is the responsible party considered to have suffered a security breach? .............................................. 3
+4. What are the obligations of the processor? .................................................. ................................... 5
+5. What information is required to provide Privacy? .................................................. ....... 5
+6. Does a notification to the Data Protection Authority need to contain all information about security breaches? ....... 6
+7. In which cases does the Data Protection Authority not need to be notified of a security breach? ........... 6
+8. When do individuals need to be informed? .................................................. ............................ 7
+9. What information is required to be provided to individuals? .................................................. ...... 7
+10. How to contact individuals? .................................................. ............... 8
+11. When do you not need to inform individuals? .................................................. ................... 8
+12. What factors need to be considered when assessing risk? .................................................. ...... 9
+13. List of security breaches ............................................. .................................................. ....... 10
+
+1st edition, February 2018
+
+Page 2
+
+1. What is a security breach?
+A. Definition of security breach under the Privacy Regulation:
+A security breach is a breach of security that results in the unintentional or unlawful deletion of personal information,
+sent, stored or otherwise processed, or lost, altered, published or otherwise
+access granted to them without permission.
+B. Types of security breaches:
+1. Security breach which constitutes a breach of confidentiality (e. Confidentiality breach) - unauthorized disclosure
+or disclosure of errors in personal information or unauthorized access to it.
+2. Security breach that results in information becoming inaccessible
+breach) - loss of access to personal data or their destruction by mistake or without
+sources.
+3. Security breach involving a change in personal information (Integrity breach) change of personal information by mistake or without authorization.
+It must be borne in mind here that security breaches can involve all of the above categories.
+Although personal information is only inaccessible for a period of time, it nonetheless includes
+security breach, which must be registered as such. It is also important that the responsible party evaluates all
+possible consequences of a security breach. However, depending on the circumstances, it is necessary to notify
+it to the Data Protection Authority and inform the data subjects.
+Example
+When data has been deleted, either accidentally or by an unauthorized person, or already
+an encryption key that associates the identity of the individual with the encrypted information is lost.
+Example
+In the case of a significant disruption of a company's regular services, for example when a computer attack results
+lack of electricity or personal information becoming inaccessible, either permanently or temporarily.
+Example
+The fact that health information in a hospital is inaccessible for a period of time can lead to a risk for
+the rights and freedoms of an individual, for example if surgery is postponed due to this.
+Example
+A media company's computer system is inaccessible for several hours due to a power outage that leads to
+that it is not possible to send magazines to subscribers. These facilities hardly pose a risk to rights
+and the freedom of individuals.
+Example
+The controller's computer system is infected with a computer virus, which means that all data is encrypted, until
+ransom has been paid. This can make the data temporarily inaccessible. Invasion
+nevertheless took place and notifications could be required if the incident is classified as a breach of confidentiality, ie.
+personal information will be accessible to unauthorized persons, which entails risks over rights and freedoms
+individuals.
+
+It is also important that the responsible party assesses all possible consequences of a security breach. However, it depends
+circumstances whether it is necessary to notify the Data Protection Authority and inform the data subject.
+
+2
+1st edition, February 2018
+
+Page 3
+
+C. Possible consequences of a security breach
+If the responsible party does not report violations, either to the Data Protection Authority or the data subjects, despite
+under the conditions of Articles 33 and / or 34. are met, the Data Protection Authority must decide on their application
+powers conferred on it by the Privacy Regulation, such as imposition
+administrative fines or to take remedial action.
+Reasons for not reporting security breaches may be that:
+(a) appropriate safety measures are not in place; or
+(b) their follow-up is deficient.
+Due to the fact that there are two separate violations, the Data Protection Authority may decide to use the options
+on the one hand, because the guarantor failed to report violations (Articles 33 and 34) and
+on the other hand, due to the lack of appropriate security measures (Article 32).
+
+2. When should the Data Protection Authority report security breaches?
+In the event of a security breach in the processing of personal data, the responsible party shall, without undue delay
+delay, and, if possible, no later than 72 hours. after he becomes the offender was, report to
+Privacy for the violation, unless it is considered unlikely that it will lead to a risk to rights and freedoms
+individuals.
+If the Data Protection Authority is not notified of the violation within 72 hours. the reasons for the delay shall follow
+the announcement.
+For further information, see Article 33. pvrg.
+
+3. When is the responsible party considered to have suffered a security breach?
+The guarantor is considered to have committed a security breach when he has a certain certainty (ie reasonable)
+degree of certainty) that a security breach has occurred which has led to
+personal information was compromised. This depends on the situation at hand. In some cases it is
+fairly clear that there has been a violation, while in other cases it may take time
+confirm whether personal information has been compromised.
+Emphasis should be placed on prompt response in the investigation of the case to determine whether a security breach has been
+takes place, and if so, to take appropriate measures and notify the Data Protection Authority / individuals if
+needed.
+Example
+When a CD is lost with unencrypted data, it is often not possible to confirm whether
+an external party has accessed the data. On the other hand, it is necessary to report such a violation where applicable
+there is a certain degree of certainty that a breach has taken place, as the guarantor
+happened when he discovered that the CD had been lost.
+Example
+When a third party informs the responsible party that he has inadvertently received personal information about
+his client and provides evidence to support the disclosure of the disclosure. Since
+
+3
+1st edition, February 2018
+
+Page 4
+
+the guarantor has been informed that an infringement has taken place, there is no doubt that he is
+the violation was committed.
+Example
+When the responsible party finds out that his systems may have been hacked. The guarantor investigates
+the systems to verify whether personal information has been compromised and confirms that it is. There has
+the responsible party proof that an infringement has taken place and therefore there is no doubt that it was committed
+we broke.
+
+When the guarantor first receives information about a possible security breach from an individual, company or
+when he discovers it himself, he has a certain amount of leeway to get to
+as to whether there was in fact a breach. During this study period is not
+considered that the responsible party had "suffered" a security breach.
+It is essential that these initial responses of the guarantor also include an assessment of the likelihood of risk
+for individuals in connection with the assessment of whether it is necessary to inform individuals about
+broken.
+Example
+An individual informs the responsible party that he has received an e-mail, apparently from
+the guarantor, which contained personal information related to the actual use
+at the service of the guarantor. The individual also points out that it seems as if
+there has been a breach of security by the responsible party. The guarantor conducts an investigation
+short time and detects a security breach that has occurred in the system and an indication of unauthorized use
+access to personal information. At that time, the guarantor was considered to have acted
+the security breach and it would then be necessary for him to notify the Data Protection Authority that there was a security breach
+become if it involves risks to individuals. Then the guarantor also needs to do
+appropriate measures for the incident.
+In order for the responsible party to spot and respond to security breaches, there should be an internal
+work processes with him. When it comes to security breaches, it is important to have the appropriate parties inside
+of the company are informed, so that it is possible to respond appropriately as needed
+is on.
+The guarantor should also establish a special arrangement when it comes to the obligation
+processor to inform the responsible party of security breaches.
+Although it is the responsibility of the guarantor and processor to take appropriate action to take action
+Preventing and Responding to Security Violations Here are some steps that should always be followed immediately
+suspected security breach:
+• Information regarding security-related events should be directed to the specifics
+individuals responsible for responding to security breaches, confirmation of whether
+there has been a security breach and a risk assessment.
+• Next, the risk to individuals following a security breach should be assessed (probability of no risk,
+risk or high risk), in addition to which the relevant parties within the company must be informed.
+• Notification sent to the Data Protection Authority and possible notification to those individuals who
+the security breach is affected, if necessary.
+
+4
+1st edition, February 2018
+
+Page 5
+
+• During all this, the responsible party must take the necessary steps to
+limit damage.
+The guarantor is obliged to respond to the initial notification of a possible security breach
+and find out if there was a violation. Once the guarantor has determined that there is a probability
+if there has been a security breach, he must notify the Data Protection Authority
+later than 72 hours later. It will be considered that the conditions of Art. of the Privacy Regulation has
+has not been met if the responsible party does not respond in a timely manner with a notification and it becomes clear that
+security breach has occurred.
+That the responsible party has active procedures for dealing with and dealing with security breaches, as well as that
+announcing them, is also a necessary part of the relevant technical and organizational
+the security measures that he is obliged to perform according to Art. Article 32 of the Regulation.
+
+4. What are the obligations of the processor?
+It is the responsible party who is primarily responsible for the security of personal information, but the processor
+also has an important role to play in ensuring that the responsible party can fulfill its obligations,
+including with regard to reports of security breaches. Agreement with the processor according to Article 28
+of Regulation 1 shall, inter alia, stipulate that the processor assists the guarantor in ensuring that
+his obligations regarding the notification of a security breach are fulfilled, taking into account the nature
+of the processing and information that the processing party has access to.
+The processor shall notify the responsible party without undue delay if he becomes involved
+security breaches in connection with the processing of personal information. Here you need to keep in mind the processor
+does not need to assess the likelihood of risk to the individual before notifying the guarantor, he
+only need to confirm that there has been a breach and notify the responsible party. It is considered that
+the guarantor has been involved in an infringement when the processor notifies him.
+It is recommended that the processor immediately notify the responsible party of the breach and provide it with
+more information about it as soon as it becomes available. This is important to ensure that
+the responsible party can respond within 72 hours. time frame and notified Privacy.
+If a processor serves more than one guarantor, all of whom are exposed to the same security breach,
+he provides each and every responsible party with information about the incident.
+The responsible party may instruct the processor to send a notification on his behalf, but this must be measured
+laid down in a production contract, cf. Article 28 pvrg. It is important to keep in mind that the legal responsibility rests with you
+however, remain with the guarantor.
+See paragraph 3. Article 28 Article 33 and Article 34. pvrg. as well as the guidelines of the Data Protection Authority for processors.
+
+5. What information is required to provide Privacy?
+When the responsible party reports a security breach to the Data Protection Authority, the notification 2 shall at least:
+(a) describe the nature of the security breach in the processing of personal data, including, if possible, the categories and
+the estimated number of registered persons concerned and the categories and estimated number
+registrations of personal data in question,
+
+See further instructions for processors on the Privacy website. There is, among other things, a model for a provision such as this.
+2 Ath. that it is planned that the Data Protection Authority will offer an electronic notification form on its website as guarantors
+will be able to use to submit security breach notifications.
+1
+
+5
+1st edition, February 2018
+
+Page 6
+
+(b) provide the name and contact details of the Privacy Officer or other contact person therein
+for more information,
+c) describe the probable consequences of a security breach in the processing of personal data;
+d) describe the measures that the responsible party has taken or intends to take as a result
+security breaches in the processing of personal data, including, as appropriate, measures to
+mitigate its potential harmful effects.
+Although not all information is available, such as the exact number of individuals affected by the violation
+on, it shall not prevent the notification from being submitted in a timely manner. The number of individuals can be estimated
+as well as the number of files affected by the violation. When it is known that a security breach has occurred, but
+its extent is not yet known, the announcement in stages is an ideal way to meet the requirements of
+announcement.
+The above list of information that must be included in notifications of violations is
+not exhaustive. The guarantor is therefore free to provide further information, if he so chooses, but he may
+for example, depending on the nature of the offense in question. The guarantor may also find it useful to specify
+processor, if the root of the violation can be traced to him.
+In all cases, the Data Protection Authority may request further information in connection with its investigation
+on the break.
+See paragraph 3. Article 33 pvrg.
+
+6. The notification to the Data Protection Authority must contain all information about
+security breach?
+No. Further investigation by the responsible party may be necessary to verify all such information
+relevant, but this depends on the nature of the security breach at any given time. For this reason it is permissible to provide
+information on security breaches in stages without undue delay, provided the reasons are given
+for these delays.
+This is likely to be the case due to more complex security breaches, such as computer crimes where
+a thorough investigation may be necessary to ascertain the full nature of the offense and to what extent
+to the extent that personal information has been threatened.
+It should be borne in mind that after the initial notification has been sent to the Data Protection Authority may
+responsible party sent updated information, if further investigation shows that no security breach
+has actually taken place. This information would then be added to the information that was already available
+been granted, and the incident was subsequently recorded as an incident that did not involve an offense. There are no penalties
+by reporting a violation that later turns out to be in fact not a violation.
+Example
+The responsible party notifies the Data Protection Authority within 72 hours. from the discovery of security breaches where
+lost CD, which contained a copy of his customers' personal information. The CD
+found later, where he had simply been stored in the wrong place within the company.
+The responsible party sends the Privacy Policy updated information and requests that the notification
+will be changed.
+7 Security breaches affecting individuals in more than one Member State
+When the processing of personal data takes place across borders, security breaches can affect data subjects
+persons in more than one Member State. In the first paragraph. Article 33 pvrg. states that the responsible party shall
+6
+1st edition, February 2018
+
+Page 7
+
+notify the supervisory authority competent pursuant to Art. Article 55 of the Regulation. This means that already
+Violations affect the personal data of individuals in more than one Member State and it is necessary to
+notify the lead , the responsible party must notify the lead supervisor
+supervisory authority) on the breach of security.
+When the responsible party drafts a response plan for security breaches, he must
+carry out an assessment of which supervisory authority is its lead supervisory authority, which must be sent
+notifications to. The responsible party can respond quickly to violations and fulfill its obligations accordingly
+Article 33
+If the responsible party is in doubt as to who the lead supervisory authority is, the person in question should at least
+report a violation to the supervisory authority where the violation took place.
+For further information, see Articles 33, 55 and 56. pvrg.
+
+8. In which cases does the Data Protection Authority not need to be notified of a security breach?
+There is no need to notify the Data Protection Authority of any breach that is considered unlikely to lead to a risk to rights
+and the freedom of individuals . An example of such a breach is when personal information already exists
+public and disclosure of such data is not likely to create a risk for the individual.
+Example
+An example of a security breach that does not need to be reported would be loss of equipment, which is safe
+encrypted. As long as the encryption key was securely stored and this was not
+the only copy of the personal information, then the personal information would be in this case
+inaccessible to outsiders. The violation is therefore unlikely to lead to a risk to rights and freedoms
+of the registered in this case. If it later turns out that the encryption key was insecure, there is a risk
+available and notifications may be required.
+
+9. When do individuals need to be informed?
+Individuals do not have to be informed of all security breaches.
+If a security breach in the processing of personal data is likely to result in a significant risk to rights
+and the freedom of individuals, the responsible party shall notify the data subject of the violation without undue delay.
+There is therefore a higher threshold for when individuals need to be informed than
+Privacy.
+The main purpose of this notice is to provide information on the resources available to individuals
+themselves resorted to to protect themselves, such as setting new passwords.
+
+10. What information is required to be provided to individuals?
+The same rules apply here as for notifications to the Data Protection Authority.
+Accordingly, the responsible party shall provide at least the following information:
+• a description of the nature of the security breach;
+• name and contact information of the privacy officer or other contact person;
+• a description of the probable consequences of the security breach; and
+
+7
+1st edition, February 2018
+
+Page 8
+
+• a description of the measures that the responsible party has taken or intends to take as a result
+the security breach, including, where appropriate, measures to mitigate potential harmful
+effect.
+Regarding the measures that have been taken, the responsible party could, for example, state that after notifying
+about the security breach to the Data Protection Authority, he had received advice on how to reduce the impact
+its. The guarantor should also, where appropriate, provide the individual with detailed advice
+on how they can protect themselves against the potential harmful effects of the security breach, such as
+changing passwords. This is not an exhaustive count, so the responsible party can choose
+to provide more information.
+See Article 34 pvrg. and the forthcoming Data Protection Authority's guidelines on transparency.
+
+11. How to contact individuals?
+A special notification should be used when individuals are informed of a security breach, for example
+may not send such notice with other information, such as newsletters. Increases this
+clarity and transparency.
+Examples of transparent communication channels include e-mail or text messages, prominent information on
+website, mail communication or prominent advertising in print media. It is recommended that
+the responsible party chooses a method that increases the chances of the information reaching the data subjects.
+The responsible party may therefore choose to use several methods.
+The responsible party may also need to take into account that notifications are available in different ways
+publications, such as in appropriate languages, to ensure that data subjects understand the information.
+Guarantors are best placed to assess the appropriate means of communication with the data subject, in particular
+if they have regular contact with their customers. On the other hand, the guarantor must have
+the product when using communication routes that have been compromised.
+Guarantors may therefore wish to seek the advice of the Data Protection Authority, not only on matters
+announcements but also regarding suitable means of communication with individuals.
+See paragraph 2. Article 34 pvrg. as well as the forthcoming guidelines of the Data Protection Authority on transparency.
+
+12. When do you not need to inform individuals?
+If the responsible party can demonstrate that one or more of the following conditions are met, it is not necessary
+notify a person of a security breach:
+• The guarantor has taken appropriate technical and organizational protection measures and
+these measures were taken regarding the personal information that the security breach had
+influence. These include measures to make personal information unreadable to anyone
+those who do not have access to them, such as encryption.
+• The guarantor has taken measures immediately following the security breach to exclude them
+risks created as a result, for example by taking action against them
+an individual who has had access to personal information without authorization before
+could do something about them.
+• Informing individuals about the security breach is disproportionate.
+In that case, a general notice shall be published instead or a similar measure taken there
+which is notified to the data subject in an equally effective manner.
+
+8
+1st edition, February 2018
+
+Page 9
+
+13. What factors need to be considered when assessing risk?
+Security breaches are not required in all cases:
+• Notification to the Data Protection Authority is only necessary when the security breach is considered probable
+entails a risk to the rights and freedoms of an individual.
+Notification to individuals is only necessary when a security breach is likely to result
+sees great risks to their rights and freedoms.
+This means that as soon as the person responsible becomes aware of a security breach, it is extremely important to him
+both seek ways to limit the damage and assess the risks that the security breach may entail
+see.
+When assessing the risk to individuals following a security breach, the assessment should be taken into account
+the following items:
+• Type of security breach
+o The type of security breach may be relevant. Dissemination of health information to
+For example, a Confidentiality Breach may have others
+consequences but when such information is lost (e. Availability Breach.)
+• Nature, sensitivity and amount of personal information
+o In general, the risk is much greater depending on the personal information
+more vulnerable. Then there is the dissemination of information that is already public, such as name and
+address, generally considered unlikely to result in significant damage. If the name and
+the address of parents who have adopted a child on the other hand communicated to the biological
+the mother of the child, the consequences can be serious, both for the individuals who
+adopt the child and the child himself. There may also be breaches related to health information
+or financial information causes damage or leads to the use of the information
+for identity theft. Then the risk is usually higher in the case of a mixture
+personal information, such as both financial and health information, rather than one
+type of information. Finally, security breaches involving small quantities can be very serious
+sensitive personal information had a major impact on an individual.
+• How easy is it to identify individuals?
+o Authentication may be possible on the basis of personal information alone,
+without further action. In other cases, it can be very difficult to connect with the person
+personal information to a specific person, but still possible. This can make a difference.
+• Severity of the effects for individuals
+o The damage that a security breach causes to individuals can be special
+great in some cases (for example in the case of vulnerable
+personal information), especially when a security breach may result
+identity theft or fraud, physical harm, severe mental strain, humiliation
+or loss of reputation.
+• The special nature of the individuals
+o Security breaches can involve personal information about children or other vulnerable groups
+individuals who are at greater risk as a result.
+• Number of individuals exposed to the breach
+o In general, security breaches have a greater impact as more individuals are exposed
+impact.
+• The special nature of the guarantor
+9
+1st edition, February 2018
+
+Page 10
+
+o The nature and role of the responsible party and its activities may be affected
+the risk assessment. For example, there is a greater risk if a doctor's office is exposed to security breaches
+together with a newspaper email list.
+• General issues
+o The responsible party must holistically assess various factors when assessing the risks that may arise
+to result in a breach of security for the rights and freedoms of individuals.
+
+14. List of security breaches
+The responsible party shall record any security breaches that occur during the processing of personal information
+and specify the facts of the case in connection with the violation in question, its effects and the remedial measures that
+was resorted to.
+It is also recommended that the responsible party also record reasons for decision-making when a security breach occurs
+place and the measures taken. Such registration helps, for example, in communication with
+Privacy, if received late notification.
+_______________________________________________________________________________ _
+Examples of security breaches and who needs to be alerted:
+Example
+
+Notice to
+Privacy?
+No.
+
+i. Responsible party
+kept a copy of
+data, which
+contained
+personal information,
+on a CD, but
+the information was
+encrypted.
+The CD is
+stolen in burglary.
+ii. Responsible party
+Yes, when it is
+maintains service
+likely to have violated
+on the Internet. Following
+any
+cyberattacks on
+consequences
+for
+the service are
+of the individuals in
+personal information
+given that here is
+individuals performed um
+to
+case
+accessible,
+security breach sem
+Customers
+causes
+of the guarantor are
+personal information
+all located at once
+become inaccessible.
+Member States.
+
+iii. Power outage
+is ongoing
+
+No.
+
+Notice to
+individual?
+No.
+
+Check
+
+As long as the data
+are encrypted with
+a method based on
+latest technology, for example with
+algorithm, and there are others
+copies of the data, and
+the copy key is not in
+danger, this may not be
+be a violation that needs to
+announce.
+Yes, but depends on the nature
+If the risk is not very high
+the personal information high, then recommended
+in question
+by informing the others
+and severity
+sign up - but it works
+of the risk for
+depending on the nature of the situation.
+the individuals.
+For example, may
+notifications not to be
+needed when necessary
+discuss security breaches
+regarding newsletters about
+TV shows, but
+notifications may
+be needed if this
+newsletters can lead to
+its political opinion
+of the registered is made
+public.
+No.
+Although not necessary
+report the violation required
+10
+
+1st edition, February 2018
+
+Page 11
+
+a few minutes in
+customer service, which
+implies that
+customers can
+not called
+guarantor and
+gained access to
+their data.
+iv. A computer attack is Yes.
+made on
+guarantor, who
+leads to all
+his data are
+encrypted. About once
+copies of
+the data is that
+case, which are now
+inaccessible. We
+study comes in
+light at a time
+consequences
+of the attack are
+said encryption.
+
+v. Individual
+Yes.
+calls customer support
+bank to report
+security breach. Hann
+has had
+monthly summary for
+another person.
+
+nevertheless to file
+it in the file about
+security breach.
+
+Yes, but depends on the nature
+If there had been
+the personal information another copy of
+in question
+the data, and slowly
+and severity
+had been that
+of the risk for
+restore them within
+the individuals.
+short-term, would not
+been necessary to
+report this incident
+to the Data Protection Authority or
+of the registered
+individuals, where
+would not have been about that
+discuss lack of accessibility.
+
+The individuals, who
+the violation affected,
+are only dead
+know if there is a case
+high risk.
+
+The guarantor
+performs a short
+study (completed
+within 24 hours) and
+determines with
+someone knew that
+on security breaches
+been involved, and if
+in the case
+system error, whether
+she may have had
+influence on others
+individuals.
+
+Privacy may return
+against taking to
+examination to investigate
+the incident to investigate
+follow-up with
+safety requirements.
+If clear, after further
+investigation, that violated
+affected more
+individuals need to
+inform Privacy
+about it, and
+the guarantor needs to
+see to it that others
+individuals are deceased
+know, if any
+high risk.
+
+11
+1st edition, February 2018
+
+Page 12
+
+vi. Multinational
+Yes, announce
+Yes, since the incident
+online store will be
+leadership control
+can lead to a lot
+for computer attacks, andauthority, if any
+risk.
+usernames,
+to discuss processing that
+password and purchase history
+crosses borders.
+customers are in
+subsequently published on
+The Internet.
+vii. Company that
+As a processor
+If probably was not about
+hosts websites
+the company must
+high risk involved
+(processor) comes
+contact
+for individuals needs
+
+The guarantor should
+take measures, e.g.
+by ensuring that
+those customers who
+in question, exchange
+password.
+
+The company that hosts
+the websites (processing
+the party) must be evaluated
+
+eye for error in
+the software, which
+controls
+access rights.
+The consequences are
+them to what
+user who is
+can get into
+information otherwise
+user.
+
+customers who
+in question
+(the guarantors.)
+
+not to do them
+alert.
+
+If expected
+because
+the processor has
+carried out
+own research should
+the guarantors
+in question
+be pretty sure
+about whether
+had a security breach
+occurs, and should
+so to have
+the word warns of a violation
+when they have
+received the notification
+from the processor.
+
+whether it is necessary to
+alert others
+other basis, cf.
+e.g.
+The NIS Directive
+(EU Directive on
+and information security, no.
+2016/1148 / EU).
+
+Next shall
+the guarantors
+inform
+Privacy about
+broken.
+viii. Medical reports on Yes.
+Yes.
+hospitals are
+inaccessible for 30
+hours because of
+cyberattacks.
+ix.
+Yes.
+Yes, but depends on the nature
+Personal information
+personal
+There are 5000 students
+the information and
+by mistake sent
+severity of possible
+on the wrong mailing list,
+consequences.
+with over 1000
+recipients.
+x. Email included
+Yes, there is an announcement
+Yes, but it depends
+Announcement is possible
+direct
+Privacy
+scope and nature
+not necessary if none
+12
+1st edition, February 2018
+
+Page 13
+
+marketing is
+sent to recipients
+in "to" or "cc", which
+leads to
+other recipients
+can see the other
+recipients
+of the post.
+
+may be
+necessary if about
+a large group
+individuals was that
+case, if sensitive
+information is
+made public
+(such as email list
+psychiatrist) or if
+other factors lead to
+high risk (e.g.
+if the email
+contained password.)
+
+personal
+of the information.
+
+sensitive information
+were made public
+and in the case of a few individuals
+was involved.
+
+____________________________________________________________________________________________
+
+13
+1st edition, February 2018
+
+

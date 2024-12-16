@@ -1,0 +1,1356 @@
+Page 1
+
+REPUBLIC OF CAMEROON
+----------
+
+PEACE WORK HOME
+----------
+
+LAW N ° 2010/012 OF 21 DECEMBER 2010 RELATING
+TO CYBERSECURITY AND CYBERCRIME
+IN CAMEROON
+
+Page 2
+2
+
+TITLE ONE
+GENERAL PROVISIONS
+Article 1 st .- This law governs the security framework networks
+electronic communications and information systems, defines and
+punishes offenses related to the use of information technologies
+and communication in Cameroon. As such, it aims in particular to:
+- build trust in electronic communications networks
+and information systems;
+- set the legal regime for digital proof, security activities,
+cryptography and electronic certification;
+- protect the fundamental rights of natural persons, in particular
+the right to human dignity, honor and respect for private life,
+as well as the legitimate interests of legal persons.
+Article 2.- Are excluded from the scope of this law, the applications
+used in national defense and security.
+Article 3.- The electronic communications networks covered by this
+law include: satellite networks, terrestrial networks,
+electrical when used for carrying communications
+electronic, networks ensuring the dissemination or distribution of services of
+audiovisual communication.
+Article 4.- Within the meaning of this law and its implementing texts, the
+definitions below are accepted:
+1) Unlawful access: intentional access, without having the right, to all or
+to part of an electronic communications network, a
+information system or terminal equipment;
+2) Administration in charge of Telecommunications: Ministry or Minister
+as the case may be, invested on behalf of the Government, a
+general competence in the telecommunications and
+information and communication technologies.
+3) Algorithm: series of elementary mathematical operations to be applied
+to data to achieve a desired result;
+4) Asymmetric algorithm: encryption algorithm using a key
+public to encrypt and a (different) private key to decrypt
+messages;
+5) Symmetric algorithm: encryption algorithm using the same
+key to encrypt and decrypt messages;
+6) Active attack: act modifying or altering the resources targeted by
+attack (breach of integrity, availability and confidentiality
+Datas) ;
+7) Passive attack: act that does not alter its target (passive listening, damage to
+confidentiality) ;
+
+Page 3
+3
+
+8) Breach of integrity: intentionally causing a
+serious disruption or interruption of operation of a system
+information, electronic communications network or
+terminal equipment, introducing, transmitting, damaging,
+erasing, deteriorating, modifying, deleting or rendering inaccessible
+data;
+9) Security audit: methodical examination of components and actors
+security, policy, measures, solutions, procedures
+and the means implemented by an organization to secure its
+environment, carry out conformity checks, checks
+assessment of the adequacy of resources (organizational, technical,
+human, financial) invested with regard to the risks incurred,
+optimization, rationality and performance.
+10) Authentication: security criterion defined by a process implemented
+works in particular to verify the identity of a natural person or
+and ensure that the identity provided matches the identity of this
+previously registered person;
+11) Certification authority: trusted authority responsible for creating and
+assign public and private keys as well as certificates
+electronic;
+12) Root Certification Authority: Organization with the mission
+accreditation of certification authorities, validation of
+certification policy for accredited certification authorities,
+verification and signing of their respective certificates;
+13) Electronic certificate: electronic document secured by signature
+electronic mail of the person who issued it and who certifies after finding, the
+veracity of its content;
+14) Qualified electronic certificate: electronic certificate issued by a
+approved certification authority;
+15) Electronic certification ": issuance of electronic certificate
+16) Encryption: process by which we transform using a
+secret convention called key, clear information in information
+unintelligible by third parties not having knowledge of the key;
+17) Key: in an encryption system, it corresponds to a value
+mathematical, a word, a sentence, which allows, thanks to the algorithm of
+encryption, to encrypt or to decrypt a message;
+18) Private key: key used in encryption mechanisms
+asymmetric (or public key encryption), which belongs to an entity
+and which must be secret;
+19) Public key: key used to encrypt a message in a system
+asymmetric and therefore freely diffused;
+20) Secret key: key known to the sender and recipient serving as
+encryption and decryption of messages and using the mechanism
+symmetric encryption;
+
+Page 4
+4
+
+21) Source code: all technical specifications, without restriction
+access or implementation, software or protocol
+communication, interconnection, exchange or data format;
+22) Audiovisual communication: communication to the public of
+television and sound broadcasting;
+23) Electronic communication: emission, transmission or reception of
+signs, signals, writings, images or sounds, by way of
+electromagnetic;
+24) Confidentiality: maintaining the secrecy of information and transactions
+in order to prevent the unauthorized disclosure of information to non
+recipients allowing reading, listening, illegal copying of origin
+intentional or accidental during storage, processing or
+transfer;
+25) Content: set of information relating to data belonging to
+natural or legal persons, transmitted or received through
+electronic communications networks and systems
+of information ;
+26) Illegal content: content that violates human dignity, life
+private, honor or national security;
+27) Electronic mail: message, in the form of text, voice, sound or
+image, sent by a public communication network, stored on a
+server of a network or in the terminal equipment of the recipient,
+until the latter collects it;
+28) Encryption: use of unusual codes or signals allowing the
+converting information to be transmitted into signals
+incomprehensible to third parties;
+29) Cryptanalysis: set of means which allows to analyze a
+information previously encrypted with a view to decrypting it;
+30) Cryptogram: Encrypted or coded message;
+31) Cryptography: application of mathematics to write
+information, so as to make it unintelligible to those who do not have
+not the ability to decipher it;
+32) Cybercrime: all offenses carried out through the
+cyberspace by means other than those usually used,
+and as a complement to classic crime;
+33) Cybersecurity: set of prevention, protection and
+technical, organizational, legal, financial deterrence,
+human, procedural and other actions to achieve the
+security objectives set through communications networks
+electronic, information systems and for the protection of life
+private individuals;
+34) Declaration of certification practices: all practices
+(organization, operational procedures, technical means and
+humans) that the competent certification authority applies in the
+framework for the provision of this service and in accordance with the
+certification policy (s) that it is committed to respecting;
+
+Page 5
+5
+
+35) Decryption: reverse operation of encryption;
+36) Denial of service: saturation attack on a system resource
+information or electronic communications network, so that it
+collapses and can no longer perform the services expected of him;
+37) Distributed denial of service: simultaneous attack on the resources of the
+information system or electronic communications network,
+in order to saturate them and amplify the effects of hindrance;
+38) Availability: security criterion allowing the resources of
+electronic communications networks, information systems
+or terminal equipment is accessible and usable according to
+needs (the time factor);
+39) Device for creating an electronic signature: set
+private encryption equipment and / or software, approved by a
+competent authority, configured to create a signature
+electronic;
+40) Electronic signature verification device ": assembly
+public encryption equipment and / or software, approved by a
+competent authority, allowing verification by an authority of
+certification of an electronic signature;
+41) Data: representation of facts, information or concepts under a
+form capable of being processed by terminal equipment, including
+a program allowing the latter to perform a function;
+42) Connection data: set of data relating to the process
+access in electronic communication;
+43) "Traffic data: data relating to a communication
+electronic indicating origin, destination, route, time, location
+date, size and duration of communication or type of sub-service
+jacent;
+44) Terminal equipment: device, installation or set of installations
+intended to be connected to an endpoint of a system
+information and transmitting, receiving, processing, or storing data
+of information ;
+45) Reliability: suitability of an information system or network of
+telecommunications to operate without incident for a time
+sufficiently long;
+46) Provider of electronic communications services: person
+physical or legal entity providing services consisting entirely of
+or mainly in the provision of electronic communications;
+47) Severity of the impact: assessment of the level of severity of an incident,
+weighted by its frequency of occurrence;
+48) Data integrity: security criterion defining the state of a network
+electronic communications, an information system or a
+terminal equipment that has remained intact and ensures that
+the resources have not been altered (modified or destroyed) in any way
+both intentionally and accidentally, so as to ensure their
+accuracy, reliability and durability;
+
+Page 6
+6
+
+49) Illegal interception: access without having the right or authorization, to
+data of an electronic communications network, a system
+information or terminal equipment;
+50) Legal interception: authorized access to data from a network
+electronic communications, an information system or
+terminal equipment
+51) Intrusion by interest: intentional and unauthorized access to a network of
+electronic communications or in an information system, in
+the aim either to harm or to derive an economic, financial benefit,
+industrial, security or sovereignty;
+52) Intrusion by intellectual challenge: intentional and unauthorized access to a
+electronic communications network or in a system
+information, in order to meet an intellectual challenge that can
+contribute to improving the performance of the security system
+the organization;
+53) Deceptive software: software performing operations on equipment
+terminal of a user without first informing this user of
+the exact nature of the operations that the software will perform on its
+terminal equipment or without asking the user if he consents to this
+that the software performs these operations;
+54) Spyware: a particular type of deceptive software that collects
+personal information (most visited websites, passwords,
+etc.) to a user of the communications network
+electronic;
+55) Potentially unwanted software: software with
+characteristics of deceptive software or spyware;
+56) Clear message ": intelligible version of a message and understandable by
+all;
+57) Cryptographic medium: equipment or software designed or modified to
+transform data, whether information or signals, to
+using secret conventions or to perform a reverse operation
+with or without a secret convention in order to guarantee the security of the storage
+or the transmission of data, and to ensure their confidentiality and
+control of their integrity;
+58) Non-repudiation: security criterion ensuring the availability of evidence
+which can be opposed to a third party and used to prove the
+traceability of an electronic communication that has taken place;
+59) Certification policy: set of identified rules, defining
+the requirements to which the certification authority complies in the
+implementation of its services and indicating the applicability of a service
+certification to a particular community and / or class
+applications with common security requirements;
+60) Security policy: security benchmark established by an organization,
+reflecting its security strategy and specifying the means to achieve it;
+61) Cryptography service: operation aimed at the implementation, for
+the account of others, of means of cryptography;
+
+Page 7
+7
+
+62) Electronic communications network: Transmission systems,
+active or passive and, where applicable, switching equipment and
+routing and other resources that allow routing of
+signals by cable, over the air, by optical means or by
+other electromagnetic means including networks
+satellite, fixed terrestrial networks (with circuit switching
+or packet, including the Internet) and mobile, systems using the
+electrical network, insofar as they are used for the transmission of
+signals, networks used for sound and television broadcasting
+and cable television networks, regardless of the type of information
+transmitted;
+63) Telecommunications network: installation or set of installations
+ensuring either the transmission and the routing of
+telecommunications, or the exchange of ordering and
+management associated with these signals between the points of this network;
+64) Safety: situation in which someone, something is not exposed
+to no danger. Mechanism to prevent an event
+harmful, or to limit its effects;
+65) Certification service: service provided by a certification authority
+certification;
+66) Electronic communications service: consistent service
+wholly or mainly by providing communications
+electronic, excluding the content of communication services
+audiovisual;
+67) Signatory: natural person, acting for his own account or
+for that of the natural or legal person it represents, who puts
+using a device for creating an electronic signature;
+68) Electronic signature: signature obtained by an algorithm of
+asymmetric encryption to authenticate the sender of a
+message and check its integrity;
+69) Advanced electronic signature: electronic signature obtained from
+using a qualified electronic certificate;
+70) Open standard: communication, interconnection or
+interchange and interoperable data format, including specifications
+techniques are public and without restriction of access or implementation
+artwork ;
+71) Detection system: system making it possible to detect incidents which
+could lead to security policy violations and
+to diagnose potential intrusions;
+72) Information system: isolated device or group of devices
+interconnected or related, ensuring by itself or by one or
+several of its elements, according to a program, a
+automated data processing;
+73) Vulnerability: security defect resulting either intentionally,
+either accidentally through a violation of the security policy, in
+
+Page 8
+8
+
+the architecture of an electronic communications network, in
+design of an information system.
+Article 5.- The terms and expressions not defined in this law, keep
+their definitions or meanings given by legal instruments
+international agreements to which the State of Cameroon has subscribed, in particular,
+Constitution and Convention of the International Union of
+Telecommunications, the Radio Regulations and the Regulations
+of International Telecommunications.
+TITLE II
+OF CYBERSECURITY
+CHAPTER I
+OF THE GENERAL ELECTRONIC SECURITY POLICY
+
+Article 6.- The Administration in charge of Telecommunications develops and implements
+implementation, the electronic communications security policy taking into
+take into account technological developments and the Government's priorities in this
+field.
+As such, she:
+- promotes the security of communications networks
+electronic systems and information systems as well as the monitoring of
+the evolution of issues related to security and the activities of
+certification;
+- coordinate at the national level the activities contributing to the security
+and the protection of electronic communications networks and
+information system ;
+- ensures the establishment of an adequate framework for the safety of
+electronic communications;
+- draws up the list of certification authorities;
+- ensures the representation of Cameroon in international bodies
+responsible for activities related to the security and protection of
+electronic communications networks and systems
+of information.
+CHAPTER II
+REGULATION AND MONITORING OF ELECTRONIC SECURITY ACTIVITIES
+
+Article 7.- (1) The National Agency for Information Technologies and
+Communication, hereinafter referred to as the Agency, established by the law governing
+electronic communications in Cameroon, is responsible for the regulation of
+electronic security activities, in collaboration with the Agence de
+Telecommunications regulation.
+
+Page 9
+9
+
+(2) The Agency provided for in paragraph 1 above, ensures on behalf of
+the State, regulation, control and monitoring of activities related to the safety of
+information systems and electronic communications networks, and
+electronic certification. As such, it has the following missions:
+- to examine accreditation requests and prepare the
+tasks of certification authorities and submit them for signature
+the Minister in charge of Telecommunications;
+- to check the conformity of the electronic signatures issued;
+- participate in the development of the national security policy for
+electronic communications and certification networks;
+- to issue an advisory opinion on texts relating to its field of
+skill ;
+- to control the security activities of the communications networks
+electronic, information and certification systems;
+- to examine the applications for approval of the means of
+cryptography and issue certificates of approval of
+security equipment ;
+- prepare mutual recognition agreements with the parties
+and submit them for signature to the Minister responsible for
+Telecommunications;
+- ensure technology watch and issue alerts and
+network security recommendations
+electronic communications and certification;
+- participate in research, training and study activities
+relating to the security of electronic communications networks,
+information and certification systems;
+- to ensure the regularity and effectiveness of the safety audits of
+information systems in accordance with relevant standards,
+public bodies and certification authorities;
+- ensure monitoring, detection and information on risks
+IT and cybercriminals;
+- to perform any other mission of general interest that may be entrusted to it
+the supervisory authority.
+(3) A decree of the Prime Minister specifies the modalities of application
+of the provisions of paragraph 1 above.
+Article 8.- (1) The Agency is the Root Certification Authority.
+(2) The Agency is the Authority's certification authority
+Public.
+
+Page 10
+10
+
+Article 9.- (1) Accredited certification authorities, security auditors,
+security software vendors and other security service providers
+approved security, are subject to payment of a contribution of 1.5% of their
+turnover excluding taxes, intended to finance a fund called
+“Special Fund for Electronic Security Activities”, under the financing
+research, development, training and studies in the field of
+cybersecurity.
+(2) The resources referred to in paragraph 1 above are recovered by
+the Agency and deposited in an account opened at the Central Bank.
+(3) A Committee is created in charge of validating priority projects
+research, development, training and studies in
+cybersecurity.
+The operating procedures of this Committee are set out in a
+regulatory text.
+(4) The Minister in charge of Telecommunications is the authorizing officer
+expenses incurred from the fund referred to in paragraph 1 above.
+(5) The conditions and methods of collecting and managing
+this fee is defined by regulation.
+CHAPTER III
+THE LEGAL REGIME OF CERTIFICATION ACTIVITIES
+
+Article 10.- The electronic certification activity is subject to authorization
+prior. It is exercised by certification authorities.
+Article 11.- May be the subject of an authorization:
+- the establishment and operation of an infrastructure with a view to transmitting,
+to keep and issue qualified electronic certificates;
+- the making available to the public of the public keys of all
+users.
+Article 12.- The conditions and modalities for granting the authorization referred to in
+Article 10 above are fixed by regulation.
+CHAPTER IV
+SECURITY ACTIVITIES
+
+Article 13.- (1) Are subject to a mandatory security audit, the networks of
+electronic communications and information systems, operators,
+certification authorities and service providers
+electronic communications.
+(2) The conditions and modalities of the security audit provided for in
+paragraph 1 above are defined by regulation.
+Article 14.- The staff of the Agency and the experts appointed to carry out
+audit operations are bound by professional secrecy.
+
+Page 11
+11
+
+CHAPTER V
+OF ELECTRONIC CERTIFICATION
+
+Article 15.- (1) Qualified electronic certificates are only valid for
+the objects for which they were issued.
+(2) The mechanisms for creating and verifying certificates
+qualified are technologically neutral, standardized, approved
+and interoperable.
+Article 16.- (1) The certification authorities are responsible for the damage caused
+to people who have relied on certificates presented by them as
+qualified in each of the following cases:
+- the information contained in the certificate, on the date of its issue,
+were inaccurate;
+- the prescribed data so that the certificate can be regarded as
+qualified were incomplete;
+- the issue of the qualified certificate did not give rise to the verification that
+the signatory holds the private agreement corresponding to the agreement
+public of this certificate;
+- certification authorities and certification providers have not
+not, where applicable, proceed with the registration of the revocation of the
+qualified certificate and made this information available to third parties.
+(2) Certification authorities are not responsible for
+damage caused by use of the qualified certificate exceeding the limits set
+to its use or to the value of the transactions for which it can be
+used, provided that these limits are stated in the qualified certificate and are
+accessible to users.
+(3) Certification authorities must provide proof of a guarantee
+sufficient financial resources, especially earmarked for the payment of the amounts
+may owe to those who have reasonably relied on the certificates
+qualified that they issue, or an insurance guaranteeing the consequences
+financial liability of their professional civil liability.
+CHAPTER VI
+ELECTRONIC SIGNATURE
+
+Article 17.- The advanced electronic signature has the same legal value as
+the handwritten signature and produces the same effects as the latter.
+Article 18.- An advanced electronic signature must meet the conditions below.
+after:
+- the data relating to the creation of the signature are linked
+exclusively to the signatory and are under his exclusive control;
+- any modification made to it is easily detectable;
+
+Page 12
+12
+
+- it is created by means of a secure device whose
+technical characteristics are fixed by a text of the Minister in charge
+Telecommunications;
+- the certificate used to generate the signature is a certificate
+qualified. A text from the Minister in charge of Telecommunications sets the
+qualification criteria for certificates.
+CHAPTER VII
+CERTIFICATES AND ELECTRONIC SIGNATURES ISSUED
+BY CERTIFICATION AUTHORITIES
+
+Article 19.- The certification authority having conferred validity on a certificate
+electronics cannot be denied.
+Article 20.- (1) An electronic certificate issued outside the national territory produced
+the same legal effects as a qualified certificate issued in Cameroon at
+provided that there is an act of recognition from the issuing authority signed
+by the Minister in charge of Telecommunications.
+(2) The interoperability of qualified electronic certificates is
+regulated by a text of the Minister in charge of Telecommunications.
+CHAPTER VIII
+OF THE ELECTRONIC DOCUMENT
+
+Article 21.- Anyone wishing to affix their electronic signature on a
+document can create this signature by a reliable device whose
+technical characteristics are fixed by a text of the Minister in charge of
+Telecommunications.
+Article 22.- Anyone using an electronic signature device
+must :
+- take the minimum precautions which are fixed by the text referred to in
+article 21 above, in order to avoid any illegal use of
+encryption elements or personal equipment relating to its
+signature;
+- inform the certification authority of any illegitimate use of
+his signature ;
+- ensure the veracity of all the data it has declared to the
+provider of electronic certification services and any
+person he asked to trust his signature.
+Article 23.- In the event of a breach of the commitments provided for in article 22 above
+above, the signature holder is responsible for the harm caused to others.
+
+Page 13
+13
+
+CHAPTER IX
+PROTECTION OF ELECTRONIC COMMUNICATION NETWORKS,
+INFORMATION SYSTEMS AND PERSONAL PRIVACY
+SECTION I
+PROTECTION OF ELECTRONIC COMMUNICATIONS NETWORKS
+
+Article 24.- Operators of electronic communications networks and
+providers of electronic communications services should take
+all the technical and administrative measures necessary to guarantee the
+security of the services offered. To this end, they are required to inform users:
+- the danger incurred when using their networks;
+- specific risks of security breaches, in particular,
+distributed denials of service, abnormal re-routing, spikes
+unusual traffic, traffic and ports, passive eavesdropping and
+active, intrusions and any other risk;
+- the existence of technical means to ensure the
+security of their communications.
+Article 25.- (1) Network operators and service providers
+electronic communications have the obligation to keep the data of
+connection and traffic for a period of ten (10) years.
+(2) Network operators and service providers
+electronic communications install monitoring mechanisms
+data traffic from their networks. These data may be accessible during
+judicial investigations.
+(3) The responsibility of network operators and those of
+providers of electronic communications services is engaged if
+the use of the data provided for in paragraph 2 above infringes the
+individual freedoms of users.
+SECTION II
+PROTECTION OF INFORMATION SYSTEMS
+
+Article 26.- (1) The operators of information systems shall take all
+technical and administrative measures to guarantee the security of services
+offered. To this end, they equip themselves with standardized systems enabling them to
+identify, assess, process and continuously manage the risks associated with
+security of information systems as part of the services offered
+directly or indirectly.
+(2) Information systems operators set up
+technical mechanisms to deal with infringements prejudicial to the
+permanent availability of systems, their integrity, their authentication,
+to their non-repudiation by third-party users, to the confidentiality of
+data and physical security.
+
+Page 14
+14
+
+(3) The mechanisms provided for in paragraph 2 above are subject to
+approval and visa compliant by the Agency.
+(4) Information systems platforms are subject to
+protection against possible radiation and intrusions that could
+compromise the integrity of the data transmitted and against any other attack
+external, in particular by an intrusion detection system.
+Article 27.- Legal persons whose activity is to provide access to
+information systems are required to inform users:
+- the danger incurred in the use of information systems
+not secure, especially for individuals;
+- the need to install parental control devices;
+- specific risks of security breach, in particular the
+generic family of viruses;
+- the existence of technical means making it possible to restrict
+access to certain services and offer them at least one of these
+means, in particular the use of the operating systems
+newer anti-virus and spyware tools and
+deceptive, activation of personal firewalls, security systems,
+intrusion detection and activation of automatic updates.
+Article 28.- (1) The operators of information systems inform the
+users of the ban on using the communications network
+to disseminate illegal content or any other act that may
+initiate the security of networks or information systems.
+(2) The ban also covers the design of software
+deceptive, spyware, potentially unwanted software, or any
+another tool leading to fraudulent behavior.
+Article 29.- (1) Information systems operators have the obligation to
+keep the connection and traffic data of their systems
+information for a period of ten (10) years.
+(2) Information system operators are required to install
+monitoring mechanisms to control access to the data of their
+information system. The stored data may be accessible during
+judicial investigations.
+(3) The facilities of information system operators
+may be subject to search or seizure by order of an authority
+judicial under the conditions provided for by the laws and regulations in force.
+Article 30.- (1) Operators of information systems assess, revise
+their security systems and, if necessary, introduce
+appropriate modifications in their practices, measures and techniques of
+security according to the evolution of technologies.
+
+Page 15
+15
+
+(2) Information system operators and their users
+can cooperate with each other for the development and implementation of
+security practices, measures and techniques of their systems.
+Article 31.- (1) Content providers of communications networks
+electronic and information systems are required to ensure the availability
+content, as well as that of the data stored in their facilities.
+(2) They have the obligation to put in place filters to cope
+to prejudicial attacks on the personal data and privacy of
+users.
+Article 32.- (1) Electronic communications networks and systems
+information are subject to a mandatory security audit regime and
+periodical of their security systems by the Agency.
+(2) Safety audit and severity impact measurements are
+carried out annually or when circumstances require.
+(3) Audit reports are confidential and addressed to the Minister
+in charge of Telecommunications.
+(4) A text from the Minister in charge of Telecommunications sets the
+conditions for assessing severity impact levels.
+SECTION III
+OBLIGATIONS OF PROVIDERS OF ACCESS, SERVICES AND CONTENT
+
+Article 33.- Persons whose activity is to provide access to health services
+electronic communications, inform their subscribers of the existence of
+technical means making it possible to restrict access to certain services or
+select them and offer them at least one of these means.
+Article 34.- (1) The liability of persons who insure, even as
+free, the storage of signals, writings, images, sounds or messages of
+any kind provided by the recipients of these services, can be engaged.
+(2) However, the liability provided for in paragraph 1 above is not
+point committed in the following cases:
+- the people were not actually aware of their
+unlawful nature or of facts and circumstances showing this
+character;
+- if, from the moment they learned of the facts, they took action
+promptly to remove or provide access to such data
+impossible.
+Article 35.- (1) The persons mentioned in Articles 33 and 34 above,
+are required to keep, for a period of ten (10) years, the data
+allowing the identification of any person who contributed to the creation of the
+content of the services they provide.
+
+Page 16
+16
+
+(2) They provide people who publish a service of
+electronic communications of the technical means enabling these
+to meet the identification conditions provided for in Articles 37 and 38 below
+below.
+(3) The judicial authority may request communication from the
+providers mentioned in Articles 33 and 34 above of the data provided for in
+paragraph 1 above.
+Article 36.- The competent court seized shall rule within a maximum period of
+thirty (30) days on all measures to prevent damage or to cause
+cease damage caused by the content of a communication service
+electronic.
+Article 37.- Persons whose activity consists in publishing a service of
+electronic communications, make available to the public:
+- their surname, first names, domicile and telephone number and, if they
+are subject to registration formalities in the register of
+trade and movable property credit, their registration number, if
+are natural persons;
+- their name or company name and their registered office, their
+telephone number and, in the case of legal entities
+subject to registration formalities in the trade register and
+personal loans, their registration number, their share capital,
+the address of their head office, in the case of legal persons;
+- the name of the director or co-director of the publication and, if
+if applicable, that of the editor;
+- the name, denomination or company name, address and number
+telephone number of the service provider mentioned in Articles 33 and 34.
+Article 38.- (1) Persons publishing on a non-professional basis a service of
+electronic communications may only be available to the public
+the name, denomination or company name and address of the service provider.
+(2) The persons mentioned in Articles 33 and 34 above, are
+subject to professional secrecy.
+Article 39.- (1) Any person who is the victim of defamation by means of
+electronic communications service, has a right of reply and may
+require rectification.
+(2) The conditions for inserting the right of reply are those
+provided for by the texts in force.
+Article 40.- (1) Any person carrying out an activity of transmission of
+content on an electronic communications or supply network
+access to an electronic communications network cannot see its
+liability only when:
+- it is at the origin of the disputed transmission request;
+
+Page 17
+17
+
+- it selects or modifies the content that is the subject of the
+transmission.
+(2) Anyone who insures for the sole purpose of making
+their subsequent transmission, an automatic storage activity,
+intermediary and temporary content that a service provider transmits, cannot
+see his civil or criminal liability incurred because of these contents that
+in the event that it has modified these contents, has not complied with their
+conditions of access and the usual rules concerning their updating or
+impeded the lawful and customary use of the technology used to obtain the
+data.
+SECTION IV
+PROTECTION OF PERSONAL PRIVACY
+
+Article 41.- Everyone has the right to respect for his private life. The judges
+may take protective measures, including sequestration and
+seizure to prevent or put an end to an invasion of privacy.
+Article 42.- The confidentiality of communications sent through
+electronic communications networks and information systems, including
+including traffic data, is provided by the operators and
+operators of electronic communications networks and systems
+of information.
+Article 43.- The content provider is responsible for the content conveyed
+by its information system, in particular when this content relates to
+violation of human dignity, honor and privacy.
+Article 44.- (1) Prohibition is made to any natural or legal person
+listen, intercept, store communications and data
+relating to the related traffic, or to submit them to any other means
+interception or surveillance, without user consent
+concerned, except when this person is legally authorized to do so.
+(2) However, the technical storage prior to shipment
+of any communication is authorized to operators and network operators
+of electronic communications, without prejudice to the principle of
+confidentiality.
+Article 45.- The recording of communications and traffic data
+related, carried out in a professional context in order to provide proof
+digital electronic communication is permitted.
+Article 46.- (1) Content providers of communications networks
+electronic and information systems, are required to keep the content
+as well as the data stored in their facilities for a period of
+ten (10) years.
+
+Page 18
+18
+
+(2) Content providers of communications networks
+electronic systems and information systems, have the obligation to set up
+filters to deal with damaging data breaches
+personal and user privacy.
+Article 47.- The use of electronic communications networks and
+information systems for the purpose of storing information or accessing
+information stored in terminal equipment of a natural person
+or moral, can only be done with his prior consent.
+Article 48.- (1) Sending electronic messages for prospecting purposes
+by concealing the identity of the sender in whose name the communication is
+made, or without indicating a valid address to which the recipient can
+sending a request to stop this information is
+prohibited.
+(2) Sending electronic messages by impersonating
+of others is prohibited.
+SECTION V
+INTERCEPTION OF ELECTRONIC COMMUNICATIONS
+
+Article 49.- Notwithstanding the provisions of the Code of Criminal Procedure, in the event of
+crimes or offenses provided for in this law, the Judicial Police Officer may
+intercept, record or transcribe any electronic communication.
+Article 50.- If the operators of electronic communications networks or
+providers of electronic communications services carry out
+encoding, compression or encryption of transmitted data,
+corresponding interceptions are provided in clear to the services which have them
+required.
+Article 51.- Staff of communications network operators
+electronic or electronic communications service providers
+are bound by professional secrecy with regard to the requisitions received.
+TITLE III
+CYBERCRIME
+CHAPTER I
+PROVISIONS OF PROCESSUAL LAW
+
+Article 52.- (1) In the event of a cybernetic offense, the Police Officers
+Judiciary with general jurisdiction and authorized agents of the Agency,
+carry out investigations in accordance with the provisions of the Code of Procedure
+Criminal.
+(2) Before taking up their duties, the authorized agents of the Agency
+take an oath, before the competent Court of First Instance, according to the
+following formula: "I swear to faithfully perform my duties and to observe
+in all the duties they impose on me, to keep information secret
+of which I became aware on the occasion or in the exercise of my functions ”.
+
+Page 19
+19
+
+(3) Judicial Police Officers and authorized agents
+the Agency may, during the investigations, have access to means of transport, to
+any premises for professional use, excluding private homes, with a view to
+to investigate, to note the infringements, to request the communication of
+all professional documents and take copies, collect, on
+convocation or on site, information and justifications.
+Article 53.- (1) Searches related to cybercrime are
+likely to relate to data that can be media
+physical or copies made in the presence of those attending the
+search.
+(2) When a copy of the entered data has been made, this can be
+be destroyed on the instructions of the Public Prosecutor for reasons of
+security.
+(3) By agreement of the Public Prosecutor, only
+under seal by the Judicial Police Officer, the objects, documents and data
+used to the manifestation of the truth.
+(4) Persons present during the search may be
+required to provide information on objects, documents and
+data entered.
+Article 54.- Searches and seizures are carried out in accordance with
+provisions of the Code of Criminal Procedure, taking into account wasting
+proofs.
+Article 55.- (1) When it appears that the data entered or obtained during
+of the investigation or investigation have been the subject of transformation operations
+preventing unencrypted access or are likely to compromise the
+information they contain, the Public Prosecutor, the Judge
+of instruction or the trial court may requisition any
+qualified natural or legal person, in order to carry out the operations
+techniques for obtaining the unencrypted version of said data.
+(2) When a means of cryptography has been used, the authorities
+courts may require the secret decryption convention of the
+cryptogram.
+Article 56.- The requisition provided for in article 50 above may be made at any
+expert. In this case, its execution is made in accordance with the provisions of
+Code of Criminal Procedure relating to the expert commission.
+Article 57.- (1) The Cameroonian judicial authorities may give
+letters rogatory, both national and international, to any legal person
+or physical to find the elements constituting the offenses of
+cybercrime, at least one of the constituent elements of which has been committed
+Cameroonian territory or where one of the perpetrators or accomplices is in
+said territory.
+
+Page 20
+20
+
+(2) Subject to the rules of reciprocity between Cameroon and the
+foreign countries bound by a judicial cooperation agreement, the committees
+rogatories are executed in accordance with the provisions of the Code of Procedure
+Criminal.
+Article 58.- (1) Natural or legal persons who supply
+cryptography services aimed at ensuring a confidentiality function,
+are required to hand over to Judicial Police Officers or authorized agents
+of the Agency, at their request, the agreements allowing the decryption of
+data transformed by means of the services they have provided.
+(2) Judicial Police Officers and authorized agents of the Agency
+may ask the providers of the services referred to in paragraph 1 above
+to implement these conventions themselves, unless they demonstrate
+that they are not in a position to satisfy such requisitions.
+Article 59.- (1) When the necessities of the investigation or the investigation
+justify the hearing or questioning of a person and / or the confrontation
+between several people, can be carried out at several points of the
+national territory being connected by means of communication
+electronic guaranteeing the confidentiality of the transmission. He is trained,
+in each of the places, a Report of the operations that were there
+carried out. These operations may be subject to audiovisual recording.
+and / or sound.
+(2) When the circumstances so require, the interpretation may be
+made during a hearing, questioning or confrontation by
+means of electronic communications.
+(3) The provisions of this article are also applicable
+for simultaneous execution, on a point of the national territory and on a point
+located outside, requests for mutual assistance from the judicial authorities
+foreigners or acts of mutual assistance carried out abroad at the request of
+Cameroonian judicial authorities.
+(4) The terms of application of this article are defined by
+regulatory route.
+CHAPTER II
+OFFENSES AND SANCTIONS
+
+Article 60.- (1) When a certification authority does not comply with the
+obligations to which it is subject, the Agency may, after setting the
+structure in formal notice to present its observations, pronounce the ban on
+putting into circulation of the cryptographic means concerned.
+(2) The ban on circulation is applicable on
+the whole of the national territory. It also carries for the supplier,
+the obligation to proceed with the withdrawal of:
+
+Page 21
+21
+
+- means of cryptography the circulation of which has been prohibited
+to commercial broadcasters;
+- materials constituting means of cryptography, the implementation of which
+circulation has been prohibited and which have been acquired for valuable consideration,
+directly or through commercial broadcasters.
+(3) The concerned cryptographic means may be reset
+circulation as soon as the previously unfulfilled obligations have been
+satisfied and duly noted by the Agency.
+Article 61.- (1) Are punished by imprisonment of three (03) months to three (03)
+years and a fine of 20,000 (twenty thousand) to 100,000 (one hundred thousand) CFA francs,
+Agency staff and experts from legal entities responsible for
+audits which reveal, without authorization, confidential information of which they
+became aware during a security audit.
+(2) Is punished by imprisonment of three (03) months to four (04)
+years, the refusal to comply with the summons of the authorized agents of the Agency.
+(3) Shall be punished by imprisonment of one (01) to five (05) years and one
+fine of 100,000 (one hundred thousand) to 1,000,000 (one million) F CFA or one of
+these two punishments only, one who, by any means whatsoever, makes
+obstacle, induces to resist or prevent the conduct of security audits
+provided for in this article or refuses to provide the information or documents
+related.
+Article 62.- (1) Is punished by imprisonment of one (01) to five (05) years and
+a fine of 200,000 (two hundred thousand) to 2,000,000 (two million) CFA francs,
+one who presents to the persons mentioned in Articles 33 and 34 above,
+content or activity as illegal for the purpose of obtaining the
+withdrawal or to stop the distribution, when she knows this information
+inaccurate.
+(2) The director of the publication is bound to insert, under penalty
+a fine of 100,000 (one hundred thousand) to 2,000,000 (two million) F CFA, in
+the forty-eight (48) hours of their receipt, the responses of any person
+designated in the electronic communications service.
+Article 63.- (1) Is punished by imprisonment of one (01) to five (05) years and
+a fine of 40,000 (forty thousand) to 4,000,000 (four million) CFA francs,
+the de jure or de facto manager of a legal person carrying out the defined activity
+in Articles 33 and 34 of this law, which has not kept the elements
+information referred to in Articles 25 and 29 above.
+(2) Is liable to the same penalties, the de jure or de facto leader
+a legal person carrying out the activity defined in Articles 37 and 38 which does not
+does not comply with the requirements provided for in said articles.
+
+Page 22
+22
+
+Article 64.- (1) Legal persons are criminally liable for
+offenses committed, on their behalf, by their governing bodies.
+(2) The criminal liability of legal persons does not exclude
+that of natural persons who are the authors or accomplices of the same acts.
+(3) The penalties incurred by legal persons are
+fines of 5,000,000 (five million) to 50,000,000 (fifty million) CFA francs.
+(4) Notwithstanding the penalty provided for in paragraph 3 above, one of the
+The following accessory penalties may also be pronounced against
+Moral people :
+- dissolution in the case of a felony or an offense punishable with regard to
+concerns natural persons with a prison sentence
+greater than or equal to three (03) years and that the legal person has been
+diverted from its purpose to serve as a support for the commission of
+incriminated facts;
+- the ban, permanently or for a period of five years at the
+less, to exercise directly or indirectly one or more
+professional or social activities;
+- temporary closure for a period of at least five (05) years,
+under the conditions provided for in article 34 of the Penal Code,
+establishments or one or more of the establishments
+the company having been used to commit the incriminated acts;
+- exclusion from public contracts definitively or for a period
+at least five (05) years old;
+- the ban, permanently or for a period of five (05) years at
+less, to make a public offering;
+- the ban, for a period of at least five (05) years, from issuing
+checks other than those which allow the withdrawal of funds by
+the shooter from the drawee or those who are certified or use
+payment cards;
+- the confiscation of the thing that was used or was intended for
+commit the offense or the thing which is the product thereof;
+- the publication or dissemination of the decision pronounced either by the
+written press, or by any means of communication to the public by
+electronically.
+Article 65.- (1) Shall be punished by imprisonment from five (05) to ten (10) years and
+a fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs
+or one of these two penalties only, the one who performs, without right or
+authorization, the interception by technical means of data during
+transmissions or not, to, from or within a
+electronic communications network, information system or
+terminal equipment.
+
+Page 23
+23
+
+(2) The penalties provided for in paragraph 1 above are punishable by any access
+unauthorized, to all or part of a communications network
+electronic or an information system or terminal equipment.
+(3) The penalties provided for in paragraph 1 above are doubled, in the event of
+illicit access undermining the integrity, confidentiality, availability
+electronic communications network or information system.
+(4) The same penalties provided for in paragraph 1 above are punishable by
+which, without rights, allows access in a communications network
+electronic or in an information system by intellectual challenge.
+Article 66.- (1) Is punished by imprisonment of two (02) to five (05) years and
+a fine of 1,000,000 (one million) to 2,000,000 (two million) CFA francs or
+one of these two penalties only, the one that causes the disturbance or
+interruption of the operation of an electronic communications network
+or terminal equipment, by introducing, transmitting, damaging,
+erasing, deteriorating, modifying, deleting or rendering inaccessible the
+data.
+(2) Are liable to the same penalties provided for in paragraph 1 above,
+people who make use of deceptive or unwanted software in the
+perform operations on a user's terminal equipment without
+inform the latter in advance of the exact nature of the operations that the said
+software is susceptible to damage.
+(3) The same penalties provided for in paragraph 1 above are punishable by
+who, using potentially unwanted software collects, attempts to
+collect or facilitate any of these operations to access information from
+the operator or supplier of an electronic network or service in order to
+commit offenses.
+Article 67.- Constitutes an attack on the integrity of a communications network
+electronic or an information system and punishable by the penalties provided for
+article 66, paragraph 1 above, causing a serious disturbance or
+
+an interruption in the operation of a communications network
+electronics of terminal equipment through the introduction, transmission,
+modification, deletion, alteration of data.
+Article 68.- (1) Is punished by imprisonment of five (05) to ten (10) years and
+a fine of 10,000,000 (ten million) to 50,000,000 (fifty million) F
+CFA or one of these two penalties only, the one who accesses or
+maintains, fraudulently, in all or part of a network of
+electronic communications or an information system by transmitting,
+damaging, causing serious disruption or interruption of
+operation of said system or network.
+(2) The penalties provided for in paragraph 1 above are doubled if any
+has resulted, either the deletion or modification of the data contained in
+the information system, or an alteration in its functioning.
+
+Page 24
+24
+
+Article 69.- Is punished by imprisonment of five (05) to ten (10) years and one
+fine of 10,000,000 (ten million) to 100,000,000 (one hundred million) CFA francs or
+one of these two penalties only, the one who accesses without right, and in
+violation of security measures, to all or part of a network of
+electronic communications, information system or equipment
+terminal, in order to obtain information or data, in relation to a
+information system connected to another information system.
+Article 70.- Is punished with a fine of 1,000,000 (one million) to 5,000,000 (five
+million) F CFA, the one which provokes by saturation, the attack of a resource of
+electronic communications network or information system in
+the goal of collapsing it by preventing the achievement of expected services.
+Article 71.- Is punished by imprisonment of two (02) to five (05) years and one
+fine of 1,000,000 (one million) to 25,000,000 (twenty five million) CFA francs,
+the one who introduces without right, data in an information system or
+in an electronic communications network for the purpose of deleting or
+modify the data contained therein.
+Article 72.- Anyone who, from
+in any way whatsoever, without rights, introduced, altered, erased, or removed,
+in order to obtain an economic benefit, the electronic data, in a
+to cause financial damage to others.
+Article 73.- (1) Shall be punished by imprisonment from two (02) to ten (10) years and one
+fine of 25,000,000 (twenty five million) to 50,000,000 (fifty million)
+F CFA, or one of these two penalties only, one who, by way of a
+information system or in a forged communications network, falsifies
+a payment, credit, or debit card or makes use of or attempts to make
+informed use of a payment, credit or debit card
+counterfeit or falsified withdrawal.
+(2) Anyone who,
+knowingly agrees to receive by way of communications
+electronic, payment by means of a payment, credit or debit card.
+counterfeit or falsified withdrawal.
+Article 74.- (1) Is punished by imprisonment of one (01) to two (02) years and
+a fine of 1,000,000 (one million) to 5,000,000 (five million) CFA francs,
+whoever, by any means whatsoever interferes with the privacy of the
+privacy of others by fixing, recording or transmitting, without
+consent of their author, electronic data having a character
+private or confidential.
+(2) The penalties provided for in paragraph 1 above are punishable by
+people who, without right, intercept personal data when they are
+transmission from one information system to another;
+
+Page 25
+25
+
+(3) Is punished by imprisonment from one (01) to three (03) years and one
+fine of 1,000,000 (one million) to 5,000,000 (five million) CFA francs or one
+of these two penalties only, whoever proceeds or causes them to proceed, even by
+negligence in the processing of personal data in violation of the
+formalities prior to their implementation.
+(4) Is punished by imprisonment of six (06) months to two (02) years
+and a fine of 1,000,000 (one million) to 5,000,000 (five million) CFA francs or
+of one of these two penalties only, the fact of collecting by means of
+illicit personal data of a person with a view to undermining
+his privacy and consideration.
+(5) The penalties provided for in paragraph 4 above are doubled, to
+against the person who puts, has put on line, keeps or has kept in
+computerized memory, without the express consent of the interested party, of the data
+nominative which, directly or indirectly, reveal its origins
+tribal, political or religious opinions, trade union membership or
+his mores.
+(6) The penalties provided for in paragraph 5 above apply to
+people who misuse information, in particular when they are
+recording, classification, transmission.
+(7) Is punished by imprisonment of six (06) months to two (02) years and
+a fine of 5,000,000 (five million) to 50,000,000 (fifty million) F
+CFA, or one of these two penalties only, one who retains
+information in nominative or encrypted form beyond the legal term
+indicated in the request for an opinion or the declaration prior to implementation
+automated processing.
+(8) Is punished by the penalties provided for in paragraph 7 above, the fact of disclosing
+personal data undermining the reputation of the victim.
+Article 75.- (1) Is punished by imprisonment of two (02) to five (05) years and
+a fine of 1,000,000 (one million) to 5,000,000 (five million) CFA francs or
+of one of these two penalties only, the one who records and broadcasts
+lucrative, by electronic communications or a system
+information without the consent of the interested party, images that infringe
+to bodily integrity.
+(2) This article does not apply where the registration
+and dissemination result from the normal exercise of a profession whose object is
+to inform the public or are made to serve as evidence in court
+in accordance with the provisions of the Code of Criminal Procedure.
+Article 76.- Is punished by imprisonment of five (05) to ten (10) years and one
+fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs or
+one of these two penalties only, the one who makes, transports, diffuses,
+by electronic communications or an information system, a
+message of a childish pornographic nature, or of a nature to carry
+seriously undermining the dignity of a child.
+
+Page 26
+26
+
+Article 77.- (1) Is punished by imprisonment of two (02) to five (05) years and
+a fine of 2,000,000 (two million) to 5,000,000 (five million) CFA francs
+or one of these two penalties only, one who, by way of
+electronic communications or an information system, commits a
+contempt against a race or a religion.
+(2) The penalties provided for in paragraph 1 above are doubled
+when the offense is committed with the aim of arousing hatred or contempt
+between citizens.
+Article 78.- (1) Is punished by imprisonment of six (06) months to two (02) years
+and a fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs
+or one of these two penalties only, one who publishes or propagates by
+electronic communications or information system, a new
+without being able to provide proof of its veracity or justify that it had good
+reasons to believe in the truth of the said news.
+(2) The penalties provided for in paragraph 1 above are doubled when
+the offense is committed with the aim of undermining the public peace.
+Article 79.- The penalties for acts of private contempt provided for in
+Article 295 of the Penal Code, are an imprisonment of five (05) to ten (10) years
+and a fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs
+or one of these two penalties only, when the victim has been put
+contact with the author of the said facts, through the use of communications
+electronic or information systems.
+Article 80.- (1) Shall be punished by imprisonment of three (03) to six (06) years and one
+fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs or
+one of these two penalties only, the one that broadcasts, fixes, records or
+transmits for payment or free of charge the image presenting acts of pedophilia
+on a minor by electronic communications or a system
+of information.
+(2) Shall be punished by the same penalties provided for in paragraph 1 above,
+whoever offers, makes available or disseminates, imports or exports, by any means
+electronic means whatsoever, an image or a character representation
+pedophile.
+(3) Is punished by imprisonment of one (01) to five (05) years and
+a fine of 5,000,000 (five million) to 10,000,000 (ten million) CFA francs
+or one of these two penalties only, the one who holds in a network of
+electronic communications or in an information system, an image or
+a representation of a pedophile nature.
+(4) The penalties provided for in paragraph 3 above are doubled,
+when an electronic communications network has been used for
+dissemination of the image or representation of the minor to the public.
+
+Page 27
+27
+
+(5) The provisions of this article are also applicable
+to pornographic images featuring minors.
+Article 81.- (1) The penalties provided for in Article 82 below are punishable by
+below, when committed using a communications network
+electronic or an information system:
+- the supply, production, provision of pornography
+childish with a view to its dissemination;
+- the act of procuring or procuring pornography for others
+childish through an information system;
+- the fact for adults to make proposals
+sexual intercourse to minors under fifteen (15) years of age or
+person posing as such;
+- the dissemination or transmission of child pornography by the
+through an information system.
+(2) Any act
+visually presenting:
+- a minor engaging in sexually explicit behavior;
+- a person who appears to be a minor engaging in
+sexually explicit behavior;
+- realistic images showing a minor engaging in a
+sexually explicit behavior.
+Article 82.- Is punished by double the penalties provided for in article 79 of this
+law one who commits or attempts to commit by means of communications
+electronic indecent exposure to a minor under fifteen (15)
+years.
+Article 83.- (1) Shall be punished by imprisonment from one (01) to two (02) years and one
+fine of 500,000 (five hundred thousand) to 1,000,000 (one million) F CFA or
+one of these two penalties only, that which by communication
+electronic, makes sexual proposals to a person of his gender.
+(2) The penalties provided for in paragraph 1 above are doubled when
+the proposals were followed by sexual intercourse.
+Article 84.- (1) Is punished by imprisonment of six months (06) to two (02) years
+and a fine of 500,000 to 1,000,000 CFA francs or one of these two penalties
+only, whoever accesses, fraudulently takes cognizance, delays
+access or suppress electronic communications addressed to others.
+(2) The same penalties provided for in paragraph 1 above are punishable by
+who intercepts without authorization, hijacks, uses or discloses
+electronic communications sent, or received by electronic means
+or installs devices designed to perform such
+interceptions.
+
+Page 28
+28
+
+Article 85. Anyone who,
+charged with a public service mission, acting in the exercise or occasionally
+of the exercise of its functions, misappropriates or facilitates the misappropriation,
+deletion or access to electronic communications or disclosure of
+content of these communications.
+Article 86.- (1) Anyone who
+imports, holds, offers, transfers, sells or makes available, in whatever form
+whether it is a computer program, a password, an access code or
+all similar computer data designed and or specially adapted,
+to provide access to all or part of a communications network
+electronic or an information system.
+(2) Shall also be punished by the same penalties provided for in paragraph 1 below.
+above, anyone who causes a serious disturbance or interruption of a
+electronic communications network or information system in
+the intention to undermine the integrity of the data.
+Article 87.- The perpetrators of one of the offenses provided for in article 86 above
+also incur the following additional penalties:
+- confiscation in accordance with the terms provided for in article 35 of the Code
+Criminal, of any object having been used or intended to commit the offense
+or considered to be the product, with the exception of objects
+susceptible of restitution;
+- prohibition under the conditions provided for by article 36 of the Code
+Criminal, for a period of at least five (05) years, to exercise a
+civil service or a socio-professional activity, when the
+facts were committed in the exercise or on the occasion of the exercise
+functions ;
+- closure, under the conditions provided for in article 34 of the Code
+Penal for a period of at least five (05) years,
+establishments or one or more of the establishments
+the company having been used to commit the incriminated acts;
+- exclusion, for a period of at least five (05) years, from contracts
+public.
+Article 88.- 1) Shall be punished by imprisonment of (01) to five (05) years and one
+fine of 100,000 (one hundred thousand) to 1,000,000 (one million) F CFA or one of
+these two penalties only, the one who, having knowledge of the convention
+secret decryption, a means of cryptography likely to have been
+used to prepare, facilitate or commit a felony or misdemeanor, refuses to
+hand over the said agreement to the judicial authorities or to implement it,
+on the requisitions of these authorities.
+
+Page 29
+29
+
+(2) If the refusal is opposed while the remission or implementation of
+the convention would have made it possible to avoid the commission of a felony or an offense or
+to limit its effects, the penalties provided for in paragraph 1 above are increased from
+three (03) to five (05) years of imprisonment and the fine of 1,000,000 (one
+million) to 5,000,000 (five million) F CFA.
+Article 89.- The stay may not be granted for the offenses provided for in the
+this law.
+TITLE IV
+INTERNATIONAL COOPERATION AND MUTUAL LEGAL ASSISTANCE
+CHAPTER I
+OF INTERNATIONAL COOPERATION
+
+Article 90.- (1) Within the framework of the exercise of their activities, the authorities of
+Cameroonian certification bodies may, under the control of the Agency, establish
+agreements, with foreign certification authorities.
+(2) The terms for establishing the agreements provided for in
+paragraph 1 above are determined by regulation.
+CHAPTER II
+INTERNATIONAL LEGAL ASSISTANCE
+
+Article 91.- (1) Unless an international convention to which the
+Cameroon has not left it otherwise, the requests for mutual assistance
+Cameroonian judicial authorities and intended for judicial authorities
+are transmitted through the Ministry responsible for
+Foreign Relations. The execution documents are returned to the authorities of
+the requesting State through the same channel.
+(2) Requests for mutual assistance from judicial authorities
+foreign and intended for the Cameroonian judicial authorities must be
+presented through the diplomatic channel by the foreign Government concerned. The
+enforcement documents are returned to the authorities of the requesting State by the same
+way.
+(3) In an emergency, requests for mutual assistance requested by
+Cameroonian or foreign authorities can be transmitted directly
+to the authorities of the requested State for their execution. Return of documents
+execution to the competent authorities of the requesting State is carried out in accordance with
+the same terms.
+(4) Subject to international conventions, requests
+assistance from foreign judicial authorities and intended for
+Cameroonian judicial authorities must be the subject of a notice from the
+interested foreign government. This notice is sent to the authorities
+competent judicial authorities through diplomatic channels.
+
+Page 30
+30
+
+(5) In an emergency, requests for mutual assistance from
+foreign judicial authorities are transmitted to the Public Prosecutor
+or to the territorially competent investigating judge.
+(6) If the Public Prosecutor receives directly from a
+foreign authority, a request for mutual assistance which can only be executed by
+the Examining Magistrate, he transmits it for execution to the latter or seizes the
+Attorney General in the case provided for in article 94 of this law.
+(7) Before proceeding with the execution of a request for mutual assistance which
+was directly informed, the Examining Magistrate immediately communicates
+for advice to the Public Prosecutor.
+Article 92.- (1) Mutual assistance requests from judicial authorities
+foreign affairs are executed by the Public Prosecutor or by the officers
+or Judicial Police officers required for this purpose by this magistrate.
+(2) They are carried out by the Examining Magistrate or by
+Judicial Police officers acting on rogatory commission from this magistrate
+when they require certain procedural acts which cannot be
+ordered or executed only during a preparatory investigation.
+Article 93.- (1) Mutual assistance requests from judicial authorities
+foreigners are executed according to the procedural rules provided for by the Code
+of Criminal Procedure.
+(2) However, if the request for mutual assistance so specifies, it is executed
+according to the procedural rules expressly indicated by the authorities
+competent authorities of the requesting State, without these rules reducing the rights
+of the parties or the procedural guarantees provided for by the Code of Procedure
+Criminal.
+(3) When the request for mutual assistance cannot be executed
+in accordance with the requirements of the requesting State, the competent authorities
+Cameroonians immediately inform the authorities of the requesting State and
+indicate under what conditions the request could be executed.
+(4) The competent Cameroonian authorities and those of the State
+applicant may subsequently agree on the action to be taken for the
+request, where appropriate, making it subject to compliance with said conditions.
+(5) The irregularity of the transmission of the request for mutual assistance cannot
+constitute a ground for nullity of acts carried out in execution of this
+request.
+Article 94.- (1) If the execution of a request for mutual assistance emanating from an
+foreign judicial system is likely to undermine public order or the interests
+of the Nation, the Public Prosecutor seized or notified of this
+request, forwards it to the Attorney General who refers it to the Minister responsible for
+Justice and, if necessary, gives notice of this transmission to the Public Prosecutor
+Republic.
+
+Page 31
+31
+
+(2) If seized, the Minister responsible for Justice informs the authority
+requesting, where appropriate, that it cannot be followed up, totally or
+partially, at his request. This information is notified to the authority
+concerned and obstructs the execution of the request for mutual assistance or
+upon return of the performance documents.
+TITLE V
+TRANSITIONAL AND FINAL PROVISIONS
+
+Article 95.- Application texts establish, as necessary, the modalities
+application of this law.
+Article 96.- Authorizations and declarations of supply, import and
+export of cryptographic means issued by the authorities
+competent authorities remain valid until the expiry of the period provided for by those
+this.
+Article 97.- This law will be registered and published following the procedure
+emergency, then inserted in the Official Journal in French and English.
+
+YAOUNDE, THE
+
+THE PRESIDENT OF THE REPUBLIC,
+
+PAUL BIYA
+
+

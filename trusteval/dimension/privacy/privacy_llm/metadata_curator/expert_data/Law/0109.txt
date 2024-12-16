@@ -1,0 +1,659 @@
+Page 1
+
+INSTRUCTIONS ON
+CONSENT
+In general
+Consent is, and will continue to be, one of the sources of the Personal Data Protection Act for the processing of personal data.
+EU Privacy Regulation 679/2016 (pvrg.) Further clarifies and legislates to a large extent the current
+implementation, which means, among other things, that the key aspects of consent remain unchanged, even though
+stricter requirements for guarantors. These guidelines are based on the guidelines of Article 29. working group
+EU Approval (WP259), appointed by the Directors of all EU Privacy Institutions,
+but the Data Protection Authority has observer status there.
+
+Table of contents
+1.
+
+Introduction ................................................. .................................................. ................... 2
+
+2. Legal environment ............................................... .................................................. ............... 2
+3. What are the main aspects of consent? .................................................. .......................... 3
+3.1
+
+Unforced ................................................. .................................................. ................................... 3
+
+3.1.1
+
+Power imbalance ................................................. .................................................. .................. 3
+
+3.1.2
+
+Conditions that are not necessary for the implementation of the contract ................................ 4
+
+3.1.3
+
+Specific approval ................................................ .................................................. ............ 5
+
+3.1.4
+
+Withdrawal of consent and indemnity .............................................. .................................... 6
+
+3.2
+
+Specific approval ................................................ .................................................. ....................... 6
+
+3.3
+
+Informed consent ................................................ .................................................. ....................... 6
+
+3.3.1
+
+Minimum consent to be considered informed ............................................ .................. 7
+
+3.3.2
+
+How to provide education .............................................. .................................................. .. 7
+
+3.4
+
+Unambiguous consent ................................................ .................................................. ...................... 8
+
+4. Unconditional consent .............................................. .................................................. 9
+5. Other requirements .............................................. .................................................. ................... 9
+5.1
+
+Liability and consent ............................................... .................................................. .. 9
+
+5.2
+
+Withdrawal of consent ................................................ .................................................. ............ 10
+
+6. Interaction of consent and other processing authorizations in pvrg. ............................................. 10
+7. Other issues .............................................. .................................................. ................. 11
+7.1
+
+Consent of children ................................................ .................................................. ........................ 11
+
+7.2
+
+Scientific research ................................................. .................................................. ................... 12
+
+7.3
+
+Rights of the data subject ............................................... .................................................. .................. 13
+
+7.4
+
+Consent granted before the entry into force of the Privacy Regulation ........................................ 13
+
+Page 2
+
+1. Introduction
+Consent remains one of the sources on which the processing of personal information can be based
+the regulation. Consent is deemed to have been granted only if the data subject has a real choice
+whether he consents to, or rejects, the processing of personal information about himself. It is the guarantor's opinion
+whether the conditions of approval have been met. The instructions cover the main points that
+must be borne in mind in such an assessment.
+
+2. Legal environment
+The basic conditions of approval are to a large extent comparable to the conditions of approval according to Art. Act no.
+77/2000, on personal protection and handling of personal information. However, certain changes are being made. To
+for example, it is stated that consent must be given by action. This includes boxing as
+when checked on a website do not meet the requirements of the regulation. Then in Article 8 pvrg. discussed
+on special conditions for the consent of children for services in the information society. In the foreword
+32, 33, 42 and 43 can also be found in more detail on the use of consent as an authorization for processing
+personal information
+The provisions of point 11 Article 4 pvrg. defines approval as follows:
+• "Consent" of a registered person: unenforceable, specific, informed and unequivocal declaration of intent of the other
+registered that he consents, by declaration or unequivocal confirmation, processing
+personal information about himself.
+In Article 7 pvrg. then you will find further conditions for approval:
+• When processing is based on approval, the controller must be able to demonstrate that registered
+an individual has agreed to the processing of his personal information.
+• If the data subject gives his consent by a written statement, which also applies to others
+issues, the request for approval shall be presented in such a way that it is distinguishable from the others
+issues, in an understandable and accessible form and in a clear and simple language. If any part
+such a declaration constitutes a violation of this Regulation, it shall not be binding.
+• A registered person has the right to withdraw his consent at any time. Revocation
+approval shall not affect the lawfulness of processing on the basis of the approval until
+the revocation. The data subject shall be notified of this before giving his consent.
+It shall be equally easy to withdraw and give consent.
+• When assessing whether consent is given voluntarily and voluntarily, the utmost consideration must be given
+whether it is a condition for the implementation of an agreement, e.g. á m. provision of services, that
+consent is given for the processing of personal data that is not necessary for
+implementation of the agreement.
+
+1st edition
+
+2018 2
+
+Page 3
+
+3. What are the main aspects of consent?
+In point 11. Article 4 pvrg. states that the consent of the data subject includes:
+▪ unforced,
+▪ specific,
+▪ informed and
+▪ the data subject's unequivocal declaration of consent, by declaration or
+unequivocal confirmation, processing of personal information about himself.
+Below is a discussion of each of these factors and the extent to which those responsible need to
+update their approval forms to ensure that the requirements of the Regulation are met.
+
+3.1 Unforced
+The fact that consent is unconditional means that it must be given voluntarily and voluntarily. Ef
+the data subject is under great pressure to give his consent or if he has to be subjected to a negative
+if he does not consent, such consent will not be deemed to meet the conditions for it
+free and unforced.
+The same applies when the data subject is not able to withdraw his consent without negatives
+consequences.
+When consent is presented as an integral part of non-negotiable terms, it is also a process
+on the grounds that consent was not given voluntarily and voluntarily. Then has in the regulation
+also consider the situation where there is an imbalance of power between the responsible party and the other
+registered.
+Example 1
+An app designed to edit photos requests location information for their users.
+The program says that the purpose of the intelligence gathering is to sell behavioral advertising
+advertising). Neither user placement nor custom ads are part of the core application of the app.
+If users can not use the services of the script without agreeing to the processing, then consent is not considered
+be granted voluntarily.
+
+3.1.1 Power imbalance
+Foreword 43 clearly states that it is unlikely that the government will be able to rely on consent
+when they operate within their powers, where there is an imbalance of power between them
+the guarantor and the data subject. This is also clear in cases where the registrant does not really own any
+possibility to accept the terms of the guarantor. In addition, there are other sources for processing
+personal information better suited to authorize the processing of personal information by the government.
+However, this does not mean that the government can never process personal information on the basis of it
+consent of the data subject.
+Example 2
+The municipality plans to embark on significant road construction on a major traffic street, which will have a large
+impact on traffic in the municipality.
+The municipality therefore decides to invite citizens to sign up for a mailing list where they will be sent
+information on the status of the project, such as information on which days large traffic delays can be expected.
+
+1st edition
+
+2018 3
+
+Page 4
+
+Everyone is free to sign up for the mailing list, and it will not be used for any other purpose, but all
+the information will also be published on the municipality's website.
+Those who choose not to subscribe to the list will not benefit from any of the core services provided by the municipality
+and their consent is deemed to be free and independent in this case.
+Example 3
+An individual must apply for a permit to both the municipality and the ministry. It is necessary to submit the same
+data to both authorities, but they do not have access to each other's database. The data subject sends the data
+on both authorities, but they request his permission to merge the applications to prevent duplication.
+Both authorities emphasize that this is optional and that the applications will be processed separately if he provides
+not their consent. In this case, he can give free and independent consent.
+Example 4
+The primary school requests permission from the student to use a photograph of him in the students' magazine at the school. That
+provided that the refusal will not adversely affect his study or service options within (or outside)
+of the school, he or his guardian may grant free and independent consent.
+
+Power imbalances can also be present in an employment relationship. An employee is unlikely to be able to
+granted free and independent consent, which is not under the pressure of the labor union,
+as it is unlikely that he will be able to refuse without the risk of direct or indirect negatives
+consequences.
+It is therefore difficult to process personal information in an employment relationship
+on the basis of the consent of the data subject, but this is not excluded.
+Example 5
+A film company should record videos of part of a company's office space. The company requests
+the consent of those who work on the floor for the processing of personal information about them, as they can easily appear in
+the background of the video. Employees who choose not to give their consent may move temporarily
+offices available to them where photography will not take place.
+
+Despite the fact that this only deals with power imbalances and differences in the employment relationship and
+individual relations with the government, there can also be an imbalance of power in others
+cases. Consent can only apply when there is no risk of deception, coercion,
+coercion or significant negative consequences, such as increased cost of services.
+3.1.2 Conditions that are not necessary for the implementation of the contract
+When assessing whether consent is granted voluntarily, the fourth paragraph applies. Article 7 pvrg.
+important role, which states that the utmost consideration must be given to, among other things, whether this is a condition for
+implementation of an agreement, e.g. á m. provision of services, that approval is given for processing
+personal information that is not necessary for the implementation of the agreement.
+This leads, among other things, to the fact that it is highly undesirable to merge consent for processing
+personal information and acceptance of the general terms and conditions. The same applies
+applies when provisions in a contract or provision of services are bound by a request for approval for processing
+personal information. If consent is given in these circumstances, it will not be considered as having
+been given voluntarily and voluntarily. The purpose of para. Article 7 is to prevent the provision of
+purposes of the processing of personal data are not hidden in contract terms that are often long and
+complex. It must also be borne in mind that the two authorizations, consent and necessity for concluding a contract,
+cannot be combined and their boundaries must not be blurred.
+
+1st edition
+
+2018 4
+
+Page 5
+
+Obligation to consent to the processing of personal data other than that which is absolutely necessary
+the provision of the service reduces the possibilities of the data subject and stands in the way of free and independent
+consent. Because one of the fundamental elements of privacy law is to ensure
+the fundamental rights of the data subject, it is necessary that he has the right to self-determination regarding processing
+personal information about themselves and for this purpose the regulation specifically provides for approval
+unnecessary processing of personal data may not be part of the terms or conditions of the contract
+for the provision of services.
+When a request for consent is joined together in the execution of a contract, individuals may have it
+stop being denied the services they have requested. To assess whether such
+If a connection exists, the scope of the contract or service provided must be determined.
+According to the opinion of Article 29. of the working group no. 6/2014 (WP217) must interpret what is “necessary
+for the implementation of the contract "narrow. The processing must be necessary for the guarantor to be able to
+fulfilled its obligations under the contract, such as address information to the other
+the registered can receive a purchased product sent to the home, or credit card information to receive payment
+because of the service. If the responsible party needs to process personal information for implementation
+of the agreement, it is based on the relevant authority in paragraph 1 (b). Article 6 pvrg. There is no need to build
+on another authority, such as consent, and para. Article 7 Not applicable. 1
+Example 6
+A bank requests the consent of its customers to use personal information about them in
+marketing purposes. Processing is not necessary to fulfill a contract with customers
+on traditional banking services. If the refusal of the data subject leads to an increase in fees, the refusal of
+service or the closure of bank accounts, approval cannot be the basis for processing
+personal information.
+If the responsible party links the processing of personal information to the service he provides, but the service
+is not necessary for the performance of the contract, it shall be assumed that consent is not given voluntarily
+and free will. The responsible party bears the burden of proving that the conditions of the approval are met, but
+the wording of para. Article 7 pvrg. indicates that guarantors need to take special care when
+agreement or service includes a request for consent for the processing of personal data. 2
+3.1.3 Specific approval
+The responsible party may request personal information about the data subject for the purpose of performing
+many different processing operations for different purposes. In such cases, those listed should
+have a choice as to what purpose they accept, but they should not have to agree processing in
+various purposes in one go. It may therefore be necessary to obtain several declarations of consent
+from the data subject before services can be provided.
+As stated in Preface 43, consent is not considered to be given voluntarily and voluntarily if not
+special consent may be given for separate operations in the processing of personal data, although
+this would be the case in that particular case. Approval should cover all processing activities carried out in the same
+purpose, one or more. When processing is for a variety of purposes, approval should be given
+to each and every one of them, as stated in the foreword 32.
+
+It should be noted, however, that the authorization to process sensitive personal data cannot be based on a contract. Therefore need
+responsible parties who process such information to support the processing with another authorization in Article 9. of the Regulation.
+2 See further discussion of this issue in the guidelines of Article 29. Working Party on Approval, p. 9 and 10.
+1
+
+1st edition
+
+2018 5
+
+Page 6
+
+Example 7
+The guarantor requests the consent of the data subject to keep his e-mail address
+marketing purpose on the one hand and to share it with other companies in the same
+group of companies, on the other hand. If the guarantor does not give the data subject a chance to agree
+processing for each purpose, the consent is not considered to be free and independent.
+3.1.4 Withdrawal of consent and indemnity
+The guarantor must demonstrate that the data subject can withdraw his consent without being
+for negative consequences, but as an example of negative consequences can be mentioned if the other registered
+will incur increased costs or if he receives poorer service. If the data subject has to endure the negative
+the consequences of not giving their consent for the processing of personal data are not considered consent
+be free and independent.
+
+3.2 Specific approval
+In order for consent to be considered satisfactory within the meaning of the Regulation, the data subject must be present
+informed about what personal information to work with and for what purpose. Then the individual owns
+to have a choice as to what purpose he accepts and what purpose he does not accept. This is
+closely related to the conditions for informed consent and specific consent, cf. section 2.2.3. Note that here
+is not a change from applicable law.
+In order to fulfill this condition of approval, the responsible party must:
+▪ specify the purpose of preventing the use of personal information in others and
+incompatible purpose,
+▪ ensure that the approval is specified, and
+▪ ensure that there is a clear distinction between information related to obtaining approval for processing
+personal information and information on other matters.
+This condition is intended to prevent the use of personal information for any other purpose
+but the person in whom the personal information was originally obtained and with the original consent. Ef
+the responsible party requests to work with the personal data of the data subject for purposes other than them
+which was originally specified, he shall also request the consent of the data subject for processing in
+the new purpose.
+Example 8
+A television station processes personal information about its subscribers on the basis of consent to offer them
+offers films that are suitable for the individuals in question, on which the television station's recommendations are based
+the person's viewing history. If the TV station wants to share the information with a third party, for example to broadcast
+the subscribers custom ads, then additional approval would need to be obtained for that processing.
+
+3.3 Informed consent
+The regulation makes increased demands for consent to be disclosed. This obligation is closely related
+the principle of fairness and legitimacy, cf. Article 5 pvrg. Provision of information by the responsible party
+on the processing of personal data, before obtaining consent, is necessary for the data subject
+understand what he is agreeing to, the consequences of consent and that he may withdraw
+
+1st edition
+
+2018 6
+
+Page 7
+
+their consent. If the guarantor does not provide adequate and accessible information about the processing
+a request for consent may become misleading and the consent may therefore be considered unsatisfactory.
+3.3.1 Minimum education for approval to be considered informed
+In order for consent to be considered informed, it is necessary to inform the data subject about certain issues so that
+he can decide whether to approve the processing. On the part of Article 29 of the working group is considered
+that the following points must at least be stated:
+• Name of responsible party
+• The purpose of each processing operation for which approval is requested
+• What personal information is planned to be processed
+• The right to withdraw consent
+• Whether automatic decision-making takes place, cf. Article 22 pvrg.
+• Whether the personal information is passed on to a third country without adequate protection
+for.
+3.3.2 How to provide education
+The regulation does not make any special requirements as to the form in which education should be provided, but it may, for example, be provided
+orally, in writing or by video. Nevertheless, the regulation makes certain demands
+representations, cf. especially the provisions of the second paragraph. Article 7 and foreword 32.
+Thus, the instruction must be simple and easy to understand. To fulfill this obligation is necessary
+responsible party, among other things, to realize who the registered persons are. If the registered persons are, for example, children
+the instruction must be designed in such a way that it is in a language they understand.
+In addition, instruction 3 must be separate from other non-processing information
+personal information. For example, if a contract contains a number of items that come processing
+personal information does not apply to them, the education behind the consent must be prominent and
+separated from other unrelated information, or in a separate document. The same views apply in this case
+in the case of consent granted electronically, but as stated above may not be hidden
+consent to the processing of personal data among other provisions in the agreement. Then you also need to look
+the technology used to provide the training. Tam may be desirable in obtaining consent in
+through a smartphone app to present the information in several layered steps
+way of presenting information).
+Example 9
+A company has received suggestions that it is unclear for what purpose it intends to use them
+personal information that it has requested consent to work with. The company decides to take action
+to take action to ensure that the instruction is understandable and creates focus groups consisting of
+a cross-section of the company's customer group to examine their understanding of the training. The focus groups read
+the educational text and are subsequently asked to answer a questionnaire to check their understanding. In this way
+the company can make sure that the instruction was in a clear and easy-to-understand language.
+Example 10
+A company processes personal information on the basis of consent. The training and approval were in electronic form
+and in many layers (e. layered) where all the necessary information could be found, except
+
+See further discussion of the responsible party's educational obligation and the data subjects' right to information in the Data Protection Authority's guidelines.
+on transparency.
+3
+
+1st edition
+
+2018 7
+
+Page 8
+
+information on how to contact the company's privacy representative. The consent is considered
+informed in the sense of pvrg., cf. section 2.3.1., even if there has been instruction about the privacy officer
+deficient.
+
+3.4 Unambiguous consent
+The regulation clearly states that approval will only be granted with a clear confirmation that includes
+always involves some kind of action or statement, as further described in the foreword 32.
+It must be clear that the data subject has agreed to the processing. In Act no. 77/2000 um
+privacy and the handling of personal information stipulates that consent must be given
+an unequivocal statement that the data subject agrees to the processing. The regulation continues to provide
+that the approval shall be granted by a statement or unequivocal confirmation. This involves consent
+must be provided by some action on the part of the data subject.
+The declaration may therefore be made orally, in writing or electronically. Inaction,
+such as a box that has already been checked, however, does not meet the requirements of the Regulation
+for unequivocal consent. Then it is not possible to look at the data subject's silence and that he continues to
+use certain services as an action within the meaning of the Regulation.
+Attention is also drawn to the fact that consent cannot be given at the same time as the signing of a contract or
+recognition of general terms. This is not considered to meet the conditions of the regulation unequivocally
+consent for the processing of personal data
+Guarantors are free to choose what methods they use to meet the criteria for unequivocal
+consent.
+Example 11
+When an individual downloads software, the application requests permission to use name information
+users to submit crash reports to improve the software. Privacy Policy,
+which contains the necessary information, is attached to the request for approval. By checking the option
+box where it says "I consent", the data subject has given consent with clear confirmation.
+Example 12
+Certain functions on a mobile phone, such as swiping right, waving the camera or turning the phone in a certain way,
+may be classified as unequivocal consent if adequate information is provided and the action is sufficiently unambiguous.
+However, the responsible party must be able to demonstrate that consent has been given in this way and that it is possible
+revoke the consent as easily as it was granted.
+Example 13
+To browse mobile phones through terms that include a statement of consent, even when specifically
+is notified that continued browsing is considered to constitute acceptance, does not meet the requirements of pvrg.
+The data subject can easily miss the warning when scrolling through large amounts of text, but
+in that case, it cannot be claimed that consent has been unequivocally granted.
+
+Many companies in the digital environment need to obtain personal information in order to provide the data subject
+specific services. The registrants can therefore even receive many requests for approval every day,
+which needs to be answered. Under these circumstances, there is a risk of acceptance fatigue, ie
+the data subject does not read the instruction provided to him and is therefore unaware of that processing
+personal information for which consent is sought. The regulation imposes this obligation on the responsible party
+to implement methods to deal with this problem, such as the consent of the data subject
+
+1st edition
+
+2018 8
+
+Page 9
+
+in the relevant web browser but not on individual web pages. Attention is drawn, however, to the fact that such consent
+must meet the conditions of the regulation for approval, e.g. á m. for specific approval.
+Despite the fact that the regulation does not explicitly stipulate that approval must be obtained in advance
+but the processing of personal information begins, then it says in point 1. Paragraph 1 Article 6 of the Regulation
+that the processing of personal data is lawful if the registered individual has given his or her consent
+the processing. It is therefore necessary to obtain the consent of the data subject before the processing of personal data
+begins, in addition to which it is necessary to obtain a new consent if you want to work with personal information in
+for a different purpose than originally planned.
+
+4. Unconditional consent
+In situations where there is a great deal of risk involved in the processing of personal information and it is considered normal that
+the individual has great control over his information, the consent must be unequivocal.
+This is especially true in the case of the processing of sensitive personal information, when
+personal information is exported and for automatic decision-making, including type / use
+personal profile.
+The fact that consent must be unequivocal means that the data subject must make a statement.
+The easiest way to do this is to obtain a written statement, even signed by the other party
+registered. However, that method is not the only way to obtain unequivocal consent. Thus
+it can be envisaged that the data subject can give his or her unequivocal consent by filling in an electronic form,
+send an e-mail, scan a document containing the signatory's signature or use an electronic one
+signature.
+Example 14
+Lýtalæknastofa requests the patient's unequivocal consent for the transfer of his electronic medical record to
+another specialist for whom a medical opinion is sought. Given the fragility of these
+information is requested by the plastic surgeon's electronic signature of the patient in order to receive from him
+unequivocal consent and demonstrate that it has been obtained.
+
+It would also be possible to obtain approval in two steps. An example of this is that the registered person receives
+an e-mail informing them of the responsible party's intention to process personal information
+from a file containing health information. The guarantor explains in the email that he
+request the consent of the data subject for the use of certain information for a specific purpose. Ef
+the data subject agrees to the use of this information, the responsible party requests that the data subject
+respond to the email with the statement "I agree". After the answer has been sent, the other receives
+registered a sent link on a verification page or SMS with a verification code, so that it can be accepted
+the arrangement.
+
+5. Other requirements
+The regulation imposes increased obligations on guarantors to ensure that they obtain approval and can show
+requires that the data subject has agreed to the processing of personal information about himself.
+
+5.1 Liability and consent
+The guarantor must be able to show that the data subject has given his or her consent. The guarantor is in
+autonomy set how he fulfills this obligation, but it should not lead to processing
+
+1st edition
+
+2018 9
+
+Page 10
+
+personal information in excess of what is necessary. The guarantor could, for example, keep an overview of
+consent so that he can demonstrate that consent was given, how it was granted and
+when it was granted. He must also be able to show that the data subject has been granted
+appropriate education.
+While processing on the basis of consent takes place, the responsible party must keep proof that
+the data subject has given his consent. After that time, the responsible party must delete the information except
+there are objective reasons for their preservation, such as due to legal obligation or necessity
+for a claim to be delimited, presented or defended in connection with a court case.
+Example 15
+A scientific study in the field of health should be carried out at a health institution, which includes the need for
+to obtain information on the dental health of certain patients. Patients are contacted by telephone and by telephone
+invited to participate in the study. Patients give their consent in the call, but it is recorded and transcribed
+preserved to show that consent has been given.
+
+Attention is also drawn to the fact that although the guarantor is not obliged to do so, it is recommended that
+approval is renewed regularly.
+
+5.2 Withdrawal of approval
+The Privacy Regulation places increased emphasis on the revocation of consent and thus states that
+it should be as easy to withdraw consent as it was to grant it. It does not necessarily have to
+to be done in the same way. Here, for example, it may be mentioned that if consent was given by stroking
+sides of a smartphone, or check a box on the company website, it should be just as easy to undo
+accept. The data subject must then be able to withdraw his consent without being exposed
+negative consequences as a result, which means, among other things, that the guarantor is not allowed to charge a fee
+for revocation of consent and the data subject may not be subject to a service restriction due to
+of the revocation.
+Example 16
+Tickets for the music festival were purchased online, but the purchase was approved for the processing of personal information.
+for marketing purposes. To withdraw your consent, you must call the music festival's call center at
+office hours, ie. between kl. 8-17, but the call is free.
+In this case, it is not as easy to revoke the consent as it was to grant it. Mouse click on the Internet
+which can be performed at any time is not comparable to having to make a call at a specific time.
+
+If the data subject withdraws his consent, the responsible party must stop the processing that was requested
+on the basis of consent. In principle, the processing of personal data for a specific purpose shall only take place
+take place on the basis of one specific authority, such as consent, but can be worked with
+personal information for more than one purpose and then on the basis of more than one source.
+The basis of processing for a specific purpose must be determined in advance and may not be changed
+at the convenience of the guarantor.
+
+6. Interaction of consent and other processing authorizations in pvrg.
+As stated earlier, consent is one of the sources that can be relied upon during processing
+personal information according to the regulation. In general, the processing of personal information in certain
+purpose is not based on more than one processing authorization. It is possible, however, that the processing is the same
+
+1st edition
+
+2018 10
+
+Page 11
+
+personal information for different purposes with the same responsible party may be based on different
+processing authorizations, such as consent on the one hand and contract on the other. The guarantor needs to
+decide on the basis of which processing authorization the processing of personal data takes place before processing
+begins, but he is not allowed to switch between processing authorizations after processing begins.
+The responsible party is therefore not allowed to base the processing of personal information on legitimate information, for example
+interests, cf. paragraph 1 (f) Article 6 pvrg., after the conditions of approval for processing are met
+personal information was not complied with. Attention is also drawn to the fact that according to Art. paragraph 1 (c) Article 13 pvrg.
+the responsible party must inform the data subject about the legal basis of the processing.
+
+7. Other items
+7.1 Consent of children
+Children's personal data enjoy special protection in accordance with the Regulation and in Article 8. her is that
+find a special provision on the consent of children in connection with services in the information society. Í
+the provision states that when processing is based on consent, in relation to that of a child
+offered services in the information society directly, such processing shall be considered lawful if a child
+has reached at least 16 years of age. If a child has not reached the age of 16, the processing shall only be considered lawful
+if, and to the extent that, the custodian of the child gives or authorizes the consent. Member States may provide
+applies to a lower age in law but not lower than 13 years. 4
+The reason why children are given more protection is that they may be less aware of the risks,
+consequences, safeguards and their rights in connection with the processing of personal data. This one
+special protection applies in particular to the use of children's personal data for marketing purposes, when
+personal or user profiles are created and the collection of personal information about children when they are used
+services offered to them directly. However, the consent of the custodian is not required in this case
+discuss prevention or counseling services offered to a child directly.
+The provisions of Article 8 pvrg. therefore only apply when:
+• the child is offered services in the information society directly, and
+• processing takes place on the basis of approval.
+Information society services refer to contracts and other services provided on the Internet.
+In the case of two operations, such as buying and selling on the Internet on the one hand and the delivery of the product on the other
+on the other hand, the former would be considered an information society service and not the latter. Eins
+and as stated before, the service must be offered to the child directly. This means that if the guarantor
+excludes children under the age of 18 from the service, such as with the content of the site or
+marketing, the service will not be considered to be offered directly to the child.
+The responsible party must take reasonable steps to ensure that the user has
+minimum age by law to be able to give their consent. Those measures shall take into account the nature
+the personal information collected and the scope of the processing. Attention is drawn to the fact that if processing
+personal information is provided on the basis of the consent of a child who has not reached the required age
+is in the regulation or national law, is not a sufficient processing authorization.
+
+It should be noted that the draft bill for a new data protection law assumes a 13-year age limit in Iceland. This can
+vary by country within Europe. A company that is in an activity like this may therefore need to examine domestic ones
+legislation in each place where the service is offered.
+4
+
+1st edition
+
+2018 11
+
+Page 12
+
+The regulation does not prescribe how to obtain consent or confirmation from the custodian. We
+the acquisition of such consent or confirmation must be proportionate and therefore Article 29 prescribes. the working group
+by emphasizing the collection of only necessary information, e.g.
+contact information of parent or guardian. The scope must also be assessed
+the collection of information based on the nature and scope of the personal information processed
+of processing. If the risk is small, it may be sufficient to request an e-mail address from the custodian.
+to obtain his consent.
+Example 17
+An online video game platform (responsible) wants to ensure that the processing of personal information about
+
+Minors are solely subject to the consent of their parents or guardians.
+The guarantor takes the following steps:
+1. He requests confirmation from the player in question that he is older than 16 years (based on
+the age specified in Article 8. pvrg.)
+2. He informs the children that the parent or guardian needs to approve the processing and requests it
+email address of parent / guardian.
+3. The guarantor contacts the parent or guardian to obtain his or her consent
+e-mail and take reasonable steps to ensure that the person has custody of the child.
+4. If the controller receives a complaint, he shall take further steps to ensure that
+the person in question has custody of the child.
+Parental consent expires when the data subject reaches the age specified in Article 8, in which case the
+obtain the person's consent for the processing.
+
+7.2 Scientific research
+Often, the purpose of processing personal data for the benefit of scientific research cannot be fully identified
+when the information is collected. Therefore, registered persons should be able to give their consent
+processing in specific areas of scientific research when they are compatible with accepted, ethical
+the criteria for scientific research. Registered individuals should have the opportunity to provide
+its approval only in certain areas of research or for parts of research projects, to that end
+to the extent permitted by the intended purpose, cf. foreword 33.
+However, this does not abolish the condition that consent is specific, but already a purpose
+Scientific research is unclear at the beginning can be difficult to meet the conditions of approval
+according to pvrg. In such cases, the preamble 33 provides a certain exemption for the guarantor
+scientific research to articulate information about the purpose of processing in a more general way. Here, though,
+as in all cases, to assess the clarity in the light of the nature and scope of the processing, but
+requirements for increased clarity if you want to work with, for example, sensitive personal information.
+If the person responsible for scientific research cannot fully identify the purpose of the research, he / she needs it
+to seek other means to ensure that the fundamental objective of the consent of the data subjects is achieved
+to form by requesting general approval and for specific stages of the study. After that
+as the study unfolds, specific consent can then be obtained prior to each stage
+begins. Such consent shall, however, always be in accordance with the Code of Ethics for Scientific Research. Also can
+other issues such as a clear research plan with research question, transparency, encryption and
+minimization of data weights on the scales when it is difficult to present clear
+
+1st edition
+
+2018 12
+
+Page 13
+
+information on the purpose of the processing. Finally, it must be borne in mind that the registered persons are always entitled to
+by withdrawing its consent.
+
+7.3 Rights of the data subject
+The fact that the processing of personal data takes place on the basis of consent determines to some extent what
+the rights of the data subject under the Regulation. Thus, the data subject then has the right to transfer his data
+between guarantors or have them transferred to them according to Article 20. pvrg. but at the same time he is not right
+to oppose the processing of personal data about himself, the processing is based on his consent.
+
+7.4 Consent granted before the entry into force of the Privacy Regulation
+Those responsible for basing the processing of personal information on consent in accordance with Act no.
+77/2000 are not automatically obliged to renew all approvals before the regulation comes into force
+implemented. Approval given before the regulation is implemented on 25 May
+2018 retains its validity, provided that it meets the requirements of the Regulation.
+Thus, guarantors need to review their work processes and files to make sure that
+approvals that have already been granted meet the requirements of the Regulation (see more in the foreword
+171). If the responsible party comes to the conclusion of the approval, which was given before the regulation
+is implemented, does not meet its requirements, he must assess whether the processing can be based on
+another authorization for the processing of personal data in the Regulation. This needs to happen before
+the regulation is implemented and it must be borne in mind that after that time the party is responsible
+may not switch between the provisions that authorize the processing of personal data.
+The guarantor is not permitted to continue processing personal information if he cannot renew it
+the consent of the data subject, so that it meets the requirements of the Regulation and if he can not build
+has another authorization for the processing of personal information at the same time as he ensures that the processing is
+fair and objective.
+
+1st edition
+
+2018 13
+
+

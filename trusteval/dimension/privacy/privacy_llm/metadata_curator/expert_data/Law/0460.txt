@@ -1,0 +1,504 @@
+﻿SUMMARY
+Implementing Directive no. 2009/136/EC, on the amending council Directive no. 2002/58/EC of the European Parliament and of the Council of 12 July, with respect to the processing of personal data and the protection of privacy in the electronic communications sector, and to the first amendment to the Law no. 41/2004, of 18 of August and the second amendment to Decree-Law no. 7/2004 of 7 January,
+_____________________
+
+
+Law No. 46/2012, of 29 August
+Implementing Directive no. 2009/136/EC, on the amending council Directive no. 2002/58/EC of the European Parliament and of the Council of 12 July, with respect to the processing of personal data and the protection of privacy in the electronic communications sector, and to the first amendment to the Law no. 41/2004, of 18 of August and the second amendment to Decree-Law no. 7/2004 of 7 January.
+The Assembly of the Republic decrees, in accordance with Article 161 (c).º of the Constitution, the following:
+Article 1.º
+Object
+This law:
+A) carries out the First Amendment To Law No. 41/2004 of 18 August, transposing into the National Legal order Directive No. 2002/58 / EC of the European Parliament and of the Council of 12 July on the processing of personal data and the protection of privacy in the electronic communications sector;
+(b) makes the Second Amendment to Decree-Law No. 7/2004 of 7 January, as amended by Decree-Law No. 62/2009 of 10 March, transposing into the National Legal order Directive No. 2000/31/EC of the European Parliament and of the Council of 8 June on certain legal aspects of Information Society services, in particular e-commerce, in the internal market.
+
+
+Article 2.º
+Amendment to Law No. 41/2004 of 18 August
+Articles 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 14.º e 15.º of Law No. 41/2004, of August 18, have the following wording:
+'Article 1.º
+[...]
+1 - this law transposes into the National Legal order Directive No. 2002/58 / EC of the European Parliament and of the Council of 12 July on the processing of personal data and the protection of privacy in the electronic communications sector, as amended by Article 2.º of Directive no 2009/136/EC of the European Parliament and of the Council of 25 November.
+2 - this law applies to the processing of personal data in the context of the provision of electronic communications services accessible to the public in public communications networks, namely in public communications networks that support data collection and identification devices, specifying and complementing the provisions of law no.67/98, of 26 October (Personal Data Protection Law).
+3 - ...
+4 - ...
+5 - in the situations provided for in the previous issue, companies offering publicly accessible electronic communications services must establish internal procedures to respond to requests for access to users ' personal data submitted by the competent judicial authorities, in accordance with the said special legislation.
+Article 2.º
+[...]
+1 - ...
+(a) "communication" means any information exchanged or sent between a finite number of parties through the use of a publicly accessible electronic communications service;
+(b) "electronic mail" means any text, voice, sound or graphic message sent over a public communications network that may be stored on the recipient's network or terminal equipment until the recipient collects it;
+c) ...
+d) ...
+(e) "location data" means any data processed in an electronic communications network or in the framework of an electronic communications service indicating the geographical position of the terminal equipment of a user of a publicly available electronic communications service;
+f) ...
+(g)" personal data breach " means a breach of security which causes accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to personal data transmitted, stored or otherwise processed in the context of the provision of publicly available electronic communications services.
+2-any information disseminated to the general public through an electronic communications network that cannot be related to the subscriber of an electronic communications service or to any identifiable user receiving the information shall be excluded from point (a) of the previous number.
+3-unless specifically defined in this law, the definitions contained in the Personal Data Protection Law and Law No. 5/2004, of February 10, in the wording given to it by Law No. 51/2011, of September 13 (Electronic Communications Law) are applicable.
+Article 3.º
+Processing security
+1-undertakings offering publicly accessible electronic communications services shall take appropriate technical and organisational measures to ensure the security of their services, if necessary, with regard to network security, together with the public communications network provider.
+2-the public communications network provider that supports publicly accessible electronic communications services provided by another company must satisfy the requests that it presents and that are necessary for compliance with the regime established in this law.
+3 - the measures referred to in Paragraph 1 shall be appropriate for the Prevention of existing risks, taking into account the proportionality of the costs of their application and the state of technological evolution.
+4-the ICP-National Communications Authority (ICP-ANACOM) should issue recommendations on best practices regarding the level of security that these measures should achieve.
+5-the ICP-ANACOM must, directly or through an independent entity, audit the measures adopted in accordance with the previous numbers.
+6-the ICP-ANACOM must establish the plan of these audits, in order to cover, in particular, the determination of the procedures and reference standards to be applied to them and the requirements that are due to the auditors.
+7-ICP-ANACOM, or an independent entity designated by it, may also carry out extraordinary security audits.
+8 - for the purposes of the application of paragraphs 4 to 7 of this article, if measures that may involve matters of protection of personal data are concerned, the ICP-ANACOM must request an opinion from the National Data Protection Commission (CNPD).
+9-without prejudice to the provisions of the law on the protection of personal data, the measures referred to in Paragraphs 1 to 3 shall at least include:
+a) Measures to ensure that only authorized personnel can have access to personal data, and only for legally authorized purposes;
+b) the protection of personal data transmitted, stored or otherwise processed, against unauthorized or accidental destruction, loss, alteration, disclosure or access;
+C) measures to ensure the application of a security policy in the processing of personal data.
+10-in the event of a particular risk of breach of network security, undertakings offering publicly accessible electronic communications services shall inform subscribers of such services free of charge of the existence of the risk and, where the risk is outside the scope of the measures to be taken by the service provider, of possible solutions to avoid it and of the likely costs arising therefrom.
+Article 5.º
+[...]
+1-the storage of information and the possibility of access to information stored on the terminal equipment of a subscriber or user are only allowed if they have given their prior consent, based on clear and complete information in accordance with the law on protection of personal data, namely regarding the purposes of processing.
+2 - the provisions of this article and the previous article do not prevent technical storage or access:
+(a) for the sole purpose of transmitting a communication through an electronic communications network;
+b) strictly necessary for the provider to provide an information society service expressly requested by the subscriber or user.
+Article 6.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+(4) The companies, which provide electronic communications services, it can only process the data referred to in no. 1, if the subscriber or user to whom the data relate has given his prior written consent, which may be withdrawn at any time, and solely to the extent necessary and for the time that is required for the marketing of electronic communications services or the provision of value-added services.
+5 - ...
+6 - ...
+7 - ...
+Article 7.º
+[...]
+1 - ...
+2 - ...
+3 - similarly, the processing of location data is allowed to the extent and for the time necessary for the provision of value-added services, provided that prior and express consent is obtained from subscribers or users.
+4 - ...
+5 - ...
+6 - ...
+Article 8.º
+[...]
+1 - ...
+2-companies that offer publicly accessible electronic communications networks and / or services must reconcile the rights of subscribers receiving itemized invoices with the right to privacy of the users who are the callers and the subscribers who are called, by submitting proposals for the approval of the CNPD regarding means that allow subscribers anonymous or strictly private access to publicly accessible electronic communications services.
+3-the approval by the CNPD, referred to in the previous issue, is subject to mandatory prior opinion of the ICP-ANACOM.
+4 - ...
+Article 14.º
+[...]
+1 - constitutes counter-order punishable by a minimum fine of (euro) 1500 and a maximum fine of (euro) 25 000, when practiced by natural persons, and a minimum fine of (euro) 5000 and a maximum fine of (euro) 5 000 000, when practiced by legal persons:
+(a) non-compliance with the network security rules imposed by Article 3 (1), (2), (3) and (10).º;
+b) non-compliance with the security rules in the processing of personal data imposed by Article 3 (9).º;
+(c) the breach of the obligations laid down in Article 3 (1), (2), (3), (4), (5) and (10).º-A or determined in accordance with paragraphs 6 and 9 thereof;
+(d) the breach of the obligation set out in Article 4 (1).º, of the prohibition set out in Article 4 (2).º and the making of recordings in disregard of Article 4 (3).º;
+(e) failure to comply with the conditions of storage and access to information provided for in Article 5.º;
+(f) sending communications for direct marketing purposes in breach of Article 13 (1) and (2).º-A;
+(g) the breach of the obligations imposed by Article 13 (3).º-A;
+h) sending e-mail in violation of Article 13 (4).º-A;
+(i) the breach of the obligation set out in Article 13 (1).º-B;
+(J) violation of Article 13 (3).º-B by the entities provided for in Paragraph 1;
+(k) the breach of the obligation to provide information set out in Article 13.º-E;
+l) non-compliance with orders or resolutions of the CNPD, issued in accordance with Article 13.º-D and regularly communicated to its addressees;
+m) failure to comply with ICP-ANACOM orders or resolutions issued pursuant to Article 13.º-D and regularly communicated to their addressees.
+2 - constitutes counter-order punishable by a minimum fine of (euro) 500 and a maximum fine of (euro) 20 000, when practiced by natural persons, and a minimum fine of (euro) 2500 and a maximum fine of (euro) 2 500 000, when practiced by legal persons:
+(a) the breach of the notification requirements laid down in Article 3 (7), (8) and (10).º-A or determined in accordance with paragraph 9;
+(b) failure to comply with the conditions for processing and storing traffic data and location data provided for in Articles 6.º e 7.º;
+(c) the breach of the obligations laid down in Article 8 (1), (2) and (4).º and in Articles 9.º e 11.º;
+(d) the breach of the obligations provided for in Article 10.º;
+(e) violation of Article 13.º
+3-whether the counter-order consists in the non-fulfillment of a legal duty or in the non-fulfillment of an order or resolution emanating from the CNPD or the ICP-ANACOM, in their respective areas of competence, the application and compliance of the sanctions do not exempt the offender from compliance, if this is still possible.
+4-the CNPD or the ICP-ANACOM, in their respective areas of competence, may order the offender to comply with the duty or order in question, under penalty of compulsory pecuniary sanction in accordance with Article 15.º-C.
+5-negligence and attempt are punishable, with the minimum and maximum limits of the fine reduced by half.
+Article 15.º
+[...]
+1-it is the responsibility of the CNPD to initiate, instruct and file cases of contraordination, as well as the application of admonitions, fines and ancillary sanctions, for violation of the provisions of Article 3, paragraph 9.º, in Article 3.Article 4 (3).º, in Articles 5.º, 6.º e 7.Article 8 (1), (2) and (4).º, in Article 10.º, in Article 13.Article 13 (1) to (4).A, in Article 13 (1) and (3).B and Article 14 (1) (l).º
+2-ICP-ANACOM is responsible for the establishment, investigation and filing of counter-orders, as well as the application of warnings, fines and ancillary sanctions, for violation of the provisions of Article 3 (1), (2), (3) and (10).Article 4 (1) and (2).º, in Article 9.º, in Article 11.º, in Article 13.º-E and Article 14 (1) (m).º
+3 - the establishment of counter-ordering procedures and the respective application of fines relating to the unlawful acts provided for in the previous issue are the competence of the board of Directors of ICP-ANACOM, and the instruction to the respective services is the responsibility.
+4 - (previous No. 3.)
+5-the amount of fines reverts to the state by 60% and to the CNPD or to the ICP-ANACOM, depending on the cases, by 40%.»
+
+
+Article 3.º
+Addendum to Law No. 41/2004 of 18 August
+Articles 3 are added to Law No. 41/2004 of 18 August.º-A, 13.º-A, 13.º-B, 13.º-C, 13.º-D, 13.º-E, 13.º-F, 13.º-G, 15.º-A, 15.º-B and 15.º-C, as follows:
+'Article 3.º-A
+Notification of personal data breach
+1-companies that offer publicly accessible electronic communications services must, without undue delay, notify the CNPD of the occurrence of personal data breach.
+2 - when the personal data breach referred to in the previous issue may adversely affect the personal data of the subscriber or user, companies offering publicly accessible electronic communications services must also, without undue delay, notify the subscriber or user of the breach, so that they can take the necessary precautions.
+3-a breach of personal data adversely affects the data or privacy of the subscriber or user whenever it may result, in particular, in identity theft or fraud, physical damage, significant humiliation or damage to reputation, when associated with the provision and use of publicly accessible electronic communications services.
+4 - the regime provided for in Paragraph 2 does not apply in cases where companies offering electronic communications services accessible to the public prove to the CNPD, and the latter recognizes, that they have adopted the appropriate technological protection measures and that these measures have been applied to the data to which the violation relates.
+5-the measures referred to in the previous paragraph must make the data incomprehensible to all persons not authorized to access them.
+6-without prejudice to the notification obligation referred to in Paragraph 2, when the company offering publicly accessible electronic communications services has not yet notified the breach of personal data to the subscriber or user, the CNPD may require the same notification, taking into account the likelihood of adverse effects arising from the breach.
+7-the minimum elements of the notification referred to in Paragraph 2 are the identification of the nature of the breach of personal data and the contact points where additional information can be obtained, as well as the recommendation of measures aimed at limiting any adverse effects of the said breach.
+8 - in the notification to the CNPD provided for in Paragraph 1, the company that offers electronic communications services accessible to the public must, in addition to the elements contained in the previous number, indicate the consequences of the personal data breach and the measures proposed or taken by it to deal with the breach.
+9-the CNPD May, in accordance with the decisions of the European Commission, issue guidelines or instructions on the circumstances in which companies offering publicly accessible electronic communications services are required to notify the breach of personal data, as well as on the form and procedure applicable to such notifications.
+10-in order to verify, by the CNPD, compliance with the obligations established in this article, companies that offer electronic communications services accessible to the public must establish and maintain a record of the situations of personal data breach, indicating the facts concerning them, their effects and the measures adopted, including the notifications made and the remedial measures taken.
+Article 13.º-A
+Unsolicited communications
+1-the sending of unsolicited communications for direct marketing purposes, in particular through the use of automated call and communication systems that do not depend on human intervention (automatic calling devices), fax or e-mail devices, including SMS (Short Message Services), EMS (enhanced message services) MMS (multimedia message services) and other similar applications, is subject to the express prior consent of the subscriber who is a natural person, or the user.
+2 - the provisions of the previous number do not apply to subscribers who are legal persons, and unsolicited communications for direct marketing purposes are allowed until subscribers refuse future communications and subscribe to the list provided for in Article 13 (2).º-B.
+(3) The provisions of the preceding paragraphs shall not prevent the vendor of a certain product or service that they have received from their clients, in accordance with the Law on the Protection of Personal Data, in connection with the sale of a product or service, its coordinates, electronic contacts, you can use them for the purpose of conducting direct marketing of its own similar products or services to the transaction, as long as you ensure to the clients in question, clearly, and explicitly, and the opportunity to object, free of charge, and the use of these coordinates:
+(a) at the time of collection; and
+b) at the time of each message, when the customer has not initially refused such use.
+4-it is forbidden to send e-mail for direct marketing purposes, concealing or concealing the identity of the person on whose behalf the communication is made, in violation of Article 21.º of Decree-Law No. 7/2004, of 7 January, without the indication of a valid means of contact to which the recipient can send a request to terminate these communications, or that encourages recipients to visit websites that violate the provisions of said Article.
+5 - for the protection of the interests of their customers, as part of their commercial interests, the providers of electronic communications services accessible to the public have the legitimacy to propose legal actions against the author of the breach of any of the provisions contained in this article, as well as in Article 13.º-B.
+Article 13.º-B
+Lists for the purpose of unsolicited communications
+1 - Entities that promote the sending of communications for direct marketing purposes, in particular through the use of automated calling and communication systems that are not dependent on human intervention (automatic calling machines), fax machines or electronic mail, including SMS (Short Message Services), EMS (enhanced message services) MMS (multimedia message services) and other similar applications, shall be maintained by themselves or by bodies representing them., an updated list of persons who have expressly and free of charge given their consent to receive such communications, as well as customers who have not objected to their receipt under Article 13 (3).º-A.
+2 - it is the responsibility of the Consumer Directorate-General (DGC) to keep up to date a national list of legal persons who expressly object to the receipt of unsolicited communications for direct marketing purposes.
+3 - for inclusion in the lists referred to in the previous numbers can not be charged any amount.
+4-inclusion in the list referred to in Paragraph 2 depends on the completion of an electronic form made available through the DGC website.
+5-entities that promote the sending of communications for direct marketing purposes are obliged to consult the list, updated monthly by the DGC, which makes it available at your request.
+Article 13.º-C
+Cross-border cooperation
+1-without prejudice to the powers assigned to other entities, the CNPD and the ICP-ANACOM May, in their respective areas of competence, approve measures to ensure effective cross-border cooperation in the implementation of this law.
+2 - whenever the CNPD and ICP-ANACOM intend to proceed in accordance with the previous issue, they shall submit to the European Commission, in good time and before the approval of the measures in question, a summary of the reasons for the action, the requirements envisaged and the proposed actions.
+Article 13.º-D
+Competencies of CNPD and ICP-ANACOM
+Within the scope of the competences assigned to them by this law, the CNPD and the ICP-ANACOM May, in their respective areas of competence:
+A) develop regulations regarding the practices to be adopted to comply with this law;
+B) give orders and make recommendations;
+C) advertise on their websites the codes of conduct of which they are aware;
+d) advertise on their websites other information that they consider relevant.
+Article 13.º-E
+Provision of information
+1-the entities subject to obligations under this law must, when requested, provide ICP-ANACOM, in its respective area of competence, all information related to its activity, so that these authorities can exercise all the powers provided for therein.
+2-the requests for information referred to in the previous paragraph must comply with the principles of suitability for the purpose for which they are intended and proportionality and must be duly substantiated.
+3-the information requested must be provided within the deadlines, in the form and with the degree of detail required by ICP-ANACOM, which can also establish the circumstances and the periodicity of its sending.
+4 - for the purposes of Paragraph 1, entities must identify, in a reasoned manner, the information they consider confidential and must add, if justified, a non-confidential copy of the documents containing such information.
+Article 13.º-F
+Failure
+1-without prejudice to other applicable sanctioning mechanisms, whenever the CNPD or the ICP-ANACOM, in their respective areas of competence, verify the infringement of any obligation arising from this law, they must notify the infringer of this fact and give him the possibility to within a period of not less than 10 days to pronounce and, if appropriate, put an end to the breach.
+2 - after proceeding to the hearing, in accordance with the previous number, the CNPD or the ICP-ANACOM, in their respective areas of competence, may require the offender to cease the breach immediately or within the reasonable period set for that purpose.
+3-If the offender does not put an end to the default within the period referred to in the previous numbers, it is up to the CNPD or ICP-ANACOM, in their respective areas of competence, to take appropriate and proportional measures to ensure compliance with the obligations referred to in Paragraph 1 of this article, namely the application of compulsory pecuniary sanctions in
+Article 13.º-G
+Surveillance
+It is the responsibility of the CNPD and the ICP-ANACOM, in their respective areas of competence established in accordance with the provisions of Article 15.º, the supervision of compliance with this law, through, respectively, the vowels and technicians duly mandated by the CNPD, in accordance with the law on protection of personal data and the supervisory agents or agents duly accredited by ICP-ANACOM, in accordance with Article 112.º of the Electronic Communications Act.
+Article 15.º-A
+Ancillary sanctions
+1 - in the context of the counter-orders provided for in Article 15 (2).º, whenever the seriousness of the infringement and the fault of the agent justifies it, the ICP-ANACOM may apply an accessory penalty of loss in favor of the state of illicit objects, equipment and devices, including the proceeds of the benefit obtained by the offender through the practice of counterordering.
+2 - anyone who disrespects an accessory penalty that has been applied to him, incurs a crime of qualified disobedience.
+Article 15.º-B
+Loss to the state
+1-without prejudice to the provisions of Paragraph 1 of the previous article, are considered lost in favor of the state the objects, equipment and illicit devices that have been precautionary or provisionally seized by ICP-ANACOM and that, after notification to the interested parties to collect them, have not been claimed within 60 days.
+2-the objects, equipment and illicit devices lost in favor of the state revert to the ICP-ANACOM, which will give them the destination that it deems appropriate.
+Article 15.º-C
+Compulsory financial penalties
+1. Without prejudice to any other sanctions to be applicable in the event of non-compliance to the decisions of the CNPD or ICP-ANACOM to impose administrative sanctions or to order, in exercise of the powers that be, legally they are entitled to, to the adoption of a behavior or action specific to the recipient of this law, those authorities duly justified to impose a periodic penalty payment in the cases referred to in the n. 1, 3, 4) and (5) in article 10.Article 13 (1), (3) and (4).º E in Article 14 (1) (a) to (i), (j) and (l) to (m) and (a), (b), (c), (d) and (e).º
+2 - the compulsory pecuniary penalty consists in imposing on its recipient the payment of a pecuniary amount for each day of delay in compliance beyond the deadline set therein.
+3-the compulsory sanction is fixed according to criteria of reasonableness and proportionality, taking into account the economic situation of the offender, in particular his turnover in the previous calendar year, and the negative impact of the default on the market and users, and the daily amount can be between (euro) 500 and (euro) 100 000.
+4 - the amounts fixed in accordance with the previous paragraph may vary for each day of default, in an increasing sense, and may not exceed the maximum amount of (euro) 3 000 000 or the maximum duration of 30 days.
+5 - the amount of the penalty applied reverts to the state by 60% and to the CNPD or to the ICP-ANACOM by 40%.
+6-the acts of the CNPD and the ICP-ANACOM, practiced under this article, may be appealed, depending on whether they are practiced in the context of a counter-order or administrative proceeding, in accordance with the legislation applicable to each type of proceeding in question.»
+
+
+Article 4.º
+Amendment to Decree-Law No. 7/2004 of 7 January
+Articles 7.º, 8.º, 9.º, 23.º, 36.º E 37.º of Decree-Law No. 7/2004, of January 7, as amended by Decree-Law No. 62/2009, of March 10, have the following wording:
+'Article 7.º
+Restrictive measures
+1-measures may be taken, including concrete measures against a service provider, restricting the movement of a particular information society service from another member state of the European Union to the extent that it may seriously harm or threaten:
+to) ...
+b) ...
+c) ...
+d) ...
+2-adoption must be preceded:
+to) ...
+(b) if the latter has not done so, or the measures it takes prove to be inadequate, the notification to the Commission and the home member state of the intention to adopt the restrictive measures.
+3 - ...
+4-the measures adopted must be proportional to the objectives to be protected.
+Article 8.º
+[...]
+In cases of urgency, the competent authorities, including the courts, may take restrictive measures not preceded by the notifications to the Commission and the other home member states provided for in the previous article.
+Article 9.º
+[...]
+1 - ...
+2-competent authorities intending to take restrictive measures, or actually taking them, shall immediately notify the central supervisory authority in order to be notified to the Commission and the home member states.
+3-in the case of restrictive emergency measures, the reasons for the urgency must also be indicated when adopting them.
+Article 23.º
+[...]
+1-Distance advertising communications by electronic means in regulated professions are allowed insofar as they comply with the ethical rules of each profession, relating to independence, professional secrecy and loyalty to the public and members of the profession among themselves.
+2 - ...
+Article 36.º
+[...]
+1 - ...
+2 - ...
+(a) adopt the restrictive measures provided for in Articles 7.º E 8.º;
+b) ...
+c) ...
+d) ...
+and) ...
+3 - ...
+4 - ...
+Article 37.º
+[...]
+1 - ...
+(a) the non-availability or provision of information to the addressees regulated in Articles 10.º, 13.º e 21.Article 28 (1).º;
+(B) (repealed.)
+c) ...
+d) ...
+and) ...
+f) ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...»
+
+
+Article 5.º
+Revocation rule
+Are revoked:
+(a) Article 12.º of Law No. 41/2004, of 18 August;
+(B) Article 22.Article 37 (1) (b).º of Decree-Law No. 7/2004, of January 7, as amended by Decree-Law No. 62/2009, of March 10.
+
+
+Article 6.º
+Republication
+It is republished, in the annex to this law, of which it is an integral part, Law No. 41/2004, of August 18, with the current wording.
+
+
+Article 7.º
+Entry into force
+This law shall enter into force on the day following its publication.
+
+
+Approved on 25 July 2012.
+The president of the Assembly of the Republic, Maria da Assunção A. Esteves.
+Promulgated on 10 August 2012.
+Publish yourself.
+The president of the Republic, Aníbal Cavaco Silva.
+Referendum on 17 August 2012.
+The Prime Minister, Pedro Passos Coelho.
+ATTACHMENT
+(referred to in Article 6.º)
+Republication of Law No. 41/2004 of 18 August
+CHAPTER I
+Object and scope
+Article 1.º
+Subject matter and scope
+1 - this law transposes into the National Legal order Directive No. 2002/58 / EC of the European Parliament and of the Council of 12 July on the processing of personal data and the protection of privacy in the electronic communications sector, as amended by Article 2.º of Directive no 2009/136/EC of the European Parliament and of the Council of 25 November.
+2 - this law applies to the processing of personal data in the context of the provision of electronic communications services accessible to the public in public communications networks, namely in public communications networks that support data collection and identification devices, specifying and complementing the provisions of law no.67/98, of 26 October (Personal Data Protection Law).
+3 - the provisions of this law ensure the protection of the legitimate interests of subscribers who are legal persons to the extent that such protection is compatible with their nature.
+4-exceptions to the application of this law that are strictly necessary for the protection of activities related to Public Security, Defense, State Security and the prevention, investigation and repression of criminal offenses are defined in special legislation.
+5 - in the situations provided for in the previous issue, companies offering publicly accessible electronic communications services must establish internal procedures to respond to requests for access to users ' personal data submitted by the competent judicial authorities, in accordance with the said special legislation.
+Article 2.º
+Definitions
+1 - for the purposes of this law, it is understood as:
+(a) "communication" means any information exchanged or sent between a finite number of parties through the use of a publicly accessible electronic communications service;
+(b) "electronic mail" means any text, voice, sound or graphic message sent over a public communications network that may be stored on the recipient's network or terminal equipment until the recipient collects it;
+c) "User" means any natural person who uses a publicly available electronic communications service for private or commercial purposes and is not necessarily a subscriber of that service;
+(d) "traffic data" means any data processed for the purpose of sending a communication over an electronic communications network or for the purpose of invoicing the same;
+(e) "location data" means any data processed in an electronic communications network or in the framework of an electronic communications service indicating the geographical position of the terminal equipment of a user of a publicly available electronic communications service;
+(f)" Value-Added Services " means all those that require the processing of traffic data or location data other than traffic data, in addition to what is necessary for the transmission of a communication or the billing thereof;
+(g)" personal data breach " means a breach of security which causes accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to personal data transmitted, stored or otherwise processed in the context of the provision of publicly available electronic communications services.
+2-All information disseminated to the general public through an electronic communications network that cannot be related to the subscriber of an electronic communications service or to any identifiable user receiving the information shall be excluded from point (a) of the previous number.
+3-unless specifically defined in this law, the definitions contained in the Personal Data Protection Law and Law No. 5/2004, of February 10, as amended by Law No. 51/2011, of September 13 (Electronic Communications Law) are applicable.
+CHAPTER II
+Security and confidentiality
+Article 3.º
+Processing security
+1-undertakings offering publicly accessible electronic communications services shall take appropriate technical and organisational measures to ensure the security of their services, if necessary, with regard to network security, together with the public communications network provider.
+2-the public communications network provider that supports publicly accessible electronic communications services provided by another company must satisfy the requests that it presents and that are necessary for compliance with the regime established in this law.
+3 - the measures referred to in Paragraph 1 shall be appropriate for the Prevention of existing risks, taking into account the proportionality of the costs of their application and the state of technological evolution.
+4-the ICP-National Communications Authority (ICP-ANACOM) should issue recommendations on best practices regarding the level of security that these measures should achieve.
+5-the ICP-ANACOM must, directly or through an independent entity, audit the measures adopted in accordance with the previous numbers.
+6-the ICP-ANACOM must establish the plan of these audits, in order to cover, in particular, the determination of the procedures and reference standards to be applied to them and the requirements that are due to the auditors.
+7-ICP-ANACOM, or an independent entity designated by it, may also carry out extraordinary security audits.
+8 - for the purposes of the application of paragraphs 4 to 7 of this article, if measures that may involve matters of protection of personal data are concerned, the ICP-ANACOM must request an opinion from the National Data Protection Commission (CNPD).
+9-without prejudice to the provisions of the law on the protection of personal data, the measures referred to in Paragraphs 1 to 3 shall at least include:
+a) Measures to ensure that only authorized personnel can have access to personal data, and only for legally authorized purposes;
+b) the protection of personal data transmitted, stored or otherwise processed, against unauthorized or accidental destruction, loss, alteration, disclosure or access;
+C) measures to ensure the application of a security policy in the processing of personal data.
+10-in the event of a particular risk of breach of network security, undertakings offering publicly accessible electronic communications services shall inform subscribers of such services free of charge of the existence of the risk and, where the risk is outside the scope of the measures to be taken by the service provider, of possible solutions to avoid it and of the likely costs arising therefrom.
+Article 3.º-A
+Notification of personal data breach
+1-companies that offer publicly accessible electronic communications services must, without undue delay, notify the CNPD of the occurrence of personal data breach.
+2 - when the personal data breach referred to in the previous issue may adversely affect the personal data of the subscriber or user, companies offering publicly accessible electronic communications services must also, without undue delay, notify the subscriber or user of the breach, so that they can take the necessary precautions.
+3-a breach of personal data adversely affects the data or privacy of the subscriber or user whenever it may result, in particular, in identity theft or fraud, physical damage, significant humiliation or damage to reputation, when associated with the provision and use of publicly accessible electronic communications services.
+4 - the regime provided for in Paragraph 2 does not apply in cases where companies offering electronic communications services accessible to the public prove to the CNPD, and the latter recognizes, that they have adopted the appropriate technological protection measures and that these measures have been applied to the data to which the violation relates.
+5-the measures referred to in the previous paragraph must make the data incomprehensible to all persons not authorized to access them.
+6-without prejudice to the notification obligation referred to in Paragraph 2, when the company offering publicly accessible electronic communications services has not yet notified the breach of personal data to the subscriber or user, the CNPD may require the same notification, taking into account the likelihood of adverse effects arising from the breach.
+7-the minimum elements of the notification referred to in Paragraph 2 are the identification of the nature of the breach of personal data and the contact points where additional information can be obtained, as well as the recommendation of measures aimed at limiting any adverse effects of the said breach.
+8 - in the notification to the CNPD provided for in Paragraph 1, the company that offers electronic communications services accessible to the public must, in addition to the elements contained in the previous number, indicate the consequences of the personal data breach and the measures proposed or taken by it to deal with the breach.
+9-the CNPD May, in accordance with the decisions of the European Commission, issue guidelines or instructions on the circumstances in which companies offering publicly accessible electronic communications services are required to notify the breach of personal data, as well as on the form and procedure applicable to such notifications.
+10-in order to verify, by the CNPD, compliance with the obligations established in this article, companies that offer electronic communications services accessible to the public must establish and maintain a record of the situations of personal data breach, indicating the facts concerning them, their effects and the measures adopted, including the notifications made and the remedial measures taken.
+Article 4.º
+Inviolability of electronic communications
+1-undertakings offering electronic communications networks and or services shall ensure the inviolability of communications and their traffic data carried out through public communications networks and publicly accessible electronic communications services.
+2-it is forbidden to listen, install listening devices, store or other means of interception or surveillance of communications and their traffic data by third parties without the prior and express consent of the users, except in cases provided for by law.
+3-the provisions of this article do not prevent legally authorized recordings of communications and their traffic data, when carried out within the framework of lawful commercial practices, for the purpose of proof of a commercial transaction or any other communication made within the framework of a contractual relationship, provided that the data subject has been informed of this and given his consent.
+4-recordings of communications from and to public services intended to provide emergency situations of any nature are authorized.
+Article 5.º
+Storage and access to information
+1-the storage of information and the possibility of access to information stored on the terminal equipment of a subscriber or user are only allowed if they have given their prior consent, based on clear and complete information in accordance with the law on protection of personal data, namely regarding the purposes of processing.
+2 - the provisions of this article and the previous article do not prevent technical storage or access:
+(a) for the sole purpose of transmitting a communication through an electronic communications network;
+b) strictly necessary for the provider to provide an information society service expressly requested by the subscriber or user.
+Article 6.º
+Traffic data
+1 - without prejudice to the provisions of the following paragraphs, traffic data relating to subscribers and users processed and stored by companies offering electronic communications networks and or services must be deleted or made anonymous when they are no longer necessary for the purpose of transmitting the communication.
+2-the processing of traffic data necessary for the billing of subscribers and the payment of interconnections, namely:
+a) subscriber's number or identification, address and post type;
+b) total number of units to be charged for the counting period, as well as the type, start time and duration of calls made or the volume of data transmitted;
+c) date of call or service and number called;
+(d) other payment information, such as advance payments, instalment payments, connection cuts and notices.
+3-the treatment referred to in the previous number is only lawful until the end of the period during which the invoice can be legally contested or the payment claimed.
+(4) The companies, which provide electronic communications services, it can only process the data referred to in no. 1, if the subscriber or user to whom the data relate has given his prior written consent, which may be withdrawn at any time, and solely to the extent necessary and for the time that is required for the marketing of electronic communications services or the provision of value-added services.
+5 - in the cases provided for in Paragraph 2 and, before obtaining the consent of subscribers or users, in the cases provided for in paragraph 4, companies offering electronic communications services must provide them with accurate and complete information on the type of data that is processed, the purposes and duration of such processing, and on its possible availability to third parties for the purpose of providing value-added services.
+6 - the processing of traffic data should be limited to workers and employees of companies offering publicly accessible electronic communications networks and or services in charge of invoicing or traffic management, customer information, fraud detection, marketing of publicly accessible electronic communications services, or the provision of value-added services, being limited to what is necessary for the purposes of said activities.
+7 - the provisions of the previous paragraphs do not prejudice the right of the courts and other competent authorities to obtain information relating to traffic data, in accordance with the applicable legislation, for the resolution of disputes, in particular those relating to interconnections or billing.
+Article 7.º
+Location data
+1 - in cases where location data are processed, in addition to traffic data, relating to subscribers or users of public communications networks or electronic communications services accessible to the public, the processing of this data is allowed only if they are made anonymous.
+2-it is allowed the registration, processing and transmission of location data to organizations with legal competence to receive emergency calls for the purposes of responding to these calls.
+3 - similarly, the processing of location data is allowed to the extent and for the time necessary for the provision of value-added services, provided that prior and express consent is obtained from subscribers or users.
+4-companies that offer publicly accessible electronic communications services must, in particular, inform users or subscribers, before obtaining their consent, about the type of location data that will be processed, the duration and purposes of the processing and the possible transmission of the data to third parties for the purpose of providing value-added services.
+5-companies offering publicly accessible electronic communications services must guarantee subscribers and users the possibility of, through a simple and free means:
+a) withdraw at any time the consent previously granted for the processing of the location data referred to in the previous numbers;
+B) temporarily refuse the processing of such data for each connection to the network or for each transmission of a communication.
+6 - the processing of location data should be limited to workers and employees of companies that offer networks and or electronic communications services accessible to the public or third parties that provide the service of added value, and should be limited to what is necessary for the purposes of said activity.
+Article 8.º
+Detailed billing
+1-subscribers have the right to receive non-itemized invoices.
+2-companies that offer publicly accessible electronic communications networks and or services must reconcile the rights of subscribers who receive itemized invoices with the right to privacy of the users who call and the subscribers called, in particular by submitting to the approval of the CNPD proposals for means that allow subscribers anonymous or strictly private access to publicly accessible electronic communications services.
+3-the approval by the CNPD, referred to in the previous issue, is subject to mandatory prior opinion of the ICP-ANACOM.
+4-calls provided to the subscriber free of charge, including calls to emergency or assistance services, must not be included in the itemized billing.
+Article 9.º
+Identification of the calling line and the Connected line
+1 - when the presentation of the caller ID is offered, companies offering publicly accessible electronic communications services must ensure, Line by line, to the subscribers making the calls and, in each call, to the other users the possibility, through a simple and free means, to prevent the presentation of the caller ID.
+2 - when the presentation of the caller ID is offered, companies offering electronic communications services must ensure to The called subscriber the possibility of preventing, through a simple and free means, in the case of a reasonable use of this function, the presentation of the caller ID in incoming calls.
+3 - in cases where the identification of the calling line is offered before the call is answered, companies offering electronic communications services must guarantee the called subscriber the possibility of rejecting, through a simple means, unidentified incoming calls.
+4 - when the identification of the Connected line is offered, companies offering electronic communications services must guarantee the subscriber called the possibility of preventing, through a simple and free means, the presentation of the identification of the Connected line to the user making the call.
+5-the provisions of Paragraph 1 of this article shall also apply to calls to countries that do not belong to the European Union originating in national territory.
+6-paragraphs 2, 3 and 4 shall also apply to inbound calls originating in countries outside the European Union.
+7-companies that offer publicly accessible electronic communications networks and or services are obliged to make available to the public, and in particular to subscribers, transparent and up-to-date information on the possibilities referred to in the previous issues.
+Article 10.º
+Exceptions
+1 - Undertakings offering publicly accessible electronic communications networks and or services shall, where this is compatible with the principles of necessity, adequacy and proportionality, cancel for a period of not more than 30 days the elimination of the presentation of the calling line, at the request, in writing and duly substantiated, of a subscriber wishing to determine the origin of unidentified calls disturbing family peace or the intimacy of private life, in this case, the telephone number of the calling subscribers who have deleted the line identification is recorded and communicated to The called subscriber.
+2 - in the cases provided for in the previous issue, the cancellation of the elimination of the presentation of the calling line must be preceded by a mandatory opinion by the CNPD.
+3-the companies referred to in Paragraph 1 shall also cancel, on a line-by-line basis, the deletion of the presentation of the calling line and record and make available the location data of a subscriber or user, in the case provided for in Article 7 (2).º, in order to make this data available to organizations with legal competence to receive emergency calls for the purposes of responding to these calls.
+4 - in the cases of the previous issues, prior information must be transmitted to the holder of said data, on the transmission thereof, to the subscriber who requested them in accordance with paragraph 1 or to the emergency services in accordance with paragraph 3.
+5 - the duty of information to the data subjects must be exercised by the following means:
+a) in the cases of Paragraph 1, by issuing an automatic recording before the establishment of the call, which informs the data subjects that, from that moment and for the prescribed period, their telephone number ceases to be confidential in the calls made to the subscriber who requested the identification of the number;
+(b) in the cases of Paragraph 3, by inserting general contractual clauses in the contracts to be concluded between subscribers and undertakings providing electronic communications networks and or services, or by Express communication to subscribers in contracts already concluded, enabling the transmission of that information to the emergency services.
+6 - the existence of the register and the communication referred to in Paragraphs 1 and 3 shall be the subject of information to the public and its use shall be restricted to the purpose for which it was granted.
+Article 11.º
+Automatic call forwarding
+Undertakings offering publicly accessible electronic communications networks and / or services shall ensure that subscribers can, through a simple and free means, interrupt the automatic forwarding of calls made by third parties to their terminal equipment.
+Article 12.º
+(Withdrawn.)
+Article 13.º
+Subscriber lists
+1-subscribers must be informed, free of charge and before the inclusion of their data in lists, printed or electronic, accessible to the public or that can be obtained through List Information Services, about:
+(a) the purposes for which the lists are intended;
+(b) any other use possibilities based on search functions incorporated in electronic versions of the lists.
+2-subscribers have the right to decide on the inclusion of their personal data in a public list and, if so, decide which data to include, insofar as these data are relevant for the purposes for which the lists are intended, as stipulated by the provider.
+3-subscribers must be guaranteed the possibility, without additional costs, to verify, correct, amend or withdraw the data included in said lists.
+4-the additional express consent of the subscribers must be obtained for any use of a public list that does not consist of the search for coordinates of the persons based on the name and, if necessary, a minimum of other identification elements.
+Article 13.º-A
+Unsolicited communications
+1-the sending of unsolicited communications for direct marketing purposes, in particular through the use of automated call and communication systems that do not depend on human intervention (automatic calling devices), fax or e-mail devices, including SMS (Short Message Services), EMS (enhanced message services) MMS (multimedia message services) and other similar applications, is subject to the prior and express consent of the subscriber who is a natural person, or the user.
+2 - the provisions of the previous number do not apply to subscribers who are legal persons, and unsolicited communications for direct marketing purposes are allowed until subscribers refuse future communications and subscribe to the list provided for in Article 13 (2).º-B.
+(3) The provisions of the preceding paragraphs shall not prevent the vendor of a certain product or service that they have received from their clients, in accordance with the Law on the Protection of Personal Data, in connection with the sale of a product or service, its coordinates, electronic contacts, you can use them for the purpose of conducting direct marketing of its own similar products or services to the transaction, as long as you ensure to the clients in question, clearly, and explicitly, and the opportunity to object, free of charge, and the use of these coordinates:
+(a) at the time of collection; and
+b) at the time of each message, when the customer has not initially refused such use.
+4-it is forbidden to send e-mail for direct marketing purposes, concealing or concealing the identity of the person on whose behalf the communication is made, in violation of Article 21.º of Decree-Law No. 7/2004, of 7 January, without the indication of a valid means of contact to which the recipient can send a request to terminate these communications, or that encourages recipients to visit websites that violate the provisions of said Article.
+5 - for the protection of the interests of their customers, as part of their commercial interests, the providers of electronic communications services accessible to the public have the legitimacy to propose legal actions against the author of the breach of any of the provisions contained in this article, as well as in Article 13.º-B.
+Article 13.º-B
+Lists for the purpose of unsolicited communications
+1 - Entities that promote the sending of communications for direct marketing purposes, in particular through the use of automated calling and communication systems that are not dependent on human intervention (automatic calling machines), fax machines or electronic mail, including SMS (Short Message Services), EMS (enhanced message services) MMS (multimedia message services) and other similar applications, shall be maintained by themselves or by bodies representing them., an updated list of persons who have expressly and free of charge given their consent to receive such communications, as well as customers who have not objected to their receipt under Article 13 (3).º-A.
+2 - it is the responsibility of the Consumer Directorate-General (DGC) to keep up to date a national list of legal persons who expressly object to the receipt of unsolicited communications for direct marketing purposes.
+3 - for inclusion in the lists referred to in the previous numbers can not be charged any amount.
+4-inclusion in the list referred to in Paragraph 2 depends on the completion of an electronic form made available through the DGC website.
+5-entities that promote the sending of communications for direct marketing purposes are obliged to consult the list, updated monthly by the DGC, which makes it available at your request.
+Article 13.º-C
+Cross-border cooperation
+1-without prejudice to the powers assigned to other entities, the CNPD and the ICP-ANACOM May, in their respective areas of competence, approve measures to ensure effective cross-border cooperation in the implementation of this law.
+2 - whenever the CNPD and ICP-ANACOM intend to proceed in accordance with the previous issue, they shall submit to the European Commission, in good time and before the approval of the measures in question, a summary of the reasons for the action, the requirements envisaged and the proposed actions.
+Article 13.º-D
+Competencies of CNPD and ICP-ANACOM
+Within the scope of the competences assigned to them by this law, the CNPD and the ICP-ANACOM May, in their respective areas of competence:
+A) develop regulations regarding the practices to be adopted to comply with this law;
+B) give orders and make recommendations;
+C) advertise on their websites the codes of conduct of which they are aware;
+d) advertise on their websites other information that they consider relevant.
+Article 13.º-E
+Provision of information
+1-the entities subject to obligations under this law must, when requested, provide ICP-ANACOM, in its respective area of competence, all information related to its activity, so that these authorities can exercise all the powers provided for therein.
+2-the requests for information referred to in the previous paragraph must comply with the principles of suitability for the purpose for which they are intended and proportionality and must be duly substantiated.
+3-the information requested must be provided within the deadlines, in the form and with the degree of detail required by ICP-ANACOM, which can also establish the circumstances and the periodicity of its sending.
+4 - for the purposes of Paragraph 1, entities must identify, in a reasoned manner, the information they consider confidential and must add, if justified, a non-confidential copy of the documents containing such information.
+CHAPTER III
+Sanctions Regime
+Article 13.º-F
+Failure
+1-without prejudice to other applicable sanctioning mechanisms, whenever the CNPD or the ICP-ANACOM, in their respective areas of competence, verify the infringement of any obligation arising from this law, they must notify the infringer of this fact and give him the possibility to within a period of not less than 10 days to pronounce and, if appropriate, put an end to the breach.
+2 - after proceeding to the hearing, in accordance with the previous number, the CNPD or the ICP-ANACOM, in their respective areas of competence, may require the offender to cease the breach immediately or within the reasonable period set for that purpose.
+3-If the offender does not put an end to the default within the period referred to in the previous numbers, it is up to the CNPD or ICP-ANACOM, in their respective areas of competence, to take appropriate and proportional measures to ensure compliance with the obligations referred to in Paragraph 1 of this article, namely the application of compulsory pecuniary sanctions in
+Article 13.º-G
+Surveillance
+It is the responsibility of the CNPD and the ICP-ANACOM, in their respective areas of competence established in accordance with the provisions of Article 15.º, the supervision of compliance with this law, through, respectively, the vowels and technicians duly mandated by the CNPD, in accordance with the law on protection of personal data and the supervisory agents or agents duly accredited by ICP-ANACOM, in accordance with Article 112.º of the Electronic Communications Act.
+Article 14.º
+Counter-ordering
+1 - constitutes counter-order punishable by a minimum fine of (euro) 1500 and a maximum fine of (euro) 25 000, when practiced by natural persons, and a minimum fine of (euro) 5000 and a maximum fine of (euro) 5 000 000, when practiced by legal persons:
+(a) non-compliance with the network security rules imposed by Article 3 (1), (2), (3) and (10).º;
+b) non-compliance with the security rules in the processing of personal data imposed by Article 3 (9).º;
+(c) the breach of the obligations laid down in Article 3 (1), (2), (3), (4), (5) and (10).º-A or determined in accordance with paragraphs 6 and 9 thereof;
+(d) the breach of the obligation set out in Article 4 (1).º, of the prohibition set out in Article 4 (2).º and the making of recordings in disregard of Article 4 (3).º;
+(e) failure to comply with the conditions of storage and access to information provided for in Article 5.º;
+(f) sending communications for direct marketing purposes in breach of Article 13 (1) and (2).º-A;
+(g) the breach of the obligations imposed by Article 13 (3).º-A;
+h) sending e-mail in violation of Article 13 (4).º-A;
+(i) the breach of the obligation set out in Article 13 (1).º-B;
+(J) violation of Article 13 (3).º-B by the entities provided for in Paragraph 1;
+(k) the breach of the obligation to provide information set out in Article 13.º-E;
+l) non-compliance with orders or resolutions of the CNPD, issued in accordance with Article 13.º-D and regularly communicated to its addressees;
+m) failure to comply with ICP-ANACOM orders or resolutions issued pursuant to Article 13.º-D and regularly communicated to their addressees.
+2 - constitutes counter-order punishable by a minimum fine of (euro) 500 and a maximum fine of (euro) 20 000, when practiced by natural persons, and a minimum fine of (euro) 2500 and a maximum fine of (euro) 2 500 000, when practiced by legal persons:
+(a) the breach of the notification requirements laid down in Article 3 (7), (8) and (10).º-A or determined in accordance with paragraph 9;
+(b) failure to comply with the conditions for processing and storing traffic data and location data provided for in Articles 6.º e 7.º;
+(c) the breach of the obligations laid down in Article 8 (1), (2) and (4).º and in Articles 9.º e 11.º;
+(d) the breach of the obligations provided for in Article 10.º;
+(e) violation of Article 13.º
+3-whether the counter-order consists in the non-fulfillment of a legal duty or in the non-fulfillment of an order or resolution emanating from the CNPD or the ICP-ANACOM, in their respective areas of competence, the application and compliance of the sanctions do not exempt the offender from compliance, if this is still possible.
+4-the CNPD or the ICP-ANACOM, in their respective areas of competence, may order the offender to comply with the duty or order in question, under penalty of compulsory pecuniary sanction in accordance with Article 15.º-C.
+5-negligence and attempt are punishable, with the minimum and maximum limits of the fine reduced by half.
+Article 15.º
+Processing and enforcement of fines
+1-it is the responsibility of the CNPD to initiate, instruct and file cases of contraordination, as well as the application of admonitions, fines and ancillary sanctions, for violation of the provisions of Article 3, paragraph 9.º, in Article 3.Article 4 (3).º, in Articles 5.º, 6.º e 7.Article 8 (1), (2) and (4).º, in Article 10.º, in Article 13.Article 13 (1) to (4).A, in Article 13 (1) and (3).B and Article 14 (1) (l).º
+2-ICP-ANACOM is responsible for the establishment, investigation and filing of counter-orders, as well as the application of warnings, fines and ancillary sanctions, for violation of the provisions of Article 3 (1), (2), (3) and (10).Article 4 (1) and (2).º, in Article 9.º, in Article 11.º, in Article 13.º-E and Article 14 (1) (m).º
+3 - the establishment of counter-ordering procedures and the respective application of fines relating to the unlawful acts provided for in the previous issue are the competence of the board of Directors of ICP-ANACOM, and the instruction to the respective services is the responsibility.
+4-the powers provided for in the previous issue may be delegated.
+5-the amount of fines reverts to the state by 60% and to the CNPD or to the ICP-ANACOM, depending on the cases, by 40%.
+Article 15.º-A
+Ancillary sanctions
+1 - in the context of the counter-orders provided for in Article 15 (2).º, whenever the seriousness of the infringement and the fault of the agent justifies it, the ICP-ANACOM may apply an accessory penalty of loss in favor of the state of illicit objects, equipment and devices, including the proceeds of the benefit obtained by the offender through the practice of counterordering.
+2 - anyone who disrespects an accessory penalty that has been applied to him, incurs a crime of qualified disobedience.
+Article 15.º-B
+Loss to the state
+1-without prejudice to the provisions of Paragraph 1 of the previous article, are considered lost in favor of the state the objects, equipment and illicit devices that have been precautionary or provisionally seized by ICP-ANACOM and that, after notification to the interested parties to collect them, have not been claimed within 60 days.
+2-the objects, equipment and illicit devices lost in favor of the state revert to the ICP-ANACOM, which will give them the destination that it deems appropriate.
+Article 15.º-C
+Compulsory financial penalties
+1. Without prejudice to any other sanctions to be applicable in the event of non-compliance to the decisions of the CNPD or ICP-ANACOM to impose administrative sanctions or to order, in exercise of the powers that be, legally they are entitled to, to the adoption of a behavior or action specific to the recipient of this law, those authorities duly justified to impose a periodic penalty payment in the cases referred to in the n. 1, 3, 4) and (5) in article 10.Article 13 (1), (3) and (4).º E in Article 14 (1) (a) to (i), (j) and (l) to (m) and (a), (b), (c), (d) and (e).º
+2 - the compulsory pecuniary penalty consists in imposing on its recipient the payment of a pecuniary amount for each day of delay in compliance beyond the deadline set therein.
+3-the compulsory sanction is fixed according to criteria of reasonableness and proportionality, taking into account the economic situation of the offender, in particular his turnover in the previous calendar year, and the negative impact of the default on the market and users, and the daily amount can be between (euro) 500 and (euro) 100 000.
+4 - the amounts fixed in accordance with the previous paragraph may vary for each day of default, in an increasing sense, and may not exceed the maximum amount of (euro) 3 000 000 or the maximum duration of 30 days.
+5 - the amount of the penalty applied reverts to the state by 60% and to the CNPD or to the ICP-ANACOM by 40%.
+6-the acts of the CNPD and the ICP-ANACOM, practiced under this article may be appealed, depending on whether they are practiced in the context of a counter-order or administrative proceeding, in accordance with the legislation applicable to each type of proceeding in question.
+Article 16.º
+Subsidiary legislation
+In all that is not provided for in this law, the sanctioning provisions contained in articles 33 shall apply.º a 39.º of the Personal Data Protection Law.
+CHAPTER IV
+Final and transitional provisions
+Article 17.º
+Technical characteristics and standardization
+1-compliance with the provisions of this law shall not determine the imposition of specific technical requirements of terminal equipment or other electronic communications equipment that may prevent the placing on the market and circulation of these equipment in the countries of the European Union.
+2-except for the provisions of the previous issue, the preparation and issuance of specific technical characteristics necessary for the implementation of this law, which must be communicated to the European Commission in accordance with the procedures provided for in Decree-Law no.58/2000, of 18 April.
+Article 18.º
+Transitional provisions
+1-Article 13.º is not applicable to editions of lists already prepared or placed on the market, in printed or electronic format offline, before the entry into force of this law.
+2 - in the event that the personal data of subscribers of publicly accessible fixed or mobile telephone services have been included in a public list of subscribers, in accordance with the previous legislation and before the entry into force of this law, the personal data of these subscribers may remain in this public list in its printed or electronic versions.
+3 - in the case provided for in the previous issue, subscribers have the right to decide on the withdrawal of their personal data from the public list in question, and must receive in advance complete information on the purposes and options of the same in accordance with Article 13.º
+4-the information referred to in the previous number must be sent to subscribers within a maximum period of six months from the date of entry into force of this law.
+Article 19.º
+Revocation
+Law No. 69/98 of 28 October is repealed.
+Article 20.º
+Entry into force
+This law shall enter into force on the day following its publication.

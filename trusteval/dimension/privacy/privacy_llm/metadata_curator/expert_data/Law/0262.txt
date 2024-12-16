@@ -1,0 +1,3768 @@
+Page 1
+
+RECOMMENDATION
+no. 01/2020 of January 17, 2020
+
+Regarding the processing of
+personal data for direct
+marketing purposes
+
+Page 2
+
+I.
+
+PREFACE ................................................. .................................................. ................................ 4
+Preface .................................................. .................................................. ............................... 4
+Context and scope of the Recommendation .......................................................... .................... 5
+Legal framework .................................................. .................................................. ......................... 7
+
+II.
+
+Direct marketing : what are we talking about ? .................................................. ................... 8
+Direct marketing, that is: ............................................... .................................................. ............... 8
+1.
+
+Definition .................................................. .................................................. ................................... 8................
+
+2.
+
+Key Concepts .................................................................. .................................................. ................... 9
+
+III.
+
+Direct marketing and protection of personal data : how to act in
+
+compliance with the rules? .................................................. ................................................ 16
+Actors and roles in direct marketing defined by the GDPR ................................................. 16
+1.
+
+Controller and joint controllers ..................................................... 16
+
+2.
+
+Processor .................................................. .................................................. ............................. 19
+
+3.
+
+Sale, rental, enrichment of personal data ................................................. ........................ 23
+
+4.
+
+Subsidiaries – Mergers, Demergers and Acquisitions ......................................... ............... 27
+Determine your processing purposes ................................................................ ................................... 27
+
+1.
+
+Initial purpose(s) ................................................. .................................................. ................... 27
+
+2.
+
+Further purpose(s) ................................................... .................................................. .................. 29
+Define your processing operations ................................................... ......................................... 31
+
+1.
+
+Understanding................................................. .................................................. ................................... 31
+
+2.
+
+Profiling .................................................. .................................................. ......................... 34
+Identify the Data Needed in Pursuing Your Purposes ................................ 37
+
+1.
+
+The concept of "personal data" ................................................................ .................................................. 37
+
+2.
+
+Principle of data minimization ................................................... ............................................... 38
+
+3.
+
+Stay in control of your data management ................................................... ................................... 40
+Check if you have a legal basis ................................................. .................. 45
+
+1.
+
+Why a legal basis? .................................................. .................................................. .... 45
+
+2.
+
+Is it possible to change the legal basis? .................................................. ....................... 45
+
+3.
+
+Which legal basis for direct marketing processing? .................................................. .......... 46
+
+4.
+
+Legitimate interest .................................................. .................................................. .......... 49
+
+2
+
+Page 3
+
+5.
+
+The permission ................................................ .................................................. ................... 59
+Be transparent ................................................... .................................................. ................... 75
+
+IV.
+
+Conclusion ................................................. .................................................. .......................... 78
+
+3
+
+Page 4
+
+I.
+
+PREFACE
+Preface
+
+1. Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the
+protection of natural persons with regard to the processing of personal data and concerning
+the free movement of those data (hereinafter "GDPR") came into effect on 25 May 2018. She draws the Directive from
+the European Parliament and of the Council of 24 October 1995 on the protection of natural
+persons in connection with the processing of personal data and on the free movement of those
+data (hereinafter "Directive 95/46/EC") and confirms and consolidates the rules as those
+by the Court of Justice of the European Union and by the Working Group Article 29 1 were applied by
+through official positions and guidelines. By moving from a directive to a regulation
+the European legislator has adopted the protection of personal data, which is stated in Article 8 of the Charter of
+the fundamental rights of the European Union is enshrined as a fundamental right, directly and uniformly in
+want to make the Member States applicable 2 .
+
+2. One of the main objectives of the GDPR is to strengthen the rights of data subjects.
+In particular, the GDPR confers important powers on the supervisory authorities, so that they also
+may impose sanctions in the event of non-compliance with the rules laid down therein. From the Eurobarometer
+of May 2019 on the GDPR shows that data subjects' knowledge of the applicable
+data protection rules and about their rights is clearly increasing 3 . This way they practice more than before
+their rights 4 . This is the case, for example, for withdrawing their consent or opposing
+against the processing of their data for commercial messages 5 .
+
+3. It is in light of these enhanced rights that many consumer and civil rights organizations are
+agree that the GDPR contributes strongly to a just digital society, based on the
+mutual trust between involved persons and actors involved in the processing of
+their data 6 .
+
+The Article 29 Working Party has been replaced by the European Data Protection Board (often referred to as Engelse
+“EDPB”), which takes over the different positions taken by the Article 29 Working Group. Therefore, in this recommendation there will be
+reference is made to the positions of the EDPB.
+1
+
+2
+
+With, with a few exceptions, some leeway for national legislators, which we will not elaborate on in this Recommendation.
+
+3
+
+https://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/survey/getsurveydetail/instruments/special/surveyky/2222; or also
+https://ec.europa.eu/commission/presscorner/detail/en/IP_19_2956 .
+4
+
+https://ec.europa.eu/commission/sites/beta-political/files/infographic-gdpr_in_numbers_1.pdf
+
+See the report of the "Multistakeholder Group on the General Data Protection Regulation" published alongside the European Commission
+established and involving civil society and representatives of the professional sectors, academics and practitioners
+involved, which is available at the following link:
+5
+
+https://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3537
+See in this regard the communication from the European Commission to the European Parliament and the Council of 24 July 2019 at the following
+link: https://ec.europa.eu/commission/sites/betapolitical/files/gdpr_communication.pdf?utm_source=POLITICO.EU&utm_campaign=7a63680badEMAIL_CAMPAIGN_2019_07_24_10_41&utm_medium=email&utm_term=0_10959edeb5-7a63680bad-190036317
+6
+
+4
+
+Page 5
+
+4. To ensure this objective, the GDPR places emphasis on making the various de
+actors who process personal data, whether it be individuals, professionals, a
+legal entity or government, and this at every stage of the processing, whether national, European or
+international level.
+
+5. Consequently, the role of the supervisory authorities is not limited to ex post action against these
+the latter when they violate the rules of the GDPR. Given the significant sanctions to which it is subject
+and the fact that personal data has become indispensable in the exercise of most
+socio-economic activities, the support of data controllers by the
+data protection authorities is one of their main competences.
+
+Direct marketing is one of the sectors that strategic plan of the Data Protection Authority (hereinafter
+"DPA" or "Authority") as a priority in the various actions it intends to take
+undertake. One of these actions is to provide, through this recommendation, an interpretation of the rules that
+apply to the processing of personal data for direct marketing purposes and becomes a framework of
+provide good practices. In order to ensure a harmonized approach to this interpretation and this good
+practices, the DPA relies in particular on all relevant guidelines issued by the European Supervisory Authority for
+data protection (hereinafter "EDPB") have been established.
+
+However, the EDPB has not established general guidelines for direct marketing as such. If this is the case
+and taking into account any future European position related to this
+recommendation, the DPA will take this into account and adjust the content of this recommendation if necessary.
+
+Context and scope of the Recommendation
+6. Many actors make daily use of direct marketing messages aimed at millions
+concerned. Such messages involve the processing of personal data. The
+regularity, complexity and duplication of this data processing as well as of the
+operators active in it provides a breeding ground for the repetition of certain practices that
+sometimes turn out to be contrary to the rules of the GDPR. To the marketing adage " the right message"
+
+address to the right person at the right time ”, need to add in the right way ”, because
+the GDPR is now an integral part of your marketing campaigns.
+
+7. While in the context of direct marketing it is a framework of
+may seem like binding rules, the GDPR is also an indispensable and useful ally in your relationship with the
+stakeholders, whether they are customers, potential candidates, members, subscribers or voters. It's through on
+
+5
+
+Page 6
+
+communicate with them in a transparent way about how you process personal data and by
+show that you take appropriate measures to ensure that the processing is in accordance with
+regulations, that you can establish a relationship of trust necessary to achieve your objectives
+achieve and maintain. The GDPR is therefore also an opportunity and a competitive argument
+of the first order.
+
+8. In order to answer the questions in this regard as best as possible, the GBA issued a public . on 12 July 2019
+consultation held for controllers active in the field of direct
+marketing, to gauge their difficulties since the entry into force of the GDPR
+encountered.
+
+9. This mainly showed that Recommendation No. 02/2013 of 30 January 2013 on direct
+marketing and data protection does not answer all the questions that arose as a result of the
+adoption of the GDPR and/or the refinement of direct marketing techniques, mainly related to
+have the ability to find a legal ground to prevent the intended processing of
+to legitimize personal data, to exercise the rights of the data subjects or to
+scope of the term direct marketing itself, which is not defined by the GDPR.
+The purpose of this recommendation is the data controllers using (or participating in) direct
+marketing techniques to develop the right reflexes so that they can be used in accordance with the applicable rules of
+the GDPR to act. Therefore, this recommendation examines the frequently asked questions related to the
+protection of personal data in the context of direct marketing.
+
+The Recommendation also takes into account, where appropriate, the large number of actors involved in the
+controllers may interact, but is primarily addressed to controllers.
+
+The recommendation is not limited to communications in the context of direct marketing, but also examines all
+processing of personal data carried out for this purpose and the rules that apply to it.
+
+The rules, concepts and principles are based on the GDPR and do not take into account other
+applicable laws. However, the recommendation is also not intended to be an exhaustive study of the GDPR. This
+does not mean that the controllers process that data for direct marketing purposesdoeleinden
+are exempt from compliance with all rules that apply to them, including the rules of the GDPR, and those in
+are not discussed in this recommendation, such as compliance with all rights granted to data subjects on
+pursuant to Articles 12 to 22 of the GDPR or in respect of international transfers, as regulated
+in Chapter V of the GDPR.
+
+The Recommendation also refers to certain sanctions imposed by the Data Protection Authorities in this regard
+have confirmed. However, some of these decisions may be subject to the approval of this
+recommendation be appealed or other legal remedies are used. These decisions can therefore
+be revised if necessary.
+
+6
+
+Page 7
+
+Legal framework
+
+10. Various legal texts may apply in the context of the direct marketing theme. This one
+Recommendation focuses on questions regarding the processing of personal data in direct marketing in
+the light of the GDPR. Reference will therefore only be made to the rules of the AVG.
+
+11. The analysis of the rules of the GDPR is based, where appropriate, on the views of the
+European Data Protection Board (hereinafter “EDPB” 7 ) and from the positions 8 of its predecessor,
+the Article 29 Working Group (hereinafter “Group 29”). Some of the latter's guidelines were adopted by the
+EDPB revised and updated, while others were adopted as such. Become others
+currently revised, but are still valid as of the date of adoption of this Recommendation
+application. If necessary, changes to this recommendation will be made. The EDPB
+should also take positions on questions or topics that have not yet been the subject of previous
+position statements. This applies in particular to the position expected with regard to
+targeting of the social network users. The views of the GBA do not affect future
+positions of the EDPB, which may imply certain amendments to this Recommendation (The DPA
+is part of and bound by the positions of the EDPB). So keep in mind that there are
+several successive versions may appear on the GBA's website.
+
+12. If necessary and to the extent that it provides clarity on these issues, Directive 2002/58/EC of the
+European Parliament and of the Council of 12 July 2002 9 on the processing of personal data and the
+
+protection of privacy in the electronic communications sector (hereinafter referred to as “e-Privacy”)
+Directive”) are discussed. In this regard, it is important to keep in mind that this Guideline
+currently under review. Since the Regulation to replace the latter, on the date of
+publication of this Recommendation is still pending, reference is made to the currently applicable
+articles and does not take a position on possible interactions between the future
+Regulation and the GDPR. If necessary, the current Recommendation will be revised after the entry into force of the said
+Regulation to be supplemented. For more information on the interactions between the GDPR and e-Privacy,
+
+7
+
+The European Supervisor is generally referred to by the English name “European Data Protection Board” and the
+associated acronym “EDPB”.
+8
+
+For a full list of the different decisions taken, amended or confirmed by the EDPB:
+https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en .
+This Directive, which was revised in 2006, has been transposed into our national law by the Act of 13 June 2005 on electronic
+communication, and as set forth in Book VI of the Code of Economic Law by the Act of 21 December 2013 on insertion
+of Title VI "Market Practices and Consumer Protection" in the Code of Economic Law and inserting the definitions
+specific to Book VI, and the provisions for the application of the law specific to Book VI, in Books I and XV of the Code
+of Economic Law.
+9
+
+7
+
+Page 8
+
+the Authority refers the reader to the EDPB's Opinion 5/2019 on this subject, which was issued on 12 March
+2019 was adopted 10 .
+
+II.
+
+Direct marketing : what are we talking about ?
+Direct marketing, that is:
+1.
+
+Definition
+
+13. The DPA uses the term "direct marketing", as the term "prospecting", which is used in recital 47 or in
+Article 21.2 of the GDPR under the term "prospecting" is referred to, in general only pertaining to
+on the search for new customers, distinguishing between potential and
+existing customers. However, the rules of the GDPR that apply to direct marketing apply both to
+applies to communication aimed at "potential" customers as well as to communication aimed at
+current and former customers, members or subscribers. In addition, these rules are not limited to commercial
+activities, but also apply in a broader sense to any form of promotion, in the commercial
+acceptance thereof (including promotion of sales, advertising, election or
+visibility enhancement purposes, but excluding the non-profit promotion of
+public health or other forms of behavior and practices by the government in the exercise of
+her duties are encouraged). Finally, they do not only concern communication as
+such, but also to all processing operations in the context of direct marketing operations. The processing
+of personal data with a view to (automatically) adjusting the price of a product or service
+based on a customer profile, direct marketing operations are 11 .
+
+14. The GDPR does not define what is meant by “direct marketing”. To date there is no
+legal, official or generally accepted definition of this term at European level. Building on
+Recommendation No. 02/2013 of our predecessor of January 30, 2013 on direct marketing and
+protection of personal data on the one hand and the proposal for a regulation of the European Parliament
+and the Council of 18 September 2019 on respect for privacy and the protection of
+personal data in electronic communications and repealing Directive 2002/58/EC 12 , the
+Authority to define the term direct marketing as follows:
+
+Opinion 5/2019 on the interplay between the ePrivacy Directive and the GDPR, in particular regarding the competence, tasks and powers
+of data protection authorities, available via this link:
+10
+
+https://edpb.europa.eu/sites/edpb/files/files/file1/201905_edpb_opinion_eprivacydir_gdpr_interplay_en_0.pdf
+Joseph Turow, Lauren Feldman et Kimberly Meltzer, Open to exploitation: American shoppers online and offline, Annenberg Public Policy
+Center of the University of Pennsylvania, sl, 2005, p.36.
+11
+
+12
+
+The text can be found via this link: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_12293_2019_INIT&from=EN
+
+8
+
+Page 9
+
+Any communication, in whatever form, solicited or unsolicited, from an organization or person and
+aimed at the promotion or sale of services, products (whether or not for payment), as well as brands or ideas,
+addressed by an organization or person acting in a commercial or non-commercial context, which
+is addressed directly to one or more natural persons in a private or professional context and who
+processing of personal data entails.
+
+2.
+
+Key Terms
+
+◆ Any communication, solicited or unsolicited
+
+15. This definition includes all forms of communication, whether or not they are aimed at the promotion of
+goods or services, the promotion of ideas suggested or supported by any person or organization,
+but also the promotion of that person or organization itself, including its brand image or the brands
+owned or used by it, with the exception of the promotion that is
+carried out at the initiative of public authorities acting strictly within the framework of their legal
+obligations or public service duties for services for which they are solely responsible.
+
+Example 1
+A company that sells cleaning products contacts the customers on its list to let them
+know that its products are environmentally friendly.
+
+Example 2
+An NGO sends a mobilization letter for a new campaign to its list of members and donors.
+
+Example 3
+A political party sends an invitation to its contacts to join a meeting - or
+event day to celebrate the new operating year.
+
+16. It is important to keep in mind that the concept of "marketing" does not necessarily have to be
+be interpreted as a message with a commercial or lucrative purpose.
+
+17. In addition, the term direct marketing refers to both solicited and unsolicited communications.
+
+9
+
+Page 10
+
+Example 4
+Mrs. Verdura contacts the collective "Fresh from the land", which provides all kinds of garden information free of charge and
+sells natural products on its online platform to help plants grow. Mrs Verdura fills it
+simplified online contact form to ask which product she should use to clean up the snails in her garden
+a natural way to fight. She must enter her e-mail address in order to receive an answer.
+
+Ms Verdura quickly gets a "technical" answer to her question (the generic name of the substance used in the
+commonly used to control snails) with an offer for their miracle product to combat these pests
+fight. And a few days later she receives the newsletter of "Fresh from the land".
+✓ The technical answer would not be labeled "direct marketing" without the addition of a
+praising the seller's miracle product.
+✓ The dispatch of the newsletter involves various data processing for direct marketing purposes.
+
+18. Finally, the concept of direct marketing does not cover advertisements that appear randomly on the Internet
+appear, such as banner ads, as long as they appear to every visitor to that site,
+without collecting personal data. If a banner ad targets the
+screen appears, for example based on the visitor's browsing history, this is direct marketing.
+The same applies to leaflets that are in all letterboxes in the Kingdom, a Region or a municipality
+are distributed. "Unaddressed mail" is not a priori a direct marketing tool. if
+However, for example, advertising brochures are specifically distributed in the mailboxes of people who are still
+not be a customer of a business that is located in their area and invite them to come to the products
+testing, then that is direct marketing.
+
+19. Any marketing message that does not require any processing of personal data is excluded from the
+concept of "direct marketing" and thus of the scope of application of the rules arising from the GDPR.
+
+◆ Aimed at promoting an organization or a person, services, products, both
+paying as free as well as brands or ideas
+
+20. The purpose of direct marketing communication is to promote something, without this promotion
+must necessarily relate to goods or services.
+
+Example 5
+Mr. Involved regularly receives e-mails from an association that fights against pollution. This association informs
+its members about the actions being taken worldwide. They do not ask for financial support and do not offer
+services or goods.
+✓ Nevertheless, the e-mails sent fall under the rules of direct marketing because they promote the promotions
+of the association and for their image to the public.
+
+10
+
+Page 11
+
+21. On the other hand, direct marketing rules do not apply when contact is made with
+persons,
+
+for instance
+
+consumers,
+
+in front of a
+
+marketing research,
+
+polls
+
+or
+
+satisfaction surveys, provided that the contact is solely for that purpose
+happens.
+
+22. This exception does not apply if the market research or poll is also intended to
+sell or promote goods or services, or if it permits the collection of personal data
+which will then be used for marketing purposes. If this is the intention, it should be clear
+and the persons to whom the survey, survey or poll is being sent must be clear
+be informed. Consequently, the rules iznake direct marketing apply.
+
+If a message is addressed to the data subjects under the guise of a poll or market research without
+that it is disclosed that the actual purpose or at least one of the purposes is direct marketing, there is
+of averting the purpose and thus of a violation of the GDPR rules. It would also be a violation of the email
+Privacy Directive can be if the communication takes place without the consent of the individual, even though it had been
+have to happen.
+
+23. Finally, communications from public authorities conducting certain campaigns (e.g.
+vaccination campaigns) or services (e.g. telephone centers for assistance to persons in difficulty)
+promote what they are legally responsible for or offer as a public service, not
+considered direct marketing communications unless they simultaneously provide specific services or products
+promotion offered by private service providers.
+
+Example 6
+A public service in charge of health-related tasks addresses the data subjects directly, on the basis of
+age and/or gender criteria, with messages to make them aware of certain diseases such as the
+papilloma virus for women in a certain age group, or mumps in case of an epidemic to parents of young
+warn children, or the flu, of those who are most vulnerable because of their older age.
+This form of communication is not direct marketing communication.
+
+On the other hand, if in this communication the name of the vaccine developed by the pharmaceutical company XY becomes XX
+stated, this communication will be considered direct marketing and must therefore comply with the rules
+apply.
+
+◆ By whom?
+
+24. Messages that fall under the rules of direct marketing can be sent by any type of organization
+regardless of whether or not they pursue a commercial purpose. The communication can therefore start from
+companies with lucrative purposes, but also from non-profit organizations, foundations and governments. It can also be
+
+11
+
+Page 12
+
+non-profit individuals as long as their posts are focused on promoting
+matters such as actions taken by them (for example, the government promoting the vaccine of
+the company XY), ideas or views, unless they are made in the context of strictly private and
+household activities.
+
+Example 7
+"Natura First", a nature conservation NGO contacts people who have expressed their wish
+donate to confirm their bank details. If this contact is limited to this verification, the rules of direct
+marketing does not apply to this, as the organization does not promote ideas, services or products.
+
+If this encourages people to make further donations or if information is provided about the
+campaigns, this is direct marketing and the relevant rules do apply.
+
+Example 8
+A political mandatary sends his New Year's greetings to some of his contacts from his private social media account,
+with a private message through his private account. The message sent, which is limited to the New Year's greeting, is not a
+direct marketing communication.
+If he had also sent information with his message about various actions and campaigns of the past
+
+✓
+
+year or for this year, it is about direct marketing.
+If he had used his contact list from his public social media account or any other
+
+✓
+
+source that he does not have on a purely private basis, to send private messages with best wishes, this is
+direct marketing.
+
+25. The reasoning used in the example above also applies to non-commercial
+organizations, such as charities.
+
+26. In contrast, direct marketing does not a priori include communications carried out by
+public authorities acting within the framework of their legal obligations or in the exercise of their
+public service duties. However, if they send messages directly to certain citizens who
+promote a specific private service or organization, direct marketing rules apply.
+
+27. Finally, direct marketing does not include messages sent by natural persons
+sent in the context of purely domestic activities within the meaning of Article 2 and Recital 18 GDPR,
+that the processing of personal data by a natural person in the context of strictly personal
+or household activities and thus does not relate to a professional or commercial activity.
+(for example, sending a wedding invitation and maintaining a database of
+the answers) is excluded from the scope of the GDPR.
+
+12
+
+Page 13
+
+Example 9
+Lucy turns 18. For the occasion, her parents invite all her friends to celebrate and go karting.
+As long as the birthday party is not sponsored by the karting operator and the parents, no free T-shirts and passes
+give away offered by the manager to all the people who come to the birthday party is the
+invitation of course not a direct marketing action.
+
+◆ For whom?
+
+28. The message must be addressed to one or more natural, identified or identifiable persons.
+
+29. The concept of "identified or identifiable natural person" is inextricably linked to the
+definition of personal data, which is decisive for the application of the GDPR.
+
+30. Once the message is addressed to a person, either by name or based on information from that person
+person who allows to contact it (such as, for example, his IP address), we speak of
+direct marketing, to the extent that the other criteria of the definition are met.
+
+Example 10
+While visiting the website "Cherry on the cake", a brand for kitchen appliances, Mr. Sosweet takes a look at a
+a few minutes to the different models of cake pans that are offered for sale. He closes the website without saying anything
+buy and opens his mailbox. Then he sees a pop-up window on the right of his screen with different models of cake pans
+which he viewed, stating: "Fancy baking? Click here!".
+✓ "Cherry on the cake" installed cookies on Mr. Sosweet's computer, giving them information
+can collect such as his IP address and the products he has clicked on. Based on this data
+could "Cherry on the cake" follow Mr. Sosweet's navigation and pop up with targeted direct
+display marketing messages in the space on the host page of mister's email account
+sosweet.
+✓ The message in the pop-up window is subject to direct marketing rules.
+✓ The use of cookies by "Cherry on the cake" for direct marketing purposes must comply with the rules
+of the GDPR and the ePrivacy Directive, which we do not discuss in this recommendation.
+
+31. In addition, regardless of whether the message is addressed to a person in the context of his or her “private life”,
+for example via a personal e-mail address, or in the context of a professional activity, via a professional
+email address, this remains direct marketing, provided that the other criteria of the definition are met.
+
+13
+
+Page 14
+
+Example 11
+The company "Hi Tech" sends one of its employees to a fair on new technologies, which is presented by "Technologia"
+is being organised. Various brands are present in presentation stands and conferences and
+workshops organized. After participating in one of these workshops, the employee fills out a satisfaction form
+in about the workshop but also, more generally, about the entire organization of the fair. He is asked for his
+information and the name of his company if he came in the context of his work. The form states
+" you give us permission to use your data to inform you about future events and fairs ". The
+participants are also asked to hand over their business cards, which is faster than filling out the form.
+They can put their tickets in the specially designated box. The employee is in a hurry, he is late
+business card with his name, first name and email address, as well as the address details of the company "Hi Tech".
+✓ If the organizers of the fair send future announcements about their next events to
+Send "Hi Tech" based on the general contact information provided (without mentioning the name
+and the employee's last name or his/her specific position), this is not direct marketing,
+as there is no processing of personal data;
+✓ If the same notices are made to the Hi Tech employee based on the business
+contact details stated on his business card, the data protection rules that apply
+apply to the processing of personal data for direct marketing, even if it concerns
+his business contact details. In particular, this means that the employee's contact details are not
+may be used for purposes other than those indicated in the form and that
+there can be no question of sending direct marketing messages about anything other than the events
+and trade fairs organized by "Technologia" itself.
+
+Example 11 bis
+Now let's pretend the Hi Tech employee spontaneously gave his business card to some participants or persons
+whom he met at the event, to keep in touch if necessary or just to see each other every now and then.
+Back at work, one of the people he gave his card to decides to get that contact information, as well as all the others
+to encrypt contact details he has obtained in this way in his database, with a view to sending
+messages related to his company's products and services.
+✓ By handing over his business card, the employee has not consented to the processing of his
+data for direct marketing purposes;
+✓ This processing of personal data ignores the purpose for which the business card
+was originally issued.
+
+32. Finally, without prejudice to the conditions necessary to establish the legality of
+messages addressed to these persons , messages addressed to a
+interested party or to a customer/affiliate/subscriber/member also under direct marketing communication,
+as long as they are aimed at promoting your products, your services, your brand image, your company or even
+your ideas.
+
+33. A prospect or an interested party (for example, a potential customer who has a lot of information about your
+products or services, or about your organization) distinguishes itself from your existing customers,
+
+14
+
+Page 15
+
+subscribers, affiliates or members as the former are not yet a product of your organization
+have purchased, have not yet agreed to the delivery of any of your services, or have not yet established a
+are committed to what you offer. Unlike an interested person, a “pure”
+prospect has no relationship with you.
+
+◆ By what means?
+
+34. Direct marketing communications can take many forms. The most obvious distinction
+is the difference between electronic and non-electronic communication.
+
+35. Non-electronic communications include postal or human interaction that does not involve the use of
+is made of electronic technical means, such as going from door to door, for example, when
+the purpose of this is to provide a service or to sell something and this is the processing of personal data
+entails, which are intended to be included in a file . The term
+“file” is important because it frames the material scope of the GDPR .
+
+Example 12
+Every year the Scout Fellowship makes cookies that they sell to raise money for the summer camps, to provide materials
+and to improve their terrain. They send out some scouts to sell them. They go from door to door
+door with the boxes of cookies. They ring the bell at as many houses and apartments as possible in the hope as much as possible
+to collect money.
+✓ If the scouts ring completely randomly and only sell cookies, there is no direct
+marketing because there is no personal data in an organized file or requested
+(such as a list of specific houses or a nominal list of people who have a box of cookies
+purchased);
+✓
+
+But if the scouts are sent to specific houses or apartments to sell boxes to
+persons identified on the basis of, for example, a list drawn up in previous years
+from people who have already bought cookies before, this is direct marketing, as this is the processing
+of personal data in a file.
+
+36. The electronic communications are messages in the form of text, video, photos, images or sounds,
+performed by technological means, such as telephone calls, SMS, MMS, emails, chat rooms, pop-up
+ups or other advertisements whose content is directly related to the processing of
+personal data. This processing can be performed using various techniques and/or
+technologies such as targeting (including microtargeting) or real-time bidding 13 and on various
+channels such as social networking platforms that display personalized content that is personalized
+based on the preferences of the account holder. In this regard, the Authority draws attention
+
+Targeting makes it possible to select potential customers based on their personal data, in particular their surfing behaviour
+on the Web.
+13
+
+15
+
+Page 16
+
+on the guidelines that the EDPB is preparing with regard to targeting issues 14
+
+from social
+
+network users. Any position developed on this issue in this Recommendation will
+be reviewed, as appropriate, to be in line with the EDPB's position on this
+will take.
+
+III. Direct marketing and protection of personal data : how to
+act in accordance with the rules?
+
+Actors and roles in direct marketing defined by the GDPR
+
+37. Many persons, natural or legal persons, may be involved in the processing of the
+personal data necessary for your marketing activities, and the relationships with them can sometimes be
+be complex. As a controller, you are likely to use the services of
+different partners who sometimes act as pure processors or sometimes together with you as joint
+controllers. It is important that you define the role of each person to ensure both your
+understand their obligations like this.
+
+1.
+
+Controller and joint controllers
+
+38. You are a “controller” when you, alone or jointly with others , determine the purposes and
+means of processing personal data.
+
+39. It is important to remember that an organization is not "by nature" a data controller
+or processor. Everything depends on how the organization actually behaves. You serve
+ask yourself for every action you perform with personal data who is the purpose of the processing
+and the way in which the data in question is processed.
+
+40. To fulfill your role and that of other parties (such as technical service providers or third parties who
+provide), ask yourself the following questions:
+✓ Who decides in the first instance to collect personal data and what type(s)
+personal data should be collected there;
+✓ Who determines the persons or categories of persons involved;
+✓ Who determines which data or which categories of data should be collected;
+
+Real-time bidding is an advertising technique that allows advertising agencies working for advertisers to sell advertising space on a web page
+solicit and auction them to the highest bidder. To be interested in any of these available advertising spaces,
+the advertising agencies examine the available information about the location itself, but also about the users of the concerned
+website, to know if the target group of their advertising campaign matches and this with the intention of even more targeted marketing
+to offer.
+14
+
+16
+
+Page 17
+
+✓ Who determines the purpose(s) for which the data is used;
+✓ Who determines and guarantees the legal basis for doing so (consent, legal obligation,
+legitimate interest, etc.);
+✓ Who determines whether the data should be passed on, and if so, to whom;
+✓ Who determines the content of the information provided to the persons concerned with regard to the
+processing or processing operations applied to their data;
+✓ Who determines how long the data is kept; and
+✓ Who decides how to respond when data subjects exercise their rights.
+
+41. All these decisions can only be made by the controller in the context
+of his or her overall control over the data processing. If you make any of these decisions, then
+you are more than likely a data controller.
+
+42. Article 26 of the GDPR also provides for the situation where two or more controllers coexist, the so-called “joint controllers”. This is the case when
+several operators/organizations jointly determine the purpose and means of the processing.
+Article 26 of the GDPR provides that in that case the joint controllers will
+obligations in a transparent manner by means of an agreement, which
+correctly reflects their respective roles with regard to the persons involved.
+
+Example 13
+The retail chain "Goed en Koop" has decided to set up a common internet platform with other
+chain stores such as "The Good one" and "Vous c'est Nous", to enhance their cooperation as a business partner. This
+platform mainly focuses on interaction with their own and/or shared customers. The partners make agreements about
+important elements, such as the categories of data collected, who has access to the information,
+the information provided to the data subjects or the security measures to be taken. Further
+it is decided to share the personal data of their customers, for better marketing actions.
+✓ In this case, "Goed en Koop" and the other participating companies are jointly responsible, because they
+decide how and why their respective customer data is processed.
+
+43. If you process personal data in collaboration with certain partners who have their own purposes
+and determine the means of processing, you must strictly comply with Article 26 of
+determine your respective roles in a mutual arrangement, so that in all transparency,
+acted with regard to the persons involved.
+
+17
+
+Page 18
+
+ECJ (European Court of Justice) judgment C-40/17 “Fashion ID” of 29 July 2019
+
+In its judgment " Fashion ID GmbH & Co. KG v. Verbraucherzentrale NRW eV " the EHVJ decided that the operator of
+a website equipped with the Facebook "Like" button, together with Facebook may be responsible for the
+collect and pass on to Facebook the personal data of visitors to its site.
+
+It also ruled that a legal or natural person who, for its own purposes, influences
+the processing of personal data and thereby cooperates in determining the purpose and means of
+this processing, can be regarded as the controller (judgment of 10 July 2018, Jehova todistajat , C25/17, paragraph 68).
+
+It had also decided that the joint responsibility of different actors for the same processing
+does not presume under that provision that each of them has access to the personal data concerned
+(judgment of 5 June 2018, Wirtschaftsakademie Schleswig-Holstein , C-201/16, paragraph 38), nor that any of the
+controllers has an equivalent responsibility , but on the contrary in
+
+different stages of those processing operations and may be involved to varying degrees, so that the
+Each person's responsibility should be assessed taking into account all relevant circumstances.
+
+By inserting a Facebook "Like" button on its website, Fashion ID consciously offers Facebook Ireland the
+possibility to obtain personal data from visitors to its website at the time they visit the website
+visits, regardless of whether or not these visitors have a Facebook account or even click the "Like" button or not
+clicked without being informed (paragraphs 75 and 77 of the judgment). By inserting a
+such a button Fashion ID therefore has a decisive influence on the collection and transfer of the personal data
+of visitors to its site for the benefit of the provider of this button, namely Facebook.
+
+As for the purposes , the ECJ specifies that the insertion by Fashion ID of the "Like" button on its website
+enables it to optimize the advertising of its products by making them more visible on
+
+the social network Facebook when a visitor to its website clicks on the said button. Fashion ID has,
+at least implicitly, consented to the collection and disclosure of the personal data of visitors to
+its website, to take advantage of a commercial advantage that consists of more advertising for its products. the thus
+Processing carried out is therefore carried out in the economic interest of both Facebook and Fashion ID. in such
+circumstances, those two organizations jointly determine the purposes of collecting and communicating
+personal data (paragraphs 80 and 81 of the judgment).
+
+44. Please also note that when you use personal data collected via social media
+collected, you cannot rely on the terms of use of these social networks to
+data subjects whose personal data you process (or whose data is processed through you)
+inform about the various processing operations and the objectives pursued. It is
+namely
+
+your
+
+task
+
+to
+
+if
+
+controller,
+
+even
+
+if
+
+joint
+
+18
+
+Page 19
+
+data controller, provide transparent information to data subjects about the
+processing of the personal data you provide.
+
+45. This information relates to your processing operations which, where appropriate, may involve
+the disclosure of data to third parties that must be identified as accurately as possible.
+In addition, the processing purposes for which the collected data is intended must also be clear
+be identified and specified. This means that you should also pay attention to the
+purposes of the third parties you work with, and that you must also provide information about their
+processing purposes. A simple reference to the data use policy of this
+third parties is not always sufficient to comply with the transparency requirements of Article 12 of the GDPR, given
+on the complexity and length of such texts.
+
+2.
+
+Processor
+
+46. ​When a government or private entity or an individual on your behalf, based on your
+instructions, personal data is processed for the sole purpose of enabling you to achieve your purposes,
+there is a processing relationship.
+
+47. Engaging a processor results in compliance with the requirements of Article 28 of the GDPR
+must become.
+
+48. First of all, remember that regardless of the situation and regardless of the processor, as soon as you
+controller acts, are bound by the obligations that the GDPR imposes on you and that
+you will be responsible for any violations of this
+obligations. That is why Article 28.1 of the GDPR provides that you may only rely on enkel
+processors who offer sufficient guarantees regarding the taking of appropriate technical and
+organizational measures. This also follows from Article 24 of the GDPR, which obliges you to provide appropriate
+take technical and organizational measures to both ensure and demonstrate that
+your data processing is carried out in accordance with the GDPR. Calling on a
+certified processor or a processor that has joined an approved code of conduct,
+constitutes an element that the existence of sufficient guarantees as required by Article 28.1 and 4 of the
+GDPR can demonstrate.
+
+49. In the event of a breach of the obligations of the GDPR, Article 83 of the GDPR provides that the
+controller and its processor subject to various sanctions by the Authority
+could be. Good cooperation between you and your processor is therefore essential. In the case
+of a personal data breach (data breach), for example, Article 33.2 of the
+GDPR that the processor, as soon as it becomes aware of a personal data breach,
+
+19
+
+Page 20
+
+inform the controller without undue delay. Since you as
+controller has only 72 hours to notify the Authority of any
+infringement that poses a risk to the rights and freedoms of natural persons,
+best that your processor will comply with its notification obligation.
+
+50. Your relationship with your processor must be the subject of an agreement or other
+legal act , and such act or agreement must be in written, or even electronic form
+have been drawn up so that you can comply with your documentation obligation and with Article 30 of the GDPR. This one
+agreement or legal act must specify the subject and duration of the processing(s), as well as the
+purposes and the nature of these processing operations entrusted to the processor. They should too
+define the type of personal data and the categories of data subjects as well as your rights and obligations
+as data controller. Finally, they must at least comply with Article 28.3
+a) to h) of the GDPR, including the fact that the processor onlywerker
+may process personal data according to the documented instructions of the
+controller.
+
+51. If you are not sure about the content of the agreement that you have to conclude with your processor, you can
+be inspired by the standard contractual clauses issued by the Danish supervisory authority
+were established in accordance with Article 28 of the GDPR and were the subject of Opinion 14/2019
+of the EDPB 15 . Even if these model provisions were adopted by another national authority,
+the GDPR does not prevent controllers and processors from other Member States from being inspired by it
+extract (see to that effect recital 81 of the GDPR) 16 .
+
+52. While in an ideal situation the controller provides full instructions regarding the
+processing entrusted to the processor, this is often less obvious in reality and can be
+it is that certain elements are not provided by the controller, but by its processor
+be determined on the basis of its expertise in the field of the technologies applied
+in the processing and/or the most appropriate security measures of the data. The fact that a
+processor has more expertise than you have the technical means to be used at the
+data processing, does not in itself lead to a reclassification of his or her position of processor to
+that of the controller. Certain processors offer turnkey solutions without
+that this is without prejudice to your obligation as a controller to make the required decisions
+take with regard to the processed data, the purposes pursued and/or the means of
+reach.
+
+15
+
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_opinion_201914_dk_scc_en.pdf
+
+Recital 81 GDPR: “(…) the controller and the processor may choose to use an individual
+agreement or standard contractual clauses, issued either directly by the Commission or by a supervisory authority
+(...) are established. ”
+16
+
+20
+
+Page 21
+
+53. In the agreement you conclude with a processor, the latter can make decisions about additional
+elements related to the means of processing:
+✓ the computer systems or other methods used to collect personal data;
+✓ the methods of storing personal data;
+✓ details of security measures to protect personal data;
+✓ how the personal data will be transferred from one organization to another
+transferred;
+✓ how the personal data of certain people will be collected;
+✓ how the retention period of the data will be guaranteed;
+✓ how the data will be deleted or deleted.
+
+54. Whatever your processor's expertise, you must remain vigilant for what he offers you and the control
+about your processing. Since your processor must always act on your instructions, you must:
+can continue to refuse what he offers you or, at the very least, be able to renegotiate it
+before entering into an agreement (or other legal act) with it 17 . A processor that, except
+where required by law, acts outside the instructions of its controller, violates
+the GDPR and is subject to sanctions as provided for by this Regulation.
+
+55. In addition, as you are required to choose a processor that offers sufficient guarantees that
+the processing complies with the requirements of the GDPR, ensure that these guarantees are in place for
+and during the agreed processing. You are free to choose how you take care of this; for example you can
+provide regular checks and audits to verify that your
+processor fulfills its obligations. The processor is obliged to cooperate with these audits (article
+28.3, h) of the GDPR) and to comply with its results.
+
+56. If a processor who processes personal data does not exceed the purpose(s) and the means of the
+processing, he must act as controller for the processing(s) concerned
+considered and assume the responsibilities and obligations associated with this role
+(Article 28.10 of the GDPR).
+
+See in that sense the decision of the European Supervisor (EDPS) on Microsoft's conditions:https://edps.europa.eu/presspublications/press-news/press-releases/2019/edps-investigation-it-contracts-stronger_en
+17
+
+21
+
+Page 22
+
+Example 14
+The company "Coconut Tree" provides marketing and advertising communication services to various companies. Company
+"Incredible Monkey" makes use of these services and concludes a processing agreement with "Coconut Tree".
+However, "Coconut Tree" uses the customer data it receives from "Incredible Monkey" to enrich it with
+other data in its possession and sells it on to other companies that are customers of "Coconut Tree".
+✓ In the context of this other processing, "Coconut Tree" does not act as a subcontractor of "Incredible
+Monkey", but as a full controller, as it has its own purposes
+pursues separately from the instructions that "Incredible Monkey". This also raises the question of the transparency of a
+such processing and its lawfulness.
+
+57. The same body can play the role of both processor and controller
+but not for the same processing of personal data. A processor that
+acts, must ensure that its systems and procedures distinguish between the
+personal data that he processes in his capacity as controller and the
+personal data that it processes in its capacity as processor. If certain data are identical
+these systems must be able to distinguish between these two situations, so that at any
+situation, different processes and measures can be applied.
+
+58. If an organization acts simultaneously as a controller and processor
+for different processing operations but based on the same personal data, the
+data subjects are duly informed both by the organization that is the processor
+as by the organization that is the controller. This is self-evident as far as
+the processing is lawful.. This applies in particular to companies that prevent you from using their
+offer a customer card system and which manage a database on your behalf containing, for example, the
+information about the people who hold a card for your store, its purchases or categories
+of purchases they made, frequency, periods and amounts, to help you better serve your customers
+and offer them more targeted promotions. It is possible that those same organizations,
+in addition to pure processing, also carry out other activities by, for example, creating “customer profiles”.
+to other stores, based on the data collected through that loyalty card. The
+information to be provided must state the various processing operations as well as the data collected,
+the recipients of the data and their own purposes.
+
+59. When a processor engages another processor to act on behalf of the
+controller to carry out specific processing operations, the same obligations with regard to
+data protection applies as those established between the
+controller and its processor. They must therefore be imposed on the second processor
+by means of a contract or other legal act (see in this sense Article 28.4 of the GDPR). The
+processor must obtain the prior, general or specific written consent of the
+controller to use the services of a processor. In case
+
+22
+
+Page 23
+
+he must inform the controller of a general, prior consent
+keep track of any intended changes regarding the addition or replacement of other processors,
+whereby the controller is given the opportunity to object (Article 28.2
+of the GDPR). The relationship between the initial processor and the processor he relies on must also be
+be the subject of an agreement.
+
+60. Your employees are not your processors. As long as they act under your authority in a bond of
+subordination, they are an integral part of your organization.
+
+3.
+
+Sale, rental, enrichment of personal data
+
+61. Increasingly, direct marketing uses different organizations that provide services die
+offer to make available, through brokers, the sale or rental of personal data from
+various sources, whether or not adapted through enrichment, linking of data, with or without
+profiling. These organizations, whether they operate primarily as "data brokers" or other companies that
+are active in the advertising industry (including companies that collect data about their own customers or other
+renting or selling contacts), sometimes seem necessary to help you achieve your goals.
+
+62. Both the number and type of actors active in this sector, as well as the sources of origin of
+the data and the means used are diverse and varied. The data can be obtained directly from the
+data subjects are collected or indirectly, online or offline). All processing of this
+personal data are subject to the rules of the GDPR and therefore to the sanctions provided for by Article
+83 of the GDPR if these rules are not observed.
+
+63. In practice, it often happens that those involved do not know that these organizations are about them
+collect personal data and, a fortiori, what they do with it. The report "Out of control" dated 14
+January 2020 was published by Forbrukerradet, member of the European Union of
+
+Consumer Associations (BEUC), reports a widespread practice of collecting and
+using personal data without the knowledge of the owners and users of
+smart phones 18 . Transparency is nevertheless crucial to be able to process data fairly and lawfully.
+The consequence of this lack of transparency is a total loss of control over their data by the
+data subjects and a clear risk to their fundamental rights and freedoms, as they do not even
+are more able to exercise their rights.
+
+64. This obligation of transparency applies to all organizations that process personal data
+to exchange. The controllers who transfer the data directly to the data subjects
+
+Aggregating personal data may in particular mean merging, regrouping keys based on
+predefined matches, which link the data or of more complex models.
+18
+
+23
+
+Page 24
+
+(e.g. their customers or prospects) and who intend to provide this data
+to organizations that specialize in processing them for direct marketing purposes,
+clearly inform those involved. They must, if it is (actually) not possible to
+identify specific recipients, at least the categories of recipients concerned (for example
+their sector), identify the activities performed by these recipients (for example, the type of services or
+products they offer) and the processing of personal data they intend to carry out
+(for example the enrichment of this data with data from database XY or X databases containing data
+of type Y and providing the data resulting from this enrichment to
+undertakings operating in sector Z for the purpose of using it for sending
+email advertising with a maximum annual frequency of 4 messages per targeted
+person). They must also obtain the prior consent of the data subjects for the
+processing of their personal data (the list of which must be provided to them), by this
+categories of third parties, in the context of the purposes they pursue and depending on the
+processing operations (enrichment, deduplication, profiling, etc.) of the data to be described. This
+derives from compliance with Article 13 of the GDPR.
+
+65. Similarly, transparent and clear information should be provided to data subjects by
+organizations that collect personal data directly from them or indirectly from various sources bronnen
+to trade with it as an intermediary for customers interested in accessing it
+to lists with arranged, linked or enriched data or not.
+
+66. If these organizations specializing in the aggregation 19 , resell, lease or
+brokering of data, failing to provide such information, they either violate Article 13 of the
+GDPR (in the event that they collect the data directly from the data subjects, in particular through
+of questionnaires on consumption habits that they address directly to individuals), or with
+Article 14 of the GDPR (when they collect this data indirectly, for example by
+data lists from other organizations). It also means that the source of origin of the
+data must be identified. The lack of information can be justified if necessary
+are based on the assumptions set out in paragraph 5 of Article 14 of the GDPR, which require that
+it is demonstrated that the data subjects have already received all the required information or that the
+providing such information proves impossible or would require a disproportionate effort.
+
+67. Organizations whose business model is based on the mass collection of personal data with
+for the purpose of trading with them, must demonstrate that they do not have the technical means
+to inform those involved without making a disproportionate effort. In the most common
+current models, these organizations have at least an address or e-mail address, so that
+
+Aggregating personal data may in particular mean merging, regrouping keys based on
+predefined matches, which link the data or of more complex models.
+19
+
+24
+
+Page 25
+
+they can indisputably contact these persons directly. In any case, they remain obliged to
+take appropriate measures to protect the rights and freedoms as well as the legitimate interests of the
+protect data subjects, including by making this information public, for example on their
+website. However, a publication on your organization's website is not sufficient to meet the requirements
+of Articles 13 and 14 of the GDPR if you have other means to protect the data subjects
+to inform.
+
+On March 25, 2019, the Polish Data Protection Authority sanctioned a company for failing to
+fulfilling its obligation to provide information for an amount of almost EUR 220,000 (PLN 943,000).
+
+It concerned a company that processed data of data subjects from public sources for commercial purposes
+accessible sources, such as the central electronic register, and information on the economic activity of those
+involved. The company has failed to fulfill its obligation to provide information to more than 6 million people.
+
+The Authority verified the non-compliance with the disclosure obligation vis-à-vis natural persons holding an economic
+exercising an activity - both entrepreneurs who are currently carrying out or have suspended this activity, as well as entrepreneurs
+who have performed this activity in the past. The controller has only with regard to
+the persons whose e-mail addresses he had fulfilled the obligation to provide information by providing the information required on
+pursuant to art. 14 (1) - (3) of the GDPR.
+
+In the case of other persons, the controller did not comply with the obligation to provide information - such as during the
+procedure was explained - because of the high operational costs. That is why he only placed the information clause on his
+website.
+
+The Polish Authority considered that such a measure was insufficient, as this company had postal addresses
+and telephone numbers of specific persons. He could thus have fulfilled his obligation to provide information to them, ie
+inform them in particular about: their data, the source of their data, the purpose and duration of the planned
+processing, and the rights of data subjects under the GDPR.
+
+The Authority considered that the infringement committed by the controller was intentional, because the
+company - as established during the procedure - was aware of the obligation to provide the relevant information
+and the need to inform individuals directly.
+
+If you want to read more about this case: https://edpb.europa.eu/news/national-news/2019/first-fine-imposed-presidentpersonal-data-protection-office_en
+
+68. When you partner with these intermediary organizations to improve your marketing campaigns
+by requesting personal data from them that you do not have, you are also obliged to provide the required
+
+25
+
+Page 26
+
+provide information to the data subjects, in accordance with Article 14 of the GDPR, at the latest on the
+moment of first contact with them.
+
+69. In addition, you must ensure the quality of the data you obtain through this route. Your
+responsibility also includes taking care to select partners that you
+can effectively guarantee that the personal data is processed in a lawful and fair manner
+were collected. It's your job to find out where the data came from, how it got there
+collected, on what legal basis, by whom, for what purposes, during what period
+and for which processing.
+
+In October 2016, the ICO (Data Protection Authority of the United Kingdom) acquired the company Rainbow
+(UK) Limited fined £20,000. The latter had used the services of The Data Supply
+Company Ltd, a data brokerage firm, without first verifying that the data subjects whose personal data they collect
+had actually consented to the use of their data for marketing purposes. The ICO
+stated in its sanction decision that such checks should be carried out in the context of due diligence .
+
+In addition, The Data Supply Company Ltd was also fined £20,000 by the ICO in January 2017 because
+brokers are also required to ensure that they process personal data "fairly and lawfully". The ICO
+clarified that this means, among other things, that they must ensure that individuals are sufficiently informed about
+the way their personal data is processed - for example that the data broker uses it for certain
+purposes to certain organizations, and that they may not claim to sell lists of persons who
+have consented to receive marketing texts, emails or automated calls from
+certain organisations, unless they have a clear record of that permission.
+
+For more information on this case:
+http://tpsservices.co.uk/images/news/07-02-2017/The_Data_Supply_Company_Ltd_Monetary_Penalty_Notice.pdf
+
+70. It is therefore advisable to ask the following questions to the organizations from which you obtain data:
+✓ Were the data collected directly from data subjects or indirectly?
+✓ By whom and in what context?
+✓ On what legal basis were they processed?
+✓ If permission was obtained, ask for proof, ask when and how it
+permission was obtained;
+✓ Were those involved informed? About what (check whether the transfer of their data
+to your organization or organizations of your category for your intended use clearly
+arranged), how and by whom?
+
+26
+
+Page 27
+
+71. Also check whether or not the organization you wish to use is part of a
+professional body, charter member or accredited by an independent body.
+
+72. All these precautions are part of the reconciliation effort
+(" due diligence ") expected from a controller and the application of Article
+25 of the GDPR, which obliges you to integrate the protection of personal data from the
+concept stage of your processing and this throughout your processing operation.
+
+4.
+
+Subsidiaries – Mergers, Demergers and Acquisitions
+
+73. Please note that data subjects must also be informed of the possibility that their
+information is passed on to third parties, including to subsidiaries of an organization or
+to a third party in the event of a merger, demerger or acquisition whereby the
+controller is involved (regardless of the form of this operation).
+
+74. When a business concentration (or any other operation that has an impact on the identity of
+the controller or on access to the data for which he is responsible)
+occurs, it is the responsibility of the third party thus gaining access to the data, to
+inform the data subjects about his identity, purposes, processing activities, the processed
+data, the retention period, any (new) recipients of that data and the rights over which
+data subjects have, such as the right to object to the processing of their data.
+
+Determine your processing purposes
+
+Article 5.1, b) of the GDPR
+The personal data must be "processed for specified, explicit and legitimate purposes"
+collected and may not be further processed in a manner incompatible with those purposes; (...)"
+
+1.
+
+Initial goal(s)
+
+75. It is a crucial obligation of a controller to determine the purpose(s) for which
+determine the personal data to be processed. In other words, the goals he wants
+achieved by using personal data.
+
+76. The correct determination of your processing purposes is essential for the proportionality test of the
+data and therefore of your processing (mandatory exercise that aims to ensure that the
+processed data and its processing is proportional to the objectives pursued). You serve
+
+27
+
+Page 28
+
+first clearly define and record your processing purposes, so that you can subsequently
+determine the processing operations that will be necessary to achieve those purposes.
+
+77. Here are some examples of direct marketing purposes:
+✓ inform your customers about your new products or services;
+✓ create a profile of your customers;
+✓ allow third parties to use your customers' data to
+prepare voter profiles;
+✓ make personalized offers for your customers' birthdays;
+✓ keep your customers informed about various promotions;
+✓ promote your brand image to the general public;
+✓ invite your customers or prospects to events (to promote your
+organization);
+✓ Notify your customers of targeted offers that may be
+cater to their interests;
+✓ acquire new customers, subscribers or members.
+
+78. You should then describe them as accurately as possible in your register of processing activities (see
+recitals 90, 91 and 92 of this Recommendation) as well as in the document you use to obtain the required
+provide information to the data subjects (the accuracy of your processing purposes is also
+essential to comply with the transparency obligation as provided for in Articles 13
+and 14 of the GDPR which explicitly provide that data subjects must be informed about the
+processing purposes).
+
+In most cases, the statement " we are processing your data for direct marketing purposes " does not qualify as
+accurate information provision within the meaning of the GDPR. The level of detail required depends in particular on the
+type of marketing communication (text, email, telephone, post, etc.), its frequency (monthly, semi-annually, etc.), the
+its content (information about the brand, a product, a service, a newsletter, coupons) or the complexity of
+the processing in question (e.g. based on profiling and its accuracy).
+
+Transparency about the purposes of your processing also means being fair. Report that " we are processing your data"
+
+to improve our services " when the purpose of your marketing communications is to promote your services and your
+encouraging customers to use it is not appropriate for informing the data subject that you intend to or
+process its data for direct marketing purposes.
+
+28
+
+Page 29
+
+2.
+
+Further purpose(s)
+
+79. In this regard, please also ensure that you provide clear information about your further processing purposes,
+which should also be part of the information you provide to the data subjects.
+
+Article 13.3 of the GDPR
+"When the controller intends to further process the personal data for another person
+purpose other than that for which the personal data were collected, the controller shall provide the data subject
+before such further processing, information about that other purpose and any relevant further information referred to in paragraph 2."
+
+80. If the further processing is not based on the consent of the data subject, nor on a standard 20 ,
+you to examine the compatibility between the original purpose and the further purpose,
+as provided, inter alia, in Article 6.4 of the GDPR and summarized in recital 50:
+
+Ground 50 of the GDPR
+"To verify whether a purpose of further processing is compatible with the purpose for which the personal data
+initially collected, the controller, after complying with all requirements regarding
+lawfulness of the original processing, including taking into account: any
+link between those purposes and the purposes of the intended further processing; the framework in which the
+data has been collected; in particular the reasonable expectations of the data subjects based on their relationship with
+the controller regarding its further use; the nature of the personal data; the
+consequences of the intended further processing for the data subjects; and appropriate safeguards in both the
+original as well as the intended further processing."
+
+81. This compatibility study should be carried out by the primary controller,
+both for its processing activities and the processing activities envisaged by third parties,
+data controllers, to whom it intends to transfer the data.
+
+This applies to all data that you may use for further purposes, even if this data is considered "public".
+may be considered (e.g. personal data submitted by the data subjects themselves on their social media accounts).
+published). It is not about whether the data is publicly available, but whether the purpose for which it is
+originally processed is or is not compatible with the further purpose(s).
+
+82. When the same controller intends to use the personal data he himself has
+collected for direct marketing, while initially using them for a different purpose
+collected, he is obliged to test its compatibility. If the prior authorization (which
+
+Article 6 GDPR states more specifically that: “(…) not on a provision of Union law or a provision of Member State law that is in a
+democratic society constitutes a necessary and proportionate measure to ensure the referred to in Article 23(1)
+targets (…).
+20
+
+29
+
+Page 30
+
+complies with the validity conditions imposed by the GDPR) of the data subjects is
+obtained for the use of their data by the organization that wishes to reuse this data is
+the compatibility test is not necessary. If, on the other hand, no authorization has been given, the
+compatibility test are performed on the purpose for which the data was collected and the direct
+marketing target. Such reuse may be unlawful in the event of incompatibility with the
+original purpose, partly because there is no relationship between those involved and this organisation
+and it is therefore impossible to conclude that such use is in accordance with the
+reasonable expectations of those involved.
+
+Example 15
+The company "Brand new" specializes in construction work. It wants to gain more awareness among new
+customers. Therefore, it calls on the service of the company "In the pocket" which has a database that regularly
+is supplemented with names and contact details of persons who have recently purchased land in the region and who
+will certainly need labor to build their houses. "In the pocket" lets "Brand new" know that it
+obtains this data directly from the local authorities in the context of their management of the
+building permit applications. The boss of "Brand new" questions “In the pocket” about the legality of the
+reuse of this data by his company.
+
+This reassures him: the local authorities would certainly not do anything illegal and he believes he knows that the
+persons were informed by the municipal administrations that their data would be passed on to
+commercial companies for direct marketing purposes. "In the pocket" itself does not inform the people involved.
+
+"Brand new" is convinced and uses the database of "In the pocket" to write a letter to the people who
+bought land within its area of ​activity, to offer its services. In the letter, the company explains to this
+people from whom and how it has taken cognizance of their personal data and indicates which data are gegevens
+collected, for what purposes it processes them and which processing operations have been carried out. The company shares the
+inform the persons contacted that they can object to the processing of their data at any time and
+declares that, if they do not reply within 6 months, the data will in any case be removed from their database
+be removed.
+
+The purpose of this further processing (and thus the processing itself) is problematic on several levels:
+
+1° The personal data were initially collected by the municipal authorities in order to comply with a
+legal obligation. By communicating their personal data, the data subjects have not consented to the
+disclosure of their data to a third party for use for commercial purposes. They could reasonably
+also do not expect further processing for that purpose.
+✓ The municipal administrations are therefore in violation of the obligations under Article 5, 1.b),
+Articles 6, 4 and 13 of the GDPR
+✓ The prior, free, informed, unambiguous and specific consent of the data subjects
+the initial data collection should be requested.
+
+30
+
+Page 31
+
+Example 15 (continued)
+2° At the time of the data collection by “In the pocket” at the municipal administrations,
+the former did not notify those involved that it had their data from the joint administrations
+received nor how it would process it. Those involved who were not informed in the beginning could then
+nor consent to such further processing, which is no longer compatible with the initial processing.
+✓ "In the pocket" is in violation of the obligations under paragraphs 5.1(b), 6.4 and 14 GDPR.
+
+3° "Brand new" itself does respect its obligations arising from Article 14 of the GDPR, but this is not
+Enough. Since the data has been further processed without the consent of the data subjects and for purposes
+which are incompatible with the purposes for which they were collected, this also constitutes an infringement on his account
+Article 5.1, b) and 6.4 of the GDPR.
+
+83. As a controller, it is your duty to inform data subjects, as well as to protect yourself
+sufficient information when you collect data indirectly. If you don't have the
+has correct information regarding the lawfulness of the initial processing, you can inform the data subjects
+not properly inform, nor perform the compatibility test, which would allow you to transfer the data for
+for your own further processing purposes. There is therefore a risk that your processing activities
+illegal and may therefore be subject to sanctions.
+
+84. You may only process personal data for real and existing purposes or, if it concerns potential
+purposes, for purposes that are realistic in the near future in light of your current
+activity. For example, you may not state that you are collecting "date of birth" data "to
+birthday present" if you're not actually sending a gift, even "just in case we send you a
+birthday present”, if this is not realistic.
+
+Define your processing operations
+1.
+
+Understanding
+
+Article 4.2 of the GDPR: definition of the processing of personal data
+"any processing operation or set of processing operations relating to personal data or a
+set of personal data, whether or not performed using automated processes, such as the
+collect, record, organize, structure, store, update, modify, retrieve, consult, use,
+provide by transmission, distribution or otherwise make available,
+bringing together, associating, as well as restricting, deleting or destroying data."
+
+85. Your processing starts with the collection of this data and continues until this data is deleted
+after they have been stored in a database or passed on to third parties. You also process data
+(for example, surname, first name, address or email address) when you send your direct marketing messages to the
+sends those involved.
+
+31
+
+Page 32
+
+86. The purposes of the data processing should not be confused with the processing itself. For the
+examples from recital 77 of this Recommendation, this would include processing activities
+to be:
+✓ Create a profile of certain people, by sharing different data about them
+crosses, obtained by means of the information that these persons directly to
+your organization and your commercial partners, to inform them about your
+new products;
+✓ Promote your future services by using the phone number of
+prospects to send them an SMS ;
+✓ Using the messaging service of a social network to send messages
+to make personalized offers for the birthday of your customers;
+✓ Use your customers' email address to keep them informed about various
+actions, to send them your newsletter;
+✓ Send invitations to events to promote your organization, by your customers
+to be contacted by post ;
+✓ Acquire new customers, subscribers or members by going door-to-door (see recital
+35 for more explanation on this subject).
+
+87. As with your processing purposes, you must also be transparent with data subjects about the
+processing you carry out on your data. In practice, therefore, this means that you
+provide information about these processing operations before you start. The level of detail depends on
+depends more on the type of people involved (children, professionals, experts, etc.), the way in which their
+personal data are processed and the extent to which such processing interferes with their
+entail the right to privacy.
+
+88. Please note that specifying the processing you carry out for each purpose allows you to
+to assess the proportionality (and therefore the admissibility) of these processing operations in relation to your
+purposes (objectives). For example, it will be difficult to control data processing based on
+profiling to send an identical newsletter to all your customers.
+
+89. In addition, keep in mind that the same data processing is sometimes done for different
+purposes and that accurate information must then be provided.
+
+32
+
+Page 33
+
+Imagine processing your customers' name and address details to send them your monthly promotional offers
+on the basis of their prior consent. If they have given their consent to the processing of their data
+revoking them for this purpose does not mean you have to completely delete their data from your systems ON CONDITION
+THAT you have a valid legal basis for another purpose, such as sending monthly invoices.
+
+However, you can no longer process the same data for sending promotional offers. This means
+that you must stop this data processing for this purpose.
+
+90. Also, don't forget to keep your record of processing activities up to date.
+
+Article 30 GDPR
+"Each controller and, where applicable, the controller's representative
+keeps a register of the processing activities that take place under their responsibility. (…)"
+
+This obligation applies to organizations with more than 250 employees and to organizations whose
+processing(s):
+I.
+
+May/may form a risk to the rights and freedoms of the persons involved;
+
+II.
+
+is/are not incidental;
+
+III.
+
+Or if the processing(s) mainly relates to the special categories of data as
+referred to in Article 9.1 of the GDPR or on data that fall under Article 10 of the GDPR.
+
+91. This register must make it possible to have an overview of your processing of
+personal data and identify them. It also contains other information such as the personal data or
+the categories of personal data that you process. This register must be in writing (electronically)
+and must be clear and understandable.
+
+92. The register therefore also helps you to accurately inventory the data that you process and is therefore
+an indispensable tool to gain insight into your ecosystem of the data processing operations for which
+you are responsible. A properly maintained register thus saves you time in complying with your GDPR
+obligations and ensures that all people who work in your organization and are involved in the processing
+of data that is useful for your organization, can be consulted if necessary and/or
+are informed about the processing operations within the organization, which also contributes to a
+greater awareness of data protection. It will also help you, if necessary, to
+prepare a data protection impact assessment, and to cooperate with the DPA in the case
+that it has questions regarding some of your processing activities.
+
+33
+
+Page 34
+
+2.
+
+Profiling
+
+93. As for the other processing operations that are regularly used for direct marketing purposes,
+profiling is data processing about which you must clearly inform the data subjects. Profiling is
+no purpose, but in fact a processing carried out for certain purposes
+such as selling data or learning to better target your customers.
+
+Example 16
+Customers who order via the webshop of the store "Chic et Chok", can read that their personal data is required
+to " enable Chic et Chock to create a buyer profile to get to know its customers better ".
+✓ "Chic et Chok" wants to create a profile of its customers. Presented in this way, it suggests ten
+wrongly that profiling would be a processing purpose, while profiling is a processing and not a purpose in itself.
+
+94. Article 4.4 of the GDPR defines profiling as “ any form of automated processing of
+
+personal data whereby, on the basis of personal data, certain personal aspects of a
+natural person are assessed, in particular with a view to his professional performance, economic
+situation, health, personal preferences, interests, reliability, behavior, location or
+analyze or predict displacements ”.
+
+95. Profiling is given special attention because its process is often invisible to
+The involved. It gives rise to the creation of new personal data derived from
+data previously provided directly by these individuals, from transaction data21 or information
+and traces left by them while browsing websites.
+
+96. Profiling can also lead to negative consequences for those involved because it is unreliable
+may be due to, for example, the type of information provided to certain categories of data subjects
+provide, restrict or narrow down (such as political social media targeting) and/or cause
+give rise to discrimination, for example if it leads to a refusal of access to a service or if it is targeted
+with more expensive or even financially risky products.
+
+97. It is because of the particularities of this processing that the GDPR pays specific attention to
+profiling, which is examined in three facets . It may be a general profiling,
+a decision-making based on profiling with the intervention of a natural person or a profiling
+which can lead to exclusively automated decision-making, without human intervention. The
+The first two facets are fully subject to the GDPR as a processing of personal data. It
+
+EDPB guidelines on automated individual decision-making and profiling for the purposes of Regulation (EU) No.
+2016/679, as last amended on February 6, 2018, p. 10.
+21
+
+34
+
+Page 35
+
+The third facet is, in addition to the generally applicable rules of the GDPR, subject to stricter rules that
+arising from Article 22 of the GDPR.
+
+98. The AVG is, after all, particularly severe when the profiling of the automated decision-making at the
+regarding a data subject without the intervention of a natural person. This is how . determines
+Article 22 of the GDPR that every data subject has the right to object to being
+
+subject to a process based solely on automated processing, including profiling
+decision which has legal consequences for him or which otherwise significantly affects him
+affects.
+
+If you want to make a decision based solely on automated processing, please note that you
+obtain the explicit consent of the person concerned . You are also obliged to give the person the opportunity
+offer to state his or her point of view and, if necessary, to challenge the decision so taken. be you
+
+also aware that you must obtain the explicit consent of the data subject if you intend to
+make an automated decision based on the data referred to in Article 9 of the GDPR (unless the
+processing is necessary for reasons of important public interest). Also note that such
+processing may not relate to special categories of data, as referred to in Article 9 of the GDPR,
+unless the data subject's explicit consent is collected specifically for that purpose. Finally, you need appropriate
+take measures to ensure that the fundamental rights and freedoms and the interests of data subjects
+are guaranteed.
+
+99. Direct marketing can, in certain situations, produce decisions based solely on a
+automated processing "which produces legal consequences for a natural person or what"
+otherwise significantly affects him”. The EDPB indicates that this depends on the specific
+characteristics of the situation may be the case, including:
+✓ The intrusive nature of the profiling process, including following people on
+various websites, devices and services;
+✓ The expectations and wishes of those involved;
+✓ The way the advertisement is distributed; or
+✓ The use of known vulnerabilities of the data subjects 22 .
+
+100.
+
+The EDPB also recalls that " Processing that affects individuals in general unaffected may
+
+groups of society, such as minorities or vulnerable adults, potentially in significant
+extent ” and that “ different prices based on personal data or personal characteristics may
+
+For complete information on profiling, please refer to the 2018 revised version of the EDPB Guidelines WP251 rev.01 on
+automated individual decision-making and profiling for the purposes of Regulation (EU) 2016/679, which is available via
+following link: https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053
+22
+
+35
+
+Page 36
+
+also affect individuals to a significant degree if, for example, extremely high prices actually
+block access to certain goods or services. " 23
+
+Example 17
+The company "Knowing everything or almost" sells to the company "Toutassurix", an insurance company, profiles of
+persons without their consent or without knowing the underlying data. The profiles classify the
+consumers in categories with qualifications such as "second generation ethnic profile: travels often", "young household:
+motorized", "large family: hard to get by", or a note that emphasizes the family situation and/or
+financial vulnerability of those involved.
+
+"Toutassurix" has several insurance products, but wants to make a pre-selection and certain products and/or
+reservation conditions for certain categories of customers. She therefore sends information about her
+insurance products by e-mail to its existing customers, under different conditions, based on these min
+or more profiles prepared by Omniscience. The existing differences between the various products and
+conditions of "Toutassurix" are large and can have significant financial consequences, it may even be impossible
+can be called upon, because then one will fall into debt, while there are other solutions.
+
+All decisions made by "Toutassurix" with regard to the content of the messages to the data subjects
+are based solely on an automated processing, as none of the employees of "Toutassurix"
+has checked and/or modified the profiles or customer files before sending the e-mails.
+
+✓ "Toutassurix" must obtain the express consent of its customers in advance for such
+data processing;
+
+✓ "Toutassurix" customers must be able to understand why such products are offered to them
+and they should be able to request that proposals be re-evaluated, taking into account
+with other elements, or even to improve the proposals on the basis of which the profiles were formed.
+They should also be able to refuse such decisions.
+
+101.
+
+However, profiling and purely automated decision-making are not necessary with
+connected to each other. An automated decision can be made without profiling and
+profiling can be performed without leading to an automated decision. In the
+in general, data processing through profiling requires you to pay particular attention
+the amount and type of data used, the process itself, as well as the sources from which the
+data originate. So even if the profiling you apply to personal data does not lead or does not
+is intended to lead to an automated decision, such data processing is
+of profiling fully subject to the rules of the GDPR. You must ensure that you are facing the
+data subjects specifies how they will be profiled and why (Articles 13 and 14
+GDPR).
+
+23
+
+Guidelines WP251rev.01, p.26-27.
+
+36
+
+Page 37
+
+102.
+
+Finally, remember that if you are unable to verify the origin of the profiles that
+you use, nor the information provided to the data subjects about it, it is better to
+not to process personal data, in order to avoid any risk.
+
+Identify the data needed in the pursuit of your
+purposes
+1.
+
+The concept of « personal data » 24
+
+Article 4.1 GDPR
+"Any information about an identified or identifiable natural person ("the data subject"); as "identifiable"
+is considered a natural person who can be identified, directly or indirectly, in particular by reference to
+an identifier such as a name, an identification number, location data, an online identifier or of one or more
+elements characteristic of the physical, physiological, genetic, psychological, economic, cultural or social
+identity of that natural person"
+
+103.
+
+The terms “identified” and “identifiable” are crucial to understanding what a
+personal data. While data that allow a person to be directly identified are often obvious
+(for example, a combination of surname, first names and address or date of birth or a unique
+identification number, such as a customer number), it is sometimes more difficult to know what should be
+means "data by which an individual can be indirectly identified" (for example,
+pseudonymised data).
+
+104.
+
+Any piece of information associated with a person, no matter how minor it may seem to you when you see it
+considers oneself (e.g. age, place of residence, eye color or gender, or even
+a registration number), is personal data as soon as it is combined with one or more other
+data can identify, individualize a natural person. Thus the GDPR applies is
+on personal data that has been pseudonymised. In principle, pseudonymised data cannot
+be attributed to a specific data subject for longer without using additional
+information and provided that this information is kept separately and that technical and
+organizational measures are taken to ensure that the data is not
+identified or identifiable person. Pseudonymized data
+therefore fall under the definition of personal data and therefore also under the GDPR, insofar as they can
+lead to the identification of a person.
+
+For more information on this subject, please consult opinion WP 136 on the concept of personal data, adopted on 20 June 2007
+by the Group 29 and available at this link:
+https://ec.europa.eu/justice/article-29/documentation/opinionrecommendation/files/2007/wp136_en.pdf
+24
+
+37
+
+Page 38
+
+105.
+
+So-called "anonymized" data, on the other hand, is not considered personal data,
+because identifying a person with such data should not be possible, even using met
+additional information. Although the GDPR still allows the so-called "anonymous" data
+from its scope, the boundary between the two appears to be narrowing considerably.
+
+A study conducted by a research team from the Catholic University of Leuven and Imperial College London,
+demonstrates that it is possible to identify natural persons on the basis of 4 "anonymised" data of their
+banking operations, with a 90% certainty, by applying a certain algorithm.
+
+Based on the probability and the statistical correlations applied to the metadata of the
+bank transactions, it is therefore possible to identify with near certainty a person who has gone to a DIY store
+then to his or her gym, before going to a restaurant, ending the day by
+to go to the cinema.
+
+For more information about this study:
+
+✓ https://www.nature.com/articles/s41467-019-10933-3
+✓ https://uclouvain.be/en/discover/press/news/anonymising-personal-data-not-enough-to-protect-privacy-showsnew-study.html
+
+✓ https://www.imperial.ac.uk/news/192112/anonymising-personal-data-enough-protect-privacy/
+✓ https://www.imperial.ac.uk/news/192112/anonymising-personal-data-enough-protect-privacy/
+106.
+
+What applies to data considered "anonymous" applies a fortiori to personal data.
+Linking certain personal data (such as age, place of residence, gender and eye color)
+makes it possible to identify persons who are in contact with you, such as, for example, customers,
+prospects, subscribers or voters.
+
+107.
+
+Finally, remember that only data from living natural persons is personal data.
+
+2.
+
+Principle of data minimization
+
+Article 5.1, c) GDPR
+"Personal data must be adequate, relevant and limited to what is necessary for the purposes
+for which they are processed minimal data processing."
+
+108.
+
+One of your first tasks as a controller is to review the personal data
+and/or categories of personal data that you have. Adhering to the minimization principle is crucial
+if you want to ensure that your processing activities are in accordance with the GDPR.
+
+38
+
+Page 39
+
+109.
+
+This exercise should be permanently integrated into your work and is part of what
+called “privacy by design”, a basic principle of the new regulations and essential in the light of
+the overarching principle of “accountability”.
+
+110.
+
+This means that you perform an assessment of the data you want to collect or about which you already
+disposes of: are they sufficient, relevant and limited to what is necessary for the purposes you
+and the processing you plan to perform on this data. This analysis can only
+carried out if you have previously recorded all data that you process, as well as the
+purposes that you want to achieve with the help of this data.
+
+111.
+
+The commercial opportunities offered by the massive collection of data, but also by their
+profiling or by offering cheaper storage costs may falsely encourage you to buy more
+collect personal data than you really need, in case it would be useful in the future
+come 25 .
+
+It is not about collecting, generating or storing as much data as possible, because it is technically "possible"
+is. It's a matter of collecting, generating or storing only the data you really need to run your
+existing or future goals, as long as they are realistic in the short term.
+
+112.
+
+This minimization principle imposed by the GDPR can also be a tool to help your own
+perfecting marketing needs. By leveraging relevant data, you improve the
+quality of your operation. You also improve the quality of your interactions with your customers, subscribers or
+others, and with it your image.
+
+113.
+
+In particular, the minimization principle requires that the data retention period be kept to the strictest
+minimum is limited.
+
+Article 5.1, e) of the GDPR
+This article clarifies the principle of data retention limitation by providing that data in a
+form permitting identification of the data subjects may not be kept for longer than is necessary
+for the purposes for which they are processed.
+
+114.
+
+Knowing your data also means that you can identify data belonging to the specific
+categories set out in Articles 9 and 10 of the GDPR or associated with vulnerable persons,
+
+EDPB guidelines on automated individual decision-making and profiling for the purposes of Regulation (EU) 2016/679,
+as last modified on February 6, 2018, p. 13.
+25
+
+39
+
+Page 40
+
+such as data relating to minors or persons who lack the necessary competence
+to perform certain actions.
+
+Article 9.1 GDPR states the basic prohibition on the processing of data belonging to the following categories
+belong
+"personal data revealing racial or ethnic origin, political opinions, religious or
+ideological conviction or membership of a trade union, as well as the processing of
+genetic data, biometric data for the purpose of uniquely identifying a natural person,
+data about the health or data about the sexual life or sexual orientation of a natural
+person."
+
+115.
+
+If you have the consent of the data subjects to share certain specific categories of data
+processing, this is not without consequences for the organization of your activity. You will probably
+a
+
+officer
+
+in front of
+
+data protection 26
+
+should
+
+appoint
+
+and
+
+a
+
+data protection impact assessment 27 .
+
+116.
+
+Please note, even if certain data may at first glance give you "simple" personal data
+appear that do not fall directly under the category of data in Article 9 of the GDPR, such as data
+with regard to lifestyle habits, data concerning sporting performance or dietary preferences,
+may turn out to be sensitive data, as they may contain a lot of information about the data subject
+can reveal. After all, dietary habits can cause health problems or philosophical or religious problems
+demonstrate beliefs. Sports data can also become sensitive when used as health data
+are processed. When in doubt, it is better to be vigilant and consider this type of data
+as data falling under Article 9 of the GDPR.
+
+117.
+
+One of the ways to avoid processing sensitive data that you wouldn't need
+have or for which you do not have permission is: avoiding asking for it explicitly, the
+limit your ability to enter text in free fields and limit your storage spaces such as your databases
+monitor to best manage this sensitive data, and quickly delete it if necessary.
+
+3.
+
+118.
+
+Stay in control of your data management
+
+Article 25 of the GDPR lays down the basic principles of data protection “by design” (privacy
+by design) and “by default settings” (privacy by default).
+
+For more information on this subject, please consult our “DPO” theme file https://www.autoriteprotectiondonnees.be/dossierthematique-delegue-a-la-protection-des-donnees
+26
+
+For more information on this subject, please consult our “GEB” theme file https://www.autoriteprotectiondonnees.be/analysedimpact-relative-a-la-protection-des-donnees
+27
+
+40
+
+Page 41
+
+119.
+
+Taking into account the existing technologies and capabilities, the financial and human
+resources at your disposal, you must ensure data protection from conception
+of your processing operations and your processing means, by means of appropriate technical (for example, the
+pseudonymization of personal data) and organizational measures to mitigate the potential risks
+limits that your processing operations may entail on the basis of their specific characteristics (by
+take into account the number and type of personal data, your processing activities themselves, the
+retention period, the persons who have access to the data, etc.).
+
+120.
+
+Privacy by design means that you are aware of the principles regarding
+data protection (which are included in Article 5 of the GDPR), as well as the freedoms and
+fundamental rights of data subjects, including the rights they have in
+in accordance with Articles 12 to 22 of the GDPR.
+
+121.
+
+In this regard, it is important that you have a clear view of the various resources and
+data storage modalities that you use, such as your databases, for example, so that you can
+carefully manage the information you have. This data is often copied and
+distributed in different systems within your organization or at your processors. Although making
+backups should be encouraged to avoid data loss, are
+multiplication of copies of this data in different systems, databases and applications
+the risks are unnecessarily greater and it prevents you from maintaining an overview of this data and therefore of the people
+to whom they relate.
+
+Article 25.2 of the GDPR (Privacy by default)
+The controller shall take appropriate technical and organizational measures to ensure that
+in principle, only personal data that are necessary for each specific purpose of the processing are processed.
+This applies to the amount of personal data collected , the scope of its processing , the
+duration of storage and its accessibility . In particular, these measures ensure that data is not
+be made accessible by default to an unspecified number of natural persons without the intervention of the
+natural person concerned."
+
+122.
+
+You must ensure that no more data is collected than necessary and you must vouch for
+the quality of the data you have. With accurate and up-to-date data
+you have a better grip on the processing of these data, which makes them more effective, and brings them to you
+also in accordance with the GDPR.
+
+41
+
+Page 42
+
+Article 5.1, d) of the GDPR
+Personal data must be "accurate and updated as necessary; all reasonable measures must be taken."
+are taken to ensure that personal data which, having regard to the purposes for which they are processed,
+inaccurate, be erased or corrected without delay."
+
+123.
+
+Please note in this regard that Article 5ter of the Act of 8 August 1983 regulating a National Register
+
+of natural persons, under certain strict conditions, to persons of age who
+maintain a contractual relationship with institutions, and the performance of which is successive performance
+required, permits, under strict conditions, permission to these organizations to
+received from the National Register services about changes made to their data hun
+applied 28 . Please read this provision and its terms of application carefully so that you
+can use it if necessary.
+
+124.
+
+In particular, you are bound by the data storage limitation : data may not be
+be processed for longer than necessary for the realization of the purposes. Through your databases
+manage it correctly, you can quickly identify data that is outdated or no longer allowed to be processed
+for example because a person has objected or withdrawn their consent.
+
+28
+
+Law of 8 August 1983:
+
+https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=1983080836&table_name=loi
+
+42
+
+Page 43
+
+The Danish Data Protection Authority has fined IDdesign 1.5 million DKK (more than
+200,000 euros) for not deleting data of approximately 385,000 customers.
+
+One of the issues discussed during the Authority's visit to their offices was whether the
+company had set deadlines for the deletion of customer data and whether these deadlines had been observed.
+During the inspection, it was found that some of the company's furniture stores were using an older system, which in
+the other stores had been replaced with a newer system. In the old system, information about names,
+collected addresses, phone numbers, email addresses and purchase history of some 385,000 customers. During the
+In an audit, IDdesign also stated that no personal data had ever been removed from the old system.
+
+IDdesign did not indicate when the personal data in the old system were no longer needed for the purposes
+of the processing and therefore did not specify the period within which the personal data processed in the system
+had to be deleted.
+
+The Data Protection Authority is therefore of the opinion that IDdesign has not complied with the
+data protection regulations of the GDPR by processing personal data for longer than necessary.
+
+If you want to know more about this: https://edpb.europa.eu/news/national-news/2019/danish-dpa-set-fine-furniturecompany_en
+Si vous souhaitez and savoir davantage : https://edpb.europa.eu/news/national-news/2019/danish-dpa-set-fine-
+
+1 25.
+
+Managing your storage space also means separating "sensitive" data from others
+so that you can take appropriate security measures. It also allows you to specifically for sensitive
+verify your data and determine on which legal basis referred to in Article 9.2 of the GDPR you wish to process your processing
+bases.
+
+126.
+
+This also allows you to separate the customer/member/subscriber databases from those if needed
+with “prospects”, but also to efficiently exercise the rights of data subjects
+management , such as the withdrawal of the license or the right to oppose
+the processing of their data for your direct marketing purposes (see recitals 127, 131, 161 to
+166, 215 and 238).
+
+43
+
+Page 44
+
+The Greek Data Protection Authority has fined a telecom operator for failing to
+compliance with the right of objection and the principle of privacy by design with regard to the storage of the
+personal data of its subscribers.
+
+Investigated into numerous complaints from recipients of direct marketing messages from this operator
+found that their opposition to the processing of their data for such purposes was never processed due to
+a technical error.
+
+The telecom operator did not have appropriate organizational measures, ie a specific procedure
+which enabled him to establish that the data subject's right to object could not be effectively exercised.
+
+Subsequently, the operator removed about 8,000 people from the recipients of its messages, which since
+2013 had unsuccessfully tried to exercise their right of opposition. The Authority has committed a violation
+established the right to object to processing for direct marketing (Article 21(3) of the
+GDPR) and Article 25 (data protection by design) of the GDPR and based on the criteria of Article 83,
+paragraph 2 of the GDPR imposed an administrative fine of EUR 200,000.
+
+Source: https://edpb.europa.eu/news/national-news/2019/administrative-fines-imposed-telephone-service-provider_en
+
+127.
+
+Also make sure that you regularly update your lists in your databases, automatically if technically possible
+integrates and updates, such as the https://www.dncm.be/nl/staat-mijn-nummer-op-de-bel-me-niet-meer-lijst
+which has been specifically drawn up to give people the opportunity not to be contacted by telephone
+for direct marketing purposes.
+
+128.
+
+If you want to know more about the measures that apply in the context of
+data protection “by design” and “by default”, please consult the guidelines issued by the EDPB on this
+subject matter 29 .
+
+29
+
+https://edpb.europa.eu/sites/edpb/files/consultation/edpb_guidelines_201904_dataprotection_by_design_and_by_default.pdf
+
+44
+
+Page 45
+
+Check if you have a legal basis
+1.
+
+129.
+
+Why a legal basis?
+
+Processing of personal data is only permitted if it is based on one of the six
+legal grounds provided for in Article 6 of the GDPR 30 . You cannot process data without a legal basis, you
+so make sure you have one before you start processing.
+
+130.
+
+It is also essential that you ask yourself what your legal basis is, as the terms
+of each of the legal bases provided for in Article 6 of the GDPR.
+
+131.
+
+The legal basis affects the rights of the data subjects, the details of which you
+must know, not only in order to be able to inform them correctly, but also to ensure the effective exercise of
+to guarantee their rights.
+
+132.
+
+Finally, keep in mind that certain specific laws require that you do some
+legal ground used to substantiate a particular processing. As for commercial
+prospecting in electronic form, the e-Privacy Directive requires, as a general rule, the consent of the
+data subjects, but allows exceptionally and under certain conditions the use of the
+so-called "soft opt-in", which justifies a watered-down application of the legal basis
+interest.
+
+133.
+
+Apart from the very specific cases provided for by these possible laws, there is no
+“automatic” legal basis. You must take into account the context of the processing you wish to carry out.
+
+2.
+
+134.
+
+Is it possible to change the legal basis?
+
+The legal basis cannot be changed during processing. This means that if you indicate that you
+has an inappropriate legal basis, or that it “lapses” because its terms do not or do not
+are fulfilled, the processing can no longer be continued.
+
+135.
+
+For example, if a processing is based on consent, as soon as the person is
+withdraw consent, stop all data processing based on this legal ground, unless
+you continue to process the same data for a different purpose for which you have a different valid
+have a legal basis.
+
+Article 8.2 of the Charter of Fundamental Rights states: “These data must be processed fairly, for specified purposes
+and with the consent of the data subject or based on any other legitimate legal ground provided for by law. ”
+30
+
+45
+
+Page 46
+
+136.
+
+It is also not possible to have two legal bases for the same processing purpose,
+nor to switch from one to the other. You have to make a choice and stick to it.
+
+Exception: the consent obtained within the framework of Directive 95/46/EC
+
+When the GDPR came into effect, many data controllers active on the
+field of direct marketing and who base their data processing on consent, faced with a specific
+situation. Since the GDPR had tightened the conditions for the validity of the consent, it was not
+longer possible to use personal data for direct marketing purposes on the basis of previously obtained consent
+process, unless that consent was previously obtained in accordance with the requirements of the GDPR.
+
+If not, the WP259 guidelines on consent within the meaning of Regulation 2016/679,
+adopted on November 28, 2017 by the G29 and revised on April 10, 2018 and subsequently confirmed by the EDPB
+at its first plenary session, data controllers have the opportunity to, if necessary, change the legal basis
+change during processing. (See page 36 of the above guidelines)
+
+The controllers can therefore either renew the previously obtained consent by means of a new
+request consent in accordance with the requirements of the GDPR, or the processing operations on another legal basis
+base and at the same time ensure that the processing activities so pursued are in accordance with
+the principles of fairness and responsibility.
+
+The majority of data controllers active in the field of direct marketing have
+elected to ask the data subjects again for consent to ensure that the new consent satisfies
+to the requirements of Article 7 of the GDPR. Others have chosen to continue their processing activities
+on the basis of legitimate interest and therefore, among other things, their customers have all the necessary information about the processing
+of their data and given them the opportunity to immediately object to such processing
+resist.
+
+In this regard, some have taken advantage of the "soft opt-in" exception of the ePrivacy Directive. This one
+exception is only valid for communications to customers and this exclusively in the context of electronic communication
+to promote goods or services similar to those these customers have already purchased.
+
+3.
+137.
+
+Which legal basis for direct marketing processing?
+
+As mentioned in recital 132, certain specific laws specify the legal basis
+on which data controllers must rely in order to process data. It is
+therefore it is your responsibility to check whether you are required by a specific law to
+specific legal basis. When you state personal data in Article 9 of the GDPR
+furthermore, you must be able to demonstrate that your data processing is based on one of the
+
+46
+
+Page 47
+
+legal grounds mentioned in Article 9.2 of the GDPR. Please also note that data provided under Article 10 of the
+GDPR, may only be processed under the conditions set out in that article.
+
+138.
+
+In any case, do not forget to comply with the requirements of Article 13 or Article 14 of the GDPR,
+inform the data subjects about the legal basis of your processing. Whatever legal basis you are zich
+bases, you must communicate this to the data subjects.
+
+139.
+
+There is no hierarchy between the legal grounds provided for by the GDPR. It's up to you to prove
+that your processing is validly based on the legal grounds set out in Article 6 of the GDPR (and
+Article 9.2 of the GDPR, if applicable). Some legal bases are more adapted than others
+to the reality of the processing of personal data for direct marketing purposes. For other
+legal grounds, it may be difficult to apply them validly given the conditions attached to them
+be connected. This is particularly the case for the legal basis "the contract" as provided for in Article
+6.1, b) of the GDPR. This legal basis requires that the data processing is necessary for the
+execution of an agreement concluded with the data subject or at the request of the data subject
+to take measures before the conclusion of an agreement to apply .
+
+140.
+
+The fundamental concept to be taken into account when investigating a
+possible use of this legal ground is that of "necessity". To be based on a
+agreement, the data processing must be strictly necessary for the implementation of this
+contract, or for the pre-contractual measures requested by the data subject
+has. In order to use the legal basis “the contract”, the object, content and
+main purpose of this agreement are specifically defined. This also means that every
+data processing that is not strictly necessary for the realization of this purpose, not on this
+legal basis can be based.
+
+141.
+
+In its opinion on the legal basis “the agreement”, the EDPB recalls that an agreement
+the categories of data or the type of processing operations necessary for the execution of the
+agreement to which the data subject is a party 31 , may not artificially extend, and that what is under a
+agreement depends not only on the perspective of the controller, but also
+of the data subject's reasonable expectations 32 . Given the extreme precision of this legal basis,
+its application is therefore very limited.
+
+Point 31 of the EDPB Guidelines 2/2019 on the processing of personal data pursuant to Article 6.1.b) of the GDPR in
+in the context of the provision of online services to data subjects. The English version is available via this link :
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines-art_6-1-b-adopted_after_public_consultation_en.pdf
+31
+
+32
+
+Point 32 of those directives.
+
+47
+
+Page 48
+
+Example 18
+Mrs. Latige orders 2 bags of potting soil and 6 pots of geraniums on the website of "De Groene Vinger". She wants this
+home delivery and payment by credit card. In order to be able to perform the home delivery contract, you must
+obtain data "surname, first name, address and bank details".
+✓ This data is necessary for the execution of the contract
+
+If The Green Finger also asks for data regarding date of birth and her preference regarding the color
+of flowers, this data is not necessary for the execution of the contract.
+
+142.
+
+In particular, the specific subject matter and context of the
+agreement between the controller and the data subject. It is this specificity that
+inherent in contractual relationships that limit the possibility of exercising the legal basis of Article 6.1, b).
+use it for direct marketing purposes, except where the agreement between de
+the data subject and an organization has the precise and sole purpose of sending direct marketing messages
+received and the personal data provided would therefore only be processed for this purpose.
+
+143.
+
+When another service can be provided outside the data processing that is necessary noodzakelijk
+for the execution of the agreement, this other service must have a different legal basis.
+
+Example 18 bis
+Mrs. Latige asks for her order of potting soil and flower pots to be delivered to her home and gives her
+contact details so that she can receive her order. The following week she found in her letterbox the autumn
+winter catalog of "De Groene Vinger" and a "newsletter" from one of its sister companies, which deals with
+gardening.
+
+✓ The processing of Ms. Latige's data to send her the catalog or to pass it on
+to commercial partners was not necessary for the execution of the contract for the delivery of its
+order.
+
+✓ To do well, the company should have anticipated and:
+-
+
+Either request permission from Ms. Latige, in accordance with the requirements of Article 7 of the GDPR;
+
+-
+
+Or must indicate that its data could be processed for the transmission of
+information about similar products from "De Groene Vinger", to offer her the opportunity here
+to object to.
+
+✓ Otherwise, the processing of Ms. Latige's data for this further processing will
+must pass the compatibility test of Article 6(4) of the GDPR.
+
+✓ In both cases, Ms Latige should have received high-quality information showing that De Groene
+Finger processes her personal data to send her the product catalog and that she has her data
+passes on to business partners of "De Groene Vinger" so that they also receive its promotional announcements, such as
+to send newsletters.
+
+48
+
+Page 49
+
+4.
+
+Legitimate interest
+
+Before examining how the legal ground of legitimate interest works, you should examine whether or not you are covered by the
+application of a special law that prevents you from using it. As a reminder, when you receive unsolicited
+direct marketing messages sent electronically, including via automated calling and communication systems
+without human intervention (automatic calling machines), fax machines or electronic mail, for commercial
+purposes, you must have obtained prior consent from subscribers or users (Article 13.1 of the
+e-Privacy Directive).
+
+However, Article 13(2) of this Directive provides for a so-called "soft opt-in" exception for electronic
+mail (defined as: any message in the form of text, speech, sound or image transmitted over a public communications network
+
+is sent and can be stored in the network or terminal equipment of the recipient until the recipient
+retrieves it ) for the purpose of direct marketing, addressed to existing customers or subscribers whose organization
+obtained the electronic contact details in the context of the sale of a product or service
+on its own . In this regard, this organization is authorized to send electronic mail to these categories of persons
+for the direct marketing of similar products or services it provides , provided that
+these customers are clearly and expressly offered the opportunity to
+object to such use of electronic contact details at the time they become
+collected and at the time of each posting , if they have not refused such use from the outset.
+✓ These rules apply only in this specific context and only in this. If you wish to use
+to make this exception, you must abide by all of its terms.
+✓ The principles set out are also useful for the analysis of the legal basis of the
+legitimate interest of the controllers who wish to invoke it
+do without entering into data processing situations that fall under the
+scope of the e-Privacy Directive.
+
+Article 6.1, f) of the GDPR
+The processing is necessary for the representation of the legitimate interests of the controller de
+or of a third party, except where the interests or fundamental rights and freedoms of the data subject
+require the protection of personal data outweigh those interests, in particular where the data subject has a
+child.
+
+a. Assessment of legitimate interest
+
+144.
+
+This legal basis should be examined in three aspects:
+
+Firstly, it is essential that the interests pursued by you as a controller, or those of
+third parties to whom you wish to pass on the data are recognized as justified ( a.1 ).
+
+49
+
+Page 50
+
+Secondly, the intended processing operations must be necessary for the achievement of this
+interests ( a.2 ).
+
+Thirdly, the balancing of these interests against the interests, fundamental freedoms
+and fundamental rights of the data subjects are in favor of the controller de
+( a.3 ).
+
+a.1. Identification of your legitimate interest(s)
+
+145.
+
+Recital 47 of the GDPR provides an answer and states that “ the processing of personal data”
+
+for the purpose of direct marketing may be regarded as carried out with a view to a
+legitimate interest.”
+
+146.
+
+Without saying this explicitly, this statement at least makes it possible to direct marketing
+be regarded as a goal to be justified within the meaning of Article 6.1, f) of the AVG is considered
+turn into. However, this provision does not mean that any processing of personal data is
+prospecting purposes can be considered justified. It just doesn't get basic
+excluded, it remains possible.
+
+a.2. Are your processing operations necessary for the realization of the purposes set out in the context
+of your legitimate interest(s) are pursued?
+
+147.
+
+Ask yourself whether you would achieve the same result with other means at your disposal
+for your activities without the processing of personal data or without an undue
+significant processing for the data subjects. If the answer is no, you can proceed to the last step:
+the consideration.
+
+Example 19
+The travel agency "Tornado" wants to send its new destination catalog to its recent customers. It sends the
+catalog by post, but wants to make sure that the addressees check their mailbox. That's why it sends
+agency will also send an SMS and an e-mail to the customers informing them that they will receive the catalog and that it
+it would be a shame if they don't look into it.
+✓ The goal is "to send the catalog by mail to my recent customers";
+✓ The processing of the data "telephone number" and "email address" of these customers is not necessary for this.
+
+a.3. Consideration
+
+148.
+
+You must assess whether your interests (attracting people to the opening of your new store,
+announce your new range or keep your brand in the picture after the arrival of a major
+
+50
+
+Page 51
+
+competitor) can weigh on the interests, fundamental freedoms and rights of the people
+whose personal data you want to process.
+
+149.
+
+To make this trade-off, Recital 47 of the GDPR provides an important parameter,
+namely, that the reasonable expectations of the
+data subject on the basis of his relationship with the controller . This "reasonable
+expectations" are the expectations that the data subject may have with regard to the processing of
+his data can or will be executed, with regard to the data relating to him hem
+have and may be the subject of these processing operations, with regard to the reason(s) or
+purpose(s) for which they will or can be processed and by whom.
+
+In this regard, you must in particular take into account the target group whose data you process and to
+who you direct your direct marketing messages to. If these relate or may concern minors, you must
+exercise caution before you believe that your interests override their fundamental rights and freedoms and
+their own interests. An authority will be stricter in its assessment when minors are involved.
+
+150.
+
+Please note that under no circumstances can you rely on any interest of the persons to whom your communication
+(or more generally to process their data for direct marketing purposes). It
+are solely your interests, which is to generally promote your products, services or needs
+be weighed up against the interests, fundamental freedoms and rights of the data subjects.
+
+151.
+
+If you want to take into account the interests of third parties when making your decision, please remember that these
+interests do not necessarily override those of the data subjects and that the reasonable
+expectations of the latter are paramount in your consideration. For example, if you have the new addresses
+of your customers in the event of a move, and third parties are interested in these new contact details
+to update their own customer/prospect files, where these interests are justified
+are (first point to check), you may not only consider the interests, but must maar
+you also take into account the reasonable expectations of the data subjects. It is therefore important that
+you include this option in the information you provide to your customers/members in advance so that they can
+where appropriate, object to such disclosure of data to third parties.
+
+You should also consider the categories of personal data that you intend to process. In the event that
+contain or may contain this data that falls under the category of "sensitive" data, you can prevent your processing
+do not rely on the legal ground of legitimate interest, in accordance with Article 9 of the GDPR, unless you comply with the
+conditions of Article 9.1, d).
+
+51
+
+Page 52
+
+Article 9.1, d)
+“the processing is carried out by a foundation, an association or another non-profit entity that is
+political, philosophical, religious or trade union sphere, within the framework of its justified
+activities and with appropriate safeguards, provided that the processing relates solely to the members or the former
+members of the body or persons who maintain regular contact with it in connection with its purposes, and
+the personal data are not disclosed outside that body without the consent of the data subjects.”
+
+In its judgment C-708/18 of 11 December 2019 " TK v Asociaţia de Proprietari blok M5A-ScaraA " the ECJ
+based on the provisions of Directive 95/46/EC, the following principles relating to legitimate interest and the
+accompanying consideration recalled:
+
+" The criterion of the seriousness of the infringement of the rights and freedoms of the data subject constitutes an essential
+element of the weighing or balancing on a case by case basis required by Article 7(f) of Directive 95/46 ." (recital 56 of
+the judgment)
+
+“As such , particular account should be taken of the nature of the personal data concerned ,
+in particular with the potentially sensitive nature of that data, as well as with the nature and the concrete modalities
+of the processing of the data concerned , in particular the number of persons who have access to it
+data and the modalities of this access . ” (recital 57 of the judgment)
+
+Also relevant for this consideration are the reasonable expectations of the data subject that his or her
+personal data will not be processed if, in the circumstances of the case, the data subject
+cannot reasonably expect further processing of the data." (recital 58 of the judgment)
+
+For the full judgment:
+http://curia.europa.eu/juris/document/document.jsf?text=&docid=221465&pageIndex=0&doclang=FR&mode=lst&dir=&occ=first&part
+=1&cid=7256287
+
+152.
+
+The same applies to personal data that fall under Article 10 of the GDPR and that are only processed
+may be under government supervision or under any law.
+
+153.
+
+The second element to be taken into account in this assessment is the obligation
+to provide additional safeguards to prevent any undesired consequences for the data subject
+can limit. Those safeguards include in particular: data minimization, the use
+of privacy-enhancing technologies, absolute transparency and demonstrating the general and
+unconditional right to object to processing 33 .
+
+Opinion 06/2014 on the concept of "legitimate interest of the data controller" in Article 7 of Directive
+95/46/EC adopted on 9 April 2014 by the Working Party 29 and available via the link https://ec.europa.eu/justice/article29/documentation/opinion-recommendation/files/2014/wp217_en.pdf
+33
+
+52
+
+Page 53
+
+154.
+
+The possibility to object to data processing is a necessary
+element in the investigation into the safeguards that must be provided if you intend to
+to use the legal ground of legitimate interest as the basis for your data processing for direct
+marketing purposes. Without the provision of a real and effective right of objection, no
+balance must be struck between the legitimate interests you pursue and the fundamental
+freedoms and fundamental rights of the data subjects.
+
+b. The right to object
+
+155.
+
+First of all, it should be noted that the right to object does not consist only in
+context of processing for marketing purposes, nor is it limited to processing based on
+legitimate interests. It can also be exercised for processing operations carried out for the purpose of
+on the performance of a task in the public interest.
+
+156.
+
+Apart from that, it is not only one of the necessary conditions for the determination of
+sufficient guarantees for data processing based on legitimate interests; the GDPR
+specifically provides for an unconditional right to object to the processing of
+personal data for direct marketing purposes:
+
+Article 21.2 of the GDPR
+"when personal data for marketing to be processed immediately, the person concerned, at any time, has the
+
+right to object to the processing of personal data concerning him for such
+marketing, including profiling related to direct marketing .”
+
+157.
+
+This specific right to object to data processing for direct marketing purposes
+existed before the GDPR, as it was already provided for in Article 14 b) of Directive 95/46/EC.
+
+158.
+
+The unconditionality of the right to object is specific to processing for the purpose of
+direct marketing, in the sense that when a data subject exercises his right to object
+in accordance with Article 21.1 of the GDPR, irrespective of any direct marketing purpose, there is a second consideration
+follows between the "specific situation" of the data subject and the compelling legitimate legal grounds
+which the controller can invoke and which can justify the processing,
+despite the objection, continues.
+
+159.
+
+However, when the right of retention is used in the context of direct marketing,
+does this objection immediately and without further investigation give rise to the outright termination
+
+53
+
+Page 54
+
+of any processing of data concerning the data subject for the purpose of direct marketing,
+in accordance with Article 21.3 of the GDPR.
+
+The effectiveness of the objection mechanism takes into account the ease with which
+the persons concerned can exercise it, on the one hand, and with the effectiveness of the exercise
+of it, on the other.
+
+b.1. Facilitating the right to object
+
+Recital 70 of the GDPR
+"When personal data is processed for direct marketing purposes, the data subject, whether or not
+concerns an initial or further processing, to have the right to object at any time and free of charge
+object to this processing, including in the case of profiling insofar as it relates to direct marketing."
+That right must be brought to the attention expressly, in a clear manner and separately from other information
+
+be brought from the person concerned .
+
+160.
+
+Facilitate means, among other things, that you clearly state the right of objection, in a
+simple and unambiguous language, include it in all your direct marketing messages , from
+the first message 34 , and that you are of course offering this for free .
+
+161.
+
+It is not sufficient to include the ability to exercise this right in your “privacy policy” (or any
+equivalent), this possibility must be expressly given to the data subjects
+presented, on an appropriate medium that you can demonstrate with certainty that it has been brought to the attention of
+of these persons, in such a way that it is not possible that they have not seen it
+to have.
+
+162.
+
+The data subject must also be able to exercise this right directly (as soon as you have completed the mandatory
+provide information about the data processing that you must provide in accordance with the requirements of
+Article 13 of the GDPR in the case of direct collection, or the requirements of Article 14 of the
+the GDPR in the case of an indirect collection), easy (if the mandatory information
+is provided digitally or if you contact the person through digital channels, a single click should
+suffice), without additional steps (once they have objected, they cannot be required to
+repeat or confirm their request) and at no cost (direct or indirect).
+
+163.
+
+The information provided about this right to object must be clear and transparent. The
+terms used must be accurate and unambiguous so that the data subject understands what
+he can object, in what way and what the consequences (limited to the lack of future
+processing of his data for direct marketing purposes) to such an objection.
+
+Article 21.4 of the GDPR “The right referred to in paragraphs 1 and 2 shall be exercised at the latest at the time of the first contact with the data subject.
+expressly brought to the attention of the data subject and presented clearly and separately from any other information.”
+34
+
+54
+
+Page 55
+
+Example 20
+“Crystalclear”, a company specializing in the sale of glassware, sends its customers who recently bought wine glasses
+have ordered an email with a special offer on matching water glasses. By opening this email
+customers can, in order, provide the name of the company, the title of the offer, an attachment about their right of objection and
+read the content of the offer. This appendix reads "You are receiving this notice because you have recently purchased our products
+has bought. If you no longer wish to receive such communications and we process your
+stop personal data for our direct marketing purposes, click here
+
+.
+
+✓ The space that this possibility of resistance occupies and the explanation given in connection with it,
+facilitate and guarantee that the data subject can object to the processing of his or her data
+for direct marketing purposes.
+
+Example 21
+The company "Smoke Screen", which specializes in the sale of electronic cigarettes, sends customers who recently
+bought refills on his site a marketing message by email offering a free refill refill
+the purchase of two copies. Customers who open the email will see the company name and the content of the offer
+an attractive color. At the very bottom is in smaller letters and without distinguishing marks, the notice
+"I want to unsubscribe" with a link to the privacy policy of the website of the company "Smoke screen" where the customers
+of the company, under the heading "why do we process your data?" can object by means of a
+automated form.
+
+In this counterexample there are a number of problems that, each on its own, mean that the company does not meet the
+requirements for the convenience of exercising the right to object:
+✓ The placement of the notice of the right to object is not compliant. People look easy
+across.
+✓ The typology used does not draw the attention of the data subjects to their right to object.
+✓ The terminology used is confusing. Unsubscribe", "unsubscribe" or "no longer wish to
+received" does not imply that the processing of personal data for marketing purposes
+is discontinued .
+✓ The fact that the data subject can not so easily object to the processing of his/her
+whether her data is through the channel through which he or she receives these marketing communications
+unacceptable.
+
+164.
+
+However, nothing prevents the data subjects from selecting the processing operations
+to which they wish to object in the context of your direct marketing purposes. So you can, if your
+procedures allow, allow data subjects to object to the processing of their data
+data in the context of profiling and/or sending newsletters via e-mail and/or promotional
+text messages. This is provided that your internal database management actually makes it possible to
+certainty to respect the rights of the data subjects and the data processing against which they
+objected to it.
+
+55
+
+Page 56
+
+b.2. Effectiveness of the right to object
+
+Article 21.3 of the GDPR
+"Where the data subject objects to processing for direct marketing purposes, the
+personal data is no longer processed for these purposes."
+
+165.
+
+Not only does this mean that you can no longer send other direct marketing messages (not even
+message aimed at inducing the data subject to reconsider his decision), but
+also that you are no longer allowed to process the personal data of this person for this purpose
+direct marketing purposes, including profiling purposes for example, to the extent that you
+uses it for your direct marketing communication. All data processing related to
+marketing purposes must be discontinued, unless the same processing is necessary
+are for the fulfillment of other purposes for which you have a valid legal basis.
+
+The Berlin Data Protection Authority has imposed a fine of EUR 195,407 on "Delivery Hero Germany
+GmbH", which was sold to the Dutch group "Takeaway" in 2018. This company also provided the delivery services
+"Foodora", "Love Hero" and "Pizza.de aan".
+
+The fine was imposed for multiple violations of the GDPR, including failure to respect the right to
+objection raised by certain users and former customers. For example, eight former customers
+of "Delivery Hero" "complained about unsolicited advertising emails from the company". In addition, one person had 15
+received promotional e-mails, although he had expressly objected to the sending of such
+messages.
+
+In addition, several individuals had not received any information about the information that "Delivery Hero" about them
+had saved.
+
+For more information on this case: https://www.gruenderszene.de/food/dsgvo-bussgeld-takeaway
+
+Where Article 21(3) states that "data will no longer be processed for these purposes",
+furthermore, admit that this concerns not only your data processing for marketing purposes, but also
+those of third parties to whom you have provided this information for such purposes, and you must inform them thereof
+inform. If a processing lapses, this will also be the case for other processing operations that follow.
+
+56
+
+Page 57
+
+166.
+
+This also means that if you collected certain information solely for your marketing purposes, you
+which in principle may no longer be kept 35 , with the exception of its storage with a view to
+dispute and legal defense of the data subject, for the protection and defense of rights
+of another person or for important reasons of public interest for the Union or for a Member State.
+In this case, however, you must limit the processing of data to this purpose, in accordance with Article
+18.1, c) and 18.2 of the GDPR.
+
+c. Article 6.1, f): a clear legal basis for processing for direct
+marketing?
+
+167.
+
+In addition to the reservations mentioned above, the question also arises whether this legal basis can be used
+for anything that can be defined as “processing of personal data for direct”
+marketing purposes".
+
+168.
+
+First of all, a distinction must be made between messages that are addressed to an existing
+customer and messages addressed to a prospect. The reasonable expectations of an existing customer
+are not the same as a prospect's, as there is no relationship between you and those prospects.
+When you have never had any relationship with a data subject, or this relationship goes back a long time
+without this having been followed in the meantime, the legal basis of legitimate interest cannot be
+because the receipt of your message is not within their reasonable expectations.
+
+169.
+
+More nuanced situations can also arise, such as when people are interested
+shown in your services, products and promotions. Always ask yourself what their reasonable expectations are
+to be.
+
+Example 22
+Mr Curiosa visits the website of "Hagelwit", which sells tooth whitening products. He would like to know more about
+one of the products offered and sends a request in the reserved contact tab. Therefor
+he enters his email address.
+✓ Entering his email address to receive the requested information, Mr. Curiosa expects
+not reasonably expect him to receive newsletters and other promotional communications from "Hagelwit"
+sent. However, the company may ask Mr. Curiosa in their response whether he agrees to
+to receive advertising messages from "Hagelwit".
+
+Article 5.1, e) of the GDPR: “Personal data must be kept in a form that allows data subjects to no longer be
+than is necessary for the purposes for which the personal data are processed. (…)”.
+35
+
+57
+
+Page 58
+
+Example 22 (continued)
+✓ If Mr Curiosa, when he contacted "Hagelwit", had said "I am a big fan of your products,
+I would like to know everything about them, can you keep me informed about your products and promotions?", would
+his reasonable expectation is natural to receive direct marketing communications from that company. However
+must inform "Hagelwit", at the first communication, Mr Curiosa of his right to object
+to make.
+
+170.
+
+However, this example does not mean that sending direct marketing communications to
+a customer on the basis of the legitimate interest legal basis, just because it is a "customer",
+anyway justified. It is up to you to assess in advance whether the
+conditions are met for a lawful use of this legal basis.
+
+171.
+
+In this regard, Article 13.2 of the e-Privacy Directive provides an important element to
+to take into consideration. It specifies that a person may use the personal data of his existing customers
+to send them electronic mail “ for own similar products or services ”.
+
+172.
+
+When you use legitimate data for your processing for direct marketing
+interests as a legal basis, take into account whether or not similar or comparable
+nature of what you are promoting in your posts, as well as any links, whether existing or not, between your
+organization and the recipients of your messages. For example, if you connect a computer to a computer
+person and you send marketing messages to that person about chocolate that your organization
+also sells, it is difficult to base yourself on the criterion of equivalent and comparable products.
+If, on the other hand, the messages are related to antivirus software, they are equivalent and
+similar products. This means that, even if your organization or store has a wide range of
+offers a variety of products or services, it is not enough to analyze whether the persons to whom
+want to send you direct marketing messages, whether or not they are customers. You must also take into account when making your decision
+with all the criteria that determine the reasonable expectations of these persons, which is a fundamental requirement
+of the GDPR.
+
+Example 23
+Mr Curiosa orders a teeth whitening kit on the "Hagelwit" site. He becomes a customer of this company. A few months
+after this order, Hagelwit develops a new activity line and starts with textile bleaching agents. That's what they want
+let all existing customers know.
+
+✓ The criterion of similar or analogous products is not met.
+✓ It is preferable to use the legal basis of the consent to avoid being
+sanctioned for processing data without a valid legal basis.
+
+173.
+
+This illustration based on Article 13 of the ePrivacy Directive does not imply that non-electronic
+communication is excluded from the possibility of being based, where appropriate, on the
+
+58
+
+Page 59
+
+legal basis legitimate interest; nor does it mean that this legal ground cannot be used
+by organizations that do not promote products or services. For example, are you a charity
+and if you want to promote your activities and works by post or e-mail, you can investigate whether the legal basis
+legitimate interest may apply to your processing of personal data.
+
+174.
+
+In light of the above analysis, please note that although the legal basis
+legitimate interest should not be automatically excluded as the basis for the processing of
+personal data in the context of direct marketing, it is not necessarily easy to
+and that it is not always valid, given the specificities of your processing activities.
+
+5.
+
+The permission
+
+a. Understanding
+Article 4.11 of the GDPR
+"any free, specific, informed and unambiguous expression of will by which the data subject by means of a
+statement or accepts an unambiguous active act regarding the processing of personal data."
+
+175.
+
+Schematically, a valid permission looks like this:
+
+•Transparency
+
+•Choice
+
+informed
+
+free
+
+specific
+
+unambiguous
+
+• Accurateheid
+
+176.
+
+•Security
+
+The criteria for the validity of the consent within the meaning of the GDPR form an indivisible whole.
+There can be no consent that is only specific, free and unambiguous if it is not informed, and
+vice versa.
+
+59
+
+Page 60
+
+If you process the data for direct marketing purposes based on the consent of the data subjects,
+you must ensure that the above four conditions are met, otherwise you will not have a
+valid legal basis for your data processing, making it unlawful and therefore subject to sanctions.
+
+The CNIL, the French Data Protection Authority, has a sanction in limited composition on January 21, 2019
+of 50 million euros ordered by the company GOOGLE LLC in application of the GDPR for lack of
+transparency, unsatisfactory information and lack of valid consent for the personalization of the
+advertisement.
+
+It has found that the information provided by GOOGLE is not easily accessible, clear and understandable
+to the users and it is not clear that the legal basis for processing data for the purposes of
+the personalization of advertising is the permission.
+
+The CNIL in limited composition concluded that the consent was not valid for two reasons
+is collected.
+
+First, users' consent was not sufficiently informed. Because the information about this
+processing is fragmented over different documents, the user does not gain insight into its size. So is
+in the section dedicated to "Ad personalization", it is not possible to take cognizance of the multitude of services, sites,
+applications involved in this processing (Google Search, YouTube, Google Home, Google Maps, Play Store,
+Google Photo...) and thus the volume of data being processed and combined.
+
+Second, it was held that the consent obtained is not "specific" or "unambiguous". Although GOOGLE
+allows the user to set the options for using his services when creating bij
+an account, the GDPR is not respected because the user has to click on "more options" to access
+to the settings, whereby the display of personalized advertisements is also checked by default.
+
+According to the GDPR, consent is only "unambiguous" when the user takes an active action (e.g
+checking an unchecked box). Finally, before creating an account, the user is asked to
+the boxes "I agree to Google's terms of service" and "I agree to my information being
+used as described above and detailed in the Privacy Policy" to create an account.
+This means that the user consents en bloc for all purposes pursued by GOOGLE (personalization
+advertising, speech recognition, etc.). But consent is only "specific" according to the GDPR if it is for every purpose elk
+is given separately.
+
+For more information about this case (in French): https://www.cnil.fr/fr/la-formation-resttreinte-de-la-cnil-prononceune-sanction-de-50-millions-deuros-lencontre-de-la
+
+60
+
+Page 61
+
+b. Examination of the conditions for a valid consent
+
+b.1. An informed consent
+
+177.
+
+The person who gives his consent must understand perfectly what and what he is for
+gives permission. This condition is inextricably linked to the information provided by the
+controller must be provided to the data subject at the time that his/her
+data is collected if it is collected directly from the data subject, or within a
+reasonable term if not collected directly from this person. This information must
+be explicit (and not just be "accessible" but become the person from the start
+presented to him, so that he can certainly see them), clear, formulated in an understandable language and complete
+(and should also cover, for example, any profiling that would be performed, among others
+forms of data processing that are more visible to the data subject).
+
+178.
+
+In addition, the request for consent must be made separately from all other requests
+submitted (including acceptance of the terms and conditions, privacy policy or further het
+surf).
+
+Article 7.2 of the GDPR
+"If the data subject gives consent in the context of a written statement that is also available on other
+matters, the request for consent shall be made in a comprehensible and
+accessible form and presented in clear and simple language (…) (…)"
+
+179.
+
+The requirement of transparency is one of the fundamental pillars of GDPR. Together with the principles of
+fairness and lawfulness of processing is also the provision of quality information to
+essential to enable them to make an informed decision.
+
+180.
+
+In order for the consent to be informed, your information document must conform
+with Articles 13 and/or 14 of the GDPR, and therefore contain at least the following aspects 36 :
+✓ The identity of the controller and the recipients of the data, at its
+at least the categories of recipients and the purposes they pursue,
+✓ The purpose of any processing for which consent is requested,
+✓ The processing operations, in particular the most radical (for example profiling and/or
+automated decision-making in accordance with Article 22, §2, c) of the GDPR, if
+applicable,),
+✓ The data or categories of data that are collected and used,
+✓ The right to withdraw consent at any time,
+
+36
+
+EDPB, Opinion WP259 rev. 01, "Guidelines on consent under Regulation 2016/679", p. 14, point 3.3.1
+
+61
+
+Page 62
+
+✓ In case of transfer of the data to certain countries outside the EEA, information about
+the possible risks associated with the transfer of data in the absence of a
+adequacy decision and of appropriate safeguards as described in Article 46 of the GDPR.
+
+b.2. A free consent
+
+Recitals 42 and 43 of the GDPR can be summarized as follows:
+Consent as a legal ground is not valid if:
+
+✓ The person is forced to give it to avoid disadvantage ;
+✓ The person can not withdraw their consent at any time ; or if
+The consent is presented as a non-negotiable part of the terms and conditions.
+
+181.
+
+The person who is asked to give consent to the processing of his data must
+have a real possibility of accepting or refusing, without incurring a
+refusal, access to a service or any other advantage is denied (such as, for example, access
+to press articles that are put online for free should not depend on the processing of
+personal data for direct marketing purposes).
+
+Don't make the delivery of your products or services (even for free) dependent on the processing acceptance
+of personal data that are not necessary for the provision of the service or the delivery of the product. Try
+not to coerce or in any way incite the data subjects to give their consent for such
+processing.
+
+182.
+
+When determining whether consent can be freely given, according to Article 7.4 of the GDPR
+“ among other things, take the utmost account of the question whether, for the performance of an agreement,
+
+including a service agreement, consent is required for a processing of
+personal data that is not necessary for the execution of that agreement. ”
+
+183.
+
+The use of the words "among other things" means that many other situations under the
+scope of this provision and that any undue pressure or influence on the
+person who prevents him from exercising his will will invalidate the consent, with all consequences
+of that 37 .
+
+37
+
+WP259 rev. 01, p.6.
+
+62
+
+Page 63
+
+Example 24
+A mobile sports coaching app asks its future users to be able to access their personal data
+process "to make them work and to send behavioral advertising". Behavioral advertising is not necessary to use the mobile
+application to work properly. However, the app does not leave the choice to future users: they accept
+everything or they are not entitled to anything.
+Since individuals cannot use the mobile app without consent to the processing of their data
+for advertising purposes, their consent cannot be considered as freely given, even if some persons
+actually consent to the processing of their data for such purposes.
+
+Our Authority has imposed a penalty of 10,000 euros on a trader who uses the electronic identity card
+has used to create a loyalty card, without offering any other alternative means of identification.
+
+Because the complainant did not want to show his identity card, he was refused the customer card, although he
+offered to provide his details in writing in order to obtain a loyalty card. If customers refuse their
+use electronic identity card to create a loyalty card, they are penalized and cannot
+benefit from the same benefits and discounts as others, in the absence of an alternative.
+
+The Disputes Chamber of the GBA found this practice to be contrary to the GDPR, in particular because the
+Consent cannot be considered freely given because clients are not offered an alternative.
+
+For more information: www.dataprotectionauthority.be/nieuws/GBA-sanctioneert-een-handel-voor-hetuse-eid-to-create-loyalty-card
+
+b.3. A specific permission
+
+184.
+
+Consent must be given for "one or more specific purposes". In addition, the
+data subject, in case of several purposes, can choose from these purposes, if
+does not agree to those purposes.
+
+185.
+
+This requirement stems from the desire to give data subjects a degree of control with
+regarding the use of their personal data. The same applies to the obligation of transparency
+with regard to the data subjects and their freedom to consent to certain processing operations and not to
+other, in particular with regard to the placement of cookies, for which you, among other things, have a clear
+distinguish between functional cookies and non-functional cookies, such as analytical cookies.
+
+63
+
+Page 64
+
+On December 17, 2019, our Authority imposed a penalty of 15,000 euros on a company because of its
+technique for collecting consent to place cookies that was deemed to be in violation of the rules of the
+GDPR.
+
+The GBA found that this company has repeatedly been negligent with regard to its obligation to
+transparency as provided for in Articles 12 and 13 of the GDPR and that she does not have a valid consent (opt-in)
+obtained for placing cookies.
+
+The full text of the decision is available at the following link:
+www.dataprotectionauthority.be/sites/privacycommission/files/documents/BETG_12-2019_NL.PDF
+
+Example 25
+Placement of cookies on your website
+
+✓ You must inform the visitors of your website about the cookies you want to use, their purpose(s) and the
+data they collect. This information must be visible, clear and accessible as soon as the person in
+matter open your website. Using an information banner is the most convenient for this.
+
+✓ In this information banner (for example) you must specify the possibility and method of placing cookies
+so that the data subject has the opportunity to consent or not to allow some of the
+their data is collected by placing certain types of cookies. To make this choice possible
+you must be very clear about the purposes for which data is collected via cookies
+for instance:
+o Do you accept the placement and use of cookies so that we can analyze [name of organization]
+you are interested in and can offer you advertising adapted to it?
+o Do you accept the placing and use of cookies so that our partners [overview of relevant
+partners] can analyze what interests you and provide you with advertising based on them
+is adapted?
+o Do you accept the placement and use of cookies so that we can analyze [name of organization]
+you are interested in and can offer you advertising adapted to it?
+o Do you accept the placing and use of cookies so that our partners [overview of relevant
+partners] can analyze what interests you and provide you with advertising based on them
+is adapted?
+o Do you accept the placement and use of cookies for the analysis of your navigation in order to visit?
+to measure our website?
+
+186.
+
+Intrusive and non-functional cookies should be set as inactive by default. You are not allowed in any
+require data subjects to return to their own browser settings each time in order to
+prevent the placement of non-functional cookies.
+
+187.
+
+Like all requirements for permission, the specific nature of the
+consent is inextricably linked to the complete information provided by the
+64
+
+Page 65
+
+controller must be provided. You must therefore each of the objectives pursued
+clearly and specifically, otherwise the consent given will not be valid, just because they are not specific
+is.
+
+Example 26
+The company "HouseKeyper" offers various services to its customers, which include all or some of the services offered
+decrease. "HouseKeyper" collects personal data in the context of the provision of each of its services, in
+accordance with the contract with its customers. The company wants to improve its marketing by becoming more targeted
+communication to its customers. For this, this company wants the data it collects in the context of its
+supplement or link to the home delivery service with the data it collects in the context of its
+savings account service. It would also like to pass this result on to third parties who are interested in this
+merge.
+
+✓ In order to perform this data matching/enrichment, "HouseKeyper" is required to identify the individual,
+to request informed, specific, free and unambiguous consent from its customers for this
+data matching/enrichment.
+
+188.
+
+The precision of the targets makes it possible to avoid a diversion in the use of
+prevent personal data. The person has agreed to target A, but not to target B. If the
+person in question did not know that his data would be processed for purposes A and B, the
+permission given for one cannot be used for the other. This applies to
+purposes pursued by the same controller, as for (whether or not
+further) purposes pursued by third parties.
+
+Example 26 bis
+If "HouseKeyper" wants to do it right, in addition to being complete, clear, transparent and accessible
+information about the purpose and the processing, request the consent of its customers in the following way:
+
+"I agree that the personal data about me collected through 'this form' in the context of the
+delivery service to which I subscribe may be supplemented or combined with the personal data
+about me collected by 'HouseKeyper' under my savings account contract:
+
+✓ to be able to create files, such as a typical consumer profile, that are useful for our
+marketing campaigns to offer you more targeted products: YES/NO
+
+✓ the result of this and the merging of this result with a standard profile as well as your email
+mail details will be communicated to and used by [name of the organization concerned],
+active in the sector of selling [describe the category of activities] for the purpose of sending
+of targeted advertising by email [describe]: YES/NO."
+
+189.
+
+If you want to process data for a purpose other than the one for which you originally collected it
+collected and this first processing is based on consent as the legal basis, you must
+request additional permission for this new purpose.
+
+65
+
+Page 66
+
+Example 27
+A telecom operator has the customer's data to provide access to the television channels and for
+the administrative management. It wants to send them targeted advertising based on the preferences and habits, so in the
+practice, based on an analysis of the programs they watch. This goal of behavioral analysis for the purpose of
+sending targeted advertising was not foreseen when the personal data of its customers was
+were collected first. They must therefore first be asked for permission in a specific way.
+
+190.
+
+If you pursue different direct marketing purposes and/or if these purposes differ
+types of processing, be specific. Make sure that the person for each
+separate processing can give its consent. Do not use a single button to accept (“allin” permission by means of buttons such as “accept all”) or too general terms. Mention
+clear the different purposes (and the associated processing) for which you request permission,
+so that data subjects can selectively give their consent if necessary.
+
+b.4. An unambiguous consent
+
+191.
+
+The GDPR states that consent requires a clear positive act, which must be
+given by means of a written or oral statement. This condition mainly serves
+in order to avoid the slightest ambiguity about the data subject's will to be
+to give permission.
+
+192.
+
+This requirement puts an end to the pre-ticked checkbox method, on
+checkboxes that must be checked to deny consent ( opt-out ), as well as to the
+technique to announce that further surfing on the website is equivalent to giving permission (for
+collecting data via cookies for example).
+
+If the chosen legal basis for your processing is consent, you can use the criterion of the
+active act used by the GDPR, the silence or inactivity of the data subject does not constitute a
+indication of his or her choice, nor the mere fact that he or she continues to use a service or
+pre-checked box.
+
+66
+
+Page 67
+
+In its judgment C-673/17 of 1 October 2019, entitled "Planet49", the ECJ ruled that the consent
+given by means of an opt-out and/or a pre-ticked box does not constitute a valid consent from the
+internet users is to place cookies.
+
+Internet users who wanted to participate in a contest organized by Planet49 were forwarded to
+a web page where they had to enter their name and address. Among the boxes to be filled in for the address were
+two entries, accompanied by two boxes to be ticked, the second of which was the subject of the
+question submitted to the ECJ for a preliminary ruling.
+
+This box was checked by default and it read:
+" I accept that the web analytics 'Remintrex' is activated on me. As a result, the organizer of the
+
+promotional game, [Planet49], after permission of the promotional game, install cookies, making 'Remintrex' my
+web browsing and visits to the websites of the advertising partners and interest-based advertising
+can send. I can delete the cookies at any time. Read more here. "
+
+By activating the electronic link that appears in the entry at the second checkbox, below the word
+"here", information about the placement of cookies on the Internet users' hard drive would appear.
+
+The Court held that the data subject's consent may make such processing lawful, provided that it
+consent is given "unambiguously" by the data subject. However, she says that "only active behavior of those
+person to show consent is of a nature to meet this requirement.” She adds that “it is in this
+connection seems practically impossible to determine objectively whether the user of a website actually consents
+has given for the processing of his personal data by not unticking a standard checked box and
+in any case, whether that consent has been given in an informed manner. After all, it cannot be excluded that
+the said user has not read or even seen the default checked information before he/she
+activity on the website he visits."
+
+See: http://curia.europa.eu/juris/document/document.jsf?docid=218462&doclang=FR
+
+193.
+
+In a digital context (purchase of products online, various registrations, etc.), those involved get
+numerous requests for permission, which can lead to them losing control and having a certain
+fatigue sets in, prompting them to automatically answer “yes” or “no” to everything.
+
+194.
+
+To avoid this risk, you can vary the way in which consent is obtained. It
+ticking boxes is not the only possible technique.
+
+67
+
+Page 68
+
+Example 28
+When browsing a website, a banner will appear that reads "drag the bar to the left, you are voting
+using information X for a target Y." The banner will be displayed on the website. Repeat the motion
+to confirm".
+As long as the instructions are clear so that the person understands exactly what he or she agrees to, that he or she agrees
+agrees by making the move, and that he or she can continue surfing without making the move, the on this
+Consent collected in the manner valid under the GDPR. In the same way, waving your hand for a smart
+camera, turning your smartphone in the indicated direction or recording a verbal consent all
+ways to validly obtain the person's consent.
+
+Remember that applying the so - called opt-out does not lead to obtaining a valid
+permission!
+
+Example 29
+The company "Not Seen Not Packed" wants to use its customer base to send them information about the new
+services it offers to provide alibis. The company had not asked its customers in advance whether or not they
+wanted to receive such commercial messages. The company is therefore considering sending them a letter or email
+stating that they are free to decline such messages. That email contains an email address to whichmailadres
+can message customers if they don't want to receive these messages. In the e-mail there is a to
+check box. Both messages state that if the customer does not state otherwise or puts a "tick" in the box,
+this will be considered consent to receive promotional advertising.
+✓ Failure to respond by customers of "Not Seen Not Packed" does not constitute valid consent according to the AVG.
+
+195.
+
+The fact that a person does not click an opt-out box does not mean that the
+controller can conclude with certainty that that person is unequivocally
+has given permission for the processing of his personal data. In addition, the GDPR adds, such as
+will appear below, imposes an obligation on the controller to provide evidence bewijs
+for the consent that he wishes to use as a legal basis for his data processing. Without
+such evidence, the processing is unlawful and may therefore give rise to sanctions. That is why
+always better to use a mechanism like an opt-in.
+
+The requirement to obtain an active act of consent cannot be separated from the other requirements
+the permission is given. As a reminder, consent must be given in an informed manner. This
+This includes understanding that the person must not only understand what he or she agrees to, but also that he or she
+is in the process of voting.
+
+196.
+
+Those involved must be able to clearly understand the options available to them
+and, where there are multiple choices, the choice to consent to the processing of
+their personal data is clearly visible and comparable for specific direct marketing purposes
+with any other choice. Even if the controller intends to use this data for
+different direct marketing purposes, the data subject should, if necessary, be given the opportunity
+
+68
+
+Page 69
+
+to accept certain purposes and refuse others. A single button that allows the person all
+can tick boxes for which his permission is requested, is therefore not valid.
+
+Example 30
+Someone orders an article on the site of ready-to-wear "HiddenMiserie". To complete the order, it must be
+person's contact details. After the data has been entered, a pop-up will appear, in which it is clearly legible
+states " Your details will be used to be able to send you the order. Do you give us permission to
+
+to use data for invoicing? ". At the bottom right of this box is a clearly visible button in a well-to
+distinguished color, marked "Accept all". Top left, in a small font and overflowing into the
+window, a window magnifying arrow shows the entire message, which also indicates that "you give us permission to use your
+use data to send you our promotional offers. You agree that we may share your information
+pass on to commercial partners."
+
+✓ Although the data subject was given the opportunity to take note of this additional information and to
+decide whether or not to accept these various data processing operations, was this
+possibility not clear. As a result, the customer was unable to provide valid consent for all
+processing his data.
+
+197.
+
+Don't ask for permission in an ambiguous or superficial way. The permission of the
+person must be unambiguous. This also applies to you.
+
+198.
+
+In addition, the fact that consent has been given to receive advertising or
+informational messages by e-mail not that you have also consented to receive telephone calls
+calls. Therefore, it is necessary to ensure that you provide an unambiguous
+obtain permission , both about the content of the messages and about the means used for this
+be used . If multiple means of communication can be used, the requests
+for consent can therefore be split up, rather than formulating a single request.
+
+199.
+
+Finally, if you obtain verbal consent, be sure to either include it (after
+prior notice), or confirm in writing. This also stems from your
+accountability, which requires you to document your processing of personal data.
+
+Example 31
+The NGO "Hope for climate" organizes a fundraising dinner with an auction. Many companies buy places and
+send employees there. The receptionist tells them that they will receive a thank you card after dinner. They
+also asks the guests if they can be photographed, and if they accept that the NGO will send them a newsletter later
+will send and information about activities.
+
+69
+
+Page 70
+
+Example 31 (continued)
+Persons who give permission for such data processing do this verbally to the receptionist. That
+put "OK1" next to the name of the people who have accepted to be photographed, "OK2" when accepting
+the newsletter and other direct marketing communications. In addition to the names of those who accept both,
+"OK3" set.
+✓ These notes do not guarantee proof of obtained consent.
+✓ One way to obtain proof of consent is to, together with the thank you card, send the participants
+to confirm their consent to receive direct marketing communications.
+Without that confirmation, the NGO "Hope for climate" is not allowed to process their data for direct
+marketing purposes.
+
+200.
+
+Regardless of how you obtain permission, for example via an electronic form or on paper, make sure
+ensure that the request for permission is clear, concise and unambiguous. If you give your consent verbally
+obtain, ensure that this has been clearly communicated and that the information has been
+person concerned was understood. Do not forget to request the permission, and the amplified permission,
+either to record or to have it confirmed. This allows you to prove that you have corrected the information
+and that permission has been given.
+
+b.5 The explicit consent
+
+201.
+
+If the processing of personal data in the context of your direct marketing purposes
+entails the processing of data that falls under Article 9 of the GDPR, you must take into account
+subject to an additional validity condition for the consent to use such data
+processing: it must be “explicit”.
+
+202.
+
+This means that you must set up a system that allows the data subject to give his or her consent
+expressly, for example by means of a written statement from the data subject,
+possibly with his signature. You can also ask the data subject for his/her consent
+expressly confirmed by e-mail or by having him fill in an online form. You can identify the data subject
+also ask to confirm his consent verbally while you are recording, provided he
+has received sufficiently clear and complete information about this 38 .
+
+c. Can a minor be asked for permission?
+
+203.
+
+If your activities are or may be aimed at an audience including children, then
+in particular, you must ensure that they can validly consent to the processing of their data
+for direct marketing. The requirement that consent must be “informed” may
+
+38
+
+For more information on this topic, see WP259, p. 21-23.
+
+70
+
+Page 71
+
+missing when it comes to minors who do not have full discernment
+possess.
+
+204.
+
+You must therefore ensure that the minors can understand what they agree to,
+in particular by explaining in very simple terms which data you wish to
+use, for what purposes and how you will process them, emphasizing that they have their consent
+can withdraw at any time.
+
+In the context of information society services offered directly to children,
+specific rules. Article 8 of the GDPR establishes an additional level of protection compared to Directive 95/46/CE
+when personal data of minors are processed in the context of this type of service.
+
+Recital 38 of the GDPR specifies as this specific protection applies in particular to the use of the
+data for marketing purposes or the preparation of personality profiles.
+
+205.
+
+When you operate in the information society services sector and your audience
+may include minors, you must comply with the rules of Article 8 of the GDPR. To check whether services
+are not aimed at children, consideration will be given to whether access to them may be restricted
+to persons 18 years and older, provided that this is not contradicted by others
+elements, such as the content of the website or its marketing plans 39 .
+
+206.
+
+In the context of offering such services, in Belgium you may collect personal data from
+minors only process based on their consent as they reach the age of 13 years have
+reaches 40 . The age criterion for "digital consent" is defined by Article 8.1 of the GDPR
+left to the discretion of national legislators. Some Member States have a higher age
+such as France, which keeps the age at 16. Therefore be alert for this crucial difference
+when you collect data from underage users in cross-border activities. The best
+solution in that case is to apply the highest age yourself to obtain a valid
+permission.
+
+207.
+
+When the data subjects whose data you process have not yet reached the age that you
+allows them to be regarded as adults (because they are able to use their discernment
+show), you must have the minor's consent validated by the adult providing the parental
+bears responsibility. In this case, using all available technological means
+
+39
+
+EDPB, WP259 rev. 01," p. 29, point 7.1.2
+
+40
+
+See in this sense article 7 of the law of 30 July 2018 on the protection of natural persons with regard to the
+processing of personal data, BS 5 September 2018.
+
+71
+
+Page 72
+
+make reasonable efforts to verify that the validated or given consent is indeed
+of the holder of parental responsibility.
+
+208.
+
+The EDPB specifies: "if the users indicate that they are of digital consent age
+reached, the controller may carry out appropriate checks to verify that this assertion
+correct. While the need to make reasonable efforts to verify age is not
+expressly included in the GDPR, it is implicitly required, because in the case of a child consent
+gives when it is not old enough to give a valid consent in its own name, this the
+processing of data unlawful. “ 41 .
+
+209.
+
+Finally, it should be noted that age control should not lead to excessive additional
+data processing. The mechanism you use to check age depends on the
+risks associated with the processing. If the intended processing operations involve a low risk
+bring along, a not infallible, but sufficient mechanism may consist in determining the year of birth
+or to have a form filled in stating that the age of the digital
+consent was reached 42 . If you find yourself in a situation where you need the consent of the holder
+of parental responsibility, the method you should use also depends
+of the risks associated with the processing and of the available technologies.
+
+d. How long does the permission remain valid?
+
+210.
+
+The GDPR does not specify how long a consent obtained remains valid. Everything depends on the
+context, including the scope of the initial consent, the nature of your activity and the
+legitimate and reasonable expectations of the person who gave the consent. It is mainly
+a matter of common sense.
+
+211.
+
+It is therefore your responsibility to provide a retention period for the data that
+respects the principle of proportionality.
+
+212.
+
+The EDPB advises “to renew consent at appropriate intervals. It also helps here
+providing all information to ensure that the data subject remains well informed about how
+his or her data is used, and how his or her rights can be exercised. “ 43 This
+advice is all the more important if you intend to contact former customers, or customers who use
+have made a unique service (for example the rental of crutches) or a one-time purchase eenmalige
+have done to you.
+
+41
+
+EDPB, WP259 rev. 01, point 7.1.2, p. 29.
+
+42
+
+EDPB, WP259 rev. 01, point 7.1.3, p. 30.
+
+43
+
+EDPB, WP259 rev. 01, point 5.1, p. 24.
+
+72
+
+Page 73
+
+213.
+
+Use the renewal of consent as a means of communication par excellence. launch
+For example, data protection prevention campaigns, by explaining how your organization uw
+manage data and take the opportunity to thank your customers, subscribers or members
+that they have consented to the processing of their data for your marketing purposes. Explain
+why this is interesting and remind them that at any time, through a simple method, they can
+may withdraw consent.
+
+e. Additional conditions for the validity of the consent
+
+The GDPR provides further explanation and details about the conditions for obtaining and demonstrating a valid
+consent: the burden of proof rests with the data controller who has consent toestemming
+obtained and the possibility for the data subject to withdraw that consent at any time.
+
+Article 7 of the GDPR
+1. Where the processing is based on consent, the controller must be able to demonstrate
+that the data subject has given permission for the processing of his personal data.
+2. (…)
+3. The data subject has the right to withdraw consent at any time . (…) Before the person concerned
+gives his consent, he will be informed thereof. Withdrawing the permission takes a while
+simple as giving it.
+4. (…).
+
+e.1. Proof of consent
+
+214.
+
+The GDPR explicitly states that the controller must be able to demonstrate that the data subject
+has given permission 44 . This also stems from the more general accountability, which
+imposed on controllers by the GDPR.
+
+215.
+
+To meet this requirement, you are free to use the method that suits you best
+eight. This obligation is not intended to cause you undue workload. She is mainly intended
+to make it easy for you in the event of a complaint from the data subject or of an audit by
+to demonstrate to the GBA that you are in compliance.
+
+216.
+
+In addition, it is not necessary to provide any more personal data to prove this consent
+collect than those you already have.
+
+44
+
+Article 7.1 and Recital 42 of the GDPR.
+
+73
+
+Page 74
+
+217.
+
+For example, you can keep up with the declarations of consent received, so that you can demonstrate how the
+consent was obtained, when it was obtained and what information the data subject has for this purpose
+provided.
+
+218.
+
+The obligation to demonstrate consent applies as long as the processing takes place. After
+that processing has ended, the proof of consent may not be kept for longer than is necessary
+for compliance with this legal obligation or for the establishment, exercise or substantiation of
+a legal claim, as provided for in 17.3, b) and e) of the GDPR.
+
+e.2. Withdrawal of consent
+
+219.
+
+The GDPR gives persons who have consented to the processing of their data the
+possibility to revoke it at any time.
+
+220.
+
+This also means that such withdrawal must be free of charge without any adverse consequences
+such as, for example, a reduction in the level of service provided to date.
+
+Example 32
+A music festival sells tickets through an online platform. With every ticket sold, it asks permission
+to the buyer to be allowed to use his data for commercial purposes. For whether or not to confirm
+his consent to the use of his data for this purpose, the customer can select "no" or "yes". the front
+controller informs customers that they have the option to withdraw their consent.
+To do this, they can call a call center free of charge on workdays between 8 a.m. and 5 p.m.
+In this way, the controller does not comply with Article 7.3 of the GDPR. Although it is free,
+here it is more difficult to withdraw his consent than to give it.
+
+221.
+
+While the GDPR gives a prominent place to the withdrawal of consent, it does not prescribe
+in what form such withdrawal must or may take place. The EDPB states in this regard: “When consent
+however, is obtained by electronic means, by just one click, swipe or
+keystroke, the data subject must, in practice, also be able to give this permission just as easily
+move in. “ 45 Requiring data subjects to follow a complex path via links to underlying
+electronic documents or requiring them to enter a password does not meet the requirement
+that the withdrawal should be just as easy. When “third party” cookies are placed
+shall be sufficient to refer the Internet user to the information pages of those third parties and
+oblige him to look there for each of those parties for the way of expressing his revocation/refusal of
+express permission, nor to that requirement.
+
+45
+
+WP259, p.25.
+
+74
+
+Page 75
+
+222.
+
+When a person withdraws their consent, all data processing activities carried out on the
+consent of this person, be discontinued. However, this does not affect the legality
+of the transactions carried out on the basis of the validly given consent before the withdrawal.
+
+223.
+
+In addition, in the event of withdrawal of consent, you must assess whether the retention of the
+data used for your direct marketing purposes is justified or not, even if
+the data subject has not submitted a request for deletion. In accordance with Article 5.1, e) of the GDPR,
+the retention of personal data must be limited to the intended purpose.
+
+224.
+
+If this data is necessary when carrying out processing for other purposes
+for which you have a valid legal basis, you may be able to keep this data (see to that effect
+recitals 166, 217 and 218 of this Recommendation). If, on the other hand, there is no other legal basis for
+processing these data, they must be deleted.
+
+Be transparent
+Article 12.1 of the GDPR
+"The controller shall take appropriate measures to ensure that the data subject complies with Articles 13 and 14
+information referred to in Articles 15 to 22 and Article 34 in connection with the
+processing in a concise, transparent, intelligible and easily accessible form and in clear and
+simple language, especially when the information is specifically intended for a child.
+
+The information will be provided in writing or by other means, including, where appropriate, electronic means,
+provided.
+
+If the data subject so requests, the information may be communicated orally, provided that the
+identity of the person concerned has been proven by other means."
+
+225.
+
+In order to comply with the rules on data processing for direct marketing purposes, it is of
+It is vital that you closely monitor your commitment to transparency, as foreseen
+in Article 12 of the GDPR and which concerns both the information you must provide to the data subjects
+as well as the exercise of the rights under Articles 15 to 22 of the GDPR
+granted to those concerned.
+
+226.
+
+Regarding Articles 13 and 14 of the GDPR, which are mentioned several times in this Recommendation (see in
+meaning recitals 64, 66,67, 78, 101, 134, 158 and 176), you should pay attention that the first
+is on controllers who collect the data directly from data subjects, and it
+second to controllers who indirectly process personal data
+collect. Keep in mind, regardless of which of these situations you find yourself in, the more
+
+75
+
+Page 76
+
+information you provide in a clear and understandable way, the better you meet the requirement to eis
+transparency, as stipulated in Article 12 of the GDPR.
+
+227.
+
+Note the time criteria that are different for both articles. When you view the data directly
+collect from the data subject, you must provide the data subject with all information specified in Article 13 of the GDPR
+provided at the time the data is obtained . When the data
+are not obtained directly from the data subject, Article 14 of the GDPR requires you to provide the information
+to be provided within a reasonable period, at the latest within one month after the acquisition of the
+personal data and at the time of the first contact with the data subject if the
+personal data will be used for communication with the data subject .
+
+228.
+
+Always use clear, simple and accessible terms with your interlocutor.
+
+Recital 58 of the GDPR
+"In accordance with the principle of transparency, information intended for the public or for the data subject
+concise, easily accessible and intelligible and must be in plain and simple language and, where appropriate,
+additional visualization can be used."
+
+229.
+
+The privacy policy, known to the public by different names, often proves long and difficult
+to decipher, its reading is discouraging and often incomprehensible and it is classified under a rubric
+placed at the end of the page.
+
+230.
+
+The accessibility of the information is not limited to the terms used, but also applies to the
+way you communicate them and where this information is provided. If you don't have any
+form of communication is imposed, you are obliged to choose the most effective one, or even to zelfs
+use different forms of communication to disseminate the information: a text, a
+audio message, an accompanying video.
+
+231.
+
+For example, if you have an Internet site, in order to be as accessible as possible, your privacy policy should be
+should immediately appear on the screen, in order to invite the visitors of your website there
+to take cognizance of. Privacy statements placed in fine print at the bottom of the page,
+without attracting any attention, do not meet the requirements of Article 12 of the GDPR. Also make sure
+that you provide information that is essential to understand the processing(s) and the data collected,
+whereby a clear distinction is made between the processing operations that are subject to your
+responsibility and those under the responsibility of any
+recipients of the data.
+
+76
+
+Page 77
+
+232.
+
+Do not forget that you must provide the information you are required to provide under Articles 13 and 14 of the GDPR
+provide, cannot include in a document that has a different purpose, such as, for example, your general
+requirements. As with the policy on the use of cookies, you must read these documents
+submit separately.
+
+233.
+
+As far as the content of the information is concerned, no form is imposed on you. Article 12.7 of the
+GDPR specifically stipulates that the information to be provided may be provided with standard icons
+to provide a good, easily visible and clearly legible overview of the intended processing.
+
+234.
+
+The information to be provided in accordance with Articles 13 and 14 of the GDPR must be
+relate in particular to the rights of data subjects. It is your responsibility to
+guarantee and facilitate the exercise of those rights (see Article 12.2 of the GDPR) by
+explain to data subjects in a visible and understandable way what rights they have. There has to
+avoiding the need for data subjects to take multiple steps to exercise their rights
+to practise.
+
+In addition to the right to object (Article 21 of the GDPR), forget the data subjects or their right to withdraw consent
+(Article 7.3 of the GDPR), if applicable, and their right not to be subject to a decision that
+is based solely on automated processing (Article 22 of the GDPR), not to inform them about their right
+to access (in accordance with the conditions of Article 15 of the GDPR) and right to rectification (in accordance with
+Article 16 of the GDPR), their right to erasure (in accordance with the conditions of Article 17 of the GDPR),
+their right to restriction of processing (in accordance with Article 18 of the GDPR), their right to be informed
+be informed of the rectification or erasure of their data (see Article 19 of the GDPR) and their right
+on data portability (see Article 20 of the GDPR). You must not only inform but also these rights
+guarantee.
+
+235.
+
+A person can exercise his right to erasure when, for example, he
+withdraw consent given. It goes without saying that when a person withdraws their consent, you
+no longer have a legal basis for processing their data, except in cases where you are legally
+would be obliged to keep that data. So it is your job, even before this person uses
+has exercised the right to erasure, to proceed to the deletion of the data subject
+personal data. You can therefore provide an automatic notification in which the persons who have given their consent
+revoke, be informed that their data will be removed from your databases.
+This also applies in the event that data subjects object to the processing of their data on the basis of
+of your legitimate interest. Article 17.1, d) of the GDPR provides that a data subject to
+can request erasure of his data if they have been processed unlawfully. In case of objection
+against the processing of their data for marketing purposes, and in the event that you
+
+77
+
+Page 78
+
+must keep for another purpose (with a valid legal basis), the
+processing it unlawfully.
+
+Even if you think you do not need to act on any of the rights exercised by a data subject,
+you must always keep him or her informed of the follow-up given to his or her request, and this
+no later than one month after receipt of his or her request, to be extended by two months if the request is complex
+or if you have too many requests to handle for your organization's capacity. Keep the person informed
+of the measures taken also means to keep him/her informed when the deadline for the treatment of
+his/her application is extended.
+
+IV. Conclusion
+236.
+
+Given the number and diversity of the actors involved, the number and categories
+processed data, as well as the types of processing carried out for direct marketing purposes
+implemented and are sometimes very intrusive, data controllers active in this area
+are among the priorities of the supervisory authorities, both in terms of guidance and
+level of control. Given the number of actors, stakeholders and the amount of data collected in this sector
+processed, direct marketing is one of the action priorities in the strategic plan 2020-2025 of the
+Data Protection Authority.
+
+237.
+
+The GDPR provides numerous clarifications for operators active in direct marketing. The
+Regulation also introduces a new paradigm by requiring data controllersen
+from the conception of their data processing operations and during all stages of the processing account
+relating to the protection of personal data. For example, controllers must ensure
+ensure that data subjects can verify their data. People are inevitably involved in
+and play a central role in the management of their personal data.
+
+238.
+
+You will therefore have to accurately determine your processing purposes, ensure that you
+has a valid legal basis to pursue it, that you can fulfill your obligations regarding transparency
+by being completely clear and honest with those involved about what you do with them
+personal data and by guaranteeing and respecting their rights. You must
+also take appropriate security measures in light of the risks your processing activities pose to
+can entail for the personal data for which you are responsible. You should also be on any
+be able to demonstrate at the moment what you have done to comply with the GDPR, in accordance with the
+principle of accountability.
+
+78
+
+Page 79
+
+239.
+
+Your compliance with the GDPR should not be determined by the risk of sanctions, but rather by your
+willingness to abide by data protection rules, establish a genuine relationship of trust
+build with those involved who are essential to the continuation of your activities. The GDPR must be a
+become a common language for all actors to whom it addresses, whose codes and
+vocabulary must be mastered so that the different parties involved can understand each other
+and ensure compliance with it, so as to protect personal data and individuals
+with whom they are associated.
+
+240.
+
+Finally, acting in accordance with the GDPR is not only an obligation with regard to the
+personal data that you process. It is equally about ethical behavior in the market, both with regard to
+of stakeholders and partners. To ensure uniformity and consistency of direct
+marketing practices among controllers operating in this field and to
+practices in a clear and transparent manner to those involved, recommends
+the Data Protection Authority to draw up codes of conduct for the sectors concerned, such as
+defined in Article 41 of the GDPR.
+
+79
+
+

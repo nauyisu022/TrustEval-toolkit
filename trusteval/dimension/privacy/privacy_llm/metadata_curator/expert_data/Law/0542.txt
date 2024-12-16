@@ -1,0 +1,1386 @@
+Page 1
+
+SUNDAY 15 March 2020
+
+Official newspaper
+
+Issue : 31069
+
+REGULATION
+From the Banking Regulation and Supervision Agency:
+INFORMATION SYSTEMS OF BANKS AND ELECTRONIC BANKING
+REGULATIONS ABOUT SERVICES
+PART ONE
+Initial Provisions
+Purpose and scope
+ARTICLE 1 - (1) The purpose of this Regulation is to determine the information systems used by banks in the performance of their activities.
+management and the provision of electronic banking services and the management of risks related to them.
+is to regulate the information systems controls that should be established with minimum procedures and principles.
+Rest
+ARTICLE 2 - (1) This Regulation is based on Article 93 of the Banking Law No. 5411 dated 19/10/2005.
+regulated accordingly.
+Definitions and abbreviations
+ARTICLE 3 – (1) In this Regulation;
+a) Open banking services: API, web service,
+You can perform banking transactions by remotely accessing the financial services offered by the bank with methods such as file transfer protocol.
+the electronic distribution channel through which they can perform or instruct the bank to carry out,
+b) Explicit consent: Consent on a specific subject, based on information and expressed with free will,
+c) API: An application created for a software to use functions defined in another software.
+programming interface,
+ç) ATM: All or one of the other banking transactions in addition to automatic cash withdrawal.
+electronic processing devices that allow the realization of
+d) Bank: Banks defined in Article 3 of the Law,
+e) Information systems (IS): Human resources for the collection, processing, storage, distribution and use of information.
+source, operational activities and processes and information technologies interacting with them,
+f) Information systems continuity plan: Information systems defined in Article 3 of the İSEDES Regulation
+continuity plan,
+g) Information systems management: The activities and services provided by the Bank are effective, reliable and
+uninterrupted execution; to fulfill the obligations arising from the legislation; accounting and
+the integrity, consistency, reliability, and timeliness of the information provided by the financial reporting system.
+Establishment of an appropriate information systems environment in order to ensure availability and, where necessary, confidentiality.
+to be made; efficient use of information systems resources; using information systems
+ensuring the control and monitoring of the risks arising from it; necessary systemic and managerial measures for this purpose.
+activities related to the acquisition
+ğ) Information technologies (IT): Entering, storing, processing data in any form,
+Hardware, software, communication infrastructure and other related technologies used for transmission and output,
+h) Information asset: The data used in the execution of banking activities and the transport of this data,
+value for the Bank, such as the system, software, network devices, IT hardware, business processes in which it is stored, transmitted or processed.
+the existence of
+ı) Primary center: The structure where the primary systems are installed,
+i) Primary systems: Primary systems defined in Article 3 of the İSEDES Regulation,
+j) Biometric authentication component: Ensuring the realization of authentication processes
+Measurable biological or behavioral characteristic of an individual used for the purpose of
+k) Foreign service: Support Service of Banks published in the Official Gazette dated 5/11/2011 and numbered 28106
+Information systems of banks, including support services within the scope of the Regulation
+confidentiality, integrity and accessibility of banking data and banking services
+A service that has the potential to affect the continuity of banking data, or that has access to or shared banking data.
+their purchases,
+l) Electronic banking services: Internet banking, mobile banking, telephone banking, open banking
+services such as ATM and kiosk devices, where customers can perform remote banking transactions or
+all kinds of electronic distribution channels that they can instruct the bank to carry out,
+m) Electronic signature: Electronic signature defined in the Electronic Signature Law No. 5070 dated 15/1/2004,
+n) Firewall: Traffic flow between networks with different security levels or devices connected to the network
+hardware or software that provides control,
+o) Sensitive data: Especially the data used in authentication; customer for various reasons.
+in the event that these persons are kept by the bank and are seized by third parties,
+plagiarism mechanisms will be damaged and fraud or fraudulent transactions on behalf of customers will be possible.
+data that can give
+ö) Secondary center: Where the secondary systems are installed ready for use and the primary systems are
+In case of any interruption, it will allow the personnel to work and will take the same risks as the primary center.
+the structure that is formed in such a way that it does not carry
+p) Secondary systems: Secondary systems defined in Article 3 of the İSEDES Regulation,
+r) Internet banking: A bank account under its own trade name, business name or any other name.
+regardless of the device or platform they use,
+they can access via the internet and view, change or change their financial or personal data.
+electronic distribution channels through which it can carry out transactions that will create financial responsibility,
+s) İSEDES Regulation: Internal Banking Regulations published in the Official Gazette dated 11/7/2014 and numbered 29057
+Regulation on Systems and Internal Capital Adequacy Assessment Process,
+ş) Business impact analysis: Business impact analysis defined in Article 3 of the İSEDES Regulation,
+t) Law: The Banking Law No. 5411 dated 19/10/2005,
+u) Interruption: Interruption of the continuity of a bank's activities, except for planned transitions,
+ü) Authentication: Providing assurance that a reported identity really belongs to the person who reported it.
+mechanism,
+v) Personal data: Personal data defined in the Law on Protection of Personal Data No. 6698 dated 24/3/2016
+data,
+y) Control: The realization of the business objectives carried out in the IT processes within the bank, the undesired
+with the aim of establishing an adequate level of assurance regarding the prevention, detection and rectification of incidents.
+the entirety of policies, procedures, practices and organizational structures,
+z) User: Bank's information systems such as bank personnel, external service provider employee or bank customer
+Any user for whom an account has been defined to perform transactions on it,
+aa) Agency: Banking Regulation and Supervision Agency,
+bb) Institutional SOME: Regarding Cyber ​Incidents published in the Official Gazette dated 11/11/2013 and numbered 28818
+Article 5 of the Communiqué on the Procedures and Principles Regarding the Establishment, Duties and Operations of the Response Teams
+referred to as the Institutional SOME,
+cc) Board: Banking Regulation and Supervision Agency,
+çç) Mobile banking: Mobile banking belonging to the bank installed on a mobile device such as a smartphone or tablet.
+Specialized internet banking distribution where customers can perform their banking transactions through the application.
+channel,
+dd) Session: Established between the parties for data transfer, presentation or financial transactions.
+logical link,
+ee) Password: A character string consisting of hidden letters, numbers and/or special signs used in authentication,
+ff) Risk limits: The risk limits explained in Article 38 of the İSEDES Regulation,
+gg) Sectoral SOME: Procedures and Operations Regarding the Establishment, Duties and Operations of Cyber ​Incidents Response Teams
+Sectoral SOME established within the Institution as stated in Article 7 of the Communiqué on the Principles,
+ğğ) Penetration test: In order to detect and correct the security vulnerabilities of the system before they are exploited
+security tests carried out
+hh) Cyber ​incident: Procedures and Principles Regarding the Establishment, Duties and Operations of Cyber ​Incident Response Teams
+Cyber ​incident defined in Article 3 of the Communiqué,
+ii) Cyber ​incident response: Procedure and Procedure Regarding the Establishment, Duties and Works of Cyber ​Incident Response Teams
+Intervention to the cyber incident defined in Article 3 of the Communiqué on the Principles,
+ii) SMS OTP: The only one transmitted via the short message service offered by electronic communication operators.
+one-time password,
+jj) One-time password: Randomly generated letter to be used only once for authentication
+and/or string of digits,
+kk) End-to-end secure communication: In order for only the receiver to access the data subject to the communication, the sender of the data
+encrypted in a way that only the recipient can decipher,
+ll) Senior management: The senior management defined in Article 3 of the İSEDES Regulation,
+mm) Senior management: The senior management defined in Article 3 of the İSEDES Regulation,
+nn) Asset guard: In accordance with the security requirements defined by the asset owner, an information asset is
+the person responsible for the protection during storage, transportation, processing or transmission,
+oo) Asset owner: The one who determines the security requirements for the information assets and communicates them to the asset guards.
+and that security controls appropriate to these requirements are implemented by asset guards.
+the person responsible for the maintenance and accessibility of its existence,
+pö) Patch: Security vulnerabilities detected in programs or a faulty function in the program's content
+program add-on prepared for correction,
+means.
+PART TWO
+Establishment of Risk Management and Controls Regarding Information Systems
+FIRST PART
+Information Systems Governance
+Management oversight, roles and responsibilities
+ARTICLE 4 – (1) The board of directors of the bank considers the management of information systems as a part of corporate governance practices.
+allocating the necessary financial and human resources for the correct management of information systems.
+effective on information systems in order to ensure the confidentiality, integrity and accessibility of information assets.
+information systems by ensuring the establishment of controls and taking into account the developing new technologies.
+It is responsible for carrying out an effective oversight to manage the risks arising from its use. For this purpose, management
+An IS strategy plan approved by the board of directors, an IS Strategy Committee and an IS Steering Committee is established.
+The bank's board of directors is concerned with the scale of the bank, its dependence on information systems, the number of personnel and information systems.
+It can combine strategy and steering committees based on criteria such as external services received. The duties of these committees
+definitions and working principles are approved by the board of directors.
+(2) The IS Strategy Committee, on behalf of the board of directors, determines the appropriate allocation of IS investments in line with the IS strategy plan.
+used properly and the alignment of the bank's business objectives with IS objectives.
+by executing; reporting directly and regularly to the board of directors on these matters; BS strategy plan annually
+by reviewing at least once, revising when necessary, and submitting it to the approval of the board of directors.
+It is responsible for presenting and overseeing the activities of the IS Steering Committee.
+(3) The presence of at least one board member in the IS Strategy Committee and the senior executive responsible for information systems.
+It is essential that senior executives and senior executives from the bank's related business units be members of this committee. BS Strategy
+committee to review whether the IS strategy plan has been properly implemented and
+It meets at least twice a year to evaluate its decisions and reports to the board of directors at least once a year.
+presents.
+(4) In the implementation of the IS strategy in line with the approval of the board of directors, the IS Strategy Committee and the senior level
+An IS Steering Committee is established to assist management. BS Steering Committee, BS
+determining the priority order of investments and projects, following the status of ongoing IS projects, projects
+Resolving resource conflicts between IS architecture and regulatory compliance of IS projects
+It is responsible for making the necessary guidance and monitoring the service levels related to IS services.
+In the IS Steering Committee, representatives of IS, human resources, the bank's relevant business units and the bank
+Presence of representatives from units or positions related to compliance and law
+is essential. The IS Steering Committee meets at least twice a year and presents to the IS Strategy Committee at least once a year.
+presents the report.
+(5) The level of sophistication of the IS organization and information systems, the size of the bank and its activities.
+It is essential that it is proportional to its complexity and that the IS organization chart is created in this direction. IS organization
+The duties and responsibilities of the units within the scope of the scheme and the job descriptions of the personnel in these units are clearly stated.
+are put in writing, by the board of directors or by senior managers to whom the board of directors has delegated its authority in this regard.
+are approved, the suitability of these job descriptions is regularly reviewed.
+(6) IS personnel are aware of their assigned roles and responsibilities, and
+In case of changes in their duties and responsibilities, they are informed about these changes.
+Information systems policy, procedure and process documents
+ARTICLE 5 – (1) The Bank is responsible for managing the risks arising from the use of information systems and managing information assets.
+IS policy, which describes the procedures and principles to be applied and the controls to be established in order to protect
+creates procedure and process documents.
+(2) In accordance with the degree of confidentiality of the documents and the suitability of the duties and responsibilities of the bank employees.
+access to documents. In the documentation, at least, the document code and the confidentiality of the document
+place is given.
+(3) IS policies are set by the board of directors, and IS procedures and process documents are issued by the board of directors or
+It is approved by the executives that the board of directors has delegated its authority in this direction.
+(4) Requirements of IS policy, procedure and process documents, organizational and managerial structures of the bank
+are placed in such a way that they will actually operate, and surveillance and follow-up regarding their operability is carried out. Policy
+and units responsible for the operation of the procedures and job descriptions and the operation of the process documents
+process owners are specified in the relevant policy, procedure and process documents.
+(5) IS policy, procedure and process documents are reviewed at least once a year and necessary updates
+makes. In order to follow the changes in the documents, the previous version of the document
+As a result, the revision date and revision date information, which approves the document, are recorded.
+SECOND PART
+Managing Information Systems Risks
+Information assets inventory and classification
+ARTICLE 6 – (1) The Bank shall comply with these requirements to establish controls in accordance with the security requirements of information assets.
+prepares a detailed asset inventory by classifying assets. For each information asset in the asset inventory to be prepared;
+a) The definition that will clearly state what the asset is,
+b) its relative value for the bank,
+c) its location,
+ç) The security class of the asset and the confidentiality, integrity, accessibility that determines this class.
+to its values,
+d) To the owner of the asset,
+e) To the guardian of the asset,
+place is given.
+(2) When considering the value of information assets, the business objectives and business processes associated with these assets and their
+other business objectives and business processes to which it is connected are taken into account.
+(3) The data inventory to be created for data that is a part of information assets is included in the first paragraph.
+In addition to the details, information about whether there is personal data is included.
+(4) By working with asset owners, each asset has a defined and approved security class and
+access restriction is provided. Security classes and access restrictions will not be longer than two years
+periodically reviewed.
+(5) A document approved by the Information Security Committee on how information assets will be classified.
+asset classification guide is prepared. While determining the security class of the assets, the degree of confidentiality, integrity
+requirements, availability, retention time, and minimum backup frequency.
+are kept.
+(6) The security class of the data shall be at least the degree of confidentiality, integrity requirement, accessibility of this data.
+needs and whether it is sensitive data, personal data or confidential data.
+shall be determined.
+Information systems risk management process
+ARTICLE 7 – (1)
+Establishes an IS risk management process to analyze, mitigate, track and report risks.
+(2) The following activities are carried out within the scope of IS risk analysis:
+a) Threat regarding the information assets in the asset inventory created within the scope of the first paragraph of Article 6
+and identifying risks by detecting security vulnerabilities,
+b) The probability of information assets being exposed to risk according to the detected threats and security vulnerabilities.
+determination,
+c) In case of realization of risks, such as confidentiality, integrity, accessibility of the associated information asset.
+Making an impact calculation for the relevant information asset by determining the effects on the criteria,
+ç) Risk rating according to the determined probability and impact values ​of risks threatening information assets.
+to be made,
+d) The summary risk assessment report representing the whole of the work performed in the risk analysis.
+Prepared and presented to senior management.
+(3) Information regarding each IS risk identified according to the results of the risk analysis, to which these risks are associated.
+Actions regarding risks are determined in accordance with the value of the assets and the risk limits of the bank. Risk
+At the stage of determining the actions, as a result of risk analysis together with the representatives of the business unit to which the risk is related,
+It is decided how to deal with risk reduction, risk avoidance, risk acceptance and risk transfer.
+(4) Actions determined for each risk are converted into risk action plans. for the actions to be taken
+in the transfer of resources and prioritizing the completion dates of the actions, in the risk analysis stage
+determined risk levels are taken into account. It will also be taken for residual risks that will remain as a result of the implementation of the action plan.
+actions are planned and the action plan is updated.
+(5) Approval of the senior manager responsible for information systems in order to accept the risk,
+It is essential that the risk does not constitute a violation of the IS strategy and legislation. The risk to be accepted is also a business process.
+or business practice, the senior manager of the relevant business unit also accepts the risk.
+approval must be obtained. New compensatory control techniques or new security solutions
+In case the conditions have changed in terms of whether the risk has increased compared to the past, or if the conditions have changed,
+previously accepted risks are reviewed periodically.
+(6) Current risk assessment report and updated risk action plan prepared as a result of risk analysis
+are combined to form the bank's IS risk inventory. Bank, at least once a year or in information systems.
+repeats risk analysis before significant changes will occur. Risk according to repeated risk analysis results
+The action plan and the IS risk inventory are updated. IS internal control and internal
+It is ensured that the results of the audit studies or the detected findings constitute an input to the risk inventory.
+(7) It is essential that the bank's corporate risk management process also covers IS risks. Banking IS risks
+Considering that other risks arising from its activities may also be a multiplier, information is provided throughout the bank.
+An integrated risk management methodology is applied, including the risks arising from the systems. BS risk
+Incorporate data from management process outputs into a bank's holistic risk management framework.
+arrive is provided. While the risks arising from information systems are being handled, the risks that new technologies will bring
+also evaluated. Within the scope of IS risk inventory, risks are monitored and reported to the board of directors and senior management.
+reported at least once a year.
+THIRD PART
+Information Security Management
+Information security organization, roles and responsibilities
+ARTICLE 8 – (1) The ultimate responsibility for ensuring information security within the Bank rests with the board of directors.
+belongs. The board of directors is required to bring the security measures related to information systems to the appropriate level.
+demonstrate determination and allocate sufficient resources for the activities to be carried out for this purpose.
+liable. Within the scope of this responsibility, the board of directors is responsible for overseeing its implementation throughout the bank.
+establishes an information security management system. National or international standards of information security management system
+or reference best practices and include the following activities:
+a)
+Regular threat and risk assessment studies for information assets
+to be made,
+b) Classification of information assets and determination of asset ownership and security appropriate to asset classes
+taking measures,
+c) Monitoring and reporting of incidents related to information security breach,
+ç) An effective identity consistent with the principle of segregation of duties in banking services provided throughout the Bank.
+ensuring the establishment of authentication and access management,
+d) Testing and testing of controls and established structures for information security
+monitoring and reporting the results,
+e) Following up-to-date security vulnerabilities in information assets and taking necessary actions.
+providing,
+f) Bank's information, such as bank employees, external service providers and customers, including senior management
+Carrying out studies to increase information security awareness for stakeholders who are concerned with security,
+g) Ensuring that matters related to information security are also included within the scope of business continuity management,
+ğ) Inclusion of issues concerning information security within the scope of the management of outsourcing services.
+provision.
+(2) Information security policy on how the information security management system will be implemented throughout the bank,
+procedures and process documents. The bank's information security policy is determined by the board of directors.
+It is approved and delivered to employees throughout the bank. In this context, it is acceptable for information systems.
+usage standards.
+(3) Establishment and implementation of the information security policy on behalf of the board of directors.
+It is carried out by the Safety Committee. To the Information Security Committee, a designated board member or
+The general manager chairs the committee and the information security officer performs the coordination of the committee. Information security
+Committee meetings were attended by the senior manager responsible for information systems, senior executives from the bank's relevant business units.
+If the managers are from human resources, risk management units and the bank organization, compliance
+It is essential that representatives from units or positions related to law and law also participate. Duties of the Information Security Committee
+definitions and working principles are put in writing to be approved by the board of directors, at least twice a year.
+and presenting a report to the board of directors at least once a year.
+(4) Information security policy, procedures and process documents are reviewed at least once a year. Important
+security incidents, new vulnerabilities, or significant changes in technical infrastructure.
+review is provided.
+(5) Within the body of the bank, it consists of a senior manager responsible for information systems and their subordinate units.
+A BS security function is created, separate and independent from the incoming BS function. BS security
+It is essential that the function is directly reporting to the board of directors or the general manager. BS security of the bank
+function is managed by the information security officer.
+(6) Information security officer performs the following duties:
+a) Establishing, updating and updating information security policy, procedures and process documents;
+submission for approval,
+b) From the point of view of information security, classification of information assets and confidentiality of information assets,
+Active contribution and assistance to IS risk management studies in terms of integrity and accessibility criteria
+to be,
+c) Ensuring information security throughout the bank in line with business requirements and business objectives, in harmony with the relevant units.
+establishment,
+ç) Complying with the legislation provisions, standards, policies, procedures and process documents related to information security
+monitoring compliance,
+d) Ensuring that information security activities and tests are carried out and followed up,
+e) Contribute to the determination of information security requirements for important projects and changes.
+being found,
+f) Information security awareness program for the stakeholders concerning the bank's information security.
+execution.
+Data privacy
+ARTICLE 9 – (1) The Bank, where the data used in the execution of banking activities are carried, transmitted,
+takes measures to ensure confidentiality in environments where it is processed, stored and kept as a backup. Data is kept
+Regardless of whether the medium is a paper or electronic medium, the precautions to be taken, the confidentiality of which are tried to be ensured.
+It is essential that the data comply with the degree of confidentiality and that additional controls are established where necessary. data host
+in case of deprecation of media or devices, in accordance with the degree of confidentiality of the data they contain.
+ensure safe disposal.
+(2) To ensure the reliability of the encryption techniques to be used to ensure data confidentiality, as of the current situation.
+Algorithms that have not been lost and are suitable for today's technology are used. Encryption keys to be used, relevant algorithms
+For the key, it is selected as long as it cannot be broken during the time the key is valid and can be used, and the relevant data or
+The validity period of these keys is determined according to the criticality level of the operation. expired or
+The use of encryption keys found to be unreliable is immediately blocked. encryption keys
+ensuring its security throughout its lifecycle, building it securely, making it available to customers and personnel.
+presentation and storage.
+(3) Ensure end-to-end secure communication in the transmission of sensitive data between environments with different security levels.
+It is essential that this data is used and stored in an encrypted manner. The sensitive or
+The content of desktop, laptop and mobile devices containing confidential data is encrypted and the server connected to the network is provided.
+Server machines are scanned to determine whether sensitive data is present on the devices in clear text.
+Sharing data
+ARTICLE 10 – (1) The bank can send the information received from the customer in written form or via permanent data storage.
+without any demonstrable customer request, during the performance of its activities and all kinds of external services.
+Information that is in the nature of customer secret, which is acquired, kept or processed through information systems,
+Except for the exceptional cases, it cannot share it with third parties at home and abroad and cannot transfer it to them.
+(2) The customer's express consent to share their information becomes a prerequisite for the service to be provided.
+cannot be brought.
+Identity and access management
+ARTICLE 11 – (1) The accesses to the information assets of the Bank are determined according to the principle of segregation of duties and
+security of the associated information asset, in accordance with the access controls defined for them as per the responsibility of the users.
+It is responsible for ensuring that it is carried out with an authentication method suitable for its class. Bank, processes and
+the authorizations to be provided to the users on the systems, to the users the roles and/or responsibilities appropriate to their duties and responsibilities.
+profiles and applications and systems suitable for the job descriptions of the users.
+It documents the roles on it.
+(2) The authentication mechanism to be applied to users on information systems
+It will cover the process from being included in the systems to completing their transactions and leaving the system.
+established in a way that will ensure that the authentication information is correct from the beginning to the end of the session.
+measures are taken.
+(3) For the security of the authentication information of the users on the Bank's information systems;
+possible to convert authentication information encrypted or mathematically in databases
+to be stored by unauthorized methods, encrypted while transferring for authentication purposes, unauthorized access
+or protection against uncontrolled changes in violation of the principle of segregation of duties,
+Keeping adequate trace records of the transactions performed on these databases and keeping these trace records
+take measures to ensure safety.
+(4) The authentication mechanism to be applied to users must fulfill the following functions
+provided:
+a) In case of unsuccessful authentication attempts exceed a certain number, the access of the relevant user will be denied.
+blocking,
+b) After unsuccessful authentication attempts, the person who made this attempt,
+related to username information or password, such a username is not in the system or the password was entered incorrectly
+not providing information,
+c) Terminate the session after a certain period of time for inactive sessions, or
+locking,
+ç) More than one user can use the same user account or a user can use different accounts at the same time.
+except for the cases where the information security officer approves the login sessions,
+If more than one login is attempted for the user at the same time, it does not allow this and warns the user.
+to give.
+(5) Separation of duties in determining the access controls to be applied to users and the authorizations to be assigned
+principle is based. Processes and systems are the initiation, approval, and execution of a critical transaction by a single person.
+It is designed and operated in a way that does not allow it to be completed. The Bank is committed to the implementation of the separation of duties principle.
+clearly determines the access controls to be applied and the authorities to be assigned in the banking and IS processes for
+documents it. Separation of the tasks of requesting, authorizing and managing access authorizations
+is provided. Where it is not possible to fully and properly segregate tasks,
+Risk-reducing or compensatory additional controls are established to prevent errors and abuses that may arise.
+(6) Users may access information for as long as there is a valid business need and access is required.
+are authorized to access their assets. Users who are authorized to access information assets are the owners of the relevant information assets.
+is reviewed at least once a year. Considering the duties and responsibilities of users
+just enough to perform these tasks and only have access to the data they need to know.
+are given authority.
+(7) At a minimum, the following measures regarding privileged user and application accounts
+available to receive:
+a) Implementing additional security controls with authentication,
+b) Privileged authorizations are assigned only to necessary users and only when necessary, such
+use of accounts
+c) Keeping track records to follow the transactions carried out with such accounts and their
+regularly reviewed,
+ç) Keeping track records and generating warnings for transactions such as account creation or deletion,
+d) Keeping a track record and generating warnings for unsuccessful login attempts,
+e) Preventing the joint use of accounts or liability to real persons using these accounts.
+the use of techniques to assign
+f) It will ensure that passwords are stored in secure environments and that these passwords are changed periodically.
+making configurations,
+g) Passwords are difficult to guess and frequently of a length and difficulty appropriate to the technology of the day.
+replacement,
+ğ) Failure to create or follow trace records for application accounts due to systemic reasons
+preventing the use of these accounts by the end user.
+(8) Authorizations specific to emergency situations are temporary and will be carried out during this authorization.
+It is ensured that trace records are kept, which will allow the tracking of transactions.
+(9) After the changes in human resources such as the departure of the personnel from the job and the change of duty,
+deletion, suspension, revocation of the privileges assigned to the user without delay, or
+operations such as replacement. Authorization processes based on human resources changes are automated
+the segregation of duties principle is applied in the process of making manual changes, and
+trace records of the activities of the personnel authorized to make the change and the human resources
+Compliance of changes is regularly reviewed.
+(10) For users on information systems, unique user identification codes are determined and mandatory.
+Shared or predefined user accounts are not used unless there is Shared or predefined user accounts
+In cases where it is mandatory to use these user accounts, it is aimed to assign responsibility to the person who performs the transaction.
+additional controls are installed.
+(11) At a minimum, the following measures are taken in the management of user passwords:
+a) Changing the passwords temporarily given by the system at the first login by the user.
+providing,
+b) When determining the passwords of the users, it is difficult to guess, in accordance with the technology of the day, and
+forced password selection in difficulty,
+c) Users must keep their passwords at regular intervals and in case of any doubt about system security.
+forced to change
+ç) By remembering the old passwords of the users, a certain number of old passwords can be changed retrospectively.
+preventing its use.
+(12) The bank provides locked accounts, disabled accounts, passwords for user accounts.
+accounts that have expired and accounts that are set to never expire
+uses methods that automatically generate reports and the relevant system to take the necessary measures for these reports.
+forwards it to the manager.
+(13) Unless there is a mandatory business requirement and it is approved by the information security officer, the bank
+personnel or external service providers are prevented from having local administrator rights.
+(14) The bank determines the normal daily usage and access time of each user, and determines the typical account usage time.
+creates profiles. These usage profiles may be logged in during unusual hours, exceeded normal login times, or in general
+Users who have performed transactions from a computer other than the computer they are working on are reported and unusual
+in detecting situations or detecting passive accounts that have not shown any activity for a long time,
+It is used to prevent the use of accounts if there is no work need for the accounts.
+Integrity checks
+ARTICLE 12 – (1) The Bank shall ensure that the transactions, records and data realized through the information systems
+To ensure their accuracy, completeness and reliability by taking the necessary measures to ensure their integrity.
+it does. Measures to ensure integrity cover all stages of data transmission, processing and storage.
+is established to cover. The same approach is followed for transactions performed by external service providers.
+(2) The accuracy and reliability of transactions related to information systems, at least,
+ensuring that key information does not lose its accuracy from the beginning of the transaction to its completion, and
+the desired action fulfills the expected result; Completeness is the minimum error of all transactions.
+It requires that it takes place without producing and not repeating.
+Creation and tracking of trace records
+ARTICLE 13 – (1) The Bank will be commensurate with the size and complexity of its information systems and activities.
+In this way, it establishes an effective track record mechanism regarding the transactions and events taking place within the information systems. Trace
+records contain at least the following information, in details and content appropriate to the nature of the transaction:
+a) The system that created the record,
+b) The date, time and time zone information of the recording,
+c) Information showing what the change is, together with the transaction or event that created the record,
+ç) Information showing the individual user or system to which the record is related.
+(2) The trace recording mechanism to be established will be followed by the subsequent examination of the information security incidents and
+It is ensured that they are of a quality that will allow reliable evidence to be obtained about them.
+(3) Any changes that occur within the information systems and cause changes in the records of banking activities.
+accessing or querying, viewing sensitive or confidential data through transactions,
+to copy, modify, and grant access authorizations for critical information assets,
+activities to change and retrieve, and traces of unauthorized access attempts to these assets.
+records are kept at the bank for a minimum of five years.
+(4) The bank's web services, API or similar methods kept at other institutions or organizations
+The trace records of the inquiries made on the data and the purpose for which these inquiries were made are valid for five years.
+are kept at the bank and trace records of such inquiries are reported monthly at the latest.
+In addition, an examination is made as to whether or not an unintended inquiry has been made and the requirements of the results obtained from this examination
+is fulfilled.
+(5) Trace records are backed up in reliable environments, and if needed, these backups are made in a reasonable time.
+It is kept at the bank in a way that allows for review by providing feedback.
+(6) To prevent the deterioration of the integrity of the trace records and to detect it in case of any deterioration.
+techniques are used. Access to trace records only in accordance with the need-to-know principle
+access to authorized persons and protection of the registration system against all kinds of unauthorized changes and interventions.
+is provided. Users are prevented from interfering with the trace records of their own activities and the trace record system
+Techniques are used to prevent it from being stopped or to detect this situation if it is stopped.
+(7) The Bank maintains the track record system within the framework of predetermined and periodically updated scenarios.
+regularly reviewed, monitored and reported on unusual situations and risky transactions.
+establish related processes. Generating reports for unusual situations and risky transactions and reporting results
+monitored by the bank supervisory units.
+(8) The Bank shall ensure that the trace records kept by the external service providers comply with its own standards and that this trace
+ensures that his records are accessible to him.
+Network security
+ARTICLE 14 – (1) The Bank shall provide the necessary network for threats that may come from both its own corporate network and external networks.
+establishes security control systems. Overcoming a layer of security in establishing security measures
+In this case, the layered security architecture is based on the other security layer.
+(2) The bank configures it as necessary to control traffic between its external network and internal network.
+will be able to detect and prevent attacks with firewall solutions that are built and kept under constant surveillance.
+uses systems suitable for today's technology.
+(3) To reduce the impact of threats from the internal network and to ensure that the bank's internal network has subnets with different security sensitivity.
+of the traffic related to each service in the bank's internal network in order to ensure controlled passage by separating the sections from each other.
+The bank's internal network is subdivided so that it reaches only the network segments it needs.
+Data traffic between different network segments is secured. Only authorized devices to the internal network
+can be connected.
+(4) The presence of systems with sensitive or confidential data in the private internal network and in no way directly
+provided that it cannot be accessed from the internet. Proxy-only apps or firewall with systems on private internal network
+communication via devices.
+(5) Structures such as domain management servers set up for identity and access management on the network
+It is essential that it is created specifically for the bank and is not part of another domain or similar outside the bank.
+(6) Connections to critical network segments are regularly detected and
+requirements assessment is made and unnecessary connections are terminated.
+(7) Bank personnel or external service providers unless approved by the information security officer.
+No remote access to in-bank applications and systems from outside the bank is performed by the bank. remote access
+secure connection methods based on multi-component authentication are applied.
+trace records are kept, the duration of the connection and the devices to which the connection can be made are restricted, and the user is
+It is forced to re-authenticate at intervals.
+(8) Servers and systems that are visible over the Internet or from the bank's external network must be visible.
+It is checked regularly to determine whether there is a valid business need to
+If it is not necessary, it is ensured that these servers and systems are moved to the bank's internal network and have internal network IP addresses.
+(9) The bank controls the content of traffic flowing from its internal network to the external network. Content control, malicious IP
+in a quality that will prevent the traffic flow to their addresses and the leakage of sensitive data and confidential data.
+It will detect unusually long sessions by recording session information and warning them.
+be capable of producing.
+(10) Techniques to authenticate the sender on e-mail servers for e-mails sent from the bank
+used.
+Security configuration management
+ARTICLE 15 – (1) The Bank; operating system on desktop, laptop, mobile devices and servers,
+for databases and applications and network devices such as firewalls, routers and switching devices
+generates secure standard configuration information that has been tightened and tested. This standard configuration information,
+deviations from the standard configuration or updates to the standard configuration are part of change management
+registered and subject to the approval mechanism. Any type of security that will fall outside the standard configuration
+for the change request the business requirement that requires this change and who is the business principal who needs this business requirement
+Information such as the duration of the requirement and the duration of the requirement are also recorded.
+(2) In addition to the controls in the first paragraph, the applications that the bank is using or may need.
+Implements a whitelist for Thus, only the applications that are needed are installed on the systems and this white
+It is ensured that any application other than the list is prevented from being installed or running on the systems. Bank
+It also checks whether any non-whitelisted apps are installed on their system.
+scans regularly. executable files of whitelisted applications or their
+whether the library files it uses are modified by malicious software, file integrity check
+controlled using tools.
+(3) Bank; for operating systems on desktop, laptop, mobile devices and servers
+system type, version number, patch level, and list of databases and applications installed on it.
+maintains a software inventory. The software inventory to be used is also the hardware inventory.
+and it is possible to track which software is on which hardware from a single point.
+be provided.
+(4) The bank's desktop and laptop machines and servers are connected to these machines by a removable media or external
+device is configured not to play content automatically when plugged in, and anti-malware tools
+set to automatically scan for such devices when plugged in. Besides, such external
+The connection interfaces where the devices will be connected to the machines are closed for use by default and such devices will be closed.
+limiting its use only to users with business needs and attempting to use external devices.
+conditions are also tracked.
+(5) Ports, protocols and services on each networked system are only required by approved business.
+It is ensured that it is open and working according to its needs. Accordingly, based on a secure base configuration,
+Regular port scanning is performed for important servers and systems and in a secure base configuration.
+It is provided to close the ports that are open even though they are not available.
+Vulnerabilities and patch management
+ARTICLE 16 – (1) It will interrupt or significantly adversely affect banking activities.
+Address security vulnerabilities in systems, software and devices quickly and effectively to reduce the likelihood of situations occurring.
+A security vulnerabilities and patch management process is established to address them accordingly. Vulnerabilities and patch management process
+Activities carried out within the scope of change management are recorded and approved.
+subjected to the mechanism. Within the scope of this process, the following activities are carried out:
+a) Techniques to ensure and verify that the patches to be applied come from a reliable source
+use,
+b) Security vulnerabilities in the systems, software and devices used by the Bank and
+detecting patches for
+c) Evaluation of the effect of applying or not applying the detected patches,
+ç) Testing the patches to be applied before application,
+d) Identification of methods on how to apply patches,
+e) Regularly inform the information security officer regarding the patches that have been applied or decided not to be applied.
+reporting,
+f) If the patches are applied incorrectly or there is a problem during the application, how will the problem be handled?
+Defining the methods to solve it,
+g) Compensation to mitigate risks related to security vulnerabilities that unapplied patches try to fix
+establishment of compelling controls.
+(2) When the system, software and devices whose provider or manufacturer support has expired can no longer be updated,
+The latest updates that can be installed are no longer safe according to the conditions of the day and with compensatory checks.
+If a reasonable level of security cannot be provided, the system, software and devices are removed from use.
+(3) The Bank uses automatic vulnerability scanning tools for its systems and devices connected to the network.
+Regarding each detected vulnerability, the information security officer and the system where the vulnerability was detected.
+A report is made to the responsible system administrator, listing the most critical security vulnerabilities as a priority.
+(4) By constantly monitoring the bank, desktop and laptop machines and servers,
+responsible for detecting software.
+(5) The bank scans incoming and outgoing e-mails to the e-mail server, which hosts malware or the bank's business
+uses solutions that will prevent e-mails containing unnecessary attachments in line with their needs.
+Physical security controls
+ARTICLE 17 – (1) Data centers with critical information systems, appropriate security barriers and access controls,
+It is hosted in secure areas such as system rooms, network equipment rooms. Access to these areas can only be accessed by authorized users.
+limited to the required personnel, access authorizations are regularly reviewed and updated.
+(2) The Bank considers natural risks and environmental threats when choosing the locations of data centers.
+It is ensured that the buildings do not have signs and information that would reveal the existence of the information processing facilities they house.
+(3) The bank is responsible for any power outage, fire, smoke, temperature, etc. that may adversely affect the operation of data centers.
+uses systems and sensors to monitor environmental conditions such as water, dust and humidity, and regularly maintains them.
+(4) Any bank personnel, visitors, foreigners other than the personnel authorized within the scope of the first paragraph.
+Access to data centers and critical information systems of service provider or contractor company personnel is approved.
+mechanism, their activities are closely monitored throughout their work in the data center and
+is accompanied. Access requests and approvals to data centers and system rooms and within the scope of these accesses
+A track record is kept for transactions and entries and exits. For these areas, there will be no blind spots and at least one
+Camera recording systems are used to keep records for a year. recorded by camera recording systems.
+images are backed up in a different location.
+Cyber ​incident management, penetration testing and cyber intelligence sharing
+ARTICLE 18 – (1) The bank shall, after the cyber incidents, ensure that the banking activities are affected as little as possible and
+addressing the cyber incidents that occur in order to return the IS services to their normal functioning as soon as possible, and
+It creates a cyber incident management and response process for cyber incidents. adequate technical and operational
+Establishing an Institutional SOME with the necessary skills requires that current contact information for this Institutional SOME be submitted to the Institution.
+and cyber incidents are reported to the Institution and relevant management units.
+(2) Performing routine penetration testing on computing assets prior to the corporate SOME cyber incident
+or by routinely following the track records from the records management system interface,
+by checking for correlations that could produce meaningful results; during the cyber incident, the BS function will
+Responsible for managing the response and coordinating the relevant personnel in the IS function.
+(3) In order to ensure that cyber incidents are handled in accordance with their severity,
+Criteria for materiality classification are written down and each cyber event that occurs is based on these criteria.
+to be addressed and resolved within a time commensurate with the level of significance determined.
+procedures and response plans are established. For the scenarios foreseen in the intervention plans created,
+A fast, effective and orderly response process is established, which ensures that activities are carried out reliably. Intervention
+The operability of the plans are tested at least once a year and the test results are reported to the senior management.
+(4) Within the scope of response plans, quickly finding the source of the incident related to information systems, authorized
+units, identify and resolve the incident's potential size, impact, damage, and affected customers.
+reconciliation processes are discussed.
+(5) If a cyber event grows into a crisis, data leaks or disclosures,
+immediately, in cases such as the conclusion of the Information Systems Continuity Plan or the commissioning of the secondary center.
+
+It informs the sectoral SOME. A cyber attack that leads to the leakage or disclosure of sensitive data or personal data.
+In case of an event, the customers are informed after the evaluation to be made by the bank.
+(6) The bank does not establish a root cause for significant cyber events that lead to serious disruptions or disruptions in IT services.
+making a cause and effect analysis and taking remedial measures to prevent the recurrence of similar incidents.
+is obliged to notify the studies to the Sectoral SOME.
+(7) The Bank may design, develop, implement or implement the services it provides through information systems.
+It makes a penetration test at least once a year to independent teams that do not have a role in the execution of the project.
+(8) The Bank, within the framework of the procedures and principles to be determined by the Agency,
+threats, malware, cyber incidents or new fraud methods emerging in the banking sector
+24/7 contact in order to provide information about and to provide early intervention in the fight against fraud.
+responsible for appointing a liaison officer.
+Increasing information security awareness
+ARTICLE 19 – (1) Comprehensive information is provided to increase the level of information security awareness throughout the Bank.
+security awareness training program is created. The training program, information security policies and standards
+However, what individual responsibilities might be regarding information security and data protection and information
+It contains information about the measures to be taken to protect its assets. Through these trainings, the bank's IT
+everyone who has access to resources and systems is aware of the legislation and guidelines regarding the use of these resources.
+knowledge is provided.
+(2) The information security awareness training program is approved by the Information Security Committee and the program
+its content is reviewed at least once a year, taking into account new technologies and emerging risks, and
+is updated. New and existing personnel with access to the bank's IT resources and systems, and areas of interest
+outsourced service providers who have access to IT resources and systems in line with these trainings; or
+certifying that they have received the training and as the training program is updated, the relevant persons should be informed about the updated parts.
+retraining is provided.
+(3) In addition to the training program, the Bank provides in-house bulletins to increase information security awareness.
+prepares information security, if any, creates a section on information security in the bank's internal portal, periodically informs its employees.
+sends reminder messages about security, regularly raises information security awareness for employees.
+makes surveys to measure
+(4) To verify and develop the effectiveness of awareness-raising activities within the scope of this article.
+carries out the necessary studies in order to identify the necessary deficiencies. necessary, taking into account current attack methods
+performs periodic tests for employees through social engineering scenarios and
+It provides additional targeted trainings for employees who cannot pass.
+CHAPTER FOUR
+System Development and Change Management
+Definition of information architecture
+ARTICLE 20 – (1) The Bank shall ensure the integrity and consistency of the data to be processed and stored through information systems.
+It is based on an enterprise information architecture model that will provide data and minimize data duplication.
+(2) The bank determines data syntax rules as part of its information architecture model, and this syntax
+software by creating a data dictionary that describes the standard structures that the data must conform to, according to the rules
+It enables the use of this data dictionary in the development and database management processes. Within the scope of article 6
+It is ensured that the data inventory created and the information architecture model are integrated.
+(3) Centralized monitoring and management of information architecture model, data syntax rules and data dictionary
+Relevant responsibilities are assigned for changes in applications or databases that affect the architecture that will occur
+For this purpose, the approval of the responsible persons is obtained and the changes are reflected in the information architecture model and updated.
+Project management
+ARTICLE 21 – (1) The Bank shall ensure the correct prioritization and coordination of the IS projects to be carried out.
+to ensure the timely and necessary functionality of the information systems to be acquired or developed through these projects.
+Implements a project management process to ensure that it is delivered with a level of Project management process,
+It ensures that an appropriate management structure is established according to the size, complexity and risk of the projects.
+(2) Concrete information regarding the scope of works to be classified as projects and their prioritization.
+criteria are defined and within the framework of these criteria, the operation and supervision of the projects by considering the project demands
+is performed.
+(3) The process includes, at a minimum, determining the project requirements, determining roles and responsibilities, time and
+resource planning, defining the details of the activities to be carried out within the scope of the project,
+identification of stages and outputs, identification of key dependencies, quality assurance, risk assessment and
+Includes confirmation steps.
+(4) In the step of determining the project requirements, an analysis that includes the requirements in detail
+document is prepared. In this analysis document, legal requirements, authentication,
+security and privacy requirements such as authorization, access controls, approval mechanisms, encryption, track record,
+performance requirements such as expected usage density and number of users, as well as service levels and backup
+It is determined what the accessibility requirements, such as layout, may be.
+(5) The bank prepares the project plan for the IS projects and in the project plans, at every stage of the project
+outputs to be achieved and milestones to be achieved are clearly stated. Kilometers specified in the project plans
+In order to ensure that the stones are reached and delivered on time and to manage the project risks, the bank
+monitors the progress of the project and reports to the IS Steering Committee when necessary, the progress of the projects and the problems encountered.
+provides information about
+System development, migration and installation
+ARTICLE 22 – (1) In the software development process, the Bank shall develop in accordance with the principle of separation of duties,
+It ensures that test and production environments are kept separate from each other. System and application development process, resource
+It allows the code to be prepared and compiled by a single person and moved between development, test and production environments.
+It is operated in accordance with the principle of segregation of duties.
+(2) Only in case of a valid business need and necessity and only through the approval mechanism,
+personnel responsible for software development may be allowed access to the production environment. Even in such cases, staff
+The operations performed in the production environment are tracked and recorded. used to access the bank production environment
+It records the methods and puts them in writing and ensures that they are approved by senior managers.
+(3) Stages in the bank's software development process and transition conditions for these stages,
+documentation requirements, coding standards, and at what stages business units and other stakeholders are involved
+shall be determined in writing and that their approval will be obtained. Within the scope of the software development process, outsourcing also
+to the bank's software development lifecycle, including regulatory requirements and internal policies.
+compatibility is achieved.
+(4) In order to improve software quality and minimize security vulnerabilities, information security, software
+handled carefully in the development lifecycle. From the beginning of the software development or procurement process, the business
+In addition to determining the requirements of the software and the functional requirements expected from the software,
+security related issues such as authorization and access, authentication, data integrity, trace records, exception handling
+requirements are also determined, and the bank's security standards, policies, and regulatory
+Compliance with the requirements is checked.
+(5) Internet-enabled applications developed in-house or outsourced without being installed
+On a regularly recurring basis before and after updates to these applications, vulnerabilities
+scanned for.
+(6) Considering the criticality and risk of the service received and the possibility of the supplier being out of business, the software is outsourced.
+For applications developed by the company and for which the source code cannot be supplied, a program is created with the participation of third parties.
+software retention agreement. Retention agreement of product updates and program fixes
+be included in the scope.
+(7) The bank requires software development personnel to provide secure code specific to the software development environments they use.
+provides development training.
+(8) New data definitions made in the software development process of the bank or made in data definitions
+Evaluating the consistency of the changes in terms of information architecture and data dictionary and making necessary updates
+is provided.
+(9) During the migration of software code between development, test and production environments,
+versioning and version controls to prevent the insertion of unauthorized or malicious pieces of code
+based integrity checks are performed. Related user or application during transfer to production environment
+owner's consent is obtained.
+(10) Operating system of the test environment, database management system, integrated applications and systems
+represents the production environment in terms of number and quality of the test data and the operation that takes place in the production environment
+It is ensured that it is represented by customers and is free from production environment data of customers.
+Application controls
+ARTICLE 23 – (1) Applications developed in the bank or outsourced,
+to carry out its activities and business processes in accordance with the internal policies and legislative requirements, and
+the accuracy, completeness of the data entered into, modified, processed or produced by these applications,
+It includes systemic or manual controls to ensure its reliability. These controls constitute input to the application.
+identification of the data to be checking the type, type, format and size; verification of its origin;
+ensuring the integrity and reliability of the data processed by the application; the principle of segregation of duties of access to data
+appropriate authorization; establishment of an entrant-approver structure where necessary; output of the application
+such as ensuring the confidentiality, integrity, reconciliation and distribution of data to the necessary parties only.
+performs functions. The bank ensures that application controls are system-based as much as possible and that manual
+takes care not to be carried out with procedures, before the installation of applications, in-bank policies and legislation
+It tests the controls they host to make sure they comply with their requirements and records the test results.
+Change management
+ARTICLE 24 – (1) The Bank shall determine the number of errors and problems that may occur due to the changes.
+and to ensure that changes are carried out effectively, quickly and in a controlled manner that minimizes the
+An effective change management that will ensure that the transactions made during the change are auditable after the change.
+establishes the process. Information systems elements such as network infrastructure, hardware, operating systems, software and system, service,
+within the framework of the change management process of any changes to be made in the application configuration and parameters.
+The change request is based on a valid business need and in accordance with the principle of segregation of duties.
+authorization, testing, implementation, recording and documentation. changes, identity
+made by authorized users whose verification has been carried out with appropriate techniques, sufficient track record for them
+It is essential to keep track of the records and review them regularly.
+(2) The bank keeps track of the main version of the information system software components and
+records changes that occur in the order in which they occurred and with the date the change occurred.
+(3) The change management process, as a minimum, includes demand management, risk assessment, authority approval,
+includes implementing, testing, and validating the change. In this context;
+a) Recording of change requests, acceptance of change requests only from authorized persons.
+making a risk and impact analysis regarding them, classifying and prioritizing incoming requests
+is provided.
+b) A source code review is also required to ensure that the changes do not cause a security vulnerability.
+Investigative activities that give as much assurance as possible are carried out, including
+c) Changes are tested in accordance with appropriate test plans and replaced modules are released into the production environment.
+Approvals of users and relevant units are obtained before transferring them.
+d) To minimize the risks associated with changes, the change management process is based on risk assessment.
+Depending on the change, backups of the systems or applications that will be affected by the change are taken,
+back to an old version of the system or applications when a problem is encountered during or after the transfer
+A recovery plan is created to return.
+d) After the changes are made, operational procedures, configuration information, implementation
+related system and user documentation and procedures, such as documentation, help screens, and training materials.
+Necessary updates are made to reflect the changes.
+(4) Due to the exceptions defined in the change management process within the scope of emergency changes
+Approvals that cannot be obtained or documents and records that cannot be created although they are included in the normal functioning of the process, change
+are then completed as soon as possible.
+CHAPTER FIVE
+Information Systems Continuity and Accessibility Management
+Primary and secondary systems
+ARTICLE 25 – (1) Banks are required to maintain their primary and secondary systems domestically.
+(2) Any backup of primary systems, regardless of the number of backups of primary systems
+systems and are subject to the provisions of the first paragraph.
+(3) Carrying out banking activities or fulfilling the responsibilities defined in the Law and legislation.
+Systems such as in-bank messaging systems, market monitoring platforms that are not intended to bring
+not covered by the systems. Primary systems of any system or application used by the bank
+not to carry out any business process through the system or application, sensitive data or
+Data that may be classified as confidential should not be processed, transmitted or stored.
+(4) Due to the nature of the transactions, such as payment or messaging systems where interaction with abroad is required.
+Except for banking transactions, the bank is subject to any approval process from a system established abroad.
+able to carry out banking transactions without having to work and disconnected from foreign communication networks.
+banking in the country through the primary and secondary systems established in the country, even in cases where
+It is essential that it can continue to offer its activities.
+(5) Outsourcing or cloud computing service for an activity covered by primary or secondary systems
+information systems used by the external service provider to carry out the activities related to the service provided, and
+their backups are handled within the scope of primary and secondary systems and kept in the country.
+IT operations management
+ARTICLE 26 – (1) The Bank shall ensure that IS services are provided in accordance with defined service levels.
+An IT operations management function that handles the day-to-day management and maintenance of the IT infrastructure to provide
+operates. Involvement of business units in line with the objectives and business requirements in the IS strategy plan; and
+With the approval of these services, service levels are defined.
+(2) The Bank provides immediate intervention to IT operational incidents, providing users with technology-related problems.
+providing support, transferring the problems to the relevant IT units for investigation and resolution,
+a help desk function to log, analyze and track incidents until they are corrected, and
+establishes a problem management system.
+(3) The Bank ensures that the performance of information systems is constantly monitored and that unexpected situations are avoided.
+implements a performance monitoring process to ensure timely reporting. Performance monitoring process, system
+an early warning function to identify and correct problems before they affect performance
+It provides the information needed for the capacity plan in line with the planned business objectives, and provides the workload forecasts.
+helps to prepare.
+(4) The bank shall address the current and future business requirements as outlined in the IS strategy plan, the service
+to ensure that the IT capacity is available to meet business levels and workload forecasts.
+capacity management and planning. The bank ensures that the capacity plan is maintained and updated on an ongoing basis.
+and IS services will meet performance targets at agreed service levels; or
+It provides the diagnosis and resolution of capacity-related incidents and problems.
+(5) The bank does not allow customers to process intensively, such as at the end of the month, after public holidays, and on the days when salary is paid.
+such as repetitive decrease in system performance, insufficient capacity, encountering technical failures
+by using methods to detect that the problems follow a certain pattern and to identify the root causes of these problems.
+responsible for ensuring that it is resolved.
+Accessibility management and backup
+ARTICLE 27 – (1) The bank does not declare that any hardware or software component is not working as expected.
+In such cases, in order to prevent the system or a significant part of banking activities from becoming inoperable,
+It is responsible for establishing redundant or hibernation schemes for critical hardware and systems. Which
+While determining that the hardware and systems are critical, the IS services specified in article 28 and their connected
+service levels and accessibility requirements of information assets specified in Article 6 are taken into consideration.
+(2) In order to ensure the accessibility of the data, the Bank shall ensure the accessibility of each data specified in Article 6
+It is responsible for establishing a backup scheme in accordance with its requirements. Restore from the backup of the system
+components that make the system work, such as the operating system, application software, and data
+included in the backup procedure. To make sure the backup is working properly, restore
+The data in the backup media is tested regularly by performing operations. When transporting spares, appropriate
+It is protected through encryption techniques and physical security controls.
+(3) Appropriate alternative communication channels against interruptions that may arise from the bank, network and communication infrastructure
+responsible for creating
+(4) The bank shall determine which system, server and data backups are taken, how often and by which methods, and
+by recording in which environment and locations the backups are kept, reflecting the current situation.
+liable.
+(5) As soon as the Bank receives data requests from the judicial authorities conducting investigations or prosecutions and the Agency,
+is obliged to take a copy of the data and back it up or to keep the original until the request is fulfilled. Bank
+by converting the data into known formats that can be easily reviewed by the requesting authorities; or
+provide the requesting authorities with the applications and tools that make it possible to examine the data together with this data.
+responsible for. Due to the late processing of the data requests submitted to it within the scope of this paragraph, the Bank
+It cannot claim that the data retention periods in the legislation have passed and therefore the data is inaccessible.
+The Bank has at least the copies or additional backups it has taken regarding the data requested from it within the scope of this paragraph.
+store for two years.
+Ensuring the continuity of information systems
+ARTICLE 28 – (1) To ensure the continuity of IS services used in carrying out banking activities
+The IS continuity management process as part of the business continuity management and plan and an IS Board approved
+A continuity plan is prepared, an IS continuity management process officer is appointed and an IS Continuity Committee is established. BS
+Continuity Committee, human resources of the bank, related business units, IS security function, related IS units
+representatives and, if present in the organization, compliance and legal units or positions.
+representatives and the IS continuity management process officer chairs this committee. BS Continuity
+By declaring the committee a crisis situation, taking into account all the factors related to the events that occurred,
+Deciding on the implementation of the IS plan and coordinating with other rescue, continuity and response teams
+responsible for providing
+(2) Reference to national or international standards or best practices of the IS continuity management process
+getting it is essential. As part of this process, the bank performs the following activities in relation to its IS continuity plan:
+a) An information system that includes business impact analysis, risk assessment, risk management, monitoring and testing activities
+establishing a continuity management process,
+b) Within the framework of business impact analysis and prioritized business objectives with the participation of business units
+develop the plan and determine the actions required for recovery,
+c) Ensuring that the plan is feasible and maintained,
+ç) Compliance of the plan with other plans such as response plans, capacity plan, and legislative requirements.
+provide,
+d) At least once a year, from the findings and tests determined as a result of audits and risk analysis studies.
+Review the plan based on lessons learned or after changes that affect business processes or IS continuity.
+to ensure that it is updated,
+e) To deal with legal issues arising from emergencies and disasters and to deal with public relations and the press.
+to carry out the communication
+f) To ensure that relevant teams and employees are trained within the scope of the plan and to raise awareness.
+(3) In the process of preparing the plan, the level of importance of information assets and the data held is evaluated and the business impact
+Within the framework of the analysis, acceptable downtimes and acceptable data losses are determined for each IS service.
+and recovery procedures that will allow services to be accessed again in line with these determined limits.
+is developed. Bank, return from secondary to primary after the end of the catastrophic situation
+Prepares procedures to ensure
+(4) A secondary center is established within the scope of the plan. Data and system backups are ready for use in the secondary center
+availability is provided. Geographically, the secondary center is affected by earthquakes, fires, explosions, floods, floods, landslides, electricity and
+It is exposed to the same risks as the primary center in terms of damages arising from reasons such as communication line interruption.
+absence is essential.
+(5) The critical persons responsible for the execution of the plan and the personnel responsible within the scope of the plan,
+They are subjected to IS continuity training in a detail and content proportional to their responsibilities and their duties and activities within the scope of the plan
+informed about their responsibilities.
+(6) Even in disaster scenarios where the primary systems are completely out of order, the bank will be kept within twenty-four hours at the latest.
+It is essential that it is able to continue its activities in To ensure the effectiveness and timeliness of the plan
+To provide a real disaster scenario at least once a year and to continue activities through the secondary center.
+tests are carried out. External service providers, if any, are included in the tests, the test results are reported to the senior management and
+The plan is updated according to the results. The Institution is authorized to determine additional procedures and principles regarding the implementation of this paragraph.
+(7) The critical persons responsible for the execution of the plan, the personnel responsible within the scope of the plan and the external
+the validity of the contact information of the service providers and the availability of these persons ready for the task, the communication
+It is tested at least twice a year with chain tests. Your plan and related recovery or return with contact information
+Up-to-date copies of procedures are always available to those who need to know.
+It is ensured that the copies are kept and copies are kept where necessary.
+(8) Updates to the system, server, network device and other IT components in the bank, primary center,
+the same for backups of patch downloads and configuration changes in secondary hub.
+ensures that the data and system backups copied to the secondary center are the same as the primary center.
+Performs integrity checks to guarantee
+(9) The bank shall provide a list of the IT services, servers, systems, applications and data it includes in the secondary center.
+Current status of the list of IS services, servers, systems, applications and data not included in the scope of the secondary center
+documents to reflect.
+(10) Outsourcing for the primary or secondary center or a data shared with other organizations
+a real place to live in the location or regionally where the data centers are located.
+in the event of a disaster, the work environment in the primary and secondary center and external service providers will allocate to the bank.
+It is essential that the source is of a quality to guarantee the business continuity of the bank.
+CHAPTER SIX
+Foreign Service Procurement
+
+Page 2
+
+Management of the outsourcing process
+ARTICLE 29 – (1) The senior management of the bank shall be aware of the consequences of the services to be received as external services for the bank
+adequately assess and manage risks and effectively establish relations with the external service provider.
+establishes an adequate oversight mechanism to enable Within the scope of outsourcing;
+a) Evaluating all aspects of the risks posed by the external service to be received,
+b) Taking the necessary care in the selection of the external service provider,
+c) Outsourced service providers and their service areas, contact information and termination of services
+putting the dates in writing,
+ç) Accessibility, performance, quality of the services subject to outsourcing,
+whether or not service levels are complied with, security breach events occurring within the scope of these services, external
+security controls of the service provider regarding confidentiality, integrity and accessibility, operational and financial
+whether the situation is suitable to fulfill its obligations and compliance with the terms of the contract.
+to be followed regularly,
+d) The bank's own risk management, security and customer satisfaction of systems and processes within the scope of outsourcing.
+comply with privacy policies,
+e) It is necessary to transfer the bank data to the external service provider within the scope of outsourcing.
+In such cases, the security principles and practices of the outsourcing provider are at least the same as those of the bank.
+taking the necessary measures to ensure
+f) If the activities within the scope of outsourcing are carried out within the bank, which
+If it is foreseen to be subject to audits, the external service provider should also be included without any scope narrowing.
+subject to the same controls,
+g) Arranging the issues related to outsourcing, taking into account the bank's business continuity plan, and
+taking the necessary precautions,
+ğ) Risks related to the termination or interruption of outsourcing outsourcing out of the planned
+Determining an exit strategy suitable for management,
+h) The transfer of the foreign service to subcontractors is possible if the bank allows,
+is provided.
+(2) The condition, scope and any other definitions regarding outsourcing are bound to a written contract.
+The contract includes, as a minimum, the following:
+a) Definitions of service levels,
+b) Termination conditions of the service,
+c) Requirements to be taken by the external service provider in order to prevent disruption of the bank's business continuity.
+provisions on measures,
+ç) Requirements regarding sensitive issues within the Bank's security policy and
+Information that the external service provider learns about the bank and its customers during the service
+Provisions that will ensure the observance of confidentiality regarding
+d) Events such as security breaches or data leaks within the external service provider are immediately reported to the bank.
+provisions to be notified,
+e) Provisions regarding the ownership of the products and services subject to the contract and intellectual property rights,
+f) Provisions in the contract that constitute an obligation for the outsourcing service provider, with subcontractor organizations.
+Provisions that will ensure that they are included as binding articles in the contracts to be made,
+g) Outsourcing will result from the unplanned termination or interruption of the procurement.
+provisions on managing risks,
+ğ) In case the service received is terminated, the bank and customer data are properly delivered to the bank.
+provisions to ensure its destruction and destruction,
+h) For external service providers within the framework of the service received, the provisions of the legislation to which the Bank is subject.
+provisions to enforce
+ı) All kinds of information and information requested by the Institution regarding the activities of external service providers.
+by submitting the document on time and accurately and in all kinds of electronic, magnetic and similar media related to them.
+ready to examine the records and the systems and passwords necessary to access and make the records readable
+Provisions regarding the obligation to keep and operate,
+i) The Bank and its independent auditor, in relation to the subject of outsourcing,
+Provisions regarding the authority to request information and documents.
+(3) The bank has the opportunity to enforce the obligations that must be included in the contract specified in the second paragraph.
+cannot obtain critical services and services with external service models carried out within the framework of standard contracts
+and cannot run critical workflows through such external service models.
+(4) The search engine from which the Bank wishes to receive advertisement services for the banking services it offers,
+Take measures to prevent fake advertisements given on behalf of the bank by providers such as social media platforms.
+It checks that it does not take the appropriate measures and cannot receive advertising services from providers that do not take appropriate measures. Bank, advertising service
+Publishing fake advertisements in contracts with providers such as search engines and social media platforms.
+case, in order to protect the customer, he has to add the provisions that he can get the necessary information specific to the event.
+This clause is also applicable to the agreements made with the intermediary firms that the Bank has agreed to receive advertising services within this scope.
+provisions apply.
+(5) In line with the principles defined by the security policy, the Bank is responsible for the risks arising from outsourcing.
+makes the necessary organizational changes to keep it under control, defines administrative procedures, and
+appoints a responsible person with sufficient knowledge and experience to handle the relations with the provider.
+(6) The types of access rights granted to the external service provider are considered specifically. physical or logical
+Risk assessment is made for these possible accesses, additional controls are established according to the risk assessment result.
+is done. The type of access needed, the value of the accessed data, the external service provider
+The controls carried out by the Bank and the effects of this access on the security of bank information are taken into account.
+(7) In order to ensure the security of confidential information belonging to itself and its users in foreign service procurement, the Bank
+responsible for taking the necessary measures. Access to the system to be given to external service providers, access to data or data
+authority to see is limited to cover the information required by the job. by the external service provider to the organization and
+It is the bank's responsibility to ensure that measures are taken to protect the confidential information of its users.
+(8) IS internal control and internal audit activities specified within the scope of this Regulation are subject to outsourcing.
+and is performed by the bank's own personnel.
+(9) The bank's information systems can be subject to outsourcing as a whole or in part;
+a) Information of the bank in terms of banking activities and liabilities required by the banking legislation
+on management, content design, access, control, audit, update, information/report
+Having the decision-making power and dominant role in the bank without any limitation on relevant matters,
+b) The bank's knowledge of all administrative details regarding the information systems subject to outsourcing,
+c) Access authorizations to the bank's databases and data must be in the hands of the bank, with or without critical information.
+establishing an authorization mechanism that will enable it to be carried out in line with the permissions it will grant, and
+such as the authorization of all applications used by the bank and the review of track records.
+control activities are carried out by the bank itself,
+ç) Without prejudice to the intellectual property rights regarding the software, the account, registration form formed within the scope of the external service received
+Ownership of all information and documents pertaining to transactions and transactions belongs to the bank,
+provided it is possible.
+(10) Production of products and services to be purchased within the scope of critical information systems and security in Turkey, or
+Utmost care is taken to ensure that the R&D centers of the manufacturers are located in Turkey and they play an important role in foreign service procurement.
+considered as criteria. It is essential that such providers and manufacturers have response teams in Turkey.
+The Authority is authorized to set additional requirements for security products and other IT elements to be used by banks.
+(11) The Bank may use cloud computing services as an external service. For primary or secondary systems
+cloud service with a private cloud service model over hardware and software resources allocated to a single bank
+receivable. In addition, hardware and software resources allocated only to organizations subject to the control of the Authority.
+community cloud service where it is physically shared but logically assigned a separate resource specific to each bank
+Outsourcing is subject to the approval of the Board. If the Board deems necessary, it may extend the scope of the community cloud service
+is authorized to change the organizations that may be involved.
+CHAPTER SEVEN
+Information Systems Internal Control and Internal Audit Activities
+Information systems internal control activities
+ARTICLE 30 – (1) Activities related to IS management at the bank and its external service providers,
+processes supporting activities and IS controls established in compliance with the legislation and in-bank policies, procedures and
+IS internal control function is created to check compliance with standards, IS internal control officer
+is appointed and IS internal control activities are carried out under the responsibility of this person. In addition to the IS internal control function
+It also performs the following activities:
+a) In order to eliminate the deficiencies determined as a result of the controls and to take action, to the relevant units and
+reporting to senior management,
+b) Relevant procedural or system improvement suggestions, which are found to be necessary as a result of the controls,
+reporting to units and senior management,
+c) Planned changes, innovations or in-bank products in the bank's products and processes upon request.
+forming opinions on policy, procedure and process documents,
+ç) Participation in projects and working groups, boards and committees related to critical processes within its scope of duty.
+and making suggestions to minimize the risk at the relevant meetings,
+d) Senior management for monitoring risks arising from IT management and outsourcing,
+Periodic reporting to the audit committee and internal control unit manager,
+e) IS internal control review plans each year, showing planned reviews for the next year
+and their approval by the bank's audit committee.
+(2) Establishment of IS internal control, IS audit, IS governance and controls, or information
+Have a total of at least five years of professional experience in any or more of the security fields
+is essential. The personnel who will take part in the IS internal control function are also considered in terms of their educational status in the relevant fields or
+It is obligatory to have the minimum knowledge and skills that can be proven with the certificates they have received.
+(3) Periodic controls made within the scope of IS internal control activities are recorded and
+Evidence of work related to this is kept at the bank for at least three years.
+Information systems internal audit activities
+ARTICLE 31 – (1) Activities related to IS management at the bank and its external service providers,
+processes supporting activities and IS controls established in compliance with the legislation and in-bank policies, procedures and
+The effectiveness of internal control and risk management activities related to information systems and
+An IS internal audit function is established to provide assurance to the board of directors regarding the adequacy of IS internal audit
+responsible person is appointed and IS internal audit activities are carried out under the responsibility of this person.
+(2) Establishment of IS internal control, IS audit, IS governance and controls, or information
+Have a total of at least five years of professional experience in any or more of the security fields
+is essential. The personnel who will take part in the IS internal audit function, in terms of their education in the relevant fields or
+It is obligatory to have the minimum knowledge and skills that can be proven with the certificates they have received.
+(3) The scope of IS internal audits will include and include critical IS services, processes, and critical assets.
+It is essential that it be in depth and detail to provide assurance regarding the issue. An IS comprised of auditable IS areas annually
+audit plan is created and approved by the bank audit committee.
+(4) The frequency and audit cycles of the bank's IS internal audits; IT services, processes and
+ensure that the assets are commensurate with the criticality and risk. All of the provisions in this Regulation
+The audit cycle for IS internal audits to provide assurance that the
+determined not to exceed one year.
+(5) Audit guidelines and control for IS audits to be performed by the IS internal audit function
+lists are prepared and put into writing, and they are regularly reviewed in accordance with the technology of the day.
+is updated. Evidence of work related to audits is kept at the bank for at least three years.
+Follow-up and assurance of findings
+ARTICLE 32 – (1) Bank audit committee, IS internal control, IS internal audit and other IS audit studies
+allocates sufficient time to address the findings determined as a result of these studies,
+It personally reviews the issues and guides the senior management in taking the necessary measures. bank audit
+committee members, IS internal control and IS internal audit reports and findings appropriately
+It is formed in such a way as to have professional experience or knowledge that can be evaluated.
+(2) The findings of the bank, IS internal control, IS internal audit and other IS audit studies
+It connects to the action plan and allows it to be followed. Target in the action plan for closing the findings
+Findings for which a completion date cannot be assigned, exceeded, extended for more than one year or canceled
+These findings are regularly reported to the audit committee and these findings are handled as critical issues in the audit committee.
+(3) IS internal control and internal audit function
+Makes suggestions for the measures and actions that can be taken by the relevant unit or
+agrees on the actions it plans to take in this direction. Completion of the implementation of suggestions and actions
+The final decision on the findings, which can be closed as a result of the findings, is made by the owner of the findings, BS internal control or BS internal control.
+It is awarded as a result of examination by the audit function.
+(4) As a result of the work performed by the IS internal control and internal audit functions, the bank's IS
+independently of the examination of the controls and the studies performed by independent audit firms.
+an assessment of these controls to identify any significant control deficiencies and
+in scope;
+a) In the IS controls of the bank, the Second Part of the İSEDES Regulation titled “Internal Control System” and this
+Any action that may hinder effectiveness, adequacy or compliance in terms of the procedures and principles specified in the regulation.
+there is no significant lack of control,
+b) It causes material misstatement in the financial statements or the bank, especially the financial data.
+integrity, consistency, reliability, confidentiality when necessary, and activities
+a situation that significantly affects the continuity of the company or those who have critical duties in the internal control system with the managers.
+there is no abuse or corruption involving other officials,
+c) If there are issues within the scope of subparagraphs (a) and (b) among the findings, all of them
+reported to the audit committee and the board of directors,
+Providing assurance is essential.
+Training of staff and allocation of resources
+ARTICLE 33 – (1) To ensure that IS internal control and IS internal audit activities are carried out effectively.
+employment of sufficient qualified and number of personnel and allocation of sufficient resources by the bank to ensure
+is essential. The personnel who will take charge in IS internal control and internal audit functions are expected to work for at least twenty hours a year, every three years.
+Establishment of IS internal control, IS audit, IS governance and controls or information for a minimum of one hundred and twenty hours
+They are provided with training in the fields of security and participation in conferences and seminars.
+(2) Based on mutual cooperation and information of IS internal control and IS internal audit activities
+coordinated execution of important systems, processes and areas on time and with priority.
+Planning the internal control and internal audit activities in a way that will enable the evaluation of
+Providing the necessary resources is essential.
+PART THREE
+Electronic Banking Services
+FIRST PART
+Common Terms
+
+Authentication and transaction security
+ARTICLE 34 – (1) Unless otherwise stated in this Regulation, financial services such as viewing customer information
+customers of banks for electronic banking services, including ineffective transactions.
+implementation of an authentication mechanism consisting of at least two independent components and
+protect the confidentiality of the authentication data they contain during their use in the authentication process.
+It is essential to take measures to ensure These two components are; a customer “knows”, “owns” or “biometric
+It is selected to belong to two different from the element classes "having characteristics". Components are independent
+means that its hijacking does not endanger the security of the other component. component owned by the customer
+It is essential that it is unique to the customer and cannot be imitated.
+(2) Using the TR ID Card together with the card PIN or biometric data in authentication, or
+In cases where electronic signature is used, the requirements of the first paragraph shall be deemed to have been fulfilled.
+(3) The Agency, on the basis of transactions that can be carried out through electronic banking distribution channels,
+to define exceptions or additional security measures regarding the implementation of the paragraph or to establish additional procedures and principles.
+authorized to determine. Without the use of two-component authentication, which is not in accordance with the first paragraph
+For any transaction performed, the obligation to prove that the transactions performed were made by the customer.
+belongs to the bank.
+(4) Production of components to be used in the authentication mechanism to be applied to users
+security is ensured throughout the entire process, starting from the stages of delivery to the delivery to the user.
+(5) encryption keys to be used in authentication; minimize the chances of these keys being compromised.
+to include methods that download, maintain confidentiality, and prevent modification and corruption.
+made available for use.
+(6) Unsuccessful authentication attempts of the authentication mechanism to be applied to users
+It is ensured that the relevant user is informed about the first time he enters the system. a certain number of unsuccessful attempts
+Additional security measures are taken for the customer's access, if unsuccessful authentication attempts are
+If it continues, the access of the relevant user is blocked.
+(7) The Bank provides its customers, who have activated the mobile banking application by downloading it, to log in or
+No OTP or verification code via SMS to verify any transaction after the session
+cannot send it and use it as an authentication element. Initial installation of the mobile banking application,
+via SMS during activation, re-activation phases or in case the application is unusable.
+Sending an OTP or verification code does not violate the provision of this paragraph.
+(8) Bank has changed SIM card or electronic communication via number porting
+Required integration with mobile communication companies established in Turkey to customers who have changed their operators.
+determines before sending the SMS OTP and, unless the changes are confirmed, to the relevant customers,
+While providing electronic banking services for 90 days from the date of change, based on SIM card
+The element cannot be used as an authentication element. Two-factor authentication when confirming changes
+Proof that the transactions performed are made by the customer, for all kinds of transactions carried out without using
+The obligation to do so rests with the bank.
+(9) One-time passwords to be used by customers for identity or transaction verification,
+be generated randomly, variable, and uniquely of sufficient length to be difficult to
+provided to be valid.
+(10) Include on the documents that serve to identify the customer and replace the official identity document.
+information received, mother's maiden name, identity card at any stage during the provision of electronic banking services.
+cannot be used for verification purposes. A security question as a customer-known element in bank authentication
+If you want to use it, this security question is on the documents that replace the official identity document.
+It should not be related to one of the information and the answer should be determined by the customer himself.
+(11) If the initial association of an authentication component with a customer is to be done remotely,
+at least two-component authentication in accordance with the first paragraph and with association-secure methods
+is carried out. Within the scope of the Bank Cards and Credit Cards Law dated 23/2/2006 and numbered 5464
+cards and Payment and Securities Settlement Systems dated 20/6/2013 and numbered 6493, Payment Services and
+PIN of the payment instrument within the scope of the Law on Electronic Money Institutions, related electronic banking distribution
+After activating the channel and obtaining the first password, the card is used as a possession.
+Except for the transactions, the "knowledge of the customer" specified in the first paragraph cannot be used as an authentication element.
+After activating the electronic banking distribution channel and obtaining the first password,
+Remote determination of the new password, in cases where it needs to be reset due to forgetting or entering it incorrectly.
+Provided that at least two-component authentication is performed in accordance with the first paragraph, the above-mentioned PIN
+information can be used as the element known to the customer.
+(12) To its customers for transactions that can be carried out through the Bank's electronic banking distribution channels,
+default and client-updatable access restrictions, daily transaction limits, safe recipients list
+Provides additional security measures such as Defining, updating or changing security measures
+It is essential that it is carried out after an identity verification in accordance with the paragraph. Bank own risk assessment
+may determine additional security measures to the first paragraph for the changes to be made in the security measures within the framework of the
+(13) Reverse of any transaction offered through electronic banking distribution channels.
+If it is possible to perform the transaction and it is equal or less risky than the original transaction, the bank can make this transaction, which is the opposite of the original transaction.
+It also ensures that transactions are carried out through the same electronic distribution channel.
+(14) Any software or software that the Bank offers to its customers for use in electronic banking services.
+In addition, it is ensured that the source of the mobile application is the relevant bank. Bank this software or
+ensuring that mobile applications do not contain any code that would endanger customer security,
+It is obliged to provide the necessary patches and updates to the customer's use to fix the vulnerabilities.
+(15) The bank is used to transmit more than one authentication component, such as smartphones, to the bank.
+sensitive data used by banking applications on mobile devices,
+takes measures to ensure that it is inaccessible to applications and running processes. The bank in question
+If mobile devices are lost or stolen, sensitive data on them cannot be accessed by unauthorized persons.
+and hijacking of mobile devices, deterioration of reliability, cracking of operating system software
+Controls in accordance with the technology of the day in order to reduce the risks arising from situations such as changing or changing
+responsible for establishing
+Undeniability and assignment of responsibility
+ARTICLE 35 – (1) The Bank, within the scope of the electronic banking services it offers,
+Techniques that make it possible to assign non-repudiation and responsibility for both the bank and the customer in transactions
+uses. The trace records created by the technique used will enable reliable evidence to be obtained and
+be qualified to appoint.
+Follow-up of transactions
+ARTICLE 36 – (1) The Bank shall be liable for any extraordinary, fraudulent acts within the scope of electronic banking services.
+Process tracking to detect and prevent malicious or fraudulent transactions
+establish mechanisms. As a minimum, the following risk, where appropriate, within the scope of the transaction tracking mechanism
+elements are followed:
+a) Known fraudulent methods for transactions with financial consequences,
+b) The amount of each banking transaction and the location information of the customer according to these amounts.
+shows an abnormal payment, fund transfer or behavior pattern using the
+c) List of lost, stolen or unauthorized authentication elements,
+d) indicating that malware may be infected for each authentication session.
+symptoms.
+(2) The bank evaluates risky transactions by filtering them and monitors the customers who are caught in these filters more closely.
+it does. If it is determined that risky transactions have been carried out, appropriate bank, telephone or text message.
+methods to warn customers as soon as possible.
+Informing customers
+ARTICLE 37 – (1) Customers who will benefit from electronic banking services offered by the Bank;
+are clearly informed about the conditions, risks and exceptional circumstances of the services. Bank's electronic
+The security principles it has adopted to reduce the impact of risks related to banking services and to avoid these risks.
+The methods to be used for protection are brought to the attention of the customer. specified in this Regulation.
+All kinds of information and explanations for informing customers, both on the bank's own website and
+On the website where it provides internet banking service, it is always kept open for customer access and these websites are accessed.
+Techniques are used to show that it belongs to the bank. It is ensured that information and explanations are clear and understandable,
+placed in a prominent place on the website and you can use the relevant electronic banking service.
+redirects and systemic restrictions to ensure customers read it at least once before starting
+is applied. Important security that should be brought to the attention of customers once they start using the services
+For warnings and announcements, techniques are used to enable customers to read these warnings and announcements.
+(2) Within the scope of the first paragraph, the bank is on its own website or on the internet where it provides internet banking service.
+on the site;
+a) Identity of the bank, trade name, address of the head office, legal status, responsible for the supervision of the bank
+the contact information of the Banking Regulation and Supervision Agency,
+b) The risks borne by the use of electronic banking services, in order to protect customers from these risks,
+methods to be used, guiding security guides that will increase customer awareness, and
+the responsibilities and rights of the customers who will benefit from it,
+c) Electronic banking services offered by the Bank, these services and within these services
+the days and hours when the banking transactions that can be performed are open to access and other conditions regarding the services,
+ç) Planned maintenance for which an interruption of more than two hours is foreseen in electronic banking services, and
+announcements that will inform customers in advance of changes,
+d) Customers encountering any problems or fraud cases related to the services provided
+guiding information on what to do in case of
+place is given.
+(3) To address the problems and complaints that customers may experience due to electronic banking services.
+Mechanisms that can be communicated and followed are created. Complaint units or call centers to be established
+fraud cases related to the relevant electronic banking service in the menus to welcome the customer.
+presenting the transaction to the attention of the customer in the main menu and in the first row, and the notifications delivered to the bank
+It is ensured that the necessary work is carried out to eliminate it in a short time.
+(4) In electronic banking services offered by the Bank, the possibility of customers making wrong transactions
+existence of controls that will minimize
+All kinds of amount, commission and fee information are clearly presented to the customer information at the time of the transaction and the customer
+If approved, the transactions are carried out.
+(5) The bank may provide internet banking and mobile banking services to the relevant customer without the customer's request.
+cannot be used. If the customer has closed or has had his access to any electronic banking service closed,
+The relevant service cannot be put into use without a new request from the customer.
+(6) The Bank, in its marketing activities, advertisements or publications,
+
+any electronic banking service is absolutely secure or there is no security in these services.
+avoids using expressions that will give the impression and information that there is no risk.
+(7) For the electronic banking services offered by the bank, the requirements to be made within the scope of this Regulation
+information arising from the platform where the service is provided or the device that the customer uses while receiving the service.
+If the customer is insufficient in terms of information opportunities due to various reasons, different channels may be used to inform
+Necessary directions are given to reach it.
+(8) Any kind of sensitive data or confidential data that the Bank will transmit to its customers electronically.
+Sending information such as statements, bank statements, and bank statements through channels that provide electronic banking services
+is essential. The Bank provides its customers with the necessary requirements for the use of electronic distribution channels in presenting such information.
+responsible for making directions.
+SECOND PART
+Internet banking
+Authentication and transaction security in internet banking
+ARTICLE 38 – (1) According to the first paragraph of Article 34 in the Internet banking distribution channel
+the authentication process to be performed online at the bank, not offline, at the local
+and the element known to the customer, remembered by the mobile banking application or internet browser, or
+The element should not be sent automatically by connecting to other local authentication methods. customer's
+It is obligatory for the customer to enter the element he knows and without prejudice to the second paragraph of Article 34.
+provided that this element is verified online at the bank, not locally.
+(2) While the identity verification process is performed in the Internet banking distribution channel, the first
+after the authentication component is entered or sent to the bank and before the internet banking login is opened
+beforehand, by the customer with a two-component authentication according to the first paragraph of article 34.
+It is ensured that a specified welcome message or picture is shown to the customer.
+(3) Identification to be carried out in the internet banking distribution channel in accordance with the first paragraph of Article 34
+a one-time use, signed with a cryptographic secret key assigned to the customer for authentication.
+verification code is generated. Authentication specified in the first paragraph of article 34 through the verification code
+Failure to obtain information about any of the elements, a known verification code and other valid verification codes
+cannot be derived, verification codes cannot be imitated. Validation for transactions with financial consequences
+The codes must be specific according to the amount approved by the customer when performing the transaction and the buyer information, the amount or the fund's
+In case of any change in the recipient information to which it will be transferred, the relevant verification code created according to this information.
+is also rendered invalid. For corporate internet banking customers for multiple recipients in bulk
+In transactions such as fund transfers where batch processing is allowed, the relevant stack of the verification code to be generated
+The transaction must be specific for the total amount and the buyers. Authentication with an encryption secret assigned to the customer
+In cases where it is not possible to sign the code, without prejudice to the seventh paragraph of Article 34, the SMS
+The verification code can be transmitted to the customer via
+(4) Verification for transactions with financial results carried out by the customer in internet banking
+at every stage of the verification process, including the creation, transmission and use of the
+Confidentiality, reliability and integrity of the information shown to the customer and submitted for approval, such as recipient information.
+diverting data communication to unauthorized persons during the internet banking session
+necessary measures are taken against the risk.
+(5) If an error occurs or cannot be generated in the generation of the verification code, the authentication
+It is not possible for the person attempting to understand which authentication element caused the error.
+measures are taken to ensure
+THIRD PART
+Mobile Banking
+Authentication and transaction security in mobile banking
+ARTICLE 39 – (1) A customer-specific encryption of the application PIN defined for the mobile banking application
+key and a unique information about the customer through this encryption key.
+the two-component identity document specified in the first paragraph of Article 34, if it is verified online before the
+verification is considered fulfilled. Similarly, a biometric authentication component belonging to the customer
+This encryption is achieved by accessing a customer-specific encryption key using the mobile banking application.
+In case of online verification of a unique customer-related information with the bank via the key, the 34th
+The two-component authentication specified in the first paragraph of the article is considered to have been fulfilled.
+(2) Password, PIN or password under the control of the device manufacturer, not under the control of the mobile banking application.
+biometric data, known by the customer or biometric characteristic specified in the first paragraph of Article 34
+cannot be used as elements.
+(3) The device on which the mobile banking application is installed and/or the mobile banking application must be provided to the customer.
+provided that the attached is used as a customer-owned authentication element, the customer can only
+want to view customer and account information through the mobile banking application, or
+an additional ID if he/she wants to transfer money or make payments to the defined list of safe recipients
+Authentication to be made with a single component without the need for a verification element is in accordance with the first paragraph of Article 34.
+is not considered a violation. The customer is the first to view the customer and account information specified in this paragraph.
+Authentication with two components, in case of logging in once or in accordance with the first paragraph of Article 34
+If more than 90 days have passed since the last session opened by
+Authentication is essential.
+CHAPTER FOUR
+Telephone Banking
+Authentication, transaction security and service quality in telephone banking
+ARTICLE 40 – (1) The customer requires an identity verification in accordance with the first paragraph of Article 34.
+As long as the employee who greets the customer to provide service in telephone banking,
+It is ensured that the customer cannot see the relevant information or the transaction menu for the customer is not active. customer's own
+Identity to be applied to carry out financial and non-financial transactions between accounts
+PIN information can be used as an element known to the customer in verification. Risky transaction such as lost, stolen and fraudulent
+In case of notification, customers connecting to the officer must know without authentication.
+access to customer information is ensured and necessary security measures are taken. without a telephone connection or
+In case the connection is terminated, there is no information about the customer except for the risky transaction notification such as loss, theft and fraud.
+no operation can be performed.
+(2) Through the customer's telephone banking channel, in any of the electronic banking distribution channels
+If he/she wants to make changes to the authentication or phone information he/she uses, this change
+It is ensured that it is carried out through automatic systems without the involvement and access of the attendant.
+(3) While performing the authentication during the provision of telephone banking services, the customer's
+Authentication elements that he knows and components such as a one-time password or transaction verification code,
+It is provided to be entered through automatic systems without his involvement and access.
+(4) In cases where the customer needs to be called from the phone number registered in the bank, the call
+Checks are carried out that the phone has not been forwarded to another number before it is performed.
+(5) Voice received regarding the transactions carried out by the customer during the provision of telephone banking services.
+For the records, the provisions specified in this Regulation regarding the trace records are applied. Reliable audio recordings
+It is essential that the evidence is of the quality and quality that will enable the acquisition of the evidence and assign responsibility.
+(6) The bank, customer representatives and callers in charge of providing telephone banking services to customers.
+about social engineering attacks and other known fraudulent methods against employees such as
+are obliged to have periodic trainings and to carry out studies to increase the safety awareness of these employees.
+(7) In order to ensure the quality of telephone banking service, the Bank fulfills the following criteria as a minimum:
+a) Announcements, including advertisements, announcements and notifications, of the main and sub-menus of the voice response system
+It is ensured that their duration does not exceed sixty seconds.
+b) In the voice guidance system, in order for the customer to start saying his/her transaction, after the announcement, ten
+seconds, and then the customer who cannot perform the transaction is transferred to the main menu.
+c) Option to connect to a call center officer or customer representative in the main menu or submenus
+is presented.
+ç) In order to achieve the call answering target, the call center officer or the customer representative should be contacted with the customer.
+It is ensured that there is no application such as limiting the meeting time.
+CHAPTER FIVE
+Open Banking Services
+Authentication and transaction security in open banking services
+ARTICLE 41 – (1) Acting on behalf of the customer or customer while using open banking services
+The fact that the communication between the receiving party and the bank is end-to-end secure communication, compensatory additional
+provided that controls are in place and additional restrictions are placed on the resources to which the customer can connect.
+Authentication with the component shall not be considered as a violation of the first paragraph of Article 34.
+(2) Services that can be offered through open banking services and the procedures and principles regarding these services.
+The Board is authorized to determine
+CHAPTER SIX
+ATM Banking
+Authentication and transaction security at ATMs
+ARTICLE 42 – (1) The bank, on ATM devices, to prevent card duplication or fraud,
+is obliged to take the necessary measures against criminal devices and techniques. The bank shall take the following measures as a minimum
+gets:
+a) Forged faceplates, fake keyboards, card compression apparatuses, card copy apparatuses, cash compression apparatuses,
+It can be mounted inside the card reader such as a mobile camera, money entry and exit points or other units of the ATM.
+Installing foreign devices that can be used in the ATM and removing the existing ATM equipment from the ATM.
+compelling techniques and preventive or detective controls are used.
+b) ATM devices are subject to the presence of foreign objects in the periods determined as a result of the risk analyzes to be made.
+physically checked. Installing devices for card duplication and card fraud
+Relevant control periods are increased for ATMs with high probability.
+(2) Any card copying or fraudulent object is mounted on the ATM or the ATM
+Detection of tampering of your device, card copying and alarming solutions for preventing fraud.
+in cases where it produces or if these solutions are perceived as not working; Central circuit of the ATM for security purposes
+can be excluded and any problem can be resolved without being physically checked or by examining the camera images.
+It is ensured that it is not put into service again without assurance that it is not available.
+(3) All kinds of pre-defined passwords on ATM devices, these pre-defined passwords of the ATM device.
+in an unpredictable manner, in order to prevent it from being managed by malicious people who know
+is replaced.
+(4) The installation of malicious programs on ATM devices and unauthorized access
+Necessary measures are taken to prevent the integrity of applications and critical services and data related to applications.
+periodically verified. automatically or regularly in order to eliminate security vulnerabilities on ATMs.
+Necessary updates and patches are installed periodically. Minimum required operating system running on ATMs
+set to run with privileges and privileges, installing necessary updates and patches
+It is ensured that it is a compact, stable and secure operating system according to the technology of the day. In banks, ATMs,
+takes measures to prevent the execution of applications and codes whose origin and integrity cannot be approved.
+(5) It will allow unauthorized persons to connect any other electronic device to ATMs.
+All entry points are blocked from access and unauthorized access to the network connection between the ATM device and the bank
+Additional security measures are implemented to prevent devices from being connected.
+(6) Data security and confidentiality of the communication network used for transactions carried out over ATM devices.
+and ensure its integrity. Confidentiality of all kinds of data stored, transmitted and processed on ATM
+and its integrity is preserved by appropriate means. Regarding authentication such as PIN information, fingerprint information, card information
+Confidentiality and integrity are ensured from the stage when critical information is digitized and entered into the system.
+(7) The Bank undertakes activities that raise awareness of its customers on the safe use of ATM devices.
+is found.
+(8) ATMs of transactions for which the presentation of legal identity is required if carried out at the bank branch
+identity verification in accordance with the first paragraph of Article 34.
+is applied.
+(9) The bank is located at an appropriate angle to the places where the ATM devices are located so that the customer's keyboard movements cannot be seen.
+installs security camera. Security camera recordings are kept for at least six months. in camera recordings
+The fact that the image constitutes evidence and that the image quality affects the customer and his immediate surroundings at the ATM.
+It is essential that it is of a quality that can enable the identification of its equivalents. The clocks of the cameras are up-to-date, accurate, and
+Parameters such as the reference number of the transaction performed at the ATM and the receipt number are compatible with the time information.
+is provided. Decreased image quality of the camera for any reason, stop of image acquisition, external lens of the camera
+A structure that will detect the shutdown or deactivation due to a factor and take the necessary actions.
+is installed.
+(10) In terms of viewing area, including the ATM and meeting the conditions in the ninth paragraph
+In case of a security camera infrastructure, it is not necessary to install a separate security camera for the ATM.
+there is none. Security camera for ATMs located in the operating area of ​public security and intelligence agencies
+The condition of establishment is fulfilled provided that permission can be obtained from the relevant public security and intelligence institutions.
+PART FOUR
+Miscellaneous and Final Provisions
+FIRST PART
+Miscellaneous Provisions
+Remote identification and third-party trust
+ARTICLE 43 – (1) The Bank, dated 11/10/2006 and numbered 5549, Prevention of Laundering Proceeds of Crime
+Without prejudice to the obligations in the Law and its sub-regulations, the customer or the customer
+use remote identification methods to identify the person acting on its behalf, or
+any other person who has already identified the client or the person acting on behalf of the client.
+can receive service from the bank through open banking services. Procedures and principles regarding the implementation of this paragraph
+The Board is authorized to determine
+Fields and durations of professional experience
+ARTICLE 44 – (1) Enforced by the Council of Ministers Decision dated 2/1/2014 and numbered 2014/5885.
+According to the Organization Regulation of the Banking Regulation and Supervision Agency, BS in the relevant institutions by the Agency.
+Institution's professional personnel, who work under the department responsible for on-site inspections,
+It is considered to have worked in the fields related to the professional experience mentioned in the regulation and the relevant department of the professional personnel
+period of time worked within the scope of the Presidency, the periods worked in the fields related to professional experience mentioned in this Regulation
+It is considered.
+Exception provision
+ARTICLE 45 – (1) Regarding the committees, units and responsible persons to be established within the scope of this Regulation,
+Exceptions are made on the basis of criteria such as the scale of the banks, their dependence on information systems, the number of personnel, and the foreign services received.
+The Institution is authorized to define it.
+SECOND PART
+Final Provisions
+Force
+ARTICLE 46 – (1) This Regulation enters into force on 1/7/2020.
+Executive
+ARTICLE 47 – (1) The provisions of this Regulation are executed by the Chairman of the Banking Regulation and Supervision Agency.
+
+

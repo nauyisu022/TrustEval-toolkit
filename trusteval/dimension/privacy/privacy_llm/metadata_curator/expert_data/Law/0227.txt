@@ -1,0 +1,233 @@
+Page 1
+
+DATA RESPONSIBLE and
+DATA PROCESSOR
+
+Page 2
+
+A. Definitions
+Data controller, purposes of processing personal data and
+establishment of the data recording system, which determines the means of
+and the natural or legal person responsible for its management
+means. Legal entities to process personal data
+themselves within the scope of their activities
+“data controller”, as specified in the relevant regulations.
+legal responsibility will arise in the person of the legal person. It
+public law legal persons and private law legal entities
+There was no difference in terms of individuals.
+Legal personality of units within a company
+data controller of these units.
+it's not possible. However, a company
+Each company that makes up its group has legal personality.
+separate data controller for each of these companies.
+it is possible.
+If the data processor is authorized by the data controller,
+that processes personal data on its behalf, on the basis of
+real or external to the organization of the person responsible
+defined as legal persons. These individuals are
+processes the data within the framework of the instructions given to it,
+to conclude a personal data processing agreement of the data controller
+It is a separate natural or legal person authorized by it.
+
+one
+
+Page 3
+
+B. Data Processor and Data
+Responsible Difference
+Any natural or legal person can also
+The data controller can be both a data processor. For example, a
+The accounting firm holds data about its own personnel.
+as the data controller in relation to the
+In terms of the data held by the companies, the data processor
+will be accepted as
+The activities of the data processor are more technical than the data processing.
+limited to parts. Regarding the processing of personal data
+The authority to take decisions rests with the data controller. Data
+
+2nd
+
+Page 4
+
+the purpose and method of processing personal data
+is the one who determines. That is, the “why” of the processing activity and
+He is the person who will answer the “how” questions.
+In order to determine the data controller, who should
+decision should be taken into account:
+• Collection and collection method of personal data,
+• Types of personal data to be collected,
+• For what purposes the collected data will be used,
+• Which individuals' personal data will be collected,
+• Whether the collected data will be shared,
+if it is shared, with whom it will be shared,
+• How long the data will be retained.
+However, the personal data to be made by the data controller
+With the processing contract, the example below is
+may leave the authority to decide on the issues to the data processor:
+• Which information technologies are used to collect personal data?
+systems or other methods will be used,
+• The method by which personal data will be stored,
+• Security to be taken for the protection of personal data
+details of the measures,
+• The method by which personal data will be transferred,
+
+3
+
+Page 5
+
+• The correctness of the periods for the storage of personal data.
+method to be used,
+• Deletion, destruction and anonymity of personal data
+methods of making.
+Some common ground between data controller and data processor
+points must be specified. First, the data controller
+In other words, from data processing activities within a company.
+no responsible person is implied. data controller
+is the legal entity itself. Data controller (same
+being a data processor as well)
+to determine the obligations
+status and meeting the characteristics given in the definition.
+case, the legal entity of the company is also included in this status.
+will take. For example, part of the data processing activity
+a person who receives and records documents in a company
+not, the company itself has the title of “data controller”.
+Secondly, both concepts are both real and legal.
+applies to individuals. For example, a self-employed financial
+both the consultant and the financial advisory firm, the data controller,
+as well as a data processor. within a company
+Since these units do not have legal personality, these units
+It is not possible to be a data controller or a data processor.
+However, each constituting a group of companies
+Since a company has legal personality, these companies
+each can take place in two separate statuses.
+
+4
+
+Page 6
+
+Finally, a legal or natural person
+can be both a data controller and a data processor.
+it is possible to say. For example, a cloud computing service
+The company that offers it is “data” in terms of the data of its own employees.
+responsible for the data of its customers.
+acts as “operator”.
+
+C. Examples
+Market Research Companies
+Under a contract with a pharmaceutical company, a research
+company, “employee satisfaction survey” for the pharmaceutical company
+took charge of the arrangement. The company, the employee to be surveyed
+determination of the list, selection of the survey method
+and the presentation of the survey results to the research company.
+has left. In this case, the research firm
+Even if it conducts the survey on behalf of the company and processes personal data
+and is in the status of data controller together with the pharmaceutical company.
+Because which employees will be surveyed, which data will be
+gather etc. have decision-making powers
+is a research company.
+
+5
+
+Page 7
+
+Shipping Companies
+A cargo company, a bank and customers' credit cards
+a contract to provide the transport service to the person concerned
+he did. Cargo company sender's name, surname, receiver's
+data it obtains to manage the shipment, such as the address
+is the data controller. However, the shipping company
+although he physically holds his credit cards
+information regarding the credit card in question.
+not possible to reach. In this case, the delivery service
+What is the data of the cargo company serving as a server?
+is neither the controller nor the data processor. Hence,
+only to ensure the safety of the physical goods it carries.
+is obliged to comply with the processing of personal data.
+There is no obligation required.
+
+6
+
+Page 8
+
+Payment Services
+A person who sells online
+customers by agreement with the payment service company.
+in the case of processing your data; payment service company
+is not the seller's data processor. Processing of this data
+is in the status of data controller. Because the payment
+service company; (1) In order for payments to be made correctly
+what data should be collected from customers
+decides. (2) Which of the collected data
+has control over its use. (3)
+Direct personal data regardless of the seller
+own terms and conditions applicable to customers processed
+exists. (4) Independent of the seller
+There are legal obligations. For example; credit
+deletion of card information.
+
+7
+
+Page 9
+
+lawyers
+One of the quitting employees of a company
+stole the customer list and in return the owner of the company
+He consulted a lawyer on how to get the list back.
+In an example where; about the former employee of the owner of the firm
+by handing over the personal data to the lawyer, the lawyer also
+has the status of supervisor. In this case, the lawyer
+acting on behalf of the owner of the company
+does not change. How does the personal data obtained from the lawyer
+will decide what will be processed. Hence, provided
+In terms of personal data, both the company owner and the lawyer
+is a data controller. In this sense, each
+has its own obligations to comply with
+(for example, instead of the data subject's request for access to personal data)
+both are individually responsible for the delivery).
+
+8
+
+Page 10
+
+Financial Advisors
+Financial advisors, records of their clients' accounts
+processing of personal data in these records while keeping
+are data controllers. Because financial advisor
+oblige them to take responsibility for the personal data they process.
+has legal obligations. For example, a
+while keeping records of the company's accounts.
+financial advisors in case they come across corruption
+and notifying administrative units or other authorized institutions
+is required to be present. While making the notification
+does not act in accordance with the customer's instructions
+obviously it will. Therefore, such expert service
+providers to their professional legal obligations.
+in the status of data controller as long as they are subject to
+will be found and resulting from being the data controller.
+its obligations to the customer by agreement, partially or
+They will not be able to give up completely.
+
+9
+
+Page 11
+
+Cloud Service Providers
+Personal data collected by a public institution
+contract with a cloud service provider to store
+cloud service provider data
+is in working status. Because the contract between the parties
+cloud service provider's data for its own purposes
+cannot be used for Also cloud service
+The provider itself does not collect data. Single activity
+personal data from public institutions
+store in accordance with the organization's instructions.
+
+10
+
+Page 12
+
+Nasuh Akar Mah. 1407. Street No:4 06520
+Balgat-Çankaya/Ankara // www.kvkk.gov.tr
+Tel: 0 (312) 216 50 50 // Fax: 0(312) 216 50 52
+
+

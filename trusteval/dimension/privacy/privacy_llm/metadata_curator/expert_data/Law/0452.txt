@@ -1,0 +1,1662 @@
+Page 1
+
+DIRECTIVE N ° 01-2020-JUS / DGTAIPD
+PROCESSING OF PERSONAL DATA THROUGH SYSTEMS OF
+VIDEO SURVEILLANCE
+
+FORMULATED BY:
+
+I.
+
+General Directorate of Transparency, Access to Information
+Public and Personal Data Protection
+Personal Data Protection Directorate
+
+OBJECTIVE
+
+Establish the provisions for the processing of personal data collected through
+video surveillance systems for security, labor control and other purposes, in accordance
+with the provisions of Law No. 29733 and its regulations.
+II.
+
+LEGAL BASE
+
+- Political Constitution of Peru.
+- Law No. 27153, Law that regulates the exploitation of casino games and machines
+slot machines.
+Law No. 27933, Law of the Citizen Security System.
+- Law No. 29733, Personal Data Protection Law (LPDP)
+- Law No. 27972, Organic Law of Municipalities.
+Law N ° 30120, Law of Support to Citizen Security with Chambers of
+Public and Private Video Surveillance.
+Law No. 30037, Law that Prevents and Punishes Violence in Shows
+Sports.
+Law No. 30740, Law that regulates the use and operations of aircraft systems
+remotely piloted (RPAS).
+- Legislative Decree No. 1218, which regulates the use of video surveillance cameras.
+- Supreme Decree No. 003-97-TR, which approves the Single Ordered Text of the Law on
+Productivity and labor competitiveness.
+- Supreme Decree No. 003-2013-JUS, which approves the Regulation of the Law on
+Personal data protection.
+- Supreme Decree No. 011-2014-IN, which approves the Regulation of Law No. 27933,
+Law of the National System of Citizen Security.
+Supreme Decree No. 007-2016-IN, which approves the Regulation of Law No. 30037,
+Law that prevents and punishes violence in sports events.
+- Supreme Decree No. 013-2017-JUS, which approves the Regulations for the Organization and
+Functions of the Ministry of Justice and Human Rights.
+Supreme Decree No. 004-2019-JUS, which approves the Single Ordered Text of the Law
+General Administrative Procedure, Law No. 27444.
+- Supreme Decree No. 018-2013-MINJUS, which approves the Single Ordained Text of
+the Organic Law of the Ministry of Justice and Human Rights, modified by
+Ministerial Resolution No. 065-2017-JUS.
+- Supreme Decree No. 009-2002-MINCETUR, which approves the Regulation of the Law
+N ° 27153, which regulates the exploitation of casino games and slot machines,
+- Directorial Resolution No. 709-2005-MINCETURNTM / DNT: "Standards
+complementary to the installation of the video system in the gaming room and machines
+slot machines ".
+
+rid EaXL BEE
+Dire don r • peral e
+Transparent Ia, Access or
+Oh
+the Inform
+Protection
+Pers.
+E MOON C.
+
+z
+Address
+Audits
+Instruc
+O. ESCU RO V.
+
+Page 2
+
+III. SCOPE
+The provisions contained in this directive apply to every natural person and
+legal entity that processes personal data through video surveillance systems
+and, in general, through any device that allows data processing for said
+end.
+The entities of the Public Administration indicated in article I of Law No. 27444,
+General Administrative Procedure Law, will be subject to those provisions of the
+this directive that are applicable in accordance with the common rules of law
+public.
+IV.
+
+RESPONSABLE:
+
+The person responsible for this directive, for the purposes of its dissemination, enforceability and compliance, is the
+National Authority for the Protection of Personal Data that is exercised by the Ministry of
+Justice and Human Rights through the General Directorate of Transparency, Access to
+Public Information and Protection of Personal Data.
+
+from
+Transparenc
+that toV. andDEFINITIONS) 1/0 ACRONYMS
+the Public Intcarnation
+Data Protection
+Personal
+
+see u
+
+5.1
+
+Physical architecture:
+Graphical representation of the physical components (servers, camera or
+camcorder, monitors, among others) of the video surveillance system through the
+which personal data processing is carried out.
+
+5.2
+
+Logical architecture
+Graphical representation of the connections between the logic components
+(software, systems, applications, etc.) of the video surveillance system through the
+which personal data processing is carried out.
+
+5.3
+
+Camera or camcorder:
+Digital, optical or electronic, fixed or mobile device that allows capturing, recording or
+any other processing of personal data through images, videos or
+audios.
+
+5.4
+
+Internet connected camera
+It is that camera or camcorder that is connected to the internet to
+through any identifier (IP or others) in order to carry out treatment
+of personal data through images, videos or audios.
+
+5.5
+
+Camera "on board":
+Camera installed inside a vehicle, helmet or clothing of a driver,
+that allows you to record images during the tour that is carried out with it.
+
+5.6
+
+Capturing images and / or sounds:
+It is the technical process that allows the capture of images and / or sounds in time
+real through cameras or camcorders in any medium or medium
+technological.
+
+5.7
+
+CD:
+Compact disc.
+
+kri
+
+Gave
+
+and
+
+fi
+
+on e
+ton
+
+Off
+DERO V.
+
+rdr
+
+Gave
+Pr
+Data P
+
+. 0?
+
+Ip
+
+I know
+
+M. GON ALEZ I
+
+two
+
+Page 3
+
+5.8
+
+Personal data:
+The images and voices of a person constitute personal data, since
+allow to identify or make identifiable a natural person through
+means that can be reasonably used.
+
+5.9
+
+Days: Business days.
+
+5.10 Drone:
+Unmanned aircraft.
+5.11 Recording:
+It is the technical process through which images, videos or audios are recorded in
+any means or technological support, in order to store or reproduce
+subsequently recorded.
+5.12 Documented inventory:
+Sorted list of all cameras or other monitoring devices
+video surveillance, in which the physical location of the devices must be specified,
+either internal or external, as well as its operational status.
+Dir. er-I clone of
+Transparen • Ac that to
+n V smooth and
+the Infor
+Protection •• •. • • atos
+Personal
+
+5.13 LPDP:
+Law No. 29733, Personal Data Protection Law.
+
+E. MOON C.
+
+5.14 Privacy mask:
+Allows you to block and / or anonymize certain parts of an image that are not
+will be displayed or captured by the camera or camcorder.
+
+Fz1FEE
+
+5.15 Identifiable person:
+Person who can be identified through treatments that are
+the directive refers. A natural person is identified with the capture of his
+image, voice or any other treatment of your data that allows you to do so.
+
+I'll say
+Tax 1!
+r Instr
+
+• / ne
+••
+
+on
+
+O. ESC DERO V.
+
+5.16 Profile:
+Set of powers that are attributed to users of the system of
+video surveillance that allow determining the attribution of their functions, based on
+their possibilities of accessing the system and managing privileges.
+There are three types of Profiles:
+
+rii rairfle
+
+5.16.1 Administrator profile:
+It is the person who is in charge of all the obligations contained in the
+LPDP, its regulations and this directive. Any natural person,
+legal or public entity that has video surveillance systems,
+For the purposes established in this directive, you must designate, through
+document, to the person who will be in charge of these attributions, since
+will be the one who responds specifically for the data processing
+personal data that is carried out through the system, without prejudice to the
+responsibility attributed to the person in charge of the treatment.
+
+P15r.e
+
+p jrz of
+
+DataD
+
++
+
+ales
+
+n, GON ALEZ L.
+
+5.16.2 Intermediate profile:
+It is the one to whom the administrator profile can delegate certain
+functions or respond, in default of the administrator profile, for them. The
+functions that can be assigned, by document, are
+3
+
+Page 4
+
+regulated in this directive. The intermediate profile is under the
+address of the administrator profile.
+5.16.3 Basic profile:
+It is the one who, according to the assignment document, is responsible
+only the monitoring functions of the cameras
+video surveillance, logical and physical security of the video surveillance environment
+and keep the documented inventory of cameras updated. It, without
+detriment that these activities can also be carried out by the profile
+intermediate and administrator, being able to find even under his command
+or address.
+5.17 Documented access management procedure:
+Document in which security policies and procedures are established
+in order to guarantee secure access to systems, applications and / or equivalents
+that process personal data. These accesses must be
+defined through user identification and / or authentication processes,
+as well as those responsible for carrying out said processes.
+and
+Citecel nv
+or
+Ttanspa
+or attcoas and
+the informs
+Plotting and
+Personal
+
+E. LuNN G.
+
+5.18 Documented privilege management procedure:
+Document by which the formal procedures of
+definition and approval of the profiles of users who perform treatment
+of personal data, taking into account access authorizations and
+restrictions of the automated database that performs data processing
+personal data, as well as those responsible for processing data
+personal and those who carry out said processes.
+5.19 Documented Periodic Privilege Verification Procedure
+assigned:
+
+clone of
+Nation e
+
+Document through which the procedures, formal policies are established
+and the periodicity of revalidation, and the verification of user privileges
+who have access to personal data, as well as those responsible for said
+processes.
+
+construction
+
+n. SHIELD 9 •
+
+5.20 RLPDP:
+Regulation of the Personal Data Protection Law.
+5.21 RNPDP:
+National Registry of Protection of Personal Data.
+
+D
+ales
+
+Data P
+
+I GaIZALEZ .
+
+5.22 Video Surveillance System:
+Set of one or more people and technological equipment - made up of one or more
+several video cameras strategically located and interconnected with each other
+- that allow the processing of personal data.
+5.23 Types of provision in contracts for commissioning systems
+video surveillance:
+
+5.23.1 An external company can provide services consisting of the
+installation and / or technical maintenance of equipment and systems
+video surveillance without access to images and / or audio.
+
+In these cases, these companies do not have the status of managers of the
+treatment, being the owner of the data bank the one obliged to adopt the
+systems to regulatory requirements.
+4
+
+Page 5
+
+5.23.2 The external company may provide installation services or
+maintenance of video surveillance equipment and systems with
+use of equipment or access to images, videos or audios.
+In this type of relationship, the company considers itself in charge of the
+treatment and has to comply with the obligations that such a condition
+grants the LPDP.
+5.24 Processing of personal data through video surveillance systems:
+It is any operation or technical procedure, automated or not, that allows
+collecting, recording, organizing, storing, preserving,
+elaboration, modification, extraction, consultation, use, blocking, deletion,
+communication by transfer or by broadcast or any other form of
+processing that facilitates the access, correlation or interconnection of the image or
+voice, captured by means of a fixed or mobile camera system either in
+real time or in visualization of recordings of images, videos or audios.
+5.25 User:
+Technology platform operator who was assigned a specific profile.
+Dir. Clone Jan I of
+Transparent ia.
+search and
+the lotus,
+• e Data
+Offspring
+Personal
+
+E. MOON C.
+
+PERU
+
+EESE
+
+oy de e
+
+1
+
+I ny / c ion
+UDERO V.
+
+5.26 Video entry system:
+Autonomous system used to manage the calls made in the
+door of a building (be it a residential complex, a single-family house,
+work, etc.), controlling access to it through communication
+audiovisual between inside and outside. The main feature of the
+video entry is that it allows the person who occupies the interior to identify the
+visit, being able, if you wish, to start a conversation and / or open the door to
+allow access by the person who has activated a doorbell or alarm device
+communication.
+5.27 Video surveillance:
+Monitoring and capturing images, videos or audios of places, people or
+objects. The information captured may or may not be stored at
+through your recording.
+5.28 Violation or security breach of personal data:
+It occurs when the data contained in video surveillance systems suffer
+a security incident that results in the breach of confidentiality,
+availability or integrity of the same.
+Said security incidents can be: destruction, loss or alteration
+accidental or unlawful personal data transmitted, stored and processed,
+or the communication and / or unauthorized access to said data.
+
+SAW.
+
+6.1
+
+GENERAL DISPOSITION
+Material scope of application
+It applies to the processing of data of identified or identifiable persons
+captured through video surveillance systems. The treatment object of this
+directive includes the recording, capture, transmission, conservation or
+storage of images or voices, including their playback or broadcast on
+real time or any other treatment that allows access to data
+5
+
+Page 6
+
+personal related to those, for security purposes, labor control and
+others.
+6.2 The following are not within the scope of this directive:
+6.2.1 The data processing of identified natural persons or
+identifiable through cameras or camcorders and
+video surveillance within the framework of the exceptional cases provided for in
+Article 3 of the LPDP.
+6.2.2 To the treatment of images in the personal and domestic sphere, which
+includes the use of "on board" cameras and video entry systems,
+unless the latter are articulated through procedures that
+reproduce or record images constantly and that are
+accessible (via the internet or broadcast television on the
+closed) and, in particular, when the object of the same reaches the
+common areas and / or the adjoining public road.
+6.2.3 To the treatment of images linked to the legitimate exercise of the right to
+freedom of information and expression through the media.
+
+DirSc on Ge r. from
+that to
+Transo in
+the public eye report and
+Hatchling of Data.
+Personal
+
+6.2.4 Those systems that involve simulated cameras or video cameras or
+disabled. To the latter, the directive will be applicable as far as
+regarding the security measures of the system.
+
+E. MOON C
+
+Legitimation for the treatment of data by cameras or systems of
+video surveillance
+6.3 There is legitimacy for the processing of personal data through systems of
+video surveillance when one of the following assumptions exists:
+6.3.1 You have the consent of the owner of the personal data.
+6.3.2 A norm with the force of law enables to capture the data without the
+consent of the holders.
+6.3.3 Any of the circumstances provided for in article 14 of the
+LPDP.
+
+Beginning
+6.4
+
+M. G _ LEZ L
+
+Proportionality principle:
+The processing of personal data must be adequate, pertinent and not
+excessive in relation to the scope and purposes determined, legitimate and
+explicit, which have justified the installation of cameras or video cameras.
+There must be a relationship of proportionality between the aim pursued and the
+way in which the data is processed. A medium-end match.
+The use of camera or camcorder installations is legitimate when there is no
+a less invasive or equally effective means to achieve the intended purpose.
+
+6
+
+Page 7
+
+6.5
+
+Safety principle:
+The data controller must adopt technical measures and
+necessary to guarantee the security of the data and avoid its
+alteration, loss, treatment or unauthorized access.
+Those video surveillance systems of legal persons connected or that
+are going to be connected to an alarm receiving center or an alarm center
+control, must comply with the provisions of Legislative Decree No. 1213, which
+regulates private security services. These services can only
+be carried out by security companies, under their conditions and
+qualification, and these must be considered in charge of the treatment.
+
+6.6
+
+:eleven ° Go clone Gener. from
+Tran pare.cif ..so a
+'ca and
+the Information
+',cough
+Protection,
+Person l as
+
+Quality principle:
+The treatment of the data must be necessary, pertinent and adequate regarding
+to the purpose for which they were collected, and should be kept only for the
+time necessary to fulfill the purpose that motivated your treatment,
+taking into account the period indicated in point 6.13 of this directive.
+
+Right of information
+6.7 You must inform yourself about the capture and / or recording of the images, for this purpose
+
+E. MOON C.
+
+at least one informational badge must be placed in video surveillance areas
+located in a sufficiently visible place, both in open spaces and
+closed.
+If the information provided for in article 18 of the LPDP cannot be placed in
+its integrity in the informative poster, in the video-surveillance space must be observed
+available to the interested parties, either through computerized means,
+digitized or printed, the minimum information required to guarantee your
+rights, regulated in point 6.12 of this directive.
+If the guarded place has several entrances, the poster is placed in all of them,
+in a visible place, so that the information contained therein is also
+be.
+
+Respect for the fundamental rights of third parties
+6.8 The capture of images of third parties unrelated to the purposes of the
+catchment. The owner of the personal data bank or whoever performs the treatment
+of data through video surveillance systems is responsible for the
+implementation of adequate mechanisms or measures so as not to affect the
+rights of third parties that appear in the recordings.
+
+Fact
+
+M. GON IrLEZ L.
+
+Cameras or camcorders installed in private spaces should not obtain
+images of public spaces, unless it is impossible to avoid it. In this
+In the latter case, the camera must capture only the section of public road that
+It is essential to comply with the surveillance purposes that are intended
+with the installation of the system.
+
+7
+
+Page 8
+
+Video surveillance data bank registration
+6.9 The natural person, legal entity or public entity that uses a system of
+video surveillance or any device that allows data processing for
+For this purpose, you must request the registration of the respective personal data bank
+to the Personal Data Protection Directorate, organic unit of the
+General Directorate of Transparency, Access to Public Information and
+Protection of Personal Data of the Ministry of Justice and Human Rights,
+in charge of the administration of the National Data Protection Registry
+Personal.
+6.10 Systems that do not store images, but consist exclusively
+in the reproduction and emission of images in real time, they are not considered
+data banks. However, this does not exempt them from complying with the other
+obligations contained in the LPDP, its regulations and this directive, as far as
+that is applicable.
+\ (Memo
+
+Information poster features
+6.11 Each access to the video-monitored area must have a visible poster or advertisement with
+yellow background or any other that contrasts with the color of the wall and
+make it sufficiently visible. Its minimum content must indicate (Annex 1):
+
+Trnsparen
+They inform her
+Notation d
+Personal
+
+E. MOON C.
+
+6.11.1 The identity and address of the owner of the personal data bank.
+6.11.2 Before whom and how the rights established in the
+LPDP.
+6.11.3 Place where you can obtain the information contained in article 18 of
+the LPDP.
+6.11.4 With regard to dimensions, graphic elements may be
+have, as a minimum, the following: 297 x 210 mm. When the space in
+that the informational poster is going to be located does not allow it, it must
+adapt to the available space, in such a way that it fulfills its purpose
+informative.
+Additional informational characteristics of the video surveillance system
+6.12 The additional information on the video surveillance system (Annex 2) must be
+available, either through computerized, digitized or printed means, and
+must contain the information required to guarantee the right recognized in
+Article 18 of the LPDP:
+6.12.1 The identity and address of the owner of the personal data bank
+and of the person in charge of the treatment, if applicable.
+6.12.2 The purpose.
+6.12.3 Transfers and recipients of personal data.
+6.12.4 The period during which the personal data will be kept.
+6.12.5 The exercise of the rights of information, access, cancellation
+and opposition of the data.
+
+8
+
+Page 9
+
+Period of conservation or storage of recorded information
+6.13 The images and / or recorded voices are stored for a period of thirty (30) days.
+and up to a maximum term of sixty (60), unless otherwise provided in regulations
+sectoral. During that period, the owner of the data bank or person in charge of the
+Data processing must ensure the reservation and confidentiality of the
+information, not allowing the dissemination, copying or viewing of images by
+unauthorized third parties.
+6.14 The registration of images, videos or audios that present reasonable indications
+of the commission of a crime or misdemeanor must be informed by handing over the
+support that contains the same immediately to the National Police of the
+Peru or the Public Ministry, as appropriate.
+
+Definitive cancellation of the information
+6.15 After the period of conservation of the information referred to in point 6.13,
+and there being no requirement from any competent authority to deliver or
+view the content of the recording, the files must be deleted within the deadline
+maximum of two (02) business days, unless otherwise provided in the sectoral standard.
+
+flire [on Ge r. from
+Trans arenci To that to
+lita and
+
+the Int rrnaci '
+Pro eccio
+Personal
+
+atos
+
+6.16 The maximum period foreseen for the elimination of the information will not be applicable.
+when there is any legitimate purpose or interest that justifies its conservation,
+as well as the concurrence of some technical contingency that justifies
+reasonably postpone the removal of the same for a period
+determined or determinable.
+
+E. MOON C.
+
+Formalities to be followed by the data processor
+6.17 When a natural person, legal entity or public entity has installed or intends
+install a video surveillance camera system, but entrust someone else to manage
+system with use of equipment or access to images or voices, you must
+to sign a contract, agreement or similar document in which it is established
+the object, duration, nature and purpose of the treatment, the type of data and
+categories of interested parties, the obligations and rights that correspond, as well
+as the destination of the data at the end of the service.
+
+rp717.1
+I'll say
+Fiscal
+I urge
+
+O. ESC DERO V.
+
+6.18 The contract, agreement or similar document addresses the specific circumstances
+of the provision of the service. The manager is obliged, on his behalf, to
+comply with the technical and organizational conditions necessary to respect
+the obligations established in the LPDP; to observe the legal requirements that
+enable you to provide the service; to follow the instructions of the person in charge of the
+treatment or the owner of the data bank; to carry out the necessary actions
+to assist the person in charge or owner of the data bank in complying with their
+duty to respond to the exercise of the rights indicated in the LPDP; Y,
+in general, to collaborate in the fulfillment of the obligations of the owner of the
+data bank.
+6.19 The person in charge of the treatment must guarantee to the controller that access to
+data will only be made by duly authorized persons having to adopt
+the security measures necessary to ensure the proper use of the system
+and treatment of personal data.
+6.20 The person in charge of the treatment of the video surveillance system must notify, without
+delay, to the controller about the existence of a violation
+or security breach.
+9
+
+Page 10
+
+6.21 In accordance with the provisions of article 37 of the RLPDP, it is possible to
+subcontracting with third parties, having to assume the natural or legal person
+subcontracted the same obligations that are established for the owner of the
+data bank, controller or processor, as appropriate,
+In accordance with the provisions of article 38 of the RLPDP.
+
+Main obligations on security measures
+6.22 The person who operates or has access to any security camera system
+video surveillance, by reason of its functions, must comply with the following:
+6.22.1 Have user identification and authentication procedures that
+report on the operation of the control and monitoring center of the
+system of cameras or video surveillance cameras, of the parts that
+they compose it and the teams.
+Directed Gerr. from
+Transpr ference that to
+the info msci • rr • blice and
+Data protection
+Personal
+
+E. MOON C.
+
+I'll say
+
+.
+10
+
+Step on
+Ins
+
+and
+
+ne
+on
+
+6.22.2 Know the correct operation of the video surveillance system.
+6.22.3 Have a documented inventory of cameras or other
+video surveillance devices.
+6.22.4 Have a documented schema and / or diagram of the architecture
+physics and logic of the video surveillance system. Physical architecture is the
+graphical representation of the physical connections between the various
+System Components. Understand by components: servers,
+video surveillance cameras, computers, etc.
+For its part, logical architecture is the graphic representation of the
+connections between logic components (software, systems
+applications, etc.) of a network or video surveillance system, in which
+it should detail the name of the system and specific functions.
+
+9 IS "ERO V
+
+6.22.5 Have documentation regarding access management, privileges
+and periodic verification of assigned privileges.
+6.22.6 Where appropriate, have security backup mechanisms
+of the personal information obtained through
+video surveillance, as well as with a procedure that contemplates the
+verification of the integrity of the data stored in the backup.
+6.22.7 Implement security measures in the event that it results
+necessary to transport the video surveillance systems or cameras that
+contain personal information. Transportation must be
+authorized by the owner of the personal data bank.
+6.22.8 Other obligations that the laws or regulations on the matter provide.
+6.23 For the purposes of adequate compliance with the security measures within
+of the video surveillance system, it is necessary to implement the profiles
+defined in the glossary of this directive, in order to limit access and management
+user privileges. In the case of legal or natural persons who
+have a number of no more than eight cameras and two operators of the
+themselves, it will only be necessary to determine the administrator profile and
+10
+
+Page 11
+
+provide an isolated or appropriate environment with an access control mechanism
+assigned for the same.
+
+Duty of confidentiality
+6.24 The duty of confidentiality may materialize through a document in
+which determines the obligation of secrecy between the parties, for the purpose of not
+disclose certain information. This document establishes the
+prohibition to reproduce, modify, publish or disseminate or transfer to third parties the
+information without the express authorization of the other party.
+
+THAT
+Diticci. Gen
+Transparent enc.
+Information
+Protection and Data
+
+and
+or
+Oh
+
+Personal
+
+E. MOON C.
+
+1: 111131E
+; dr
+, eron from
+
+Fi • kr 'acion e
+1-1 tfu ction
+
+OR IS UDERO V
+
+6.25 The document must be signed between the people who, due to their
+functions operate or have access to any video surveillance system, with the
+owner of the personal data bank or with the person in charge of the treatment,
+depending on who provides its services directly, the company being
+employer the owner of the video surveillance system or the establishment in
+where this is done.
+
+Responsibilities of the people who operate systems or centers of
+video surveillance for unauthorized operations
+6.26 People who operate or have access to any video surveillance system,
+By reason of their functions, they are responsible for the facilitation, commercialization,
+unauthorized dissemination, copying or delivery of the content of the recordings.
+
+Provision of services without access to personal data
+6.27 The person responsible for the processing of personal data adopts the
+adequate measures to limit the access of personnel other than those specially
+designated to access and manage the video surveillance system.
+6.28 Personnel who do not have data processing among their functions
+personal data is prohibited from processing personal data, and must
+This prohibition should be recorded:
+6.28.1 In the contract of employment or provision of services that they sign with the
+owner of the data bank or person in charge of its treatment; or,
+6.28.2 In the contract signed by the outsourcing or intermediary company and
+the owner of the data bank or the person in charge of its treatment, having to
+the outsourcing or intermediary company to make known
+who will directly provide the service of such obligation of
+confidentiality.
+6.29 Likewise, the obligation of secrecy with respect to the data that
+this staff could have met on the occasion of the provision of their service.
+
+Rights of the data holders
+6.30 The rights established in the LPDP may be exercised by the holders of
+personal data on the occasion of its collection through a system of
+video surveillance. Due to the peculiarities of the systems of
+video surveillance may exercise the following rights:
+
+eleven
+
+Page 12
+
+6.30.1 Right of access.
+6.30.2 Right of cancellation.
+6.30.3 Right of opposition (in some cases).
+Right of access
+6.31 Given the peculiarities of video surveillance systems, the right
+access has unique characteristics:
+6.31.1 The owner of the personal data must specify the date, range of hours, place
+or any other information that facilitates the location of the
+required image. Also, if necessary, provide an image
+updated of itself that allows the owner or manager of the
+treatment verify its presence in the registry.
+6.31.2 In order not to affect the protection of personal data of
+
+third parties, the owner of personal data can choose between the following
+alternatives to access your information:
+
+Gires on Gener I by
+Transpa enci Ac that a
+the Int ormac 'P has Y
+Protection
+Pers • als
+
+Item you
+
+a) Access by writing:
+The owner of the personal data will submit a written request to the
+physical or electronic address that appears on the poster or document
+informative, attaching and indicating what is indicated in the numeral
+6.31.1.
+
+E. MOON C.
+
+The response issued by the owner of the personal data bank or
+by the person in charge of the treatment must detail the required data
+that are subject to treatment, without affecting the rights of third parties.
+b) Delivery of images, videos or audios:
+The owner of the personal data must deliver a blank CD or
+device analogous to the owner of the personal data bank or to the
+processor in order for it to record your
+information. In this case, the owner or person in charge of the treatment
+you must use privacy masks to blur the image or
+any other means that prevents the involvement of third parties, as well as
+implement a protection mechanism for the file (encryption,
+password or others).
+c) On-site display:
+The owner of personal data must physically approach the
+facilities of the owner of the data bank or responsible for the
+treatment to directly access your information.
+To do this, you must previously submit an application at the address
+physical or electronic that appears on the poster or document
+informative, indicating date, range of hours, place or any other
+information that facilitates the location of the image; as well as
+an up-to-date image of himself that allows the bank holder
+of personal data or data controller to warn your
+presence in the registry.
+
+12
+
+Page 13
+
+The visualization must be recorded and delivered to the
+owner of the personal data, once the visualization is completed.
+6.31.3 Additionally, information is provided to the owner of the personal data
+precise about the purpose of data collection, about the
+registration of the data bank, the place where the registration or
+capture of its image, the time in which it was produced and the
+data destination.
+6.31.4 If the right of access is exercised before the person in charge of a system
+that only reproduces images without registering them, you should
+this situation to the knowledge of the owner of the personal data.
+6.31.5 The blurring of images or application of masks of
+security of third parties when the legitimate interest is proven
+of the owner of the personal data that requests it. It is understood by legitimate
+interest, the collection of information to exercise the right of defense,
+formulate administrative or criminal complaint or similar.
+
+Turn Ge ral ion
+Trans arenci creso to
+the information public and
+Data Protection
+Pers. Ales
+
+6.31.6 In the event that the person in charge of the treatment does not
+apply the security mask or some blurring mechanism
+of images that would prevent the involvement of third parties, alleging lack of
+technical or economic capacity, will be the administrative authority that
+will assess this allegation in each specific case.
+
+E. MOON C.
+
+6.31.7 If the owner of the data bank or data controller is
+declared a national critical asset under the regulations of the
+matter or if it were areas of high risk for security,
+must agree with the owner of the personal data another suitable mechanism
+to give access to your information. If there is no possible means,
+your request may be denied by the owner of the data bank
+personal or the person responsible for the treatment, having to do so in a
+motivated.
+
+Ab /
+411Yfrom
+1 # 1115on e
+Fis
+r In
+clone
+r . «.
+Gave
+
+O. ESC DERO \ /.
+
+Cancellation and Opposition Rights
+The cancellation and opposition rights are exercised in accordance with the provisions of the
+numeral 6.31.1. of this directive, articles 20 and 22 of the LPDP and the
+Articles 67 and 71 of the RLPDP. Likewise, attention will proceed in those cases
+where it is materially possible and responds to well-founded and motivated criteria.
+
+M. GOrLALEZ L
+
+Impossibility of exercising the right of rectification
+It is not possible to exercise the right of rectification in the treatment through
+video surveillance systems, since, by their nature, the images captured
+reflect an objective fact that cannot be modified at the request of the data owner
+personal.
+
+6.33
+
+Denial of rights of access, cancellation and opposition
+6.34 In case of denial of any of the rights, it must be expressly indicated
+in the denial letter, the possibility of claiming your guardianship before the Authority
+National Protection of Personal Data.
+
+13
+
+Page 14
+
+Communication without consent of the data owners
+The transfer of personal data captured by the systems of
+video surveillance without the consent of the data subjects, when:
+
+6.35
+
+6.35.1 The communication of the captured must be delivered by judicial order or
+to a public entity in compliance with its functions.
+6.35.2 When it must be made available or required by the Police
+Nacional del Perú or the Public Ministry, due to the exercise of the
+competences assigned by law, in those cases necessary
+for the prevention, investigation, detection or repression of infractions
+criminal or crimes. The request for recordings must be made in
+motivated way and their treatment must respond to the
+purpose of the request made.
+
+iihrju
+
+VII. SPECIFIC PROVISIONS
+
+Dtrecci G was da
+Transpar nc Ac 101
+
+SPECIFIC TREATMENTS FOR SECURITY PURPOSES
+
+P 'icay
+garlic
+
+the Inform
+Protection
+Personal
+
+E. MOON C.
+
+te
+
+PERU
+
+Prohibitions on the use of video surveillance systems in certain
+spaces.
+7.1 In public spaces for private use, such as commercial establishments,
+restaurants, entertainment venues, among others, must be strictly complied with the
+principle of proportionality, in this way by way of example it is necessary to:
+
+item ► wi ►
+
+Address
+
+1
+
+Public spaces for private use
+
+TIrt n e
+Ye
+
+Fiscal
+Inst
+
+Ylar
+
+7.1.1 The installation of cameras in bathrooms and changing rooms is prohibited.
+
+ESCUa RO V
+
+7.1.2 At leisure venues:
+a) The video surveillance system can only be visual, the
+recording of conversations. In addition, it should only be used
+when there is no other less invasive and equally
+effective that meets the legitimate purpose determined.
+b) You cannot use the images captured by systems of
+video surveillance for commercial or promotional purposes, except
+consent of the persons whose images have been recorded.
+Financial entities
+
+Special features
+7.2 Given the services provided by the financial institution, the
+following:
+7.2.1 That what is captured through video surveillance systems and content in
+computer media must be used exclusively for purposes
+of security.
+14
+
+Page 15
+
+7.2.2 The images that record the alleged commission of a criminal act or
+missing, they must be made known to the National Police of Peru or
+of the Public Ministry immediately, as a means of identifying
+the alleged perpetrators of crimes.
+7.2.3 If the financial institution decides not to order the treatment of the systems
+of video surveillance to a company specialized in security systems
+video surveillance, you must have a person in charge of the entity itself
+specialized in video surveillance security systems.
+7.2.4 If a camera is located at the entrance door of a bank
+should be oriented so that the part of the public road that it captures is limited to
+guarded access, without collecting more proportion of the public road than the
+essential for the purposes of surveillance work, not having to capture
+images of the rest of the sidewalk or street.
+7.2.5 Other provisions according to the specific regulations on the matter.
+
+School environments
+Directed
+Transpar
+
+from
+or
+
+the Information
+
+Oh
+
+Protection 'garlic
+
+Requirements for video surveillance systems in school environments
+7.3 In the case of use of video surveillance systems, a distinctive or
+poster informing members of the educational community of the existence of
+cameras or other similar devices, in a completely visible place, both
+whether the devices are indoors or outdoors. In saying
+badge or poster must also indicate where the information can be obtained
+that regulates article 18 of the LPDP.
+
+Personal
+
+E. MOON C.
+
+7.4 The area subject to video surveillance will be the minimum essential for the purpose of
+surveillance layout, being able to cover public or common spaces as entrances
+and hallways, playground, dining rooms, and always with a view to protection and
+defense of the best interests of children and adolescents.
+7.5 In no case should video surveillance cameras be installed in private spaces
+such as bathrooms, changing rooms or those in which activities are carried out whose
+Capture may affect image or privacy disproportionately.
+7.6 The uses of video surveillance systems for safety purposes in classrooms and others
+areas in which the personality of children and adolescents develops
+may record images if there are exceptional circumstances, justified by
+the presence of an objective and foreseeable risk to safety and rights
+fundamentals of minors.
+7.7 Access to images from video surveillance systems is restricted to
+director of the center or the person designated as the person responsible for the treatment.
+It cannot be freely accessible to any non-teaching or administrative staff
+authorized to do so.
+
+Canceling images
+7.8 The images will be kept for a maximum period of thirty (30) days from their
+catchment. After this period, the owner of the data bank or person in charge
+of the treatment will only be able to keep those images that reveal some
+fifteen
+
+Page 16
+
+transcendent fact that should be brought to the attention of the parents
+or tutors, who according to their powers can act to ensure the
+interests of their minor children in defense and protection of their rights or, if
+the case, against the commission of alleged criminal acts putting in
+knowledge of the facts to the National Police or the Public Ministry.
+
+TREATMENT OTHER THAN SECURITY PURPOSES
+Video surveillance for labor control
+
+Exception to consent around the purpose
+7.9 By virtue of the employer's management power, the employer is empowered to
+carry out controls or take measures to monitor the performance of activities
+labor of its workers, among which is the recruitment and / or
+data processing through video surveillance systems.
+
+eral of
+access to
+
+tion
+
+Duty to Report
+710 The employer is obliged to inform his workers of the controls
+video surveillance, through posters (or failing that, the informative notices
+mentioned in this directive); this, without prejudice to informing in a
+individualized to each worker, if it is considered pertinent.
+
+He says
+e Data
+Personal
+
+In the case of domestic workers, to prove compliance with the duty of
+inform, it will be sufficient for employers to reasonably prove that they have
+fulfilled the duty to report content in article 18 of the LPDP.
+
+Purpose of video surveillance systems
+7.11 The processing of workers' data is limited to its own purposes
+of the control and supervision of the labor provision, in such a way that they cannot
+use the means or the video surveillance system for different purposes, unless
+it has the consent of the worker or it is one of the
+exceptions indicated in article 14 of the LPDP.
+7.12 They are legitimate purposes for the control and supervision of the labor provision, the
+protection of assets and resources of the employer; verification of the adoption of
+safety measures at work; and, those others that the labor legislation and
+sectoral foresee.
+Proportionality principle
+7.13 Labor control through video surveillance systems is only carried out when
+is pertinent, adequate and not excessive for the fulfillment of this purpose.
+7.14 Likewise, the installation of the cameras or, in any case, their catchment area
+should be restricted to the spaces essential to satisfy the purposes of
+labor control.
+7.15 In no case is the installation of systems for recording or capturing
+sound or video surveillance in places intended for rest or recreation
+of workers, such as changing rooms, toilets, dining rooms or the like.
+16
+
+Page 17
+
+7.16 Video surveillance recording with sound in the workplace will only be supported
+when the risks to the safety of the facilities are relevant,
+goods and people derived from the activity that takes place in the center of
+work and always respecting the principle of proportionality and purpose.
+
+Prohibition of use of images for commercial or advertising purposes.
+7.17 The images captured through labor video surveillance systems do not
+They can be used for commercial or advertising purposes, unless there is a
+with the consent of the workers.
+
+, .. •• s
+
+•s
+
+th
+
+4 • ss
+
+•s
+
+Canceling images and / or voices
+7.18 The images and / or recorded voices are stored for a period of thirty (30) days.
+and up to a maximum period of sixty (60) days, unless otherwise provided in the
+labor standards. During that period, the owner of the data bank or person in charge of the
+treatment must take care that the information is accessible only to people
+who have a legitimate right to their knowledge and thus maintaining the reservation
+necessary regarding the images and / or voices.
+
+•
+"
+
+.~-s
+
+d
+Olrá on Ge
+Tran-rarenci Ac so a
+Per ica and
+the In or
+cough
+Protection
+Personal
+
+7.19 After the period indicated in the previous paragraph has elapsed and there is no requirement
+of any competent authority to deliver or view the content of the
+recording, files must be deleted within a maximum period of two (02) days
+working, unless otherwise provided in the sectoral standard.
+
+E. MOON C.
+
+Dir
+Chi
+
+from
+Jan
+ion
+
+O. IS
+
+DERO V.
+
+Fis
+
+7.20 The maximum period foreseen for the elimination of the information will not be applicable.
+when there is any legitimate purpose or interest that justifies its conservation,
+as well as the concurrence of some technical contingency that justifies
+reasonably postpone the removal of the same for a period
+determined or determinable.
+7.21 The unedited images and / or voices that account for the commission of alleged
+labor offenses and / or work accidents must be preserved by the
+term of one hundred twenty (120) days, counted from its knowledge, except for the
+existence of any purpose that justifies its conservation or of legitimate interest,
+time within which the employer may initiate the pertinent legal actions.
+7.22 The worker may request access to the recordings or a digital copy of
+the same ones that contain information about a misconduct or non-compliance
+labor that has been imputed to him, being able to use this recording as a means of
+proof. The employer must protect the rights of third parties who, without being
+involved with the misconduct or non-compliance, directly or indirectly,
+may appear in captured records; This will be done by adopting the measures
+techniques necessary to blur your image and prevent your identification.
+7.23 In the event that the employer, based on what is captured by the
+video surveillance, decide to impute a serious offense to a worker, you must proceed
+in accordance with the provisions of labor regulations. Also, the
+The employer must proceed to safeguard the right of third parties who may
+appear in the captured records, in the manner established in the previous paragraph.
+
+17
+
+Page 18
+
+Direct guardianship of workers
+7.24 Workers must be informed by the means established in the
+directive on the procedure implemented by the employer to exercise their
+rights of access, cancellation and opposition.
+Transfer of personal data
+7.25 If the employer must transfer the personal data of its captured workers
+through video surveillance to a third party for non-work reasons, you must report
+this to the workers, in accordance with the LPDP and its regulations. Similarly, when
+appropriate, you must request their consent.
+Treatment for scientific or research purposes
+7.26 In the case of processing of personal data for scientific purposes or for
+The investigation must comply with the principles and rules established in the
+LPDP, its regulations and this directive, in particular the principles of
+consent, proportionality and purpose, as well as technical measures and
+organizational to ensure the security of data information
+personal, to the extent reasonably applicable.
+
+DireCCI • n Genera c e
+
+\
+
+co aa
+
+Transad encia cs
+Infor grabbed
+Prole ció • e Data
+Personal
+F. MOON
+
+C
+
+DATA PROCESSING WITH OTHER TECHNOLOGIES
+Cameras connected to the internet
+
+ORME
+Additional duties of the owner of the personal data bank or manager
+of the treatment.
+7.27 Check if the identification and authentication functions are activated
+in order to prevent third-party access to the images and to ensure that only
+authorized users access.
+
+DireCCi
+
+Prosecute
+J Inst u 11
+SHIELD RO V.
+
+7.28 Guarantee the security of access through public networks of
+communications.
+
+Using drones
+
+Specialty in handling drones for video surveillance purposes
+7.29 Persons who, for private security purposes, by reason of their functions,
+are in charge of the video surveillance system through drones, they must have
+with specialized training in the handling of this equipment, guaranteeing reserve,
+confidentiality and complying with the other obligations set forth in this directive
+for video surveillance systems, as well as special or sectoral regulations for
+The matter.
+
+G. ZALEZ L
+
+Responsibility of the owner and / or person in charge of the treatment
+7.30 The owner of the personal data bank, person in charge or the person in charge of the
+treatment must inform according to what is indicated in point 6.8 of this
+directive to the people who will be controlled through the
+18
+
+Page 19
+
+video surveillance through drones. This duty also extends to those
+people or entities that provide the video surveillance service through drones
+in a complementary way to that provided by the main service. Such information
+must be delivered in physical or electronic format, at the time of signing the
+video surveillance contract with the entity or person that provides this service to
+through drones or in a singular way in the contracting document;
+In addition, it must be available to anyone who requires it.
+7.31 Poster or brochure systems should be used where feasible. In case of
+to use the poster or the brochure, the medium used must be indicated graphically (drawing)
+(Annex 3), applying, in what is pertinent, minimally the
+established in point 6.11 of this directive.
+LOST
+
+Direction G ral e
+Trans re • 50a
+the information
+
+7.32 The owners of personal data banks, responsible or in charge of
+treatment, if they have a web page, they must publish information that
+allows to know the different types of operations carried out or those that
+propose to carry out in the near future with the captured data.
+
+war and
+
+Data Protection
+Personal
+
+E. MOON C.
+
+VIII. FINAL SUPPLEMENTARY PROVISIONS
+8.1
+
+Dissemination of the regulations
+The National Authority for the Protection of Personal Data exercised by the
+Ministry of Justice and Human Rights through the General Directorate of
+Transparency, Access to Public Information and Data Protection
+Personal, is in charge of the dissemination activities of the regulations
+applicable to data processing through video surveillance systems, as well as
+promotion for its progressive implementation in the private and public sphere,
+providing information and guidance services.
+
+8.2
+
+Validity
+This Directive shall enter into force after sixty (60) calendar days.
+following the publication of the Resolution approving it in the Official Gazette
+"A Peruvian man".
+
+EZ
+
+"Y/
+
+I'll say.
+Estate
+Inst
+
+ne
+
+ESCU • RO V.
+
+II IV
+
+ty7
+
+M. G • 'ALEZ L
+
+19
+
+Page 20
+
+APPENDIX 1
+
+VIDEO SECURED AREA
+iEFh
+
+Direction of ra de
+Transparen i Acc so a
+the Pu ica Information and
+Protection and cough
+Person
+
+E. MOON C.
+
+on of
+tion e
+ction
+
+s
+
+DATA PROTECTION ACT
+PERSONAL - Law N ° 29733
+
+eleven.
+
+ii
+INC'
+
+YOU CAN EXERCISE YOUR RIGHTS BEFORE:
+
+Datc 17/1
+M. G
+
+• .1 LEZ L
+
+OWNER OF THE DATA BANK AND ADDRESS
+PLACE WHERE YOU CAN GET THE INFORMATION
+CONTAINED IN ARTICLE 18 OF THE LPDP
+
+twenty
+
+Page 21
+
+APPENDIX 2
+
+Hello informative about the processing of personal data
+1. IDENTITY AND ADDRESS OF THE OWNER OF THE BANK OF PERSONAL DATA OR
+DATA CONTROLLER: The owner of this data bank in which
+will store the personal data provided through the video surveillance system is
+residing in
+
+The existence of this personal data bank has been declared to the Authority
+National Protection of Personal Data, by registering in the Registry
+National Protection of Personal Data with the name
+RNPDP N °
+
+Saying G
+Transpareni
+the worm
+
+The user is informed that any personal data processing conforms to the
+established by the legislation in force in PERU on the matter (Law No. 29733 and its
+regulation).
+
+to
+to
+
+Protection
+Personal
+
+and the code:
+
+E. MOON C
+
+2. PURPOSE:
+The owner of the data bank
+
+will process your data for the purpose of
+
+v.
+3. TRANSFERS AND RECIPIENTS: When the personal data collected
+are going to be sent to other companies (even when they belong to the same
+business group) must be informed in detail to the user, in such a way that
+he can explicitly know the specific purposes for which they will be used
+the data. As follows:
+
+9 . SCLPD
+
+W pER411 A
+MY
+MA
+"to
+
+l
+GAVE
+Pro
+
+Data
+M. GO
+
+Personal data will be transferred nationwide to:
+companies receiving the data) for the purpose of
+transfer).
+
+EZ
+
+(detail of the
+(purpose
+
+Personal data will be transferred internationally to:
+(indicate company name, country and purpose of the
+transfer).
+
+twenty-one
+
+Page 22
+
+The ENTITY hires cloud services (cloud computing) through:
+(detail the name of the company and geographical location
+of the server on which the personal data can be stored).
+
+If you do not transfer personal data, this information must be indicated in
+as follows:
+
+Personal data will not be transmitted to third parties, except legal obligation.
+
+4. PERIOD DURING WHICH THE PERSONAL DATA WILL BE KEPT: The
+Personal data provided will be kept (for a period of ... days).
+ERU
+
+Gen role cl initiation
+Tranep 'cia. cces
+the MI «ci
+ubl: c
+
+5. EXERCISE OF THE RIGHTS OF INFORMATION, ACCESS, CANCELLATION AND
+OPPOSITION OF THE DATA:
+
+Data Hatchling No.
+Personal
+
+E. MOON C.
+
+I'll say
+Fisc
+lns
+
+As the owner of their personal data, the user has the right to access their data
+in possession of
+(indicate the owner of the database
+personal); know the characteristics of your treatment; request to be deleted or
+canceled as they are considered unnecessary for the previously stated purposes or
+well to oppose their treatment if that is the case.
+
+from
+done
+( Ion
+
+g. ESr UDERO
+
+The user may direct their request to exercise their rights to the following address:
+, or to the following email address:
+
+In order to exercise the aforementioned rights, the user must present in the
+previously specified address, the respective request in the terms established
+the Regulation of Law No. 29733 (including: name of the owner of the personal data and
+address or other means to receive a response; documents that prove your identity or
+legal representation; clear and precise description of the data for which
+seeks to exercise its rights and other elements or documents that facilitate the location
+of the data).
+
+If the user considers that he has not been attended to in the exercise of his rights, he may
+file a claim with the National Data Protection Authority
+22
+
+Page 23
+
+Personal, addressing the Bureau of Parties of the Ministry of Justice and Rights
+Humans: Calle Scipion Llona 350, Miraflores, Lima, Peru.
+
+(Indicate the owner of the personal data bank)
+responsible for the personal data bank
+denomination of the data bank, indicated in number 1) and of the personal data
+contained in it. In order to avoid the loss, misuse, alteration, access not
+authorized and theft of personal data or confidential information provided by
+holders of personal data, (Indicate the holder of the data bank
+personal)
+has adopted the safety and security levels
+protection of legally required personal data, and has installed all the means
+and technical measures at your fingertips.
+
+Dir
+Trans
+
+will be
+(to reiterate
+
+and
+TO
+on Pu
+
+so a
+
+the 'Mor
+Protection of
+Personal s
+
+to and
+
+E. MOON
+
+ISCUDE •
+
+•: tegai
+
+Men
+I
+MY /
+
+Proteelr '
+Data • and
+GO
+
+1-
+
+EZ
+
+2. 3
+
+Page 24
+
+ANNEX 3
+
+VIDEO SECURED AREA
+to
+
+to
+
+Direction Ge
+to seem
+theInfoon
+Proteccro
+
+E. MOON C.
+
+Say r;
+
+F, sc. .slron
+z: 07 e
+
+and
+
+ion
+c SC ERO V.
+
+DATA PROTECTION ACT
+PERSONAL - Law N ° 29733
+
+YOU CAN EXERCISE YOUR RIGHTS BEFORE:
+OWNER OF THE DATA BANK AND ADDRESS
+Dir
+
+Pro
+Data
+M. GOA
+COALEZ L
+
+PLACE WHERE YOU CAN GET THE INFORMATION
+CONTAINED IN ARTICLE 18 OF THE LPDP
+
+24
+
+

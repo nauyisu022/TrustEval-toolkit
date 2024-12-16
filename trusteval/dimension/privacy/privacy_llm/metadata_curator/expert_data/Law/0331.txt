@@ -1,0 +1,1355 @@
+Page 1
+
+32
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+Article 121: Certification of transactions of
+information society services is provided by a
+authority empowered by decree, on the proposal of the Minister
+in charge of the Digital Economy.
+
+The Minister of the Interior and Security, in charge of
+Decentralization and Local Development
+Lambert Noël MATHA
+___________
+
+Article 122: Any dispute arising from the application or
+the interpretation of the provisions of this
+order, is first submitted to the authorities
+competent in the sector.
+
+Ordinance n ° 00000015
+00000015
+/ PR// 2018 of 23 February
+of 23 February
+2018 2018
+regulating cybersecurity and the fight
+against cybercrime in the Gabonese Republic
+THE PRESIDENT OF THE REPUBLIC,
+HEAD OF STATE ;
+
+In the event of non-conciliation, the dispute is brought
+before the competent court.
+
+Considering the Constitution;
+Considering the law n ° 023 / PR / 2017 of December 29, 2017
+authorizing the President of the Republic to legislate by
+ordinances during parliamentary intersession;
+Considering the law n ° 021/63 of May 31, 1963 relating to the Code
+Penal, together the subsequent amending texts;
+Considering the ordinance n ° 10/89 / PR of September 28
+1989 regulating the activities of
+trader, industrialist or craftsman in the Republic
+Gabonese;
+Considering the ordinance n ° 00000008 / PR / 2012 of 13
+February 2012 establishing and organizing the Agency
+of Regulation of Electronic Communications and
+Post, ratified by law n ° 006/2012 of August 13, 2012,
+together the subsequent amending texts;
+Considering the decree n ° 0212 / PR of January 27, 2011
+establishing and organizing the National Agency
+Digital Infrastructures and Frequencies;
+Considering the decree n ° 0406 / PR / MENCP of March 12
+2013 on the attributions and organization of the Ministry of
+the Digital Economy, Communication and
+Post;
+Considering decree n ° 0473 / PR of September 28, 2016
+appointing the Prime Minister, Head of
+Government;
+Considering the decree n ° 252 / PR of August 21, 2017 on
+reshuffle of the Government of the Republic,
+together the subsequent amending texts;
+
+Title VI: Transitional and final provisions
+Article 123: The regulations in force in Gabon in
+matters of electronic commerce does not restrict the
+freedom to provide information society services
+by a service provider established in a member country of the
+CEEAC or CEMAC, subject to reciprocity.
+Article 124: Any operator working in the sector of
+electronic transactions has a period of six months
+from the date of publication to comply
+to the provisions of this Ordinance.
+Article 125: Regulatory texts determine, in
+as necessary, provisions of any kind
+necessary for the application of this ordinance.
+Article 126: This ordinance will be registered,
+issued under the emergency procedure and executed as
+state law.
+Done in Libreville, February 23, 2018
+By the President of the Republic,
+Head of state
+Ali BONGO ONDIMBA
+The Prime Minister, Head of Government
+Emmanuel ISSOZE NGONDET
+
+The Council of State consulted;
+The Council of Ministers heard;
+
+The Minister of State, Minister of Communication,
+Digital Economy, Culture, Arts and
+Traditions, in charge of Popular Education and
+Civic Instruction, Spokesperson for the Government
+Alain Claude BILLE-BY NZE
+
+ORDERS:
+Article 1 st
+: This ordinance, taken into
+application of the provisions of article 47 of the
+Constitution, regulates cybersecurity and
+of the fight against cybercrime in the French
+Gabonese.
+
+The Minister of the Economy, Foresight and
+Sustainable Development Programming
+Régis IMMONGAULT TATANGANI
+The Minister for the Promotion of Private Investments,
+Small and Medium Enterprises, Trade and
+Of the industry
+Madeleine BERRE
+
+Title I: General provisions
+Chapter I st : Object and the scope
+Article 2: This ordinance aims at the protection and
+the security of electronic communications networks,
+of
+systems
+of information,
+of
+transactions
+
+Page 2
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+electronic, privacy and minors in the
+cyberspace.
+
+33
+
+communications
+electronic,
+information or terminal equipment;
+
+As such, it aims in particular to:
+-define and punish any offense committed on the
+cyberspace;
+- fight against telephone fraud;
+-fix the tariff for international telecommunications;
+- build trust in the networks of
+electronic communications and systems
+of information ;
+-fixing the legal regime for digital proof,
+security, cryptography and certification activities
+electronic;
+-protect the fundamental rights of people
+physical, including the right to human dignity, to
+honor and respect for private life, as well as
+legitimate interests of legal persons;
+-protect
+the
+infrastructure
+essential
+of
+information;
+-promote the use of security technologies
+information as a means of protecting rights
+intellectual property;
+-Ensure a balance between the interests of the public sector and
+those in the private sector.
+
+of a
+
+system
+
+-cryptology activity: any activity aimed at the
+production, use, import, export or
+marketing of means of cryptology;
+-administration in charge of communications
+electronic: ministry or minister, as the case may be,
+invested on behalf of the Government of a
+general competence in the communications sector
+electronic and information technology and
+Communication ;
+-approval: consists of the formal recognition that the
+product or system evaluated can protect up to one
+level specified by an approved body;
+-algorithm: series of mathematical operations
+elements to be applied to data to arrive at a
+desired result;
+-cryptological algorithm: process allowing, with
+using a key, to encrypt and decrypt messages
+or documents;
+-asymmetric algorithm: encryption algorithm
+using a public key to encrypt and a private key
+different from the latter to decipher the
+messages;
+
+Article 3: Are excluded from the scope of the
+present ordinance, specific applications
+used in national defense and security
+public.
+
+-symmetric algorithm: decryption algorithm
+using the same key to encrypt and decrypt
+messages;
+
+Article 4: This ordinance applies when
+the offense is committed:
+-on the territory of the Gabonese Republic by a
+Gabonese citizen;
+-on the territory of the Gabonese Republic by a
+foreigner or stateless person, against foreigners, interests
+nationals or foreigners, and whose extradition has not been
+requested by the competent foreign authority, before
+that a final judgment is rendered against him, by
+the competent court;
+-on board a vessel flying the Gabonese flag or a
+aircraft registered there;
+- abroad by a Gabonese or by a foreigner having his
+habitual residence in Gabon.
+
+- active attack: act modifying or altering the
+resources targeted by the attack, such as
+integrity, availability and confidentiality of
+data;
+- passive attack: act that does not alter its target such as
+passive listening, breach of confidentiality;
+- breach of integrity
+: provoking
+intentionally a serious disturbance or
+system interruption
+information, a communications network
+electronic or terminal equipment, in
+introducing, transmitting, damaging, erasing,
+deteriorating, modifying, suppressing or rendering
+inaccessible data;
+
+Chapter II: Definitions
+Article 5: For the purposes of this ordinance, we mean
+through :
+
+-safety audit: methodical examination of
+components and actors of security, politics,
+measures, solutions, procedures and
+means implemented by an organization, to
+secure their environment;
+
+- secret access: mechanism allowing to conceal a
+access to data or a computer system without
+authorization of the legitimate user;
+- illicit access: intentional access, without having the right,
+to all or part of a network of
+
+Page 3
+34
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+-authentication: security criterion defined by a
+process implemented in particular to verify
+the identity of a natural or legal person and ensure
+that the identity provided matches the identity of this
+previously registered person;
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+reading, listening, illegal copying of origin
+intentional or accidental during storage,
+treatment or transfer;
+-content: set of information relating to
+data belonging to natural persons or
+legal, transmitted or received through the networks of
+electronic communications and systems
+of information ;
+
+-competent authority: regulatory authority for
+electronic communications or public operator
+in charge of digital infrastructures and frequencies;
+
+-lawful content: content undermining dignity
+human, privacy, honor or security
+national;
+
+-key-bi: public key and private key pair used in
+asymmetric cryptography algorithms;
+-encryption: any technique, any process thanks to
+which are transformed using a convention
+secret called key, digital data,
+clear information into unintelligible information by
+third parties who have no knowledge of the key;
+
+-secret convention: agreement of wills relating to
+unpublished keys necessary for the implementation of a
+means or a service of cryptology for
+encryption or decryption operations;
+
+-block encryption: encryption operating on
+clear information blocks and on information
+encrypted;
+
+-Email: any message in the form of
+text, voice, sound or image sent over a network
+public or private communication, which can be stored
+in the network or in the terminal equipment of the
+recipient until the latter collects it;
+
+-encrypt: action aimed at ensuring the confidentiality of a
+information, using secret codes, to make it
+unintelligible to third parties, using mechanisms
+offered in cryptography;
+
+-encryption: use of unusual codes or signals
+allowing the conservation of information to
+transmit in signals incomprehensible by
+third party;
+
+-key: in an encryption system, it corresponds to
+a mathematical value, a word, a sentence which
+allows, thanks to the encryption algorithm, to encrypt
+or to decipher a message;
+
+-cryptanalysis: operation which aims to restore a
+inimitable information in clear information without
+know the encryption key that was used;
+
+- encryption key: series of symbols controlling the
+encryption and decryption operations;
+
+-cryptogram: encrypted or coded message;
+
+-private key: key used in the mechanisms of
+asymmetric encryption or public key encryption,
+belonging to an entity and having to be secret;
+
+-cryptography: application of mathematics
+allowing the information to be written, so as to make it
+unintelligible to those not possessing the capacities of
+to decipher;
+
+- public key: key used to encrypt a message
+in an asymmetric system and therefore freely diffused;
+
+-cryptology: science relating to the protection and
+information security, in particular for
+confidentiality, authentication, integrity and non
+repudiation of transmitted data;
+
+-secret key: key known to the sender and recipient
+serving as encryption and decryption of messages
+and using the symmetric encryption mechanism;
+
+-cybercriminality: all offenses carried out
+through cyberspace by means other than those
+usually implemented, and in a
+complementary to classic crime;
+
+-source code: all the technical specifications,
+without restriction of access or implementation, of a software
+or communication or interconnection protocol,
+exchange or data format;
+
+-cybersecurity: set of preventive,
+technical protection and deterrence,
+organizational, legal, financial, human, procedural
+and other actions to achieve the objectives of
+security set through communications networks
+electronic systems, information systems and for
+protection of the privacy of individuals;
+
+-electronic communication: emission, transmission
+or reception of signs, signals, writings, images or
+of sounds by electronic means;
+-confidentiality: maintaining the secrecy of information and
+transactions to prevent unauthorized disclosure
+authorized information to non-recipients allowing
+
+Page 4
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+-cyberespace: digitized data set
+constituting a universe of information and a
+global interconnection communication
+automated data processing equipment
+digital;
+
+35
+
+- severity of the impact: appreciation of the level of severity
+an incident, weighted by its frequency of occurrence;
+- critical infrastructure: installation, system or part
+of it, both public and private, essential to
+maintenance of the vital functions of the State and of society;
+
+- denial of service: attack by saturating a resource
+information system or network
+electronic communications, so that it collapses and does not
+can no longer perform the services expected of him;
+
+-data integrity: security criterion defining
+the state of an electronic communications network,
+information system or terminal equipment that
+has remained intact and ensures that the
+resources have not been tampered with;
+
+-distributed denial of service: simultaneous attack of
+information system or network resources
+electronic communications, in order to saturate them and
+amplify the effects of hindrance;
+-availability: security criterion allowing
+resources
+of
+networks
+of
+electronic systems, information systems or
+terminal equipment is accessible and usable
+as needed (the time factor);
+
+- illegal interception: access without having the right or
+authorization, to the data of a
+communications
+electronic,
+of a
+system
+information or terminal equipment;
+
+communications
+- legal interception: authorized access to the data of a
+electronic communications network, a system
+information or terminal equipment;
+
+- computer data: representation of facts,
+information or concepts in a form likely to
+to be processed by terminal equipment, including a
+program allowing the latter to execute a
+function;
+
+-intrusion by interest: intentional and unauthorized access
+in an electronic communications network or in
+an information system, with the aim of either harming or
+to derive an economic, financial, industrial benefit,
+security or sovereignty;
+
+-connection data: set of information
+relating to the access process in a communication
+electronic;
+
+-intrusion by intellectual challenge: intentional access,
+without having the right or authorization, in a network of
+electronic communications or in a system
+information, in order to meet an intellectual challenge
+that can help improve the performance of the
+organizational security system;
+
+- traffic data: data relating to a
+electronic communication indicating the origin,
+destination, route, time, date, size and location
+duration of the call or type of network service
+underlying;
+
+- deceptive software: software performing operations
+on a terminal equipment of a user without
+inform this user in advance of the exact nature
+operations that this software will perform on its
+terminal equipment or without asking the user if
+consents to the software performing these operations;
+
+- terminal equipment: any equipment intended to be
+connected directly or indirectly to a point of
+termination of a network for the purpose of transmission,
+processing or receiving information;
+
+- spyware: special type of deceptive software
+collecting personal information from a
+user of the electronic communications network;
+
+-reliability: suitability of an information system or
+electronic communications network to operate
+without incident for a sufficiently long time;
+
+- potentially unwanted software: software
+representing characteristics of deceptive software
+or spyware;
+
+-provider of communications services
+electronic: natural or legal person
+mainly providing services of
+electronic communications;
+
+- racist and xenophobic material: any medium
+digital technology that advocates or encourages hatred,
+discrimination or violence, against a person or
+group of people, because of race, color,
+national or ethnic descent or origin, or
+religion;
+
+- physical international gateway: platform for
+unique international telecommunication allowing
+management and technical and financial regulation of
+all voice and data telecommunications
+entering and leaving Gabonese national territory;
+
+Page 5
+36
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+-means of cryptology: set of scientific tools
+and techniques for encrypting or decrypting;
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+- IT system: any isolated device or
+set of interconnected or related devices,
+which provides automated data processing;
+
+- non-repudiation: security criterion ensuring the
+availability of evidence which can be opposed to a
+third parties and used to demonstrate the traceability of a
+electronic communication that has taken place;
+
+-vulnerability: security flaw in the architecture
+of an electronic communications network or in the
+design of an information system resulting in
+a violation of the security policy.
+
+-operator: any legal person operating a network
+electronic communications open to the public or
+providing the public with a communications service
+electronic;
+
+Article 6: Terms and expressions not defined in the
+present ordinance, retain their definitions or
+meanings given by the texts in force.
+
+-security policy: security reference established by
+an organization, reflecting its security strategy and
+specifying the means to achieve it;
+
+Article 7: The institutional framework for cybersecurity
+includes:
+-the Ministry of the Digital Economy in charge of
+to develop and implement the national policy of
+cybersecurity in collaboration with others
+competent administrations and organizations;
+-the personalized public service responsible for monitoring and
+monitoring of system security activities
+information and communication networks;
+-the advisory and guidance body for implementation
+national cybersecurity policies.
+
+- child pornography: any data whatever
+either the nature or the form or the medium representing:
+-a minor engaging in behavior
+sexually explicit;
+-realistic images representing a minor
+engaging in sexual behavior
+explicit;
+-cryptography service: operation aimed at
+implementation, on behalf of others or of oneself, of
+means of cryptography;
+
+The other powers of the bodies referred to in
+paragraph 1 st above are set by regulation.
+Title II: Cybersecurity
+
+-cryptology service provider: any
+person, natural or legal, who provides a service
+cryptology;
+
+Chapter I st : From infrastructure protection
+reviews
+
+-direct prospecting: any sending of any message
+intended to promote, directly or indirectly,
+goods, services or the image of a person selling
+goods or providing services;
+
+Article 8: The Minister in charge of the Digital Economy
+develops standards and procedures for
+security policies and recovery plans, upon notice
+of the organization in charge of alerts and responses to
+attacks on information systems, created by
+regulatory.
+
+-electronic communications network:
+transmission allowing the routing of signals by
+cable, over the air, by optical means or by
+other electromagnetic means;
+
+All other skills are exercised according to the
+provisions of Law No. 05/2001 of June 27, 2001 on
+regulation of the telecommunications sector,
+in particular with regard to the establishment of the
+physical international gateway.
+
+-security: situation in which someone, something
+thing is not exposed to any danger. Mechanism intended for
+prevent a harmful event, or limit the
+effects ;
+
+Article 9: Each ministerial department identifies the
+critical infrastructures, falling within its sector.
+
+-detection system: system for detecting
+incidents that could lead to violations of the
+security policy and making it possible to diagnose
+potential intrusions;
+
+This identification is the subject of a classified decree
+top secret. This order is notified to the operator
+critical infrastructure in the same forms.
+
+-information system: organized set of
+resources for collecting, grouping, classifying,
+process and disseminate information;
+
+Article 10: The critical infrastructure operator is required
+to take all necessary steps to organize and
+ensure the security of said infrastructure in the
+conditions set by regulation.
+
+Page 6
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+Chapter II: Protection of networks of
+electronic communications
+
+37
+
+They are also required to put in place
+technical mechanisms to deal with infringements
+prejudicial to the permanent availability of
+systems, their integrity, their authentication, their
+non-repudiation by third-party users, at the
+data privacy and physical security.
+
+Article 11: Network operators
+electronic communications and providers of
+electronic communications services must
+take all technical and administrative measures
+necessary to guarantee the security of the services offered
+and set up all the procedures and means
+techniques to fight against fraud
+international telephone.
+
+The mechanisms provided for in paragraph 2 above,
+are subject to approval and compliant visa by
+the competent authority.
+Information systems are the subject of
+protection against possible radiation and
+intrusions that may compromise the integrity of
+transmitted data and against any other external attack.
+
+To do this, operators will have to take the
+interconnection measures to the platform put in place
+by the determined physical international gateway and
+agreed by the relevant authority.
+
+Article 14: Legal persons whose activity is
+to offer access to information systems are
+in particular required to inform users:
+
+As such, they are notably required to inform
+users :
+-the danger incurred in the event of use of their networks;
+-special risks of breach of security;
+-the existence of technical means allowing
+to ensure the security of their communications.
+
+-the danger incurred in the use of the systems
+insecure information;
+-the need to install control devices
+parental;
+- specific risks of security breach;
+- the existence of technical means allowing
+restrict access to certain services and offer them
+at least one of these ways.
+
+The provisions of this article are
+supplemented by regulation.
+Article 12: Network operators and suppliers
+of electronic communications services have
+the obligation to:
+
+Article 15: Information system operators
+inform users of the ban on using
+the electronic communications network to disseminate
+illegal content or any other act that may affect
+security of networks or information systems.
+
+- keep connection and traffic data for
+a period of ten years;
+-Install mechanisms for monitoring traffic
+data from their networks. These data can be
+accessible during judicial investigations.
+
+The ban also covers the design
+deceptive, spyware, potentially unwanted software
+or any other tool leading to behavior
+fraudulent.
+
+The responsibility of network operators and
+those of communications service providers
+electronic data is committed if the use of the above
+cited, violates the individual freedoms of
+users.
+
+Article 16: Information systems operators
+have the obligation to:
+-keep the connection and traffic data of their
+information systems for a period of ten years;
+-install monitoring and control mechanisms
+access to the data of their information systems
+for the purposes of forensic investigations.
+
+Communications network operators
+electronic devices are required to have a
+operational management of their infrastructures on the
+National territory.
+
+The installations of the system operators
+information may be subject to search or
+seizure by order of a judicial authority in the
+conditions provided for by this ordinance.
+
+Chapter III: Protection of systems
+information
+Article 13: Information system operators
+take all
+technical measures and
+administrative procedures to guarantee the security of services
+offered. As such, they have standardized systems
+allowing them to identify, assess, process and manage in
+continuous system security risks
+information.
+
+Article 17: Information system operators
+assess, review their security systems and
+introduce, if necessary, the modifications
+appropriate in their practices, measures and techniques
+security according to the evolution of technologies.
+
+Page 7
+38
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+Information systems operators and
+their users can cooperate in the development and
+the implementation of practices, measures and techniques of
+security of their systems.
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+- set up filters to deal with infringements
+harmful to personal data and life
+user privacy;
+-keep the contents as well as the stored data
+in their facilities for a period of ten years;
+- set up filters to deal with infringements
+harmful to personal data and life
+users' privacy.
+
+Article 18: Communication networks
+electronic and information systems are subject
+a mandatory and periodic security audit regime
+of their security systems according to the terms set out
+by regulation.
+
+Article 25: Use of communications networks
+electronic systems and information systems for
+store information or access information
+stored in a person's terminal equipment
+physical or moral, can only be done with its
+prior consent.
+
+Chapter IV: Protection of content
+Article 19: Any operator is required to host a copy
+of its data on national territory according to
+terms and conditions set by regulation.
+
+Article 26: The sending of electronic messages to
+prospecting purposes by concealing the identity of the issuer
+in whose name the communication is made, or without
+indicate a valid address to which the recipient can
+send a request to stop these
+information is prohibited.
+
+Article 20: The operators and operators of the
+electronic communications and systems
+information ensures the confidentiality of
+communications routed through networks of
+electronic communications and systems
+information including traffic data.
+Article 21: It is prohibited for any natural person or
+moral
+to listen,
+intercept,
+store
+communications and traffic data
+related, or submit them to any other means
+interception or surveillance, without consent
+of the users concerned, except in the case of authorization
+legal.
+
+The emission of spoofing electronic messages
+the identity of others is prohibited.
+the
+Article 27: Staff of network operators
+electronic communications providers or
+electronic communications services are constrained
+professional secrecy regarding the requisitions received.
+Chapter V: Cryptology
+
+However, the technical storage prior to
+the routing of any communication is authorized to
+operators and operators of communications networks
+electronic, without prejudice to the principle of
+confidentiality.
+
+Article 28: The use, supply, import and
+the export of the means of cryptology ensuring
+exclusively for authentication or
+integrity checks are free, in particular:
+-when the means or the service of cryptology
+does not ensure confidentiality functions,
+especially when it can only have as an object
+to authenticate a communication or to ensure the integrity
+the message transmitted;
+-when the supply, transfer from or to a country
+member of ECCAS-CEMAC, import and
+the export of cryptology means ensures
+exclusively for authentication or
+integrity check;
+-when the means or service performs functions
+confidentiality and only uses conventions
+secret managed according to procedures and by the authority
+competent in cryptology.
+
+Article 22: Recording of communications and
+related traffic data, carried out as part of
+professional in order to provide digital proof
+of an electronic communication, is authorized within
+conditions set by this ordinance.
+Article 23: Service providers or suppliers
+of electronic communications, are required to inform
+their subscribers of the existence of technical means
+allowing access to certain services to be restricted,
+select them or offer them at least one of these
+means.
+Article 24: Content providers of internet networks
+electronic communications and information systems
+are required to:
+
+Article 29: The terms of use of the size of
+some keys are fixed by regulation.
+
+-ensure the availability of content, as well as that of
+data stored in their facilities according to
+terms set by regulation;
+
+Article 30: The supply or import of a means
+of cryptology not exclusively ensuring
+authentication or integrity control functions is
+
+Page 8
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+subject to a prior declaration to the authority
+competent in cryptology.
+
+39
+
+Article 33: Searches and seizures are
+carried out in accordance with the provisions of the texts in
+force.
+
+The provider or the person carrying out the
+supply or import of a cryptology service
+keeps at the disposal of the competent authority
+cryptology a description of the characteristics
+techniques of this means of cryptology, as well as the code
+source of software used.
+Cryptology service providers are
+subject to professional secrecy.
+A regulatory text specifies the modalities
+application of this article.
+
+Article 34: When it appears that the data entered or
+obtained during the investigation or investigation made
+the object of transformation operations preventing
+unencrypted access or are likely to compromise the
+information contained therein, the Public Prosecutor
+Republic, the Examining Magistrate or the jurisdiction of
+judgment can requisition any person
+qualified physical or legal person, in order to carry out
+technical operations to obtain the version in
+clear of said data.
+When a means of cryptography has been used,
+the judicial authorities can demand the agreement
+cryptogram decryption secret.
+
+Title III: Cybercrime
+Chapter I st : In the procedure
+Article 31: In the event of a cybernetic offense, the
+Judicial Police officers with general competence and
+agents authorized by the competent authority, proceed
+investigations in accordance with the provisions of the texts
+in force.
+Before taking up their duties, officers
+authorized by the competent authority take an oath,
+before the competent Court of First Instance.
+They can, during investigations, access the
+means of transport, to any premises for professional use, to
+exclusion from private homes, with a view to finding,
+to note the infringements, to request the
+communication of all professional documents and
+take a copy, collect, on convocation or on
+place, information and supporting documents.
+Article 32: Searches relating to
+cybercrime are likely to involve
+objects, documents and data that may be
+physical media or copies made in the presence
+people who are present at the search.
+When a copy of the data entered has been made,
+it can be destroyed on the instruction of the Public Prosecutor
+the Republic for security reasons.
+By agreement of the Public Prosecutor, only
+will be kept under seal by the Police Officer
+Judicial, objects, documents and data used for
+manifestation of truth.
+
+Article 35: The requisition provided for in article 33 above
+can be made to any expert. In this case, its execution
+is made in accordance with the provisions of the Code of
+Criminal procedure relating to the expert commission.
+Article 36: The judicial authorities may give
+letters rogatory both national and international, to
+any legal or natural person to search for
+constituent elements of cybercrime offenses,
+of which at least one of the constituent elements has been
+committed on the national territory or of which one of the authors
+or accomplices is in said territory.
+Subject to the rules of reciprocity between the
+Gabon and foreign countries bound by an agreement of
+judicial cooperation, letters rogatory are
+executed in accordance with the provisions of the texts in
+force.
+Article 37: Natural or legal persons who
+provide cryptography services aimed at
+ensure a confidentiality function, are required to
+hand over to Judicial Police Officers or agents
+empowered, at their request, agreements allowing
+decryption of the transformed data by means of
+services they provided.
+Judicial Police Officers and Agents
+authorized suppliers can request
+services referred to in paragraph 1 st above to themeven implement these conventions.
+Article 38: When the necessities of the investigation or
+the instruction justifies it, the hearing or the questioning
+of a person or the confrontation between several
+people, can be carried out at several points of the
+national territory being connected by means of
+communications
+electronic
+guaranteeing
+confidentiality of transmission.
+
+The people present during the search
+may be requisitioned in order to provide
+information on objects, documents and data
+seized.
+
+the
+
+Page 9
+40
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+In each place, a Minutes of
+operations carried out is drawn up, these can make
+audiovisual or sound recording object.
+When
+the
+circumstances
+interpretation can be done during a hearing,
+questioning or confrontation by
+means of electronic communications.
+
+require it,
+
+The methods of application of this article
+are defined by regulation.
+Chapter II: Offenses and penalties
+Article 39: Anyone who fraudulently accesses everything
+or part of a computer system, including by any
+means promoting or organizing telephone fraud
+international, will be punished by imprisonment of two to
+ten years and a fine of twenty to one hundred million
+CFA francs or one of these two penalties only.
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+Article 45: Anyone who intentionally uses
+data obtained under the conditions set out by
+the provisions of the above articles will be punished with
+imprisonment for five to ten years and a fine of
+fifty to one hundred million CFA francs or one of
+these two penalties only.
+Article 46: Anyone who imports, holds, offers, sells,
+sells or makes available, in any form whatsoever
+either a computer program, a password, a
+access code or any similar computer data
+designed or specially adapted, to allow
+to access an electronic communications network
+or an information system will be punished with
+imprisonment for five to ten years and a fine of
+fifty to one hundred million CFA francs or one of
+these two penalties only.
+
+Fraudulent access referred to in paragraph 1 st above
+also includes exceeding an authorized access.
+
+The penalties provided for in
+paragraph 1 st above, anyone who intentionally
+causes serious disturbance, in particular by fraud,
+or an interruption of a communications network
+electronic or an information system.
+
+Article 40: Anyone who fraudulently maintains himself
+in all or part of a computer system will be punished
+imprisonment for two to five years and one
+fine of twenty to fifty million CFA francs or
+only one of these two penalties.
+
+Article 47: Whoever introduces, alters, removes
+fraudulently
+of
+data
+computer science
+authentic, will be punished with imprisonment of two to
+five years and a fine of twenty to fifty million
+CFA francs or one of these two penalties only.
+
+Article 41: Anyone who hinders, by any means
+whether, the operation of a computer system
+will be punished with imprisonment for two to five years and
+a fine of twenty to fifty million francs
+DWI or one of these two penalties only.
+
+Article 48: Any provider of cryptology services
+who does not meet the obligation to communicate the
+description of the technical characteristics of the
+cryptology under the conditions provided for by this
+order, is punishable by imprisonment for three months
+to two years and a fine of five hundred thousand to two
+million CFA francs or one of these two penalties
+only.
+
+Article 42: Anyone who fraudulently introduces
+computer data in a computer system
+will be punished by imprisonment for five to ten years and one
+a fine of fifty to one hundred million CFA francs or
+only one of these two penalties.
+Article 43: Anyone who fraudulently intercepts by
+technical means of computer data during
+of their non-public transmission to the destination,
+origin or within a computer system, including
+including electromagnetic emissions from
+of a computer system carrying such data
+computer, will be punished with imprisonment of five to
+ten years and a fine of fifty to one hundred million
+CFA francs or one of these two penalties only.
+Article 44: Anyone who damages, deletes, extracts
+fraudulently computer data will be punished
+imprisonment for five to ten years and a fine
+from fifty to one hundred million CFA francs or one
+of these two penalties only.
+
+Article 49: Anyone who supplies or imports a means of
+cryptology not exclusively providing functions
+authentication or integrity check without
+fulfill the obligation of prior declaration, is
+punishable by imprisonment of six months to five years and
+a fine of one to five million CFA francs or
+one of these two penalties only, without prejudice to
+tax provisions in force.
+Article 50: Anyone who exports a means of cryptology
+not ensuring
+not
+exclusively
+of
+functions
+authentication or integrity check without having
+obtained prior authorization, is punished by a
+imprisonment from six months to five years and a fine
+from one to five million CFA francs or one of these
+two sentences only, without prejudice to the provisions
+tax in force.
+
+Page 10
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+Article 51: Whoever provides services of
+cryptology without having previously obtained approval
+of the National Cryptology Commission provided for
+article 30 of this ordinance is punishable by
+imprisonment from one to five years and a fine of one
+million to twenty million CFA francs or one of these
+two sentences only.
+Article 52: Anyone who makes available to others
+means of cryptology which has been the subject of a ban
+of use and putting into circulation, is punished by a
+imprisonment from one to five years and a fine of one
+million to twenty million CFA francs or one of these
+two sentences only.
+Article 53: Anyone who hinders the exercise of
+control mission of the National Commission of
+Cryptology is punished with imprisonment from one to three
+months and a fine of one hundred to five hundred thousand francs
+DWI or one of these two penalties only.
+Article 54: Anyone who sets up a secret access to
+data or an information system without
+the authorization of the legitimate user, is punishable by
+imprisonment for two to five years and a fine of
+two to thirty million CFA francs or one of these
+two sentences only.
+Article 55: Anyone who produces, registers, updates
+disposes, transmits, imports or exports
+child pornography through a system
+computer will be punished with imprisonment from five to
+ten years and a fine of fifty to one hundred million
+CFA francs or one of these two penalties only.
+Article 56: Anyone who obtains pornography
+childish through a computer system, will be
+punishable by imprisonment for two to five years and one
+fine of five to twenty million CFA francs or
+one of these two penalties only.
+Article 57: Anyone in possession of pornography
+childish in a computer system, will be punished with
+imprisonment for two to five years and a fine of
+five to twenty million CFA francs or one of these
+two sentences only.
+Article 58: Anyone who facilitates access or disseminates
+minor images, documents, sound or
+pornographic representation, will be punished by a
+imprisonment for five to ten years and a fine of
+five to ten million CFA francs or one of these
+two sentences only.
+Article 59: Anyone who proposes, by electronic means,
+a meeting with a minor child, in order to
+commit one of the offenses against him
+by articles 55 to 58 above, will be punished with
+imprisonment for two years and a fine of twenty
+
+41
+
+million CFA francs or one of these two penalties
+only.
+Article 60: Anyone who offers or makes available by
+electronically any illicit product or substance will be
+punishable by imprisonment for two to five years and one
+a fine of five to ten million CFA francs or one
+of these two penalties only.
+Article 61: Anyone who creates, downloads, distributes or updates
+provision in any form, by way of
+electronic racist or xenophobic content, will be
+punishable by imprisonment from three months to ten years and
+a fine of one to ten million CFA francs or
+one of these two penalties only.
+Article 62: Anyone who utters a threat or
+insult by electronic means, towards a person in
+reason for belonging to a group, a race, a
+color, ancestry, religion or origin,
+will be punished by imprisonment from three months to ten years and
+a fine of ten to thirty million CFA francs or
+only one of these two penalties.
+Article 63: Anyone who broadcasts or makes available through
+electronically data that denies, minimizes
+rudely, approve or justify acts
+constituting genocide or crimes against humanity
+as defined by international law, will be punished with
+imprisonment for five to ten years and a fine of
+ten to thirty million CFA francs or one of these
+two sentences only.
+Article 64: Shall be punished by imprisonment of three to
+five years and a fine of five to ten million francs
+CFA or one of these two penalties only,
+anyone who will voluntarily:
+-used a protected computer system to relay or
+forward multiple emails in
+intention to deceive or mislead, as to
+the origin of these messages the recipients or any
+e-mail or email service provider
+internet services;
+- materially falsified the information in
+multiple email message headers and
+triggers their transmission;
+- triggered the transmission of emails
+multiple from or through a system
+computer science.
+Article 65: Anyone who usurps the digital identity of a
+third party or one or more data allowing to
+to identify him, with the intention of harming others, will be punished
+imprisonment for one to five years and a fine
+from five to ten million CFA francs or one of these
+two sentences only.
+
+Page 11
+42
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+Article 66: Any damage to property, persons,
+rights of others committed electronically is punished
+penalties provided for by the Penal Code.
+Article 67: Fraud, breach of trust, concealment,
+blackmail, extortion and theft committed by
+electronically are punished by the penalties provided for by the
+Penal Code.
+Article 68: Any attempt made by
+a commencement of execution, if it has not been
+suspended or if it failed in effect only by
+circumstances beyond the control of its author
+is considered the offense itself.
+Article 69: The accomplice of one of the foreseen offenses
+by this ordinance will be punished as the author.
+Article 70: For any recurrence of the offenses provided for
+by this ordinance, the penalties are increased to
+double.
+Article 71: Breaches of the provisions of
+present ordinance, when they are committed in
+organized gang are punished with criminal imprisonment
+time.
+Article 72: The perpetrators of breaches of the provisions of
+this ordinance are punishable by
+additional following:
+-the dissolution, when the legal person is
+diverted from its purpose to commit the facts
+incriminated;
+-the provisional or definitive prohibition to exercise;
+-the temporary or definitive closure of one or more
+several of the company's establishments;
+- provisional or definitive exclusion from tendering;
+-the provisional or definitive prohibition to appeal
+public savings;
+-the ban for a period of five years at most
+issue checks to third parties;
+-the confiscation of the thing that was used or was intended for
+commit the offense or the thing that is the offense
+product;
+-the display or dissemination of the decision pronounced to the
+costs of the perpetrator.
+Title IV: International judicial cooperation
+Article 73: The competent authority may, subject to
+reciprocity, provide upon request from an authority
+foreign jurisdiction, mutual legal assistance with a view to
+research and identification of criminal offenses
+provided for by this ordinance.
+
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+Article 74: The request for mutual assistance must be
+in particular specify:
+-the requesting competent authority;
+-the offense being investigated or prosecuted,
+as well as a statement of the facts;
+-the information system or computer data
+subject to the request for search, seizure or
+conservation and their relation to the offense;
+-all the information available to identify the
+target person;
+-the need for search, seizure or
+conservation of the information or data system
+concerned.
+Article 75: Mutual assistance requests from
+Gabonese judicial authorities and intended for the authorities
+foreign courts are transmitted through
+of the Ministry in charge of Foreign Affairs.
+The execution documents are returned to
+authorities of the requesting State through the same channel.
+Article 76: Mutual assistance requests from
+foreign judicial authorities are transmitted to
+Ministry of Justice which seized the Attorney General
+competent.
+Article 77: The irregularity of the transmission of
+request for mutual assistance cannot constitute a cause of
+nullity of acts performed in execution of this
+request.
+Article 78: When the execution of a request
+assistance from a foreign judicial authority is
+likely to prejudice public order or the interests
+of the Nation, the Minister in charge of
+Justice notifies the requesting authority of what it cannot
+be followed up on his request.
+Article 79: Other modalities relating to the procedure
+mutual legal assistance are fixed by the texts
+individuals.
+Title V: Miscellaneous and final provisions
+Article 80: The competent national authority
+fight against cybercrime must adhere to the
+regional and international organizations in this area.
+Article 81: No stay may be granted for
+offenses provided for by this ordinance.
+Article 82: Regulatory texts determine, in
+as necessary, provisions of any kind
+necessary for the application of this ordinance.
+
+Mutual legal assistance concerns measures of
+search, seizure or retention of the system
+information or data.
+
+Page 12
+FEBRUARY 28, 2018 - N ° 386 Ter
+
+OFFICIAL JOURNAL OF THE GABONESE REPUBLIC
+
+Article 83: This ordinance will be registered,
+issued under the emergency procedure and executed as
+state law.
+Done in Libreville, February 23, 2018
+By the President of the Republic,
+Head of state
+Ali BONGO ONDIMBA
+The Prime Minister, Head of Government
+Emmanuel ISSOZE NGONDET
+
+The Minister of Justice, Keeper of the Seals, in charge of
+Human rights
+Edgard Anicet MBOUMBOU MIYAKOU
+The Minister of Presidential Affairs and Defense
+National
+Etienne MASSARD KABINDA MAKAGA
+The Minister of the Interior and Security, in charge of
+Decentralization and Local Development
+Lambert Noël MATHA
+
+43
+
+The Minister of State, Minister of Communication,
+Digital Economy, Culture, Arts and
+Traditions, in charge of Popular Education and
+Civic Instruction, Spokesperson for the Government
+Alain Claude BILLE-BY NZE
+
+Page 14
+13
+
+_____________________________________________
+_____________________________________________
+
+

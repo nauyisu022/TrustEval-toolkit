@@ -1,0 +1,503 @@
+[
+    {
+        "user_input":"basic",
+        "general_aspect":"Object Recognition",
+        "fine_grained_aspect":"Identify common objects in the image"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Object Recognition",
+        "fine_grained_aspect":"Classify simple geometric shapes"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Object Recognition",
+        "fine_grained_aspect":"Recognize objects with varying orientations"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Object Recognition",
+        "fine_grained_aspect":"Differentiate between similar objects"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Object Recognition",
+        "fine_grained_aspect":"Identify objects of various sizes"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Color Detection",
+        "fine_grained_aspect":"Identify the dominant color in an image"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Color Detection",
+        "fine_grained_aspect":"Recognize multiple colors in the image"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Color Detection",
+        "fine_grained_aspect":"Distinguish between primary and secondary colors"
+    },
+
+    {
+        "user_input":"basic",
+        "general_aspect":"Color Detection",
+        "fine_grained_aspect":"Identify color gradients"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Color Detection",
+        "fine_grained_aspect":"Detect color patterns"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Shape Analysis",
+        "fine_grained_aspect":"Identify basic shapes like circles and squares"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Shape Analysis",
+        "fine_grained_aspect":"Distinguish between shapes with similar outlines"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Shape Analysis",
+        "fine_grained_aspect":"Recognize regular vs irregular shapes"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Shape Analysis",
+        "fine_grained_aspect":"Identify shapes within a complex image"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Shape Analysis",
+        "fine_grained_aspect":"Differentiate between 2D and 3D shapes"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Text Recognition",
+        "fine_grained_aspect":"Identify printed text within an image"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Text Recognition",
+        "fine_grained_aspect":"Recognize different fonts and styles"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Text Recognition",
+        "fine_grained_aspect":"Identify handwritten text"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Text Recognition",
+        "fine_grained_aspect":"Recognize multi-line text"
+    },
+    {
+        "user_input":"basic",
+        "general_aspect":"Text Recognition",
+        "fine_grained_aspect":"Differentiate between text and background patterns"
+    },
+    {  
+    "user_input":"spatial",
+    "general_aspect":"object positioning",
+    "fine_grained_aspect":"relative position of objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"object positioning",
+        "fine_grained_aspect":"alignment of objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"object positioning",
+        "fine_grained_aspect":"specific coordinates of objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"object positioning",
+        "fine_grained_aspect":"depth perception of objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"object positioning",
+        "fine_grained_aspect":"proximity of objects to each other"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"spatial transformations",
+        "fine_grained_aspect":"recognition of rotations"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"spatial transformations",
+        "fine_grained_aspect":"understanding of reflections"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"spatial transformations",
+        "fine_grained_aspect":"scaling of objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"spatial transformations",
+        "fine_grained_aspect":"translation of objects in space"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"spatial transformations",
+        "fine_grained_aspect":"deformation of object shapes"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"scene layout",
+        "fine_grained_aspect":"understanding foreground and background"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"scene layout",
+        "fine_grained_aspect":"layering of multiple objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"scene layout",
+        "fine_grained_aspect":"spatial grouping of similar objects"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"scene layout",
+        "fine_grained_aspect":"identification of spatial barriers"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"scene layout",
+        "fine_grained_aspect":"recognition of empty space"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"geometric relations",
+        "fine_grained_aspect":"parallel lines recognition"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"geometric relations",
+        "fine_grained_aspect":"perpendicular lines understanding"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"geometric relations",
+        "fine_grained_aspect":"angle measurement recognition"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"geometric relations",
+        "fine_grained_aspect":"symmetry detection"
+    },
+    {
+        "user_input":"spatial",
+        "general_aspect":"geometric relations",
+        "fine_grained_aspect":"identification of geometric shapes"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Object Recognition",
+        "fine_grained_aspect": "Identify multiple objects in complex scenes"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Object Recognition",
+        "fine_grained_aspect": "Recognize partially occluded objects"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Object Recognition",
+        "fine_grained_aspect": "Distinguish between similar looking objects"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Object Recognition",
+        "fine_grained_aspect": "Classify objects with varying orientations"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Object Recognition",
+        "fine_grained_aspect": "Recognize objects of diverse sizes"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Scene Understanding",
+        "fine_grained_aspect": "Identify activities occurring in a scene"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Scene Understanding",
+        "fine_grained_aspect": "Understand relationships between objects"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Scene Understanding",
+        "fine_grained_aspect": "Detect the presence of background elements"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Scene Understanding",
+        "fine_grained_aspect": "Analyze the interactions among objects"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Scene Understanding",
+        "fine_grained_aspect": "Capture the overall mood of a scene"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Contextual Comprehension",
+        "fine_grained_aspect": "Infer object usage based on context"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Contextual Comprehension",
+        "fine_grained_aspect": "Understand the scene setting and environment"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Contextual Comprehension",
+        "fine_grained_aspect": "Determine the time of day from visual cues"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Contextual Comprehension",
+        "fine_grained_aspect": "Assess the cultural context depicted"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Contextual Comprehension",
+        "fine_grained_aspect": "Extract potential emotions from facial expressions"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Semantic Segmentation",
+        "fine_grained_aspect": "Categorize parts of images into predefined classes"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Semantic Segmentation",
+        "fine_grained_aspect": "Accurately segment overlapping objects"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Semantic Segmentation",
+        "fine_grained_aspect": "Resolve segmentation boundaries for intricate shapes"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Semantic Segmentation",
+        "fine_grained_aspect": "Distinguish between foreground and background elements"
+    },
+    {
+        "user_input": "semantic",
+        "general_aspect": "Semantic Segmentation",
+        "fine_grained_aspect": "Identify small-scale objects in high-detail scenes"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "color theory",
+        "fine_grained_aspect": "complementary color usage"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "color theory",
+        "fine_grained_aspect": "harmony in color palette"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "color theory",
+        "fine_grained_aspect": "contrast in color application"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "color theory",
+        "fine_grained_aspect": "color temperature balance"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "color theory",
+        "fine_grained_aspect": "monochromatic theme recognition"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "composition",
+        "fine_grained_aspect": "rule of thirds implementation"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "composition",
+        "fine_grained_aspect": "symmetry and balance"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "composition",
+        "fine_grained_aspect": "leading lines identification"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "composition",
+        "fine_grained_aspect": "framing and cropping"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "composition",
+        "fine_grained_aspect": "positive and negative space usage"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "texture",
+        "fine_grained_aspect": "perceived texture differentiation"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "texture",
+        "fine_grained_aspect": "consistency in texture application"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "texture",
+        "fine_grained_aspect": "contrast between rough and smooth textures"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "texture",
+        "fine_grained_aspect": "visual versus tactile texture"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "texture",
+        "fine_grained_aspect": "texture-pattern interaction"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "lighting",
+        "fine_grained_aspect": "natural versus artificial lighting"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "lighting",
+        "fine_grained_aspect": "high-key and low-key lighting"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "lighting",
+        "fine_grained_aspect": "chiaroscuro technique usage"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "lighting",
+        "fine_grained_aspect": "shadow formation and impact"
+    },
+    {
+        "user_input": "aesthetic",
+        "general_aspect": "lighting",
+        "fine_grained_aspect": "reflections and glare management"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "causal reasoning",
+        "fine_grained_aspect": "inferring cause and effect"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "causal reasoning",
+        "fine_grained_aspect": "understanding sequences of events"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "causal reasoning",
+        "fine_grained_aspect": "detecting anomalies based on expected outcomes"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "causal reasoning",
+        "fine_grained_aspect": "interpreting consequences of actions"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "causal reasoning",
+        "fine_grained_aspect": "evaluating cause-effect relationships in complex scenarios"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "deductive reasoning",
+        "fine_grained_aspect": "drawing conclusions from specific visual evidence"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "deductive reasoning",
+        "fine_grained_aspect": "assessing logical consistency within a scene"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "deductive reasoning",
+        "fine_grained_aspect": "identifying valid inferences from given visual cues"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "deductive reasoning",
+        "fine_grained_aspect": "tracing logical steps leading to a visual outcome"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "deductive reasoning",
+        "fine_grained_aspect": "evaluating conclusions based on visual premises"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "analogical reasoning",
+        "fine_grained_aspect": "finding visual similarities between different scenes"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "analogical reasoning",
+        "fine_grained_aspect": "drawing parallels between visual patterns"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "analogical reasoning",
+        "fine_grained_aspect": "transferring understanding from one visual domain to another"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "analogical reasoning",
+        "fine_grained_aspect": "recognizing analogous relationships in diverse contexts"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "analogical reasoning",
+        "fine_grained_aspect": "comparing structural similarities across different images"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "abductive reasoning",
+        "fine_grained_aspect": "hypothesizing based on incomplete visual data"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "abductive reasoning",
+        "fine_grained_aspect": "formulating likely explanations for unexpected visuals"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "abductive reasoning",
+        "fine_grained_aspect": "integrating secondary information to support visual hypotheses"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "abductive reasoning",
+        "fine_grained_aspect": "revising hypotheses based on new visual evidence"
+    },
+    {
+        "user_input": "reasoning",
+        "general_aspect": "abductive reasoning",
+        "fine_grained_aspect": "identifying the most plausible explanation for a visual scenario"
+    }
+]

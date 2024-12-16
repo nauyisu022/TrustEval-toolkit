@@ -1,0 +1,2575 @@
+Page 1
+
+one
+
+FEDERAL SERVICE
+TECHNICAL AND EXPORT CONTROL
+(FSTEC of Russia)
+
+PRIKAZ
+December 25, 2017
+
+Moscow
+
+No. 239
+
+Approval of Requirements
+to ensure the safety of significant objects of critical
+information infrastructure of the Russian Federation
+(as amended by orders of the FSTEC of Russia dated August 9, 2018 No. 138,
+dated March 26, 2019 No. 60, dated February 20, 2020 No. 35)
+
+In accordance with clause 4 of part 3 of article 6 of the Federal Law
+dated July 26, 2017 No. 187-FZ "On the security of critical information
+infrastructure of the Russian Federation "(Collection of legislation
+Original text
+Of the Russian Federation,
+2017, No. 31, Art. 4736) P R I K A Z Y V A Y :
+В соответствии
+с пунктом
+4 части 3 статьи 6 Федерального закона
+Approve the
+attached Safety
+Requirements
+significant objects
+Contribute
+of critical
+a better information
+translation
+infrastructure of the Russian
+Federation.
+
+DIRECTOR OF THE FEDERAL SERVICE
+TECHNICAL AND EXPORT CONTROL
+
+V. SELIN
+
+Page 2
+
+2
+
+APPROVED BY
+by order of the FSTEC of Russia
+dated December 25, 2017 No. 239
+Requirements
+to ensure the safety of significant objects of critical
+information infrastructure of the Russian Federation
+I. General Provisions
+1. These Requirements are developed in accordance with the Federal
+law of July 26, 2017 No. 187-FZ "On the safety of critical
+information infrastructure of the Russian Federation "and are aimed at
+ensuring the stable functioning of significant objects of critical
+information infrastructure of the Russian Federation (hereinafter referred to as significant
+facilities, critical information infrastructure) during
+against them computer attacks.
+real
+Requirements
+distributed by
+2. Action
+information systems, automated control systems,
+information and telecommunication networks that are classified as significant
+objects of critical information infrastructure in accordance with
+Article 7 of the Federal Law of July 26, 2017 No. 187-FZ "On safety
+critical information infrastructure of the Russian Federation ”.
+
+on the
+
+3. By decision of the subject of critical information infrastructure
+these Requirements can be applied to ensure safety
+objects of critical information infrastructure, not classified as
+significant objects.
+4. Ensuring the safety of significant objects in which
+information constituting a state secret is processed,
+carried out in accordance with the legislation of the Russian Federation on
+state secrets.
+5. To ensure the safety of significant objects that are
+personal data information systems, these Requirements
+are applied taking into account the Requirements for the protection of personal data when they
+processing in information systems of personal data approved by
+Decree of the Government of the Russian Federation of November 1, 2012 No.
+No. 1119 (Collected Legislation of the Russian Federation, 2012, No. 45,
+Art. 6257).
+To ensure the safety of significant objects that are
+state information systems, these Requirements
+
+Page 3
+
+3
+
+are applied taking into account the Requirements for the protection of information that does not constitute
+state secrets contained in state information
+systems approved by order of the FSTEC of Russia dated February 11, 2013 No. 17
+(registered by the Ministry of Justice of Russia on May 31, 2013, registration No. 28608)
+(as amended by order of the FSTEC of Russia dated February 15, 2017 No.
+No. 27 "On amendments to the Requirements for the protection of information, not
+constituting a state secret contained in state
+information systems approved by order of the FSTEC of Russia from
+February 11, 2013 No. 17 "(registered by the Ministry of Justice of Russia on March 14, 2017,
+registration number 45933).
+6. The safety of significant objects is ensured by the subjects
+critical information infrastructure within the functioning
+security systems of significant objects created by subjects of critical
+information infrastructure in accordance with Article 10 of the Federal
+Law of July 26, 2017 No. 187-FZ "On the safety of critical
+information infrastructure of the Russian Federation ”.
+II. Security requirements during creation,
+operation and decommissioning of significant objects
+7. Ensuring the safety of significant objects is a component
+part of the work on the creation (modernization, in which the architecture changes
+significant object, including its security subsystem, in accordance
+with a separate technical assignment for the modernization of a significant object
+and (or) terms of reference (private terms of reference) for
+modernization of the security subsystem of a significant object (hereinafter modernization), operation and decommissioning of significant objects.
+Measures to ensure the safety of significant objects are taken at all
+stages (stages) of their life cycle.
+8. At the stages (stages) of the life cycle in the course of creation (modernization),
+operation and decommissioning of a significant object are carried out:
+a) the establishment of requirements for ensuring the safety of significant
+object;
+b) development of organizational and technical measures to ensure
+security of a significant object;
+c) the introduction of organizational and technical measures to ensure
+security of a significant object and its commissioning;
+d) ensuring the safety of a significant object during its operation;
+e) ensuring the safety of a significant object when removing it from
+exploitation.
+The results of the implementation of measures taken to ensure
+
+Page 4
+
+four
+
+safety of a significant object at the stages (stages) of its life cycle,
+are subject to documentation. The composition and forms of documents are determined
+the subject of critical information infrastructure.
+9. For significant objects in operation, these
+Requirements to be implemented as part of modernization or retrofitting
+security subsystems of significant objects in operation. Modernization
+or retrofitting of security subsystems of significant objects is carried out
+in the manner prescribed by these Requirements for creating significant
+objects and their security subsystems, taking into account the subjects'
+critical information infrastructure of programs (plans) for
+modernization or retrofitting of significant objects.
+Establishing security requirements
+significant object
+10. Setting requirements for ensuring the safety of a significant object
+carried out by the subject of the critical information infrastructure and
+(or) the person establishing the security requirements
+significant objects, in accordance with the category of significance of the significant object,
+defined in the manner prescribed by the Rules for the categorization of objects
+critical information infrastructure of the Russian Federation,
+approved by the resolution of the Government of the Russian Federation
+dated February 8, 2018 No. 127 "On approval of the Rules for the categorization of objects
+critical information infrastructure of the Russian Federation, as well as
+the list of indicators of criteria for the significance of objects of critical
+information infrastructure of the Russian Federation "(Collection
+legislation of the Russian Federation, 2018, No. 8, Art. 1204).
+Safety requirements are included in the technical
+task for the creation of a significant object and (or) technical task (private
+terms of reference) for the creation of a security subsystem of a significant object,
+which should contain:
+a) the purpose and objectives of ensuring the safety of a significant object, or
+security subsystems of a significant object;
+b) the category of significance of a significant object;
+c) a list of regulatory legal acts, methodological documents and
+national standards that a significant object must comply with;
+d) a list of types of objects of protection of a significant object;
+e) requirements for organizational and technical measures applied
+to ensure the safety of a significant object;
+f) stages (stages of work) of creating a security subsystem of significant
+object;
+
+Page 5
+
+five
+
+g) requirements for applied software and hardware-software
+means, including information protection means;
+h) requirements for the protection of funds and systems that ensure
+the functioning of a significant object (supporting infrastructure);
+i) requirements for information interaction of a significant object with
+other objects of critical information infrastructure, as well as
+other information systems, automated systems
+management or information and telecommunication networks,
+j) requirements for the composition and content of the documentation developed in
+during the creation of a significant object.
+If a significant object is created within the framework of a capital
+construction, requirements for ensuring the safety of a significant object
+are set by the developer and drawn up as an attachment to the assignment for
+design (reconstruction) of a capital construction object.
+When determining the security requirements for significant
+object
+taken into account provisions
+organizational and administrative
+documents
+by
+securing
+security
+significant
+objects,
+developed by the subjects of the critical information infrastructure in
+compliance with the requirements for the creation of security systems of significant
+facilities and ensuring their functioning, approved in accordance with
+with clause 4 of part 3 of article 6 of the Federal Law of July 26, 2017 No. 187-FZ
+"On the security of the critical information infrastructure of the Russian
+Federation "(hereinafter - organizational and administrative documents for
+security of significant objects).
+Development of organizational and technical measures to ensure
+security of significant object
+11. Development of organizational and technical measures to ensure
+security of a significant object is carried out by the subject of critical
+information infrastructure and (or) a person involved in accordance with
+with the legislation of the Russian Federation to carry out work to create
+(modernization) of a significant object and (or) ensuring its safety, in
+in accordance with the terms of reference for the creation of a significant object and (or)
+terms of reference (private terms of reference) for the creation
+security subsystems of a significant object and should include:
+a) analysis of threats to information security and development of a threat model
+security of information or its clarification (if any);
+b) designing a security subsystem of a significant object;
+c) development of working (operational) documentation for a significant
+object (in terms of ensuring its safety).
+
+Page 6
+
+6
+
+Developed organizational and technical measures to ensure
+safety of a significant object should not have a negative impact on
+creation and functioning of a significant object.
+When developing organizational and technical measures to ensure
+safety of a significant object is taken into account its information
+interaction with other objects of critical information
+infrastructure, information systems, automated
+control systems or information and telecommunication networks.
+11.1. The purpose of the analysis of information security threats is
+determination of possible ways of implementation (occurrence) of threats
+information security and the consequences of their implementation (occurrence)
+taking into account the composition of users and their powers, software and software
+hardware, relationships between the components of the significant object,
+interaction with other objects of critical information
+infrastructure, information systems, automated
+control systems, information and telecommunication networks
+(hereinafter referred to as the architecture of a significant object), as well as features
+the functioning of a significant object.
+Information security threat analysis should include:
+a) identification of sources of threats to information security and assessment
+opportunities (potential) of external and internal violators;
+b) analysis of possible vulnerabilities of a significant object and its software,
+software and hardware;
+c) definition
+possible
+ways
+(scripts)
+implementation
+(occurrence) of threats to information security;
+d) assessment of possible consequences from the implementation (occurrence) of threats
+information security.
+As initial data for the analysis of information security threats
+a databank of information security threats is used, the maintenance of which
+carried out by the FSTEC of Russia in accordance with subparagraph 21 of paragraph 8
+Regulations on the Federal Service for Technical and Export Control,
+approved by the Decree of the President of the Russian Federation of August 16, 2004 No.
+No. 1085 (Collected Legislation of the Russian Federation, 2004, No. 34,
+Art. 3541; 2006, no. 49, art. 5192; 2008, no. 43, art. 4921; No. 47, art. 5431; 2012, no. 7,
+Art. 818; 2013, no. 26, art. 3314; No. 53, art. 7137; 2014, no. 36, art. 4833; No. 44, art. 6041;
+2015, no. 4, art. 641; 2016, no. 1, art. 211; 2017, no. 48, art. 7198) (hereinafter - data bank
+threats to information security of the FSTEC of Russia), as well as sources,
+containing other information about vulnerabilities and security threats
+information.
+Based on the results of the analysis of threats to information security,
+recommendations were developed for adjusting the architecture of a significant object and
+
+Page 7
+
+7
+
+organizational and administrative documents for the safety of significant
+objects aimed at blocking (neutralizing) individual threats
+information security.
+The information security threat model should contain a concise
+a description of the architecture of a significant object, a description of the sources of threats
+information security, including the intruder's model, and a description of all
+information security threats relevant to a significant object.
+A description of each information security threat should include:
+a) source of threat to information security;
+b) vulnerabilities (errors) that can be used to
+implementation (contribute to the emergence) of threats to information security;
+c) possible ways (scenarios) of realizing a security threat
+information;
+d) possible consequences from the implementation (occurrence) of the threat
+information security.
+An information security threat model can be developed to
+several significant objects with the same purpose of creation and
+architecture, as well as typical threats to information security.
+To identify threats to information security and develop a model
+information security threats should be applied methodological
+documents developed and approved by the FSTEC of Russia in accordance with
+subparagraph 4 of paragraph 8 of the Regulation on the Federal Service for Technical and
+export control approved by the Decree of the President of the Russian
+Federation of August 16, 2004 No. 1085.
+11.2. Designing a security subsystem of a significant object
+should be carried out in accordance with the terms of reference for the creation
+significant object and (or) terms of reference (private technical
+task) to create a security subsystem of a significant object, taking into account
+information security threat models and significance categories of significant
+object.
+When designing a security subsystem of a significant object:
+a) the subjects of access (users, processes and other
+access subjects) and access objects;
+b) access control policies are defined (discretionary,
+mandatory, role, combined);
+c) organizational and technical
+measures to be implemented within the security subsystem of a significant
+object;
+d) the types and types of information security means are determined,
+ensuring the implementation of technical security measures
+significant object;
+
+Page 8
+
+eight
+
+e) the choice of means of information protection and (or) their
+development taking into account the category of significance of a significant object, compatibility with
+software and hardware-software, functions performed
+safety and operating restrictions;
+f) the architecture of the security subsystem of the significant
+object, including the composition, installation location, interconnection of protective equipment
+information;
+g) the requirements for the settings of the software and
+software and hardware, including information security tools,
+ensuring the implementation of security measures, blocking
+(neutralization) of information security threats and elimination of vulnerabilities
+significant object;
+h) measures to ensure safety during interaction are determined
+significant object with other objects of critical information
+infrastructure, information systems, automated
+control systems or information and telecommunication networks.
+If during the design of the security subsystem
+a significant object, software development is envisaged, including
+information security software, such
+development is carried out in accordance with secure development standards
+software.
+Results of designing a security subsystem of a significant object
+reflected in the design documentation for a significant object (subsystem
+security of a significant object), developed in accordance with
+terms of reference for the creation of a significant object and (or) technical
+assignment (private technical assignment) for the creation of a subsystem
+security of a significant object.
+In the process of designing a significant object, its significance category
+can be refined.
+In order to test the security subsystem of a significant object during
+design, its prototyping or creation can be carried out
+test environment. Testing should focus on:
+ensuring the operability and compatibility of the selected tools
+information protection with software and hardware of significant
+object;
+practical development of the implementation by means of information security
+safety functions, as well as fulfillment of safety requirements,
+applied to software and hardware-software, including
+number of information protection means, in accordance with clauses
+27-31 of these Requirements;
+
+Page 9
+
+nine
+
+elimination of the influence of the safety subsystem on the functioning
+significant object.
+Layout of the security subsystem of a significant object and its
+testing can be carried out using tools and methods
+modeling, as well as using virtualization technologies.
+When designing security subsystems of significant objects,
+which are information and telecommunication networks, these
+Requirements are applied taking into account the Network Design Requirements
+telecommunications, approved by order of the Ministry of Telecom and Mass Communications of Russia dated March 9, 2017 No.
+No. 101 (registered by the Ministry of Justice of Russia on May 31, 2017, registration
+No. 46915), as well as other regulatory legal acts of the federal body
+executive power, carrying out the functions of developing and implementing
+state policy and legal regulation in the field
+communication.
+11.3. Development of working (operational) documentation for significant
+the object is carried out in accordance with the terms of reference for the creation
+significant object and (or) terms of reference (private technical
+task) to create a security subsystem of a significant object based on
+project documentation.
+Working (operational) documentation for a significant object should
+contain:
+a description of the architecture of the security subsystem of a significant object;
+procedure and settings for software and firmware
+means, including information security means;
+rules for the operation of software and software and hardware, in
+including information protection means (rules of safe operation).
+Composition and forms of working (operational) documentation
+are determined in accordance with the terms of reference for the creation of a meaningful
+object and (or) terms of reference (private terms of reference) for
+creation of a security subsystem of a significant object.
+Implementation of organizational and technical security measures
+significant object and putting it into operation
+12. Implementation of organizational and technical measures to ensure
+security of a significant object is organized by the subject of critical
+information infrastructure in accordance with the design and operational
+(operational) documentation for a significant object, standards
+organizations and includes:
+a) installation and configuration of information security tools, configuration
+software and firmware;
+
+Page 10
+
+10
+
+b) development
+organizational and administrative
+documents,
+regulating the rules and procedures for ensuring the safety of significant
+object;
+c) implementation of organizational security measures
+significant object;
+d) preliminary tests of a significant object and its subsystem
+security;
+e) trial operation of a significant object and its subsystem
+security;
+f) analysis of the vulnerabilities of the significant object and taking measures to
+elimination;
+g) acceptance tests of a significant object and its subsystem
+security.
+By the decision of the subject of critical information infrastructure to
+development and implementation of organizational and technical measures to ensure
+safety of a significant object may involve a person operating
+(planning to operate) a significant object.
+12.1. Installation and configuration of information security tools should
+carried out in accordance with the design and working (operational)
+documentation for a significant object, as well as in accordance with the operational
+documentation for individual means of information protection.
+When installing and configuring information security tools, there should be
+the implementation of restrictions on the operation of these protective equipment is ensured
+information, if available in the operational documentation.
+12.2. Developed organizational and administrative documents for
+security of the significant object should be defined by rules and procedures
+implementation of certain organizational and (or) technical measures (policies
+security), developed and implemented within the subsystem
+safety of a significant object in accordance with Chapter III of these
+Requirements.
+Organizational and administrative
+documentation by
+security
+significant object should, among other things, establish rules for safe
+the work of employees operating significant facilities and employees,
+ensuring the functioning of significant objects, as well as actions
+workers in the event of emergency situations, including those caused
+computer incidents.
+The composition and forms of organizational and administrative documents for
+safety of significant objects are determined by the subject of critical
+information infrastructure, taking into account the peculiarities of its activities.
+12.3. When implementing organizational security measures
+significant object are carried out:
+a) organization of control of physical access to software and hardware
+means of a significant object and its communication lines;
+
+Page 11
+
+eleven
+
+b) the implementation of the rules for differentiating access, regulating the rights
+access of subjects of access to objects of access, and the introduction of restrictions on
+actions of users, as well as changes in operating conditions, composition and
+configurations of software and firmware;
+c) checking the completeness and detail of the description in the organizational and
+regulatory documents on the safety of significant objects of action
+users and administrators of a significant object for implementation
+organizational measures;
+d) determining the security administrator of the significant object;
+e) working out the actions of users and administrators of significant
+an object for the implementation of measures to ensure the safety of a significant object.
+12.4. Preliminary tests of a significant object and its subsystem
+safety must be carried out in accordance with the program and methods
+preliminary tests and include a functional check
+security subsystems of a significant object and individual means of protection
+information, assessment of compliance with safety requirements
+to software and software and hardware, including tools
+information protection, in accordance with paragraphs 27-31 of these Requirements,
+assessment of the impact of the safety subsystem on the functioning of a significant
+the object under the design modes of its operation established by the design
+documentation, as well as making a decision on the possibility of an experienced
+operation of a significant object and its security subsystem.
+12.5. Trial operation of a significant object and its subsystem
+safety must be carried out in accordance with the program and methods
+trial operation and include a check of the functioning of the subsystem
+security of a significant object, including implemented organizational
+and technical measures, as well as the knowledge and skills of users and administrators,
+necessary for the operation of a significant object and its subsystem
+security. Based on the results of trial operation, a decision is made on
+possibility (or impossibility) of acceptance tests
+significant object and its security subsystem.
+12.6. Vulnerability analysis of a significant object is carried out in order to
+identifying shortcomings (weaknesses) in the security subsystem of a significant
+object and assess the possibility of their use for the implementation of threats
+information security. At the same time, code vulnerabilities are subject to analysis.
+configuration and architecture of the significant object.
+Vulnerability analysis is carried out for all software and software
+hardware, including means of protecting information, significant
+object.
+Vulnerability analysis uses the following methods
+their identification:
+
+Page 12
+
+12
+
+a) analysis of design, working (operational) documentation and
+organizational and administrative documents for the safety of significant
+object;
+b) analysis of the settings of software and firmware, c
+including means of protecting information, a significant object;
+c) identification of known software and software vulnerabilities
+hardware, including information security, through
+analysis of the composition of installed software and updates
+security with the use of means of control (analysis) of security and (or)
+other means of information protection;
+d) identification of known software and software vulnerabilities
+hardware, including information security, network services,
+available for network interaction, with the use of controls
+(analysis) of security;
+e) penetration testing under conditions appropriate
+capabilities of intruders identified in the security threat model
+information.
+The application of methods and means of identifying vulnerabilities is carried out
+subject of critical information infrastructure, taking into account
+features of the functioning of a significant object.
+Analysis of vulnerabilities on a mock-up (in the test zone) is allowed
+significant object or layouts of individual segments of the significant object.
+Vulnerability analysis of a significant object is carried out before entering it into
+exploitation
+on the stages,
+determined
+subject
+critical
+information infrastructure.
+In case of identification of vulnerabilities of a significant object, which may be
+used to implement (contribute to) threats
+information security, measures are taken to eliminate them
+or excluding the possibility of use (exploitation) by the violator
+identified vulnerabilities.
+Based on the results of the vulnerability analysis, it should be confirmed that the
+significant object, there are no vulnerabilities, at least contained
+in the data bank of threats to the security of information of the FSTEC of Russia, indicated
+in clause 11.1 of these Requirements, or the identified vulnerabilities do not lead
+to the emergence of threats to the security of information in relation to significant
+object.
+12.7. During acceptance tests of a significant object and its subsystem
+security, a complex of organizational and technical
+measures (tests), as a result of which conformity is confirmed
+a significant object and its security subsystem to these Requirements,
+as well as the requirements of the technical assignment for the creation of a significant object and
+
+Page 13
+
+13
+
+(or) technical assignment (private technical assignment) for the creation
+security subsystems of a significant object.
+As initial data for acceptance tests are used
+information security threat model, categorization results (act),
+terms of reference for the creation (modernization) of a significant object and (or)
+technical assignment (private technical assignment) for the creation of a subsystem
+safety of a significant object, design and work (operational)
+documentation for a significant object, organizational and administrative
+documents on the safety of significant objects, analysis results
+vulnerabilities of a significant object, materials of preliminary tests and
+trial operation, as well as other documents developed in
+in accordance with these Requirements and the requirements of the standards
+organizations.
+Acceptance tests of a significant object and its subsystem
+safety are carried out in accordance with the program and methodology
+acceptance tests. Results of acceptance tests of a significant object
+and its security subsystem with the conclusion about its compliance with the established
+requirements are included in the act of acceptance of a significant object into operation.
+If the significant object is a state
+information system, in other cases established by law
+Of the Russian Federation, as well as in the case of a decision by the subject
+critical information infrastructure, assessment of a significant object and
+its security subsystem is carried out in the form of attestation of a significant
+object in accordance with the Requirements for the protection of information, not
+constituting a state secret contained in state
+information systems approved by the order of the FSTEC of Russia from
+February 11, 2013 No. 17.
+Commissioning of a significant object and its security subsystem
+carried out with a positive conclusion (conclusion) in the acceptance certificate (or in
+certificate of conformity) on the compliance of a significant object with the established
+safety requirements.
+Ensuring the safety of a significant object during its operation
+13. Ensuring safety during the operation of a significant object
+carried out by the subject of the critical information infrastructure in
+compliance with operational documentation and organizational and
+regulatory documents for the safety of a significant object and must
+include the implementation of the following activities:
+a) planning measures to ensure the safety of significant
+object;
+
+Page 14
+
+fourteen
+
+b) analysis of threats to the security of information in a significant object and
+the consequences of their implementation;
+c) management (administration) of the security subsystem of significant
+object;
+d) managing the configuration of a significant object and its subsystem
+security;
+e) response to computer incidents during operation
+significant object;
+f) ensuring actions in emergency situations during operation
+significant object;
+g) informing and training the personnel of the significant object;
+h) control over ensuring the safety of a significant object.
+13.1. When planning security measures
+significant object are carried out:
+a) identification of persons responsible for planning and control
+measures to ensure the safety of a significant object;
+b) development, approval and updating of the action plan for
+ensuring the safety of a significant object;
+c) determining the procedure for monitoring the implementation of measures for
+securing
+security
+meaningful
+object,
+envisaged
+approved plan.
+Planning measures to ensure the safety of significant
+the object should be carried out within the framework of the planning process implemented in
+compliance with the requirements for the creation of security systems of significant
+facilities and ensuring their functioning, approved in accordance with
+with clause 4 of part 3 of article 6 of the Federal Law of July 26, 2017 No. 187-FZ
+"On the security of the critical information infrastructure of the Russian
+Federation ".
+13.2. During the analysis of threats to the security of information in a significant object
+and the possible consequences of their implementation are carried out:
+a) analysis of the vulnerabilities of a significant object arising in the course of its
+operation;
+b) analysis of changes in information security threats in a significant object,
+arising during its operation;
+c) assessment of the possible consequences of the implementation of security threats
+information in a significant object.
+The frequency of these works is determined by the subject
+critical
+information
+infrastructure
+in
+organizational
+administrative documents for the safety of significant objects, taking into account
+categories of object significance and features of its functioning.
+
+Page 15
+
+fifteen
+
+13.3. During the management (administration) of the security subsystem
+significant object are carried out:
+a) determination of persons responsible for management (administration)
+a security subsystem of a significant object;
+b) user account management and maintenance
+in the current state of the rules for differentiating access in a significant object;
+c) management of information security means of a significant object;
+d) management of software and firmware updates
+means, including information protection means, taking into account the peculiarities
+the functioning of a significant object;
+e) centralized management of the security subsystem of significant
+object (if necessary);
+f) monitoring and analysis of registered events in a significant object,
+security-related (hereinafter - security events);
+g) escort
+functioning
+subsystems
+security
+significant object during its operation, including the maintenance of operational
+documentation
+and organizational and administrative
+documents
+security of a significant object.
+
+by
+
+13.4. During configuration management of the significant object and its
+security subsystems for the purpose of ensuring its security
+carried out:
+a) determination of persons who are allowed to enter
+changes to the configuration of a significant object and its security subsystem,
+and their powers;
+b) determination of the components of a significant object and its subsystem
+security to be changed as part of configuration management
+(identification of configuration management objects): software and hardware,
+software tools, including information security tools, and their settings
+and program code, operational documentation, interfaces, files and
+other components subject to change and control;
+c) change management of a significant object and its subsystem
+security:
+development
+parameters
+settings,
+providing
+safety of a significant object, analysis of potential impact
+planned changes to ensure the safety of a significant object,
+authorizing changes to a significant object and its subsystem
+security, documenting actions to make changes to a significant
+object and saving data about configuration changes;
+d) control of actions to make changes to a significant object and its
+security subsystem.
+Implemented change management processes for a significant object
+and its security subsystems should cover the processes of guarantee
+
+Page 16
+
+sixteen
+
+and (or) maintenance, including remote (remote),
+software and hardware-software tools, including means of protection
+information, significant object.
+13.5. Response to computer incidents is carried out
+in the manner established in accordance with paragraph 6 of part 4 of article 6
+Federal Law of July 26, 2017 No. 187-FZ "On safety
+critical information infrastructure of the Russian Federation ”.
+To respond to computer incidents, employees are identified,
+responsible for identifying and responding to computer incidents,
+and their functions are determined.
+13.6. To ensure actions in emergency situations during operation
+significant object are carried out:
+a) planning measures to ensure the safety of significant
+object in case of emergency situations;
+b) training and practicing the actions of personnel to ensure
+safety of a significant object in the event of emergency situations;
+c) creation of alternative locations for storing and processing information on
+the case of emergency situations;
+d) redundancy of software and software and hardware, including
+the number of information protection means, communication channels in case of
+emergency situations;
+e) ensuring the possibility of restoring a significant object and (or)
+its components in case of emergency situations;
+f) determination of the order of analysis of emerging emergency situations and
+taking measures to prevent their recurrence.
+13.7. In the course of informing and training the personnel of a significant object
+carried out:
+a) informing staff about threats to information security,
+on the rules for the safe operation of a significant object;
+b) communicating safety requirements to personnel
+significant objects, as well as provisions of organizational and administrative
+documents on the safety of significant objects in the part related to them;
+c) training of personnel in the rules of operation of individual protective equipment
+information, including hands-on training for staff;
+d) control of personnel awareness of security threats
+information and the level of knowledge of personnel on security issues
+critical information infrastructure.
+The frequency of these activities is established
+the subject of critical information infrastructure in the organizational
+regulatory documents for the safety of a significant object, taking into account
+categories of significance and features of the functioning of a significant object.
+
+Page 17
+
+17
+
+13.8. In the course of monitoring the safety of a significant object
+carried out:
+a) control (analysis) of the security of a significant object, taking into account
+features of its functioning;
+b) analysis and assessment of the functioning of a significant object and its
+security subsystems, including analysis and elimination of vulnerabilities and other
+deficiencies in the functioning of the security subsystem of a significant object;
+c) documenting the procedures and results of collateral control
+security of a significant object;
+d) making a decision on the results of control over collateral
+safety of a significant object on the need for revision (modernization)
+its security subsystem.
+Ensuring the safety of a significant object
+when taking it out of service
+14. Ensuring the safety of a significant object when removing it from
+operation or after making a decision to end the processing
+information is carried out by the subject of critical information
+infrastructure in accordance with the operational documentation for
+significant object and organizational and administrative documents for
+security of a significant object.
+Ensuring the safety of the significant object when it is withdrawn from
+operation should include:
+a) archiving information contained in a significant object;
+b) destruction (erasure) of data and residual information from
+machine media and (or) destruction of machine media
+information;
+c) destruction or archiving of architectural data and
+configuration of the significant object;
+d) archiving or destruction of operational documentation on
+significant object and its security subsystem and organizational
+regulatory documents for the safety of a significant object.
+14.1. Archiving information contained in a significant object,
+should be carried out in the event of its further use in activities
+the subject of critical information infrastructure.
+14.2. Destruction (erasure) of data and residual information from
+machine data carriers is carried out in the case of processing
+a significant object of information of limited access or in the case of acceptance
+such a decision by the subject of the critical information infrastructure.
+Destruction (erasure) of data and residual information from machine
+
+Page 18
+
+eighteen
+
+information carriers is made when it is necessary to transfer a machine
+information carrier to another user of a significant object or to other
+organizations for repair, maintenance or further
+destruction.
+When decommissioning machine storage media, on
+which storage and processing of information was carried out, is carried out or
+physical destruction of the machine media themselves, or
+destruction of information contained on machine media by methods not
+providing for the possibility of its restoration.
+Destruction (erasure) of data and residual information from machine
+information carriers must be documented in accordance with
+organizational and administrative documents for the safety of significant
+object.
+14.3. When decommissioning a significant object, there should be
+reset of software and firmware settings, in
+including information security tools, information about the subjects has been deleted
+access and access objects, user accounts have been removed, and
+identification and authentication information of access subjects.
+14.4. When a significant object is decommissioned, all
+operational documentation for a significant object and its subsystem
+safety, operational documentation for individual protective equipment
+information is subject to archival storage.
+The storage periods for documentation are determined by the subject of the critical
+information infrastructure in organizational and administrative
+documents on the security of a significant object.
+By the decision of the subject of critical information infrastructure
+operational documentation for a significant object and its subsystem
+security, as well as organizational and administrative documents for
+safety of a significant object (instructions, manuals) can be
+destroyed. In this case, the fact of destruction must be documented.
+subject of critical information infrastructure indicating
+names, composition of documents, methods and dates of their destruction.
+III. Requirements for organizational and technical measures,
+taken to ensure the safety of significant objects
+15. The purpose of ensuring the safety of a significant object is
+ensuring its stable functioning in design modes of operation
+in the context of the implementation of security threats against a significant object
+information.
+16. The tasks of ensuring the safety of a significant object are:
+
+Page 19
+
+nineteen
+
+a) prevention
+unlawful
+access
+to
+information,
+processed by a significant object, the destruction of such information, its
+modification,
+blocking,
+copying,
+providing
+and
+distribution, as well as other illegal actions in relation to such
+information;
+b) prevention of information impact on software and
+software and hardware, as a result of which the
+and (or) the functioning of the significant object is terminated;
+c) ensuring the functioning of a significant object in the design
+modes of its operation under the influence of threats to information security;
+d) provision
+capabilities
+recovery
+functioning
+significant object of critical information infrastructure.
+17. In significant facilities, facilities subject to protection from threats
+information security (objects of protection) are:
+a) in information systems:
+information processed in the information system;
+software and hardware (including computer media
+information,
+automated
+workers
+places,
+telecommunication equipment, communication lines, processing facilities
+alphanumeric, graphic, video and speech information);
+software tools (including firmware, system-wide,
+application software);
+information security means;
+architecture and configuration of the information system;
+b) in information and telecommunication networks:
+information transmitted over communication lines;
+telecommunication equipment (including software
+provision, control system);
+information security means;
+architecture and configuration of information and telecommunication
+networks;
+c) in automated control systems:
+information (data) about the parameters (state) of the controlled
+(controlled) object or process (including input (output)
+information,
+managing director (command)
+information,
+measurement information, other critical (technological)
+information);
+software and hardware (including automated
+workplaces, industrial servers, telecommunication equipment,
+communication lines, programmable logic controllers, industrial,
+technological equipment (actuators);
+
+servers,
+
+control-
+
+Page 20
+
+twenty
+
+software tools (including firmware, system-wide,
+application software);
+information security means;
+architecture and configuration of the automated control system.
+18. Ensuring the safety of a significant object is achieved by
+acceptance within the framework of the security subsystem of a significant object of the aggregate
+organizational and technical measures aimed at blocking
+(neutralization) threats to information security, the implementation of which can
+lead to the termination or disruption of the functioning of a significant
+object and providing (controlled, controlled) process,
+as well as violation of the security of processed information (violation
+availability, integrity, confidentiality of information).
+Organizational and technical security measures
+significant object are accepted by the subject of critical information
+infrastructure together with the person operating the significant object (if
+its availability). Moreover, between the subject of critical information
+infrastructure and the person operating a significant facility must be
+the delineation of functions to ensure the safety of significant
+object during its operation.
+19. Security measures are selected and implemented
+in a significant object, taking into account threats to information security in relation to
+to all objects and subjects of access on the hardware, system, application and
+network layers, including in a virtualization environment.
+20. Measures to ensure the safety of a significant object are taken
+25subject of critical information infrastructure independently
+or, if necessary, with the involvement in accordance with the legislation
+Of the Russian Federation of organizations that, depending on the information,
+processed by a significant object, a license to operate
+technical protection of information constituting a state secret, and
+(or) for activities related to the technical protection of confidential information.
+21. Taken organizational and technical measures to ensure
+security of a significant object should be correlated with measures to
+industrial, functional safety, other measures to ensure
+security of a significant object and providing (controlled,
+controlled) object or process. At the same time, measures to ensure
+safety of a significant object should not have a negative impact
+for the functioning of a significant object in the design modes of its operation.
+22. In significant objects, depending on their category of importance and
+information security threats should be implemented the following
+organizational and technical measures:
+identification and authentication (IAF);
+
+Page 21
+
+21
+
+access control (UPD);
+restriction of the software environment (OPS);
+protection of machine data carriers (ZNI);
+security audit (SAA);
+anti-virus protection (AVZ);
+intrusion prevention (computer attacks) (IDS);
+integrity assurance (OTsL);
+ensuring accessibility (CCT);
+protection of technical means and systems (ZTS);
+protection information
+(automated)
+systems
+and
+its components (VMS);
+planning of measures to ensure safety (OSP);
+configuration management (CCM);
+software update management (software update);
+Information Security Incident Response (ITC);
+provision of actions in emergency situations (CSN);
+information and training of personnel (IPO).
+The composition of measures to ensure the safety of significant objects in
+depending on the category of significance is given in the appendix to these
+Requirements.
+When implementing measures to ensure the safety of significant objects
+methodological documents developed by FSTEC of Russia in
+in accordance with subparagraph 4 of paragraph 8 of the Regulation on the Federal Service for
+technical and export control approved by the Decree of the President
+Russian Federation dated August 16, 2004 No. 1085.
+23. The choice of measures to ensure the safety of significant objects for their
+implementations include:
+a) defining a basic set of security measures
+significant object;
+b) adaptation of the basic set of security measures
+significant object;
+c) complementing an adapted set of security measures
+significant object by measures established by other regulatory legal
+acts in the field of ensuring the security of critical information
+infrastructure of the Russian Federation and information protection.
+Basic set of measures to ensure the security of a significant object
+is determined based on the established category of significance of the significant
+object in accordance with the appendix to these Requirements.
+Basic set of measures to ensure the security of a significant object
+subject to adaptation in accordance with threats to information security,
+applied
+information
+technologies
+and features
+
+Page 22
+
+22
+
+the functioning of a significant object. In this case, from the basic set there can be
+excluded measures directly related to information
+technologies not used in a significant object, or characteristics,
+not characteristic of the significant object. When adapting the basic set of measures for
+ensuring the security of the significant object for each security threat
+information included in the threat model is compared to a measure or a group of measures,
+ensuring the blocking of one or more security threats, or
+reducing the possibility of its implementation based on the operating conditions
+significant object. If the basic set of measures does not allow to provide
+blocking (neutralization) of all threats to information security, into it
+additionally includes the measures given in the annex to these
+Requirements.
+Supplementing an adapted set of security measures
+significant object is carried out in order to fulfill the requirements,
+established by other regulatory legal acts in the field
+ensuring the security of critical information infrastructure and
+information protection. Completion of the adapted set of measures is carried out in
+if in relation to a significant object in accordance with
+requirements are also established with the legislation of the Russian Federation
+on the protection of information contained in state information
+systems, requirements for the protection of personal data when processing them in
+information
+systems
+personal
+data,
+the requirements to
+cryptographic protection of information or other requirements in the field
+protection information
+and securing
+security
+critical
+information infrastructure.
+24. If the significant object is a state
+information system or information system of personal
+data, security measures of a significant object and protection measures
+information (to ensure personal data) are accepted
+in accordance with a higher significance category, security class
+or the level of protection of personal data.
+25. If the measures taken in the significant object to ensure
+industrial, functional safety and (or) physical
+security is sufficient to block (neutralize) individual threats
+information security, additional measures selected in accordance with
+with clauses 22 and 23 of these Requirements may not apply. Moreover, in
+the development of organizational and technical measures to ensure
+safety of a significant object, the sufficiency of
+application of measures to ensure industrial safety or physical
+security to block (neutralize) relevant threats
+information security.
+
+Page 23
+
+23
+
+26. In the absence of the possibility of implementing certain measures for
+ensuring security and (or) the impossibility of their application to individual
+objects and subjects of access, including due to their negative impact
+for the functioning of a significant object in the design modes of a significant
+facility, compensatory measures must be developed and implemented,
+ensuring blocking (neutralization) of security threats
+information with the required level of security of a significant object. When
+this during the development of organizational and technical measures to ensure
+safety of a significant object, the use of
+compensating measures, and during acceptance tests (certification) it was assessed
+sufficiency and adequacy of these compensating measures for blocking
+(neutralization) threats to information security.
+Measures to
+providing industrial, functional and (or) physical
+security of a significant object, maintaining the required level of its
+security.
+26.1. When used in significant objects of new information
+technologies and identification of additional threats to information security, for
+which safety measures are not defined, should
+develop compensatory measures in accordance with paragraph
+26 of these Requirements.
+IV. Requirements for software and firmware,
+used to ensure the safety of significant objects
+27. Technical measures to ensure safety in a significant facility
+implemented through the use of software and software
+hardware used to ensure the security of significant
+objects - information security tools (including those built into
+system-wide, application software), as well as software
+security of software and firmware,
+used in significant objects.
+In this case, in a priority order, funds are to be used
+information protection built into software and (or)
+software and hardware of significant objects (if any).
+28. To ensure the safety of significant objects of critical
+information infrastructure, protective measures must be applied
+information assessed for compliance with safety requirements
+in the forms of mandatory certification, testing or acceptance.
+
+Page 24
+
+24
+
+Information security tools that have passed the conformity assessment in the form
+compulsory certification, are applied in the cases established
+the legislation of the Russian Federation, as well as in the event of a decision
+the subject of critical information infrastructure.
+In other cases, information protection means that have passed
+conformity assessment in the form of tests or acceptance, which are carried out
+subjects of critical information infrastructure independently or
+with the involvement of organizations that, in accordance with the legislation
+Russian Federation licenses for activities in the field of protection
+information.
+29. In the case of use in a significant facility certified for
+compliance with information security requirements of protection means
+information:
+a) in significant objects of the 1st category, protective equipment is used
+information of at least 4 class of protection, as well as means of computing
+equipment not lower than class 5;
+b) in significant objects of the 2nd category, means of protection are used
+information of at least 5 protection class, as well as computing
+equipment not lower than class 5;
+c) in significant objects of the 3rd category, protective equipment is used
+information of the 6th class of protection, as well as computer technology not
+below grade 5.
+At the same time, in significant objects of the 1st category of significance,
+certified information security products that comply with 4 or
+a higher level of trust. In significant objects of the 2nd category of significance
+apply
+certified
+funds
+protection
+information,
+corresponding to a 5 or higher level of trust. In significant objects
+3 categories of significance, certified means of protection are used
+information corresponding to 6 or higher confidence level.
+Protection classes and assurance levels are determined in accordance with
+regulatory legal acts of the FSTEC of Russia, issued in accordance with
+with subparagraph 13.1 of paragraph 8 of the Regulation on the Federal Service for Technical
+and export control, approved by the Decree of the President of the Russian
+Federation of August 16, 2004 No. 1085.
+When using information protection means in a significant object,
+certified for information security requirements specified
+funds must be certified for compliance with the mandatory
+information security requirements established by regulatory
+legal acts, or the requirements specified in the technical conditions
+(security assignments).
+
+Page 25
+
+25
+
+The security functions of information security tools should
+ensure compliance with these Requirements.
+29.1. When designing newly created or modernized
+significant objects of the 1st category of significance as boundary
+routers with access to information and telecommunications
+the Internet, routers certified for
+compliance with information security requirements (in part
+the safety functions implemented in them).
+In the absence of technical feasibility of application in significant
+objects
+one categories
+significance
+borderline
+routers,
+certified for compliance with safety requirements
+information, the security functions of the border routers are subject to
+assessment of compliance with safety requirements as part of acceptance or
+tests of significant objects.
+The justification for the lack of technical capability is given in
+design documentation for significant objects (security subsystems
+significant objects), developed in accordance with the terms of reference
+for the creation of significant objects and (or) terms of reference (private
+terms of reference) for the creation of a security subsystem of significant
+objects.
+29.2. Information protection means, the conformity assessment of which
+carried out in the form of tests or acceptance, must comply
+requirements for safety functions established in accordance with
+with subparagraph "g" of paragraph 10 of these Requirements.
+Not embedded in system-wide and application software
+information security means, the conformity assessment of which is carried out in
+form of testing or acceptance, in addition to the specified requirements
+must meet confidence level 6 or higher.
+Testing (acceptance) of information security means for compliance
+assurance requirements and security function requirements
+are carried out at the stage of preliminary tests in accordance with paragraph
+12.4 of these Requirements.
+Tests (acceptance) are carried out separately or as part of a significant
+object. The program and test methods (acceptance) are approved by the subject
+critical information infrastructure in case of independent
+testing. In the case of testing by another person,
+the program and test methods (acceptance) are approved by this person according to
+agreement with the subject of the critical information infrastructure.
+
+Page 26
+
+26
+
+Based on the test results (acceptance) of information security
+a test report is drawn up, which indicates:
+date and place of testing (acceptance);
+description of the tested information security means;
+a description of the tests performed;
+test results for each test parameter
+(characteristic);
+conclusions about the conformity (non-conformity) of the information protection means
+information security requirements.
+Protocol
+trials
+approved
+subject
+critical
+information infrastructure in case of independent
+tests. Otherwise, the test report is approved by the person
+tested, and appears to the subject to be critical
+information infrastructure at the stage of acceptance tests for
+making a decision on the possibility of using information security tools in
+significant object.
+The tests (acceptance) provided for by this paragraph are carried out
+in relation to information security tools planned for implementation within the framework of
+creation (modernization or reconstruction, repair) of significant objects.
+29.3. Application software planned for implementation in
+the creation (modernization or reconstruction, repair) of a significant
+object and ensuring the performance of its functions as intended (hereinafter software) must meet the following requirements
+for safety:
+29.3.1. Requirements for secure software development:
+Availability of guidelines for safe software development
+provision;
+analysis of threats to the security of software information
+provision;
+the presence of a description of the software structure at the level
+subsystems and software functions mapping results
+and the interfaces described in the functional specification, with its
+subsystems (for software planned for use in
+significant objects of the 1st category of significance).
+29.3.2. Test requirements for identifying vulnerabilities in
+software:
+
+Page 27
+
+27
+
+static analysis of the source code of the program;
+conducting fuzzing testing of the program aimed at
+identification of vulnerabilities in it;
+dynamic analysis of the program code (for software
+support planned for use in significant facilities of the 1st category
+significance).
+29.3.3. Software security support requirements:
+the existence of procedures for tracking and correcting detected errors and
+software vulnerabilities;
+definition
+ways
+and timing
+bringing
+developer
+(manufacturer) of the software to its users of information
+about software vulnerabilities, about compensating measures for
+protection of information or restrictions on the use of software
+software, ways of obtaining software by users
+its updates, checking their integrity and authenticity;
+Availability procedures
+informing
+subject
+critical
+information infrastructure about the end of production and (or)
+software support (for software
+planned for use in significant objects of the 1st category of significance).
+29.4. Compliance with the safety requirements specified in subparagraphs
+29.3.1-29.3.3 of clause 29.3 of these Requirements, is assessed by a person
+performing work on the creation (modernization, reconstruction or
+repair) of a significant object and (or) ensuring its safety, at the stage
+designing a significant object based on the results of material analysis and
+documents submitted by the developer (manufacturer) of the software
+provision in accordance with the terms of reference (private technical
+task), developed in accordance with paragraph 10 of these
+Requirements.
+The results of the assessment are included in the project documentation for a significant
+object (significant object security subsystem) and are represented
+to the subject of critical information infrastructure.
+30. The software and software used in the significant object
+hardware, including information security, must
+be operated in accordance with the instructions (rules) for
+operation developed by the developers (manufacturers) of these
+funds, and other operational documentation.
+
+Page 28
+
+28
+
+31. The software and software used in the significant object
+hardware, including information security, must be
+provided with warranty and (or) technical support.
+When choosing software and firmware, including
+means of protecting information, it is necessary to take into account the presence of restrictions on
+the possibility of their use by the subject of critical information
+infrastructure at any of its significant objects
+critical information infrastructure by developers
+(manufacturers) or other persons.
+The following are not allowed in a significant object:
+availability of remote access to software and hardware-software
+means, including information protection means, to update or
+management by persons who are not employees of the subject of critical
+information infrastructure, as well as employees of its subsidiaries and
+dependent companies;
+availability of local uncontrolled access to software and
+software and hardware, including protection
+information for updating or management by persons other than
+employees of the subject of critical information infrastructure, his
+subsidiaries and affiliates;
+transfer of information, including technological information,
+developer (manufacturer) of software and hardware-software
+means, including means of protecting information, or other persons without
+control by the subject of the critical information infrastructure.
+If it is technically impossible to exclude remote access to
+software and software and hardware, including tools
+information protection, organizational and
+technical measures to ensure the security of such access,
+providing:
+identification of persons and devices that are allowed remote access to
+software and hardware-software facilities of a significant object,
+giving them minimal authority to access these funds;
+access control to software and firmware
+significant object;
+protection of information and data during their transmission through communication channels when
+remote access to software and firmware
+significant object;
+monitoring and registration of actions of persons who are allowed to remote
+access to software and firmware of significant
+the object, as well as the processes initiated by them, the analysis of these actions in order to
+revealing the facts of illegal actions;
+
+Page 29
+
+29
+
+ensuring the impossibility of refusal of persons from the performed actions when
+implementation of remote access to software and firmware
+means of a significant object.
+IN
+significant
+object
+may
+accepted
+additional
+organizational and technical security measures
+remote access to software and firmware, including
+number of information security tools aimed at blocking
+(neutralization) of information security threats given in the threat model
+security of information developed in accordance with clause
+11.1 of these Requirements.
+Included in a significant object of 1 and 2 categories of significance
+software and software and hardware that store and
+processing of information must be located on the territory of the Russian
+Federation (except for cases when the placement of the said funds
+carried out in foreign separate subdivisions of the subject
+critical
+information
+infrastructure
+(branches,
+representations), as well as cases established by law
+Of the Russian Federation and (or) international treaties of the Russian
+Federation).
+
+Page 30
+
+thirty
+application
+to the Requirements for
+security of significant objects
+critical information
+infrastructure of the Russian Federation,
+approved by the order of the FSTEC of Russia
+dated December 25, 2017 No. 239
+
+Composition of security measures for a significant object
+relevant category of significance
+Identified
+reading and
+number
+measures
+
+Security measures of a significant object
+
+Category
+significance
+3
+
+2
+
+one
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+I. Identification and Authentication (IAF)
+IAF.0
+IAF.1
+IAF.2
+
+Regulation of rules and procedures
+identification and authentication
+User identification and authentication and
+the processes they initiate
+Identification and authentication of devices
+
+IAF.3
+
+Identifier management
+
++
+
++
+
++
+
+IAF.4
+
+Authentication Management
+
++
+
++
+
++
+
+IAF.5
+
+Identification and authentication of external users
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+IAF.6
+IAF.7
+
+Two-way authentication
+Protecting authentication information in transit
+II. Access control (ATC)
+
+UPD.0
+UPD.1
+UPD.2
+UPD.3
+
+Regulation of rules and procedures for access control
+User account management
+Implementing the Access Control Model
+Trusted download
+
+UPD.4
+
+Separation of powers (roles) of users
+
++
+
++
+
++
+
+UPD.5
+
+Assigning minimum required rights and privileges
+
++
+
++
+
++
+
++
+
++
+
++
+
+UPD.6
+
+Restricting unsuccessful attempts to access information
+(automated) system
+
+Page 31
+
+31
+UPD.7
+UPD.8
+UPD.9
+UPD.10
+UPD.11
+UPD.12
+UPD.13
+UPD.14
+
+Alerting the user when accessing
+information resources
+Alerting the user upon successful login about the previous
+access to the information (automated) system
+Limiting the number of concurrent access sessions
+Blocking a user's session when inactive
+Managing user actions prior to identification and
+authentication
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Managing security attributes
+Implementing secure remote access
+Access control from external information
+(automated) systems
+III. Restriction of the software environment (OPS)
+
+OPS.0
+OPS.1
+OPS.2
+OPS.3
+
+Regulation of rules and procedures
+limitations of the software environment
+Controlling the launch (calls) of components
+software
+Management of installation (installation) of components
+software
+
++
++
+
++
+
+Temporary file management
+
+IV. Protection of machine data carriers (ZNI)
+ZNI.0
+
+Regulation of rules and procedures
+protection of machine storage media
+
++
+
++
+
++
+
+ZNI.1
+
+Accounting for machine data carriers
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+ZNI.2
+ZNI.3
+ZNI.4
+ZNI.5
+ZNI.6
+ZNI.7
+ZNI.8
+
+Physical access control to machine media
+information
+Control of the movement of machine storage media for
+controlled area limits
+Eliminate the possibility of unauthorized reading
+information on machine storage media
+Monitoring the use of input (output) interfaces
+information on removable machine storage media
+Control of input (output) of information to removable machine
+information carriers
+Controlling the connection of removable media
+information
+Destruction (erasure) of information on machine media
+information
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+V. Security Audit (SAA)
+
+Page 32
+
+32
+
+AUD.0
+AUD.1
+AUD.2
+AUD.3
+
+Regulation of rules and procedures for security audit
+Inventory of information resources
+Analysis of vulnerabilities and their elimination
+Generation of time stamps and / or synchronization
+system time
+
+AUD.4
+
+Security Event Logging
+
+AUD.5
+
+Monitoring and analysis of network traffic
+
+AUD.6
+AUD.7
+AUD.8
+AUD.9
+AUD.10
+AUD.11
+
+Protection of information about security events
+Security monitoring
+Failure Response to Security Event Logging
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Analysis of the actions of individual users
+Internal audits
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Conducting external audits
+Vi. Antivirus protection (AVZ)
+
+AVZ.0
+AVZ.1
+AVZ.2
+AVZ.3
+AVZ.4
+AVZ.5
+
+Regulation of anti-virus protection rules and procedures
+Implementation of anti-virus protection
+Anti-virus protection of e-mail and other services
+Control over the use of archived, executable and
+encrypted files
+Updating the database of signs of malware
+computer programs (viruses)
+The use of anti-virus protection tools of various
+producers
+
++
++
+
++
+
++
++
+
+Vii. Intrusion (Computer Attack) Prevention (IDS)
+COB.0
+
+Regulation of rules and procedures
+intrusion prevention (computer attacks)
+
++
+
++
+
+OWL.1
+
+Detection and prevention of computer attacks
+
++
+
++
+
+COB.2
+
+Decision rule base update
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+VIII. Integrity Assurance (OCL)
+OTSL.0
+
+Regulation of rules and procedures for ensuring integrity
+
+Page 33
+
+33
+OTSL.1
+OTsL.2
+OTSL.3
+OTsL.4
+OTSL.5
+OTSL.6
+
+Software Integrity Control
+Information integrity control
+Restrictions on entering information into information
+(automated) system
+Control of data entered into the information
+(automated) system
+Control of erroneous actions of users on input and (or)
+transfer of information and warning users about
+erroneous actions
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Anonymization and (or) de-identification of information
+IX. Accessibility Assurance (CCT)
+
+ODT.0
+ODT.1
+ODT.2
+ODT.3
+ODT.4
+ODT.5
+ODT.6
+
+Regulation of rules and procedures for ensuring accessibility
+
++
+
+Use of fault-tolerant technical means
+Funds and systems reservation
+Monitoring the trouble-free operation of tools and systems
+Backing up information
+Ensuring the ability to recover information
+Enabling software recovery
+support in emergency situations
+
+ODT.7 Clustering of an information (automated) system
+ODT.8
+
+Control of the provided computing
+resources and communication channels
+X. Protection of technical means and systems (ZTS)
+
+ЗТС.0
+ЗТС.1
+
+Regulation of rules and procedures
+protection of technical means and systems
+Protection of information from leakage through technical channels
+
+ЗТС.2
+
+Organization of the controlled area
+
++
+
++
+
++
+
+ЗТС.3
+
+Physical access control
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Protection of information during its transmission through communication channels
++
++
+
++
+
+ЗТС.4
+ЗТС.5
+ZTS.6
+
+Placement of information output (display) devices,
+precluding unauthorized viewing
+Protection against external influences
+The labeling of the hardware components of the system is relative
+information permitted for processing
+
+XI. Protection of an information (automated) system and its components (VMS)
+
+Page 34
+
+34
+ZIS.0
+
+ZIS. 1
+ZIS. 2
+ZIS. 3
+ZIS. 4
+ZIS.5
+ZIS.6
+ZIS.7
+ZIS. 8
+ZIS.9
+ZIS. 10
+
+ZIS.11
+ZIS. 12
+ZIS.13
+ZIS.14
+ZIS.15
+ZIS.16
+ZIS.17
+ZIS. 18
+ZIS.19
+ZIS.20
+
+Regulation of the rules and procedures for the protection of information
+(automated) system and its components
+Separation of management (administration) functions
+information (automated) system with other
+functions
+Information (automated) perimeter protection
+systems
+Layered information protection
+(automated) system
+Segmentation of information (automated)
+systems
+Organization of a demilitarized zone
+Network flow control
+Using the operating environment emulator
+software ("sandbox")
+Hiding the architecture and configuration of information
+(automated) system
+Creating a heterogeneous environment
+Using software that functions
+in environments of various operating systems
+Preventing execution delays or interruptions
+processes with high priority from the side of processes with
+low priority
+Isolation of processes (execution of programs) in a dedicated
+memory areas
+Protecting immutable data
+Using non-rewritable machine media
+information
+Implementation of electronic mail exchange with external networks
+through a limited number of controlled points
+Spam protection
+Protection of information from leaks
+Blocking access to sites or types of sites that are prohibited from
+using
+
+Providing a trusted channel, route
+
+ZIS.21
+
+Prevent unauthorized remote activation
+peripheral devices
+
+ZIS.22
+
+Managing security attributes when interacting with
+other information (automated) systems
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Page 35
+
+35
+ZIS.23
+ZIS.24
+ZIS. 25
+ZIS.26
+ZIS. 27
+
+Control of the use of mobile code
+Control of the transmission of speech information
+Video transmission control
+Confirmation of the origin of the source of information
+Ensuring the authenticity of network connections
+
+ZIS. 28
+
+Exclusion of the possibility of denial of sending information
+
+ZIS. 29
+
+Eliminating the possibility of denial of receiving information
+
+ZIS.30
+ZIS.31
+
+Using Terminal Access Devices
+Protection from hidden channels of information transmission
+
+ZIS.32
+
+Securing wireless connections
+
+ZIS.33
+
+Exclude access through shared resources
+
+ZIS. 34
+ZIS. 35
+ZIS.36
+ZIS. 37
+ZIS. 38
+ZIS 39
+
+Protection against threats of denial of service (DOS, DDOS attacks)
+Network connection management
+
++
+
++
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Creation (emulation) of false information components
+(automated) systems
+Transfer of an information (automated) system to
+safe state in the event of failures (failures)
+Protecting information when using mobile devices
+Managing the movement of virtual machines (containers) and
+data processed on them
+XII. Computer Incident Response (ITC)
+
+INC. 0
+
+Regulation of rules and procedures
+computer incident response
+
++
+
++
+
++
+
+INC. 1
+
+Identification of computer incidents
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+INC.2
+INC. 3
+INC. 4
+
+Reporting computer incidents
+Analysis of computer incidents
+Elimination of the consequences of computer incidents
+
+INC.5
+
+Taking measures to prevent recurrence
+computer incidents
+
++
+
++
+
++
+
+INC.6
+
+Storage and protection of information about computer incidents
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+XIII. Configuration Management (CMF)
+UKF.0
+
+Regulation of rules and procedures of configuration management
+information (automated) system
+
+Page 36
+
+36
+UKF.1
+UKF.2
+UKF.3
+UKF.4
+
+Identifying Configuration Management Objects
+Change management
+Installation (installation) only authorized for use
+software
+Control of actions for making changes
+XIV. Software Update Management (SW)
+
+OPO.0
+OPO.1
+OPO.2
+OPO.3
+OPO.4
+
+Regulation of rules and procedures
+software update management
+Search, get software updates from
+trusted source
+Controlling the integrity of software updates
+Testing software updates
+Installing software updates
+XV. Safety Action Planning (SIP)
+
+PLN.0
+
+Regulation of rules and procedures for planning events
+to ensure information security
+
++
+
++
+
++
+
+PLN.1
+
+Development, approval and updating of an action plan for
+information security
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+PLN.2
+
+Monitoring the implementation of measures to ensure protection
+information
+
+XVI. Provision of actions in emergency situations (CSN)
+DNS.0
+DNS.1
+CSN.2
+
+Regulation of rules and procedures for security
+actions in emergency situations
+Developing a contingency plan
+Training and practicing the actions of personnel in non-standard
+situations
+
+DNS.3
+
+Creation of alternative storage and processing locations
+information in case of emergency
+
++
+
++
+
+DNS.4
+
+Reservation of software, technical
+means, communication channels in case of emergency
+situations
+
++
+
++
+
++
+
++
+
+Page 37
+
+37
+
+DNS.5
+
+Providing the possibility of recovering information
+(automated) system in the event of
+emergency situations
+
+DNS.5
+
+Analysis of emergencies and taking measures to
+prevent their recurrence
+
++
+
+XVII. Information and training of personnel (IPO)
+IPO.0
+IPO.1
+
+IPO.2
+
+IPO.3
+
+IPO.4
+
+Regulation of rules and procedures
+information and training of personnel
+Informing staff about security threats
+information and safety rules
+Personnel training in safe work rules
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
++
+
+Conducting practical training with staff according to the rules
+safe work
+Control of personnel awareness of security threats
+information and safety rules
+
+"+" - a security measure is included in the basic set of measures for
+the corresponding category of the significant object.
+Safety measures not marked with a "+"
+are used to adapt and supplement the basic set of measures, as well as
+the development of compensatory measures in a significant object of critical
+information infrastructure of the corresponding category of significance.
+
++
+
+

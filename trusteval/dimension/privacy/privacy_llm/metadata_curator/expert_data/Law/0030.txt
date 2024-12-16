@@ -1,0 +1,499 @@
+Page 1
+
+Workplace Privacy
+The Employment Contracts Act obliges the employee to act in accordance with the orders and instructions
+given to him by the employer with a view to executing the employment contract. This is a
+sufficient basis to justify interventions and restrictions arising from the normal exercise
+of the employer's authority. But the employer must not abuse his power to the detriment of the right to
+employee privacy.
+
+Since May 25, 2018, the General Data Protection Regulation (GDPR) supplements the existing
+provisions governing the employment relationship. The GDPR defines more strictly the obligations of the
+employer.
+However, labor relations between employee and employer are a specific domain
+for the protection of personal data. There are two conflicting principles:
+on the one hand, the employer's authority over his employee and the resulting
+subordination. An employer can therefore give instructions to its employees and their employees
+check performance;
+on the other hand, the right to privacy of the employees, making it difficult for the employer to
+is prohibited from exercising his authority over the personal aspects and activities of
+its employees.
+Although the purpose of the GDPR is to regulate the rules on the protection of personal data within the
+European Union, it provides for an exception in the field of the
+labor relations, precisely because of the characteristic relationship between employer and employee. It is
+to draw up specific rules for the processing of personal data ofpersoonsgegevens
+workers, both at sector and company level, e.g. through collective agreements.
+
+Employee data
+The employee retains (part of) his privacy in the workplace. However, this does not mean that the employer does not
+should be allowed to process personal data of his employees or that he is not allowed to exercise (electronic) supervision
+on the same employee. The fact that someone concludes an employment contract implies that this person as persoon
+employee agrees to a number of restrictions on the exercise of his fundamental right to privacy.
+
+Page 2
+
+Some of the common processing operations of employee personal datapersoonsgegevens
+can be consulted below.
+
+Supervision of the Employer
+Supervision in the workplace is increasingly done electronically. Since email,
+internet and other ICT applications (such as geolocation and camera surveillance) find their way
+have found to the workplace, both employers and employees increasingly
+questions about this "modern" form of authority.
+
+Rightly so, in contrast to the past (where the exercise of authority is more visual and face to face
+happened) the control tools available to an employer today provide technical
+possibilities that can be particularly intrusive and thus endanger
+the privacy of the audited employee.
+That is precisely why the Authority provides additional
+pays attention.
+
+Sensitive data
+In principle, the General Data Protection Regulation (GDPR) prohibits the processing of
+sensitive data in the workplace. Nevertheless, in a number of cases the employer can still
+request and use this data.
+
+Social Networking in the Workplace
+In today's society we communicate more and more via social networks
+(Facebook, Twitter, Netlog, LinkedIn, ...). Companies do that too. They make massive
+use of social networks for business purposes. That's why employees also have
+increasingly have access to social networks within the company to perform their tasks.
+
+That the boundary between professional activities and private sphere is therefore not always clear in that context
+is, should not be surprising.
+
+Page 3
+
+What's really going on? Can an employer check whether an employee is on
+social networks is active? Can an employee take it out on his Facebook page?
+employer? Can an employee be fired for compromising his business?
+company has posted on a social network? Can an employer check on Facebook whether a
+employee was really sick on a particular day? Can an employer secretly
+Read an employee's Facebook page, even if the employee is only on it in his spare time
+is active?
+Unfortunately, the answer is not always simple or unambiguous. It often depends on a
+combination of circumstances where the difficulty lies in the ability to make a clear
+draw the line between private and professional life on the one hand and the interests of the employer and
+that of the employee while respecting privacy on the other. It's not unusual
+that such disputes eventually come to court.
+There is currently no specific legislation on the use of social networks on the
+workplace.
+It is certain that:
+the right to privacy is a fundamental right that applies to everyone and everyone has
+right to the protection of his personal data. In Belgium, the right to
+protection of personal data required by the GDPR;
+the employer determines whether and for what purposes he grants his employees access
+to social networks; he may decide that social networking in the workplace is for
+may be used for private purposes and at what times of the day this is permitted;
+the employer has a right of control that is not unlimited, but he can
+check whether the employee complies with his regulations;
+the employer must control the use of social networks in the workplace through
+report the work regulations. It must therefore be clear to the employee when and
+why the employer carries out an inspection;
+the distinction between a private message and a professional message on a social
+network is not always clear. Sometimes the court has to decide on this;
+the employer may not prohibit the use of social networks outside working hours;
+he is also not allowed to monitor the employee's activities on social networks during his free time
+checking time and holidays;
+the employee may not post defamatory comments on a social network about his
+employer, nor disclose important or sensitive professional information, including
+outside working hours. This can lead to immediate dismissal. Here exists
+case law on.
+
+Page 4
+
+In any case, employees must be aware that the employer hears and sees what
+is happening around them. It is therefore important not to share information thoughtlessly on a
+social network.
+
+The eID in the workplace
+Every Belgian has an (electronic) identity card. In the past, the identity card was only
+used for administrative obligations towards the municipality and the police, but with the
+electronic identity card (the eID) it is also possible to sign official documents
+and perform checks.
+
+The eID is an electronic proof of identity that can be used for identification and
+authentication purposes. The card contains sensitive data that is stored on the card
+printed as on the chip are stored in an electronic file. The data includes
+including the name, first names, nationality, date and place of birth, gender, photo and
+National Insurance number. Meanwhile, the identity card also contains the digital fingerprints of
+the cardholder. The GBA has spoken out several times on this subject.
+Our identity card contains personal data that must be protected.
+
+Request to submit eID
+An employer can request the eID of a (candidate) employee if he has a good reason for doing so
+has for. This will happen during the recruitment process, for example:
+when the employer invites candidate employees based on the results of
+an admission test. In this case, the employer may ask the candidate employee
+prove his identity so that there can be no doubt about the results he has
+achieved.
+the situation in which the employer must check whether the employee has certain
+qualifications or work permits. He must then identify the
+know the candidate employee and be able to compare it with the identity on the
+relevant qualifications or work permits.
+Employment agencies can also request the eID from job seekers. Just like any other employer
+After concluding an employment contract, an employment agency must comply with all kinds of
+social security obligations. In the case of agency work, there is often very little time between
+the selection of a candidate for a temporary job and his employment. The agency
+can therefore request and read the eID (including the national register number) of the temporary worker
+as soon as it is registered, with a view to taking up employment.
+
+Page 5
+
+Logging in and signing documents via the eID
+The eID is designed to reliably authenticate citizens and send documents in digital form
+sign.
+
+It is therefore understandable that employers want to use this option. The chip in the
+eID has two separate keys with which the holder of the card:
+can prove his identity to third parties (authentication key);
+can prove his identity and sign the contents of a document (key
+for digital signatures).
+To be able to use both certificates, the eID holder must enter his PIN code.
+Note that each key comes with a certificate. This certificate is a file containing
+including the name, first names and national register number of the person concerned, together with
+some technical data related to the key.
+The employer can use the eID to give employees access to the
+company computer systems. However, the employer must have a good reason to
+eID as an identification key for the company's IT systems. In addition
+he must always inform the employee in advance about the use of the eID by the employer.
+The instruction to sign documents using the eID can only be given
+for documents that fall within the scope of the duties of the employee concerned and only
+if a simple signature is not enough.
+Since the employer is the controller for the personal data that is
+processed when an electronic signature is applied using the eID,
+he must take appropriate technical and organizational measures to protect the personal data
+protect its employees who use their eID to process professional documents
+sign. In concrete terms, this means that the employer must deploy sufficient resources to
+protect computer systems from malicious software (malware) intended to
+trick people into signing documents without their knowledge or whose
+content is not what they think.
+
+The regulation of warning systems in accordance with
+the privacy rules
+
+Page 6
+
+A warning system refers to the set of internal procedures by which the existence of
+of a specific abuse within the company or the government can be reported (who can do what
+report, to whom should it be reported, how should it be reported, ...). This procedure
+then trigger an investigation.
+
+It is evident that receiving, managing, analysing, studying and processing such
+notifications can and will result in the processing of personal data within the meaning of the GDPR.
+The arrangements of the professional internal warning systems must therefore be
+comply with the GDPR.
+For example, a report of inappropriate behavior by a colleague will lead to the processing by the
+employer of personal data of both the whistleblower and the accused person.
+At the moment there is still no European legislation that officially identifies whistleblowers
+protects. The European Parliament has adopted a directive on the protection of
+persons reporting breaches of Union law, but it is not yet in force
+stepped. It would be converted by December 17, 2021 at the latest. In Belgium there is a
+protection, but only for employees in the federal public sector, thanks to the law of 15
+September 2003 regarding the report of an alleged breach of integrity in the
+federal administrative authorities by its staff. The scope is therefore limited.
+In the absence of specific legal provisions, the freedom of expression of the
+employee in balance with the duty of loyalty to the employer.
+
+Necessity and proportionality
+This legal vacuum makes it all the more important that the rules governing the establishment of
+warning procedures are discussed, otherwise they cannot be supported
+inside the organisation.
+The introduction of such a system implies a balance in which the legitimate
+interests of all parties (the organization, the whistleblower and the accused person) with
+be reconciled.
+Firstly, it is essential that the employer has a set of preventive
+take measures to prevent inappropriate behavior from employees.
+The employer must therefore check whether the existing forms of supervision, such as the use of
+cameras, random checks, audits, etc. do not already provide sufficient insight into
+the non-compliant behavior of employees.
+
+Page 7
+
+The question then arises whether relying on employees to respect the professional ethics of other
+employees is necessary and, if so, whether it is proportionate.
+In this case, the employee is officially requested to participate in the logic of the
+employer over employee control. The employee may be asked to sign
+detect and report a lack of integrity in his own colleagues. For example, think of
+cash shortfalls, office supplies disappearing, excessive hours worked,
+false expense reports, etc.
+Each employee thus potentially becomes a controller and/or is potentially controlled by
+other colleagues. Of course, this way of working does not create an atmosphere of mutual trust
+in the hand, neither between the employees themselves, nor between the employees and the employer.
+In addition, the counterproductive consequences of the
+proposed measures for the quality of labor relations and of the
+work yourself.
+
+Recruitment of candidates
+The Employment Contract Act of 3 July 1978 is applicable from the conclusion of the
+agreement. However, prior to the conclusion of the agreement, the parties agree
+obliged to comply with obligations under other regulations. In addition, the parties are obliged
+adhere to a set of rules during the recruitment and selection process and
+rules of conduct laid down in a collective labor agreement.
+
+In his search for the right person for the right job, the employer tries to
+gather with the candidate to decide whether the man or woman will be recruited or
+turned down. The (well-intentioned) ambition of the employer as much information as possible about the
+however, collecting candidates may constitute an invasion of privacy.
+
+Therefore, the employer may not collect more personal data about the candidate than necessary dan
+is to achieve its goal. The questions may only relate to the nature and
+conditions of the position for which the candidate is applying. Only the personal data that
+are strictly necessary for the selection of the candidates may be collected and
+registered.
+
+Page 8
+
+For example, an employer can never ask for a chronological overview of the private addresses of
+a candidate, because this information is of no use. Only the current private address is relevant.
+
+Question about sensitive applicant data
+The GDPR basically prohibits the processing of sensitive data.
+This concerns the following categories of data relating to:
+race;
+political beliefs;
+religious or philosophical beliefs;
+union membership;
+sexual orientation.
+This prohibition is justified given the highly sensitive nature of this data and the
+possible harm that an uncontrolled use of this data can cause to the candidate
+inflict. There are, however, exceptions to this basic prohibition. The processing of
+such sensitive data can be used in the context of the employment relationship and by way of
+exception may be possible when this is necessary for the employer to
+rights and obligations in the field of labor law.
+
+ETHNIC REGISTRATION OF CANDIDATES
+In the light of the necessity criterion, the employer may in its personnel policy
+take into account the ethnic data of the applicants to ensure that enough people from
+to recruit from diverse origins, so that everyone has equal opportunities on the labor market.
+However, such ethnic personal data may not subsequently be used for any
+other purpose than the purpose described in the legislation that allows the employer ethnic
+to process personal data. In addition, the employer must inform the candidate
+bringing the law on which he relies when he asks about his ethnic origin,
+as sensitive personal data is collected.
+If the employer does not invoke the legislation, he may only use ethnic data
+if the candidate expressly agrees to this. In that case, the employer must inform the candidate
+inform in advance about the reasons why he or she wishes to know the ethnic origin and who
+will be notified later.
+
+QUESTIONS RELATING TO POLITICAL VIEWS AND
+RELIGIOUS OR IDEAL BELIEFS OF THE
+CANDIDATES
+
+Page 9
+
+Questions related to a political opinion or religious belief are and will remain a
+processing of sensitive data and are therefore prohibited in principle.
+However, there is an exception. The prohibition does not apply if the processing takes place in
+in the context of a recruitment procedure carried out by an association that is active
+in politics, a trade union or health insurance or if it is a religious or
+ideological institution. In that case, the political opinion or the religious
+belief is actually linked to the nature and circumstances of the position. It is
+e.g. it is not illogical to ask a candidate teacher of Catholic religion at a Catholic school
+whether he adheres to the Catholic faith.
+
+QUESTIONS ABOUT TRADE UNION MEMBERSHIP IN THE
+FRAMEWORK OF A CANDIDATES
+Membership of an association active in the field of politics, philosophy,
+religion, health insurance or trade union (and the candidate's role in it) is also a
+sensitive data. It is in principle prohibited to request and process such data,
+even if the employer wants to be able to assess a candidate's social commitment. This is
+a disproportionate invasion of the candidate's privacy. If the employer has a leading
+organization (e.g. political party, trade union, health insurance, etc.), the request is),
+to make this data and any processing thereof defensible. Such organizations –
+driven by a clear trade union, political or religious vision – can their members
+require them to be true to their principles. They can at least ask or try to
+find out if the candidate subscribes to their trade union, political or religious principles.
+
+Questions about the health and medical information of the
+applicant
+It is not allowed to question a candidate about his state of health, unless before
+specific job characteristics as well as information about the candidate's health status
+necessary to assess the suitability of the candidate.
+This may be the case if a medical condition affects the safety of the employee, co-workers or
+endanger third parties (eg an airline pilot is best not visually impaired).
+For certain positions, such as a police officer, the selection procedure includes a
+health evaluation. However, this health evaluation only takes place at the end of the
+selection procedure and cannot be used to make a choice. It is obvious that
+here, too, only health data related to
+with the performance of the specific function.
+
+Page 10
+
+If an employer wants to have a medical examination performed, the GDPR applies.
+After all, conducting a medical examination is a way of obtaining information about the
+candidate and thus constitutes processing of personal data.
+In this situation, the intention is health-related data and their possible influence
+to assess work performance. Because the processing of data related to the
+health is in principle prohibited, an employer may only ask a candidate for a medical
+to undergo an examination if he can make use of one of the exceptions provided in the
+framework law.
+One of these exceptions is the candidate's written consent. Another
+exception is the necessity of the processing to comply with the specific rights and
+employer's obligations in terms of employment law.Ask a candidate if she is pregnant
+or asking about her wish to have children is prohibited because the employer provides this information with most
+vacancies to make a selection. Such questions may exceptionally
+are permitted if the position to be filled poses a danger to the unborn child.
+
+Questions about the applicant's legal history
+According to the GDPR, such questions are in principle prohibited.
+However, if it is a profession for which the law requires the holder to have a clean criminal record
+has or may not have been convicted of certain matters, these questions can nevertheless be
+put. In that case, they are necessary for the correct application of this law. We
+think, for example, of a police officer or the staff of a security company.
+In that case, the employer, as soon as he knows that the candidate meets the requirements
+integrity requirements for the vacant position (because it is an extract from the criminal record
+handed over), decide whether or not to proceed with the recruitment. However, he has none
+interest in storing this personal data afterwards. The processing (e.g. storage) of
+such data is only possible in a number of cases mentioned in Article 10.
+The consent of the candidate in any case does not constitute a legal basis for the processing of
+such personal data.
+
+Collection of candidate data at previous bij
+employers and customers: research of references
+Personal data must in principle be obtained from the candidate himself.
+However, if the employer wishes to obtain information from third parties, if
+controller, he will need to obtain the consent of the candidates to:
+
+Page 11
+
+collect their data,
+process this data for recruitment purposes (authorization for processors who
+acting on behalf of the employer).
+In addition, the employer must always inform the candidates when he
+requests information about him from third parties (i.e. even if the candidate has his permission
+given).
+According to the GDPR, this consent must be free. This is not the case if the selection procedure
+is discontinued or if the candidate refuses a reference check. This is a legal
+'obligation to consent'.
+The candidate gives his consent by signing a declaration of which he
+clearly understand its scope and which contains at least the following statements:
+his identity and the identity of the organizations or persons the employer wants
+consult;
+the nature of the requested data;
+the reasons for collecting the data;
+the period in which the permission will be used.
+If a reference person is mentioned in the CV, this can count as permission from the
+candidate.
+In any case, the employer may not use the information that the candidate has passed on to him
+systematically check with third parties. If a CV shows obvious gaps, the employer must
+first ask the candidate about these clear 'gaps' in his training and career path.
+Only then, if the candidate's explanation of the subject was not sufficient, can the potential
+employer consider collecting data from other individuals or organizations, on
+provided that the candidate has been informed thereof in advance and that his
+has given permission.
+
+Automated personality or psychotechnical tests must always have a procedure
+to allow the candidate to express his opinion on the results obtained.
+After all, the GDPR prohibits taking a decision with legal consequences with regard to the
+candidate or a decision with a significant impact on him, e.g. the decision to employ him
+solely on the basis of automated data processing.
+
+Selection agencies
+
+Page 12
+
+The selection agency determines the suitability of the candidates at the request of an employer
+for a particular position through interviews and psychological tests. In that connection
+It goes without saying that a selection agency processes personal data of applicants. It
+selection agency must therefore comply with the AVG without the specific legislation regarding
+to lose sight of the selection agencies.
+
+COLLECTION OF PERSONAL DATA OF CANDIDATES
+Compliance with the GDPR means in particular that if the selection agency submits a file from a
+candidate, this file may not contain more information than is necessary for the vacancy
+function. Consequently, the same questionnaire cannot be used for every vacancy, because for omdat
+one function requires certain data and the other function requires others. In addition, it can
+selection agency only ask the candidate for personal data if this is necessary for the
+work situation.
+Questions aimed at finding out the successive whereabouts of a candidate are
+non relevant. Ask what kind of home he lives in or whether he is a tenant or a landlord
+seem more a matter of curiosity than of necessity.
+In addition, a selection agency may not ask questions that discriminate against the candidate
+can lead. The selection agency may not discriminate on the basis of age, sexual
+orientation, religious or philosophical belief or disability, solely on the basis of
+essential and defining professional requirements.
+
+CONSULTATION OF THE CANDIDATE'S FILE
+In addition, the candidate has the right to receive the personal results of his interviews, tests and
+to view practical exams. General data that does not specifically concern the candidate, such as
+the proposed and elaborated general guidelines for results, validity and
+interpretation of psychological tests and the correct answers to objective tests do not fall vallen
+under the right of consultation.
+This consultation right offers the candidate the opportunity to exercise his right to rectification
+to practise.
+If a candidate invokes the right to receive a copy of the file, the
+legal doctrine accepts that this does not include general reports or test results issued by the
+selection agency have been established. The candidate can assert this right on the basis of the specific
+regulations of the selection agencies and not on the basis of the Framework Act, which only provides for a
+consultation right.
+
+CORRECTION OF THE FILE
+
+Page 13
+
+According to the GDPR, any person can obtain the correction of incorrect personal data free of charge.
+The candidate can also exercise his right to rectification in connection with the evaluation if he
+disagrees. This does not mean that he can then replace his own assessment, but he
+can indicate that he does not agree. After all, a 'poor' evaluation of the candidate
+to discredit.
+
+BYOD
+Employers are confronted with an increasing presence of smartphones and
+tablets in the workplace. This constantly presents them with new management challenges. As the
+employer makes these devices available to employees, this becomes Mobile Device
+Called management (MDM). However, the employer is increasingly receiving requests from
+employees to be able to use their own smartphone or tablet in the workplace. In this
+In this case it's called BYOD (Bring Your Own Device).
+
+Using mobile devices in a professional context
+The use of mobile devices has many advantages (if only for the report of the
+meeting on site or consult the Internet). However, it also has drawbacks.
+The use of mobile devices poses specific risks to the
+information security and privacy through their main asset, which is their portability.
+Information about the company and personal data about employees may be disseminated after a
+theft of mobile devices or through the interception of data when using gebruik
+public Wi-Fi access points. These devices can also, consciously or unconsciously, be
+used to introduce malicious software (malware) into the corporate network.
+Finally, the fact that these devices are generally close to the owner requires
+and that they are often active 24 hours a day, special attention to the
+level of protection of the user's personal data and, more specifically, for the
+geolocation of the employees.
+
+BYOD
+The use of own devices by employees, both private and professional
+use, raises the issue of employer supervision of the devices and the data
+they contain complex. Since the entry into force of the GDPR, the employer is obliged to
+
+Page 14
+
+to ensure the security of his company's personal data, even when they are
+stored at terminals over which it has no physical or legal control.
+In this case, the exercise of the balance between the defense of the legitimate interest
+of the employer to exercise control and safeguard fundamental rights and
+freedoms with regard to the protection of the privacy of the employee not always
+simple.
+
+On the one hand, the employer has the right to control the company data on the
+BYOD devices. This check is necessary to ensure the security and confidentiality of this
+company data (e.g. customer files).
+In the BYOD situation, the employer must take steps to protect the company's data
+protect (and the personal data of its customers) on the BYOD device, which the
+employee are used and processed for professional purposes.
+
+This control option for the employer means that the employee must
+not in bad faith withhold or access any data on his BYOD device
+may be withdrawn by the employer. The employer must be able to access the data and devices
+check for possible misuse, even if the data in a BYOD device is at least
+partly also of a personal nature, as the device is the property of the employee and
+is therefore by definition also intended for private use by the employee concerned and/or by
+third parties (e.g. his family members).
+
+On the other hand, the employee also has a right to privacy. Considering a BYOD device by definition
+serves both professional and personal purposes, there is also a problem in the
+level of privacy. The employer's authority is not sufficient to contain all information
+BYOD devices without more checking. Specific measures should be taken
+taken to protect the personal data by isolating it from the business
+data.
+
+

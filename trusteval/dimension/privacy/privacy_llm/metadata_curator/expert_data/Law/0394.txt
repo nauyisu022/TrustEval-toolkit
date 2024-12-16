@@ -1,0 +1,881 @@
+Page 1
+
+The General Data Protection Regulation
+Election campaigns while respecting the
+Protection of personal data
+
+Page 2
+
+Content
+
+1. Introduction ............................................... .................................................. ...................... 2
+1.1. The European and international context ............................................. ............................ 2
+1.2. The risks associated with the use of new technologies in the countryside
+election ................................................. .................................................. ...................... 3
+2. Some key concepts ............................................ .................................................. ......... 4
+2.1. A brief overview of data protection obligations ........................... 4
+2.2. Political opinions, a special category of data .................................. 7
+2.3. Source of data .............................................. ......................................... 7
+2.3.1. Lists of members and supporters ........................................... .............. 7
+2.3.2. Reuse of electoral lists ............................................. ....................... 7
+2.3.3. Restrictions on the reuse of lists obtained in other contexts ............ 8
+2.3.4. Limitations on the use of public sources ................................ 9
+2.4. Use of personal data ............................................ ........................... 9
+2.4.1. The explicit consent of the person concerned ........................................ 10
+2.4.2. The legitimate interests and data of members and supporters ............. 10
+2.4.3. The legitimate interests of data controllers and data
+manifestly made public by the person concerned ..................................... 11
+2.4.4. The existence of a legal provision pursuing an important public interest ....... 12
+3. The different communication methods ........................................... ........................ 12
+3.1. Prospecting by direct nominative messages ........................................... ..... 12
+3.1.1. Sending postal letters ............................................ ................................... 12
+3.1.2. Sending electronic messages ............................................ ........................ 13
+3.2. Online advertising targeting for electoral prospecting purposes .............................. 14
+3.2.1. Micro-targeting, revealing sensitive data ........... 14
+3.2.2. The need to carry out an impact assessment when using micro-targeting
+.................................................. .................................................. ................................ 16
+4. Conclusions ............................................... .................................................. ................... 16
+5. For more information ............................................ .................................................. ........... 17
+
+1
+
+Page 3
+
+1. Introduction
+Through these guidelines, the CNPD wishes to raise awareness among political actors
+on the risks associated in particular with the collection and processing of personal data
+voter staff for electoral purposes 1 . The CNPD also intends to issue
+recommendations and set out good practices in electoral campaigns
+digital in respect of the protection of personal data.
+The processing of personal data carried out in the context of campaigns
+elections must of course respect Parliament's Regulation (EU) 2016/679
+European Union and of the Council of 27 April 2016 on the protection of natural persons
+with regard to the processing of personal data and the free movement of such
+data, and repealing Directive 95/46 / EC (general data protection regulation,
+GDPR).
+Free and fair elections with respect for citizens' rights are essential to
+the expression of a healthy democracy. For a living democracy, the exchange of ideas and
+communication of political opinions and positions are crucial. The internet allows access
+ease of information and digital platforms allow new forms
+engagement and interaction. With the emergence of these new spaces for exchange and
+debate, electoral campaigns evolve and political communication shifts
+more in the digital space. In this perspective, to complete the vectors of
+more traditional communication, political parties and candidates use different communication channels.
+electronic communication to voters during election campaigns.
+So that these exchanges allow citizens to fully use their rights
+fundamentals such as freedom of expression, protection of their privacy and freedom of
+choice, they must take place within a legal, fair and transparent framework. These guarantees are a
+pledge so that exchanges and communications in the electoral context continue to
+be beneficial to the democratic process.
+As the Cambridge Analytica revelations and the controversies surrounding
+phenomena of disinformation and manipulation 2 , the use of these tools and
+new spaces for dialogue also entail risks, in particular through the use
+of personal data. Indeed, in the Cambridge Analytica case, the non-compliance
+of the protection of personal data has made possible manipulations of opinions which
+endangered the targeted democratic processes. Moreover, in this context, the
+phenomena of fake news and disinformation can taint the sincerity of
+debates by exposing voters to manipulation.
+
+1.1. The European and international context
+At European level, initiatives have been launched to guarantee the holding of elections
+free and fair Europeans. Since September 2018, the European Commission and the
+Member States are working towards the application of a "package of measures concerning elections
+
+For general information, see for example the practical guide for associations:
+https://cnpd.public.lu/fr/dossiers-thematiques/guide-monde-associatif.html
+2 See in this regard, European Data Protection Supervisor, Opinion n ° 3/2018 on the manipulation
+in
+line
+and
+the
+data
+at
+character
+staff,
+https://edps.europa.eu/sites/edp/files/publication/18-03-19_opinion_online_manipulation_en.pdf
+1
+
+19
+
+March
+
+2
+
+Page 4
+
+free and fair Europeans ” 3 in order to protect the democratic rights of citizens and
+their freedom of expression. This package notably includes sections relating to cyber
+security, the fight against disinformation and hate content. The package promotes
+transparency and contains concrete recommendations and measures concerning the
+Data protection. The European Data Protection Board (EDPB) has
+recently adopted a declaration on the use of personal data in
+the framework of political campaigns 4 .
+In reaction to the recent scandals, at the instigation of the European Commission, the
+online platforms and the advertising industry are committed to a code of
+good practices launched as part of the European action plan against disinformation 5 .
+Without prejudging the new initiatives and necessary rules, this code of conduct constitutes
+a step forward to strengthen transparency, fight against disinformation and against
+attempts at manipulation.
+Cambridge Analytica revelations and other developments described above
+illustrate how a potential violation of the right to personal data protection
+personal rights could affect other fundamental rights, such as freedom of expression,
+freedom of opinion and the ability to think freely without manipulation.
+
+1.2. The risks associated with using the news
+technologies in election campaigns
+With the advent of new targeting technologies, political parties have come
+also to use these tools to reach voters with very strong messages.
+personalized - especially on social media platforms - based on interests
+personal, lifestyle and values. Luxembourg electoral campaigns
+are not immune to these developments, and the various political actors, authorities and
+regulators must take them into account in order to guarantee free and fair elections.
+Use for targeting people for political prospecting, intelligence
+artificial and "Big Data" in combination with personal data makes
+opaque information. Indeed, current techniques, such as predictive tools,
+allow hypotheses to be formulated about political opinions and other categories
+particular data. To this end, these tools infer deep personality traits
+based on mood characteristics and other sensitive information from
+persons concerned. However, transparency on data processing is one of the
+guarantors of the rights and freedoms of citizens, which means in this context that people
+have the right to know why they were targeted and by whom.
+
+3
+
+See in particular the press kit on the website of the European Commission:
+http://europa.eu/rapid/press-release_IP-18-5681_en.htm. See also the opinion of the European Supervisor
+of data protection concerning this package: Opinion n ° 10/2018 on the package of measures of the
+Commission
+concerning
+of
+elections
+European
+free
+https://edps.europa.eu/sites/edp/files/publication/18-12-18_opinion_on_election_package_en.pdf
+4 EDPB, Declaration 2/2019 on the use of personal data in the context of
+political campaigns, adopted on March 13, 2019: https://edpb.europa.eu/sites/edpb/files/files/file1/edpb2019-03-13-statement-on-elections_en.pdf
+5
+See in particular the press kit on the website of the European Commission:
+http://europa.eu/rapid/press-release_IP-18-6647_en.htm .
+
+and
+
+3
+
+Page 5
+
+Likewise, advanced profiling techniques make it possible to lock up
+people targeted in digital bubbles focused on specific events.
+This goes against the freedom of choice and of thought and constitutes an obstacle to the exercise
+freedom of expression for citizens. It is therefore important to know who is the author of a
+message to be able to freely make political choices with full knowledge of the facts.
+Thus, the extension of these personal data processing techniques for purposes
+policies pose serious risks, not only to privacy rights and
+data protection, but also confidence in the integrity of the process
+democratic. In this context, it should be remembered that personal data keeps
+its personal character even if it has been made public, for example, on a network
+social. In addition, a political opinion is sensitive data under the GDPR and is therefore
+subject to stricter rules of use.
+Therefore, political parties must be aware of the risks inherent in
+the use of tools such as profiling and micro-targeting for political canvassing purposes
+and their responsibility for the protection of personal data. He is at
+note that this responsibility is shared between the applicant and the broadcaster.
+
+2. Some key concepts
+2.1. A brief overview of protection obligations
+Datas
+Data protection legislation applies to all data processing
+of a personal nature regardless of the identity of the data controller. In this regard, it
+It does not matter whether the latter is a political party recognized as such, an association, a
+group of natural persons or a natural person. Therefore, if a
+individual candidate processes data with a view to their use for prospecting purposes
+election, these guidelines are relevant. This candidate cannot in principle
+not invoke the exception of "domestic and personal activities" when dealing with
+personal data for the benefit of his electoral campaign. Indeed, even if the
+RGPD does not apply to data processing carried out "as part of an activity
+strictly personal or domestic ”, this exception must be interpreted in a way
+restrictive according to the case law of the Court of Justice of the European Union. Since the
+data processing carried out by a candidate goes beyond his family circle and relatives,
+processing is subject to GDPR.
+Pursuant to article 5 of the GDPR, data controllers must imperatively
+observe the principles arising from the GDPR for all their data processing, namely
+- the principle of lawfulness, loyalty and transparency (articles 5 paragraph (1) letter (a), 6 and
+9 of the GDPR),
+- the principle of purpose limitation (article 5 paragraph (1) letter (b) of the GDPR),
+- the principle of data minimization (article 5 paragraph (1) letter (c) of the GDPR),
+- the principle of accuracy (article 5 paragraph (1) letter (d) of the GDPR),
+- the principle of limitation of storage (article 5 paragraph (1) letter (e) of
+GDPR),
+
+4
+
+Page 6
+
+- the principle of data integrity and confidentiality (articles 5 paragraph (1) letter
+(f), 25 and 32 of the GDPR), and
+- the principle of responsibility (article 5 paragraph (2) of the GDPR).
+The principle of lawfulness (articles 5 paragraph (1) letter (a) and 6 of the GDPR) requires
+data controllers to choose the appropriate legal basis for the processing (also for
+inferred data). 6 When the data processing encompasses
+so-called “sensitive” data, such as data revealing political opinions,
+data controllers must not only comply with the requirements of Article 6 of
+GDPR, but also the specific conditions imposed by article 9 of the GDPR
+governing the processing of special categories of data.
+The principle of purpose limitation (article 5 paragraph (1) letter (b) of the GDPR) requires that
+data controllers identify a lawful purpose for each processing operation, ensuring
+that further processing is only possible for a compatible purpose.
+The principle of transparency (Articles 13 and 14 of the GDPR) requires that individuals
+concerned are informed of each purpose of the processing, whatever the source of the
+data collected by the data controller.
+Data controllers should check whether the data received from third parties has been obtained
+lawfully. In addition, they must ensure that the initial purpose used to legitimize the
+collection is compatible with the purposes pursued (article 5 paragraph (1) letter (b) of
+GDPR) and they must ensure that, if the initial collection was legitimized by consent,
+that the data subjects have given their informed consent also for the purpose
+later (Art.6 para. (4) GDPR).
+In accordance with the principle of correctness (article 5 paragraph (1) letter (d) of the GDPR),
+data controllers must ensure the accuracy of the data, in particular for
+data from different sources and inferred data. In this regard, the principle
+data minimization process requires data controllers to delete
+data when they are no longer necessary for the initial purpose for which they were
+collected (article 5 paragraph (1) letter (c) of the GDPR).
+Among the measures to be taken in application of the principle of integrity and confidentiality (article
+32 GDPR), data controllers must clearly establish who has access to
+data 7 . Political parties should ensure that only people within a party
+policy who need for the performance of particular tasks have access to the data
+personal issues.
+Data controllers must provide adequate security measures, that is
+mean ensuring appropriate technical and organizational measures 8 . Among these measures
+technical, it is for example to secure the lists used for prospecting
+electoral campaign and keep them on media that are sufficiently protected against
+
+See section on legality conditions.
+7 Also in application of the principles of data protection by design and by default,
+defined in article 25 of the GDPR, as well as the obligations related to the implementation of a level of security
+adapted to the risk, defined in article 32 of the GDPR.
+8
+See, for more information, our thematic file on IT security:
+6
+
+https://cnpd.public.lu/fr/dossiers-thematiques/nouvelles-tech-communication/securiteinformatics.html
+
+5
+
+Page 7
+
+intrusion. Among the security measures, it is also necessary to sensitize people
+likely to carry out the processing operations.
+Specifically, it is recommended to encrypt computers and media that contain
+personal or confidential data. In addition, it is advisable to have systems
+up-to-date IT systems, to protect themselves from intrusions via ad-hoc software suites or
+dedicated equipment (firewalls). Whenever possible, two-factor authentication should
+be used if available and passwords must be complex. Regarding use
+of mailing lists by email, it is recommended to use the field "CCI" in order to guarantee
+confidentiality of recipients' e-mail addresses. Files should be partitioned
+prospecting when the conditions relating to their processing differ, i.e. there
+a for example different sources, conditions of lawfulness or retention periods.
+In addition, managers must only use subcontractors with
+sufficient guarantees and demonstrating specialized knowledge, reliability and
+appropriate resources (Article 28 GDPR). Contracts concluded with subcontractors
+must clarify their respective obligations.
+In anticipation of a personal data breach (as defined by article 4 point (12)
+of the GDPR, (attacks by hackers, loss of the list of members, loss of a computer
+portable or USB stick), data controllers should provide for procedures
+rapid reaction and mitigation of the consequences on the rights of the persons concerned
+and notification to the CNPD and information to the persons concerned (see article 33 of the
+GDPR).
+When data controllers plan to use profiling or taking information
+automated decision-making, they must take into account the risks characterizing these techniques,
+adopt appropriate guarantees and comply with the specific conditions governing these
+means of data processing (article 22 of the GDPR). In practice, it is important to obtain
+the explicit consent of the persons concerned, and if necessary, check with the
+provider that this consent has been validly expressed. Depending on the treatment considered, it
+may be necessary to carry out an impact assessment relating to the protection of
+data.
+Finally, data controllers must ensure that the rights of
+data subjects, namely the right to information, the right of access, the right to be forgotten and the
+right of opposition and the right to lodge a complaint with the CNPD (Articles 12 to 21
+of the GDPR).
+The principle of accountability means that data controllers
+must be able to demonstrate their compliance at all times (Article 5 paragraph (2)
+of the GDPR). This implies, for example, establishing adequate documentation relating to
+data processing carried out, including a data processing register and a
+internal register of data protection incidents and breaches.
+
+6
+
+Page 8
+
+2.2. Political opinions, a special category of
+data
+Personal data which reveals political opinions constitutes a
+special category of data under the General Data Protection Regulation.
+Their processing is strictly regulated by article 9 of the GDPR.
+The purposes of the use of personal data and the identity of the person responsible for
+processing may be taken into account in determining whether data
+reveal political views. For example, while a list of clients of a company
+or a list of members of a sports association does not in principle reveal the opinions
+policies of the persons concerned, a list of members or supporters of a party
+politics reveals many real or supposed opinions of the people concerned.
+It is also important to note that profiling techniques can produce, via a
+combination of data a priori outside the scope of Article 9 of the GDPR, data
+inferences that may reveal political opinions within the meaning of this article.
+As soon as data is combined, for example with statistical data or
+demographic, for the purposes of drawing up a voter profile, Article 9 of the GDPR is intended
+to apply. As further developed, this means that it is in principle forbidden to
+constitute such a profile, unless you meet the conditions of article 9 paragraph (2) of the GDPR
+(regarding these conditions, see below, point 2.4.).
+
+2.3. Where the data comes from
+2.3.1. Lists of members and supporters
+The main source of data for political parties and candidates is the lists of
+members or supporters established over time during their activities.
+Article 9 of the GDPR allows "a foundation, association or other organization for the purpose of
+non-profit and pursuing a political purpose "to process these data" within the framework of
+legitimate activities "," provided that the processing relates exclusively to members or
+former members […] or on people who have regular contact with him ” 9
+(regarding the processing of data of members and supporters, see also below,
+point 2.4.2.).
+
+2.3.2. Reuse of electoral lists
+According to the legislation in force, the lists of electors constitute a source of data to be
+which political parties and candidates can in principle use for the purposes of
+political advertising.
+Article 20 paragraph (3) of the electoral law of February 18, 2003 provides that “any citizen may […]
+request in writing a copy of the updated [electoral] lists […]. Data from
+citizens contained in the lists cannot be used for other purposes
+than electoral ”. The data contained in these lists include the surname, first names,
+
+9
+
+See below, concerning the conditions of lawfulness.
+
+7
+
+Page 9
+
+domicile, place and date of birth of voters, and where applicable, nationality and
+surname and first names of the spouse (articles 13 and 14 of the electoral law). Some political parties
+Luxembourgers have made use of this right and have used the data from these lists for
+purposes of political prospecting during previous electoral periods.
+In this context, the CNPD specifies that the establishment of the list of complaints and
+electoral lists constitutes the processing of personal data within the meaning of Article
+4 point (2) of the GDPR. This processing is implemented by the college of mayors and
+aldermen, which therefore meets the definition of data controller within the meaning of Article 4
+point (4) of the GDPR.
+The law determines the purpose of the processing within the meaning of article 5 paragraph (1) letter (b) of
+GDPR in that the voters lists can only be used for electoral purposes, that is
+that is to say in the first place the observation of the quality of voter of the natural persons
+fulfilling the conditions set out in Title I of the electoral law. List data
+elections can also be used for political prospecting purposes by
+political parties, but only during election periods. It should be remembered to
+this place that article 32bis of the Constitution reserves for political parties a special role
+in the electoral context, recognizing that they "contribute to the formation of the will
+popular vote and the expression of universal suffrage ”.
+The CNPD does not question the legality of the purpose of prospecting registered voters,
+in particular to send them political programs, within the limits of the finality
+election laid down by article 20 of the electoral law. Article 5 of the GDPR establishes the purpose of
+data processing as an essential principle in the field of data protection
+in that personal data must be collected for purposes
+determined, explicit and legitimate. Personal data from the electoral rolls
+must not be further processed in a manner incompatible with their purpose
+election, e.g. must not be used for any purpose - e.g. for a
+commercial purpose or for the promotion of an association or a union. In this regard, the
+political parties are invited to provide for a retention period proportionate to the purpose
+wanted. However, political parties will need to ensure that citizens who have
+use of their right of opposition are no longer contacted during municipal elections,
+European or legislative future.
+. For more detailed information, the CNPD draws attention to its August communication
+2018 on the use of electoral lists for electoral prospecting purposes
+( https://cnpd.public.lu/fr/actualites/national/2018/08/communication-administres.html) .
+
+2.3.3. Restrictions on the reuse of lists obtained
+in other contexts
+If the candidates and their political parties obviously have a legitimate concern to approach
+voters and explain their programs to them as part of their electoral campaign,
+it should be remembered that they must not use files that they have acquired for this purpose.
+procured outside any legal or regulatory basis from private organizations or
+public institutions or that they have collected for different purposes.
+Indeed, political parties or candidates could be tempted to use sources of
+personal data resulting from the activities of institutions or associations in which they
+8
+
+Page 10
+
+are active. However, the further processing of personal data for others
+purposes than the one (s) for which these data were initially collected
+is only authorized if this further processing is compatible with the purposes for which
+the personal data were initially collected, taking into account the link between
+the purposes for which they were collected and the purposes of further processing
+considered.
+Therefore, in the majority of cases, the reuse of personal data collected
+in another context (personnel file of an administration or a company,
+data obtained in the exercise of a public office, client file of a
+company, list of members of an association or union, ...) is not allowed.
+In particular, non-profit associations should not communicate the list of their
+members to third parties without the consent of their members. In addition to the probable non-compliance
+principle of purpose limitation, such reuse risks breaking the equality between
+candidates.
+
+2.3.4. Limitations on the use of sources
+public
+Indirect collection, on the basis of public sources, such as information
+published on an online directory, website or social network for electoral purposes
+is in principle incompatible with the principle of limitation of purposes.
+When a political party or a candidate intends to use a service provider for his
+political promotion activities, they may use personal data collected
+initially for marketing activities, provided that the data subjects have
+expressed free and informed consent relating to the use of their personal data to
+for political communication purposes. Actors active in electoral campaigns
+must therefore be particularly vigilant when resorting to subcontractors
+as data brokers and data analysis companies
+(“Data analytics companies”).
+
+2.4. The use of personal data
+Any processing of personal data must be based on a condition of lawfulness
+provided for in Article 6 of the GDPR, including processing relating to special categories
+of personal data (so-called "sensitive" data) within the meaning of Article 9 of
+GDPR. Article 9 paragraph (1) of the GDPR prohibits the processing of data which “reveals [s]
+[…] Political opinions, religious or philosophical convictions or membership
+union ”unless one of the conditions of article 9 paragraph (2) is fulfilled.
+In the context of an electoral campaign, a large part of data processing
+probably concerns so-called "sensitive" data, and those responsible for
+processing are therefore required to base these processing operations on the conditions of lawfulness
+combined with Article 6 and Article 9 of the GDPR as set out below. Indeed,
+any processing must first be legitimized by one of the criteria of article 6 of the GDPR. When
+the processing concerns a particular category of data (so-called "sensitive" data),
+this treatment must also comply with the specific requirements defined in article 9 of the
+GDPR.
+
+9
+
+Page 11
+
+2.4.1. The explicit consent of the data subject
+Based on Articles 6 paragraph (1) letter (a) and 9 paragraph (2) letter (a) of the GDPR, the
+data controllers may base their processing on the explicit consent of
+persons concerned. In order to ensure that consent is provided freely and
+informed within the meaning of Article 7 and Recital 42 of GDPR 10 , it is essential to inform
+data subjects in accordance with Article 13 of the GDPR.
+The data subject can withdraw this consent at any time and must be able to do so.
+withdraw easily and understandably, with the same ease as when she expressed
+his consent. The controller must inform the data subject of this
+possibility and should allow easy withdrawal of consent.
+If the data controllers plan to process data which has not initially
+been collected for the purpose of political prospecting, they must ensure that the
+consent of the data subjects before this new processing in accordance with
+Article 6 paragraph (4) of the GDPR. In any event, care must be taken that the person
+concerned is informed of such other purposes and of their rights.
+Some social media platforms allow the deployment of integrated applications
+in these platforms (of the “games”, “questionnaires” type, etc.). These applications can be
+used to collect data on their users and potentially to establish
+profiles revealing real or perceived political views. In most cases, these
+profiles are then used to target advertising messages. Consent to this
+data processing must be given separately and explicitly. The
+The consent provided when registering for the platform is in principle not sufficient.
+Thus, when a political party or a candidate considers the use of such an application, he
+becomes controller, and it is imperative to ensure that consent has
+been expressed separately and explicitly, even if the application has been developed and
+deployed by a subcontractor.
+
+2.4.2. Legitimate interests and member data and
+sympathizers
+When political parties process data, “within the framework of their
+legitimate activities and with the appropriate guarantees ”which“ relates to
+exclusively to members or former members of said body or to persons
+maintaining regular contact with it in connection with [its political purpose] ”, it is
+possible to base this treatment on articles 6 paragraph (1) letter (f) and 9 paragraph
+(2) letter (d) of the GDPR.
+By invoking their "legitimate interests" to legitimize this data processing,
+data controllers must ensure that the "interests or freedoms and rights
+fundamentals ”of the persons concerned do not prevail. A political party thus has the right
+
+Concerning the conditions relating to consent, see in particular: Working group “Article
+29 ”, Guidelines on consent within the meaning of Regulation 2016/679, WP 259 rev. 1.
+https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=623051
+10
+
+10
+
+Page 12
+
+to process the data of its own (former) members and supporters, although these
+these are indicative of their political views.
+However, article 9 paragraph (2) letter (d) in fine of the GDPR requires that "data of a
+personnel are not communicated outside this organization without the consent
+of the persons concerned ”. Thus, data relating to members and supporters cannot be
+may not be transmitted to a third party without their express consent, even if
+there are political affinities between the party and the recipient.
+
+2.4.3. The legitimate interests of data controllers
+and the data clearly made public by the
+
+fair,
+
+2018,
+
+concerned person
+In combination with article 6 paragraph (1) letter (f), article 9 paragraph (2) letter (e) of
+RGPD makes it possible to legitimize the processing of data relating to "data of a
+personnel which are clearly made public by the data subject ”.
+This exception mainly concerns candidates for the various elections. Indeed it
+is inherent in running for office to make oneself known and to express
+publicly his political views.
+However, the mere disclosure of personal opinions on social networks or other
+platforms by potential voters cannot, as such, be considered a
+data "clearly made public" that a political actor could process. As
+illustration, it is not because a person interacts on a social network with a candidate or
+a political party (the person "likes", comments, shares or "retweets" content published on
+social networks) that they can target that person with advertising messages or
+otherwise use that interaction data.
+The person must clearly demonstrate his willingness to maintain regular contact with the party
+politician or candidate, for example by becoming a "follower" on Twitter or "friend" on Facebook.
+However, this type of interaction does not necessarily allow to infer a political opinion.
+unambiguous.
+When a data is clearly made public within the meaning of article 9 of the RPGD, by
+example on a social network, in particular because the communication is formulated in a
+sufficiently explicit (for example: "I support this party") and is addressed to an audience
+which goes far beyond the private circle, the data controller must respect the
+conditions of lawfulness provided for in Article 6 of the GDPR.
+By invoking legitimate interests provided for in Article 6 paragraph (1) (f) of the GDPR, the party
+policy must continue to weigh them against the interests and of the person
+concerned. Concretely, if the person expressing his political opinions, even in a
+"Manifestly public", the political party will not be able, without further information,
+communicate the identity of this person to the outside world (for example in the context of
+its advertisements). The balance of interests must be done on a case-by-case basis, and may take into
+takes into account the fact that the data subject is a public figure, or that the processing
+plans to pseudonymize the data before its reuse.
+
+11
+
+Page 13
+
+2.4.4. The existence of a legal provision pursuing a
+important public interest
+In principle, in accordance with Articles 6 paragraph (1) letter (c) and 9 paragraph (2) letter
+(g) of the GDPR, it is possible that a legal provision which "constitutes a necessary measure
+and proportional in a democratic society, in particular for the guarantee of
+important in the public interest ”can legitimize data processing. Anyway, he
+must ensure that the data subject is informed of such other purposes and their
+rights.
+For example, in terms of the financing of political parties, in order to be able to benefit from a
+public funding, political parties must submit "a statement of its donors" 11 . The
+names of natural persons 12 must therefore be collected on the basis of an obligation
+legal and must also be communicated to the competent authorities.
+
+3. The different communication methods
+3.1. Prospecting by direct nominative messages
+Political prospecting through the transmission of direct nominative messages is related to
+direct marketing. Thus, political parties and candidates must respect the provisions
+particular in this area.
+
+3.1.1. Sending postal mail
+In the event that political advertising is sent by post, the GDPR grants people
+concerned a right to object within the meaning of Article 21 of the GDPR ("opt-out") at any time.
+Thus, a political party or a candidate can send communications via postal mail
+to potential voters. Obviously, the addresses must be obtained legitimately.
+In balancing the legitimate interests of the political party with the interests of
+data subjects, it should be taken into account whether, at the time of collecting the data,
+data, the data subject can anticipate that this processing can take place. This is the
+case if the legislation authorizes the use of certain data, for example those obtained from
+electoral lists, for political prospecting purposes during an election period.
+When shipments are prepared on the basis of data not collected directly from
+of the persons concerned, the CNPD recalls that, under the obligation to inform
+arising from Article 14 GDPR, political parties must provide, at the latest at the time
+of the first communication, that is to say in the prospecting letter or in the appendix, the
+following information to the persons concerned:
+- the identity and contact details of the controller (the political party or the
+local or regional branch of the political party),
+- the origin of the data processed (for example the electoral lists on the basis of the article
+20 of the electoral law of February 18, 2003),
+
+Art. 6 of the amended Law of 21 December 2007 regulating the financing of parties
+policies .
+12 Article 8 of the law on the financing of political parties provides that “only persons
+individuals are authorized to make donations to political parties and their components ”.
+11
+
+12
+
+Page 14
+
+- the purpose of the data processing (political prospecting in the context of
+election),
+- the retention period (the erasure of data within a reasonable period of time after
+the elections),
+- the existence of citizens' rights in terms of data protection (their right
+of access to data, their right to rectification and erasure of data, their right
+to oppose the processing of their data for electoral prospecting purposes and their
+right to lodge a complaint with the CNPD),
+- the means of contact to exercise their rights (postal address, link to a website
+internet and email address).
+It is essential that any communication contain information relating to the right
+opposition. For example, communications may contain a reply coupon or
+indicate a specific e-mail address allowing the persons concerned to express their
+wish to no longer receive such letters.
+The exercise of the right to object must be simple and effective, and the tool must be easily
+accessible. It is therefore recommended to set up a dedicated e-mail address for the
+processing such requests and dealing with them promptly, especially during periods
+election when a large number of messages are broadcast.
+
+3.1.2. Sending electronic messages
+In the event that political advertising is sent electronically, Luxembourg law as amended from
+May 30, 2005 concerning the protection of privacy in the communications sector
+electronic applies. The CNPD recalls that political prospecting by telephone or
+electronic mail (or any other means of electronic communication) cannot be
+only with the prior consent of the persons contacted.
+Thus, if no link between the political party and the person concerned exists, the consent
+prior notice must be requested before sending electronic communications ("opt-in"). This
+consent must be free, specific and informed. Thereafter, each message from
+prospecting must inform the data subject of their rights, in particular their right to
+withdraw consent at any time.
+It should be noted that the sending of personalized messages by a means of
+electronic communication cannot be based on the "legitimate interests" of the party
+policy according to article 6 paragraph (1) letter (f) of the GDPR since this type of processing
+does not allow for an adequate balance between these interests and the interests of individuals
+concerned. Consequently, the controller must obtain the consent of
+the data subject within the meaning of articles 6 paragraph (1) letter (a) and 7 of the GDPR before
+sending electronic messages.
+With regard to recital 47 of the GDPR, when political parties communicate with
+people in a pre-existing relationship, typically with their members or
+their supporters, these communications can take place without obtaining the consent
+prior to the persons concerned. In return, the persons concerned must
+have the right to oppose it at any time and be informed of this right when the data
+are collected, as well as during each prospecting message. Therefore, the
+member or sympathizer concerned must, when collecting their electronic contact details,
+
+13
+
+Page 15
+
+be clearly and distinctly informed of the possible use of these for the purposes of
+direct marketing and must be given the opportunity to object to such use.
+
+3.2. Online advertising targeting for prospecting purposes
+electoral
+In addition to nominative messages, political parties and candidates may be asked to
+use advertisements in the digital space to promote their political agendas.
+However, unlike physical advertising spaces, which are relatively static by nature,
+online advertisements can involve on the one hand a high volatility of the messages
+advertising and on the other hand targeting based on a profile established by resorting to
+personal data.
+Although political communication has promotional features, political communication
+in connection with political prospecting have particular characteristics due to
+precisely the electoral context. Indeed, the circulation and confrontation of ideas and
+Political beliefs are the very essence of this debate. Unlike marketing
+a product or service, for which it is easy to identify the data controller,
+political promotion is not always easy to attribute to a political party, to a candidate
+or to another actor active in the electoral campaign. So, it is important to show
+transparency on the identity of the author of a political advertising message. This
+transparency has been identified as one of the vectors for curbing the risks of
+online manipulation. In this sense, it can be recommended that candidates and parties
+set up verified accounts on social networks (for example the “Blue
+Badge ”with Facebook) in order to be clearly identified and at the same time fight against
+fake accounts and attempts to spread disinformation.
+In addition to transparency vis-à-vis the recipient of the advertisement, it would be appropriate to make
+accessible to the general public and the media all advertising messages. In addition, these
+messages could be categorized by broadcasters based on targeting criteria
+used and the profiles to which they were sent. This practice would make it possible to overcome the
+risk of opacity, favoring the holding of adversarial and public debate as well as the
+confrontation of ideas and ultimately contribute to the sincerity of electoral campaigns.
+Political parties and candidates might be tempted to focus their campaigns
+advertising to certain groups of people deemed decisive for the outcome of the ballot.
+However, such procedures can hamper the free flow of information and remove
+the rest of the electorate the opportunity to make their choice by comparing the points of view
+defended by the various political parties. So even though it is technically possible and
+legally defensible, it would be preferable, for the proper functioning of the electoral system
+in a democratic society, to restrict the use of too great a segmentation of
+political messages and compartmentalization of groups of people according to their
+political profiles.
+
+3.2.1. Micro-targeting, revealing
+sensitive data
+Micro-targeting is a form of targeted online advertising that analyzes personal data
+personnel to identify the interests of a specific audience or individuals in order to influence
+14
+
+Page 16
+
+their actions. Micro-targeting can help determine the relevance of content
+advertising, including a message sent for political advertising. This tool is powerful
+and in the same way that personal data is data allowing the identification of a
+person, the limit that makes a micro-profiling go beyond classic profiling and reveal a
+sensitive data is that we can, from having crossed the information, deduce for example
+a person's political opinion. If applicable, the only possible legal basis
+to legitimize this data processing is the explicit consent. In addition, it is advisable to
+underline that data controllers must ensure that service providers (and therefore
+social networks) have validly collected this explicit consent.
+Practice in other countries shows that political parties or their subcontractors
+can use "data mining techniques capable of making the link between
+the personal characteristics of an individual and his political beliefs and to discover the
+political behavior of voters ” 13 .
+It appears that, depending on the granularity of the profiling, advertising messages for the purposes of
+political advertising can steer voters' opinions in ways that influence the outcome
+of the ballot. It can be seen that this type of profiling has the potential to "affect [the]
+person concerned] significantly 'by producing effects on the outcome of
+elections or voting. This assessment must take into account the vulnerability of people
+targeted, including age 14 .
+However, according to Article 22 paragraph (1) of the GDPR, a data subject "has the right not to
+not be the subject of a decision based exclusively on automated processing, including
+profiling, producing legal effects concerning it or affecting it in a manner
+similarly significant ”. In accordance with recital 71 of the GDPR, this type of
+profiling must be "accompanied by appropriate guarantees", including "specific information" and
+the right "to obtain an explanation as to the decision taken". Recital 71 of the GDPR
+establishes that "automated profiling based on special categories of data to
+personal character should only be allowed under specific conditions ”.
+Therefore, the CNPD is of the opinion that excessive profiling of citizens should be avoided. CNPD
+does not dispute the possibility of carrying out sorting and selection operations according to
+age or address of voters. However, the CNPD warns against criteria
+that can target people on the basis of their real or supposed origins, in particular
+by the consonance of names or place of birth as well as against the aggregation of data
+of a data subject with statistical or demographic data or
+data that may reveal their real or supposed socio-economic situation. Moreover, the
+CNPD recommends not to use sensitive data in advertising models
+behavioral because of the risks inherent in this type of treatment.
+Finally, the CNPD recalls that it is criminally reprehensible to discriminate against
+persons, in particular on the basis of distinctions based on origin, gender or
+
+Council of Europe, Committee of Experts on media pluralism and transparency of their
+property, Internet and election campaigns - Study on the use of the Internet in the context of
+electoral campaigns, Council of Europe study, DGI (2017) 11, April 2018
+14 See, for further information, Article 29 Working Party, Guidelines for the
+automated decision-making and profiling for the purposes of Regulation (EU) 2016/679, WP 251
+rev.01, https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053
+13
+
+15
+
+Page 17
+
+belonging or not belonging, true or supposed, to an ethnic group, a nation, a
+race or religion 15 .
+
+3.2.2. The need to carry out an impact assessment in the event of
+use of micro-targeting
+If a political party or candidate considers using targeted messages, it is important to
+check whether a Data Protection Impact Assessment (DPIA) 16 is required.
+Article 35 paragraph (3) of the GDPR establishes a list of processing operations for which the
+controllers should undertake an analysis. Three scenarios are targeted
+by this article, and cover in particular "the large-scale processing of categories
+particular data referred to in Article 9 ”. Likewise, the article provides that a DPIA must be
+carried out using 'profiling […] on the basis of which decisions are made
+[…] Significantly affecting [the data subject] in a similar way ”. In
+addition to the list in article 35 of the GDPR, the CNPD has also adopted a list
+additional national treatment for which a DPIA is also required.
+This list includes in particular "the file processing activities likely to contain
+personal data concerning the entire national population […] ”.
+It should be noted that this list is not an exhaustive list of all types
+processing operation requiring the performance of an AIPD. Thus the absence of a type
+processing operation on this list does not necessarily mean that a DPIA is not
+required. The list is limited to processing activities that will always require the completion
+of a DPIA. For processing activities not included in this list, those responsible
+of data processing should be based on Article 35 (1) of the GDPR and on the lines
+WP248 of the Article 29 Working Group to assess the need for a DPIA.
+Treatments involving micro-targeting that may reveal political opinions
+probably require the conduct of a DPIA before the initiation of treatment. Of
+more, if a political party or candidate plans to establish a database from
+electoral lists, an AIPD seems indicated before the establishment of this database.
+In accordance with Article 36 paragraph (1) of the GDPR, the controller must
+carry out a consultation prior to processing with the CNPD for advice on the AIPD if
+the processing still presents a high residual risk for the rights and freedoms of individuals
+after taking measures to mitigate the risk.
+
+4. Conclusions
+All data processing must comply with the principles arising from the GDPR, be accompanied
+adequate security measures and data controllers must ensure the
+appropriate technical and organizational measures, in particular by using only
+to subcontractors offering sufficient guarantees, in particular in terms of
+specialist knowledge, reliability and resources. Likewise, those responsible for
+processing must ensure respect for the rights of data subjects, namely the right to
+
+See Penal Code, articles 454 et seq.
+16 See in particular, on the DPIA:
+https://cnpd.public.lu/fr/actualites/national/2019/03/liste-DPIA.html
+15
+
+16
+
+Page 18
+
+information, the right of access, the right to be forgotten and the right to object and the right to formulate a
+complaint to the CNPD.
+Because of the stakes for free and fair elections, political parties and candidates
+should pay great attention to information and transparency around their
+electoral prospecting messages. This increased transparency makes it possible to maintain
+bases of an open dialogue, necessary for a living democracy.
+Beyond data protection, it can be considered that party communication
+policies must be transparent, that is to say that citizens and the press can have access
+political advertising content, whether this content is disseminated by messages
+personalized or personalized advertising. Compliance with legislation on
+data protection is one vector among others favoring the conduct of elections
+free and fair.
+
+5. For more information
+-
+
+European Data Protection Board (EDPB), Declaration on the use of
+personal data in the context of political campaigns , 13 March 2019
+https://edpb.europa.eu/sites/edpb/files/files/file1/edpb-2019-03-13-statement-onelections_en.pdf
+
+-
+
+European Commission, Guidance on the application of EU law in
+data protection in the electoral context: The contribution of the
+European Commission at the meeting of heads of state and government in Salzburg ,
+September 19 and 20, 2018, COM / 2018/638 final
+https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=COM:2018:638:END
+
+-
+
+European Data Protection Supervisor, Opinion n ° 3/2018 on manipulation
+online and personal data , March 19, 2018
+https://edps.europa.eu/sites/edp/files/publication/18-0319_opinion_online_manipulation_en.pdf
+
+-
+
+Information Commissioner's Office (UK), Data Analysis Survey
+for political purposes
+https://ico.org.uk/action-weve-taken/investigation-into-data-analytics-for-politicalpurposes /
+
+-
+
+Garante per la protezione dei dati personali (Italy), Survey on Facebook, the application
+“Thisisyourdigitallife” and the “Candidati” application, press release of February 7, 2019
+https://www.garanteprivacy.it/web/guest/home/docweb/-/docwebdisplay / docweb / 9081475 & zx = 8ghzplmiahrr
+
+-
+
+27 th International Conference of Commissioners for data protection and life
+private, resolution on the use of personal data for communication
+politics , Montreux, September 14-16, 2005
+https://edps.europa.eu/sites/edp/files/publication/05-0916_resolution_political_communication_en.pdf
+17
+
+Page 19
+
+-
+
+Data Protection Authority (Belgium), Processing of personal data
+personnel for the purposes of personalized electoral propaganda and respect for the
+citizens' privacy: basic principles , May 2018
+https://www.autoriteprotectiondonnees.be/sites/privacycommission/files/documents/No
+te_elections_RGPD.pdf
+
+-
+
+National Commission for Informatics and Freedoms , Political Communication:
+what are the rules for the use of data from social networks? , 8
+november 2016
+https://www.cnil.fr/fr/communication-politique-quelles-sont-les-regles-pour-lemploidata-from-networks
+
+-
+
+National Commission for Informatics and Freedoms, Legislative elections: Six
+reflexes for a 2.0 campaign , May 15, 2017
+https://www.cnil.fr/fr/elections-legislatives-six-reflexes-pour-une-campagne-20responsible
+- National Commission for Informatics and Freedoms, How to encrypt your
+documents and its directories ?, March 3, 2017
+https://www.cnil.fr/fr/comment-chiffrer-ses-documents-et-ses-repertoires
+
+18
+
+

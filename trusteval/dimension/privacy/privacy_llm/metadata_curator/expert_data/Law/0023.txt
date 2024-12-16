@@ -1,0 +1,1144 @@
+Page 1
+
+Consolidated federal law
+
+Entire legal regulation for e-government law, version from 01.06.2021
+
+Note for the following provision
+The entries in the table of contents for §§ 8, 14 and 15 to 18 will only be found from this point in time
+Application that the Federal Minister of the Interior in accordance with Paragraph 6, last sentence in the Federal Law Gazette
+announce (cf. § 24 paragraphs 8 and 9).
+
+Long title
+Federal law on regulations to facilitate electronic communication with public bodies
+(E-Government Act - E-GovG)
+StF: Federal Law Gazette I No. 10/2004 (NR: GP XXII RV 252 AB 382 p. 46.BR: 6959 AB 6961 p. 705.)
+
+modification
+BGBl. I No. 7/2008 as amended by BGBl. I No. 59/2008 (VFB) (NR: GP XXIII RV 290 AB 362 p. 41.BR: AB 7832
+P. 751.)
+BGBl. I No. 125/2009 (NR: GP XXIV RV 320 AB 419 p. 46.BR: 8199 AB 8216 p. 779.)
+[CELEX no .: 32002L0091]
+Federal Law Gazette I No. 111/2010 (NR: GP XXIV RV 981 AB 1026 P. 90.BR: 8437 AB 8439 P. 792.)
+[CELEX no .: 32010L0012]
+BGBl. I No. 83/2013 (NR: GP XXIV RV 2168 AB 2268 p. 200. BR: AB 8968 p. 820.)
+[CELEX no .: 31995L0046]
+BGBl. I No. 50/2016 as amended by BGBl. I No. 27/2019 (VFB) (NR: GP XXV RV 1145 AB 1184 p. 134. BR: 9594
+AB 9607 p. 855.)
+BGBl. I No. 40/2017 (NR: GP XXV RV 1457 AB 1569 p. 171. BR: 9747 AB 9752 p. 866.)
+[CELEX no .: 32009L0031]
+BGBl. I No. 121/2017 (NR: GP XXV IA 2227 / A AB 1765 p. 190. BR: AB 9860 p. 871.)
+BGBl. I No. 32/2018 (NR: GP XXVI RV 65 AB 97 S. 21. BR: 9947 AB 9956 S. 879.)
+[CELEX No .: 32016L0680]
+BGBl. I No. 104/2018 (NR: GP XXVI RV 381 AB 396 p. 55.BR: AB 10112 p. 887.)
+Federal Law Gazette I No. 169/2020 (NR: GP XXVII RV 469 AB 495 p. 69.BR: AB 10480 p. 916.)
+
+Preamble / promulgation clause
+Table of Contents
+1st section
+Object and objectives of the law
+§ 1.
+§ 1a. Right to electronic traffic
+§ 1b. Participation in corporate electronic delivery
+2nd section
+Unique identification and the E-ID function
+§ 2. Definitions
+§ 2a.
+§ 3. Identity and authenticity
+§ 4. The E-ID function
+§ 4a. Registration and revocation of the E-ID
+§ 4b. Registration data
+§ 5. E-ID and representation
+§ 6. Root number
+§ 7. Authority for the register of original numbers
+
+www.ris.bka.gv.at
+
+Page 1 of 19
+
+Page 2
+Consolidated federal law
+
+§ 8. Unique identification in data processing
+§ 9. Area-specific personal identifier (bPK)
+§ 10. Generation and request of bPK and master numbers of non-natural persons
+§ 11. Disclosure of bPK in communications
+§ 12. Protection of the original number of natural persons
+§ 13. Further guarantees for the protection of bPK
+3rd section
+Use of the E-ID function in the private sector or for applications abroad
+§ 14. Generation of bPK for the use of the E-ID in the private sector
+§ 14a. E-ID-compatible applications abroad
+§ 15. Guarantees for the protection of the original number and the bPK when processing in private
+Area
+4th section
+Electronic record of data
+§ 16. for personal data about independent economic activities
+§ 17. for personal data from registers
+§ 18. on personal data from electronic registers of a person responsible for
+public or private area (note 1)
+5th section
+Special features of electronic filing
+§ 19. Official signature
+§ 20. Evidence of printouts
+§ 21. Submission of electronic files
+5a. section
+Liability provisions
+§ 21a. liability
+6th section
+Criminal provisions
+§ 22. Inadmissible processing of master numbers or bPK or inadmissible use of
+Official signatures
+7th section
+Transitional and final provisions
+§ 23. Equal linguistic treatment
+§ 24. Entry into force
+§ 25. Transitional provision
+§ 26. Issue and entry into force of ordinances
+§ 27. References
+§ 28. Execution
+___________________
+(Note 1: Art. 57 item 6 of the amendment in Federal Law Gazette I No. 32/2018 reads: “In the table of contents, the entry to
+§ 18 after the word "for" the word "personal" added and the word "client"
+replaced by the word "responsible person". ". Correct would be: "... after the word" about "the word
+"Personal" inserted ... ".)
+
+text
+1st section
+Object and objectives of the law
+§ 1. (1) This federal law serves to promote legally relevant electronic communication.
+The electronic communication with public bodies should take into account fundamental
+Freedom of choice between types of communication for attachment to these locations are facilitated.
+
+www.ris.bka.gv.at
+
+Page 2 of 19
+
+Page 3
+Consolidated federal law
+
+(2) Against dangers associated with increased use of automation-assisted
+Data processing connected to the achievement of the goals mentioned in paragraph 1 are intended to improve
+of legal protection, special technical means are created that are to be used where not
+adequate protection is already provided by other precautions.
+(Note: Paragraph 3 repealed by Art. 1 Z 1, Federal Law Gazette I No. 104/2018)
+Right to electronic traffic
+§ 1a. (1) Everyone has the right in matters that are a federal matter in legislation
+to electronic communication with the courts and administrative authorities. With exception of
+Matters that are not suitable to be dealt with electronically. Persons in court,
+Financial criminal authority or according to § 53d of the Administrative Penal Act 1991, Federal Law Gazette No. 52/1991,
+Deprivation of liberty ordered by the administrative authority can only exercise this right in accordance with the
+the technical and organizational information available in the prison facilities in this regard
+Exercise circumstances, insofar as this is permitted by law and does not endanger the
+Security and order is to be expected.
+(2) Any technical requirements or organizational restrictions of the electronic
+Traffic as well as the time of the start of electronic traffic are on the Internet
+to make known.
+Participation in corporate electronic delivery
+§ 1b. (1) Companies within the meaning of Section 3 subparagraph 20 of the Federal Act on Federal Statistics
+(Federal Statistics Law 2000), Federal Law Gazette I No. 163/1999, have an interest in electronic delivery
+to participate.
+(2) Participation in electronic delivery is unreasonable if the company
+does not have the necessary technical requirements or does not have an Internet connection
+disposes.
+(3) Participation is unreasonable until December 31, 2019 at the latest if the company
+is not yet a participant of the company service portal and in the absence of electronic addresses for
+Communication within the meaning of the delivery law.
+(4) Companies can object to participation in electronic delivery. This
+Objection loses its effectiveness on January 1, 2020, except for companies that are due to
+If you fall below the turnover limit, you are not obliged to submit advance sales tax returns.
+
+Note for the following provision
+To the heading of the 2nd section and § 2 Z 10: If the technical and organizational
+Requirements for real operation of the E-ID according to the announcement according to § 24 Paragraph 6 are not yet
+is available for Citizen Cards issued up to the point in time when real operation begins
+Legal situation before the entry into force of this federal law, Federal Law Gazette I No. 121/2017, to be applied. This point in time
+must be announced by the Federal Minister of the Interior in the Federal Law Gazette (see Section 24, Paragraph 6).
+Z 10a only applies from the point in time that the Federal Minister of the Interior pursuant to Section 24 (6)
+publishes the last sentence in the Federal Law Gazette (see Section 24, Paragraph 9).
+
+2nd section
+Unique identification and the E-ID function
+Definitions
+§ 2. In the sense of this federal law means
+1. "Identity": the designation of the identity of the person concerned (Z 7) through features that
+are suitable to enable them to be distinguished from others; such characteristics are
+in particular the name and date of birth, but also the company or
+(alpha) numeric designations;
+2. "Unique identity": the designation of the identity of a person concerned (Z 7) by an or
+several characteristics, which causes the unmistakable differentiation from all others
+becomes;
+(Note: Z 3 repealed by Federal Law Gazette I No. 7/2008)
+4. "Unique identification": electronic identification according to Art. 3 no. 1 eIDAS-VO (no. 11);
+www.ris.bka.gv.at
+
+Page 3 of 19
+
+Page 4
+Consolidated federal law
+
+5. “Authenticity”: the authenticity of a declaration of will or action in the sense that the
+the alleged author is also their actual author;
+(Note: Z 6 repealed by Federal Law Gazette I No. 50/2016)
+7. "Affected party": any natural person, legal person or other majority of persons or
+Institution that has its own identity when participating in legal or commercial transactions
+comes to;
+8. "Stammnummer": a number assigned to a person concerned for their unambiguous identification, the
+also for the derivation of area-specific personal identifiers (bPK) according to §§ 9 and 14
+is determined.
+9. "Master number register": a register that is used for the unambiguous identification of those affected
+contains the master numbers used or the technical components for deriving
+Owns master numbers if necessary;
+10. "Electronic proof of identity (E-ID)": a logical unit that is independent of your
+technical implementation with a qualified electronic signature (Art. 3 Z 12 eIDAS-VO)
+a personal link (Section 4 (2)) and the associated security data and functions
+connects;
+10a. "Use of the E-ID": triggering the creation of a personal identity link using
+qualified electronic signature of the E-ID holder or by means of a security-related
+equivalent process that is linked to an earlier qualified electronic signature of the E-ID
+Holder is bound, with the associated qualified certificate, which for the previous
+qualified electronic signature was used at the time of the respective use
+must still be valid;
+11. "eIDAS-VO": Regulation (EU) No. 910/2014 on electronic identification and
+Trust services for electronic transactions in the internal market and for the abolition of
+Directive 1999/93 / EC, OJ No. L 257 of August 28, 2014 p. 73, as amended
+OJ No. L 155 of 14.06.2016 p. 44.
+§ 2a. The definitions of terms of Art. 3 eIDAS-VO also apply to this federal law.
+Identity and authenticity
+§ 3. (1) In electronic communication with those responsible in the public sector within the meaning of
+Art. 4 no. 7 of Regulation (EU) 2016/679 on the protection of natural persons during processing
+personal data, the free movement of data and the repeal of Directive 95/46 / EC
+(General Data Protection Regulation), OJ No. L 119 of 4.5.2016 p. 1 (hereinafter: GDPR) in
+In connection with Section 26 (1) of the Data Protection Act - DSG, Federal Law Gazette I No. 165/1999
+Access rights to personal data (Art. 4 No. 1 GDPR) are only granted if the
+clear identity of the person who wants to access and the authenticity of his request proven
+are. This proof must be provided in an electronically verifiable form.
+(2) In addition, data subjects may be identified in electronic communication with
+Responsible persons in the public sector are only required to the extent that this comes from a
+overriding legitimate interest of the person responsible is required, in particular because this is a
+is an essential prerequisite for performing a task assigned to him by law.
+
+Note for the following provision
+Paragraphs 1, 2, 4, 5, 6 and 8 only apply from the date on which the Federal Minister of the Interior
+publishes in the Federal Law Gazette in accordance with Section 24 (6) last sentence (see Section 24 (7) and (8)).
+Paragraphs 4 to 6 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (cf. § 24 Paragraph 9).
+The E-ID
+§ 4. (1) The E-ID serves as proof of the unique identity, other features and the
+Existence of sole power of representation of an intervener and the authenticity of the electronic
+provided in proceedings for which a person responsible in the public sector is responsible for the
+Has set up a technical environment suitable for use with the E-ID.
+(2) The unique identification of a natural person, the legal owner of an E-ID (im
+Following: E-ID holder) is caused by the identity link: Von der
+Master number register authority (§ 7) is electronically signed or sealed confirms that the E-ID
+Owner is or are assigned one or more bPK for unique identification. Unless the
+
+www.ris.bka.gv.at
+
+Page 4 of 19
+
+Page 5
+Consolidated federal law
+
+Identity link contains the first name, family name or date of birth of the E-ID holder,
+confirms the master number register authority with their electronic signature or their electronic
+Seal the correctness of the assignment of this personal data to the E-ID holder. Unless with
+With the consent of the person concerned, further characteristics are added to the identity link
+electronic signature or the electronic seal of the master number register authority confirming the
+intact insertion of these characteristics from those used by the master number register authority
+Registers of those responsible for the public sector. Regarding proof of identity in the case
+the representation applies § 5.
+(3) In order to be able to use the E-ID function, the prior registration of the E-ID
+Advertiser (§ 4a).
+(4) Based on the identity data of the E-ID advertiser (§ 4b Z 1 to 4 and 6), the
+Master number register authority to determine the master number of the E-ID advertiser and this in encrypted
+Form to the qualified trust service provider (VDA) according to Art. 3 Z 20 eIDAS-VO, who the
+issues a qualified certificate for an electronic signature with the personal identity link to the E-ID
+of the E-ID advertiser is to be transmitted. In addition, the master number register authority has
+this VDA the personal data according to § 4b Z 1 to 4, 7, 10 and 11 of the E-ID advertiser as well
+to transmit any restriction on the period of validity of the certificate in accordance with Section 4a (2). The
+The master number register authority also has all changes to the transmitted personal data
+To disclose data that it becomes aware of. The VDA is the authority for the register of reference numbers
+immediately receive the identity code of the issued certificates in accordance with Annex I lit.f eIDAS-VO
+to transfer. For the purposes of a process that is equivalent in terms of safety within the meaning of Section 2
+Z 10a, second case, triggered creation of a personal link, is the encrypted master number for
+To save the E-ID of this E-ID holder.
+(5) If the E-ID holder uses the E-ID in electronic communication in accordance with Section 10 (1), is through
+the authority of the master data register or the authority acting on its behalf, a personal link
+(Para. 2), the one or more bPK, first name, family name and date of birth for the E-ID holder
+contains, to create and to transmit to the relevant data processing company. Will the creation of the
+Personal link triggered by a qualified electronic signature of the E-ID holder (§ 2 Z 10a
+first case), the qualified VDA has the encrypted master number and the associated security data
+to be made available to the authority of the master data register. According to the technical possibilities
+With the consent of the E-ID holder, additional characteristics can be added to the identity link for
+the registers of persons responsible for the public or
+private area.
+(6) Depending on the technical possibilities, the E-ID holder can have first name, surname,
+Date of birth and the existence of further characteristics according to paragraph 5 last sentence to a third party in
+in a simplified form. For this purpose, first name, family name, date of birth and
+the other characteristics are stored for a limited period of time for his E-ID. First name,
+Family name and date of birth may be saved for a maximum of three months. Whether and for which one
+Period this is permissible for a certain additional characteristic, the person responsible for the
+public area that keeps the register, from which the master number registry authority this
+Has related feature.
+(7) The authenticity of an attachment made with the aid of the E-ID is confirmed by the in the E-ID
+included electronic signature proven.
+(8) The more detailed regulations on Paragraphs 1 to 7 are, as far as necessary, by ordinance of
+Federal Minister for Digitization and Business Location in agreement with the Federal Minister
+for interior affairs as well as any other competent federal ministers. Before issuing the
+Ordinance are the states and the municipalities, the latter represented by the Austrian
+Association of municipalities and the Austrian Association of Cities.
+
+Note for the following provision
+Paragraphs 5 and 6 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (see Section 24 Paragraphs 7 and 8).
+Paragraphs 3 and 4 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (see Section 24 Paragraphs 7 to 9).
+
+www.ris.bka.gv.at
+
+Page 5 of 19
+
+Page 6
+Consolidated federal law
+
+Registration and revocation of the E-ID
+§ 4a. (1) The registration of the E-ID function is for citizens from the completed
+14 years of age when applying for a travel document in accordance with the Passport Act 1992, BGBl.
+No. 839/1992, with the exception of a passport pursuant to Section 4a of the Passport Act 1992, ex officio
+by the passport authority or by a municipality authorized in accordance with Section 16 (3) of the Passport Act 1992
+unless the person concerned expressly objects to this. In addition, they can
+registering an E-ID with the passport authority, one in accordance with Section 16 (3) of the Passport Act 1992
+authorized municipality or the state police headquarters. If the registration is not in
+When applying for a travel document takes place, the local authority is responsible for the
+A request for registration of the E-ID is made. In agreement with the Federal Minister for
+Inside, other suitable authorities can also register the E-ID. The
+The Federal Minister of the Interior has to publish these authorities on the Internet.
+(2) The factual responsibility for registering the E-ID for strangers comes from
+State Police Directorate too. The regional police department is responsible for the local area at which the request is made
+Registration of the E-ID is provided. For strangers, registration is only required if
+they have a sufficient connection to Germany and have reached the age of 14.
+In particular, proof of residence, employment or business activity in the
+Domestic required. For foreigners who have applied for international protection in Germany, the
+Registration only after the status of asylum seeker or subsidiary has been granted
+Persons entitled to protection or the granting of another right of residence. For strangers without
+Main residence in the federal territory may use the qualified certificate for electronic signatures in accordance with
+Art. 3 No. 15 eIDAS-VO may be valid for a maximum of three years from the date of registration. Paragraph 1
+The penultimate and last sentence apply mutatis mutandis to strangers.
+(3) If the holder of a domestic travel document in accordance with the Passport Act 1992, its
+Validity period has not expired for more than six years, notify the authorities by way of the VDA (§ 4 para. 4
+first sentence), who is responsible for data processing on behalf of the processor in accordance with Section 22b of
+Passport Act 1992 is active, already in advance the name, date of birth, passport or
+They are allowed to provide an identity card number and, if available, an e-mail address
+Save this for further processing for the purpose of registering an E-ID for 30 days. He follows
+If the E ID is not registered within this period, these personal data are too
+Clear.
+(4) The registration of the E-ID is only permitted if the identity of the person concerned is clear
+was established. In the cases of Paragraph 1, second sentence and Paragraph 2, the registration of an E-ID
+to provide a photo that meets the requirements of § 4 of the Passport Act Implementation Ordinance
+(PassG-DV), BGBl. II No. 223/2006, in the version of the regulation BGBl. II No. 209/2018,
+unless the registration authority already has one. To verify identity and the
+submitted documents, the authority is empowered to provide information on personal data and
+Documents of the e-ID advertiser from data processing of security, civil status and
+Citizenship authorities as well as from data processing according to §§ 26 and 27 of the BFA
+Procedural Act (BFA-VG), Federal Law Gazette I No. 87/2012, to query in remote data traffic and as far as it is
+concerns data in accordance with Section 4b (1) 1 to 5 or 7, in data processing in accordance with Section 22b of the
+Process 1992 Passport Act. Can the identity of the e-ID advertiser be submitted to the authorities pursuant to para. 1
+and 2 are not clearly determined, the further procedure for the unambiguous determination is incumbent on the
+Identity of the state police headquarters.
+(5) The suspension or the revocation of the E-ID takes place through the suspension or the revocation of the
+with the E-ID associated qualified certificate at the VDA according to § 6 of the signature and
+Trust Services Act - SVG, Federal Law Gazette I No. 50/2016, or Art. 24 Para. 3 eIDAS-VO. This one has the
+Information about the suspension or the revocation of the respective competent authority according to paragraphs 1 and 2
+by way of the operator of the data processing in accordance with § 22b of the Passport Act 1992 for further
+Submit processing. The authorities according to Paragraphs 1 and 2 have the suspension or the revocation
+of the E-ID if it becomes known that the owner of the E-ID has died, the danger
+There is a risk of improper use if the E-ID holder requests this or if the authority has facts
+become known that raise legitimate doubts about the identity of the person concerned.
+(6) The Federal Minister of the Interior, in agreement with the Federal Minister for
+Digitization and business location, more detailed provisions on the procedure according to Paragraph 1 bis
+5 as well as for the extension of the validity of an E-ID by regulation.
+
+www.ris.bka.gv.at
+
+Page 6 of 19
+
+Page 7
+Consolidated federal law
+
+Note for the following provision
+Only applies from the point in time that the Federal Minister of the Interior in accordance with Section 24 (6) last
+Publication of the sentence in the Federal Law Gazette (see Section 24 Paragraphs 8 and 9).
+Registration data
+§ 4b. (1) The authorities entrusted with the registration of the E-ID are authorized as responsible persons
+1. the names,
+2. the date of birth,
+3. the place of birth,
+4. the gender,
+5. the nationality,
+6. the bPK,
+7. the announced delivery address,
+8. the current photo, with the exception of the photo of a passport according to § 4a of
+Passport Act 1992
+9. the registration date,
+10. If available, the announced telephone number of a mobile phone,
+11. the email address provided, if available,
+12. the registration authority and
+13. the identity code of the certificates issued in accordance with Section 4, Paragraph 4
+in data processing in accordance with Section 22b of the Passport Act 1992. There is a storage
+only to be carried out if the personal data is not already in this data processing, in
+Central population register or the supplementary register are available. The Federal Minister for
+Internal affairs as well as the master number register authority are authorized to transfer this personal data
+To process the administration of the E-ID. The processing of this personal data too
+purposes other than the administration of the E-ID is only possible on the basis of a special legal order
+permissible.
+(2) With regard to the processing of personal data in accordance with Paragraphs 1 and 3, there is no
+Right of objection according to Art. 21 GDPR and no right to restriction of processing according to
+Art. 18 GDPR. Those affected are to be informed in a suitable manner.
+(3) The authorities entrusted with the registration of the E-ID are authorized, issuing authorities,
+Issuing country, date of issue, period of validity, if applicable, document type and number of the
+presented documents and evidence to unambiguously determine the identity together with the
+to process related personal data according to Paragraph 1 with automated support.
+(4) Log data on processing operations actually carried out, such as in particular
+Changes, queries and transmissions must be kept for three years.
+(5) The announced delivery address according to Paragraph 1 Z 7 must be deleted as soon as the registration
+of the E-ID has been completed. Identity codes of the issued
+Certificates must be deleted in the event of a revocation or expiry of the respective certificate. Others
+Personal data processed in accordance with Paragraphs 1 and 3 as well as in accordance with Section 4a Paragraph 4 must be deleted,
+as soon as they are no longer needed, but no later than three years after revocation or expiry of the E-ID.
+
+Note for the following provision
+Paragraphs 1 to 3 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (see Section 24 Paragraphs 7 and 8).
+E-ID and deputy
+§ 5. (1) For the purposes of acting as a representative, the representative's identity link
+the authority of the master number register that it has sole power of representation for the representation
+of non-natural persons or a power of representation for the representation of natural persons
+People can be inserted. For this purpose, the authority of the master data register may, in accordance with the
+technical possibilities information on power of attorney in the data processing of others
+Use those responsible for the public domain, if this is permitted by law or a
+Consent of the person concerned exists. The master number register authority can also at the request of the
+Representative the existence of a representation relationship with any content and time
+
+www.ris.bka.gv.at
+
+Page 7 of 19
+
+Page 8
+Consolidated federal law
+
+Save restrictions. The prerequisites and further requirements of the application and the to
+The evidence to be provided can be found in the ordinance of the Federal Minister to be issued in accordance with Section 4 (8)
+for digitization and business location. The authorization to receive
+Documents in accordance with Section 35 (3) second sentence of the Delivery Act - Status Act, Federal Law Gazette No. 200/1982
+be inserted separately.
+(2) In cases of professional representation of parties, a special proof of power of attorney is not required
+required if the general authority to represent is based on the professional regulations
+following note of professional authorization in the signature certificate of his E-ID or on the basis of
+Data processing that is to be carried out in accordance with professional regulations is evident. In these
+In cases, the existence of professional party representation is determined by the authority of the master data register
+Inserted into the identity link in accordance with Paragraph 1. The general authority does not include the authorization
+in accordance with Section 35 (3) second sentence of the Approval Act.
+(3) Insofar as this service is set up by authorities, regardless of their
+subject-specific and local responsibility for this purpose, specially authorized administrators for those affected on their
+Requests to set procedural actions in procedures suitable for E-ID. The order of the person concerned is
+to be documented at the authority in a suitable form. The procedural act is carried out with the help of the E-ID
+of the governor set. The general authority of the administrator to carry out the
+Procedural action for those affected must be taken from the signature certificate of his or her E-ID or from one of the
+data processing carried out by the competent authority. In these cases, the existence of the
+Authorization of the organ administrator from the master number register authority according to Paragraph 1 in the identity link
+inserted. The general authorization does not include the authorization in accordance with Section 35 (3), second sentence, of the State Act
+and the power of attorney for service in accordance with Section 9, Paragraph 1 of the Delivery Act.
+(4) If the existence of an individual power of representation is linked to the identity link (§ 4 Paragraph 2)
+inserted, the electronic signature or the electronic seal of the master number register authority is used
+the confirmation of the intact insertion of the sole power of representation from the
+Sources used in the reference number register authority. Section 4 (5), Section 14 (3) and Section 14a (2) apply
+for acting as a representative in relation to natural persons represented. For represented
+Non-natural persons must provide the master number register authority with the master number.
+
+Note for the following provision
+Paragraphs 1 and 4 to 4c and paragraph 5 only apply from the date on which the Federal Minister for
+Advertise the interior in accordance with Section 24 (6) last sentence in the Federal Law Gazette (see Section 24 (7) to (9)).
+Stem number
+§ 6. (1) In the E-ID, the unambiguous identification of those affected takes place on the basis of their original number.
+(2) For natural persons who are entered in the Central Residential Register, the original number is
+through a derivation from your ZMR number secured with strong encryption (§ 16 para. 1 of the
+Registration Act 1991 - MeldeG, Federal Law Gazette No. 9/1992). For all other natural persons is
+to use their serial number in the supplementary register (Paragraph 4) to derive the master number.
+The use of the ZMR number to form the core number does not constitute processing of personal data
+Data of the central register of residents in accordance with § 16a MeldeG.
+(3) For those affected who are registered in the commercial register, in the register of associations or in the supplementary register (para. 4)
+are registered, the reference number is the commercial register number (§ 3 Z 1 of the Commercial Register Act, BGBl.
+No. 10/1991) or the number of association registers (Section 18 (3) of the Association Act 2002, Federal Law Gazette I No. 66) or
+to use the serial number assigned in the supplementary register.
+(4) Affected persons who are not entered in the register of residents, in the commercial register or in the
+Association registers must be registered are available upon their application or in the cases of Section 10, Paragraph 2
+The request of the person responsible for data processing should be entered in the supplementary register. The
+Supplementary register is kept separately according to natural persons and other data subjects.
+In the case of natural persons, the prerequisite for registration is proof of personal data
+Data contained in the ordinance to be issued by the Federal Minister for Digitization in accordance with Section 4 (8)
+and business location are determined, for other affected parties proof of their legal status
+Inventory including its legally valid designation. To the other affected persons can
+Powers of attorney are entered. At which bodies the proof of personal
+Data for entry in the supplementary register can be provided in accordance with Section 4 (8)
+to regulate the decree issued by the Federal Minister for Digitization and Business Location. In
+
+www.ris.bka.gv.at
+
+Page 8 of 19
+
+Page 9
+Consolidated federal law
+
+This ordinance can also regulate the extent to which costs are reimbursed for the entry
+is.
+(4a) Those responsible for the public sector whose data processing in accordance with Section 10 (2) is included
+bPK, the changes to the registration data of the
+Supplementary register, as far as natural persons are concerned, as well as the date of death of those affected
+Persons, the person responsible by way of the processor, whose
+Master number register authority in accordance with § 7 Paragraph 2, in accordance with the existing technical
+Ways to report. The processor has the change on behalf of the person responsible
+to undertake.
+(4b) For the purpose of updating, the master number register authority is at the request of
+Authorized those responsible for the public sector to keep them continuously in a suitable electronic form
+the changed entry data of the supplementary register, insofar as natural persons are concerned, in
+Reference to persons for whom an area-specific personal identifier from the area is saved
+is to be transmitted, in which the respective responsible person is called for the execution.
+(4c) The processor within the meaning of paragraph 4a has on behalf of the person responsible by means of a
+Comparison between the ZMR and the supplementary register, as far as natural persons are concerned,
+data quality assurance measures, especially with regard to a possible identity of similar
+Data records in this supplementary register, on existing entries in the ZMR or on the
+Spellings of names and addresses.
+(5) Electronic identification means of another member state of the European Union, the
+the requirements of Art. 6 Para. 1 eIDAS-VO can be met by those responsible for the public
+Area like a citizen card for purposes of clear identification within the meaning of this federal law
+be used. In accordance with the technical requirements, this has to be recognized at the latest
+six months after the publication of the respective electronic identification system in the
+List according to Art. 9 eIDAS-VO. When using such an electronic
+The means of identification is for those affected who are neither in the population register nor in the supplementary register
+are entered to create an entry in the supplementary register. That's what they are for
+Personal identification data of the electronic identification means used in the
+To be entered in the supplementary register. Is there an entry for the person concerned in the population register or in the
+Supplementary register, are the personal identification data of the electronic
+To enter the identification means in the appropriate register. The master number register authority has
+at the request of the person concerned, his / her core number directly to the citizen card-compatible application in which the
+Procedural act is undertaken. The root number may only be used by this
+Calculation of bPK can be used.
+(6) Mathematical procedures for the formation of the parent number are included in the parent number register
+to use natural persons who have the ZMR number or the serial number of the
+Strongly encrypt the supplementary register. These procedures are carried out by the master number registry authority
+and - with the exception of the cryptographic key used - on the Internet
+publish.
+
+Note for the following provision
+Paragraph 2 only applies from the point in time that the Federal Minister of the Interior pursuant to Section 24 Paragraph 6
+announce the last sentence in the Federal Law Gazette (cf. § 24 paras. 7 and 8).
+Master number register authority
+§ 7. (1) The authority for the master number register is the Federal Minister for Digitization and
+Business location.
+(2) The master number register authority can be involved in the maintenance of the supplementary register as well as in
+the calculation of master numbers and the implementation of the in §§ 4, 4b, 5, 9, 10, 14, 14a and 15
+regulated procedures of the Federal Ministry of the Interior as a processor, insofar as natural
+Persons are affected, and the Federal Ministry of Finance or the Federal Statistical Office
+Serve Austria with regard to all other affected parties. The more detailed regulations on the resulting
+resulting distribution of tasks between the authority of the master data register and the federal ministry
+for the Interior, the Federal Ministry of Finance or the Federal Statistics Austria as
+Processors are regulated by the Federal Minister for Digitization and
+Business location in agreement with the Federal Minister of the Interior, the Federal Minister for
+Finances or the Federal Chancellor. Deviating from this, the
+www.ris.bka.gv.at
+
+Page 9 of 19
+
+Page 10
+Consolidated federal law
+
+Use the master number register authority for these purposes also by other or further processors.
+The master number register authority has the proper fulfillment of the tasks of the
+To check processors.
+
+Note for the following provision
+Only applies from the point in time that the Federal Minister of the Interior in accordance with Paragraph 6, last sentence
+announce in the Federal Law Gazette (see. § 24 para. 8).
+Unique identification in data processing
+§ 8. In the data processing of those responsible in the public sector, an im
+As part of the E-ID concept, the unambiguous identification of those affected with regard to
+natural persons can only be represented in the form of the bPK (§ 9). For those affected who are not natural
+Are persons, the master number may be saved for clear identification.
+Area-specific personal identifier (bPK)
+§ 9. (1) The bPK is derived from the original number of the natural person concerned
+educated. The identification function of this derivation is based on that state area of ​activity
+limited to which the data processing in which the BPK is to be processed is attributable. The
+Allocation of data processing to a specific state area of ​activity results from
+their registration with the authority of the master data register.
+(2) The demarcation of the state areas of activity is for the purposes of the formation of bPK
+ensure that related life issues in one and the same area
+are combined and incompatible data processing within the same
+Area are not provided. The designation and delimitation of these areas is through
+Ordinance of the Federal Minister for Digitization and Business Location stipulated; before issuance
+or amendment of this ordinance are the states and the municipalities, the latter represented by the
+Austrian Association of Municipalities and the Austrian Association of Cities.
+(3) The mathematical processes used to form the BPK (hash process via the
+Source number and the area identifier) ​are determined by the source number register authority and - with
+Except for the cryptographic keys used - published on the Internet.
+
+Note for the following provision
+Paragraphs 1 and 2 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (see Section 24 Paragraphs 7 and 8).
+Generation and request of BPK and master numbers of non-natural persons
+§ 10. (1) If the E-ID is used, a data subject becomes bPK in electronic proceedings
+for which the person responsible for the public area creates an environment suitable for E-ID
+has set up. For this, data processing with its assignment to a state area must be carried out
+be registered with the master number register authority. In areas in which the person responsible for the
+public area is not called for enforcement, bPK may only be encrypted (§ 13 para. 2)
+get saved.
+(2) The generation of bPK without the use of the E-ID is only permitted to the master number register authority
+and only permitted if unambiguous identification with the help of the bPK within the framework of
+Data processing by those responsible in the public sector is necessary because
+processed personal data in a manner corresponding to the GDPR and the DSG
+should be. Such cases are in particular administrative assistance, data collection on behalf of the person concerned
+or the intervention of a representative according to § 5. For the same reasons, non-natural
+To provide people with the original number. When requesting bPK from an area in
+for which the person responsible for the public sector is not called to carry out, or by bPK for
+processing in the private sector may only be made available to bPK in encrypted form (Section 13 (2))
+become.
+(3) The ordinance to be issued in accordance with Section 4 (8) also includes the reimbursement of costs for those in accordance with Section 2
+to regulate the provision of bPK in connection with professional party representation.
+
+www.ris.bka.gv.at
+
+Page 10 of 19
+
+Page 11
+Consolidated federal law
+
+Disclosure of BPK in communications
+§ 11. In notifications to the person concerned or to third parties, bPK are not to be mentioned. The
+Facilitating the assignment of such notifications to records by the person responsible for
+the same item is in some other way, such as by quoting a business number
+accomplish.
+
+Note for the following provision
+Only applies from the point in time that the Federal Minister of the Interior in accordance with Paragraph 6, last sentence
+announce in the Federal Law Gazette (see. § 24 para. 8).
+Protection of the original number of natural persons
+§ 12. (1) The confidentiality of original numbers of natural persons is subject to special protection
+through the following precautions in the E-ID concept:
+1. Permanent storage of the original number of natural persons is only allowed in encrypted
+Form.
+2. The processing of the original number of natural persons in the calculation process for the bPK is allowed
+lead to no storage of the master number outside of the calculation process. The process
+The calculation may only be carried out by or on behalf of the master data register authority
+active authority to be specified in more detail in the ordinance to be issued in accordance with Section 4 (8)
+are to be carried out.
+(2) The processing of the master number to determine a BPK may only take place:
+1. with the participation of the E-ID holder in accordance with the provisions of §§ 4 Paragraph 5, 14 Paragraph 3 and 14a
+Paragraph 2, or
+2. without the involvement of the person concerned by the master number register authority according to the details
+Provisions of Sections 10, 13 Paragraphs 2 and 15.
+Further guarantees to protect bPK
+§ 13. (1) bPK are to be formed by non-reversible derivations from the original number. This is true in
+Interest in the traceability of government action not for bPK, which exclusively in
+In connection with the activity of a person as an administrator.
+(2) Is it permissible for the purpose of unambiguously identifying a data subject in accordance with Section 10 (2),
+requesting a BPK from the master number register authority, if it is a BPK
+is an area in which the requesting party is not called to enforcement or is a
+bPK for use in the private sector is only used by the authority of the master data registry
+to be made available in encrypted form. The encryption is to be designed in such a way that
+1. only someone can decrypt in whose data processing the BPK is in decrypted form
+may be processed permissibly (Paragraph 3), and
+2. by including additional variable information not known to the requesting party in
+the encryption basis, the BPK, even in encrypted form, does not have any personal information
+Note supplies.
+(3) bPK may only be stored unencrypted in data processing if for
+Formation of the bPK the identifier of the area was used, which the data processing in
+Compliance with the ordinance issued in accordance with Section 9 (2) is attributable.
+
+Note for the following provision
+Only applies from the date on which the Federal Minister of the Interior pursuant to Section 24 (6) last
+Publication in the Federal Law Gazette (see Section 24, Paragraphs 7 to 9).
+
+3rd section
+Use of the E-ID function in the private sector or for applications abroad
+Generation of bPK for the use of the E-ID in the private sector
+§ 14. (1) For the unique identification of natural persons in electronic communication with
+A person responsible in the private sector (Section 26 (4) DSG) can use the E-ID to obtain a bPK
+are formed, with the master number or the BPK of the person responsible instead of the area identifier
+www.ris.bka.gv.at
+
+Page 11 of 19
+
+Page 12
+Consolidated federal law
+
+of the private area occurs. The prerequisite for this is that the person responsible for the private sector has a
+has set up a suitable technical environment for the use of the E-ID in which its master number or
+his bPK is made available as an area identifier in the calculation process for the bPK.
+(2) Those responsible for the private sector are only allowed to save and use bPK that are with
+Using their own master number or their own bPK as an area identifier.
+(3) If the E-ID holder uses the E-ID in electronic communication in accordance with Paragraph 1 is through the
+Master number register authority or the authority acting on its behalf a personal link (§ 4
+Paragraph 2), which contains a BPK for the E-ID holder, and to the relevant data processing
+to transfer. If the creation of the identity link is made by means of a qualified electronic signature of the
+E-ID holder triggered (§ 2 Z 10a first case), the qualified VDA has the encrypted master number
+and to make the associated security data available to the master number register authority. With
+The consent of the E-ID holder can be entered into the personal link first name, family name or
+
+Date of birth, as well as further characteristics to this from for, depending on the technical possibilities
+the registers of persons responsible for the public or
+private area. Section 4 (6) is to be applied accordingly.
+
+Note for the following provision
+1. If the technical and organizational requirements for real operation of the E-ID according to
+The announcement according to § 24 Paragraph 6 is not yet available until the date of the start of the
+Citizen cards issued in real operation determine the legal situation prior to the entry into force of this Federal Act, Federal Law Gazette I
+No. 121/2017 apply. This time is from the Federal Minister of the Interior in the Federal Law Gazette
+to be announced (cf. § 24 Paragraph 6).
+2. Paragraph 2 only applies from the point in time that the Federal Minister of the Interior pursuant to Section 24 Paragraph
+6 last sentence announces in the Federal Law Gazette (see. § 24 para. 9).
+E-ID-compatible applications abroad
+§ 14a. (1) For E-ID-compatible applications abroad, Section 14 Paragraph 1 is subject to the following
+apply that instead of the area identifier, a country-specific identifier or at
+Applications of international organizations to use an organization-specific identifier
+is.
+(2) If the E-ID holder uses the E-ID in electronic communication in accordance with Paragraph 1, the
+Master number register authority or the authority acting on its behalf a personal link (§ 4
+Paragraph 2), which contains a bPK, first name, family name and date of birth for the E-ID holder,
+and to transmit it to the relevant data processing company. Will create the identity link
+triggered by means of a qualified electronic signature of the E-ID holder (§ 2 Z 10a first case), the
+qualified VDA the encrypted master number and the associated security data of the
+To make available the master number register authority. According to the technical possibilities
+With the consent of the E ID holder, additional characteristics can be added to the identity link for
+the registers of persons responsible for the public or
+private area.
+
+Note for the following provision
+The heading and paragraph 1 only apply from the point in time that the Federal Minister of the Interior
+publishes in the Federal Law Gazette in accordance with Section 24 (6) last sentence (see Section 24 (7) and (8)).
+Guarantees to protect the original number and the BPK when processing in the private sector
+§ 15. (1) The creation of a bPK for processing in the private sector is without participation
+of the person concerned and without the use of the E-ID is permitted if unambiguous identification with the help of the
+bPK is necessary in the context of data processing by those responsible in the private sector,
+because
+1. These responsible persons based on legal regulations the identity of their customers
+have to hold on or provide their customers with a corresponding to Section 14 (1), second sentence
+provide technical environment and
+2. Personal data in a manner that complies with the GDPR and the DSG
+should be processed.
+
+www.ris.bka.gv.at
+
+Page 12 of 19
+
+Page 13
+Consolidated federal law
+
+If one person responsible for the private sector transfers personal data to another
+Responsible person has to transmit, this can be like a person responsible for the public sector
+Request encrypted BPK (§ 13 Paragraph 2).
+(2) The Federal Minister of the Interior is authorized to reimburse the costs for the generation of the
+bPK and the encrypted bPK according to Paragraph 1 to determine the costs incurred by ordinance.
+
+4th section
+Electronic record of data
+for personal data about independent economic activities
+§ 16. (1) Electronic evidence of the type of self-employed activity and of the
+The professional authorizations required for this can be obtained by using the
+Documentation register according to § 114 Abs. 2 BAO.
+(2) Insofar as proof of the personal data referred to in Paragraph 1 is provided in proceedings
+is necessary for a person in charge of the public sector, he can do this himself by the person concerned
+Submission of the information electronically signed or sealed by the documentation register provided or
+at the request of the person concerned by the person responsible by means of electronic inspection of the
+Register can be obtained. The official procurement of the evidence is available when the
+legal requirements for this data collection.
+for personal data from registers
+§ 17. (1) As far as the correctness of the personal data stored in the central register of residents is concerned
+Data on civil status and nationality from the registration authorities through inspection of the
+relevant documents (standard documents) have been checked, they have to inform the central office
+To notify the register of residents, as a result of which the examination in the central register of residents was carried out in a suitable manner
+electronically readable is to be noted. This comment can also be made by the person concerned outside of a
+The registration process will be required if the registration authority has confirmed the correctness of a registration date
+Proof of submission of the relevant documents.
+(2) If the authorities have to assess the correctness of personal data contained in a
+electronic registers of a person in charge of the public sector are included, they have according to
+Provision of the technical possibilities, if the consent of the person concerned to the data acquisition
+or there is a legal authorization for official data collection, the data collection in
+Carry out long-distance data traffic yourself, if necessary. The authority has the
+To inform those affected of the possibility of consent to data collection. The data discovery
+replaces the submission of proof of the personal data by the party or the involved party.
+Electronic inquiries to the central register of residents are to be made in accordance with Section 16a (4) of the Registration Act
+to treat.
+(3) Those affected can make use of the electronic availability of verified reporting data
+do by them
+1. in procedures in which the submission of standard documents within the meaning of Paragraph 1 is required
+is in the procurement of the required personal data from the headquarters
+Consent or
+2. an electronically signed or sealed registration confirmation of the with an official signature (§ 19)
+Request the central register of residents in which the fact of the verified correctness of the
+individual reporting data is noted.
+
+Note for the following provision
+Only applies from the date on which the Federal Minister of the Interior pursuant to Section 24 (6) last
+Publication in the Federal Law Gazette (see Section 24, Paragraph 9).
+about personal data from electronic registers of a person in charge of the public
+or private area
+Section 18. (1) Personal data that is processed in accordance with Section 4b (1) 1 to 5 and 8 or in a for the
+The electronic register of a person responsible for the
+Public or private areas are included when using the E-ID function
+Subject to the technical possibilities
+1. the E-ID holder himself,
+www.ris.bka.gv.at
+
+Page 13 of 19
+
+Page 14
+Consolidated federal law
+
+2. Person in charge of the public sector on behalf of the E-ID holder for procedures for the
+they have set up a technical environment suitable for the use of the E-ID, or
+3. Third parties on behalf of the E-ID holder, provided that they have been given use of the E-ID system and
+has not yet been prevented,
+to submit. It must be ensured that the logging of the data transmission from the E-ID
+System on behalf of the E-ID holder without prejudice to the data protection obligations of the
+The controller and its processors are only accessible to the E-ID holder.
+(2) The Federal Minister of the Interior is authorized to allow third parties to use the E-ID
+System to open. Third parties in accordance with Paragraph 1 No. 3 have to contact the Federal Minister of the Interior for this purpose
+to register. Use is not to be opened or prevented if there are indications that
+that third parties do not use the personal data made available to them in accordance with the principle
+processed in good faith and lawfully. Third have the federal minister
+to announce every circumstance for interior that stands in the way of its use. The Federal Minister for
+Interior is entitled to use the E-ID system for the purpose of opening up remote data traffic
+1. Information on legally binding criminal convictions that have not been redeemed (Section 9 Paragraph 1 Item 1
+of the Criminal Records Act 1968, Federal Law Gazette No. 277/1968) of those responsible according to § 9 of
+Administrative Criminal Law (VStG), Federal Law Gazette No. 52/1991, in particular because of illegal
+Access to a computer system (Section 118a of the Criminal Code - StGB, Federal Law Gazette No. 60/1974),
+Violation of telecommunications secrecy (Section 119 StGB) or because of the
+improper interception of data (§ 119a StGB), as well as
+2. the exact designation of the trade (Section 365a, Paragraph 1, Item 5 of the Trade Regulations 1994
+(GewO 1994), Federal Law Gazette No. 194/1994, from the Austrian Business Information System (GISA) according to
+§ 365 GewO 1994 using the GISA number
+query. In a specific case, the personal data transmitted in accordance with Paragraph 1 may only be used for
+the own purposes that have been made credible are processed; the mere passing on by way of
+Use of the personal data obtained by E-ID to third parties is not a separate purpose in the sense of this
+Determination.
+(3) The Federal Minister of the Interior is in agreement with the Federal Minister for Digitization
+and business location are authorized to set out more detailed provisions on the procedure pursuant to Paragraphs 1 and 2
+to be determined by ordinance, in particular to what extent other than entrepreneurs and associations
+Participants in the company service portal in accordance with Section 5 of the Company Service Portal Act (USPG),
+BGBl. I No. 52/2009, or other third parties can be registered and to what extent third parties according to Paragraph 1 No. 3
+to reimburse both the costs for opening use and for using the E-ID system
+to have.
+(4) The legality of the accessibility of electronic registers of a person responsible for
+public area for the master number register authority within the meaning of paragraph 1 is due to a
+Legal basis to be judged in a material law. The one for the respective data processing
+The competent federal minister can, within the framework of a legal authorization to process data, which
+for a transfer in accordance with paragraph 1 relevant identity data, information about
+Authorizations as well as circumstances that the person concerned would like to prove, with regulation in more detail
+concretize.
+(5) Insofar as third parties in accordance with Paragraph 1 No. 3 are entrepreneurs within the meaning of Section 1 of
+Corporate Code (UGB), dRGBl. S 2019/1897, or to clubs within the meaning of § 1 of
+Association Act 2002 (VerG), Federal Law Gazette I No. 66/2002, have to do so in the course of the application
+in any case
+1. the name and legal form within the meaning of Section 25, Paragraph 1, Item 1 of the Federal Statistics Act 2000,
+Federal Law Gazette I No. 163/1999,
+2. the persons responsible according to § 9 VStG,
+3. the data in accordance with Section 25 (1) 2 and 3 of the Federal Statistics Act 2000,
+4. if applicable, the GISA number, the commercial register number, the ZVR number and the logo,
+5. the object of the company or the purpose of the association,
+6. the telephone number and an email address of the company or association as well
+7. the purposes that have been made credible for the use of the E-ID system
+if this data has not already been entered in the company register in accordance with Section 25 of the
+Federal Statistics Act 2000 can be determined. In addition, the entrepreneur or the
+Association's academic degree, first and last name, telephone number and email address
+specify one or more contact persons.
+www.ris.bka.gv.at
+
+Page 14 of 19
+
+Page 15
+Consolidated federal law
+
+(6) The third party pursuant to Paragraph 1 No. 3 has a change to the information specified in the course of registration
+To inform the Federal Minister of the Interior immediately. Participant of the
+Company service portals according to § 5 USPG have made these changes by way of
+Announce corporate service portals. Will the E-ID system over a period of five
+Years not used, all data of the third party must be deleted.
+(7) If third parties have been given access to the E-ID system in accordance with Paragraph 1 No. 3, they have
+to notify the Federal Minister of the Interior immediately if:
+1. a credible purpose according to paragraph 2 or the person responsible according to § 9 VStG
+changes or
+2. Third parties no longer want or are no longer allowed to pursue the purposes made credible in accordance with Paragraph 2.
+
+5th section
+Special features of electronic filing
+Official signature
+§ 19. (1) The official signature is an advanced electronic signature or an advanced one
+electronic seal, whose specialty is indicated by a corresponding attribute in the signature certificate or
+Certificate for electronic seal is shown.
+(2) The official signature is used to make it easier to identify the origin of a document
+Public sector manager. It may therefore only be used by this person in charge
+of the public area under the detailed conditions of para. 3 for the electronic
+Signing and used in the preparation of the documents generated by him.
+(3) The official signature is in the document by a figurative mark, which the person responsible for
+public area on the Internet as his secured, as well as by a notice in
+Document that this has been officially signed. The information about checking the
+electronic signature or electronic seal are from the person in charge of the public
+Area.
+
+Note for the following provision
+If the technical and organizational requirements for real operation of the E-ID according to the
+The announcement according to § 24 Paragraph 6 is not yet available until the date of the start of the
+Citizen cards issued in real operation determine the legal situation prior to the entry into force of this Federal Act, Federal Law Gazette I
+No. 121/2017 apply. This time is from the Federal Minister of the Interior in the Federal Law Gazette
+to be announced (cf. § 24 Paragraph 6).
+Evidence of printouts
+§ 20. An electronic document of an authority printed out on paper has the evidential value of a
+public document (Section 292 of the Code of Civil Procedure - ZPO, RGBl. No. 113/1895), if that
+electronic document has been provided with an official signature. The official signature must go through
+Return of the document from the printed to the electronic form verifiable or the
+Document must be verifiable by other means of the authority. The document has one
+Reference to the reference on the Internet where the procedure for returning the expression to the
+electronic document and the applicable checking mechanisms are included, or a reference to
+to contain the process of verification.
+
+Note for the following provision
+If the technical and organizational requirements for real operation of the E-ID according to the
+The announcement according to § 24 Paragraph 6 is not yet available until the date of the start of the
+Citizen cards issued in real operation determine the legal situation prior to the entry into force of this Federal Act, Federal Law Gazette I
+No. 121/2017 apply. This time is from the Federal Minister of the Interior in the Federal Law Gazette
+to be announced (cf. § 24 Paragraph 6).
+Submission of electronic files
+§ 21. (1) Insofar as files have to be submitted by one authority to another authority, and
+If these files were generated electronically and approved electronically, the submission obligation relates to
+this electronic original. This is especially true for files from a continuously electronic
+www.ris.bka.gv.at
+
+Page 15 of 19
+
+Page 16
+Consolidated federal law
+
+guided file processing and management system. The template must be in a standard format
+respectively.
+(2) Standard formats are those electronic formats that make a document easier to read
+also for third parties during the expected retention period according to the state of the art
+ensure as best as possible.
+(3) If the authority to which the electronic file is to be submitted has an electronic delivery service with it
+entrusted with the receipt of consignments for the authority, the file template, in particular if
+it should be verifiable, also take place via this delivery service. The provisions of Section 3
+of the Service Act apply accordingly with the proviso that the submission with the
+Electronic dispatch of the notification of the provision is effected the following day.
+
+5a. section
+Liability provisions
+liability
+§ 21a. (1) Scope and extent of the damage to be compensated according to Art. 11 of the eIDAS-VO, as well as
+Any rights of recourse against other persons are based on what is otherwise in the case of damage
+applicable provisions.
+(2) Claims for compensation against other persons or for another legal reason remain
+untouched.
+
+6th section
+Criminal provisions
+Inadmissible processing of master numbers or bPK or inadmissible use of
+Official signatures
+Section 22. (1) Unless the act is subject to other administrative penal provisions with more severe penalties
+is threatened, commits an administrative offense, which is fined by the district administrative authority
+Up to 20,000 euros can be penalized for whoever
+1. the original number of a natural person or their BPK contrary to the provisions of the 2.
+or Section 3 procures them for the unlawful identification of personal data
+of the person concerned, or
+2. a BPK of another person in charge of the private sector saves or uses without authorization
+or
+3. Other responsible persons in the private sector the CPC formed with their own core number
+makes available in an improper manner or
+4. As the person responsible for the private sector, a BPK used to provide third parties with personal
+To provide data on a registered place of residence of the person concerned or
+5. uses an official signature contrary to Section 19 (2) or pretends to be using it.
+(2) The penalty for forfeiture of objects (Sections 10, 17 and 18 VStG) that are associated with a
+Administrative offenses related to paragraph 1 can be pronounced.
+(3) The authority in whose district the
+Act has been committed.
+
+7th section
+Transitional and final provisions
+Linguistic equality
+§ 23. As far as in this article referring to natural persons terms only in masculine
+Form, they refer to all genders in the same way.
+Come into effect
+§ 24. (1) With the exception of its 4th section, this federal law shall come into force on March 1, 2004.
+The 4th section comes into force on January 1, 2005.
+
+www.ris.bka.gv.at
+
+Page 16 of 19
+
+Page 17
+Consolidated federal law
+
+(2) The table of contents, Section 1 (3), Section 2 (8) and (10), Section 3 (1), Section 5, Section 6 (2 to 6), Section 7 (2),
+§ 8, the paragraph heading before § 9, § 9 paragraphs 1 and 2, the paragraph heading before § 10, § 10 paragraph 1
+up to 3, the paragraph heading before § 11, § 11, § 12 para. 1 no. 4 and para. 2, the paragraph heading before
+Article 13, Article 13 Paragraphs 1 to 3, the paragraph heading before Article 14, Article 14 Paragraphs 1 and 2, the paragraph heading
+before Section 15, Section 15 (1) and (2), Section 19 (1) to (3), Section 20, the paragraph heading before Section 22, Section 22 (1) (1)
+to 4 and Section 25 Paragraphs 1 to 3 in the version of the Federal Law Gazette I No. 7/2008 come into force on January 1st
+In force in 2008; at the same time, § 2 no.3 ceases to apply.
+(3) The table of contents, the heading to Section 17 and Section 17 Paragraph 2 in the version of
+Budget Accompanying Act 2011, Federal Law Gazette I No. 111/2010, comes into force on January 1, 2011. Section 17 (2) in the
+Version of the said federal law is by authorities when the technical and
+organizational requirements at the authority and the person responsible for the relevant
+Register, but no later than December 31, 2012.
+(4) The table of contents, the heading of the 2nd section, § 2 Nos. 1, 4, 10 and 11, § 2a,
+Section 4 (2), Section 6 (4) and (6), Section 7 (1), Section 8, the paragraph heading before Section 9, Section 10 (2), the
+Section heading of the 3rd section, Article 14, Paragraph 1, Article 14a, Article 16, Paragraph 2, Article 17, Paragraph 2 and Paragraph 3, item 2, Article 19
+Paragraphs 1 and 3, § 22 Paragraphs 1 and 2, the paragraph heading before § 24 and the paragraph heading
+Section 26 as amended by Federal Law Gazette I No. 50/2016 comes into force on July 1, 2016. Simultaneously
+§ 2 No. 6 and § 25 including the heading shall cease to apply.
+(5) The table of contents, the heading of Section 2, Section 2, Item 11, Section 4, Paragraph 5, Section 6, Paragraph 2, Section 10
+Paragraph 2 last sentence and paragraph 3, § 13 paragraph 2 first sentence, § 15 paragraph 1, 1a and 2 last sentence, the heading
+on Section 17, Section 17 (2) last sentence, Section 21 (3) and Section 25 including the heading in the version of the
+Deregulation Act 2017, Federal Law Gazette I No. 40/2017, come into effect at the end of the day on which the
+mentioned federal law in force. Section 1a including the heading in the version of the aforementioned federal law
+comes into force on January 1, 2020. Section 1b including the heading in the version of the aforementioned federal law comes into effect
+with the beginning of the seventh on the day of the announcement of the availability of the display module
+Section 37b (8) of the Delivery Act comes into force the following month (note: 1) .
+(6) The table of contents, the heading of the 2nd section, § 2 Z 10, §§ 4, 4a, 4b and 5 together
+Headings, Section 6 Paragraphs 1, 4 and 5, Section 7 Paragraph 2, Section 8 first sentence, Section 10 including the heading, Section 12, the heading
+of the 3rd section, § 14 paras. 1 and 3, § 14a including the heading, § 15, § 18 including the heading, the
+Section 5, Section 25 (2) and (3) and Section 28 (1) and (4) come into effect at the end of the day on which this is announced
+Federal Act and, with the exception of Section 25 Paragraphs 2 and 3, only apply if the
+the technical and organizational requirements for real operation of the E-ID are in place. This
+The time must be announced by the Federal Minister of the Interior in the Federal Law Gazette.
+(7) The entries in the table of contents for Sections 8, 14, 15 to 18 and 22, Section 3, Section 4 Paragraphs 1, 2, 4, 5 and
+6, Section 4a Paragraphs 3 to 5, Section 4b, Section 5 Paragraphs 1 to 3, Section 6 Paragraphs 2 and 4, Section 7 Paragraph 2, Section 8 including the heading, Section 9 Paragraph 1
+and 2, Section 10 (1) and (2), Section 11, Section 12, Section 13, Section 14 including the heading, Section 14a (2), the heading for Section 15,
+Section 15 (1), the heading to Section 16, Section 16 (2), Section 17 including the heading, the heading to Section 18, Section 18
+Paragraphs 1 and 2, Section 19 Paragraphs 2 and 3, the heading to Section 22, Section 22 Paragraph 1, Section 24 Paragraph 3 and Section 25 Paragraph 2 in
+of the 2018 version of the Data Protection Adjustment Act, Federal Law Gazette I No. 32/2018
+May 25, 2018 come into effect and, with the exception of the entry in the table of contents for Section 22 and Section 3,
+Section 6 (2), Section 9 (1) and (2), Section 11, Section 13, the heading to Section 16, Section 16 (2), Section 17 including the heading, Section 19
+Paragraphs 2 and 3, the heading to Section 22, Section 22, Section 1, Section 24, Section 3 and Section 25, Section 2 only from the point in time
+Application that the Federal Minister of the Interior in accordance with Paragraph 6, last sentence in the Federal Law Gazette
+announces. Section 6 (5) in the version of the Data Protection Adaptation Act 2018, Federal Law Gazette I
+No. 32/2018, enters into force by the Federal Minister of the Interior in accordance with Paragraph 6 in the Federal Law Gazette
+announced date in force.
+(8) Article 4 (8), Article 4a (6), Article 5 (1), Article 6 (4), Article 7, Article 9 (1) and (2), Article 10 (2), the heading
+to Section 14, the heading to Section 15 and Section 15 (1) no.2, Article 18 (3), Article 19 (2), Article 25 (3) and Article 28 (1)
+to 3 and 4a in the version of the Federal Law, Federal Law Gazette I No. 104/2018 come into effect at the end of the day of
+Publication in force and, with the exception of Section 7 (1), Section 9 (1) and (2), Section 19 (2) and Section 25
+Paragraph 3 and Section 28 Nos. 2, 3 and 4a only apply from the date on which the Federal Minister of the Interior
+publishes in the Federal Law Gazette in accordance with Paragraph 6 last sentence Section 6 (5) as amended by
+Federal Law Gazette I No. 104/2018 comes into force on September 29, 2018 and with the dated
+Federal Minister of the Interior according to Paragraph 6 in the Federal Law Gazette again except
+Force. Section 1 (3) expires on September 22nd, 2020.
+(9) The entry in the table of contents for Section 18, Section 1b (1), Section 2 (10a), Section 4 (4 to 6), and Section 4a (3)
+and 4, Section 4b, Paragraph 1, Items 1 and 8, Paragraphs 2 to 5, Section 6, Paragraph 1 and Paragraphs 4 to 4c, Section 14, Section 14a, Paragraph 2, Section 18 including
+Heading, Section 23, Section 25 (2) and Section 28 (4) in the version of the Federal Law, Federal Law Gazette I No. 169/2020
+www.ris.bka.gv.at
+
+Page 17 of 19
+
+Page 18
+Consolidated federal law
+
+come into force at the end of the day of the announcement and, with the exception of § 1b Paragraph 1 and
+Section 25 (2) only applies from the date on which the Federal Minister of the Interior pursuant to (6) last
+Sentence in the Federal Law Gazette.
+________________________
+(Note 1: The announcement was made on May 30, 2018 with Federal Law Gazette I No. 33/2018.)
+Transitional provision
+§ 25. (1) The courts and administrative authorities, their establishment in legislation is a federal matter
+are obliged to complete the technical and organizational details by January 1, 2020 at the latest
+To create the prerequisites for electronic communication with those involved in accordance with Section 1a.
+(2) From the announcement of the federal law, Federal Law Gazette I No. 121/2017, the guarantee
+secure operation for the full use of the E-ID using the
+necessary provisions of this federal law in terms of time, location or specific
+Pilot operations limited to groups of people carried out with processing of personal data
+provided that the data subjects participate voluntarily. The processed as part of the pilot operation
+Registration data may be used from the point in time specified in Section 24 (6) for the purpose of
+Administration and use of the E-ID in accordance with Section 4b, Paragraph 1 and Section 18, Paragraph 1. The
+Processing of this data for other purposes is only permitted on the basis of a statutory order.
+Affected persons who have already been carried out before the point in time determined in accordance with Section 24 (6) as part of a pilot operation
+have been officially registered using Section 4a, their E-ID may be used until the expiry of the
+Continue to use the period of validity.
+(3) If the technical and organizational requirements for real operation of the E-ID according to
+of the announcement according to § 24 Paragraph 6 is not yet available until the date of the admission of the
+Citizen cards issued in real operation determine the legal situation prior to the entry into force of this Federal Act, Federal Law Gazette I
+No. 121/2017 apply. The Federal Minister of the Interior is in agreement with the
+Federal Minister for Digitization and Business Location authorized by ordinance for
+Citizen card holders a simplified process for switching from the citizen card to an E-ID
+to be provided.
+Issuing and entry into force of ordinances
+§ 26. Ordinances based on this Federal Act in its current version are already permitted
+be issued from the day of the announcement of the legal provisions to be implemented
+follows; however, they may not come into force before the statutory provisions to be implemented.
+References
+Section 27.If this federal act refers to provisions of other federal statutes,
+these are to be applied in their currently valid version.
+
+Note for the following provision
+1. Re. 1 and 4: If the technical and organizational requirements for real operation of the EID according to the announcement according to § 24 Paragraph 6 is not yet available, is for until the time of
+Citizen cards issued when real operations commence the legal situation before this came into force
+Federal Law, Federal Law Gazette I No. 121/2017, apply. This point in time is determined by the Federal Minister for
+To announce the interior in the Federal Law Gazette (cf. §§ 24 Paragraph 6 and 25 Paragraph 3).
+2. Items 1 and 4 only apply from the point in time that the Federal Minister of the Interior pursuant to Section 24
+Paragraph 6, last sentence, publishes in the Federal Law Gazette (see Section 24 Paragraphs 8 and 9).
+Completion
+§ 28. The following are entrusted with the implementation of this federal law:
+1. With regard to Section 4 (8), the Federal Minister for Digitization and Business Location im
+Agreement with the Federal Minister of the Interior and any other competent person
+Federal Ministers,
+2. With regard to Section 7 (2), the Federal Minister for Digitization and Business Location im
+Agreement with the Federal Minister of the Interior, the Federal Minister of Finance or the
+Federal Chancellor, depending on whether it is about services relating to basic numbers more natural
+Persons or services relating to master numbers of non-natural persons
+and which processor is the Federal Minister for Digitization and
+Business location served
+
+www.ris.bka.gv.at
+
+Page 18 of 19
+
+Page 19
+Consolidated federal law
+
+3. with regard to Section 9 (2), the Federal Minister for Digitization and Business Location,
+4. with regard to Section 4a Paragraphs 1 to 5, Section 4b, Section 17 Paragraphs 1 and 3 and Section 18 Paragraphs 2 to 7 of
+Federal Minister of the Interior,
+4a. the Federal Minister of the Interior with regard to Section 4a (6), Section 18 (3) and Section 25 (3)
+in agreement with the Federal Minister for Digitization and Business Location,
+5. with regard to Section 16, the Federal Minister of Finance,
+6. Otherwise, if it is not the responsibility of the federal government or the state governments, everyone
+Federal Minister within the scope of his sphere of activity.
+
+Article 2
+Notification notice in accordance with Article 12 of Directive 98/34 / EC
+(Note: from Federal Law Gazette I No. 7/2008, on §§ 1 - 3, 5 - 15, 19, 20, 22 and 25, Federal Law Gazette I No. 10/2004)
+This law was made in compliance with the provisions of Directive 98/34 / EC on a
+Information procedures in the field of standards and technical regulations and regulations for
+Information Society Services, OJ No. L 204 of 21.7.1998, p. 37 as amended by
+Directive 98/48 / EC, OJ No. L 217 of 5.8.1998, p. 18, under the notification number 2007/450 / A
+notified.
+Article 2
+Notification notice in accordance with Article 9 of Directive (EU) 2015/1535
+(Note: from Federal Law Gazette I No. 121/2017, on §§ 2, 4 - 10, 12, 14 - 15, 18, 21a, 25 and 28, Federal Law Gazette I
+No. 10/2004)
+This law was made in compliance with the provisions of Directive (EU) 2015/1535 on a
+Information procedures in the field of technical regulations and regulations for services
+of the information society (codified text), OJ No. L 241 of 17.09.2015 p. 1, under the
+Notification number 2017/166 / A notified.
+
+Article 25
+Notification Notice
+(Note: from Federal Law Gazette I No. 50/2016, on §§ 2, 2a, 4, 6 to 10, 14, 14a, 16, 17, 19, 22, 25 and 26, Federal Law Gazette I
+No. 10/2004)
+This law was made in compliance with the provisions of Directive (EU) 2015/1535 on a
+Information procedures in the field of technical regulations and regulations for services
+of the information society (codified text), OJ No. L 241 of 17.09.2015 p. 1
+(Notification number: 2016/142 / A).
+
+www.ris.bka.gv.at
+
+Page 19 of 19
+
+

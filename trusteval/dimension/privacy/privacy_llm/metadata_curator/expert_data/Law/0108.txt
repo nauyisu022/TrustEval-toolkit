@@ -1,0 +1,401 @@
+Page 1
+
+INSTRUCTIONS ON
+PRIVACY
+REPRESENTATIVE
+In general
+One of the innovations introduced by the EU Privacy Regulation 2016/679,
+(pvrg.) is an obligation to appoint a privacy officer for all institutions and some companies.
+According to the regulation, certain parties are obliged to appoint a privacy officer, e.g.
+government and other agencies. Companies are also required to nominate
+privacy officer if their main activity involves processing operations that require, by nature
+its scope and / or purpose, extensive, regular and systematic monitoring of registered
+individuals.
+It should be noted that the Privacy Officer is not personally responsible if the rules are not followed.
+It is first and foremost the responsibility of the guarantor or the processor himself to ensure and be able to demonstrate
+that the processing of personal data that takes place is in accordance with the rules ("liability").
+The Privacy Regulation considers the Privacy Officer to be a key employee and recommends
+for the conditions of his employment, position and tasks. The aim is to give weight to his role
+in order to ensure that guarantors and processors comply with the rules and strengthen at the same time
+the Privacy Officer in his / her work.
+In 37.-39. gr. pvrg. is about a privacy officer.
+
+1st edition, February 2018
+
+Page 2
+
+Table of contents
+General ................................................. .................................................. .................................. 1
+A.
+
+Appointment of Privacy Officer ................................................ ................................. 3
+1.
+
+Which institutions / companies must nominate a privacy officer? .................................................. ............... 3
+
+2.
+
+What does "main activity" mean? ............................................ .................................................. .......................................... 3
+
+3.
+
+What does "extensive processing" mean? .................................................. .................................................. ........................ 4
+
+4.
+
+What does "regular and systematic monitoring" mean? ......................................... .................................................. .............. 5
+
+5.
+
+Can organizations or companies nominate a joint privacy officer? If so, under what
+
+circumstances? .................................................. .................................................. .................................................. ..................... 5
+6.
+
+Where should the Privacy Officer be located? .................................................. .............................................. 6
+
+7.
+
+Is it possible to appoint an external contractor as a privacy officer? .............................................. 6
+
+8.
+
+What conditions must a privacy officer meet? .................................................. ....................................... 7
+
+B.
+
+The position of the Privacy Officer ................................................ ...................................... 7
+9.
+
+What facilities or resources must the privacy officer have with the responsible party or
+
+processor? .................................................. .................................................. .................................................. ........................... 7
+10.
+
+How is it ensured that a privacy officer can carry out his / her work independently? What does it mean
+
+"Conflict of interest"? .................................................. .................................................. .................................................. ............ 8
+
+C.
+
+Tasks of the Privacy Officer ................................................ ................................. 9
+11.
+
+What is compliance monitoring? .................................................. .................................................. .................... 9
+
+12.
+
+Is the Privacy Officer personally responsible if the privacy policy is not followed? ................ 9
+
+13.
+
+What is the role of the Privacy Officer in assessing the impact on privacy (MAP) and making a file
+
+over processing activities? ............................................... .................................................. .................................................. ................. 9
+
+1st edition, February 2018
+2
+
+Page 3
+
+A. Appointment of a Privacy Officer
+1. Which organizations / companies must nominate a privacy officer?
+A privacy officer must be appointed when:
+• processing is carried out by the government (regardless of what personal information is processed). The same thing applies
+applies to municipalities.
+• the main activity of the responsible party or processor is related to processing operations, which include
+extensive, regular and systematic monitoring of individuals.
+• the main activity of the guarantor or processor is extensive processing of sensitive materials
+personal information or personal information relating to criminal convictions and criminal offenses.
+Attention is drawn to the fact that the law may oblige certain companies to appoint a privacy officer. Then
+companies can see the benefit of appointing a privacy representative even though they are not obliged to, but check
+that the same demands are then made on him as when he is obliged to be nominated.
+It is considered that the companies that carry out projects carried out in the public interest
+or for the exercise of official authority, also appoint a Data Protection Officer even if they are not included
+government. Examples include those involved in public transport, road construction or
+the media, energy utilities, housing agencies or public regulators of certain professions.
+When a data protection officer has been appointed by the company or authority in question, it is necessary
+responsible party to report who he is to the Data Protection Authority. It can be assumed that such registration will
+take place electronically on the Data Protection Authority's website when the legislation has entered into force.
+For further information, see the first paragraph. Article 37 pvrg.
+
+2. What does 'main activity' mean?
+The concept of principal activity implies that the processing of personal data must be one of the key elements in
+activities of guarantors or processors. The term also includes when processing
+personal information is an integral part of the business. Processing of health information, which are included
+sensitive personal information, is, for example, part of the main activities of all healthcare institutions and therefore
+such bodies must appoint a privacy officer.
+However, most organizations and / or companies carry out various support activities, for example in connection with
+payment of wages or operation of computer systems. Such ancillary activities are not considered as main activities
+company / institution, although these activities are certainly necessary and inevitable for daily
+activities and often involves the processing of personal information.
+For further information, see points b and c of the first paragraph. Article 37 pvrg.
+
+Example
+A small family business sells home appliances in a small town and uses the services of a processor. Main activity
+the processor is providing services for the analysis of the family business website and assistance with that
+find audiences for your ads. The activities of the family business do not involve extensive
+processing of personal data about customers, in view of the small number of customers and that
+the company has very limited operations. On the other hand, the processing of personal information is considered
+1st edition, February 2018
+3
+
+Page 4
+
+the processor, which has many customers like this small business, be extensive.
+The processor must therefore appoint a privacy representative according to Art. paragraph 1 (b) Article 37
+of the Privacy Regulation. However, the small family business is not required to nominate
+Privacy Officer.
+Example
+A medium-sized production company negotiates with an external processor to handle
+health care for employees. The processor has many comparable customers.
+The processor must appoint a privacy representative, cf. paragraph 1 (c) Article 37 pvrg., if the processing is
+extensive. However, the production company is not obliged to do so.
+
+3. What does "extensive processing" mean?
+When processing is extensive is not defined in the regulation. Responsible party or processor
+need to evaluate it each time, for example from:
+• number of registered persons - either based on a specific number or based on a ratio based on e.g.
+population,
+• amount of personal information and / or types of different personal information processed
+with,
+• the duration of the processing activity or the retention period of the information,
+• the geographical boundaries of the processing activities.
+Examples of extensive processing:
+• Processing of medical record information in the regular activities of health institutions,
+• Processing of travel information by individuals traveling by public transport in municipalities
+(monitoring using transport maps),
+• Processing of real-time location information about fast food chain customers, which takes place in
+for statistical purposes by a processor who is an expert in the field,
+• Processing of personal information by insurance companies and banks about existing customers
+regular communication,
+• The processing of personal information by a search engine about the behavior of individuals on the Internet, for that purpose
+to offer personalized ads (e.g. based on search history),
+• Processing of personal information (such as the content of communications, electronic communications traffic or location) at
+telecommunications companies or Internet service providers (ISPs).
+Examples of processing that is not considered extensive:
+• Processing of medical record information by a self-employed healthcare professional (self-employed),
+• Processing of personal data concerning convictions in criminal cases or criminal offenses by individuals
+lawyers / attorneys.
+For further information, see points b and c of the first paragraph. Article 37 pvrg.
+
+1st edition, February 2018
+4
+
+Page 5
+
+4. What does "regular and systematic monitoring" mean?
+The regulation does not define what constitutes regular and systematic monitoring, but it applies to everyone
+types of monitoring and making / use of personal profiles on the Internet, e.g. á m. for personalized ads.
+It is important to keep in mind that regular and systematic monitoring is not limited to each
+kind of monitoring of behavior on the Internet.
+Examples of activities that may involve regular and systematic monitoring of individuals (the other
+registered):
+• Operation of electronic communications network and electronic communications services,
+• Marketing to individuals by e-mail, marketing activities based on
+collection of personal information and marketing based on individual behavior (e.
+behavioral advertising),
+• Preparation of personal profiles and risk assessment, eg credit rating, when deciding on payment
+insurance premiums, to prevent fraud or money laundering,
+• Location tracking, such as the use of small programs
+("Open"),
+• Processing of personal information in connection with membership in companies,
+• Monitoring of movement according to information from health watches or other types of health equipment
+worn by an individual,
+• use of security cameras,
+• Use of Internet of Things, such as smart meters, smart cars, smart home appliances
+and more.
+The word " regularly " is considered to mean one of the following:
+• Continuous or at regular intervals during a given period,
+• Renewed or repeated at certain times,
+• Constant or happens at a specific time.
+The word ' systematic' is considered to mean one of the following:
+• That processing takes place according to an organized process or system,
+• That processing is predetermined or planned,
+• That processing is carried out as part of a general plan for gathering information,
+• That processing is carried out as part of the policy of a company or institution.
+For further information, see point b of the first paragraph. Article 37 pvrg.
+
+5. Can agencies or companies nominate a joint privacy officer? If so,
+under what circumstances?
+Yes, a group of undertakings may nominate a privacy officer for
+more than one of the companies under it. However, it is a condition that each establishment has
+easy access to it.
+Access to the privacy officer is necessary due to the nature of his work, ie. as a contact with
+the registered and with the Data Protection Authority, but also within the company in question. To ensure access to
+1st edition, February 2018
+5
+
+Page 6
+
+the Privacy Officer must have contact information (email, phone number, address),
+both within the company and for external parties.
+The Privacy Officer, who can be assisted by a team if needed, must be in a position to
+to communicate easily with the registered and relevant privacy institution. That means that
+the communication must take place in the language or languages ​of the data protection authorities and
+individuals involved.
+Easy access to the Privacy Officer (whether in the same place as other employees,
+or can be contacted by emergency number or other secure means)
+a necessary precondition for the data subjects to be able to contact him.
+It is then possible to nominate one privacy officer for more than one authority, taking into account
+administrative structure and their size. The same applies here as for companies - adequate assurance is required
+human resources and access to the Privacy Officer. In light of various projects
+the data subject needs to be guaranteed by the data protection officer or the processor
+the Privacy Officer, with the help of a team if needed, can fulfill this role even though he is
+nominated for more than one authority.
+For further information, see paragraphs 2 and 3. Article 37 pvrg.
+
+6. Where should the privacy officer be located?
+In order to ensure access to the Privacy Officer, he or she must at least be located
+within the EEA, regardless of whether it is a responsible party or a processing party. However, this is not out of the question
+that in specific cases the circumstances may exist that neither the responsible party nor the processing party
+have an office within the EEA area and therefore it is better for the personal data representative to handle
+his work outside of it.
+
+7. Is it possible to appoint an external contractor as a privacy officer?
+Yes, the Privacy Officer can be both a responsible person or a processor and take over
+the project with a service contract. This means that the Privacy Officer may be an outsider
+contractor and in those cases his project needs to be clearly specified
+service agreement with the individual or institution / company in question.
+When an external contractor works as a privacy officer, a team under the auspices of the contractor may
+held the position of privacy officer, but is responsible to a more specific "manager"
+the customer. If so, it's important for each team member to meet all of them
+requirements of the Regulation for data protection officers.
+To promote legal certainty, good planning and to prevent conflicts of interest
+within the team, it is desirable that service contracts contain a clear definition of the contractor's tasks
+(or his team) and that a specific individual is identified as the main contact person
+the guarantor. The nominated person also manages the project in question.
+For further information, see paragraph 6. Article 37 pvrg.
+
+1st edition, February 2018
+6
+
+Page 7
+
+8. What conditions must a privacy officer meet?
+The Privacy Officer shall be appointed on the basis of his / her professional competence, in particular expertise in
+privacy law and law enforcement in that area, as well as its ability to carry out the tasks that
+it is entrusted to it in the regulation.
+In assessing what requirements must be made for the privacy officer's expertise, consideration must be given
+of the processing of personal data that takes place and the requirements that are made for their protection
+personal information to which the processing relates. When the processing of personal information is very complex or already
+In the case of extensive processing of sensitive information, greater demands must be made on expertise
+the Privacy Officer and the support he or she may need.
+Important skills and expertise can be, for example:
+• expertise in national and European data protection law and law enforcement in that field.
+• understanding of the processing that takes place,
+• understanding of security and information technology issues,
+• knowledge of the company's operations,
+• ability to promote privacy culture at the relevant institution / company.
+In the case of the government, the privacy officer should have knowledge of administrative law as well
+and the laws concerning the activities in question.
+It should be noted that privacy officers do not need to have a special certification as
+privacy officers in order to be able to perform the job in question, although such certification may certainly exist
+indicates that the person in question has at least some knowledge of privacy legislation. That is not done
+condition that the privacy officer is a lawyer, but the person in question must still have
+clear knowledge of the Privacy Regulation and other laws relating to the business.
+For further information, see paragraph 5. Article 37 pvrg.
+
+B. The position of the Privacy Officer
+9. What facilities or resources does a privacy officer need to have
+guarantor or processor?
+The Privacy Officer must have the necessary resources, ie. facilities and resources, to be able to perform work
+its.
+With regard to the nature and scope of the activity, the privacy officer shall have at least the following:
+facilities and sources:
+• Active support of senior executives,
+• Enough time to carry out the project,
+• Adequate financial support, work facilities and subordinates, where applicable,
+• Formal position as a privacy officer vis-à-vis other employees,
+• Access to support services within the operation so that he receives the support he needs,
+inputs and information from other service areas,
+• Continuous training / retraining.
+
+1st edition, February 2018
+7
+
+Page 8
+
+It shall be ensured that the privacy officer arrives in an appropriate manner and in a timely manner in all matters
+related to the protection of personal information. He shall, among other things, be invited to meet with senior management on a regular basis
+present when decisions on actions for the processing of personal data are made and need to be made
+give him the opportunity to give appropriate advice. Failure to follow the advice of the Privacy Officer is required
+to document it separately.
+It should be noted that in the case of extensive personal data activities, it may be necessary to appoint
+team of privacy representatives (the team then includes a privacy officer and his staff). In such
+In some cases, the organization of the team and the tasks of each individual need to be clearly defined.
+For further information, see the second paragraph. Article 38 pvrg.
+
+10. How is it ensured that a privacy officer can carry out his / her work independently? What does it mean
+"Conflict of interest"?
+The regulation contains several provisions that are intended to ensure that the privacy officer can work
+independent:
+• He must not be instructed by the supervisor or processor on how to perform the job
+his,
+• He may not be fired or punished for his work as a privacy officer,
+• He should not find that interests in other projects and jobs may overlap with work
+his as a Privacy Officer.
+A privacy officer can perform his / her work in parallel with other tasks, but they may not cause
+conflicts of interest. This means that the Privacy Officer cannot be in a position to do so
+determine the purpose and method of processing personal information. This needs to be looked at on a case-by-case basis,
+with regard to the uniqueness and administrative structure of each institution / company.
+The general rule is that conflicts of interest can arise if a privacy officer is a middle manager in
+institution / company (such as managing director, operations manager, finance manager, marketing manager,
+human resources manager, technical manager, etc.) but this may also apply in the case of other lower-ranking employees
+if their work involves making decisions about the purpose and method of processing personal information. Also
+conflicts of interest may arise if an external privacy officer is asked to appear
+on behalf of a responsible or processing party in court in a case concerning the processing of personal data by
+the person concerned.
+Register of processing activities, cf. Article 30 of the Regulation, can help assess whether
+there are potential conflicts of interest regarding decision-making.
+The independence of the privacy officer does not mean that he has decision-making power over the tasks that
+he is entrusted with the regulation.
+For further information, see the third paragraph. Article 38 and the 6th paragraph. Article 38 pvrg.
+
+1st edition, February 2018
+8
+
+Page 9
+
+C. Tasks of the Privacy Officer
+11. What is compliance monitoring?
+To monitor compliance and assist guarantors and processors in compliance
+the Privacy Regulation, the Privacy Officer must specifically:
+• collect information to analyze processing activities,
+• analyze and monitor compliance in the operation,
+• inform, advise and submit proposals to the guarantor or processor.
+The Privacy Officer is the liaison with the supervisory authority and as such may consult in advance and
+seek advice, as appropriate, on other matters.
+For further information, see point b of the first paragraph. Article 39 pvrg.
+
+12. The Privacy Officer is personally responsible if there are no privacy rules
+followed?
+No, the Privacy Officer is not personally responsible if the provisions of the Privacy Act
+is not followed.
+It is the responsibility of the guarantor and the processor to ensure and be able to demonstrate that processing
+their personal information is in accordance with the rules ("liability").
+
+13. What is the role of the privacy officer in assessing the impact on privacy (MÁP) and
+compilation of processing activities?
+Regarding the assessment of the impact on privacy, the responsible party and the processing party shall seek advice from
+the Privacy Officer, including the following aspects:
+• whether to assess the impact on privacy,
+• what method should be used for the assessment,
+• whether the assessment should be carried out indoors or whether the project should be outsourced,
+• what technical and organizational safety measures need to be taken to reduce the risk
+the rights and freedoms of data subjects,
+• whether the assessment was carried out correctly and whether its conclusion (to start the person in question
+processing and what security measures are to be applied) is in accordance with privacy requirements.
+In the case of a record of processing activities, it is the guarantor or processor, but not
+the Privacy Officer, who is responsible for maintaining such records. However, they can hide
+privacy officer to keep such records under their responsibility. Such a file is considered one of them
+tools that the privacy officer has to carry out his work of monitoring processing and to inform
+and advise the guarantor or processor.
+If the privacy officer's advice is not followed, the responsible party must document the reasons for it.
+The Data Protection Officer is a contact person for the Data Protection Authority and as such can have prior consultation and
+seek advice, as appropriate, on other matters.
+For further information, see c and e of the first paragraph. Article 39 and Article 30. pvrg.
+1st edition, February 2018
+9
+
+

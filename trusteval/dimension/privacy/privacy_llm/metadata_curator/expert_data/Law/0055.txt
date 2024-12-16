@@ -1,0 +1,263 @@
+Page 1
+
+annex
+Number: CNCA-App-001
+
+Mobile Internet Application (App)
+Safety certification implementation rules
+
+2019-03-13 released
+
+2019-03-15 Implementation
+
+Issued by the National Certification and Accreditation Administration Commission
+
+Page 2
+
+table of Contents
+1 Scope of application............................................... .................................................. ...1
+2 Certification basis............................................ .................................................. ....1
+3 Certification mode............................................ .................................................. ....1
+4 Certification procedures... .................................................. ....1
+4.1 Application for certification............................................ .................................................. 1
+4.2 Acceptance of certification... .................................................. 2
+4.3 Technical verification... .................................................. 2
+4.4 On-site audit... .................................................. 2
+4.5 Certification decision... .................................................. 3
+4.6 Appeals to the certification decision... .....................................3
+4.7 Supervision after certification... ................................................3
+5 Certification time limit............................................ .................................................. ....4
+6 Certification............................................... .................................................. .... 4
+6.1 Maintenance of the certificate............................................ ............................................... 4
+6.2 Change of certificate............................................ ................................................4
+6.3 Suspension, withdrawal and cancellation of certification... .........5
+7 Use and management of certification certificates and certification marks... .................6
+7.1 The use of certification... ........................................ 6
+7.2 Certification mark and its use............................................ ............................6
+8 Certification Responsibilities............................................ .................................................. .... 6
+
+Page 3
+
+1 Scope of application
+This rule applies to the data security of mobile Internet applications (hereinafter referred to as "App")
+Fully certified.
+2 Certification basis
+The certification basis for App security certification is GB/T 35273 "Information Security Technology Personal Information Security"
+Full Specification" and related standards and norms.
+In principle, the above-mentioned standards shall implement the latest version issued by the national standardization administrative department.
+3 Authentication mode
+The authentication mode of App safety certification is: technical verification + on-site verification + post-certification supervision.
+4 Certification procedures
+4.1 Application for certification
+4.1.1 Applicant
+The subject of the certification application is the network operator that provides services to users through the App (hereinafter referred to as
+"App operator"), and has obtained the registration law of the market supervision and management department or relevant agency
+Person qualifications.
+App operators are not allowed to apply for certification if they have one of the following circumstances:
+(1) Violation of relevant laws and regulations;
+(2) A major information security incident occurred within 12 months;
+(3) The certificates of the same kind held within the period of impact of the revocation of certification;
+(4) Other conditions specified by the certification body.
+4.1.2 Determination of application unit
+In principle, apply for certification according to the App version. App with the same name, version number, operating system
+When platforms, etc. are different, they should generally be divided into different application units.
+The certification implementation rules formulated to provide for it.
+4.1.3 Documents and materials to be submitted by the applicant
+When a certification applicant applies for certification, the documents submitted should at least contain the following content:
+(1) Application for certification;
+(2) Proof of legal personality;
+(3) App version control instructions;
+(4) Self-evaluation results and related certification documents for compliance with certification requirements;
+
+1
+
+Page 4
+
+(5) Proof that the App meets the relevant safety technical standards;
+(6) Statement of version discrepancies in different release channels;
+(7) Other required documents.
+4.2 Certification acceptance
+The certification body makes an acceptance decision after reviewing the application materials, and submits it to the certification applicant
+Feedback the acceptance decision.
+4.3 Technical verification
+4.3.1 Sample acquisition
+The certification applicant submits the samples in accordance with the sample delivery method filled in the application form.
+The submitted sample copies should reflect the technical characteristics related to the certification of all the copies of the release channel App; not
+When it can be reflected, a copy of other apps in the application unit should also be selected.
+4.3.2 Standards based on technical verification
+The basis of technical verification is GB/T 35273 "Information Security Technology Personal Information Security Specification".
+The certification body shall formulate technical verification specifications in accordance with GB/T 35273 and determine the requirements for the standards
+The content, methods and evaluation criteria of the technical verification.
+4.3.3 Technical verification method
+Technical verification is carried out by means of laboratory testing and on-site verification.
+4.3.4 Implementation of technical verification
+
+The testing agency implements technical verification in accordance with the technical verification specifications, and in accordance with the relevant certification agencies
+It is required to issue a technical verification report.
+When non-conformity is found, the testing agency will issue a non-conformity report to the certification applicant and request
+Rectification within a time limit; if the rectification is not completed within the time limit, the certification process shall be suspended.
+4.4 On-site audit
+After the technical verification is passed, the certification body conducts an on-site audit of the App operator.
+4.4.1 Standards based on the on-site audit
+The on-site audit is based on GB/T 35273 "Information Security Technology Personal Information Security Specification".
+The certification body shall formulate on-site audit specifications in accordance with GB/T 35273, and determine the standard
+The required on-site audit content, methods and evaluation criteria.
+4.4.2 On-site audit implementation
+The certification body conducts on-site audits in accordance with the on-site audit specifications, and in accordance with the relevant regulations
+Schedule to issue an on-site audit report.
+When non-conformity is found, the certification body shall issue a non-conformity report to the certification applicant and request
+Rectification within a time limit; if the rectification is not completed within the time limit, the certification process shall be suspended.
+
+2
+
+Page 5
+
+4.5 Certification decision
+The certification body conducts a comprehensive review based on application materials, technical verification conclusions and on-site audit conclusions.
+Co-evaluate and make a certification decision. After the certification decision is passed, the certification body will report to the certification applicant
+Issue certification certificates and authorize certified App operators to use the required certification marks. Certification decision
+If it fails, the certification shall be terminated.
+4.6 Appeals to the certification decision
+If the certification applicant has objections to the certification decision result, it can be notified after receiving the certification result
+Appeal through the appeal channel designated by the certification body within 10 working days. Certification body since
+From the date of receipt of the appeal, a decision should be made within 5 working days whether to accept it; for the accepted appeal,
+Generally, the processing result should be given within 30 working days, and the processing result should be notified in writing to the certification application
+square.
+4.7 Supervision after certification
+Certified App operators should continue to conduct self-evaluation after certification, and cooperate with the supervision of the certification body
+activity.
+The certification body shall implement continuous supervision of the certified App and App operators. The supervision methods include
+Daily supervision and special supervision.
+4.7.1 Self-evaluation after certification
+The operator of a certified app shall conduct a self-assessment on the continuous compliance of the certified app with the certification requirements
+price. When the following situations occur, the certified App operator should submit a self-evaluation report to the certification body
+Report:
+(1) The distribution channel of the certified App has changed;
+(2) Changes in the use of certification marks;
+(3) Changes to the certified App and the collection, processing and use of personal information caused by
+The purpose, type, and method of information change;
+(4) Sharing, transfer, and public disclosure of collected personal information by certified App operators
+Changes in the object, method and purpose;
+(5) The operator of a certified App receives complaints and reports related to the protection of the personal information of the certified App.
+4.7.2 Daily supervision
+The certification body shall continue to implement daily supervision of certified apps and app operators.
+The content of supervision includes at least the following aspects:
+(1) Consistency check of the certified App;
+(2) Update status of the certified App;
+(3) The use of certification certificates and certification marks;
+
+3
+
+Page 6
+
+(4) The self-evaluation carried out by the enterprise;
+(5) Reports, complaints and social media exposure of the certified App by netizens;
+(6) Other influences that the certified App continues to comply with in the collection, processing and use of personal information
+Compliance with certification requirements.
+The certification body shall periodically evaluate the daily supervision situation and form a daily supervision report.
+4.7.3 Special supervision
+When the following situations occur, the certification body shall initiate special supervision:
+(1) Netizens report complaints, media exposure, industry notifications, etc. involving certified apps.
+When there is a personal information security issue, and it has been verified that the certified App operator is responsible;
+(2) The certified App operator undergoes major changes due to organizational structure, service mode, etc., or
+When bankruptcy, mergers and acquisitions, etc., may affect the compliance of App certification features;
+(3) According to the results of daily supervision, the certification body shall check the certified App and the
+When the compliance with the standard requirements is specifically questioned.
+Special supervision should conduct in-depth investigations into the above-mentioned situations, and continue to comply with the certified App
+Comprehensive review, and technical verification if necessary.
+The certification body may implement special monitoring on certified App operators without prior notice.
+Supervise.
+4.7.4 Handling of supervision results
+When non-compliance is found in the post-certification supervision, the certification body shall require the certified App operator to
+Rectification will be carried out during the period, and the results of the rectification will be verified. Failure to complete the rectification within the prescribed time limit or
+If the rectification result fails to pass the verification, it shall be dealt with in accordance with 6.3.
+5 Certification time limit
+The certification time limit refers to the actual occurrence from the date of the acceptance decision to the certification decision
+The working days are generally 90 working days (not including rectification time).
+6 Certification
+6.1 Maintenance of the certificate
+The certification body shall stipulate the validity period of the certificate, and the certificate that exceeds the validity period
+The book expires on its own. When the requirements of certification rules (such as standards) change, the certification body
+Complete the renewal within the determined conversion period.
+6.2 Change of certificate
+
+4
+
+Page 7
+
+6.2.1 Change application and notification
+When one of the following situations occurs, the certified App operator should submit a change application to the certification body
+please:
+(1) The name and version of the certified App have been changed;
+(2) The scope of certification is expanded or reduced;
+(3) The name and registered address of the certified App operator have changed;
+(4) When other matters specified by the certification body are changed.
+6.2.2 Change evaluation and approval
+According to the content of the change, the certification body evaluates the information provided to determine whether it can be
+To approve the change. If re-technical verification and on-site audit are required, the technical verification and/or on-site
+Changes can only be approved after the review is passed.
+6.3 Suspension, withdrawal and cancellation of certification
+6.3.1 Suspension of certification
+In one of the following situations, the certification body shall suspend the certification and make an announcement:
+(1) Relevant national authorities have discovered that the certified App has security problems;
+(2) During the supervision, it is found that the certified App cannot continue to meet the certification requirements;
+(3) The certified app operator fails to report to the certification body in time after a major change in the app
+Report changes;
+(4) Certified App operators use certification certificates and certification marks in violation of regulations;
+(5) The certification standards or certification rules have changed, and the certified App operator has not
+Completion of the transitional conversion according to the regulations
+(6) Certified App operators actively apply for suspension of certification;
+(7) Other circumstances that should be suspended according to law.
+The suspension period is generally 180 days. During the suspension period, the certified App operator can propose to resume
+The certification application can only be used after the certification body has been reviewed and approved. In suspension
+During the certification period, the certified App operator shall not continue to use the certificate and certification mark.
+6.3.2 Withdrawal of certification
+In any of the following circumstances, the certification body shall revoke the certification and make an announcement:
+(1) The certified App operator has violations related to personal information security;
+(2) During the suspension of certification, the certified App operator failed to take effective rectification measures;
+(3) It is found that the certified App operator has deceived, concealed, and violated the certification process
+Connaught and other improper behavior, affecting the validity of the certification;
+(4) The certified App operator refuses to accept post-certification supervision;
+
+5
+
+Page 8
+
+(5) Exceeding the suspension period;
+(6) Other circumstances that should be cancelled according to law.
+After the certification is revoked, the certified App operator shall return the certification certificate and stop using the certification mark.
+6.3.3 Cancellation of certification
+In any of the following circumstances, the certification body shall cancel the certification and make an announcement:
+(1) The certified App no ​longer provides services to users;
+(2) The certified App operator applies for cancellation;
+(3) Other circumstances that should be cancelled according to law.
+After the cancellation of the certification, the certified App operator shall return the certification certificate and stop using the certification mark.
+7 Use and management of certification certificates and certification marks
+7.1 Use and management of certification
+During the validity period of the certification certificate, the certified App operator can put the certificate on the website, workplace
+It should be displayed in the publicity materials, but should not be misleading.
+7.2 Certification mark and its use and management
+7.2.1 The format of the certification mark
+The style of the certification mark consists of the basic pattern and the identification information of the certification body.
+
+ABCD
+"ABCD" stands for certification body identification information.
+7.2.2 Use and management of certification marks
+The certification body shall stipulate the use and management of certification marks.
+The certified App operator shall use and manage the certification mark in accordance with the regulations of the certification body, and shall not
+Make misleading publicity.
+8 Certification responsibility
+The certification body shall be responsible for the certification conclusions it makes.
+The testing organization shall be responsible for the technical verification results and technical verification reports.
+6
+
+Page 9
+
+The certification body and its appointed auditors shall be responsible for the on-site audit conclusions.
+Certification applicants (certified App operators) should respond to the application materials and samples submitted by them
+Responsible for authenticity and legality, and take the main responsibility for the continued compliance of the certified App with the certification requirements.
+Certification does not exempt the operator of the certified app from the legal responsibility for the certified app.
+
+7
+
+

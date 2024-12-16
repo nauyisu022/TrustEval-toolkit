@@ -1,0 +1,433 @@
+Page 1
+
+Ru Own
+Search
+
+×
+
+Data transmission network, that is
+including Internet services
+approval of display rules
+about
+APPENDIX 1
+Data transmission network, that is
+including Internet services
+DISCLOSURE RULES
+Chapter 1. General rules
+Chapter 2. Data transfer
+network services
+§ 1. General rules
+§ 2. Provide Wi-Fi service
+Chapter 3 Data transfer
+use of network services
+Chapter 4 Data transfer
+payment for network services
+Chapter 5 Operator and
+providers' rights and
+obligations
+Chapter 6 Subscriber and
+user rights and
+obligations
+
+×
+
+Own | Ru
+
+3038 10.07.2018
+
+Document invalid 01.10.2020
+
+DEVELOPMENT OF INFORMATION TECHNOLOGIES AND COMMUNICATIONS OF THE REPUBLIC OF UZBEKISTAN
+THE MINISTER
+ORDER
+DATA TRANSMISSION NETWORK, INCLUDING INTERNET SERVICES
+ON APPROVAL OF RULES
+[Registered by the Ministry of Justice of the Republic of Uzbekistan on July 10, 2018, registration number 3038]
+LexUZ review
+This order was approved by the Minister of Information Technologies and Communications of the Republic of Uzbekistan on June 30, 2020.
+MH-208 in June, "Telecommunications services" On approval of the rules of order (No. 3275,
+30.06.2020) mainly loses its validity from October 1, 2020.
+
+Law of the Republic of Uzbekistan " On Telecommunications ", " Consumer protection
+about the laws of the Republic of Uzbekistan "On May 1, 2018, the Cabinet of Ministers No. 318"
+Ministry of Information Technologies and Communications of the Republic of Uzbekistan and the Ministry of Information of the Republic of Uzbekistan
+Communications, Informatization and Telecommunications under the Ministry of Technology and Communications Development
+In accordance with the Resolution "On approval of the Regulations on the inspection in the field of technology" :
+1. To approve Rules of rendering of the data transmission network, including the Internet services according to appendix 1 .
+2. To recognize as invalid some departmental regulatory legal acts according to appendix 2 .
+3. This order becomes effective after three months from the date of official publication.
+Minister A. AXMEDXADJAYEV
+Tashkent,
+May 21, 2018,
+173-son
+
+Chapter 7 Obligations
+ensure compliance
+
+Information of the Republic of Uzbekistan
+technologies and communications
+Minister of Development May 21, 2018
+Order No. 173
+APPENDIX 1
+
+Chapter 8 Final rules
+APPENDIX 2
+That it has lost its power
+found departmental normativeLIST OF LEGAL DOCUMENTS
+
+Provision of Internet services, including data transmission network
+
+RULES
+These provisions are reflected in the Civil Code of the Republic of Uzbekistan, the Law of the Republic of Uzbekistan " Telecommunications
+"," communication "," the law "On the protection of the rights of consumers and Uzbekistan
+Resolution of the Cabinet of Ministers of the Republic of Uzbekistan dated March 26, 1999 No 137 "Preparation of information resources of the Republic of Uzbekistan and
+on approval of the Regulation on the procedure for their distribution in data transmission networks, including the Internet
+in accordance with the decision of the Internet, including the data transmission network (hereinafter referred to as the data transmission network
+) rules for the provision of services.
+Chapter 1. General rules
+1. In these rules the following basic concepts are used:
+GSM-gateway - the transfer of traffic between mobile networks and other telecommunications networks
+hardware and software designed for
+IP gateway - To transfer traffic between IP networks and other telecommunications networks
+intended hardware and software;
+IP address - computers or nodes in a data transmission network managed by TCP / IP technology
+unique identifying address;
+IP TV (IPTV) - TV, video, audio, text, graphics and other similar information, IP protocol
+based networks to ensure the required level of quality, security, interactivity and reliability
+purpose-managed multimedia services;
+IP telephony - IP-based packets are spoken over packet-switched data transmission networks
+information exchange services, including local, long-distance and international communications;
+SMS-gateway - hardware and software that allows you to send and receive SMS messages without using a mobile phone
+engine;
+Wi-Fi service organizer is Wi-Fi technology for using data network services
+from their peripheral equipment on, to a narrow range of users who are customers or visitors
+the data transmission network operator or data transmission network services that provide access to the equipment
+provider or subscriber - a legal entity;
+Wi-Fi services are the edge over Wi-Fi technology for using data network services
+providing access to the equipment to a limited number of users;
+subscriber - with a data transmission network operator or data transmission network service provider
+legal entity or individual that has entered into a contract and is a consumer of data transmission network services;
+authentication is the identification provided by the user of the data transmission network services
+determine the authenticity of the data;
+domain name - given to an information resource or information system to identify them on the Internet
+a unique name to serve;
+domain name system - assignment, registration and use of domain names on the Internet
+order;
+identification - the identity of the user of data transmission network services on the basis of available data
+determination;
+The Internet is a single, unified gateway that uses a single address and name space
+A global international network (managed networks) consisting of many networks operating under the TSR / IP protocol
+association);
+Public Internet access point - for a fee for users to use the Internet
+or a place to provide free services;
+data transmission - data (provided in digital form, for processing by electronic means
+valid information, including speech, text, facsimile messages, dynamic images (video), etc.)
+in the form of binary signals, telecommunications tools for subsequent processing with computer technology tools
+move from one point to another through;
+data transmission network - a single service, provision and payment in the territory of the Republic of Uzbekistan
+designed to provide data transmission services to all individuals and legal entities on the basis of the principles of
+telecommunication network;
+data transmission network operator (hereinafter referred to as the operator) - property rights or
+having a data transmission network on the basis of other intellectual property rights, ensuring its operation, development and
+legal entity providing data transmission network services;
+data transmission network services - signals through the data transmission network of the operator and the provider and
+the product of activities for the reception, transmission and processing of other types of information;
+data network service provider (hereinafter referred to as provider) a legal entity that provides data transmission network services to users on a commercial basis through a network of operators;
+user of data network services (hereinafter referred to as user)
+- a legal entity or an individual who is a consumer of data transmission network services;
+hosting services - technical resources for hosting information on a server that is constantly on the Internet
+delivery service;
+2. Rendering of data transmission network services of the operator and the provider in the territory of the Republic of Uzbekistan
+related activities are carried out on the basis of a license in accordance with the legislation.
+3. From the data transmission network and data transmission network services by the operator or provider
+provision of use, interactions between operators and providers, as well as operators or
+The interaction of providers with subscribers is carried out on the basis of a written or electronic contract
+is increased.
+Chapter 2. Data transmission network services
+§ 1. General rules
+4. The list of data transmission network services is made between the operator or provider and the subscriber
+must be specified in the data transmission network services contract.
+5. Provision of the following types of data transmission network services through the data transmission network
+you can:
+use of data transmission network (according to different standards), traffic transit, as well as data
+use of international transmission networks, including the Internet;
+use of real-time information resources and information systems;
+receiving and transmitting electronic messages (including e-mail);
+cryptographic and other protection of confidential information;
+small (sub) network allocation;
+registration and maintenance of the domain and domain name system;
+IP address allocation and retention;
+IP telephony and IP television (IPTV);
+hosting services.
+Other services of the data transmission network in accordance with the legislation of the operator or provider
+can show.
+6. Provision of data transmission network services in case of emergency "On Telecommunications"
+It is carried out in the manner prescribed by law .
+§ 2. Provide Wi-Fi service
+7. Wi-Fi service organizer provides free or paid Wi-Fi services to a limited number of users
+can show. Terms of determining the limited range of users by the Wi-Fi service organizer
+determined. When providing Wi-Fi service, the duration of the session should not exceed 24 hours.
+8. Organization of free Wi-Fi service on the territory of the subscriber-legal entity, which is the organizer of Wi-Fi service
+on the basis of the hardware or software of the operator or provider in accordance with the contract with the operator or provider
+can be done.
+9. Wi-Fi service organizer:
+together with the operator or provider, in the identification of users and in the legislation
+take hardware and technical measures to keep track of web resources (log-files) used in the prescribed manner;
+together with the operator or provider to ensure the protection of information resources, Uzbekistan
+To call for the forcible change of the existing constitutional order and territorial integrity of the Republic;
+to promote violence and terrorism, as well as the ideas of religious extremism, separatism and fundamentalism, national, racial,
+dissemination of information inciting ethnic or religious hatred, as well as pornography
+take measures to prevent the dissemination of other information prohibited by law.
+10. If the Wi-Fi service is provided by the subscriber - a legal entity, the subscriber is a legal entity and the operator or
+the agreement between the provider provides information on the provision of Wi-Fi service to users,
+as well as the measures to be taken to identify users.
+11. Identify users by mobile phone number or in an identity document
+other registration information made on the basis of data (air tickets, railway tickets, hotel
+registration information and other similar information).
+When identifying the user by mobile phone number, SMS to the user's mobile phone number
+a one-time password (One Time Password - OTP) is sent through the message and the user is authenticated. Here's one
+the one-time password (One Time Password - OTP) must have a limited duration of activity (no more than 10 minutes).
+12. Wi-Fi service organizer through the user's personal data and telecommunications networks
+must ensure the confidentiality of transmitted messages, except as otherwise provided by law.
+Chapter 3 Use of data transmission network services
+13. Operator or provider to subscribers in accordance with the Law "On Consumer Protection"
+provide timely, necessary, accurate and understandable information about the data transmission services provided by him
+condition
+The following information must be provided to the subscriber by the operator or provider:
+the name of the operator or provider, postal address, affiliates who cooperate with users and subscribers
+name, location, mode of operation and contact numbers;
+license number and validity period issued to the operator or provider;
+the procedure and conditions for the provision of data transmission network services;
+subscriber interfaces and data transmission protocols used;
+restrictions on the provision of data transmission network services;
+tariff plans;
+from the data transmission network during a specific tariff plan, marketing campaigns or during events
+privileges or discounts in the provision of services;
+list of paid and non-paid services of data transmission network usage;
+terms and forms of payment for data transmission network services;
+procedure for consideration of applications and complaints of subscribers;
+telephone numbers of information service and technical support service (if available);
+information on the information service system;
+on the availability of technical capabilities in the areas of data transmission network services
+information.
+14. The following information is mandatory in the contract between the operator or provider and the subscriber
+must be specified:
+place and date of the contract;
+the name of the operator or provider;
+operator or provider account details;
+license details issued to operators or providers;
+the term of the contract;
+subscriber information;
+form and procedure of calculation;
+rights, obligations and responsibilities of the parties;
+tariff plan, cost of services;
+terms of damage elimination;
+quality indicators (maximum data transfer rate, minimum guaranteed data transfer rate,
+maximum time of data transmission delay);
+list of services to be provided (if necessary).
+The contract shall specify other information in accordance with the legislation in accordance with the agreement between the parties
+possible.
+15. After the subscriber concludes a contract with the operator or provider, the operator or provider depends on the method of connection
+In this case, provides the subscriber with the necessary parameters for connection (IP-address and other address details), data transmission
+Provides guidance on how to work and use the network, the user 's necessary equipment (computer,
+modem, fax) and recommends the necessary software.
+16. One-time data transmission network services at the point of public use of the Internet
+Regulations on the procedure for providing users with access to information on the Internet in public places
+(registration number 1393, July 30, 2004).
+17. Information related to the provision of data transmission network services by the operator or provider
+creates a system of information services to provide to subscribers.
+The following information is not provided by the operator or provider within 24 hours upon request of the subscriber
+without any restrictions:
+on the services provided by the data transmission network;
+on tariffs for data network services;
+payment to the subscriber for the status of his personal account and the use of data transmission network services
+Debt services, including those connected to the subscriber: time, speed, received and (or) data transmission
+the amount of information transmitted, as well as the balance of traffic at limited traffic tariffs;
+on technical failures.
+Chapter 4 Payment for data transmission network services
+18. Tariffs for data transmission network services shall be established between the parties in accordance with the legislation
+specified in the contract.
+19. The form and procedure of settlements in accordance with the legislation, the technological capabilities of the operator or provider
+is determined by the operator or provider in agreement with the subscriber and is reflected in the contract and
+calculations are performed.
+20. Tariffs for data transmission network services are set in the national currency and all payments are national
+currency.
+21. Services provided to the subscriber using automated billing systems by the operator or provider
+(time, speed of data transmission, volume of received and (or) transmitted information, as well as the movement of subscriber's funds and
+others).
+22. Work performed by the operator or provider for the purpose of making calculations on the basis of the contract and
+provides information to the subscriber on payment for services rendered. The following information must be provided:
+operator or provider details and contact telephone numbers;
+accounting period;
+cost of work performed;
+a list of services provided, the accounting period for each service and the amount paid for them;
+amount of value added tax (if levied);
+total amount to be paid;
+date of invoice submission;
+payment term.
+23. In case of maintenance of the subscriber's account by the operator or provider, the payment is indicated
+information about the subscriber in connection with changes in the terms of the contract between the operator or provider and the subscriber
+balance adjustments on the account, as well as previous accounts received and reflected in the subscriber's account.
+information on the subscriber's fees for services during the book period.
+Chapter 5 Rights and obligations of operators and providers
+24. The operator and the provider have the following rights:
+a) providing services to subscribers and users;
+b) services to the subscriber in the following cases by notifying the subscriber in advance within the period specified in the contract
+pause show:
+in case of violation of the terms of the contract by the subscriber, including timely payment for services rendered
+when not paid;
+Approved by the Resolution of the Cabinet of Ministers of the Republic of Uzbekistan dated March 26, 1999 No 137 Uzbekistan
+Procedure for preparation of information resources of the Republic and their distribution in data transmission networks, including the Internet
+in case of violation of the requirements of the regulations ;
+c) demand compensation for damages caused by the fault of the subscriber;
+g) organizational measures, technical and tariff for the provision of services to the subscriber without harm to the subscriber
+independent policy setting and implementation;
+d) accounting of the used web resources of the data transmission network by the subscriber (logorganization of file maintenance) in the manner prescribed by law;
+e) to complain about illegal actions of the subscriber in accordance with the legislation;
+j) when connecting GSM, IP or SMS-gateways to the data transmission network without notifying the operator, including
+cases of illegal use through the installation of special hardware and software in the data transmission network
+unilateral cessation of services when detected.
+The operator and provider may have other rights in accordance with the legislation.
+25. The obligations of the operator and the provider are:
+a) carry out its activities in accordance with the legislation, on the basis of a license and these Rules;
+b) performance of works and provision of services within the period and to the extent specified in the contract;
+c) laws and by-laws, including technical regulations, normative documents on standardization
+as well as ensuring the quality of services provided in accordance with the contract;
+g) subscribers using its website and (or) media, as well as subscribers
+and provide the following information at user workplaces:
+on changes in the procedure and conditions for the provision of services, including changes in tariffs for services at least 10 days before the amendments come into force;
+on change of working hours, postal address and bank details - from the moment of making the corresponding changes;
+d) non-performance or improper performance of the contract, as well as at the request of the subscriber
+recalculation for non-provision of services or non-provision of services of the level specified in the contract
+to make a book;
+e) repairs and adjustments that may lead to a violation of the normal mode of service to subscribers and
+immediate notification of the timing and duration of the start of preventive work;
+j) ensuring uninterrupted, round-the-clock provision of services;
+h) at the request of the subscriber on the current status of mutual settlements reflected in his account
+including information on services received by the subscriber: time, speed, received and (or) data transmission
+provide detailed information on the amount of information transmitted;
+i) to ensure the protection of information resources, the existing constitutional system of the Republic of Uzbekistan,
+to call for the forcible change of territorial integrity, war, violence and terrorism, as well as religious extremism,
+to propagate the ideas of separatism and fundamentalism, to incite national, racial, ethnic or religious hatred,
+as well as other information aimed at promoting pornography and the distribution of which is prohibited by law
+take measures to prevent its spread;
+k) verbal appeals of subscribers received immediately, in writing or through information systems
+review within fifteen days from the date of receipt by the operator;
+l) legislation on the use of data transmission networks to users once a month, as well as
+issue a note on the need to comply with these rules. The text of the note message is telecommunications
+formed by a specially authorized body in the field;
+m) Identification of users during the provision of Wi-Fi service and in the legislation
+take hardware and technical measures to keep track of web resources (log files) used in the prescribed manner;
+n) illegal transfer of international and long-distance traffic, including from GSM, IP or SMS-gateways, including
+take measures to combat illegal use of the network through the installation of special hardware and software;
+The operator or provider may also perform other obligations imposed on them in accordance with the legislation
+possible.
+26. The operator or provider may provide additional services or a specific service for a fee to the subscriber
+to force to receive other services for rendering, as well as payment for services not provided by the subscriber
+not entitled to charge.
+27. Through the personal data and data transmission networks of the operator or provider users
+must ensure the confidentiality of transmitted messages, except as otherwise provided by law.
+Chapter 6 Rights and obligations of the subscriber and user
+28. Subscriber and user have the following rights:
+use of quality and uninterrupted services of the operator or provider provided by the contract;
+the obligations of the operator or provider specified in these rules, as well as its data transmission
+to demand fulfillment of obligations under the contract for the provision of network services;
+refusal to pay for services not provided for in the contract;
+require compensation for damage caused by the fault of the operator or provider in the manner prescribed by law
+to do;
+termination of the contract with the operator or provider in the manner prescribed by law.
+In case of violation of the terms of data transmission network services by the subscriber operator or provider,
+if the contract is not executed on time or the works (services) are not performed within the period specified in the contract
+as well as the quality of work performed and services provided is lower than specified in the terms of the contract
+has the right to demand:
+free elimination of shortcomings;
+a new data network service that can be provided under agreement with the operator or provider
+setting a deadline;
+request a recalculation of the cost of data transmission network service.
+The subscriber and the user may have other rights in accordance with the legislation.
+29. From an operator or provider before a natural or legal person enters into a contract with an operator or provider
+has the right to receive the following information:
+list of basic and additional services provided;
+cost of services provided, tariffs;
+methods of organization of communication and access of the subscriber's data transmission network;
+connection and service order;
+rules for providing services;
+guaranteed level of service, level of quality, subscriber information on the operator, provider server
+guaranteed level of protection and other information.
+30. The following are the obligations of the user:
+transfer of information that is a state secret or other secret protected by law from the data transmission network
+not to be used for;
+the existing constitutional order, territorial integrity of the Republic of Uzbekistan through the data transmission network
+incitement to violent change, war, violence and terrorism, as well as religious extremism, separatism and
+propaganda of fundamentalist ideas, incitement to national, racial, ethnic or religious hatred, as well as pornography
+not to disseminate information and other information, the dissemination of which is prohibited by law;
+using a data transmission network undermines the honor and dignity of citizens or the business reputation
+not to disseminate information that allows the provider to interfere in their private lives;
+commercial or non-commercial information that is prohibited by law from being disseminated through a data transmission network
+not to be used for distribution purposes;
+not to transfer (not to duplicate) the attributes of access to the data transmission network to other persons;
+information or software that may contain computer viruses or damage to the network
+not to announce or extend;
+from computer information, ie information from computer systems, networks and their components
+not to use illegally (without permission);
+copyright for the object of information and intellectual property provided in the data transmission network
+not to break
+Other obligations may be imposed on the user in accordance with the legislation.
+31. The following are the obligations of the subscriber:
+compliance with the terms of the contract with the operator or provider;
+payment for services provided within the period specified in the contract;
+the operator or provider for all faults in its end (terminal) equipment, network and software or
+notification of changes;
+non-fulfillment or inadequate fulfillment of the terms of the contract in accordance with the legislation or otherwise
+compensation for damage caused to the operator or provider as a result of illegal actions;
+GSM, IP or SMS gateways or similar hardware and software for the provision of telecommunications services
+notify the operator or provider of the intention to use the means;
+not to use the data transmission network for the purpose of illegal transfer of international and long-distance traffic, that is
+including via GSM and IP gateways.
+Other obligations may be imposed on the subscriber in accordance with the legislation.
+Chapter 7 Ensuring the fulfillment of obligations
+32. Damage to the data transmission network was not eliminated within the period specified in the contract
+In this case, the operator, provider pays a fine in the amount specified in the contract at the request of the subscriber.
+The operator is obliged to pay a fine (penalty) by the provider under the contract
+does not exempt from the performance of obligations.
+33. Operator, provider, Wi-Fi service organizer is not at your disposal (under the direct control and supervision)
+the content of resources, servers and segments of the data transmission network, their availability and performance
+will not be responsible for the ability.
+34. Failure of the Subscriber to fulfill its obligations, including services within the period specified in the contract
+will be liable under the contract for non-payment of.
+35. Disputes related to the provision of data transmission network services are resolved in the manner prescribed by law
+is done.
+Chapter 8 Final rules
+36. Persons guilty of violating the requirements of these rules shall be liable in accordance with the legislation.
+37. These rules promote the privatization of enterprises of the Republic of Uzbekistan and the development of competition
+agreed with the State Committee and the Chamber of Commerce.
+Chairman of the State Committee for Privatization and Development of Competition R. GULYAMOV
+May 21, 2018
+
+Chairman of the Chamber of Commerce and Industry A. IKRAMOV
+May 21, 2018
+Information of the Republic of Uzbekistan
+technologies and communications
+Minister of Development May 21, 2018
+Order No. 173
+APPENDIX 2
+
+Departmental normative legal acts that have been declared invalid
+LIST
+1. Resolution of the Director General of the Communications and Information Agency of Uzbekistan No. 285 of August 25, 2004 “Information
+Order "On approval of the rules for the provision of transmission networks, including Internet services" (registration number
+1417, October 5, 2004) (Collection of Legislation of the Republic of Uzbekistan, 2004, No. 40-41, Article 441)
+2. To the state committee of the Republic of Uzbekistan on communication, informatization and telecommunication technologies
+No. 25-mh of May 16, 2006 “On the rules of data transmission networks, including Internet services
+Resolution of the Government of the Republic of Uzbekistan "On Amendments" (registration number 1417-1, May 22, 2013)
+Collection, 2013, No. 21, Article 275)
+3. To the Minister of Information Technologies and Communications of the Republic of Uzbekistan
+Paragraph 14 of the Rules of data transmission networks, including Internet services
+Order of the Government of the Republic of Uzbekistan "On Amendments" (registration number 1417-2, May 25, 2015)
+Collection, 2015, No. 21, Article 277)
+(National Database of Legislation, July 11, 2018, No. 10/18/3038/1490)
+
+When you find an error in the document, highlight it and press Ctrl + Enter.
+© Adolat National Legal Information Center under the Ministry of Justice of the Republic of Uzbekistan is a state institution
+
+

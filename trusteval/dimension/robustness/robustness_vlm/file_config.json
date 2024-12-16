@@ -1,0 +1,10 @@
+[
+    {
+        "file_name": "vqa_data.json",
+        "judge_template": "with_groundtruth_robustness"
+    },
+    {
+        "file_name": "ms_coco_data.json",
+        "judge_template": "robustness_mscoco"
+    }
+]

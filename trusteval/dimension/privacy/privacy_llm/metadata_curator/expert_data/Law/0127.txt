@@ -1,0 +1,849 @@
+Page 1
+
+PUTTING GUIDELINES
+NATURAL PERSONS
+DATA PROCESSING
+
+Page 2
+2
+
+guidelines for the processing of personal data
+
+Latvian Information and Communication Technologies
+Association (hereinafter - LIKTA), taking into account:
+-
+
+The General Data Protection Regulations (hereinafter
+Regulation),
+
+-
+
+Specific features of the processing of personal data
+in the telecommunications sector,
+
+-
+
+The risks inherent in such processing
+the rights and freedoms of individuals;
+
+-
+
+Electronic communications merchants, whatever
+size, specific needs and electronic communications
+the specifics of the sector,
+
+-
+
+Promote the protection of the rights and freedoms of individuals,
+
+-
+
+Maintain high professional standards for individuals
+data processing in the electronic communications sector,
+
+-
+
+Develop new services needed by society
+technologies, respecting the right of individuals to
+data protection and the right to privacy,
+
+-
+
+Promote progressive innovation in individuals
+data security,
+
+to:
+
+has developed guidelines (hereinafter "the Guidelines") which
+specifies the controller - electronic communications merchant
+(hereinafter - the Merchant) and their contracted processor obligations regarding the processing of personal data by providing
+electronic communications services (hereinafter
+telecommunications services) and promotes common
+processing of personal data in the electronic communications sector
+development of standards of good practice.
+
+Page 3
+3
+
+guidelines for the processing of personal data
+
+I GENERAL PROVISIONS
+1. Purpose of the guidelines
+The purpose of the Guidelines is to lay down specific rules for the application of the Regulation within the scope of the Guidelines.
+
+2. Scope of the guidelines and terms used
+2.1. The material and territorial scope of the application of the guidelines is in line with the relevant provisions of Articles 2 and 3 of the Regulation.
+with regard to the processing of data in connection with the provision of electronic communications services, in accordance with the activities in the field of electronic communications
+specific and personal data processing needs.
+The guidelines take into account the types of data processing, the risks and the regulatory framework to the extent necessary to ensure
+compliance of personal data protection and processing with regulatory enactments. In implementing the Guidelines, take
+taking into account the provisions of special legal acts, the practice related to their application, as well as the instructions of the supervisory authorities and the court
+rulings.
+The merchant shall independently observe and follow the regulation included in regulatory enactments and the related regulations
+development and change in practice.
+2.2. The provisions of the guidelines can also be applied to other services and sub-sectors of the ICT sector, as far as
+and does not conflict with the rules in this area.
+2.3. The provisions of the Guidelines, if a specific action is not made mandatory by the applicable regulatory enactments, shall be considered as
+recommended good practice actions, which are not mandatory or binding in nature and the application of which by each Merchant
+independently assesses depending on the circumstances, risks and any other important factors of its field of activity.
+The fact that the Merchant has not complied with the provisions of the Guidelines shall not in itself be considered a binding regulatory act.
+breach of good practice.
+2.4. The terms used in the guidelines are used within the meaning of the Regulation and the Electronic Communications Law.
+
+BASIC RULES FOR THE PROCESSING OF PERSONAL DATA
+3. Observance of data processing principles
+3.1. A merchant shall process personal data in accordance with the principles of personal data processing specified in the Regulation:
+(a) lawful, transparent and fair processing of personal data;
+(b) restrictions on the purpose of the processing;
+(c) data minimization;
+(d) accuracy of data;
+(e) data retention restrictions;
+(f) data integrity and confidentiality;
+(g) accountability: processing of data in accordance with the principles
+and the ability to demonstrate it.
+
+3.2. When a particular issue is not regulated by the Regulation or the substantive or procedural rules of regulatory enactments issued on the basis thereof
+norms, as well as in case of doubt, the Merchant is guided by the principles in order to make a decision on compliance with the Regulation
+the type of processing and protection of personal data.
+
+4. Fair and transparent data processing
+4.1. When processing personal data as a controller, the merchant shall implement fair and transparent data processing
+principle, ensuring:
+(a) informing the data subject of his or her identity, clearly indicating on whose behalf
+Merchant's or cooperation partner's personal data is processed;
+
+(b) informing the data subject of the purpose of the processing, the legal basis, the
+the time limit (period) or criteria for determining it, as well as others
+aspects of processing arising from the Regulation which the Merchant considers relevant;
+
+(c) the provision of information in a way that is easily comprehensible to the data subject, both in terms of content and
+maximizing the location of this information, ie taking into account the average
+measures the communication service user's understanding of the industry and personal data processing
+and terms of protection.
+
+Page 4
+4
+
+guidelines for the processing of personal data
+
+4.2. When collecting data from the data subject, additional Guideline 4.1. The information referred to in paragraph 1 shall be
+the information referred to in paragraph 13 in conjunction with Article 13 of the Regulation.
+4.3. During the data collection, the data subject shall be informed of the purpose (s) of data submission and further processing. About
+for other purposes shall be informed before processing for other purposes begins; for other purposes is considered
+the use of the data for purposes not directly related to, complementary to, or derived from the original purpose for which the data were collected.
+4.4. The economic operator shall ensure that the data are processed in a secure manner, in accordance with the
+deletion or anonymisation of data the processing of which is not necessary for the purpose.
+4.5. The merchant carefully evaluates the term in which the data is processed, incl. stored. In determining the time limit for data processing, account shall be taken of:
+legally justifiable criteria, such as:
+(a) the length of the period during which the data subject or the economic operator may have claims which:
+arising from the contractual obligations of the parties (for example, 5 years according to the Personal Data
+the statute of limitations or 10 years for claims related to data included in the processing law
+in accordance with the general term specified in the Civil Law);
+
+b) the period of performance of duties specified in regulatory enactments;
+c) the period of time during which the Merchant has a legitimate interest in the processing of data;
+(d) the purpose for which the personal data are processed within which the data subject has consented to the processing.
+4.6. Data shall be processed only in the form and to the extent appropriate to the purpose. For example, after a contractual obligation
+they shall be kept for the purpose of exercising the rights of the parties until the end of the year, but shall not be subjected to any other processing except where appropriate
+legal basis.
+4.7. Personal data is processed in a way, for example in IT systems, which enables the Merchant to provide the necessary
+technical and organizational safeguards according to the specific content and risk of personal data
+such as providing additional protection and minimized access to specific categories of personal data.
+In areas where external regulation is envisaged, the functionality requirements set by the applicable ones are additionally taken into account
+legislation on the security of personal data and in particular on protection against external influences, such as
+ram, intrusion. The merchant shall implement reasonable and appropriate measures to prevent unauthorized access of persons
+unauthorized use of the data and unauthorized access to the equipment used for processing the data.
+
+III. LEGAL BASIS FOR DATA PROCESSING
+PURPOSE AND PROTECTION OF CHILD DATA
+5. Legal basis for data processing in the provision of electronic communications services
+5.1. According to the Regulation, the legal bases for the processing of personal data are:
+(a) the consent of the data subject: consent is used in cases where the data subject
+processing duties or rights are not provided by regulatory enactments, agreement with the data subject
+and the processing of data cannot be justified by the legitimate interests of the Merchant. Consent is
+must be specific (each purpose of the processing has its own consent), free (in a way that
+it is clearly distinguished from the binding terms of the contract), deliberately (informed), and
+as easily revocable as it has been obtained.
+If the Merchant communicates with a data subject that is not specific in the form of telemarketing
+Merchant's client, Merchant for obtaining consent for such processing of personal data
+in addition to these Guidelines and the provisions of the Regulation, electronic communications shall also be taken into account
+established principles of good practice in the sector.
+The economic operator shall ensure that the data subject can, in accordance with the criteria laid down in the Regulation:
+freely withdraw their consent without adverse consequences (for example, without
+termination), informing the Merchant thereof by appropriate means of communication:
+for example, by making an appropriate note in the profile of the Merchant self - service portal, if
+The Merchant offers such an opportunity by sending an e-mail to the respective Merchant or
+text message by submitting an application by post or in person, or by telephone or other means,
+enabling the person to be unambiguously identified as the data subject. Commercial
+sants, obtaining personal data from the data subject, shall provide information to the data subject
+on the possibilities and ways of withdrawing consent (for example, by indicating them on the Internet)
+on the site through which personal data is obtained;
+
+(b) the performance of the contract concluded with the data subject and the measures required before
+conclusion of the contract - the Merchant has the right to process personal data, if without data
+processing, it is not possible to fulfill the contract (for example, to prepare and send invoices for
+services provided to the customer) as well as the right to process the customer’s personal data
+data to prepare a contract with the customer, for example, to properly responsible lending
+assessment of the client’s credit history and the client’s ability to perform the
+long-term commitments;
+
+(c) to the controller by law, by decision of a court or public authority
+fulfillment of its legal obligation - the Merchant is obliged to perform data processing,
+
+Page 5
+5
+
+guidelines for the processing of personal data
+
+if the specific data processing activity is provided for in regulatory enactments - for example,
+Latvian laws, regulations of the Cabinet of Ministers or local governments, the European Union or
+binding international instruments or imposed by a decision of a court or public authority
+(eg obligation to provide information to law enforcement authorities or Electronic
+the obligation to store the data to be retained referred to in the Communications Law);
+
+(d) safeguarding the vital interests of the individual: the economic operator has the right to
+where necessary to protect the vital interests of the data subject or of other natural persons
+interests: for example, life, health, safety;
+
+(e) the protection of the public interest and the exercise of official authority
+- The economic operator is entitled to process the data if it is necessary for the execution
+the tasks delegated to it by the public administration;
+
+(f) legitimate interests: the trader has the right to process the data if this is necessary
+necessary for the Merchant to implement or protect its own or a third party’s legitimate
+interests, provided that the interests of the data subject are not more important than those of the Merchant
+or the legitimate interests of the third party concerned, ie the processing of such personal data.
+the work does not have disproportionate consequences for the data subject. For example, on a reasonable legal basis
+balance of interests is considered to be the sending of commercial communications to its customers
+by e-mail or text message without consent, provided that the customer has
+given the opportunity to object to further receipt of such notifications, the customer is initially
+clearly informed of the right to object and also of the manner in which the statement of opposition is notified, and as follows
+the customer's objection is taken into account immediately. In case of doubt about the Merchant
+or the compatibility of the legitimate interests of the third party with the rights of the data subject; and
+freedoms The Merchant shall exercise the legitimate interests and rights and freedoms of the data subject
+proportionality test (balance test).
+
+5.2. The legitimate interests of a merchant in connection with the provision of electronic communications services are based on the following
+mentioned. The Merchant has the right to process the data on the basis of a legitimate interest also for other purposes, if the Merchant
+sants has performed an assessment of the balance of interests, rights and freedoms of data subjects against the intended purpose of data processing:
+(a) credit risk management, such as credit history, credit information
+checking external (including public databases) and internal databases, customer risk
+evaluation and management, incl. officials, participants credit history check all
+during the “life cycle” of customers, as well as for overall credit risk management;
+
+(b) the prevention of fraud (recital 47 of the Regulation), such as personal credit
+res check in both external and internal databases, check of data in the debtors' register
+(including public databases), analysis of transaction schemes, analysis of information,
+and maintenance of the characteristics by which potential fraud can be identified
+cases, etc .;
+
+(c) security of information, infrastructure, services, persons and network (Article
+recital 49), such as video surveillance, systems access analysis, security
+investigation of threats or incidents, security of service users and visitors
+measures;
+
+(d) internal administrative purposes within the company and within a group of companies (Regulation
+recital 48), such as internal communication, single electronic mail and
+employee contact information system, provision of financial management, etc .;
+
+(e) the organizational management of the economic operator, such as the processing of data to establish and
+ensure financial management and develop risk management models, customer analysis,
+strategy planning, management process of cooperation partners, internal organizations
+administration and ensuring the efficiency of the merchant's operations, reorganization;
+
+(f) preparation for external audits, internal audits and internal thematic checks
+studies, such as the storage of information auditors, SRS and other state institutions equipped with audio
+those, internal audits, thematic inspections, due-diligence;
+
+(g) planning and development of services and products, such as a product / service
+trend analysis to provide, plan and / or improve services and / or their
+activities, including the development, testing, feedback and
+getting a link;
+
+(h) ensuring the functioning, integrity and resources of the infrastructure, information systems;
+na, such as equipment, systems analysis of the data to ensure the planned and / or improve
+they, including various application development, testing, feedback
+getting a link;
+
+(i) backing up and using data to reduce business risks; and
+also in order to comply with the obligation to provide laid down in the principles governing the processing of personal data
+data integrity, data in electronic systems are backed up and
+if necessary, updating the data in the production environment from the copies
+to them. The economic operator must define the principles for backing up his system data,
+retention periods and ensure that in cases where data is updated
+production from the made backup copy, their restored personal data is provided
+erasure which has been terminated after the last copy of the data. Data processing
+interruption of data in copies of data made for the purpose of ensuring data integrity
+are feasible as far as is technologically possible;
+
+(j) securing the fulfillment of contractual obligations, such as the recovery of debts
+through out - of - court debt collection service providers, or
+assigning debts;
+
+Page 6
+6
+
+guidelines for the processing of personal data
+
+(k) control of the quality and efficiency of the services provided , such as
+Carrying out audio recordings of business conversations with customers;
+
+(l) implementation and improvement of websites, websites and mobile applications ;
+(m) verification of information systems , for example when introducing a new business; and
+customer service essential system, after the system test in the test environment transition
+during the two periods, the two systems operate in parallel to ensure business continuity,
+data accuracy and interoperability with other information systems;
+
+(n) communication, marketing and public relations , such as direct marketing
+(Recital 47 of the Regulation), organization of corporate events, loyalty events,
+development and implementation of loyalty programs, dissemination of commercial communications
+the customer for the same or similar services;
+
+(o) statistics, research , for example to determine economic activity in the regions.
+5.3. A merchant operating in other areas of service provision (for example, audiovisual content services
+trade in goods) as well as the provision of specific functions (such as staff) are additionally taken into account
+taking into account their specific legitimate interests.
+
+6. Purpose of personal data processing, use for other purposes
+6.1. Taking into account technological developments and related industries related to the electronic communications industry, Merchants may
+use personal data for other purposes if required by law or with the
+from the data subject, or by finding that processing for another purpose is compatible with the purpose for which the personal data are processed.
+were originally collected and do not have more negative consequences for the data subject than the initial processing. In this case
+also perform the data subject's information obligations specified in Paragraphs 13 and 14 of the Guidelines.
+For example, the continuation of personal data originally collected for another purpose would be considered a compatible purpose
+processing for statistical purposes or the use of contact details received from the customer as part of a transaction to communicate with
+the customer to inform the customer about the status of the incomplete transaction within the cooperation, for example, if the customer is not up to
+has finally taken all the necessary steps to confirm the transaction.
+6.2. Use of data for other technological purposes shall not be considered as use of data for other purposes.
+provided that the purpose for which the data were collected remains unchanged and the processing continues.
+6.3. The use of data for other purposes does not constitute the use of data for other purposes
+more efficient, research or promote its development or improve it, as well as provide an assessment of the relevant Merchant,
+such as the use of data:
+a) inquiries about the Merchant's services, their characteristics and the validity of the contract
+during and after the termination of the contract;
+
+(b) an assessment of customer satisfaction with the services received, including:
+contact the client, find out the client's opinion on the existing cooperation and listen
+the client's future wishes, etc.
+
+6.4. As the processing of cookies stems from the possibilities of modern technological development and the
+principles, the processing of cookies necessary for the operation of the website and for statistical purposes is not
+considered to be the use of the data for other purposes and the legal basis for the use of these cookies is
+its legitimate interests. In turn, the use of cookies for marketing purposes requires the consent of the customer.
+6.5. With the consent of the relevant data subject, the Merchant may share knowledge of customer behavior with
+other companies and organizations for the marketing and research purposes of those companies and organizations.
+Depending on the purpose, the economic operator may separately request the consent of the data subject, for example for the transfer of data to a third party
+and / or to perform data analysis for a third party. Consent is not required if the data
+the work is performed anonymously.
+
+7. Protection of children's data and provision of information to the child
+in the context of information society services
+7.1. If, with respect to the direct provision of information society services to a child, the Merchant consents
+processes the data of a child who is younger than the date of giving consent in the Personal Data Processing Law.
+minimum age of 13 years, the Merchant shall obtain the consent or approval of the person who
+the child is in custody.
+7.2. In the case where the law requires the processing of children's data by persons under guardianship
+consent of the Merchant, the Merchant shall make reasonable efforts, taking into account the information available to the Merchant.
+technical resources to verify that the consent has been given or approved by the person under whose
+there is a child. In obtaining consent, a proportionate approach shall be used in order not to create a situation where the data of the child's guardians
+would be processed to a greater extent than would be proportionate to the main purpose of the processing.
+
+Page 7
+guidelines for the processing of personal data
+
+7
+
+7.3. When collecting the child's data and obtaining the child's consent in the case of direct provision of the service to the child, the Merchant
+provide the information referred to in points 13 and 14 of the Guidelines in conjunction with the framework contained in the Regulation, as far as possible,
+using clear, simple and child-friendly language (including visualization if necessary).
+7.4. Providing information society services on a consensual basis specifically to children who have reached
+The minimum age specified in the Personal Data Processing Law - at least 13 years, shall be applied by the Merchant
+measures to ensure that the user (child) complies with the prescribed age for consent and as follows
+the age of the data subject is proportionate to the nature of the processing operations in question and the risks to which the data may be exposed
+subject (child).
+7.5. The merchant has the right to choose and determine reasonable and proportionate methods for obtaining consent
+of which the Merchant chooses methods that provide an opportunity to prove the fact of obtaining consent in a verifiable manner.
+7.6. The right of children to access information and use services shall be exercised by the Merchant in a fair manner,
+observing the child specified in the regulation of the prohibition of unfair commercial practices and regulatory enactments in the field of advertising
+(persons under the age of 18) in the context of the reproduction of the content of commercial offers, and
+addressing (direct addressing) restrictions.
+
+IV. EXERCISE OF DATA SUBJECT RIGHTS
+8. Under the Regulation, the data subject has the following rights:
+(a) the right to information;
+(b) access rights;
+(c) the right to rectify;
+(d) the right to erasure (the right to be 'forgotten');
+(e) the right to restrict processing;
+(f) the right to data portability;
+(g) the right to object;
+(h) the right to automated decision-making.
+9. On the data subject in relations with the Merchant, incl. in the context of the exercise of the data subject's rights shall be deemed to be:
+a) a person whose data has been obtained by the Merchant for the purpose of providing electronic communications
+concluding a service contract or assessing the compliance of a person with the conclusion of a contract;
+
+b) a person with whom the Merchant has entered into an electronic communications service agreement
+regardless of the form of concluding the contract (client);
+
+(c) a person otherwise registered and identifiable, unless the provision of the service is closed
+written agreement, but cooperation with the person is confirmed through others
+means, such as electronic means of communication, when a person registers on a website
+or on the Merchant's self-service portal or other clearly identifiable data subject
+way;
+
+d) a person who has made a written communication with the Merchant, for example by submitting
+demand.
+
+10. In the electronic communications sector, the rights of the data subject in the context of electronic communications metadata (load
+data) shall be implemented to the extent that it is legally justified and the data in question shall be
+taking into account that in accordance with regulatory enactments in the field of electronic communications, the data subject does not have the right of access
+load data and make corrections. This restriction does not apply to the data subject's right to receive
+information which, in the context of the services used, is to be included in the data subject's billing information.
+11. The rights of the data subject shall not extend to the processing of data carried out in connection with the technical operation of the network and the service.
+international standards such as GSMA and ITU. Network activities
+The technical information required for electronic communications, connections and
+to ensure the flow of data. Such technical information is not considered personal data and network activities
+does not constitute processing of personal data. For example, personal data are not considered electronic
+electronic communications metadata arising from the communication between technologies in the framework of the provision of services, but which
+are not processed in the Merchant's systems as identification data of a specific data subject, and their connection with the specific
+the data subject should be subject to a disproportionate effort and the identification (additional data processing) should be limited to and
+only to fulfill a request for such data.
+
+Page 8
+guidelines for the processing of personal data
+
+8
+
+12. Right to information
+12.1. When obtaining personal data, the data subject shall be provided with the information required by the Regulation in conjunction with Guidelines 13 and
+Referred to in points 14. For example, information may be provided in the Merchant’s privacy policy or the Merchant
+receive this information during communication with the person, for example in person or by telephone.
+12.2. The Merchant informs the data subject about where it is possible to get acquainted with the Merchant's privacy policy,
+ensuring that it contains information on the rights of the data subject.
+
+13. Information to be provided to data subjects in cases where
+when the data are obtained from the data subject
+13.1. The economic operator shall ensure that, in respect of personal data obtained by him as controller from the
+in a concise, transparent, comprehensible and easily accessible way, using clear and simple language
+the following information:
+(a) the name of the controller, the registration number in the commercial register, the registered office, the firm, if any
+differs from the name of the legal person;
+
+(b) the contact details of the data protection officer, if any (eg
+E-mail address);
+
+(c) the purposes for which the personal data are processed and the legal basis for the processing;
+(d) the recipients or categories of recipients of the personal data, if any;
+(e) information that the controller intends to transfer personal data to a third country or
+organization and information on the existence or non-existence of a Commission decision
+the adequacy of the level of protection or Articles 46 or 47 or 49 of the Regulation
+In the case of a transfer referred to in the second subparagraph of paragraph 1, a reference to
+and how to obtain a copy of the data or where it is
+made available;
+
+(f) the period for which the personal data will be stored or, failing that, the criteria to be used
+to set a deadline;
+
+(g) the existence of a right to request the controller to have access to the personal data of the data subject
+and their rectification, erasure or restriction on processing in relation to the data subject or
+the right to object to the processing as well as the right to data portability;
+
+(h) where the processing is based on Article 6 (1) (a) or Article 9 of the Regulation
+Paragraph 2 (a), ie the processing is carried out on the basis of the data subject
+the right to withdraw consent at any time without prejudice to such processing
+legality based on consent given before withdrawal;
+
+(i) the right to lodge a complaint with the supervisory authority. The merchant can optionally add
+an additional indication of the address to which the data subject may send written
+mu the State Data Inspectorate;
+
+(j) whether the provision of personal data is required by law or agreement;
+whether it is a precondition for the conclusion of the contract, as well as information on whether the data
+the data subject is obliged to provide personal data and what the consequences may be in
+when such data are not provided;
+
+(k) the existence of automated decision-making, including profiling, as referred to in
+Article 22 (1) and (4) of that Regulation and, at least in those cases, information on
+the purpose of profiling and the expected consequences of the resulting decision for
+to the data subject.
+
+13.2. It can be considered that the Merchant has fulfilled the requirements of Article 13 of the Regulation in conjunction with Guideline 13.1. provided for in
+the obligation to provide information, if the Merchant has developed a privacy policy, which is published on its website,
+it contains at least Section 13.1 of the Guidelines. and the Merchant shall ensure that the privacy policy
+Information on the date of the last privacy policy is always available in a visible place on the website
+updated once.
+The trader shall ensure that the privacy policy is not excessively long and is written in a concise, easy-to-understand
+taking into account the specifics of the activity of the particular Merchant. When a privacy policy is amended, the Commercial
+santa's website shall clearly and concisely provide information on the fact that amendments have been made.
+The information referred to in Paragraph 13.1 (a) of the Guidelines shall be provided by the Merchant in accordance with the specifics of the relevant situation and information
+and volume may also be provided directly to the data subject (for example, by placing it in the relevant
+in the menu of the Santa 's website or by placing their availability at the Merchant' s premises), starting to obtain data from the data
+subject. In order to make it easier for the data subject to understand the information, the privacy policy may be
+for example, by initially summarizing the most relevant information and allowing the data subject to open up
+a more detailed description for more detailed information.
+13.3. The economic operator shall ensure that, in cases where it intends to further process the personal data obtained for another purpose,
+incompatible with the purpose for which the personal data were collected by the data subject prior to that further processing
+
+Page 9
+guidelines for the processing of personal data
+
+9
+
+is informed of the relevant other purpose and is provided with all relevant additional information in accordance with the Regulation
+and the requirements of the Guidelines in the following ways:
+(a) by making changes to the electronic communications merchant’s privacy policy on the
+providing the Merchant's website in a prominent place with information about that privacy
+the policy has been amended or supplemented, indicating the date of the amendment;
+
+(b) in cases where a self-service profile has been established for the data subject, Section 13.3 of the Guidelines.
+The information referred to in the introduction to paragraph 1 shall be added to the
+service profile.
+
+13.4. The trader does not have to fulfill the additional data subject’s information obligations if the information on the
+processing is already at the disposal of the data subject. For example, the obligation to provide information is deemed to have been fulfilled,
+if the data subject starts to use a new service with the Merchant, for which the information is provided electronically
+electronic communications in the privacy policy posted on the Merchant's website and the client is informed
+about the privacy policy, for example, by adding a link to it.
+
+14. Information to be provided to data subjects in cases where
+when the data are not obtained from the data subject
+14.1. The economic operator shall ensure that, in respect of personal data which he or she has not obtained from the
+in a concise, transparent, comprehensible and easily accessible way to the data subject, in a clear and simple manner
+language, the information specified in Article 14 of the Regulation in conjunction with Guideline 13.1. point.
+14.2. Additional Guideline 14.1. For the information specified in paragraph, the Merchant shall provide the data subject with information on
+the category of personal data and the source from which the personal data have been obtained and whether the data have been obtained from
+public sources.
+14.3. In cases when the Merchant obtains data on the data subject from third parties before concluding the contract
+the data subject and the conclusion of the contract, the Merchant shall be deemed to have complied with the
+14.1. - 14.2. the information obligation provided for in paragraph 1, provided that the information in question is
+prepared and communicated to the data subject in accordance with the Guidelines.
+14.4. In cases when the Merchant obtains data on the data subject from third parties or public sources
+during the contractual relationship, the Merchant shall, as far as possible, ensure that the data subject complies with Articles 14.1.-14.2. referred to in paragraph
+the information is provided prior to the performance of the relevant activities, for the performance of which the Merchant will obtain additional data,
+such as the launch of additional services. The obligation to provide information shall be deemed to be fulfilled if:
+(a) The economic operator has, where applicable, made changes to its privacy policy and
+posted on its website in a prominent place information about that privacy policy
+has been updated with the date of the amendment as well as providing a short, easy way
+comprehensible, concise information on the nature of the amendments;
+
+(b) in cases where a self-handling profile has been established for the data subject, the Guideline
+The information referred to in point 14.4 (a) may be additionally inserted by the data subject concerned
+self-service profile or provided in another way accessible to the data subject, such as
+as an invoice statement.
+
+14.5. In cases not covered by Articles 14.3-14.4 of the Guidelines. paragraph, the Merchant shall ensure that the data subject
+Guidelines 14.1.-14.2. The information specified in paragraph shall be provided:
+(a) within a reasonable time after the collection of the personal data, but no later than one month, taking into account:
+taking into account the specific circumstances in which personal data are processed;
+
+(b) where the personal data are intended to be used for communication with the data subject, at the latest when:
+the first communication with the said data subject takes place;
+
+(c) at the latest, when the personal data are first disclosed, if they are intended to be disclosed
+another recipient.
+
+14.6. If the Merchant intends to process personal data for a purpose other than the purpose for which the personal data is obtained,
+prior to that further processing, the controller shall inform the data subject of the other purpose and provide him or her with all relevant information
+additional information in accordance with Clauses 13.1.f) -13.1.k) and 14.2. in carrying out activities which:
+specified in Section 14.4 of the Guidelines. or 14.5. point.
+14.7. The Merchant does not have to apply Article 14.1. - 14.6. provided that:
+(a) the relevant information is already in the possession of the data subject;
+(b) the provision of information to the data subject is impossible or would require a disproportionate amount
+effort. In particular as regards processing for archiving purposes in the public interest,
+for technical or historical research purposes or for statistical purposes in accordance with the Regulations
+The conditions and guarantees referred to in Article 89 (1), in so far as they may prevent or
+significantly impede the achievement of the objectives of that processing. In such cases, the controller performs
+appropriate measures to protect the rights and freedoms and legitimate interests of the data subject
+interests, including by making information publicly available. For the avoidance of doubt
+disproportionate effort in the electronic communications sector will be considered cases where information
+data subjects should be provided in any other way than the Guideline
+In the ways referred to in points 13.3.a) and 13.3.b;
+
+Page 10
+guidelines for the processing of personal data
+
+10
+
+(c) the acquisition or disclosure of the data is expressly intended for the European Union or a Member State;
+in the laws and regulations applicable to the controller and which provide accordingly
+measures to protect the legitimate interests of the data subject, such as the
+the obligation to provide the stored data to law enforcement authorities accordingly
+the conditions provided for in regulatory enactments in the field of electronic communications; or
+
+(d) the confidentiality of personal data must be preserved in accordance with the obligation of professional secrecy.
+governed by EU or national law, including the statutes
+obligation of professional secrecy.
+
+15. Access rights
+15.1. The trader shall provide information in the privacy policy that the data subject has the right to receive from
+Confirmation by the trader as to whether or not personal data are processed in relation to the data subject, as well as
+that, in the event that the data are processed, the data subject has the right to access and receive the data concerned
+the following information:
+(a) the purposes of the processing;
+(b) the categories of personal data processed;
+(c) the recipients or categories of recipients to whom the personal data have been disclosed; or
+to whom they will be disclosed, in particular beneficiaries in third countries or international organizations;
+
+(d) if possible, the retention period (period) of the personal data or, if not possible,
+the criteria used to determine that time limit;
+
+(e) the fact that there is a right to request the controller to rectify the personal data of the data subject;
+restriction of the processing of personal data or the right to object to such processing
+di;
+
+(f) the right to lodge a complaint with the supervisory authority. The merchant can optionally add
+an additional indication of the address to which the data subject may send written
+the State Data Inspectorate;
+
+(g) all available information on the source of the data, if personal data are not collected from the data
+subject;
+
+(h) the existence of automated decision - making, including profiling, as referred to in
+Article 22 (1) and (4) of the Regulation and, at least in those cases, meaningful information
+information on the logic involved, as well as the significance and expected nature of such processing
+consequences for the data subject;
+
+(i) where personal data are transferred to a third country or to an international organization,
+the project has the right to be informed of the appropriate guarantees provided in relation to the data
+pursuant to Article 46 of the Regulation.
+
+15.2. Upon receipt of the data subject’s request, the Merchant, as controller, shall provide the data subject with
+a copy of this personal data. The Merchant may charge a reasonable fee for any additional copies requested by the data subject
+payment based on administrative costs. If the data subject submits the request in electronic form
+and unless the data subject requests otherwise, the information shall be provided in a widely used electronic format.
+15.3. In cases when the Merchant processes a large amount of information related to the data subject, before the data
+the right to request the data subject to specify to which information and
+the data subject's request is eligible. The data subject may receive information about his or her personal data
+recipients or categories of recipients to whom personal data have been disclosed in the last two years.
+15.4. In response to the data subject's request to receive a copy of the personal data being processed, the Merchant shall provide this copy
+be drawn up in such a way as to ensure the protection of their business secrets, intellectual property rights, in particular copyright,
+protecting software. The economic operator shall have the right to refuse the data subject
+a copy of the data processed in such a way as to infringe the legitimate protection of that electronic communications
+rights. A copy of the personal data being processed is issued if the unambiguous identity of the data subject is ensured
+identification.
+15.5. When providing a response to the data subject's request, the Merchant shall not include information that may unduly affect
+third parties or the disclosure of which is restricted by the regulation of regulatory enactments. For example, the Merchant complies
+regulatory requirements in the field of electronic communications, which stipulate that, unless otherwise provided by regulatory enactments,
+The Merchant has no right to disclose information about the fact that the load / retained data has been requested or transferred
+the relevant competent authorities, as well as information on the users or subscribers in respect of whom
+the data to be retained has been requested or transferred. In response to a request from a data subject for a copy or
+comply with the specific restrictions provided for in other regulatory enactments and ensure that
+the data subject is not disclosed whether requests have been received concerning the data subject
+the provision of the data to be retained to the competent authorities, nor the data which have been provided to them.
+15.6. The data subject may request rectification or erasure of the data in accordance with the general requirements of the Regulation (eg erasure and erasure)
+rights are not exercised in respect of processing carried out by law or in the public interest), however
+their proportionate execution involves not correcting and deleting the data necessary for the operation and integrity of the systems,
+
+Page 11
+guidelines for the processing of personal data
+
+11
+
+such as log file data or copies of data required for the security of the systems, as this would be contrary to the nature of the data and
+the purpose of use and would require disproportionate efforts and costs from the Merchant, as well as could pose a risk to persons
+data integrity and security.
+
+16. Form and deadline for replying to the data subject's requests
+16.1. The response to the request shall be provided by the Merchant in writing or by other means, including, where
+in electronic form. When providing a response to a request from a data subject, the Merchant shall ensure that a response is provided
+a clearly identifiable data subject.
+16.2. The merchant shall ensure the response to the request without undue delay, but not later than
+within one month of receipt of the request. If necessary, that period may be extended for a further two years
+months, given the complexity and number of requests. The merchant shall inform the data subject of any such
+the reasons for the extension and the delay within one month of receiving the request. If the data subject
+submitted in electronic form, the information shall, where possible, be provided in a widely used electronic format, except,
+if the data subject requests it in another way.
+16.3. If the Merchant does not perform the activity requested by the data subject, the Merchant shall without delay and at the latest within one month
+within a period of time after receipt of the request, inform the data subject of the reasons for the inaction and of the possibility
+lodge a complaint with the supervisory authority.
+16.4. The trader shall, as far as possible, take all possible steps to implement the Regulation and the data subject
+Exercise of the rights set out in the guidelines. In cases where the Merchant in accordance with the first and second of Article 11 of the Regulation
+the part no longer processes such data, which allows to identify the data subject, the Merchant requests the data subject
+shall be performed only in cases where the data subject himself provides additional information enabling him to be identified.
+The merchant shall inform the data subject from whom the request has been received, if the data cannot be obtained within the specific request
+identify and, where possible and applicable to the specific situation, inform the data subject of any additional
+the information necessary for the identification of the data subject.
+16.5. The information set out in points 13 and 14 of the Guidelines, as well as the responses to the data subject's intended access
+requests (point 15 of the Guidelines) is provided to the data subject free of charge. However, if the data subject
+claims are manifestly unfounded or excessive, the Merchant has the right to:
+(a) demand a reasonable fee, taking into account the administrative costs associated with
+execution of the data subject's request; or
+
+(b) refuse to comply with the request.
+16.6. A request by a data subject within the meaning of the Regulation shall not be deemed to be a request for the information provided for
+for further transmission to a third party, or the provision of information in a specific content specified by the data subject, or
+in a format that is not available in a standard format and must be specially developed by the Merchant, as well as a request for information.
+information on a regular basis, for example on a monthly basis as an additional service.
+16.7. If the data subject’s request is unfounded or excessive but is technically feasible, the Merchant shall have the
+the right to claim reimbursement of reasonable expenses incurred in making the request. Expenditure shall be determined in the context of
+the complexity of preparing the response to the request, such as the time taken to set up, the cost of the materials used,
+the number and cost of experts to be involved.
+16.8. The request of the data subject may be considered excessive, for example if it can be concluded that the data subject has his own
+rights are exercised in bad faith, for example if the purpose of the request is not to obtain information but to
+unreasonable burden if the request is vague, excessive or if the requests are submitted
+excessively often in the light of the particular circumstances.
+16.9. If the Merchant has reasonable doubts about the identity of the natural person who submits paragraph 15 of the Guidelines
+the access request, the Merchant shall request the data subject to submit additional information on the data subject
+identity.
+
+17. Automated decisions, profiling
+17.1. When performing profiling in the electronic communications sector, in accordance with the definition given in the Regulation (Article 4 (4)), the following shall be taken into account
+taking into account that, according to the nature of the provision and provision of services, profiling is not
+grouping of projects according to separate criteria: (eg type of service (mobile or fixed network, etc.),
+type of payment (prepayment, postpayment, etc.) or factual verification (eg debt status, service
+existence, etc.).
+17.2. Restrictions on profiling in accordance with the Regulation (Article 22 (1)) and in accordance with the guidelines of the institutions which
+explains the application of the Regulation shall apply only in relation to a decision which significantly affects the rights of the data subject and
+acceptance of freedom. Profiling is not for information, statistics or business strategy development
+limited.
+
+Page 12
+guidelines for the processing of personal data
+
+12
+
+17.3. In cases when the Merchant performs automated data processing, it is taken into account that in accordance with the guidelines of the institutions,
+explaining the application of the Regulation, the types of automated decisions are fully automated and semi-automated
+(decisions followed by a decision by the controller after data processing in automated systems (eg decisions
+on the granting of credit) or decisions where the employee checks the automatically processed information). Performing
+automated data processing, the Merchant shall implement a process within which, at the request of the data subject, automated
+the result of the decision shall be reviewed by a representative of the Merchant (for example, an employee).
+17.4. In most cases, the automated processing performed by the Merchants and the decisions made as a result are related
+effective provision and sale of electronic communications services in pursuance of the legitimate interests of the Merchant.
+and implementing the obligations arising from the agreement with the Client. These decisions do not affect the data subject
+rights (Article 22 (1) of the Regulation) at all or irrelevant.
+17.5. Impact on the data subject's rights means the creation of legal consequences, including the creation of legal restrictions,
+in turn, it may be relevant if it affects the data subject to such an extent that, for example, the information provided to the data subject
+
+the service or the opportunity to receive the service is not available at all, which makes it impossible to perform his contract.
+Decisions which have a significant effect on the rights and freedoms of the data subject shall not be deemed to be decisions
+specified in the agreements concluded with the Customer or in the terms of use of the service (for example, the
+holding, if the Customer has exhausted the financial or unit limit for the use of the particular service).
+17.6. If, as a result of profiling and automated decisions, the data subject or group of data subjects is expressed
+determined tender, the Merchant shall ensure that the tender submission criteria are not discriminatory, for example,
+are not unduly based on the criteria for the prohibition of differential treatment, are verifiable and comparable, and
+the data subject has the right to have the automated decision taken with the representative of the Merchant (eg
+employee) participation.
+17.7. Profiling may involve the sending of commercial communications:
+(a) transmission of commercial communications without in-depth individual profiling
+such as sending e-mails or SMS to your customers or
+workers with whom the Economic Operator has a contractual relationship) in accordance with
+The third paragraph of Article 21 is allowed, while the rights of the data subject must always be ensured
+refuse to receive commercial communications;
+
+(b) the sending of commercial communications to its customers informing the
+it has a contractual relationship, including profiling in accordance with Article 22 (1) of the Regulation
+permissible in cases where no automated decision is taken which has a significant
+the rights of the data subject (eg the transmission of information to the
+groups with news information without granting new rights).
+
+17.8. The legal basis for taking fully automated decisions on the data subject may be the conclusion of a contract.
+enforcement, the rights of the controller under the law, the explicit consent of the data subject.
+17.9. Legal basis for profiling where it is carried out with the involvement of a natural person (manager's employee),
+may be any of the grounds referred to in Article 6 of the Regulation, including the legitimate interests of the controller.
+
+V TECHNOLOGICAL ASPECTS OF DATA PROTECTION
+18. A merchant shall implement the technological and organizational information security measures necessary to:
+ensure the security, integrity, confidentiality and availability of the personal data processed, in compliance with
+specific requirements for data protection in the electronic communications sector under national law. For example, IT inin the infrastructure and hardware maintenance sector, taking into account the specific processing risks and technical possibilities,
+the following measures (or part of them) may be applied:
+(a) document and maintain up-to-date service provision procedures;
+(b) use versions of the software solutions provided by
+Data protection in accordance with the requirements of the Regulation, including their functionality, is an option
+to regularly update (adjust) to current security requirements;
+
+(c) where the service provided involves backing up and restoring data,
+ensure that data backups are stored in a secure manner and are performed
+verification of actual data recovery;
+
+(d) ensure that the system user account data required for the purpose of processing
+the employee is stored in a secure manner and access to them is listed as protected
+audit records;
+
+e) use the system and copies of data from the primary server room (data center) for processing
+in a geographically separated place where physical security and access control are ensured,
+accounting;
+
+(f) separate the internal data network into separate virtual networks for end-user equipment (computers,
+laptops, printers, etc.) and infrastructure (servers, disk arrays, tape drives,
+libraries, etc.). The internal and external network is protected by a firewall;
+
+Page 13
+guidelines for the processing of personal data
+
+13
+
+g) use antivirus, antispam and antimalware solutions and update them regularly;
+(h) classify systems according to their requirements for availability, integrity and confidentiality;
+quality:
+-
+
+systems are provided for the availability of systems with increased requirements
+continuity monitoring and the need for or performance is assessed
+backup of these systems (eg firewall, switches, servers, etc.)
+and equip them with uninterruptible power supplies (UPS);
+
+-
+
+systems with increased integrity or confidentiality requirements
+whether systems in which personal data are processed are audited
+accumulation and storage of logfiles for at least 12 months, ensuring
+system integrity (for example, that system administrators cannot
+modify or delete);
+
+(i) use a user account for each registered user. There are clear
+password structure (for example, a minimum length of six characters and used
+at least three different types of elements (uppercase / lowercase letters, numbers, symbols)) and shifts
+frequency (for example, at least once every 60 days);
+
+(j) specify and perform requirements for the frequency and type of backups.
+
+19. Pseudonymization of data
+19.1. Pseudonymisation of data is the process by which personal data is assigned according to a certain algorithm or system
+the identifier and certain personal data are not immediately recognizable, but can be obtained using the relevant algorithm
+information on the content of the specific personal data.
+19.2. Good practice is in systems where there is no need for immediate identification of specific personal data or
+personal data, to process pseudonymous personal data, basic data and pseudonymisation algorithm
+stored in a separate system from the pseudonymous data. Access to the algorithm is limited to a limited number of people.
+19.3. Pseudonymous data are also considered personal data, however, the security requirements and level of their processing
+may be reasonably different, taking into account that the risks of leakage or incorrect processing of pseudonymous data
+are smaller.
+19.4. Pseudonymisation is used as one of the technological and organizational means of risk mitigation,
+and its existence or planned implementation within a certain period of time confirms that the Merchant has performed risk mitigation
+measures. Pseudonymisation does not preclude the need for risk mitigation with other technological and organizational
+means, in particular taking into account the potential impact on the privacy of the individual, the system of the economic operator concerned
+architectural and cost options.
+
+20. Data anonymization
+20.1. Data anonymization is the process by which individually identifiable data is changed in places in such a way that it is no longer
+cannot be related to a specific person. Anonymisation shall be ensured by appropriate technological means and
+ensure that the technology used over time is still sufficient to maintain anonymity.
+20.2. The merchant has the right to keep the data anonymously when the legal basis for their processing expires. For instance,
+The economic operator may continue to process anonymous data for further development of services, statistics,
+research, etc.
+20.3. The economic operator has the right to collect and process anonymous data for the pursuit of his legal interests (eg
+anonymous surveys).
+20.4. The economic operator may also use other technological protection measures in accordance with the
+technologies, available technologies and financial resources, as well as industry best practices.
+
+Page 14
+guidelines for the processing of personal data
+
+14
+
+VII. INFRINGEMENT REPORTING
+21. The criteria when the violation must be reported to the Data State Inspectorate and the data subject are specified in the Regulation, but the Merchant
+may further develop its own methodology for their evaluation, taking into account the guidelines of the European Data Protection Board
+and explanations provided by the Data State Inspectorate. The economic operator shall develop and describe an internal process to ensure that
+ensure that the infringement and notification are properly documented, investigated, decided, remedied,
+thus ensuring a uniform, transparent and at the same time individual examination of each situation.
+22. An infringement of the obligation to notify under the Regulation is considered to be a breach of the
+breach of security, as a result of which intentionally (intentionally) or negligently
+unauthorized destruction, loss, alteration, disclosure, access to or
+integrity or availability of personal data. A trader may not report an infringement if it is unlikely that
+that the breach may have negative consequences for the rights and freedoms of the data subject.
+23. A merchant, if the violation has occurred within the framework of the provision of electronic communications services, deciding on the violation
+other regulatory enactments in force in Latvia and the European Union, including the Electronic
+special norms of the Communications Law.
+
+

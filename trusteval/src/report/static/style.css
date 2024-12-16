@@ -1,0 +1,421 @@
+/* Global Styles */
+:root {
+    --primary-color: #6366f1;      /* Modern blue-purple primary color */
+    --secondary-color: #4f46e5;    /* Deep blue-purple secondary color */
+    --accent-color: #8b5cf6;       /* Purple accent color */
+    --background-color: #f1f5f9;   /* Light gray-blue background */
+    --text-primary: #1e293b;       /* Primary text color */
+    --text-secondary: #64748b;     /* Secondary text color */
+    --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-primary);
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header h1, .card-header h2 {
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+header p {
+    color: var(--text-secondary);
+}
+
+/* Card Styles */
+.card {
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    overflow: hidden;
+    background-color: #ffffff;
+    margin-bottom: 1rem;
+    box-shadow: var(--card-shadow);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: var(--primary-color);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0;
+    border-bottom: none;
+}
+
+.card-header h2 {
+    color: #ffffff;
+}
+
+/* Add transition animation to card content */
+.card-body {
+    transition: all 0.3s ease-in-out;
+}
+
+/* Modify content styles */
+.content {
+    overflow: hidden;
+    opacity: 0;
+    padding: 0;
+    margin: 0;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+/* Styles when expanded */
+.content.show {
+    opacity: 1;
+    padding: 1rem;
+    margin: 0;
+    visibility: visible;
+    max-height: 5000px !important; /* Increased max height significantly */
+}
+
+/* Ensure .card-body has no default padding */
+.card-body {
+    padding: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Fix margin for table container */
+.table-responsive {
+    margin: 0;
+}
+
+/* Ensure content area has appropriate padding */
+/* .card-body .content {
+    padding: 1rem;
+} */
+
+/* Table Styles */
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+    font-size: 0.95rem;
+}
+
+.table thead th {
+    font-size: 1rem;
+    text-align: center;
+    background-color: var(--secondary-color);
+    color: #ffffff;
+}
+
+.table tbody td {
+    text-align: center;
+    font-size: 0.95rem;
+    color: #555555;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(99, 102, 241, 0.05);
+}
+
+.table-responsive {
+    margin-bottom: 0;
+}
+
+/* Button Styles (if buttons are needed) */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+/* Footer Styles */
+footer {
+    background-color: #2c3e50;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+    color: #ffffff;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    header p {
+        font-size: 1rem;
+    }
+
+    .table thead th, .table tbody td {
+        font-size: 0.9rem;
+    }
+}
+
+/* Markdown Content Styles */
+#summary-content {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #333;
+}
+
+#summary-content h2 {
+    font-size: 1.4rem; /* Reduced font size for h2 */
+    margin-top: 0.8rem; /* Adjusted margin */
+    color: #2c3e50;
+}
+
+#summary-content h3 {
+    font-size: 1.0rem; /* Reduced font size for h2 */
+    margin-top: 0.8rem; /* Adjusted margin */
+    color: #2d5883;
+}
+
+#summary-content ul {
+    padding-left: 1.5rem;
+    list-style-type: disc;
+}
+
+#summary-content p {
+    margin-bottom: 0.8rem;
+}
+
+#summary-content strong {
+    color: #1d70b8;
+}
+
+#summary-content code {
+    background-color: #f8f9fa;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.85rem;
+}
+
+/* Chart.js customization */
+#leaderboardChart {
+    max-height: 500px;
+    margin: 0 auto;
+}
+
+.chartjs-render-monitor {
+    transition: all 0.3s ease;
+}
+
+/* Optional: Customize Chart.js tooltip */
+.chart-tooltip {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+/* Navbar and Footer */
+.navbar-dark.bg-primary, footer.bg-primary {
+    background-color: var(--primary-color) !important;
+}
+
+/* Markdown Content Styles */
+.markdown-content h2 {
+    color: var(--secondary-color);
+}
+
+.markdown-content h3 {
+    color: var(--accent-color);
+}
+
+.markdown-content strong {
+    color: var(--primary-color);
+}
+
+.markdown-content code {
+    background-color: rgba(99, 102, 241, 0.1);
+    color: var(--accent-color);
+}
+
+/* Ensure h2 and h3 within markdown-content have collapsible arrows */
+.markdown-content h2.collapsible::after,
+.markdown-content h3.collapsible::after {
+    content: '\25BC'; /* Down arrow */
+    font-size: 0.8em;
+    color: var(--text-secondary);
+    float: right;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.markdown-content h2.collapsible.active::after,
+.markdown-content h3.collapsible.active::after {
+    transform: rotate(180deg);
+}
+
+/* Styles for collapsible sections in Case Study */
+#case-study .collapsible {
+    cursor: pointer;
+    user-select: none;
+    margin-top: 1rem;
+}
+
+#case-study .collapsible::after {
+    content: '\25BC'; /* Down arrow */
+    font-size: 0.8em;
+    color: var(--text-secondary);
+    float: right;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+#case-study .collapsible.active::after {
+    transform: rotate(180deg);
+}
+
+#case-study .content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.8s ease-out, opacity 0.8s ease-out;
+    opacity: 0;
+}
+
+#case-study .content.show {
+    max-height: 10000px !important; /* Much larger max-height for case study */
+    opacity: 1;
+    transition: max-height 0.8s ease-in, opacity 0.8s ease-in;
+}
+
+/* Highlight style for 'Judge Result' */
+.highlight {
+    background-color: #fff3cd;
+    font-weight: bold;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    color: #856404;
+}
+
+/* Modern markdown rendering */
+.markdown-content {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #343a40;
+}
+
+.markdown-content h1, .markdown-content h2, .markdown-content h3 {
+    color: var(--primary-color);
+    margin-top: 1rem;
+}
+
+.markdown-content p {
+    margin-bottom: 0.8rem;
+}
+
+.markdown-content a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.markdown-content a:hover {
+    text-decoration: underline;
+}
+
+.markdown-content code {
+    background-color: #f8f9fa;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #e83e8c;
+}
+
+.markdown-content pre code {
+    background-color: #343a40;
+    color: #f8f9fa;
+    padding: 1rem;
+    display: block;
+    overflow-x: auto;
+    border-radius: 5px;
+}
+
+.markdown-content ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+}
+
+.markdown-content blockquote {
+    border-left: 4px solid #dee2e6;
+    padding-left: 1rem;
+    color: #6c757d;
+}
+
+/* Styles for collapsible sections */
+.collapsible {
+    cursor: pointer;
+    user-select: none;
+    margin-top: 1rem;
+}
+
+.collapsible::after {
+    content: '\25BC'; /* Down arrow */
+    font-size: 0.8em;
+    color: var(--text-secondary);
+    float: right;
+    margin-left: 5px;
+    transition: transform 0.3s ease;
+}
+
+.collapsible.active::after {
+    transform: rotate(180deg);
+}
+
+.content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out, opacity 0.5s ease-out;
+    opacity: 0;
+}
+
+.content.show {
+    max-height: 5000px; /* Increased max height */
+    opacity: 1;
+    transition: max-height 0.5s ease-in, opacity 0.5s ease-in;
+}
+
+/* Adjust headings within the Case Study section */
+#case-study .collapsible {
+    font-size: 1rem; /* Reduce font size from h3 default */
+    margin-top: 0.5rem; /* Adjust top margin if needed */
+    margin-bottom: 0.5rem; /* Adjust bottom margin if needed */
+}
+
+#case-study .collapsible:hover {
+    font-size: 1rem; /* Ensure consistency on hover */
+}
+
+#case-study .collapsible.active {
+    color: var(--primary-color);
+}
+
+/* Optional: Further adjust nested elements if necessary */
+#case-study .markdown-content h2 {
+    font-size: 1.2rem; /* Reduce font size for markdown-rendered headings */
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+#case-study .markdown-content h3 {
+    font-size: 1rem; /* Reduce font size for markdown-rendered headings */
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Specific styles for case study content */
+#case-study .markdown-content {
+    overflow: visible;
+    height: auto;
+    max-height: none;
+}

@@ -1,0 +1,370 @@
+Page 1
+
+#
+é
+REPUBLIC OF CAMEROON PEACE - WORK - FATHERLAND
+seen
+Seen
+Seen
+Seen
+seen
+Seen
+seen
+Seen
+seen
+seen
+641
+PE LU OT 14 JUN. 2012
+laying down the conditions for portability of the numbers of
+subscribers of communications network operators
+electronic open to the public.
+THE PRIME MINISTER, HEAD OF GOVERNMENT,
+the Constitution ;
+Law n ° 98/013 of July 14, 1998 relating to competition;
+Law n ° 2010/012 of December 21, 2010 relating to cybersecurity and
+cybercrime in Cameroon;
+Law n ° 2010/013 of December 21, 2010 governing communications
+electronics in Cameroon;
+the framework law n ° 2011/012 of 06 May 2011 on consumer protection in
+Cameroon;
+decree n ° 92/089 of 04 May 1992 specifying the powers of the Prime Minister,
+amended and supplemented by decree n ° 95/145 bis of August 4, 1995;
+Decree No. 2005/124 of April 15, 2008 on the organization and functioning of the
+Ministry of Posts and Telecommunications;
+
+Page 2
+
+Decree No. 2011/408 of December 9, 2011 on the organization of
+Government;
+Decree No. 2011/409 of December 9, 2011 appointing a Premier
+Minister, Head of Government;
+Decree No. 2012/203 of April 20, 2012 on the organization and functioning of
+the Telecommunications Regulatory Agency,
+DECREED:
+CHAPTER!
+GENERAL PROVISIONS
+ARTICLE 1 ° .- (1) This decree sets the conditions for the portability of
+subscriber numbers of communications network operators
+electronic systems open to the public.
+(2) It is taken in application of article 50 of law n ° 2010/013
+of December 21, 2010 governing electronic communications to
+Cameroon.
+ARTICLE _2.- (1) Operators of communications networks
+electronic systems open to the public ensure the right of subscribers to retain the
+subscriber number when they change operator.
+(2) The operators make available to their subscribers
+the information needed to exercise their right to keep their number.
+L
+ARTICLE 3.- For the application of this decree, the definitions below are
+admitted:
+A6
+Centralized database: database that includes
+all the numbers ported, associated with their receiving operators,
+viewable by all operators (fixed and mobile) from
+from which a call to a number is made;
+Decentralized database: database that includes
+all the numbers carried by a given operator, making it possible to
+route calls to the receiving operator;
+System installation cost: expenses resulting from renovations,
+network modifications, software and hardware updates and
+of an operator's systems in order to provide the portability service of
+
+Page 3
+
+number and / or make a call to the ported numbers as well as the expenses
+resulting from test procedures between operators;
+Routing delay: porting delay corresponds to the number of days
+calendar between, on the one hand, the receipt by the receiving operator of the
+elements necessary for processing the subscription request and
+the request to keep the subscriber's number and, on the other hand, the
+effective number porting;
+. E164: recommendation of the International Union of
+Telecommunications (ITU) describing the structure of a number
+international telephone number and assigning prefixes to member countries
+national and thus constituting a numbering plan at the
+global basis on the basis of which countries allocate
+numbering;
+Area code: part of the telephone number corresponding to a zone
+geographic;
+Subscriber number: number of the national plan for the use of
+telephone service and associated services;
+Mobile number: number of the national numbering plan (type
+E.164) consisting of several digits;
+Geographical number: number of the national numbering plan (from
+type E.164) with one or more prefixes referring to a zone
+precise geographic;
+10. Non-Geographical Number: number of the national numbering plan
+(of type E.164) not referring to a geographical area;
+2
+11.0 beneficiary operator: communications network operator
+electronic system open to the public to which the French Regulatory Agency
+telecommunications assigned ported number;
+12.0 donor or transferor operator: network operator of
+electronic communications open to the public from which a
+number is ported;
+13.Receiver operator: communications network operator
+electronic open to the public to which the number is ported;
+14.Portability of numbers: possibility for a subscriber to use the
+same subscription number, regardless of operator or
+the operator of the network to which it is subscribed and even if it is
+
+Page 4
+
+changes operator or operator;
+15.Operator Identity Report (RIO): alphanumeric code of 12
+characters, assigned by any mobile operator to each mobile number
+active, for the needs of inter-operator exchanges within the framework of
+mobile number portability;
+16.Routing: A method of routing calls from a network
+electronic communications open to the public to another network.
+17.Direct routing: method of routing calls that consists of
+direct them to a ported number without passing through
+the donor operator, after prior consultation of the database
+centralized data;
+18.indirect routing: method of routing calls that consists of
+direct them to the donor operator, who in turn routes them
+calls to the receiving operator, after consulting the database
+decentralized data;
+19. Prepaid service: service offered to a natural or legal person
+and who uses it in mobile telephony under a contract under
+from which it is duly identified, emits or receives, at least once at
+during a period determined in said contract, a call, an SMS, a
+MMS or credit recharge;
+20 Post-paid service: service offered to a natural or
+legal and who uses it in mobile telephony under a contract in
+by virtue of which it is duly identified, transmits or receives, at least once
+during a period determined in said contract, a call, an SMS,
+an MMS and the service on presentation of an invoice
+after consumption;
+(2) If the donor operator informs the recipient operator that the
+request is ineligible, the latter informs the subscriber as soon as possible.
+ARTICLE 8.- Acceptance of the porting request constitutes termination of the
+subscription contract between the subscriber and the donor operator.
+ARTICLE 9.- Once the response from the donor operator is sent or
+that the time limit provided for in article 7 above has passed, the receiving operator
+has twenty four (24) hours to complete the actual implementation
+portage requested.
+ARTICLE 10.- Portability requests are sent by the operator
+recipient to the donor operator, every working day of the week.
+SECTION II
+REFUSAL OF THE PORTAGE REQUEST
+
+Page 5
+
+ARTICLE 11.- The receiving operator cannot refuse the subscriber's request
+only in the following cases:
+-__ application incomplete or containing incorrect information;
+-__ number belonging to another person;
+-__ non-compliance with the management rules of the national numbering plan.
+ARTICLE 12.- The donor operator cannot refuse the porting request
+presented by the receiving operator on behalf of the subscriber only in the cases
+following:
+-__ incomplete or erroneous data;
+-__ number inactive on the day of the porting request;
+- number already subject to a portability request not yet
+executed;
+- existence of a request from the subscriber to change his number;
+-_ waiver of the subscriber;
+-__ annual limit reached for porting the number.
+ARTICLE _13.- The eligibility of the porting request cannot be
+cause in the event of exceptional technical constraints involving a postponement
+the execution of the porting compared to the date initially planned.
+ARTICLE 14.- (1) Any refusal of a porting request must be justified and notified
+to the interested party by any means leaving a written record.
+(2) Operators cannot evoke the reason for a dispute
+with the subscriber or the existence of unpaid invoices to refuse a request
+portage.
+(3) The donor operator cannot evoke the maintenance of
+subscription to other services as a reason for refusing porting of the
+number.
+(4) The operators cannot mention the non-expiry of the
+duration of a subscription contract as a reason for refusing porting.
+(5) In all cases, operators are required to inform the
+prior to their users of the eligibility conditions necessary for the implementation,
+implementation of porting, in compliance with the regulatory provisions in force.
+SECTION It!
+SPECIAL CONDITIONS FOR CARRYING NUMBERS
+
+Page 6
+
+ARTICLE 15.- (1) In addition to the general conditions determined by this
+decree allowing number portability, operators are required to
+respect the following special conditions:
+- the porting of numbers must be ensured in a
+permanent by the operators concerned;
+- the period during which the user can neither receive nor
+making a call after the start of porting cannot be
+exceed two (02) hours, from the time of setting
+effective implementation of portability;
+- the donor and recipient operators must not collect, at the
+for the carry transaction, no remuneration of
+the user who requests it;
+- the same quality of service must be ensured for a call
+to a ported number and a call to a non
+door.
+(2) A subscriber whose number has been ported may not request the
+porting the same number as after a period of sixty (60) days.
+ARTICLE _16.- (1) A subscriber may not carry his number more than two (02) times
+the year.
+(2) The number of porterages provided for in paragraph 1 above cannot be
+done within thirty (30) consecutive days.
+ARTICLE 17.- (1) Numbers released after porting are returned to
+the attribute operator.
+(2) The receiving operator is required to immediately inform
+the operator responsible for terminating the ported number and returning it to him
+within a maximum period of ten (10) days from the date of termination.
+6
+ARTICLE 18.- The registration of the number carried in the telephone directory is
+payable by the receiving operator.
+ARTICLE 19.- Without prejudice to any other information or schedule set by
+Agency, operators have the obligation to provide it, no later than the 15th of
+following month, statistical information for the past month relating to
+porting of numbers by type, in particular:
+- the number of numbers ported to each receiving operator;
+- the number of numbers ported from each operator
+
+Page 7
+
+donor;
+- the number of numbers returned by the receiving operators;
+- the number of ports refused with the reasons for refusal;
+- the average carrying time carried out.
+SECTION IV
+OF THE IMPLEMENTATION OF PORTAGE
+ARTICLE 20.- (1) After favorable opinion, the donor operator and the operator
+receiver determine the date and time of porting and notify them to the requester,
+as well as to other third-party operators.
+(2) Before the porting time, the receiving operator notifies the
+other operators, the routing information that will allow them to provide
+technical changes in their networks, so that ported numbers
+are accessible from their networks.
+(3) The donor operator deactivates the number, sends a
+confirmation to the receiving operator and notifies the other operators.
+ARTICLE _21.- (1) The carrying process may, before completion, be
+stopped at the request of the applicant.
+(2) If the procedure is stopped, the receiving operator
+Deletes the porting request and notifies the donor operator, as well as the
+other operators.
+ARTICLE 22.- (1) If the information provided by the applicant proves
+fraudulent, the receiving operator and the donor operator consult each other and
+terminate the process in case the porting is not yet effective.
+(2) If the carry is already effective, the transaction must
+be deleted and the number returned to the donor operator with notification
+to other operators.
+CHAPTER III
+OPERATORS 'OBLIGATIONS
+ARTICLE _23.- Upon receipt of the request, the operator informs the subscribers
+on the portability procedure, the information and documents to be provided, the
+carrying period, information on applicable tariffs, as well as
+associated costs.
+ARTICLE 24.- (1) Operators are required to comply with the method of
+routing of number portability determined by the Agency.
+(2) The portability method referred to in paragraph 1 above is
+
+Page 8
+
+notified to operators by the Agency.
+ARTICLE 25.- If the donor operator or the recipient operator uses the network
+of another operator, the latter is subject to the same obligations as
+first two.
+ARTICLE_26.- Ported numbers are used in accordance with the conditions
+below:
+- numbering fees for ported numbers
+are paid by the receiving operator;
+-__ the beneficiary operator cannot assign the ported number to
+another subscriber, unless the subscription contract has
+been terminated with the receiving operator and the number returned to
+the attribute operator.
+ARTICLE 27.- Operators are required to give the RIO free of charge to
+subscribers who request it.
+ARTICLE _28.- During the minimum period of sixty (60) days following
+the porting date, the receiving operator is required to inform free of charge any
+calling to a number ported before the establishment of the
+connection, the identity of its network.
+ARTICLE _29.- Failure to comply with the obligations set out in this decree
+entails, for its author, the application of the penalties provided for by law
+in force.
+CHAPTER IV
+OF THE PORTABILITY DATABASE
+ARTICLE _30.- (1) Under the supervision and in accordance with the prescriptions of
+Agency, operators set up a centralized database
+common with equal rights and responsibility.
+(2) In the event of operator default, the Agency sets the
+terms and conditions for the management of the centralized database and
+designates, where applicable, the entity called upon to set up and manage it.
+(3) The centralized database, connected to the systems
+operators, is used to register requests, verify
+information provided, keep information on ported numbers and
+routing data.
+(4) Each operator is required to set up a database
+data in its network independently of the database
+centralized. However, regardless of the establishment of the
+centralized data, each operator is obliged to ensure the portability of
+number and routing of calls from one network to another, in accordance with
+to this decree.
+
+Page 9
+
+ARTICLE 31.- (1) The use of the centralized database, for the purposes of
+other than portability, is subject to the prior approval of the Agency.
+(2) The operator is required to take all measures
+necessary to ensure continuity of service.
+ARTICLE 32.- All costs relating to the establishment of the
+centralized data and the remuneration of the entity responsible for managing it are
+at the expense of the operators concerned.
+CHAPTER V
+PORTABILITY AGREEMENTS
+ARTICLE _33.- (1) As part of the implementation of portability,
+agreements concluded between operators include in particular:
+- the technical conditions and the schedule for carrying out the
+portability;
+the terms of payment of the costs relating to the
+place of portability;
+the clauses on the quality of service, as well as the penalties
+incurred, in the event of non-compliance with the level of service;
+the delimitation of the responsibility of the operators concerned.
+(2) A copy of the agreement referred to in paragraph 1 above is
+transmitted, within five (05) days of the date of its
+conclusion, at the Agency by each operator.
+ARTICLE 34.- Disputes relating to portability agreements are settled by
+the Agency which can set, if necessary, the technical and pricing conditions
+related.
+CHAPTER VI
+FINANCIAL PROVISIONS AND PRINCIPLES OF
+COST SHARING
+ARTICLE _35.- (1) The operators bear the cost of setting up
+place of the system, the costs derived from the tests and modifications to be carried out
+in their current systems and the costs of installing software systems
+and equipment to route calls to ported numbers or to
+provide the portability service.
+(2) The costs incurred by carrying one or more
+numbers are supported by the receiving operator.
+ARTICLE _36.- The costs incurred by the installation, maintenance and
+the operation of the centralized database are supported by all
+
+Page 10
+
+operators concerned.
+ARTICLE _37.- Costs related to the implementation of number portability
+must be justified and are subject to permanent control by the Agency.
+CHAPTER VII
+MISCELLANEOUS, TRANSITIONAL AND FINAL PROVISIONS
+ARTICLE _38.- Operators are required to set up a system
+automated exchange, no later than twelve (12) months from the date
+entry into force of this decree, in order to secure exchanges between
+them and streamline the number portability procedure.
+ARTICLE 39.- Operators of electronic communications networks
+open to the public are required, on the date of entry into force of this decree,
+apply number portability within the following deadlines:
+-__ twelve (12) months for the portability of mobile numbers;
+- twenty four (24) months for the portability of geographic numbers and
+non-geographic.
+ARTICLE _40.- Specific texts of the Minister in charge of
+telecommunications specify, as necessary, the terms and conditions
+application of this decree.
+ARTICLE 41.- This decree will be registered, published following the procedure
+emergency, then inserted in the Official Journal in French and English.
+Yaoundé, JUN 4. 2012
+THE PRIME MINISTER,
+
+

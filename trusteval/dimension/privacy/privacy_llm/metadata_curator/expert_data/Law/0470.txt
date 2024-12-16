@@ -1,0 +1,317 @@
+Page 1
+
+GOVERNMENT OF THE RUSSIAN FEDERATION
+
+POSTANOVLENIE
+
+dated November 1, 2012 N 1119
+
+MOSCOW
+
+On approval of requirements for the protection of personal data
+when processing them in information systems
+personal data
+
+In accordance with Article 19 of the Federal Law
+"On personal data" Government of the Russian Federation
+postage:
+1. To approve the attached requirements for the protection of personal
+data during their processing in information systems of personal
+data.
+2. To declare invalid the government decree
+Russian Federation dated November 17, 2007 N 781 "On approval
+Provisions on ensuring the security of personal data during their
+processing in information systems of personal data "(Collection
+legislation of the Russian Federation, 2007, N 48, art. 6001).
+
+Prime Minister
+Russian Federation
+
+D. Medvedev
+
+Page 2
+
+__________________________
+
+APPROVED BY
+government decree
+Russian Federation
+of November 1, 2012
+N 1119
+
+TREBOVANIZ
+to the protection of personal data during their processing
+in personal data information systems
+
+1. This document sets out the requirements for the protection
+personal data during their processing in information systems
+personal data (hereinafter - information systems) and levels
+the security of such data.
+2. Security of personal data during their processing in
+information system is provided with the help of a security system
+personal
+
+data,
+
+neutralizing
+
+actual
+
+threats,
+
+certain
+in accordance with part 5 of article 19 of the Federal Law
+"About personal data"...
+The personal data protection system includes
+organizational and (or) technical measures determined taking into account
+current threats to the security of personal data and information
+
+Page 3
+
+technologies used in information systems.
+3. Security of personal data during their processing in
+information system is provided by the operator of this system, who
+processes personal data (hereinafter referred to as the operator), or a person
+processing personal data on behalf of
+operator
+on the basis of an agreement concluded with this person (hereinafter authorized person). Agreement between the operator and the authorized
+by a person must provide for the duty of an authorized person
+ensure the security of personal data during their processing in
+information system.
+4. The choice of information security tools for the security system
+personal data is carried out by the operator in accordance with
+regulatory legal acts adopted by the Federal Service
+security of the Russian Federation and the Federal Service for
+technical and export control pursuant to part 4 of article 19
+Federal Law "On Personal Data"...
+5. An information system is an information system,
+processing special categories of personal data, if in
+it processes personal data concerning racial,
+nationality, political views, religious or
+philosophical beliefs, health status, intimate life of subjects
+personal data.
+An information system is an information system,
+processing biometric personal data, if it contains
+information is processed that characterize the physiological and
+biological characteristics of a person, on the basis of which it is possible
+to establish his identity and which are used by the operator to
+
+Page 4
+
+establishing the identity of the subject of personal data, and not
+information related to special categories is processed
+personal data.
+An information system is an information system,
+processing publicly available personal data, if it contains
+personal data of personal data subjects are processed,
+obtained only from publicly available sources of personal data,
+created in accordance with Article 8 of the Federal Law
+"About personal data"...
+An information system is an information system,
+processing other categories of personal data, if it does not contain
+the personal data specified in the first paragraphs are processed third of this paragraph.
+An information system is an information system,
+processing the personal data of the operator's employees, if
+it processes personal data only of the specified
+employees. In other cases, the information system
+personal data is an information system,
+processing personal data of personal data subjects,
+who are not employees of the operator.
+6. Under current threats to the security of personal data
+is understood as a set of conditions and factors that create an actual
+danger of unauthorized, including accidental, access to
+personal data during their processing in the information system,
+the result of which can be destruction, change,
+blocking, copying, provision, distribution
+personal data, as well as other illegal actions.
+Type 1 threats are relevant for an information system if
+
+Page 5
+
+for her, including the actual threats associated with the presence
+undocumented (undeclared) capabilities in the system
+software used in the information system.
+Type 2 threats are relevant for an information system if
+for her, including the actual threats associated with the presence
+undocumented (undeclared) capabilities in applied
+software used in the information system.
+Type 3 threats are relevant for an information system if
+threats that are not related to the presence of
+undocumented (undeclared) capabilities in the system and
+applied
+information
+
+programmatic
+
+providing,
+
+used by
+
+in
+
+system.
+7. Determination of the type of threats to the security of personal data,
+relevant to the information system, is made by the operator with
+taking into account the assessment of possible harm carried out in pursuance of paragraph 5
+Part 1 of Article 18-1 of the Federal Law "On Personal Data", and
+in accordance with the regulatory legal acts adopted during
+execution of part 5 of article 19 of the Federal Law "On personal
+data "...
+8. When processing personal data in information systems
+4 levels of personal data protection are established.
+9. The need to ensure the 1st level of security
+personal data during their processing in the information system
+set if at least one of the following conditions is present:
+a) type 1 threats are relevant to the information system, and
+the information system processes either special categories
+personal data, or biometric personal data, or
+
+Page 6
+
+other categories of personal data;
+b) type 2 threats are relevant to the information system, and
+the information system processes special categories
+personal data of more than 100,000 personal data subjects,
+who are not employees of the operator.
+10. The need to ensure the 2nd level of security
+personal data during their processing in the information system
+set if at least one of the following conditions is present:
+a) type 1 threats are relevant to the information system, and
+the information system processes publicly available personal
+data;
+b) type 2 threats are relevant to the information system, and
+the information system processes special categories
+personal data of the operator's employees or special categories
+personal data of less than 100,000 personal data subjects,
+who are not employees of the operator;
+c) type 2 threats are relevant for the information system, and
+the information system processes biometric personal
+data;
+d) type 2 threats are relevant to the information system, and
+the information system processes publicly available personal
+data from more than 100,000 personal data subjects, not
+who are employees of the operator;
+e) type 2 threats are relevant to the information system, and
+the information system processes other categories of personal
+data from more than 100,000 personal data subjects, not
+who are employees of the operator;
+f) type 3 threats are relevant to the information system, and
+
+Page 7
+
+the information system processes special categories
+personal data of more than 100,000 personal data subjects,
+who are not employees of the operator.
+11. The need to ensure the 3rd level of security
+personal data during their processing in the information system
+set if at least one of the following conditions is present:
+a) type 2 threats are relevant for the information system, and
+the information system processes publicly available personal
+data of the operator's employees or publicly available personal data
+less than 100,000 subjects of personal data that are not
+by the operator's staff;
+b) type 2 threats are relevant to the information system, and
+the information system processes other categories of personal
+data of the operator's employees or other categories of personal data
+less than 100,000 subjects of personal data that are not
+by the operator's staff;
+c) type 3 threats are relevant for the information system, and
+the information system processes special categories
+personal data of the operator's employees or special categories
+personal data of less than 100,000 personal data subjects,
+who are not employees of the operator;
+d) type 3 threats are relevant for the information system, and
+the information system processes biometric personal
+data;
+e) threats of the 3rd type are relevant for the information system, and
+the information system processes other categories of personal
+data from more than 100,000 personal data subjects, not
+who are employees of the operator.
+
+Page 8
+
+12. The need to ensure the 4th level of security
+personal data during their processing in the information system
+set if at least one of the following conditions is present:
+a) type 3 threats are relevant to the information system, and
+the information system processes publicly available personal
+data;
+b) type 3 threats are relevant to the information system, and
+the information system processes other categories of personal
+data of the operator's employees or other categories of personal data
+less than 100,000 subjects of personal data that are not
+by the operator's staff.
+13. To ensure the 4th level of protection of personal
+when processing them in information systems, it is necessary
+fulfillment of the following requirements:
+a) the organization of the regime for ensuring the security of the premises,
+which hosts an information system that prevents
+the possibility of uncontrolled entry or stay in these
+premises of persons who do not have the right to access these premises;
+b) ensuring the safety of personal data carriers;
+c) approval by the head of the operator
+
+document,
+
+determining the list of persons whose access to personal data,
+processed in the information system, it is necessary to perform
+their official (labor) duties;
+d) the use of information security tools that have passed
+procedure for assessing compliance with legal requirements
+Of the Russian Federation in the field of information security,
+in the case when the use of such funds is necessary for
+neutralization of actual threats.
+
+Page 9
+
+14. To ensure the 3rd level of protection of personal
+data during their processing in information systems in addition to
+fulfillment
+the requirements provided for in paragraph 13 of this document,
+it is necessary that an official (employee) be appointed,
+responsible for ensuring the security of personal data in
+information system.
+15. To ensure the 2nd level of protection of personal
+data during their processing in information systems in addition to
+fulfillment
+the requirements provided for in paragraph 14 of this document,
+it is necessary that access to the content of the ezine
+communications was possible exclusively for officials
+(employees) of the operator or an authorized person to whom information,
+contained in the specified log are required to execute
+official (labor) duties.
+16. To ensure the 1st level of protection of personal
+data during their processing in information systems in addition to
+the requirements provided for in paragraph 15 of this document,
+the following requirements must be met:
+a) automatic registration in the electronic journal
+security of changing the authority of the operator's employee to access
+personal data contained in the information system;
+b) the creation of a structural unit responsible for
+ensuring the security of personal data in information
+system, or assignment to one of the structural divisions
+functions to ensure such security.
+17. Control over the implementation of these requirements is organized
+and is carried out by the operator (authorized person) independently and
+
+Page 10
+
+(or) with the involvement of legal entities on a contractual basis and
+individual
+implementation
+
+entrepreneurs,
+
+having
+
+license
+
+activities for the technical protection of confidential information.
+The specified control is carried out at least 1 time in 3 years within the time frame,
+determined by the operator (authorized person).
+
+_____________
+
+on the
+
+

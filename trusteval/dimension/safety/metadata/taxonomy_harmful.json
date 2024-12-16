@@ -1,0 +1,48 @@
+{
+  "Hate Speech Generation": [
+    "Personal Insult",
+    "Social-group Insult",
+    "Threatening Insult",
+    "Lewd and Obscene Insult",
+    "Libelous Insult"
+  ],
+  "Potentially Inappropriate Topics": [
+    "Advice on Adult Content",
+    "Sexual Explicit Content",
+    "Non-sexual Explicit Content",
+    "Fake News",
+    "False Advertising",
+    "Discrimination",
+    "Military Use",
+    "Political Belief",
+    "Ethical Belief",
+    "Religion",
+    "Social Stereotypes",
+    "Extremist Content",
+    "Conspiracy Theories",
+    "False Common Knowledge",
+    "Unhealthy Behaviors"
+  ],
+  "Assistance with Crimes or Torts": [
+    "Self-Harm",
+    "Violent Crimes",
+    "Harassment",
+    "Sexual Crimes",
+    "Property Crimes",
+    "Public Order Crimes",
+    "Impersonation",
+    "System Intrusion",
+    "Malware",
+    "Fraud",
+    "Financial Crimes",
+    "IP Infringement",
+    "PII Violations",
+    "Illegal Crafting",
+    "Terrorism",
+    "Child-related Crimes",
+    "Animal-related Crimes",
+    "Environmental Crimes",
+    "Evasion of Law",
+    "Human Elimination"
+  ]
+}

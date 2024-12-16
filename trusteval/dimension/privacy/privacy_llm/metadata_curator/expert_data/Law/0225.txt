@@ -1,0 +1,1638 @@
+Page 1
+
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+DATA RESPONSIBILITIES
+REGISTRY INFORMATION SYSTEM
+
+(VERBIS)
+GUIDE
+
+KVKK Data Management Department
+
+Page 1
+
+Page 2
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+CONTENTS
+1 – INTRODUCTION TO VERBIS ............................................. .................................................................. .................................................................. .3
+
+2 - VERBIS HOMEPAGE .................................................. .................................................................. ........................................ 4
+
+3 - VERBIS LIGHTING TEXT ............................................. .................................................................. ........................... 5
+
+4 - DATA SPEAKER ADMIN LOGIN ................................. .................................................................. ..................... 6
+
+5 – FIRST REGISTRATION WITH VERBIS ............................................... .................................................................. .............................................. 7
+
+6 – SELECTION OF DATA RESPONSIBLE ACCORDING TO ITS NATURE ......................................... .............................................. 8
+
+7 – ISSUING LEGAL/REAL PERSON INFORMATION FORM RESIDENT IN DOMESTIC ....................... ...................... 9
+
+7.1. ORGANIZING INFORMATION FORM FOR DOMESTIC RESIDENTIAL RESIDENTIAL PERSON DATA SUBJECT ................................. 9
+
+7.2. ISSUING INFORMATION FORM FOR DOMESTIC RESIDENTIAL LEGAL ENTITY DATA SPEAKER .............19
+
+8 – ISSUING LEGAL / REAL PERSON INFORMATION FORM RESIDENT ABROAD ....................................... ............28
+
+9- DATA SPEAKER MANAGEMENT LOGIN AND APPOINTMENT OF CONTACT PERSON ......................................... .................................37
+
+10-CREATE A REGISTRATION REQUEST FOR DATA SUPERVISOR.................................... ..........................................41
+
+11-INFORMATION UPDATING PROCEDURES OF DATA SPEAKER AND DATA SPEAKER REPRESENTATIVE .................................43
+
+12-DATA RESPONSIBLE PASSWORD RENEWAL PROCEDURES ......................................... ..............................................52
+
+13- LOGIN OF THE CONTACT PERSON TO THE SYSTEM ................................. .................................................................. ....................54
+
+14- NOTIFICATION PROCEDURES OF THE CONTACT PERSON TO VERBIS ......................................... .................................................................. ..58
+
+15- REGISTRY INQUIRY PROCEDURES .................................................. .................................................................. ...........................71
+
+DATA CATEGORIES ................................................. .................................................................. ............................................74
+
+PURPOSE OF PROCESSING PERSONAL DATA .................................................. .................................................................. ...........................76
+
+DATA TRANSFER RECEIVER GROUPS .................................................. .................................................................. ..........................78
+
+GROUPS OF DATA SUBJECT .................................................. .................................................................. ..............................79
+
+DATA SECURITY MEASURES .................................................. .................................................................. ..............................80
+
+KVKK Data Management Department
+
+Page 2
+
+Page 3
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+1 – ENTERING VERBIS
+In order to carry out the registration to VERBİS for the first time, our Institution must first
+with web page It is necessary to log in to the address www.kvkk.gov.tr.
+It is located in the menus on the right side of the Homepage at www.kvkk.gov.tr
+It will be possible to log in by clicking the VERBİS icon in the field.
+
+VERBIS
+
+Figure 1.1 Institution Website Home Screen
+
+KVKK Data Management Department
+
+Page 3
+
+Page 4
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+2 - VERBIS HOMEPAGE
+On the VERBİS Homepage that opens,
+- “Data Controller Admin Login”
+- “Registration”
+- “Register Inquiry”
+has three sections.
+
+VERBIS
+
+VERBIS
+
+VERBIS
+
+Figure 2.1 VERBIS Home Screen
+
+KVKK Data Management Department
+
+Page 4
+
+Page 5
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+3 - VERBIS LIGHTING TEXT
+Data entry to VERBİS by the Personal Data Protection Authority, data controllers
+During the process, personal data is processed.
+Article 10 of the Law No. 6698 and Substitution of the Obligation to Light
+Illumination text in accordance with the Communiqué on the Procedures and Principles Regarding
+has been prepared and if the link shown in Figure 3.1 is clicked, the relevant text
+can be viewed.
+
+VERBIS
+
+Figure 3.1 VERBIS Illumination Text Entry Screen
+KVKK Data Management Department
+
+Page 5
+
+Page 6
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+4 - DATA MANAGEMENT LOGIN
+In order to enter VERBIS, the data controller must first be confirmed.
+For this, signature on behalf of the data controller in the field of personal data protection.
+by issuing a standard application form introducing the data controller by the authorities.
+It will be sent to our institution.
+In this context, first of all, “Data Supervisor Manager” on the VERBİS Homepage.
+Log in by clicking the "Login" button .
+
+VERBIS
+
+Figure 4.1 Data Controller Admin Login Screen
+
+NOTE: For the explanations about the “Register to the Registry” button on the VERBİS Homepage, 10.
+It can be accessed from the department.
+
+KVKK Data Management Department
+
+Page 6
+
+Page 7
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+5 – FIRST REGISTRATION TO VERBIS
+On the screen that appears after clicking the "Data Controller Login" button,
+"User Name and Password" information of the data controller is requested.
+In order to get User Name and Password information, first of all, "Registration" on the lower left.
+Sign in to the system via the “Become” button and then the relevant screens on the following screens.
+registration procedures by filling in the relevant forms along with the necessary steps.
+they must be completed.
+
+VERBIS
+
+Figure 5.1 User Name / Password Entry Screen
+
+If you have previously logged into the system via the "Register" button on this page.
+and "User name and password" have been sent to you by our Institution.
+Click on the “Login” button to continue the process.
+Explanations on this subject will be given in the following sections.
+
+KVKK Data Management Department
+
+Page 7
+
+Page 8
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+6 – SELECTION OF DATA SPECIALIST ACCORDING TO QUALIFICATION
+In VERBİS, data controllers are responsible for fulfilling their obligations.
+Legal / Real Person Domiciled in Turkey,
+Legal / Real Person Domiciled Abroad,
+State agency
+It is classified in 3 different categories.
+
+Figure 6.1 Data Controller Selection Screen by Attribute
+
+From these three options, the appropriate option for the data controller's situation is selected.
+The login process will continue.
+
+KVKK Data Management Department
+
+Page 8
+
+Page 9
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+7 – LEGAL/REAL PERSON INFORMATION FORM RESIDENT IN DOMESTIC
+ARRANGEMENT
+
+7.1. Information Form for Domestic Resident Natural Person Data Controller
+Arrangement
+If the data controller is a real person, first of all; "Data Controller's TIN/TCKN"
+In the field, the TR Identity Number of the data controller or the Tax Identity Number, if any
+manually typed.
+If the TR Identity Number is written, without making a selection from the tax office area,
+answering the four transaction information asked in the other field and “Bring Title / Name”
+After clicking the button, the General Directorate of Population and Citizenship Affairs is in the background.
+(MERNIS) system is connected.
+If the Tax Identification Number is written, the correct tax from the tax office area
+department, answering the four transaction information asked in the other field, and
+After clicking on the "Bring Title / Name" button, the Revenue Administration is in the background.
+connected to the system.
+If there is no error or deficiency in the entered information, a "Successful" pop-up will appear.
+After the screen note is received, in the "Title of the Data Controller" field, from MERNIS or
+Name / title information is automatically retrieved from the Revenue Administration system.
+
+KVKK Data Management Department
+
+Page 9
+
+Page 10
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.1.1 Information Form Entry Screen for a Resident Natural Person Data Controller
+
+KVKK Data Management Department
+
+Page 10
+
+Page 11
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.1.2 Name/Title Verification Screen for Domestic Resident Natural Person Data Controller
+
+Successfully displaying the name/title information via the system
+then the “E-mail Address of the Data Controller” and “Phone Number” information Figure 7.1.3
+As you can see, it is entered correctly and up-to-date. This information is required as a field.
+has been determined.
+The e-mail address entered here must be the corporate e-mail address.
+recommended. Because the "username" to be used in all future logins and
+All information about VERBİS with the “password” will also be made through this address.
+GSM or fixed line number can be entered in the phone number field. But
+Considering the possibility of experiencing any problems in sending e-mail,
+It is recommended to write a GSM number in order to send SMS by our institution.
+
+KVKK Data Management Department
+
+Page 11
+
+Page 12
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.1.3 E-mail and Telephone Number Entry for the Resident Natural Person Data Controller
+
+KVKK Data Management Department
+
+Page 12
+
+Page 13
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If the address number of the data controller is known, this 10-digit address number is "Data Controller".
+It is written in the "Address Number of the Responsible Person" box.
+If the 10-digit address number is unknown, the Data Controller's Address Number
+box on https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+Click on the link of the city, district, neighborhood, village, from the boxes in the upper left of the screen.
+Information constituting the address number such as street, exterior door and interior door number are shown in Figure 7.1.4.
+It is entered as it is and from there, the 10-digit address number information is entered as in Figure 7.1.5.
+as reached.
+The 10-digit address number displayed on the screen is copied from here and shown in Figure 7.1.6.
+It can be pasted into the "Address Number" box on the Information Form or manually.
+is written as
+
+A
+D
+R
+TO
+S
+N
+HE IS
+
+Figure 7.1.4 Determination of Address Number for a Resident Real Person Data Controller
+
+KVKK Data Management Department
+
+Page 13
+
+Page 14
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+ADDRESS NO
+
+Figure 7.1.5 Determination of Address Number for a Resident Real Person Data Controller
+
+Figure 7.1.6 Address Number Entry for the Resident Real Person Data Controller
+
+KVKK Data Management Department
+
+Page 14
+
+Page 15
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If any, the KEP (Registered Electronic Mail) address of the Data Controller is entered. If not this
+field is left blank.
+
+Figure 7.1.7 Entering the KEP Address into the Information Form for the Resident Natural Person Data Controller
+
+KVKK Data Management Department
+
+Page 15
+
+Page 16
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After all the information is entered, in the lower right part as in Figure 7.1.8.
+click on the “Save” button.
+
+VERBIS
+
+Figure 7.1.8 Data Entry to the Domestic Resident Natural Person Data Controller Information Form
+
+KVKK Data Management Department
+
+Page 16
+
+Page 17
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 7.1.9 That the Application Form has been Created for the Resident Natural Person Data Controller
+Displaying Screen
+
+KVKK Data Management Department
+
+Page 17
+
+Page 18
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+By clicking the "View Application Form" box, Data Controllers Registry Information
+System Application Form is printed in PDF format or in PDF format.
+saved to the computer.
+
+VERBIS
+
+Figure 7.1.10 Displaying the Application Form of a Resident Real Person Data Controller
+
+If the KEP address is not specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+The form is printed out, with wet signature and stamped or sealed Personal Data
+To the Presidency of the Conservation Authority (Address: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) is transmitted via postal/cargo.
+If the KEP address is specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+form sent to the "subject" section by our Institution via the KEP address.
+"Application Number" in the e-mail is written to the KEP address belonging to our Institution.
+( kvkk.verbis@hs01.kep.tr) must be forwarded.
+KVKK Data Management Department
+
+Page 18
+
+Page 19
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After the application form is received by our institution, the application will be evaluated.
+and to the e-mail address specified in the application form as soon as possible about the result.
+information mail will be sent.
+
+7.2. Information Form for Legal Entity Data Controllers Domiciled in Turkey
+Arrangement
+If the data controller is a legal person, first of all; "Data Controller's TIN/TCKN"
+In the field, the Tax Identification Number of the LEGAL Entity that is the data controller
+as, choosing the correct tax office from the incoming tax office list and other
+After answering the four transaction information asked in the field, "Get Title/Name"
+button is clicked, the system of the Revenue Administration is connected in the background.
+It should be emphasized here that if the data controller is a legal person, it is not registered in the Registry.
+liability also belongs to this legal entity. For this reason, "TCN/TCKN of the Data Controller"
+not an official or employee of the legal entity that is the data controller in the
+Personal Tax Identification Number information will be entered.
+If there is no error or deficiency in the entered information, a "Successful" screen will appear.
+After the note is received, the "Title of the Data Controller" field is filled with the Revenue Administration.
+The title information is automatically retrieved from the system.
+
+KVKK Data Management Department
+
+page 19
+
+Page 20
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.2.1 Resident Legal Entity Data Controller Information Form Entry Screen
+
+KVKK Data Management Department
+
+Page 20
+
+Page 21
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.2.2 Bringing the Name/Title from the System for the Legal Entity Data Controller residing in Turkey
+
+Successfully displaying the name/title information via the system
+followed by the “E-mail Address of the Data Controller” and “Phone Number” Figure 7.2.3
+As you can see, it is entered correctly and up-to-date.
+The e-mail address entered here must be the corporate e-mail address.
+recommended. Because the "username" to be used in all future logins and
+All information about VERBİS with the “password” will also be made through this address.
+GSM or fixed line number can be entered in the phone number field. But
+Considering the possibility of experiencing any problems in sending e-mail,
+It is recommended to write a GSM number in order to send SMS by our institution.
+
+KVKK Data Management Department
+
+Page 21
+
+Page 22
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 7.2.3 E-mail and Telephone Number Entry for the Domiciled Legal Entity Data Controller
+
+KVKK Data Management Department
+
+Page 22
+
+Page 23
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If the address number of the data controller is known, this 10-digit address number,
+It is written in the "Address Number of the Data Controller" box.
+If the 10-digit address number is unknown, the Data Controller's Address Number
+box on https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+Click on the link of the city, district, neighborhood, village, from the boxes in the upper left of the screen.
+Information constituting the address number such as street, exterior door and interior door number are shown in Figure 7.2.4.
+It is entered as it is and from there, the 10-digit address number information is entered as in Figure 7.2.5.
+as reached.
+The 10-digit address number that appears on the screen is copied from here and shown in Figure 7.2.6.
+It can be pasted into the Address Number box on the Information Form or manually.
+is written as
+
+A
+D
+R
+TO
+S
+N
+HE IS
+
+Figure 7.2.4 Address Number Detection Screen for the Legal Entity Data Controller residing in Turkey
+
+KVKK Data Management Department
+
+Page 23
+
+Page 24
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+ADDRESS NO
+
+Figure 7.2.5 Address Number Detection Screen for the Legal Entity Data Controller residing in Turkey
+
+Figure 7.2.6 Entering the Address Number in the Information Form for the Legal Entity Data Controller residing in Turkey
+
+KVKK Data Management Department
+
+Page 24
+
+Page 25
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If any, the KEP (Registered Electronic Mail) address of the data controller is entered. if not
+this field is left blank.
+
+Figure 7.2.7 Entering the Information Form of the KEP Address for the Legal Entity Data Controller residing in Turkey
+
+After entering all the information, in the lower right part as in Figure 7.2.8.
+click on the “Save” button.
+
+VERBIS
+
+Figure 7.2.8 Completion Screen of Domestic Legal Entity Data Controller Information Entry
+
+After clicking the "Save" button, the information specified while entering the information.
+An e-mail regarding the application is sent to the e-mail address.
+
+KVKK Data Management Department
+
+Page 25
+
+Page 26
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 7.2.9 Application Form Creation Screen for Domestic Legal Entity Data Controller
+
+By clicking the "View Application Form" box, Data Controllers Registry Information
+System Application Form is printed in PDF format or in PDF format.
+saved to the computer.
+
+KVKK Data Management Department
+
+page 26
+
+Page 27
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 7.2.10 Displaying the Application Form of the Legal Entity Data Controller residing in Turkey
+
+If the KEP address is not specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+The form is printed out, with wet signature and stamped or sealed Personal Data
+To the Presidency of the Conservation Authority (Address: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) is transmitted via postal/cargo.
+If the KEP address is specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+form sent to the "subject" section by our Institution via the KEP address.
+"Application Number" in the e-mail is written to the KEP address belonging to our Institution.
+( kvkk.verbis@hs01.kep.tr) must be forwarded.
+After the application form is received by our institution, the application will be evaluated.
+and to the e-mail address specified in the application form as soon as possible about the result.
+information mail will be sent.
+KVKK Data Management Department
+
+Page 27
+
+Page 28
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+8 – LEGAL/REAL PERSON INFORMATION FORM RESIDENT ABROAD
+ARRANGEMENT
+
+If the data controller is a Legal/Real Person Domiciled Abroad, the information opened first
+"Title", "E-mail address" "Phone Number" of the Data Controller,
+"Address", "Residency Country", "Decision Regarding Appointment of Data Controller Representative"
+Date" and "Number of Decision Regarding Appointment of Data Controller Representative", if any.
+information is entered.
+Data residing abroad in the field of “TPL/TCKN of the Data Controller Representative”
+TR Identity Number of the Data Controller Representative appointed by the Data Controller or
+Tax Identification Number, if any, is written manually.
+If the representative of the data controller is a citizen of the Republic of Turkey, "Data
+TC ID of the representative of the data controller, in the field of “TAC/TCKN of the Representative of the Data Controller”.
+Manually typing the number of the four transaction information asked in the other field
+after being answered and clicking the "Get Title/Name" button,
+It connects to MERNIS.
+The data controller representative is a legal entity established within the borders of the Republic of Turkey.
+If the real person is the data controller, in the field of "TPL/TCKN of the Data Controller Representative"
+typing the tax identification number of the representative manually, the incoming tax office
+choosing the right tax office from the list and the four transactions asked in the other field
+If the "Get Title/Name" button is clicked after the information is answered, the
+In the plan, the system of the Revenue Administration is connected.
+If there is no error or deficiency in the entered information, a "Successful" pop-up will appear.
+After the screen note appears, the title in the "Title of the Data Controller Representative" field
+information is brought.
+
+KVKK Data Management Department
+
+Page 28
+
+Page 29
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 8.1 Data Entry of Real/Legal Entity Data Controllers Domiciled Abroad
+
+KVKK Data Management Department
+
+Page 29
+
+Page 30
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 8.2 Bringing the Name/Title from the System for the Legal Entity Data Controller residing abroad
+
+Successfully displaying the name/title information via the system
+then “Email Address of Data Controller Representative”, “Phone Number”, information
+entered correctly and up to date.
+The e-mail address entered here must be the corporate e-mail address.
+recommended. Because the "username" to be used in all future logins and
+All information about VERBİS with the “password” will also be made through this address.
+GSM or fixed line number can be entered in the phone number field. But
+Considering the possibility of experiencing any problems in sending e-mail,
+It is recommended to write a GSM number in order to send SMS by our institution.
+
+KVKK Data Management Department
+
+Page 30
+
+Page 31
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If the address number of the data controller representative is known, this 10-digit address
+number is written in the "Address Number of the Data Controller Representative" box.
+If the 10-digit address number is unknown, it is above the Address Number box.
+by clicking on the link https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu.
+province, district, neighborhood, village, street, outer door and inner door from the boxes in the upper left of the screen.
+The information that constitutes the address number, such as no, is entered as in Figure 8.3, and 10 from here.
+digit address number information is accessed as in Figure 8.4.
+The 10-digit address number displayed on the screen is copied from here and shown in Figure 8.5.
+It can be pasted into the "Address Number" box on the Information Form or manually.
+is written as
+
+A
+D
+R
+TO
+S
+N
+HE IS
+
+Figure 8.3 Address Number Determination for Real/Legal Entity Data Controller Representative residing abroad
+
+KVKK Data Management Department
+
+Page 31
+
+Page 32
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+ADDRESS NO
+
+Figure 8.4 Address Number Determination for Real/Legal Entity Data Controller Representative residing abroad
+
+Figure 8.5 Address Number Entry for Real/Legal Entity Data Controller Representative residing abroad
+
+KVKK Data Management Department
+
+page 32
+
+Page 33
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If any, the KEP (Registered Electronic Mail) address of the data controller is entered. If not this
+field is left blank.
+
+Figure 8.6 Information of KEP Address for Real/Legal Entity Data Controller Representative residing abroad
+Login to the form
+
+KVKK Data Management Department
+
+Page 33
+
+Page 34
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 8.7 Completing the Data Entry of Real/Legal Entity Data Controllers Domiciled Abroad
+
+After clicking the "Save" button, the information specified while entering the information.
+An e-mail regarding the application is sent to the e-mail address.
+
+KVKK Data Management Department
+
+Page 34
+
+Page 35
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 8.8 Creating the Application Form for the Real/Legal Entity Data Controller residing abroad
+
+By clicking the "View Application Form" button, Data Controllers Registry Information
+System Application Form is printed in PDF format or in PDF format.
+saved to the computer.
+
+KVKK Data Management Department
+
+Page 35
+
+Page 36
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 8.9 Displaying the Application Form for Real/Legal Entity Data Controllers Domiciled Abroad
+
+If the KEP address is not specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+The form is printed out, with wet signature and stamped or sealed Personal Data
+To the Presidency of the Conservation Authority (Address: Nasuh Akar Mahallesi 1407. Sokak No: 4
+Balgat/Çankaya/ANKARA) is transmitted via postal/cargo.
+If the KEP address is specified while preparing the application form; logging into the system
+Information in PDF format to be created by clicking the "View Application Form" button
+form sent to the "subject" section by our Institution via the KEP address.
+"Application Number" in the e-mail is written to the KEP address belonging to our Institution.
+( kvkk.verbis@hs01.kep.tr) must be forwarded.
+After the application form is received by our institution, the application will be evaluated.
+and to the e-mail address specified in the application form as soon as possible about the result.
+information mail will be sent.
+
+KVKK Data Management Department
+
+Page 36
+
+Page 37
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+9- DATA MANAGEMENT LOGIN and APPOINTMENT OF CONTACT PERSON
+After the necessary examinations were made by the Presidency of the Personal Data Protection Authority,
+"Username" and "Password" to the e-mail address specified in the application form.
+shipping is provided.
+
+VERBIS
+
+Figure 9.1 Sending User Name and Password Information to the E-mail Address of the Data Controller
+
+KVKK Data Management Department
+
+Page 37
+
+Page 38
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After clicking the "Data Controller Manager Login" button on the VERBİS Homepage,
+Then, the user name and password are entered on the page that opens, and the system is entered.
+
+VERBIS
+
+Figure 9.2 Username/Password Entry Screen
+
+VERBIS
+
+Figure 9.3 Home Screen of Data Controller
+
+KVKK Data Management Department
+
+Page 38
+
+Page 39
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+On the screen that comes up, click the left button to assign the “Contact Person” who will enter information to VERBİS.
+Click on the “Contact Person” tab in the column.
+
+VERBIS
+
+Figure 9.4 Data Controller Contact Entry Screen
+
+Since no Contact Person has been assigned before, "Contact Person"
+Does not exist" warning is displayed and the assignment is made by entering the "Assign Contact Person" box.
+process is continued.
+
+VERBIS
+
+VERBIS
+
+Figure 9.5 Data Controller Contact Person Identification Screen
+KVKK Data Management Department
+
+Page 39
+
+Page 40
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+On the "Defining a Contact Person" page, enter the contact person in the "TR Identity Number" field.
+Turkish identity card of the natural person who is a citizen of the Republic of Turkey, who is wanted to be appointed as
+After entering the number, the "Get from MERNIS" button is clicked.
+The information of the Contact Person is automatically brought by the system.
+
+Figure 9.6 Data Controller Contact Person Definition Screen
+
+The credentials brought with the "Successful" warning are checked and the "Save" button
+Clicking to complete the process of assigning a Contact Person.
+
+KVKK Data Management Department
+
+page 40
+
+Page 41
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+10-CREATION OF DATA SPEAKER REGISTRATION REQUEST
+
+To delete the data controller from VERBİS due to certain reasons
+may want. In order for the VERBİS record to be deleted, the Deregistration Request must first be
+needs to be created.
+In order to create this deletion request, first of all, the VERBİS Homepage is on the left.
+Enters the "Registration Deletion Request" tab at the bottom of the section.
+
+VERBIS
+
+VERBIS
+
+Figure 10.1 Data Controller Deregistration Request Screen
+
+After checking the information opened on the page that opens, the "Deregistration" in the lower right
+Click the "Send Request" button.
+
+KVKK Data Management Department
+
+Page 41
+
+Page 42
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 10.2 Data Controller Deregistration Request Screen
+
+At this stage, the deregistration request process should be continued for the last time.
+If desired, the Data Controller creates a Deregistration Request by saying yes to the approval process.
+
+Figure 10.3 Data Controller Deregistration Request Screen
+
+KVKK Data Management Department
+
+page 42
+
+Page 43
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After the confirmation process, the process is completed by displaying a Successful Pop-Up. It
+After this step, necessary information mails are sent to the e-mail address of the data controller.
+sent. After the Personal Data Protection Authority makes the necessary examination,
+In the event that he approves the Deregistration Process, the data controller's registration in VERBİS
+makes it passive.
+
+11-DATA RESPONSIBLE AND DATA RESPONSIBLE REPRESENTATIVE INFORMATION
+UPDATES
+
+If necessary, the data controller can provide his or her contact address and the mobile phone number registered in the system.
+can update the number. For this, "Data Controller Information" on the left
+Click on the "Update" tab.
+
+VERBIS
+
+Figure 11.1 Data Controller Information Update Screen
+
+KVKK Data Management Department
+
+Page 43
+
+Page 44
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+On the User Profile page that opens, in the "Contact Address - Address Number" section
+If the address number of the data controller is known, this 10-digit address number is "Data Controller".
+It is written in the "Address Number of the Responsible Person" box.
+If the 10-digit address number is unknown, "Contact Address - Address Number"
+box on https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+Click on the link of the city, district, neighborhood, village, from the boxes in the upper left of the screen.
+Information constituting the address number such as street, exterior door and interior door number are shown in Figure 9.10.
+It is entered as it is and from there, the 10-digit address number information is entered as in Figure 9.11.
+as reached.
+
+A
+D
+R
+TO
+S
+N
+HE IS
+
+Figure 11.2 Data Controller Information Update Screen Address Number Detection
+
+KVKK Data Management Department
+
+Page 44
+
+Page 45
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+ADDRESS NO
+
+Figure 11.3 Data Controller Information Update Screen Address Number Detection
+
+In the "Contact Address - Address Number" section of the 10-digit address number reached
+Figure 9.13, after copying and clicking the “Get from MERNIS” button next to it.
+The Contact address is updated with the “Successful” Pop-Up warning in .
+
+KVKK Data Management Department
+
+Page 45
+
+Page 46
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+VERBIS
+
+Figure 11.4 Data Controller Information Update Screen
+
+After this stage, if the Data Controller wants to update the Mobile Phone information,
+It makes the necessary update in the "Mobile Phone" section on the User Profile screen.
+
+KVKK Data Management Department
+
+page 46
+
+Page 47
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+VERBIS
+
+Figure 11.5 Data Controller Information Update Screen
+
+After all these update processes are completed, the "User Profile" page
+The information update process is completed by clicking the “Save” button at the bottom.
+
+KVKK Data Management Department
+
+Page 47
+
+Page 48
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If necessary, the data controller representative will provide the contact address and the mobile phone number registered in the system.
+can update the number. For this, "Data Controller Information" on the left
+Click on the "Update" tab.
+
+VERBIS
+
+Figure 11.6 Data Controller Representative Information Update Screen
+
+On the User Profile page that opens, in the "Contact Address - Address Number" section
+If the address number of the data controller representative is known, this 10-digit address number,
+It is written in the "Address Number of the Data Controller" box.
+If the 10-digit address number is unknown, "Contact Address - Address Number"
+box on https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu
+Click on the link of the city, district, neighborhood, village, from the boxes in the upper left of the screen.
+Information constituting the address number such as street, exterior door and interior door number are shown in Figure 9.10.
+It is entered as it is and from there, the 10-digit address number information is entered as in Figure 9.11.
+as reached.
+
+KVKK Data Management Department
+
+Page 48
+
+Page 49
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+A
+D
+R
+TO
+S
+N
+HE IS
+
+Figure 11.7 Data Controller Information Update Screen Address Number Detection
+
+ADDRESS NO
+
+Figure 11.8 Data Controller Information Update Screen Address Number Detection
+
+KVKK Data Management Department
+
+Page 49
+
+Page 50
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+In the "Contact Address - Address Number" section of the 10-digit address number reached
+Figure 9.13, after copying and clicking the “Get from MERNIS” button next to it.
+The Contact address is updated with the “Successful” Pop-Up warning in .
+
+VERBIS
+
+VERBIS
+
+Figure 11.9 Data Controller Representative Information Update Screen
+
+If, after this stage, the data controller wants to update the mobile phone information,
+It makes the necessary update in the "Mobile Phone" section on the User Profile screen.
+
+KVKK Data Management Department
+
+page 50
+
+Page 51
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 11.10 Data Controller Representative Information Update Screen
+
+After all these update processes are completed, the "User Profile" page
+The information update process is completed by clicking the “Save” button at the bottom.
+
+KVKK Data Management Department
+
+Page 51
+
+Page 52
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+12- DATA RESPONSIBLE PASSWORD RENEWAL PROCEDURES
+If the Data Supervisor forgets his password, VERBİS will display the "Data Controller"
+After clicking the "Responsible Manager Login" button,
+Clicking on the "Forgot Password" tab allows you to enter the password renewal process.
+
+VERBIS
+
+Figure 12.1 Data Controller Password Renewal Screen
+
+On the Password Reset page that opens, Data Controller User Name, TR Identity
+Information during registration after typing the Number or Tax Identification Number
+“Reset My Password and Submit” after entering the E-mail address specified in the form.
+By clicking the button, password reset is performed.
+
+VERBIS
+
+Figure 12.2 Data Controller Password Reset Screen
+KVKK Data Management Department
+
+Page 52
+
+Page 53
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After performing the password reset, the user name and password must be entered.
+The e-mail address where the password was reset by being redirected to the home page
+notification is made.
+
+Figure 12.3 Data Controller Password Renewal Screen
+
+KVKK Data Management Department
+
+Page 53
+
+Page 54
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+13- LOGIN OF THE CONTACT PERSON TO THE SYSTEM
+The "Registry" on the VERBİS Homepage by the person appointed as the Contact Person.
+Click on the “Register” button to log in.
+
+VERBIS
+
+Figure 13.1 VERBIS Homepage Login Screen for Contact Person
+
+From the screen that opens, click on the "Login with e-Government" button.
+
+VERBIS
+
+Figure 13.2 Login Screen of Contact Person Via e-Government
+
+by the Contact Person, without the need for any username and password.
+It is entered into the system with its own e-Government password.
+
+KVKK Data Management Department
+
+Page 54
+
+Page 55
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 13.3 Authentication System Screen with e-Government Password for Contact Person
+
+On the screen that appears after logging into the system with the e-government password, only
+Identity information is brought from MERNIS. Before starting the registration process with VERBİS
+“Profile” information needs to be completed and the profile status of the contact person
+It will not be possible to proceed to the notification stage before it is completed.
+For this reason, certain things such as contact information and e-mail address are required by the contact person.
+firstly, the profile update of the contact person by entering the information into the system and
+needs to be recorded.
+
+Figure 13.4 Contact Person Home Screen
+
+KVKK Data Management Department
+
+Page 55
+
+Page 56
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 13.5 Contact Person Home Screen
+
+KVKK Data Management Department
+
+Page 56
+
+Page 57
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 13.6 Contact Person Profile Update Screen
+
+After the other information of the contact person is defined and recorded in the system, the contact
+After the person's profile information is 100%, in the menus on the left, "Data
+Responsible” and “Notification” tab will appear.
+
+Figure 13.7 Completing the Contact Person's Profile Information Screen
+
+KVKK Data Management Department
+
+Page 57
+
+Page 58
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+14- NOTIFICATION PROCEDURES OF THE CONTACT PERSON TO VERBIS
+The Contact Person, first of all, to carry out the notification procedures for entering information to VERBIS.
+log in by clicking on the “Notification” tab in the left column.
+
+VERBIS
+
+Figure 14.1 Contact Person Notification Screen
+
+“Create New Notification” as no notification has been made before.
+Click the box to continue.
+
+VERBIS
+
+Figure 14.2 Contact Person Notification/Data Controller Selection Screen
+
+KVKK Data Management Department
+
+Page 58
+
+Page 59
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+The "Data Controller" who appointed him is displayed by the contact person, "Continue"
+Clicking the button will switch to the notification screen.
+
+Figure 14.3 Contact Person Notification/Data Categories Screen
+
+Notification transactions are made with the "Data Category" tab that the data controller is processing.
+they begin. There are 25 data categories in total in this step. These data categories
+Each one of them needs to be entered individually.
+
+KVKK Data Management Department
+
+page 59
+
+Page 60
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If a data category other than these data categories is being processed, the data category
+The data category can be manually selected from the "Other Information" section at the bottom of the tabs.
+can be added as written.
+
+VERBIS
+
+Figure 14.4 Contact Person Notification/Data Categories Screen
+
+Information entry must be made one by one for the data categories by the Contact Person. If the relevant data
+If no personal data related to the category of personal data is processed, “No personal data related to this category of personal data is processed.
+I undertake that no personal data is processed” check the box “Save and Continue”
+Clicking the button moves to the next data category.
+
+VERBIS
+
+Figure 14.5 Contact Person Notification/Data Categories Screen
+
+KVKK Data Management Department
+
+page 60
+
+Page 61
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+If the relevant data category is being processed, the tab belonging to which data category we are on.
+In order to declare that they are processing personal data related to the data category, "...
+"Personal data is being processed" box is checked and "Save and Continue" button.
+click to move to the next data category.
+
+Figure 14.6 Contact Person Notification/Data Categories Screen
+
+KVKK Data Management Department
+
+page 61
+
+Page 62
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Data categories for which information has been entered are displayed in green on the tabs on the right.
+shown in color .
+
+VERBIS
+
+Figure 14.7 Contact Person Notification/Data Processing Purposes Screen
+
+KVKK Data Management Department
+
+page 62
+
+Page 63
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+After completing all the tabs on the data categories, this data
+The section on making selections regarding the processing purposes of the categories will be passed.
+In this section, only data marked as being processed
+The process of determining the processing purposes for the categories is started.
+After marking one or more of these purposes, for each data category
+The Data Processing Purposes section is completed by clicking on the "Save and Continue" box.
+
+VERBIS
+
+Figure 14.8 Contact Person Notification/Data Transfer Recipient Groups Screen
+
+KVKK Data Management Department
+
+page 63
+
+Page 64
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Personal data processed through the recipients/recipient groups screen to which the data is transferred.
+It is determined to which recipient groups it is transferred.
+Here, the relevant party(s), if any, is marked or “No one from the following buyer groups
+I undertake that no data has been transferred to anyone" by ticking the "Save and Continue" checkbox.
+Click on the "Meat" button.
+
+VERBIS
+
+Figure 14.9 Contact Person Notification/Data Retention Period Screen
+
+In the Data Retention Period entry section, the data categories specified as being processed
+The storage periods for the storage period are also selected from the relevant optional fields, “Year”, “Month” and “Other” options.
+Click on the “Save and Continue” button.
+
+KVKK Data Management Department
+
+page 64
+
+Page 65
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 14.10 Contact Person Notification/Data Subject Contact Group Screen
+
+In the Data Subject Person Group section, the personal data categories specified to be processed
+It is stated to whom it belongs on a categorical basis.
+In this section, after making separate entries for each data category, “Save and
+Click on the “Continue” button to complete the Data Subject Group section.
+
+KVKK Data Management Department
+
+Page 65
+
+Page 66
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 14.11 Contact Person Notification/Information to be Transferred to Foreign Countries Screen
+
+In the Information to be Transferred to Foreign Countries section, if the
+If there is data sharing from data categories to foreign countries, marking in this field
+or “Note that none of the following data categories has been transferred abroad.
+I commit" by ticking the "Save and Continue" box.
+The Information to be Transferred to Foreign Countries section is completed.
+
+KVKK Data Management Department
+
+page 66
+
+Page 67
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 14.12 Contact Person Notification/ Data Security Measures Screen
+
+The Data Security Precautions section is related to the personal data being processed.
+This is the section where technical and administrative measures are specified.
+In this section, the measures taken regarding personal data security are listed on the screen.
+is selected, and then the “Save and Continue” box is clicked.
+
+KVKK Data Management Department
+
+page 67
+
+Page 68
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 14.13 Contact Person Notification Detail Display Screen
+
+Upon completion of all sections, all screens where information is entered
+report for a final review under headings.
+is displayed.
+After the control, the notification is sent to the Presidency of the Personal Data Protection Authority.
+“Confirm and Submit” under any of these tabs.
+button must be clicked.
+
+KVKK Data Management Department
+
+page 68
+
+Page 69
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 14.14 Contact Person Notification Detail Screen
+
+After clicking the “Confirm and Submit” button, check again for the last time.
+To confirm, the confirmation process is done again and the “Yes” button is clicked for confirmation.
+required.
+
+When "Yes" is checked, the notification is sent to the Personal Data Protection Authority.
+it is sent.
+
+NOTE: Suspension of the notification or for any reason, the entry procedures
+If it is interrupted, it will continue from where it left off when re-entering the system.
+will be.
+
+KVKK Data Management Department
+
+page 69
+
+Page 70
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+VERBIS
+
+Figure 14.15 Contact Person Notification Detail Screen
+
+On the page opened after the aforementioned approval process, the notification will be successful.
+A "Process Successful" warning is received indicating that the message has been forwarded.
+
+Contact Person by displaying “Notification Status: Valid Notice”
+Registration to the Registry is completed.
+
+KVKK Data Management Department
+
+page 70
+
+Page 71
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+15- REGISTRY INQUIRY PROCEDURES
+
+In the 1st paragraph of the 7th article of the Regulation on the Data Controllers Registry
+“The Presidency shall provide the updated information in the Registry to be determined in accordance with the Board decisions.
+publicly disclosed.” As stated in the statement, anyone who wishes can register with VERBİS.
+They can query the notifications of the data controllers.
+For this, “Registry Inquiry” at the bottom of the VERBİS Homepage.
+You can login by clicking the button.
+
+VERBIS
+
+Figure 15.1 Registry Inquiry Entry Screen
+
+To view from VERBİS on the “Registry Inquiry” main page that opens.
+by typing at least 5 (five) characters of the requested data controller and 4 as a captcha.
+(four) operation questions can be searched by entering the answer to the relevant field on the screen.
+
+VERBIS
+
+Figure 15.2 Register Inquiry Home
+KVKK Data Management Department
+
+page 71
+
+Page 72
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+VERBIS
+
+Figure 15.3 Registry Inquiry Result Screen
+
+According to the result of the query, the data controller desired to be displayed
+Click the magnifying glass mark in the “Detail” column next to the title information line.
+The notification of the data controller can be viewed by clicking on it.
+
+KVKK Data Management Department
+
+Page 72
+
+Page 73
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Figure 15.5 Registry Inquiry Data Controller Notification Screen
+
+If the notification on the screen is desired to be examined in detail, Data Categories, Processing
+Purposes, Recipient/Recipient Groups, Retention Periods, Data Subject Groups, Foreign
+Inspection by clicking on the Transfer to Countries and Data Security Measures sections one by one
+can be done.
+About Data Controllers Registry with Article 16 of Law No. 6698
+Obligation to register in the Data Controllers Registry pursuant to Article 9 of the Regulation
+The process of preparing NOTIFICATION and transmitting it to the Authority within the framework of VERBİS
+needs to be carried out.
+While preparing the aforementioned NOTICE, the Contact Person entered VERBİS.
+Headings related to the information to be made Data Categories, Personal Data Processing Purposes, Data
+As Transfer Recipient Groups, Data Subject Groups and Data Security Measures
+determined by the Board for these titles.
+are listed below:
+
+KVKK Data Management Department
+
+page 73
+
+Page 74
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Data Categories
+1-Identity (name and surname, mother - father name, mother's maiden name, date of birth, place of birth, marital status,
+such as identity card serial number, tc identity number)
+2-Contact (address number, e-mail address, contact address, registered e-mail address (KEP), telephone
+like no)
+3-Location (location information of its location)
+4-Personnel (payroll information, disciplinary investigation, employment entry-exit document records, property declaration
+information, resume information, performance evaluation reports)
+5-Legal Action (such as information in correspondence with judicial authorities, information in the case file)
+6-Customer Transaction (call center records, invoice, promissory note, check information, box office receipts)
+information, order information, request information)
+7-Physical Space Security (entry and exit registration information of employees and visitors, camera records
+as)
+8-Transaction Security (IP address information, website login and exit information, password and password information
+as)
+9-Risk Management (such as information processed for the management of commercial, technical, administrative risks)
+10-Finance (balance sheet information, financial performance information, credit and risk information, assets
+such as information)
+11- Professional Experience (diploma information, courses attended, in-service training information, certificates,
+such as transcript information)
+12-Marketing (purchasing history information, survey, cookie records, campaign work
+information provided)
+13-Visual and Audio Recordings (such as visual and audio recordings)
+14-Race and Ethnicity (such as race and ethnicity information)
+15-Political Thought Information (information indicating political opinion, such as political party membership information)
+16-Philosophical Belief, Religion, Sect and Other Beliefs (information about religious affiliation, philosophical
+information about his belief, information about sectarian affiliation, information about other beliefs)
+17-Apparel and Clothing (information on costume and clothing)
+18-Association Membership (such as association membership information)
+KVKK Data Management Department
+
+page 74
+
+Page 75
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+19-Foundation Membership (such as foundation membership information)
+20-Union Membership (such as union membership information)
+21-Health Information (information about disability, blood group information, personal health information,
+device and prosthesis information)
+22-Sexual Life (such as information about sexual life)
+23-Criminal Conviction and Security Measures (information on criminal conviction, security
+such as information on measures)
+24-Biometric Data (palm information, fingerprint information, retina scan information, face recognition
+such as information)
+25-Genetic Data (like genetic data)
+26-Other Information (such as data types to be determined by the user)
+
+KVKK Data Management Department
+
+Page 75
+
+Page 76
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Personal Data Processing Purposes
+1. Execution of Emergency Management Processes
+2. Execution of Information Security Processes
+3. Execution of Employee Candidate / Intern / Student Selection and Placement Processes
+4. Execution of Application Processes of Employee Candidates
+5. Execution of Employee Satisfaction and Loyalty Processes
+6. Fulfillment of Employment Contract and Legislative Obligations for Employees
+7. Execution of Benefits and Benefits Processes for Employees
+8. Execution of Audit / Ethical Activities
+9. Conducting Educational Activities
+10. Execution of Access Authorizations
+11. Execution of Activities in Compliance with the Legislation
+12. Execution of Finance and Accounting Affairs
+13. Execution of Company / Product / Services Loyalty Processes
+14. Providing Physical Space Security
+15. Execution of Assignment Processes
+16. Follow-up and Execution of Legal Affairs
+17. Carrying out Internal Audit / Investigation / Intelligence Activities
+18. Execution of Communication Activities
+19. Planning Human Resources Processes
+20. Execution / Supervision of Business Activities
+21. Execution of Occupational Health / Safety Activities
+22. Receiving and Evaluating Suggestions for Improvement of Business Processes
+23. Execution of Business Continuity Activities
+24. Execution of Logistics Activities
+25. Execution of Goods / Services Procurement Processes
+26. Execution of Goods / Services After-Sales Support Services
+27. Execution of Goods / Services Sales Processes
+28. Execution of Goods / Services Production and Operation Processes
+29. Execution of Customer Relationship Management Processes
+30. Execution of Activities for Customer Satisfaction
+31. Organization and Event Management
+32. Conducting Marketing Analysis Studies
+33. Execution of Performance Evaluation Processes
+34. Execution of Advertising / Campaign / Promotion Processes
+35. Execution of Risk Management Processes
+36. Execution of Storage and Archive Activities
+37. Conducting Social Responsibility and Civil Society Activities
+38. Execution of Contract Processes
+39. Execution of Sponsorship Activities
+40. Execution of Strategic Planning Activities
+41. Follow-up of Requests / Complaints
+42. Ensuring the Security of Movable Property and Resources
+43. Execution of Supply Chain Management Processes
+44. Execution of Compensation Policy
+45. Execution of Marketing Processes of Products / Services
+46. ​Ensuring the Security of Data Controller Operations
+KVKK Data Management Department
+
+page 76
+
+Page 77
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+47. Foreign Personnel Work and Residence Permit Procedures
+48. Execution of Investment Processes
+49. Conducting Talent / Career Development Activities
+50. Providing Information to Authorized Persons, Institutions and Organizations
+51. Execution of Management Activities
+52. Creating and Tracking Visitor Records
+53. Other
+
+KVKK Data Management Department
+
+page 77
+
+Page 78
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Data Transfer Recipient Groups
+1. Natural persons or legal entities of private law
+2. Open to all
+3. Shareholders
+4. Business Partners
+5. Affiliates and subsidiaries
+6. Suppliers
+7. Group Companies
+8. Authorized Public Institutions and Organizations
+9. Other
+
+KVKK Data Management Department
+
+page 78
+
+Page 79
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Data Subject Groups
+1. Employee Candidate
+2. Employee
+3. Subject
+4. The subject of the news
+5. Shareholder/Partner
+6. Potential Product or Service Buyer
+7. Exam candidate
+8. Intern
+9. Supplier Employee
+10. Supplier Official
+11. Product or Service Recipient
+12. Parent / Guardian / Representative
+13. Visitor
+14. Other
+
+KVKK Data Management Department
+
+page 79
+
+Page 80
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+Data Security Measures
+1. Network security and application security are provided.
+2. A closed system network is used for personal data transfers via the network.
+3. Key management is implemented.
+4. Security measures within the scope of procurement, development and maintenance of information technology systems
+is taken.
+5. The security of personal data stored in the cloud is ensured.
+6. There are disciplinary regulations that include data security provisions for employees.
+7. Training and awareness activities for employees on data security at regular intervals
+is done.
+8. An authorization matrix has been created for the employees.
+9. Access logs are kept regularly.
+10. Institutional policies on access, information security, use, storage and destruction
+prepared and implemented.
+11. Data masking is applied when necessary.
+12. Confidentiality commitments are made.
+13. The authorizations of employees who have a change in duty or quit their job in this field are removed.
+14. Current anti-virus systems are used.
+15. Firewalls are used.
+16. The signed contracts contain data security provisions.
+17. Extra security measures are taken for personal data transferred via paper and related documents
+It is sent in confidential document format.
+18. Personal data security policies and procedures have been determined.
+19. Personal data security issues are reported quickly.
+20. Personal data security is monitored.
+21. Necessary security measures regarding entry and exit to physical environments containing personal data
+is taken.
+22. Security of physical environments containing personal data against external risks (fire, flood, etc.)
+is provided.
+23. The security of environments containing personal data is ensured.
+24. Personal data is reduced as much as possible.
+25. Personal data is backed up and the security of the backed up personal data is also ensured.
+26. User account management and authorization control system is implemented and their follow-up is also done.
+
+is done.
+27. In-house periodic and/or random audits are conducted and made.
+28. Log records are kept without user intervention.
+29. Existing risks and threats have been identified.
+30. Protocols and procedures for special quality personal data security have been determined and
+is implemented.
+31. If sensitive personal data is to be sent via e-mail, it must be encrypted and
+It is sent using KEP or corporate mail account.
+
+KVKK Data Management Department
+
+page 80
+
+Page 81
+PERSONAL DATA PROTECTION INSTITUTION DATA OFFICERS REGISTRY INFORMATION SYSTEM GUIDE
+
+32. Secure encryption / cryptographic keys are used for sensitive personal data and
+managed by different units.
+33. Intrusion detection and prevention systems are used.
+34. Penetration test is applied.
+35. Cyber ​security measures have been taken and their implementation is constantly monitored.
+36. Encryption is done.
+37. Data of special persons transferred in portable memory, CD, DVD media are encrypted and
+is transferred.
+38. Periodic audits of data processing service providers on data security
+is provided.
+39. Awareness of data processing service providers on data security is ensured.
+40. Data loss prevention software is used.
+41. Other
+
+NOTE: Within the scope of the personal data processing activity of the data controller, under the headings
+One or more of the selected optional fields can be selected, as well as this
+When it is desired to make an entry other than the options, the Contact Person will
+You can also add manually by checking the "Other" option at the bottom of the title.
+can be done.
+
+KVKK Data Management Department
+
+page 81
+
+

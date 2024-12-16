@@ -1,0 +1,2371 @@
+Page 1
+
+GROUP DATA PROTECTION ARTICLE 29
+
+18/NL
+WP250rev.01
+
+Guidelines for the reporting of personal data breaches
+under Regulation 2016/679
+
+Approved on October 3, 2017
+Last revised and approved on February 6, 2018
+
+This Working Party was established under Article 29 of Directive 95/46/EC. It is an independent European advisory body on
+data protection and privacy. Its tasks are defined in Article 30 of Directive 95/46/EC and Article 15 of Directive
+2002/58/EC.
+The secretariat is provided by Directorate C (Fundamental Rights and Union Citizenship) of the Directorate-General
+Justice of the European Commission, 1049 Brussels, Belgium, Chamber MO-59 02/013.
+Website: http://ec.europa.eu/justice/data-protection/index_en.htm
+
+Page 2
+
+THE GROUP FOR THE PROTECTION OF PERSONS IN CONNECTION WITH THE PROCESSING
+FROM PERSONAL DATA
+
+established by Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995,
+
+having regard to Articles 29 and 30,
+
+having regard to the group's rules of procedure,
+
+HAS ADOPTED THE FOLLOWING GUIDELINES:
+
+2
+
+Page 3
+
+INDEX
+PREFACE ................................................. .................................................. .................................................. ....5
+i.
+
+NOTIFICATION OF PERSONAL DATA INFRINGEMENTS UNDER THE GDPR ...................................6
+A.
+
+B ASIC CONSIDERATIONS ON SAFETY ................................................. .................................................. ....... 6
+
+b.
+
+W HAT IS A PERSONAL DATA INFRINGEMENT ? .................................................. .......................... 7
+
+II.
+
+1.
+
+Definition .................................................. .................................................. ............................................... 7
+
+2.
+
+Types of personal data breaches ................................................... .................. 8
+
+3.
+
+The Possible Consequences of a Personal Data Breach ....................................................... 10
+
+ARTICLE 33 - NOTIFICATION TO THE SUPERVISORY AUTHORITY .......................................... .............. 11
+A.
+
+W HEN REPORT ............................................... .................................................. .................................. 11
+1.
+
+Requirements of Article 33................................................................ .................................................. ........................ 11
+
+2.
+
+When did a controller become "aware" of it? .................................. 11
+
+3.
+
+Joint controllers ................................................................ .................................. 15
+
+4.
+
+Obligations of the processor ................................................................ .................................................. ........ 15
+
+b.
+
+V ERSTREKKING OF INFORMATION TO THE SUPERVISORY AUTHORITY .......................................... ................ 16
+1.
+
+Information to be provided .................................................. .................................................. ................... 16
+
+2.
+
+Notification in steps .................................................. .................................................. ................................ 17
+
+3.
+
+Notification with delay .................................................. .................................................. ....................... 18
+
+c.
+
+G CHILDRENS BORDER VIOLATIONS AND OFFENSES IN LOCATIONS OUTSIDE THE EU ........................................ ..... 19
+1.
+
+Cross-border infringements ................................................... .................................................. ........ 19
+
+2.
+
+Infringements at establishments outside the EU ................................................. .................................................. .. 20
+
+D.
+
+V ERMS AND CONDITIONS UNDER WHICH IS NOT REQUIRED MESSAGE ........................................... .................................. 21
+
+III. ARTICLE 34 – NOTIFICATION TO THE PERSON CONCERNED ......................................... .................................. 22
+A.
+
+INFORMING P ERSONS
+
+............................................................... .................................................. ....................... 22
+
+b.
+
+T E PROVIDE INFORMATION .............................................. .................................................. .................. 23
+
+c.
+
+C ontact PEOPLE ............................................. .................................................. .............. 24
+
+D.
+
+V ONDITIONS REQUIRED UNDER NO COMMUNICATION ........................................... ................................... 25................
+
+IV. RISK AND HIGH RISK ASSESSMENT ................................................. .................................. 26
+A.
+
+R isk AS REASON FOR MESSAGES / INFORMATION .......................................... ................................... 26
+
+b.
+
+F ACTORS WHICH TAKE INTO ACCOUNT IN ASSESSING RISK ' S ............................... 27
+
+v.
+
+RESPONSIBILITY AND REGISTRATION ................................................... ......................................... 30
+A.
+
+DOCUMENTING I NBREACHES
+
+................................................ .................................................. ................... 30
+
+3
+
+Page 4
+
+b.
+
+R OLE OF THE DATA PROTECTION ........................................... .................................... 32
+
+VI. NOTICE OBLIGATIONS UNDER OTHER LEGAL INSTRUMENTS ................................... 32
+VII. APPENDIX ................................................. .................................................. ............................................... 35
+A.
+
+S TROOMSCHEMA WITH NOTIFICATION REQUIREMENTS .............................................. .................................. 35
+
+b.
+
+V XAMPLES INFRINGEMENT RELATING TO PERSONAL AND TO WHOM TO THE INFRINGEMENT
+
+REPORTED / NOTIFIED ...............................................
+
+.................................................. ............................................... 36
+
+4
+
+Page 5
+
+PREFACE
+
+The General Data Protection Regulation (GDPR) introduces the obligation to
+report a personal data breach (hereinafter referred to as "breach") to the competent authorities
+national supervisory authority 1 (or, in the case of a cross-border infringement, to the
+lead supervisory authority) and, in certain cases, to notify the infringement to the
+persons whose personal data the infringement relates to.
+Currently, for certain organisations, such as providers of public electronic
+communication services (as specified in Directive 2009/136/EC and Regulation (EU) No.
+611/2013), notification obligations in case of infringements 2 . There are also some EU Member States that
+already have their own national notification obligation for infringements. This may include the obligation to
+report breaches involving, in addition to providers of publicly available electronic communications services
+certain categories of data controllers are involved (e.g. in Germany
+and Italy), or an obligation to report all breaches involving personal data
+(as in the Netherlands). Relevant codes of practice may exist in other Member States (e.g. in
+Ireland 3 ).
+although
+a
+number
+data protection authorities
+in
+the
+currently encouraging data controllers to report breaches includes
+data protection directive 95/46/EC 4 , which is superseded by the GDPR, no specific
+obligation to report violations. Such an obligation will therefore be new for many organisations
+to be. The GDPR now imposes a notification obligation on all controllers, unless it
+an infringement is unlikely to pose a risk to the rights and freedoms of natural persons
+means 5 . Processors also have an important role to play and must report any breach to their
+report to the controller 6 .
+
+EU
+
+The Article 29 Data Protection Working Party (WP29) believes that the new reporting obligation is a
+has a number of advantages. When reporting to the supervisory authority,
+data controllers seek advice on whether affected individuals should
+be informed. After all, the supervisory authority can inform the controller
+order to notify these persons of the infringement 7 . When a
+controller communicates a breach to individuals, he may provide information
+about the risks that the infringement entails and about the measures that these persons can take
+to protect themselves from its possible consequences. Any breach response plan
+should focus on the protection of individuals and their personal data. Reporting of
+1
+
+See Article 4(21) of the GDPR.
+
+2
+
+See http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex:32009L0136 and http://eur-lex.europa.eu/legal-
+
+content/NL/TXT/?uri=CELEX%3A32013R0611
+3
+
+See https://www.dataprotection.ie/docs/Data_Security_Breach_Code_of_Practice/1082.htm
+
+4
+
+See http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=celex:31995L0046
+
+5
+
+The rights enshrined in the Charter of Fundamental Rights of the European Union, which is available
+
+at http://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:12012P/TXT
+6
+
+See Article 33(2). This is similar in concept to Article 5 of Regulation (EU) No 611/2013, where
+
+provides that a provider to whom the provision of part of an electronic communications service is
+outsourced (without having a direct contractual relationship with subscribers) is obligated to infringe
+with personal data to the outsourcing provider.
+7
+
+See Article 34(4) and Article 58(2)(e).
+
+5
+
+Page 6
+
+infringements should therefore be seen as a means of ensuring compliance with the rules related to
+to improve the protection of personal data. At the same time, it should be noted that the
+not reporting a breach to a natural person or a supervisory authority can
+mean that under Article 83 a possible sanction applies to the
+controller.
+Controllers and processors are therefore encouraged to plan in advance and
+put in place procedures to detect and immediately mitigate a breach, reduce the risk
+for persons 8 , and subsequently determine whether it is necessary to inform the competent supervisory authority
+the authority thereof and, if necessary, communicate the infringement to the data subjects.
+Notification to the supervisory authority should be part of that response plan for
+breaches.
+The GDPR contains provisions regarding when and to whom a breach must be reported
+and what information must be provided in the context of the notification. The notification requirement
+information may be provided in stages, but data controllers must
+respond in a timely manner to any infringement.
+In its Opinion 03/2014 on the reporting of violations related to personal 9 has
+WP29 provides guidance to help controllers decide whether data subjects in
+should be notified in the event of an infringement. The opinion addressed the
+obligation for providers of electronic communications services with regard to Directive
+2002/58/EC. In addition, the advice provided examples from several sectors, in the
+context of the then draft GDPR proposal, and good practices for all
+data controllers presented.
+The current guidelines contain an explanation of the obligation contained in the GDPR to
+report and communicate breaches and some of the steps data controllers and
+processors can take to meet these new obligations. In those guidelines,
+also gives examples of different types of infringements and mentions who is in the
+different scenarios should be notified.
+
+i.
+
+Notification of personal data breaches under the GDPR
+A.
+
+Basic Safety Considerations
+
+One of the requirements of the GDPR is that personal data must be processed using appropriate technical and
+organizational measures are processed in such a way that an appropriate security of the
+personal data is safeguarded, including protection against unauthorized or
+unlawful processing and against accidental loss, destruction or damage 10 .
+
+8
+
+This can be ensured under the monitoring and evaluation obligation of averplichting
+
+data protection impact assessment, which is required for processing operations likely to be high risk
+to the rights and freedoms of natural persons (Article 35(1) and 11).
+9
+
+See Opinion 03/2014 on the notification of personal data breaches:
+
+http://ec.europa.eu/justice/data-protection/article-29/documentation/opinionrecommendation/files/2014/wp213_en.pdf
+10
+
+See Article 5(1)(f) and Article 32.
+
+6
+
+Page 7
+
+Therefore, the GDPR requires that both controllers and processors provide appropriate
+take technical and organizational measures to ensure a level of security that is
+tailored to the risk associated with the processing of personal data. They serve
+to take into account the state of the art, the implementation costs, the nature, scope, context and
+processing purposes as well as the risks of varying likelihood and severity to the
+rights and freedoms of natural persons 11 . Under the GDPR, all appropriate
+technical and organizational measures are taken to immediately determine whether a
+infringement has taken place, on the basis of which it is subsequently determined whether the notification obligation of
+applies. 12
+An essential element of any data security policy is the ability to
+possible and, should a breach occur, respond in a timely manner.
+b.
+
+What is a personal data breach?
+1.
+
+Definition
+
+A controller cannot attempt to address a breach unless
+he is able to recognize one. Article 4(12) of the GDPR refers to an "infringement related to
+personal data" defined as follows:
+"a breach of security leading to the accidental or unlawful destruction,
+loss, alteration, unauthorized disclosure or access to
+transmitted, stored or otherwise processed data".
+What is meant by "destruction" of personal data should be very clear: this
+means that the data no longer exists, or no longer exists in a form that is
+controller is helpful. "Damage" should also be relatively obvious: this
+means that the personal data has been altered, corrupted or is no longer complete.
+"Loss" of personal data means that the data may still exist, but the
+controller no longer has control or access to the data or that
+he no longer owns them. Finally, unauthorized or unlawful processing
+relate to the provision of personal data to (or access to personal data)
+by) recipients who are not authorized to receive (or access) the data,
+or any other form of processing that violates the GDPR.
+Example:
+An example of loss of personal data is when a device containing a copy of
+a data controller's customer base has been lost or stolen. Another
+example of loss is as the only copy of a collection of personal data by ransomware
+("ransomware") has been encrypted, or has been encrypted by the controller using
+a key he no longer owns.
+What should be clear is that a breach is a type of security incident. As indicated in
+Article 4(12) however, the GDPR only applies where there is a breach of
+personal data . The consequence of such a breach is that the controller does not
+will be able to ensure that the principles governing the processing of personal data as
+11
+
+Article 32; see also recital 83
+
+12
+
+See recital 87.
+
+7
+
+Page 8
+
+described in Article 5 of the GDPR are complied with. This highlights the difference between a
+security incident and a personal data breach – it essentially comes down to
+that all personal data breaches are security incidents, but not all
+security incidents are necessarily personal data breaches 13 .
+The potential adverse effects of a breach on individuals are discussed below.
+2.
+
+Types of personal data breaches
+
+In its opinion 03/2014 on the notification of infringements, the WP29 explained that infringements
+can be classified according to the following three known information security principles 14 :
+• “Breach of Confidentiality” – if there is any unauthorized or accidental
+provision of or access to personal data.
+• “Breach of Integrity” – if there is an unauthorized or accidental
+change of personal data.
+• "Breach of Availability" – if there is an accidental or unauthorized of
+loss of access to personal data or an accidental or unauthorized destruction
+of personal data. 15
+It should also be noted that, depending on the circumstances, an infringement
+may have on the confidentiality, integrity and availability of personal data,
+as well as any combination thereof.
+While it is relatively clear whether there has been a breach of confidentiality or integrity,
+it may be less obvious whether there is a breach of availability. A
+breach is always considered a breach of availability as personal data
+permanently lost or destroyed.
+Example:
+Examples of loss of availability are when data is accidentally or by a
+unauthorized person have been removed or when, in the case of securely encrypted data, the
+decryption key has been lost. If the controller restricts access to the data
+cannot restore, for example from a backup, this is considered a permanent
+loss of availability.
+
+13
+
+It should be noted that a security incident is not limited to threat models where a
+
+organization is attacked from outside, but also includes incidents resulting from internal processing
+and violate security principles.
+14
+
+See advice 03/2014.
+
+15
+
+It is an established fact that "access" is fundamentally part of "availability". See for example
+
+NIST SP800-53rev4, which defines availability as follows: "Ensuring on-time and
+reliable access to and timely and reliable use of information", available at
+http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf . In CNSSI-4009 also
+referred to: "Timely and Reliable Access to Data and Information Services for Agent
+users." See https://rmf.org/wp-content/uploads/2017/10/CNSSI-4009.pdf. In ISO/IEC 27000:2016,
+"availability" also defined as "Accessible and usable at the request of an authorized entity
+are": https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-4:v1:en
+
+8
+
+Page 9
+
+There may also be a loss of availability if the normal service of a
+organization is seriously disrupted, for example in the event of a power failure or a denial of
+service" attack (DoS attack), making personal data unavailable.
+The question can be asked whether a temporary loss of availability of personal data should be
+be considered a breach and, if so, a breach that must be reported. In article 32
+of the GDPR, "Security of processing", it is explained that in the performance of technical
+and organizational measures to ensure a level of security appropriate to the risk,
+attention should be paid, inter alia, to "the ability to
+confidentiality, integrity, availability and resilience of the processing systems and services
+guarantee" and "the ability to maintain the availability and
+restore access to the personal data in a timely manner".
+A security incident that results in personal data being stored for a certain period of time
+are therefore also a form of infringement, as the inaccessibility of the
+data can have a significant impact on the rights and freedoms of natural persons.
+For the avoidance of doubt: if personal data is not available as a result of the execution
+of scheduled system maintenance, is not a "security breach" as defined in Article
+4, paragraph 12.
+As with a permanent loss or destruction of personal data (or any other form of
+breach) must be a breach involving a temporary loss of availability
+documented in accordance with Article 33(5). This helps the controller to
+to be accountable to the supervisory authority, which requests access to these documents
+can ask 16 . However, depending on the circumstances of the infringement, it may or may not be mandatory
+are to report the breach to the supervisory authority and to inform the affected persons
+share. The controller will have to assess how likely and serious the
+consequences of the unavailability of personal data for the rights and freedoms of
+are natural persons. In accordance with Article 33, the controller must
+report a breach unless the breach is unlikely to pose a risk to the rights and freedoms
+of natural persons. Of course, this must be assessed on a case-by-case basis.
+Examples
+In the context of a hospital, the unavailability of critical medical data can
+patients, even temporarily, pose a risk to the rights and freedoms of natural persons.
+For example, it could result in operations being canceled and lives at risk
+come.
+If, on the other hand, a media company's systems are unavailable for a number of hours
+(for example, due to a power failure), it is unlikely that the inability of
+the company to send newsletters to its subscribers poses a risk to the rights and freedoms of
+includes natural persons.
+It should be noted that even if a controller's systems are only temporary
+are not available and this does not affect persons, it is important that the
+controller considers all possible consequences of a breach,
+as it may still be required to notify the breach for other reasons.
+Example:
+16
+
+See Article 33(5).
+
+9
+
+Page 10
+
+Ransomware infection (malicious software that steals the data from the
+controller until ransom is paid) may result in a temporary loss of
+availability if the data can be restored from a backup. However, there is still
+there is always a network intrusion and a notification may be mandatory if the incident is reported
+qualified as a breach of confidentiality (i.e. if the attacker has access
+obtained into personal data) and this poses a risk to the rights and freedoms of natural persons
+persons.
+3.
+
+The potential consequences of a personal data breach
+
+A breach can have several significant negative consequences for individuals, leading to
+physical, material or immaterial damage. The GDPR explains that this includes:
+may include loss of control over their personal data, restriction of their
+rights, discrimination, identity theft or fraud, financial loss, unauthorized
+undoing of pseudonymization, reputational damage, loss of confidentiality of
+personal data protected by professional secrecy, or any other significant economic or
+social disadvantage for the persons in question 17 .
+Accordingly, the GDPR provides that the controller is obliged to
+report the breach to the competent supervisory authority, unless it is unlikely that the
+infringement will lead to the risk of such adverse effects occurring. When the risk that
+these adverse effects are likely to occur, the controller is
+required under the GDPR to notify the affected person as soon as reasonably practicable haalbaar
+to inform people 18 .
+Recital 87 of the GDPR emphasizes the importance of being able to be infringed
+established, that the risk to persons is assessed and that the infringement is corrected if necessary
+reported:
+It must be verified whether all appropriate technical and organizational measures have been taken
+to determine whether a personal data breach has occurred, and to
+supervisory authority and the data subject without delay. The fact that the
+notice has been given without undue delay must be determined, in particular taking into account
+taking into account the nature and seriousness of the personal data breach and its consequences and
+negative effects for the data subject. Such notification may result in the supervisory
+authority acts in accordance with its duties and powers laid down in this Regulation."
+Further guidelines for assessing the risk of adverse effects on individuals are
+included in part IV.
+If a controller fails to commit a personal data breach
+notify either the supervisory authority or the data subjects, or both,
+despite the fact that the requirements of Article 33 and/or Article 34 are met, the
+supervisory authority a choice in which all corrective measures at its disposal
+measures should be considered, including the imposition of an appropriate administrative
+
+17
+
+See also recitals 85 and 75.
+
+18
+
+See also recital 86.
+
+10
+
+Page 11
+
+fine 19 , either in addition to a remedy under Article 58(2) or on
+himself. If an administrative fine is opted for, the maximum amount can be 10%
+EUR 000 000, or a maximum of 2 % of the total worldwide annual turnover of a company
+pursuant to Article 83(4)(a) of the GDPR. It is also important to keep in mind that
+in some cases, failure to report a breach may indicate the lack of
+security measures or the inadequacy of existing security measures. In the
+WP29 guidelines on administrative fines state the following:
+"If several infringements have been committed together in a particular case, the supervisory authority may
+authority to apply the administrative fines at a level that is effective, proportionate and
+deterrent within the limits of the most serious infringement". In that case, the supervisory
+authority also have the option to impose sanctions for failure to report or communicate the
+infringement (Articles 33 and 34) on the one hand and for the lack of (adequate) security measures
+(Article 32) on the other hand, as they are two separate infringements.
+
+II.
+
+Article 33 - Notification to the supervisory authority
+A.
+
+When to report
+1.
+
+Requirements of Article 33
+
+Article 33(1) provides:
+"If a personal data breach has occurred, the
+controller without undue delay and, if possible, no later than 72 hours
+after it has become aware of it, to the competent supervisory authority in accordance with Article 55
+authority, unless the personal data breach is unlikely to pose a risk
+to the rights and freedoms of natural persons. If the notification to the
+supervisory authority does not take place within 72 hours, it shall be accompanied by a statement of reasons for
+the delay."
+Recital 87 reads as follows 20 :
+It must be verified whether all appropriate technical and organizational measures have been taken
+to determine whether a personal data breach has occurred, and to
+supervisory authority and the data subject without delay. The fact that the
+notice has been given without undue delay must be determined, in particular taking into account
+taking into account the nature and seriousness of the personal data breach and its consequences and
+negative effects for the data subject. Such notification may result in the supervisory
+authority acts in accordance with its duties and powers laid down in this Regulation."
+2.
+
+19
+
+When did a controller become "aware" of it?
+
+For more details, reference is made to the WP29 guidelines for the application and adoption of
+
+administrative fines, which are available here:
+http://ec.europa.eu/newsroom/just/document.cfm?doc_id=47889
+20
+
+Recital 85 is also important in this regard.
+
+11
+
+Page 12
+
+As explained above, the GDPR provides that in case
+of a breach is required to report the breach without undue delay and, if possible,
+no later than 72 hours after he has become aware of it. This may raise the question of when a
+controller can be deemed to have become "knowledge" of a breach. The
+WP29 believes that a controller should be deemed to have “knowledge”
+when he has a reasonable degree of certainty that a security incident has occurred
+occurred that led to the compromise of personal data.
+However, as indicated earlier, the controller is obliged under the GDPR
+take all appropriate technical and organizational measures to immediately determine whether
+an infringement has taken place and to inform the supervisory authority and its data subjects
+without delay. The GDPR also states that the fact that the notification is
+
+done without undue delay, taking into account in particular the
+nature and gravity of the infringement and the consequences and negative effects for the data subject 21 . With this
+the controller is obliged to ensure that it is
+"knowledge" of infringements so that he can take the necessary measures.
+When exactly a controller can be considered to have been "knowledge"
+of a particular infringement depends on the circumstances of the specific infringement. In some
+cases, it will be quite clear from the outset that there has been an infringement, while in
+In other cases, it may take some time to determine whether personal data has been compromised.
+However, the emphasis should be on immediate action to investigate an incident in order to determine
+establish whether there has indeed been a personal data breach and, if so,
+take corrective action and report the breach if necessary.
+Examples
+1. When a USB stick with unencrypted personal data is lost, it is often not possible to
+verify whether unauthorized persons have gained access to that data. Although the
+controller may not be able to determine whether a confidentiality breach
+has occurred, such a case must nevertheless be reported as there is a reasonable
+there is certainty that a breach of availability has occurred; the
+controller would have been "knowing" when he realized that the USB
+stick was lost.
+2. A third party shall notify a controller that it inadvertently
+has received personal data from one of the controller's customers and
+provides proof of the unauthorized disclosure. Since the controller
+has received clear evidence of a breach of confidentiality, there can be no doubt
+that he has "knowledge" of it.
+3. A controller discovers that its network may have been compromised. He
+checks its systems to see if any personal data stored in that network is
+compromised and establishes that this is the case. Here, too, there can be no doubt that the
+controller has "became aware" of that breach as he has clear
+has evidence of.
+4. A cybercriminal hacks into a controller's system and then takes
+contact him to request ransom. In that case, the controller has the right to
+after checking his system to see if it has been attacked, about clear evidence
+
+21
+
+See recital 87.
+
+12
+
+Page 13
+
+that an infringement has taken place and there is no doubt that he has "knowledge" of it
+got.
+After the controller has been first notified by a person, a media organization or a
+other source has been notified of a possible infringement, or when he himself has
+discovered a security incident, he can conduct a brief investigation to determine whether or not
+no actual infringement has taken place. As long as this investigation is ongoing, the
+controller shall not be deemed to have been given "knowledge". However, there is
+expects the first investigation to start as soon as possible and that on that basis with a
+reasonable assurance that an infringement has occurred; after that one can
+follow a more detailed investigation.
+Once the controller has received "knowledge", a reportable breach must be
+unreasonable delay and, if possible, reported within 72 hours. During this period
+the controller should assess the likely risk to individuals of
+to find out whether the notification obligation applies and what action(s) is (are) necessary to tackle the infringement. A
+however, the controller may already have an initial assessment of the potential risk
+Which from a
+infringement would can
+ensue
+on
+base
+from
+a
+data protection impact assessment 22 prior to the execution of the processing in question
+executed. However, the data protection impact assessment may be more general than the specific
+circumstances of an actual infringement, so that in any event an additional assessment
+should be carried out taking those circumstances into account. For further
+details on the assessment of risks are referred to part IV.
+In most cases, these preparatory actions should be taken shortly after the first warning
+performed (ie where the controller or processor suspects that a
+security incident that may involve personal data). - it would
+only in exceptional cases should take longer .
+Example:
+A natural person informs the controller that he has an email
+received from someone impersonating the controller. This email contains
+personal data relating to the (actual) use of the service of the
+controller by the natural person, demonstrating that the security of the
+controller has been compromised. The controller draws up a short
+investigation, finds that his network has been broken into and finds evidence that someone
+unauthorized
+wise
+access
+until
+personal data
+has
+controller is now deemed to have "knowledge" and is obliged to report the breach
+to the supervisory authority, unless the breach is unlikely to pose a risk
+to the rights and freedoms of individuals. The controller will provide appropriate
+take corrective action to address the breach.
+
+obtained.
+
+The
+
+The controller should therefore have internal processes in place to
+to detect and address. For example, the controller or processor for the
+determination of certain irregularities in data processing use certain
+technical measures such as data flow analysis tools and logs, which allow
+
+22
+
+See WP29 guidance on data protection impact assessments:
+
+http://ec.europa.eu/newsroom/document.cfm?doc_id=44137
+
+13
+
+Page 14
+
+events and alerts can be identified by correlating log data 23 .
+It is important that when a breach is identified it is reported to the appropriate management level
+is reported so that the breach can be addressed and, if necessary, reported in
+in accordance with Article 33 and, if necessary, Article 34. Such measures and
+reporting mechanisms could be further elaborated in the breach response plans
+and/or governance arrangements of the controller. These help the
+controller to effectively plan and determine who within the organization
+has operational responsibility for managing a breach and whether and how an incident
+should be escalated if necessary (ie reported to a higher level and
+transferred).
+The controller must also make arrangements with processors that it engages,
+who are themselves obliged to notify the controller of a breach (see
+Below).
+While it is the responsibility of controllers and processors to
+take appropriate measures to be able to prevent, respond to and
+In all cases, there are a number of practical steps that need to be taken.
+• Information on all safety-related events should be made available to an or
+more responsible persons tasked with dealing with incidents, the existence
+of an infringement and assess the risks.
+• Next, the risk to individuals as a result of a breach must be assessed
+(probability that there is no risk, there is a risk or a high risk) and the
+relevant parts of the organization are informed.
+• The breach must be reported to the supervisory authority and, if necessary,
+be notified to the affected persons, if necessary.
+• At the same time, the controller should act to mitigate the breach
+and recover.
+• The breach must be documented as it develops.
+It should therefore be clear that the controller is obliged to act
+following an initial warning and determining whether or not there has been an infringement
+occurred. This short period provides the controller with an opportunity to
+investigate and collect evidence and other relevant data. As soon as the
+however, the controller has determined with reasonable assurance that a
+infringement has taken place, he must, if the conditions of Article 33(1) are met,
+supervisory authority without undue delay and, if possible, within 72 hours thereof
+notify 24 . If a controller does not act in a timely manner and it becomes clear
+that an infringement has occurred, this may be regarded as a failure to
+report in accordance with Article 33.
+It is clear from Article 32 that the controller and processor have appropriate
+technical and organizational measures must be in place to ensure an appropriate level of
+ensure the security of personal data: the ability to detect a breach in a timely manner,
+23
+
+It should be noted that log data that make it easier to store, change or delete, for example,
+
+of data may also qualify as personal data of the person initiating the
+has taken the processing concerned.
+24
+
+See Regulation (EEC, Euratom) No 1182/71 laying down the rules applicable to
+
+terms, dates and start and expiry times, available at: http://eur-lex.europa.eu/legalcontent/NL/TXT/HTML/?uri=CELEX:31971R1182&from=EN
+
+14
+
+Page 15
+
+addressing and reporting should be considered an essential part of this
+measures.
+3.
+
+Joint controllers
+
+Article 26 relates to joint controllers. That article stipulates
+that joint controllers share their respective responsibilities for the
+to determine compliance with the GDPR 25 . This includes determining which party
+is responsible for the fulfillment of the obligations under Articles 33 and 34. The
+WP29 recommends that the contractual arrangements between joint controllers
+contain provisions specifying which controller is in charge or
+is responsible for complying with the obligations contained in the GDPR to prevent infringements
+report.
+4.
+
+Obligations of the processor
+
+The controller remains generally responsible for the protection of
+personal data, but the processor has an important role to play in
+enable the controller to fulfill its obligations; this also applies to the
+notification of infringements. Article 28(3) states that processing by a processor must
+be governed by an agreement or other legal act. In Article 28(3)(f),
+stipulates that it must be laid down in the agreement or other legal act that the processor
+"taking into account the nature of the processing and the information at its disposal, the
+assists the controller in fulfilling its obligations under
+under Articles 32 to 36".
+Article 33(2) clarifies that where a controller
+the processor engaged becomes aware of a breach of the personal data that it uses on behalf of the
+controller processes, the processor the controller thereof
+"without undue delay". It should be noted that the processor does not first
+assess the likelihood of risks arising from a breach before committing the
+notifies the controller; it is the controller who
+must make an assessment as soon as he has "knowledge" of the infringement. The processor only needs
+determine whether an infringement has occurred, after which he
+controller should inform you thereof. The controller
+uses the processor to achieve its goals; therefore, the controller should submit
+in principle be considered to have become "knowledge" as soon as the processor informs him of the infringement
+notified. Because the processor is obliged to inform its controller
+the controller can address the breach and determine whether or not to
+the supervisory authority is obliged in accordance with Article 33(1) and the affected persons
+in accordance with Article 34(1). The controller may also
+investigate the infringement, as the processor may not be able to provide all relevant
+know facts related to the case, and for example not know whether the
+controller still has a copy or backup of personal data
+that have been destroyed or lost by the processor. This may affect whether the
+controller must report the breach.
+The GDPR does not specify a specific period within which the processor
+data controller, except that it does so "without undue delay"
+has to do. Therefore, the WP29 recommends that the processor inform the controller
+without undue delay, providing further information about the infringement in stages
+25
+
+See also recital 79.
+
+15
+
+Page 16
+
+as more details become available. This is important to inform the controller
+assist its obligation to report the breach to the supervisory authority within 72 hours after
+to come.
+As set out above, the contract between the controller and the
+processor to specify how the requirements set out in Article 33(2), among other
+provisions of the GDPR, must be met. This may include, among other things, that the processor
+should notify the controller at an early stage, which in turn will
+obligation of the controller to report the breach within 72 hours
+to report to the supervisory authority.
+If the processor provides services to multiple controllers that all make
+with the same incident, the processor must inform each controller
+report details of the incident.
+A processor could report a breach on behalf of the controller if the
+controller has granted the processor the appropriate authorization and this is part
+of the contractual arrangements between the controller and the processor. A
+such notification must be made in accordance with Articles 33 and 34. However, it is
+important to note that the controller remains legally responsible for the
+notification of an infringement.
+b.
+
+Provision of information to the supervisory authority
+1.
+
+Information to be provided
+
+When a controller reports a breach to the supervisory authority,
+Article 33(3) stipulates that the notification must at least specify the following or
+communicated:
+"(a) the nature of the personal data breach, specifying where possible the
+categories of data subjects and personal data registries concerned and, approximately, the number
+data subjects and personal data registers in question;
+b) the name and contact details of the data protection officer or other person
+point of contact where more information can be obtained;
+(c) the likely consequences of the personal data breach;
+d) the measures proposed or taken by the controller to address the breach
+in relation to personal data, including, where appropriate, measures to
+limitation of any adverse effects thereof.
+The GDPR does not define categories of data subjects or personal data registers. The
+However, WP29 proposes categories of data subjects to refer to the different types
+persons whose personal data is the subject of an infringement: depending on the
+descriptions used this may include children and other vulnerable groups, people with
+disability, employees or customers. Similarly, categories of
+personal data registers relate to the different types of registers that
+data controller may process, such as data related to health,
+education and social care, financial data, bank account numbers, passport numbers etc.
+Recital 85 makes it clear that one of the objectives of the notification is
+to limit the damage to persons. If the types of data subjects or the types of personal data
+indicate a risk of special damage as a result of an infringement (for example,
+16
+
+Page 17
+
+identity theft, fraud, financial loss, threats to professional secrecy), it is therefore
+It is important that these categories are mentioned in the notification. In this way it is linked to the
+requirement to describe the likely consequences of the infringement.
+If no precise information is available (e.g. the exact number of data subjects), this should not be
+hinder the timely reporting of breaches. The GDPR allows the
+number of persons involved and the approximate number of personal data registers are stated.
+Emphasis should be placed on addressing the negative effects of the infringement rather than
+of providing precise figures. So when it has become clear that there is
+a breach but the extent of it is not yet known, is a step-by-step notification (see below)
+a safe way to comply with the notification obligation.
+Article 33(3) states that in a notification the controller must "at least":
+information, which means that a controller can, if necessary,
+decide to provide further details. For different types of infringements
+(confidentiality, integrity or availability) it may be necessary to provide further information
+to fully explain the circumstances of each case.
+Example:
+In the context of its notification to the supervisory authority, a
+controller finds it useful to name its processor if it is at the root
+of the infringement, in particular if it resulted in an incident affecting the
+personal data registers of many other controllers who work with the same
+processor work.
+In any event, in the context of its investigation of an infringement, the supervisory authority may
+request details.
+2.
+
+Notification in steps
+
+Depending on the nature of the breach, further investigation by the controller
+necessary to establish all relevant facts related to the incident. In Article 33(4),
+stipulates the following:
+"If and to the extent that it is not possible to provide all information simultaneously, the
+information is provided in stages without undue delay."
+This means that the GDPR recognizes that data controllers do not always have all
+have necessary information regarding a breach within 72 hours of becoming aware of it
+have been made aware of, as the full details of the incident during this initial period
+are not always available. For that reason, the GDPR allows a step-by-step notification. A
+Step-by-step notification is more common for more complex breaches, such as some types
+cyber incidents where, for example, an in-depth forensic investigation may be necessary to determine the nature
+of the breach and the extent to which personal data has been compromised.
+As a result, in many cases the controller will investigate more at a later date
+and provide additional information. This is allowed, provided the
+controller specifies the reasons for the delay, in accordance with Article 33(4)
+1. The WP29 recommends that when the controller informs the supervisory authority
+informs the supervisory authority for the first time, he must also inform the supervisory authority if he is not yet
+has all the required information and will provide more details later. The supervising
+authority should agree to the manner and time at which additional information should be provided
+are provided. This does not prevent the controller from providing further details at any other time
+17
+
+Page 18
+
+information if he or she becomes aware of additional relevant details about the infringement that
+must be provided to the supervisory authority.
+The notification obligation is mainly aimed at encouraging data controllers to
+take immediate action, mitigate the breach, protect the compromised personal data
+if possible and ask the supervisory authority for advice. Due to the infringement
+to notify the supervisory authority within the first 72 hours, the
+controller satisfy itself that decisions on whether or not to notify
+set of persons are correct.
+However, the notification to the supervisory authority is not solely intended to provide advice
+information on whether or not to notify affected persons. In some cases
+it is clear that, given the nature of the breach and the seriousness of the
+the risk, must inform the affected persons without delay. For example, if there is a
+imminent threat of identity theft or special categories of personal data 26
+are provided online, the controller shall respond without undue delay
+take action to contain the infringement and communicate it to the data subjects (see part III). In exceptional
+circumstances, this may even happen before the breach is reported to the supervisory authority de
+reported. More generally, the notification to the supervisory authority should not serve as
+justification for not communicating the infringement to the data subjects where required.
+It should also be clear that, after an initial notification, a controller will
+supervisory authority if a follow-up investigation shows that the
+security incident is under control and no breach has occurred. This information can
+then be added to the information already provided to the supervisory authority and
+the incident can therefore be registered as not being an infringement. There is no penalty for it
+reporting an incident that ultimately turns out not to be an infringement.
+Example:
+A controller shall notify the supervisory authority within 72 hours of the
+discovery of an infringement informs him that he has a USB stick containing a copy of the
+personal data of some of its customers is lost. The USB stick will be found later
+to the controller. The controller informs the supervisory
+authority and asks to change the notification.
+It should be noted that a step-by-step notification already exists in the context of the existing
+obligations of Directive 2002/58/EC, Regulation (EU) No 611/2013 and other self-reported
+incidents.
+3.
+
+Notification with delay
+
+Article 33(1) clarifies that if the notification to the supervisory authority
+does not take place within 72 hours, it must be accompanied by a justification for the delay.
+Together with the concept of "step-by-step notification", this recognizes that a
+controller is not always able to report a breach within that period and that
+a delayed notification may be allowed.
+Such a scenario could arise, for example, when a controller in
+briefly confronted with multiple, similar breaches of confidentiality that
+affect large numbers of stakeholders in the same way. A controller should notify
+
+26
+
+See Article 9.
+
+18
+
+Page 19
+
+of an infringement and, while beginning his investigation and before reporting
+the infringement, discover more similar infringements with different causes.
+Depending on the circumstances, it may take some time for the
+controller has established the scope of the infringements. instead of any
+breach separately, the controller prepares a meaningful notification that
+represents several very similar infringements with possible different causes.
+This could lead to the notification to the supervisory authority being carried out more
+than 72 hours after the controller first became aware of this
+breaches.
+Strictly speaking, each individual breach is a reportable incident. For a too cumbersome procedure
+However, the controller may submit a "bundled" notification that already
+represents these breaches, provided they relate to the same type of personal data
+which was infringed in the same way and within a relatively short time. If a series of infringements
+takes place that relate to different types of personal data to which
+has been infringed in various ways, the report should be made in the normal way,
+reporting any breach in accordance with Article 33.
+While the GDPR allows a certain amount of delay in notification, it should not
+be seen as a regular occurrence. It should be noted that bundled
+reports can also be made for multiple similar breaches within 72 hours
+are reported.
+c.
+
+Cross-border infringements and infringements at establishments outside the EU
+1.
+
+Cross-border infringements
+
+In the case of cross-border processing 27 of personal data, an infringement can have consequences
+for data subjects in more than one Member State. Article 33(1) clarifies that when
+a breach has occurred, the controller shall notify the controller pursuant to Article 55 of
+should inform the GDPR competent supervisory authority 28 . Article 55(1)
+sounds like this:
+"Each supervisory authority has the competence in the territory of its Member State to carry out the tasks
+to carry out those conferred on it in accordance with this Regulation and to exercise the powers
+exercises granted to it in accordance with this Regulation."
+However, Article 56(1) provides:
+"Without prejudice to Article 55, the supervisory authority of the principal place of business or the sole
+establishment of the controller or processor to act competently as the lead
+supervisory authority for the cross-border processing by that
+controller or processor in accordance with the procedure referred to in Article 60."
+Furthermore, Article 56(6) provides:
+
+27
+
+See Article 4(23).
+
+28
+
+See also recital 122.
+
+19
+
+Page 20
+
+"The lead supervisory authority is for the controller or processor the
+any interlocutor in the event of cross-border processing by that controller or
+processor."
+This means that whenever an infringement occurs in the context of cross-border
+processing and notification is required, the controller is the lead supervisory authority
+authority to notify 29 . Therefore, a data controller must
+drawing up its breach response plan assessing which supervisory authority is the
+is the lead supervisory authority to which he must address his report 30 . This will de
+enable the controller to respond promptly to a breach and fulfill its obligations
+under Article 33. It should be understood that in the case of an infringement where
+there is cross-border processing, the notification must be made to the lead
+supervisory authority, which is not necessarily located where the affected waar
+data subjects are located, or even where the infringement took place. When notifying the
+lead supervisory authority should indicate the controller if necessary
+whether the infringement concerns establishments in other Member States and in which Member States data subjects
+likely to have been affected by the infringement. If the controller has any doubts
+about the identity of the lead supervisory authority, it should at least
+to the supervisory authority of the place where the infringement took place.
+2.
+
+Infringements at establishments outside the EU
+
+Article 3 relates to the territorial scope of the GDPR, including
+when the GDPR applies to the processing of personal data by a
+controller or processor not established in the EU. In Article 3(2), with
+in particular stipulated the following 31 :
+"This Regulation applies to the processing of personal data of data subjects who
+are located in the Union, by a controller not established in the Union or
+processor, when the processing is related to:
+(a) offering goods or services to those data subjects in the Union, whether or not a payment een
+required by the data subjects; or
+(b) monitoring their behaviour, to the extent that such behavior takes place in the Union."
+Article 3(3) is also relevant and reads as follows 32 :
+"This Regulation applies to the processing of personal data by a
+controller who is not established in the Union, but in a place where, pursuant to the
+international public law Member State law is applicable."
+
+29
+
+See WP29 guidelines for determining the lead supervisory authority of the
+
+controller or the processor, which are available on
+http://ec.europa.eu/newsroom/document.cfm?doc_id=44102
+30
+
+A list of contact details for all European national data protection authorities can be found at:
+
+http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+31
+
+See also recitals 23 and 24.
+
+32
+
+See also recital 25.
+
+20
+
+Page 21
+
+If a controller not established in the EU under Article 3(2) or Article 3,
+paragraph 3, and is confronted with an infringement, he therefore remains bound by the
+notification obligations under Articles 33 and 34. Under Article 27, a
+controller (and processor) is obliged to appoint a representative in the EU
+where Article 3(2) applies. In such cases, the WP29 recommends that the notification
+is made to the supervisory authority of the Member State where the representative of the
+controller is located in the EU 33 . Likewise, a processor who is subject to Article 3, paragraph
+2, is bound by the obligations that apply to processors, in particular the obligation to
+to notify the controller of a breach in accordance with Article 33(2).
+D.
+
+Conditions under which no notification is required
+
+Article 33(1) clarifies that if "it is not probable that the infringement in
+connection with personal data poses a risk to the rights and freedoms of natural persons
+persons", there is no obligation to report the breach to the supervisory authority. A
+example is when personal data is already publicly available and its disclosure
+does not pose a likely risk to the data subject. This contrasts with existing
+infringement notification obligations for providers of publicly available electronic
+communications services in Directive 2009/136/EC, which states that all relevant infringements
+must be reported to the competent authority.
+In its opinion 03/2014 on the notification of infringements 34 the WP29 explained that a breach of
+the confidentiality of personal data encrypted with an advanced algorithm yet
+is always a personal data breach and must be reported. Is the key though
+still confidential – ie the key has not been compromised in any breach and is such
+generated that it cannot be traced by anyone with available technical means
+who is not authorized to access it – then the data is in principle incomprehensible. It
+in that case, it is unlikely that the infringement will adversely affect any person and, therefore,
+no communication to those persons is required 35 . Even if the data is encrypted, a
+loss or alteration, however, have negative consequences for the data subjects if the
+controller does not have adequate backups. In that case, the infringement would
+data subjects must be disclosed, even if the data itself is subject to appropriate
+encryption measures were subject to.
+The WP29 has also explained that this would be similarly the case if
+personal data, such as passwords, is securely "hashed" and "salted", the hashed value is
+calculated with an advanced cryptographic key hash function, and the hash function for the
+data key used in any breach has not been compromised and generated in such a way that
+it cannot be traced with available technological means by someone who is not
+authorized to access it.
+If personal data has been made essentially incomprehensible to unauthorized parties and if the
+data is a copy or backed up, it is therefore possible that a violation of the
+confidentiality involving properly encrypted personal data is not
+supervisory authority has to be notified. It is unlikely that a
+such infringement poses a risk to the rights and freedoms of natural persons. This
+33
+
+See recital 80 and Article 27.
+
+34
+
+WP29, Opinion 03/2014 on breach notification, http://ec.europa.eu/justice/data-protection/article-
+
+29/documentation/opinion-recommendation/files/2014/wp213_en.pdf
+35
+
+See also Article 4(1) and (2) of Regulation (EU) No 611/2013.
+
+21
+
+Page 22
+
+means, of course, that the natural person does not need to be informed either, since there is
+probably not a high risk. It should be noted, however, that although it is initially possible
+is not required to report a breach if there is not likely to be a risk to the rights and
+liberties of natural persons, this may change over time and the risk re
+should be evaluated. For example, if it turns out afterwards that the key has been compromised or if
+a vulnerability in the encryption software is discovered, it is possible that the breach
+has yet to be reported.
+In addition, it should be noted that in the event of a breach where there are no backups of the
+encrypted personal data, there is a breach of availability that risks
+for persons and may therefore have to be reported. Likewise, a
+breach that involves the loss of encrypted data, even if the backup
+personal data exists, may still be a reportable breach, depending on how long it takes
+to restore the data from that backup and depending on the consequences of that lack of
+availability for persons. As stated in Article 32(1)(c), an important
+safety factor "the ability to control the availability and
+restore access to the personal data in a timely manner".
+Example:
+A breach that should not be reported to the supervisory authority is the loss of
+a securely encrypted mobile device used by the controller and its staff zijn
+is used. Provided the encryption key is in the secure possession of the controller
+remains and this is not the only copy of the personal data, the personal data
+be inaccessible to an attacker. This means that it is unlikely that the infringement
+risk to the rights and freedoms of data subjects. If later it turns out that the
+encryption key has been compromised or the encryption software or algorithm
+is vulnerable, the risk to the rights and freedoms of natural persons will change and
+it may therefore be mandatory to report the infringement.
+However, there is a non-compliance with Article 33 if a controller de
+supervisory authority does not notify a situation where the data is not secure
+encrypted. Therefore, when selecting
+encryption software carefully check the quality and correct implementation of the offered
+consider encryption and understand what level of protection it actually provides and whether that
+level is appropriate for the risks involved. Controllers must also be good
+familiar with how their encryption product works. For example, a device can
+be encrypted when it is turned off, but not when it is in standby mode. Some
+products that work with encryption have "default keys" that each customer must
+be modified to be effective. The encryption can also be done on a given
+considered adequate by safety experts at the moment, but may be a few years later
+obsolete, so it is no longer certain that the encryption product will
+sufficiently encrypted and offers an appropriate level of protection.
+
+III.
+
+Article 34 – Communication to the data subject
+A.
+
+Notify people
+
+In certain cases, the controller must not only report a breach to the
+supervisory authority, but must also communicate them to the affected persons.
+Article 34(1) reads as follows:
+22
+
+Page 23
+
+“Where the personal data breach is likely to pose a high risk to
+the rights and freedoms of natural persons, the controller shares the
+data subject of the personal data breach without undue delay".
+Controllers should remember that reporting a breach to the
+supervisory authority is required, unless it is unlikely that the breach poses a risk to the
+rights and freedoms of natural persons. If it is probable that an infringement
+results in a high risk to the rights and freedoms of natural persons, natural
+persons are also informed. The threshold for communicating an infringement to persons is
+thus higher than that for reporting a breach to the supervisory authorities, and thus
+not all breaches need to be reported to individuals, thus protecting them from
+unnecessary notification fatigue.
+The GDPR states that a breach must be "immediately", i.e. as soon as possible, to individuals
+be communicated. The main purpose of the communication to individuals is specific information
+to provide information on the steps they should take to protect themselves 36 . As
+stated above, depending on the nature of the infringement and the risk it entails,
+entails, timely communications help individuals take steps to protect themselves against any
+negative consequences of the infringement.
+Annex B of these guidelines contains a non-exhaustive list of examples of cases where
+a breach is likely to result in a high risk to individuals and consequently cases where
+a controller will have to communicate a breach to the affected data subjects.
+b.
+
+Information to be provided
+
+Article 34(2) reads as follows:
+"The communication to the data subject referred to in paragraph 1 of this article shall contain a description, in
+clear and plain language, of the nature of the personal data breach and at least
+at least the information and measures referred to in Article 33(3)(b), (c) and (d).
+According to this provision, the controller must provide at least the following information:
+provide:
+• a description of the nature of the infringement;
+• the name and contact details of the data protection officer or another person
+contact point;
+
+• a description of the likely consequences of the infringement; and
+• a description of the measures proposed by the controller
+or taken to address the breach, including, where appropriate,
+measures to limit its possible adverse effects.
+As an example of the measures taken to address the infringement and the potential
+limit its adverse effects, the controller could declare that it
+has received advice after notification of the breach to the supervisory authority concerned
+on the management of the infringement and the limitation of its consequences. The
+controller should also, where appropriate, provide specific advice to individuals to
+protect against possible negative consequences of the infringement, such as changing wijzigen
+passwords if their access data has come into the possession of third parties. Again, a
+32
+
+See also recital 86.
+
+23
+
+Page 24
+
+controller may choose to provide information in addition to what is required here
+is.
+c.
+
+Contact people
+
+In principle, the infringement must be communicated directly to the affected data subjects, unless
+this would require disproportionate effort. In that case, a public
+communication or a similar measure which would make the data subjects equally effective
+informed (Article 34(3)(c)).
+The communication of a breach to the data subjects must take place through specific messages that
+not together with other information, such as regular updates, newsletters or standard messages,
+may be sent. This helps to make communication about the breach clear and transparent
+to make.
+Examples of transparent communication methods are direct messaging (e.g. email,
+SMS, direct messages), eye-catching banners or messages on websites, communications by
+post and prominent advertisements in print media. A notice limited to a
+press release or corporate blog would not be an effective means of reporting a breach to a person
+share. The WP29 recommends that controllers choose a means that reduces the likelihood that
+the information is properly communicated to all affected persons, is as comprehensive as possible.
+Depending on the circumstances, this may mean that the controller
+using different communication methods instead of a single contact channel.
+Controllers may also need to ensure that communications
+is available in appropriate alternative formats and in the relevant languages ​so that the affected persons
+understand the information provided to them. For example, when an infringement of a person
+is communicated, the language in which that person was usually used in the past
+communicated are generally appropriate. However, does the infringement affect data subjects with whom the
+controller has not previously been in contact or who is in another Member State or
+reside in a non-EU country other than the country where the controller is established,
+communication in the local national language are acceptable, taking into account the requirement
+resources. It is a matter of helping data subjects to understand the nature of the infringement and
+explain what measures they can take to protect themselves.
+Controllers are best placed to determine which contact channel is the most
+appropriate to communicate a breach to individuals, especially if they frequently interact with their customers
+to communicate. However, it is clear that a controller should be wary
+for using a contact channel that has been compromised by the breach, as this channel
+can also be used by attackers impersonating the controller.
+At the same time, recital 86 explains the following:
+“Such notices to data subjects should be made as soon as reasonably possible
+done, in close cooperation with the supervisory authority and taking into account the
+provided to itself or by other relevant authorities, such as law enforcement authorities
+guidelines. For example, data subjects should be notified without delay
+when an immediate risk of damage must be reduced, while a longer
+notice period may be justified when appropriate measures are to be taken
+taken against persistent or similar personal data breaches."
+Data controllers might therefore want to contact and consult
+commit with the supervisory authority, not only to obtain advice on informing
+data subjects about an infringement in accordance with Article 34, but also about the appropriate messages to
+24
+
+Page 25
+
+persons should be sent and about the most appropriate way to contact them
+take.
+Linked to this is the advice in recital 88 that, when notifying an infringement, "account
+[should] be taken into account the legitimate interests of law enforcement authorities
+when early disclosure interferes with the investigation of the circumstances of an infringement
+connection with personal data". This may mean that the
+controller in certain circumstances, when justified, and on
+advice from law enforcement authorities and communication of the breach to the affected persons
+until such time as it would no longer impede such investigations
+come. However, the data subjects should still be informed without delay after this time
+are being brought.
+If it is not possible for the controller to communicate a breach to a person
+share because insufficient data is stored to contact that person,
+the controller informs the data subject as soon as reasonably possible
+(e.g. when a person exercises his right of access to personal data described in Article 15
+and provides the controller with the necessary additional information to contact
+to record with him).
+D.
+
+Conditions under which no notice is required
+
+Article 34(3) lists three conditions. If those conditions are met,
+a violation should not be reported to persons. These conditions are:
+• The controller has appropriate technical and organizational measures
+taken to protect personal data before the breach, in particular measures that
+make personal data incomprehensible to unauthorized persons. For example, this can
+protection of personal data by means of advanced encryption or by
+include tokenization.
+• Immediately after a breach, the controller took action
+to ensure that the high risk to the rights and freedoms of natural persons
+probably won't happen again. Depending on the circumstances of the case
+For example, the controller may not be able to control the person accessing toegang
+has had the personal data immediately identified and that the
+controller has taken action before that person interacts with the
+personal data could do. Due account has yet to be taken of the
+possible consequences of a possible breach of confidentiality, also depending
+of the nature of the data concerned.
+37 to contact persons,
+• It would require disproportionate effort
+perhaps because their contact details have been lost as a result of the breach or
+because this information is not known. For example, the warehouse of an agency for the
+statistics is flooded and the documents containing personal data are only on
+paper stored. The controller must make a public statement or
+take a similar measure, making the persons equally effective
+informed. In the case of disproportionate efforts, one can also consider
+technical arrangements to make information about the infringement available on request, which
+may prove useful to persons affected by an infringement but with whom the
+otherwise the controller cannot contact you.
+
+37
+
+See the WP29 Guidelines on Transparency, which addresses the issue of disproportionate efforts to the
+
+order, which are available at http://ec.europa.eu/newsroom/just/document.cfm?doc_id=48850
+
+25
+
+Page 26
+
+In accordance with the principle of accountability, controllers must comply with the
+supervisory authority can demonstrate that they meet one or more of these conditions
+38 . It should be noted, however, that while it may not initially be mandatory to
+report if there is no risk to the rights and freedoms of natural persons, in the course of
+may change over time and the risk must be re-evaluated.
+If a controller decides not to communicate a breach to the individual,
+Article 34(4) interpreted as meaning that the supervisory authority informs the controller for this purpose
+may require if it believes that the breach is likely to pose a high risk to individuals
+entails. On the other hand, the supervisory authority may consider that the conditions
+of Article 34(3) is fulfilled, in which case the infringement need not be communicated to persons
+communicated. If the supervisory authority considers that the decision not to
+to inform the data subjects is not justified, it may consider making use of its
+available powers and sanctions.
+
+IV.
+
+Assessment of risk and high risk
+A.
+
+Risk as a reason for reports/notifications
+
+While the GDPR introduces the obligation to report a breach, this is not the case in all circumstances
+obligated:
+• A breach must be reported to the competent supervisory authority, unless it
+unlikely to pose a risk to the rights and freedoms of natural persons
+means.
+• A violation will only be communicated to the person if it is probable that they have a high
+risk to rights and freedoms.
+This means that it is essential that the controller immediately after
+he has become aware of an infringement not only seeks to control the incident,
+but also assesses the risk that may result. There are two main reasons for this: in the
+First, knowledge of the likelihood and potential severity of the effect on the person
+help the controller to take effective measures to prevent the infringement
+contain and tackle; secondly, it will help the controller
+determine whether a notification to the supervisory authority and, if necessary, a communication to the
+concerned persons is required.
+As set out above, a breach must be notified/communicated unless it
+is unlikely to pose a risk to the rights and freedoms of natural persons.
+The main reason on the basis of which an infringement must be communicated to data subjects,
+is if it is likely that the infringement poses a high risk to the rights and freedoms of natural
+entails people. This risk exists if the infringement could result in physical, material
+or immaterial damage to the persons whose data is the subject of the infringement.
+Examples of such damages include discrimination, identity theft or fraud, financial loss
+and reputational damage. Where the breach relates to personal data revealing racial or ethnic
+origin, political opinion, religion or philosophical beliefs, or trade union membership
+appears, or to personal data containing genetic or health-related data
+
+38
+
+See Article 5(2).
+
+26
+
+Page 27
+
+or sex life, or criminal convictions and offenses or related
+include safety measures, such damage should be considered probable 39 .
+b.
+
+Factors to consider when assessing risks
+
+Recitals 75 and 76 of the GDPR suggest that, in general, when assessing
+of risks should take into account both the likelihood and severity of the
+risk to the rights and freedoms of data subjects. In addition, these recitals provide that
+risks should be evaluated based on an objective assessment.
+It should be noted that the focus in assessing the risk to rights and freedoms
+of persons as a result of a breach differs from the focus in assessing the risk in the
+frame
+from
+a
+data protection impact assessment) 40 .
+data protection impact assessment takes into account both the risks of the
+data processing carried out as planned as the risks of a breach. At the
+assessment of a possible infringement is carried out in the context of a
+data protection impact assessment looked at in general terms the likelihood that
+the infringement occurs and the damage that the data subject could suffer as a result; with others
+words, it involves the assessment of a hypothetical event. At an actual
+infringement, the event has already occurred and so attention is fully focused on the result
+resulting risk of the effect of the infringement on individuals.
+
+Bee
+
+a
+
+Example:
+A data protection impact assessment indicates that the proposed use of certain
+security software for the protection of personal data is an appropriate measure to
+ensure a level of security appropriate to the risk that the processing would otherwise
+would involve persons. However, if a vulnerability in the software later comes to light,
+this make the software less suitable to reduce the risk to the protected personal data
+and thus the risk should be reassessed in the context of an ongoing
+data protection impact assessment.
+A vulnerability in the software is later exploited and a breach occurs. The
+controller should explain the specific circumstances of the breach, the data subject
+data, the potential level of the effect on individuals and the likelihood of this risk occurring
+will occur to be assessed.
+
+Consequently, when assessing the risk of a breach
+for individuals, taking into account the specific circumstances of the infringement, including
+including the severity of the potential effect and the likelihood of its occurrence. The
+The WP29 therefore recommends taking into account the following criteria in the assessment 41 :
+
+39
+
+See recitals 75 and 85.
+
+40
+
+See WP29 guidance on data protection impact assessments:
+
+http://ec.europa.eu/newsroom/document.cfm?doc_id=44137
+41
+
+Article 3(2) of Regulation (EU) No 611/2013 provides guidance on the factors involved in
+
+notification of breaches in the electronic communications services sector should be considered
+taken. These guidelines may be useful in the context of notifications under the GDPR. See http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:173:0002:0008:en:PDF
+
+27
+
+Page 28
+
+• The nature of the infringement
+The type of breach that has occurred can affect the risk to individuals. so can
+a breach of confidentiality involving the disclosure of medical information to unauthorized persons other
+consequences for a person than a breach involving a person's medical data
+have been lost and are no longer available.
+• The nature, sensitivity and extent of the personal data
+When assessing risks, of course, the nature and sensitivity of the personal data that
+compromised by the infringement is an important factor. The more sensitive the data, the
+usually increases the risk of harm to those involved. However, it should also be taken into account
+taken into account other personal data that may already be available about the data subject. It is
+For example, it is unlikely that the disclosure of a person's name and address in
+normal conditions will cause significant damage. However, are the name and address
+from an adoptive parent to a biological parent, the consequences can be very serious
+for both the adoptive parent and the child.
+Breaches involving health data, identity documents or financial data (eg.
+credit card details) are involved can each cause damage in and of itself, but if that data
+combined, they can be used for identity theft. A combination of
+personal data is usually more sensitive than a single piece of personal data.
+Some types of personal data may at first glance seem quite harmless, but so what?
+disclose data about the person concerned should be carefully considered. A list
+of customers who regularly receive orders at home may not be particularly sensitive, but
+the same data on customers who have requested to stop deliveries while on
+being on vacation would be useful information for criminals.
+Similarly, a small amount of highly sensitive personal data can have a major impact on a
+person and a wide variety of data can provide an even greater variety
+disclose information about that person. Also, a breach involving access to major
+amounts of personal data about many data subjects have consequences for a corresponding
+large number of people.
+• Ease of identifying individuals personen
+An important factor to consider is how easy it is for someone to access
+has to compromised personal data will be to identify specific persons, or to
+match the data with other information to identify individuals. Depending on the
+circumstances, it may be possible to determine directly on the basis of the compromised
+personal data to find out the identity of the data subject without special investigation
+necessary, or it may be extremely difficult to provide personal data to a particular person
+pairing, but may still be possible under certain circumstances. Identification can be done directly or
+indirectly possible based on the compromised data, but may also depend
+of the specific context of the infringement and the public availability of related
+personal data. This may be more relevant for breaches of confidentiality and the
+availabilty.
+As mentioned above, personal data secured by an appropriate level of encryption
+are incomprehensible to unauthorized persons who do not have the decryption key.
+In addition, a well-executed pseudonymisation (in Article 4(5), defined as "the
+processing personal data in such a way that the personal data is no longer subject to a
+specific data subject can be linked without additional data being collected
+used, provided this additional data is kept separately and technical and organizational
+28
+
+Page 29
+
+measures are taken to ensure that the personal data is not
+identified or identifiable natural person") also reduce the chance
+that individuals are identified in the event of a breach. Pseudonymization techniques
+however, alone do not make the data incomprehensible.
+• Severity of consequences for persons.
+Depending on the nature of the personal data involved in a breach, for example special
+categories of data, the damage to persons that could result from this can be particularly
+be serious, especially if the breach could lead to identity theft or fraud, physical
+injury, psychological distress, humiliation or reputational damage. If the infringement concerns
+personal data of vulnerable persons, they may be at greater risk of harm.
+Whether or not the controller is aware that personal data is held
+belonging to persons whose intentions are unknown or potentially malicious may affect
+at the level of potential risk. There may be a breach of confidentiality where
+personal data in error to a third party, as defined in Article 4(10), or to a
+other recipient will be provided. This may be the case, for example, if personal data is
+accident to the wrong department of an organization or to a commonly used organization of
+suppliers are sent. The controller may request the recipient to provide the
+return or securely destroy any data received. In either case, the recipient can
+be considered "trustworthy" as the controller has a business relationship
+interacts with him and may be aware of the procedures, history, and other
+relevant details of the recipient. In other words, the controller may
+have a degree of assurance with regard to the recipient so that he can reasonably expect that
+that party does not read or access the data sent in error, and that it
+adheres to its instructions to return it. Even if the data has been accessed, the
+controller may still be confident that the recipient will not do anything with it
+will do and that he will immediately return the data to the controller and
+will cooperate in the recovery of the data. In such cases, this can be
+taken into account in the risk assessment carried out by the controller after the breach –
+the fact that the recipient is trusted may negate the seriousness of the consequences of the infringement,
+but does not mean that no infringement has occurred. However, this in turn can mean
+that the risks to individuals are no longer probable, making the
+controller no longer has to report the breach to the supervisory authority
+or to the affected persons. Again, this varies from case to case. Nevertheless
+the controller must still maintain information about the breach in the framework
+of the general obligation to record and maintain records of infringements (see Part V
+Below).
+Account must also be taken of the lasting nature of the consequences for persons,
+where the consequences can be considered greater if they are long-term effects.
+• Special characteristics of the person
+A breach may concern personal data of children or other vulnerable persons,
+who, as a result, are at greater risk or danger. There may be other factors related to
+be the person who can influence the extent to which the infringement affects him.
+• Special characteristics of the controller
+The nature and role of the controller and its activities may affect
+the risk that an infringement poses to persons. For example, a medical organization will use special categories
+of personal data, which means there is a greater threat to individuals like them
+personal data has been violated than with a mailing list of a newspaper.
+29
+
+Page 30
+
+• The number of affected person
+An infringement may affect only one person or may affect a few people, several thousand people, or
+meet many more people. In general, a breach can have greater consequences
+the more people are involved. However, a violation can be serious even for one person
+have consequences depending on the nature of the personal data and the context in which they are
+compromised. Here too it comes down to looking at the likelihood and seriousness of the
+consequences for those affected.
+• General points
+Therefore, when assessing the risk likely to arise, the controller should
+a breach will result, taking into account a combination of the seriousness of the potential
+impact on the rights and freedoms of natural persons and the likelihood that they
+occur. It is clear that when the consequences of a breach are more severe, the risk is greater
+and that when the probability of these occurring is greater, the risk is greater. In
+In case of doubt, the controller should err on the side of caution and the
+report infringement. Appendix B provides some useful examples of different species
+infringements involving a risk or a high risk to persons.
+The European Union Agency for Network and Information Security (ENISA) has
+recommendations for a method to assess the seriousness of an infringement.
+Controllers and processors may find these recommendations helpful when
+preparing their response plan for the management of infringements 42 .
+
+Accountability and registration
+
+v.
+
+A.
+
+Document breaches
+
+Regardless of whether a breach must be reported to the supervisory authority, the
+controller document all breaches, as in Article 33(5),
+explained:
+"The controller shall document all personal data breaches,
+including the facts of the personal data breach, its consequences
+and the corrective actions taken. That documentation shall be established by the supervisory authority
+state to verify compliance with this article."
+This is related to the accountability principle of the GDPR contained in Article 5(2). The target
+of the registration of both non-reportable and reportable breaches is also related to the
+obligations of the controller under Article 24. The supervisory
+authority can request access to this registered data. Controllers
+are therefore encouraged to set up an internal register of infringements, whether or not before
+those infringements are subject to a notification obligation 43 .
+
+42
+
+ENISA, Recommendations for a methodology of the assessment of severity of personal data breaches,
+
+https://www.enisa.europa.eu/publications/dbn-severity
+43
+
+The controller may choose to document breaches as part of its
+
+records of processing activities maintained in accordance with Article 30. A separate
+
+30
+
+Page 31
+
+While it is up to the controller to determine the method and structure of the
+documenting an infringement should be used, there are as far as information to be recorded is concerned
+important elements to be included in all cases. As required by
+Article 33(5), the controller shall provide details of the breach
+including the causes, what happened and the people involved
+personal data. The controller should also assess the consequences of the breach
+record, as well as the corrective actions he has taken.
+The GDPR does not specify how long this documentation must be kept. If this
+registered data contain personal data, it is up to the controller to
+determine the appropriate retention period in accordance with the principles for the processing of
+personal data 44 and to comply with the legal basis for the processing 45 . He serves the
+keep documentation in accordance with Article 33(5) to the extent that the supervisory authority
+the controller may request to provide evidence that it has that article, or more
+generally respects the principle of accountability. If the registered data does not
+contain personal data, the principle of storage limitation included in the GDPR is obviously not
+applicable. 46
+In addition to these details, the WP29 recommends that the data controller also provide his justification
+for decisions taken following an infringement. In particular
+where infringement has not been reported, the justification for that decision should be documented. The
+justification should include the reasons why the controller believes that
+the infringement is unlikely to pose a risk to the rights and freedoms of natural persons 47 .
+If the controller is of the opinion that one of the conditions of Article
+34(3), he must be able to provide conclusive evidence that this is the case.
+If the controller does not report a breach to the supervisory authority but
+postpones the notification, he must be able to motivate that postponement; documentation related thereto
+can help to demonstrate that the delay is justified and not excessive.
+If the controller communicates a breach to the affected persons, it must
+be transparent about the breach and communicate effectively and in a timely manner. Consequently, it would
+assist the controller to demonstrate compliance with the accountability principle and
+complies with the rules by retaining evidence of that communication.
+To support compliance with Articles 33 and 34, it would be appropriate for both
+controllers as processors are helpful about a documented
+have a reporting procedure that sets out the procedure to be followed
+when a breach has been identified, including how the incident should be handled
+contained, managed and rectified, the risk assessed and the breach identified
+reported. To demonstrate compliance with the GDPR, it may also be useful in this regard to
+demonstrate that employees have been informed of the existence of such procedures and
+mechanisms and that they know how to respond to infringements.
+register is not required, provided that the information relating to the infringement is clearly identifiable as such and
+request can be requested.
+44
+
+See Article 5.
+
+45
+
+See Article 6 and also Article 9.
+
+46
+
+See Article 5(1)(e).
+
+47
+
+See recital 85.
+
+31
+
+Page 32
+
+Please note that failure to properly document a breach may result in the
+supervisory authority exercises its powers under Article 58 and/or aof
+imposes an administrative fine in accordance with Article 83.
+b.
+
+Role of the data protection officer
+
+A controller or processor may be a data protection officer
+have 48 or under Article 37, either voluntarily as good practice. In Article 39 of the GDPR
+a number of mandatory tasks of the data protection officer have been established, but this
+does not prevent the controller from assigning additional tasks where appropriate.
+The mandatory tasks of the data protection officer that are of particular importance to
+notification of breaches include: providing advice and information on
+data protection to the controller or processor, enforcement
+from
+the
+GDPR
+and
+it
+provide
+from
+advice
+data protection impact assessments. The data protection officer also works
+together with the supervisory authority and acts as a contact point for the supervisory
+authority and for those involved. It should also be noted that Article 33(3)(b) provides
+that the controller, when reporting a breach to the supervisory
+authority the name and contact details of its data protection officer or other een
+point of contact.
+
+with
+
+relation
+
+until
+
+With regard to the documentation of breaches, the controller or
+processor wishes to obtain the advice of its data protection officer on the
+structure, preparation and management of this documentation. The officer for
+data protection could also be tasked with keeping such records.
+These factors mean that the data protection officer should play a key role in
+the prevention or preparation of a breach by advising and monitoring the
+compliance, both during a breach (i.e. when notifying the supervisory
+authority) and during any subsequent investigation by the supervisory authority. In this light
+the WP29 recommends that the data protection officer be notified immediately
+of the existence of an infringement and is involved in the entire process of detecting the infringement
+manage and report.
+
+Notification obligations under other legal instruments
+
+VI.
+
+In addition to and separately from the notification and communication of breaches under the GDPR,
+controllers should also be aware of any obligation to
+report security incidents under other related legislation that may affect them
+applies and whether it can at the same time also oblige them to inform the supervisory authority
+to notify you of a personal data breach. These obligations may vary from
+Member State to Member State. Below are some examples of notification obligations
+in other legal instruments and how they relate to the GDPR:
+
+48
+
+See the WP Guidelines for Data Protection Officers:
+
+http://ec.europa.eu/newsroom/just/item-detail.cfm?item_id=50083
+
+32
+
+Page 33
+
+• Regulation (EU) No 910/2014 on electronic identification and
+trust services for electronic transactions in the internal market (eIDAS
+regulation) 49 .
+Under Article 19(2) of the eIDAS Regulation, trust service providers must
+notifying the supervisory body of a security breach or loss of integrity with
+significant consequences for the trust service provided or for the personal data associated with it
+are managed. Where applicable – ie where such infringement or such
+loss is also a personal data breach under the GDPR – the provider must
+trust services also report the breach to the supervisory authority.
+• Directive (EU) 2016/1148 concerning measures for a high common level
+of security of network and information systems in the Union (NIS Directive) 50 .
+Pursuant to Articles 14 and 16 of the NIS Directive, providers of essential services and
+requires digital service providers to report security incidents to their competent authority. Like in
+Recognized as Recital 63 of the NIS Directive 51 , security incidents can often involve a
+compromise of personal data. Although the NIS Directive stipulates that competent
+authorities and supervisory authorities in this context should cooperate and provide information
+need to exchange, it remains the case that when such incidents under the GDPR constitute breaches of
+are or become related to personal data, these providers and/or providers would be obliged
+to inform the supervisory authority thereof, independently of the information contained in the NIS Directive
+obligations regarding incident reporting.
+Example:
+A cloud service provider reporting a breach in accordance with the NIS Directive must
+may also notify a controller if there is also a
+personal data breach. Similarly, a trust service provider that is in
+Reporting a breach under the eIDAS Regulation is also mandatory for the competent
+notify the data protection authority of the breach.
+• Directive 2009/136/EC (the Civil Rights Directive) and Regulation (EU) No 611/2013 (the
+Regulation on the reporting of infringements).
+Providers of publicly available electronic communications services in the context of Directive
+2002/58/EC 52 must report infringements to the competent national authorities.
+
+49
+
+See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2014.257.01.0073.01.ENG
+
+50
+
+See http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.194.01.0001.01.ENG
+
+51 Recital 63: "In many cases personal data is compromised as a result of incidents. Therefore
+competent authorities and data protection authorities should cooperate and provide information about
+exchange all relevant matters to address personal data breaches resulting from incidents
+to grab."
+52
+
+On 10 January 2017, the European Commission adopted a regulation on privacy and electronic
+
+communication which will replace Directive 2009/136/EC and the notification obligations
+abolish. However, until this proposal is approved by the European Parliament, the existing
+reporting obligation in force, see https://ec.europa.eu/digital-single-market/en/news/proposal-regulationprivacy-and-electronic-communications
+
+33
+
+Page 34
+
+Controllers must also be aware of additional legal, medical
+or professional notification obligations under other applicable regulations.
+
+34
+
+Page 35
+
+VII.
+
+Appendix
+A.
+
+Flowchart with notification obligations
+The controller will receive
+"knowledge" of an infringement related to
+personal data and assess the risks
+for people.
+
+The controller
+discovered/be notified of
+a security incident and checks whether a
+personal data breach
+occurred.
+
+No
+Is it likely that the
+infringement poses a risk to the
+rights of natural
+persons? and
+
+No obligation to report the infringement
+to notify or notify the supervisory authority
+
+freedoms?
+
+people to share.
+
+Report infringement to the competent supervisory authority
+
+Yes
+
+authority.
+If the infringement affects persons in more
+than one Member State, report the breach to the leading
+supervisory authority.
+
+Is it likely that the
+infringement a high risk for
+the rights and freedoms of
+natural persons?
+
+No obligation to the
+infringement to persons
+share.
+Yes
+
+No
+
+Communicate the breach to the affected persons and provide if necessary
+information about steps they can take to oppose the
+consequences of the infringement.
+
+All infringements must be registered under Article 33(5). The infringement must
+are documented and recorded by the controller.
+
+35
+
+Page 36
+
+B. Examples of personal data breaches and to whom the breaches
+must be reported/communicated
+
+The following non-exhaustive examples help data controllers determine whether they
+different scenarios of personal data breaches the breach whether or not
+must report/disclose. These examples can also help to distinguish between
+risk and high risk to the rights and freedoms of natural persons.
+Report to the
+supervisory
+authority?
+
+Notify to
+the
+person involved?
+
+i. A
+responsible for processing
+corpse has a backup
+from an archive of
+personal data on a
+USB stick saved.
+The USB stick becomes
+stolen during a
+burglary.
+
+No.
+
+No.
+
+ii. A
+responsible for processing
+corpse operates a
+online service. As a result
+of a cyber attack on
+that become service
+personal data
+extracted.
+
+Yes, report this breach
+the supervisory
+authority if there
+likely consequences
+are for persons.
+
+Yes, share this
+infringement along
+to persons
+dependent
+of the nature
+of the
+concerned
+personal data
+ens and or the
+probable
+consequences for
+persons very
+be serious.
+
+No.
+
+No.
+
+Example:
+
+The
+responsible for processing
+corpse has customers in
+a single Member State.
+iii. A power outage
+of a few minutes in
+the call center of a
+responsible for processing
+as a result,
+customers the
+responsible for processing
+not able to call
+and have no access
+to their data.
+
+Comments/recommendation
+ngen
+As long as the data with
+an advanced
+algorithm are encrypted,
+there are backups of the
+data exist, the
+unique key is not
+compromised and the
+data in a timely manner
+be restored, it is
+possible that this infringement deze
+doesn't have to be
+reported. Find there later
+however a
+compromise place,
+should the infringement
+are reported.
+
+This is not to report
+infringement, but a too
+register incident
+agreement article 33,
+paragraph 5.
+The
+controller
+corpse serves the necessary
+register data and
+36
+
+Page 37
+
+to keep up.
+iv. A
+responsible for processing
+it will be
+victim of a
+ransomware attack. It
+the consequence is that all are
+data is
+encrypted. There are no
+backups available and
+the data cannot
+be restored. While
+the investigation becomes
+clear that the only
+functionality of the
+ransomware it
+encrypt the
+data and that there
+no other malware in
+the system present
+used to be.
+
+Yes, report this breach
+the supervisory
+authority if there
+likely consequences
+are for people,
+since this is a loss
+of availability.
+
+v. A person calls
+Yes.
+the call center of a
+bank to commit an infringement
+associated with
+personal data to
+report. The person has
+a monthly overview of
+someone else
+received.
+The
+responsible for processing
+corpse performs a short
+research (the
+research comes in
+completed the 24 hours) and
+states with a reasonable
+degree of certainty fixed
+that there is an infringement
+associated with
+has personal data
+occurred. He asks
+wondering if there is somewhere
+a system failure
+occurs, in which case
+this may have consequences
+has had or would
+can have for
+
+Yes, share this
+infringement along
+to persons
+dependent
+of the nature
+of the
+concerned
+personal data
+ens and de
+possible
+effects of
+it doesn't
+available
+are of the
+data,
+as well as
+Others
+probable
+effects.
+
+As a backup
+was available and the
+data in a timely manner
+to be repaired, had to
+this infringement does not comply with the
+supervisory
+authority to be reported
+nor be made to persons
+communicated as there
+no permanent loss
+of availability or
+confidentiality would be
+been. As the
+supervisory
+authority on a
+has knowledge in a different way
+received from the incident,
+can she do an investigation
+consider checking
+or to the wider
+safety requirements of
+Article 32 has been met.
+
+The infringement
+becomes alone
+communicated
+to the
+affected
+persons like there
+a high risk
+is and it
+it is clear that
+others don't
+are affected.
+
+If after further investigation
+it is established that there
+more people affected
+must be the
+supervisory
+authority of this in
+be notified and
+has the
+controller
+to notify the infringement
+to other persons
+if there is a high risk
+exists for them.
+
+37
+
+Page 38
+
+other people.
+
+vi. A
+responsible for processing
+corpse operates a
+online marketplace and
+has customers in several
+member states. The marketplace
+is hit by a
+cyber attack, and the
+attacker publishes
+usernames,
+passwords and
+purchase statements on
+the Internet.
+
+Yes, report the breach to the
+lead supervisory
+authority when it comes to
+cross-border
+processing.
+
+vii. one if
+data processor
+acting hosting company
+detects an error in the
+authorization code
+from users. It
+consequence of the error is that
+any user access
+can get to the
+account details of
+any other user.
+
+As a processor, it must
+be a hosting company
+affected customers (the
+controller
+calibration) without delay of this
+to notify.
+
+Yes, since
+this to a
+big risk
+could be
+lead.
+
+The
+controller
+body needs action
+entrepreneurship, for example
+by the affected accounts
+to oblige their
+passwords too
+change, as well as other
+steps to reduce the risk
+limit.
+The
+controller
+corpse also serves others
+notification obligation
+and consider
+take, for example,
+under the NIS Directive
+as a digital service provider.
+
+On the assumption that
+being the hosting company
+has its own research
+performed, the
+affected
+controller
+calibrate reasonable certainty
+must have about the
+ask if she is the victim
+have become a
+infringement. Consequently,
+thought it probable
+that they have "knowledge"
+received from the infringement
+as soon as they get through it
+hosting company (de
+processor) thereof in
+have been notified. The
+controller
+kee serves the infringement
+then report to
+the supervisory
+authority.
+
+If there
+probably
+no high
+risk for the
+persons is,
+has the
+infringement not
+to them
+turn into
+communicated.
+
+The hosting company
+(processor) must all
+Others
+notification obligation
+and (for example on the basis of
+of the NIS guideline as
+a digital
+service provider) in
+take into consideration.
+If there are no clues
+are that at one of the
+controller
+seem to be abused
+made of this
+vulnerability, is there
+possibly no
+a reportable breach.
+However, this infringement
+probably should
+be registered or
+are considered to be
+a case of noncompliance in accordance with
+article 32.
+
+38
+
+Page 39
+
+viii. As a result of a
+cyber attack are the
+medical records in one
+hospital during 30
+hours not available.
+
+Yes, the hospital is
+obliged to report that
+the infringement is a high risk
+can imply for it
+wellbeing and privacy of
+the patient.
+
+Yes, share this
+infringement along
+to the
+affected
+persons.
+
+ix. Personal data
+of a large number
+students are per
+accident to the
+wrong mailing list
+sent ... a list of
+more than 1,000
+receivers.
+
+Yes, report this breach
+the supervisory
+authority.
+
+Yes, share this
+infringement along
+to persons,
+dependent
+of the size
+and the type
+personal data
+ens and the seriousness
+of the
+possible
+effects.
+
+X. A directmarketing email becomes
+sent to
+recipients in the field
+"On" or "CC", making
+each recipient the e-mail
+email address of the other
+can see recipients.
+
+Yes, it can be mandatory
+to report this breach
+to the supervisory
+authority as a great
+number of people through
+is affected, if
+sensitive data is
+revealed (for example, a
+mailing list of a
+psychotherapist) or as
+other factors high
+involve risks
+(for example, if the email
+the original
+contains passwords).
+
+Yes, share this
+The infringement may be
+infringement along not to be
+to persons,
+reported/notified if there
+dependent
+no sensitive data
+of the size
+are revealed and if there
+and the type
+only a small number of emails
+personal data
+email addresses has been revealed.
+ens and the seriousness
+of the
+possible
+effects.
+
+39
+
+

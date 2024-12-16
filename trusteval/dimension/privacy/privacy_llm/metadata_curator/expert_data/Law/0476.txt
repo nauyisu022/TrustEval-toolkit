@@ -1,0 +1,1147 @@
+Page 1
+
+THE RUSSIAN FEDERATION
+
+THE FEDERAL LAW
+
+On the security of critical information infrastructure
+Russian Federation
+
+Adopted by the State Duma
+
+12 July 2017
+
+Approved by the Federation Council
+
+July 19, 2017
+
+Article 1. Scope of this Federal Law
+
+This Federal Law regulates relations in the field
+ensuring the security of critical information infrastructure
+Of the Russian Federation (hereinafter also referred to as critical information
+infrastructure) in order to ensure its sustainable operation during
+regarding her computer attacks.
+
+Article 2. Basic concepts used in the present
+Federal law
+
+For the purposes of this Federal Law, the following are used
+basic concepts:
+1) automated control system - a set of software and
+hardware and software
+funds,
+intended
+technological and (or) production equipment (executive
+devices) and the processes they produce, as well as to control
+such equipment and processes;
+
+for
+
+control
+
+per
+
+Page 2
+
+2) security of critical information infrastructure the state of protection of critical information infrastructure,
+ensuring its stable functioning when carrying out in
+regarding her computer attacks;
+3) a significant object of critical information infrastructure an object of critical information infrastructure, which is assigned
+one of the categories of significance and which is included in the register of significant objects
+critical information infrastructure;
+4) computer attack - the purposeful impact of software and
+(or)
+hardware and software
+funds
+on the objects
+information infrastructure, telecommunication networks used for
+organizing the interaction of such objects, in order to violate and (or)
+termination of their functioning and (or) creating a threat to security
+information processed by such objects;
+
+critical
+
+5) computer incident - the fact of violation and (or) termination
+functioning of the object of critical information infrastructure,
+telecommunication network used to organize the interaction of such
+objects, and (or) security breaches processed by such an object
+information, including that occurred as a result of a computer attack;
+6) critical information infrastructure - objects of critical
+information infrastructure, as well as telecommunication networks used
+to organize the interaction of such objects;
+7)
+objects
+critical
+information
+infrastructure
+information systems, information and telecommunication networks,
+automated
+systems
+management
+subjects
+critical
+information infrastructure;
+eight) subjects
+
+critical
+information
+infrastructure
+state
+organs,
+state
+institutions,
+Russian
+legal entities and (or) individual entrepreneurs who are entitled to
+property, lease or otherwise legally owned
+information systems, information and telecommunication networks,
+automated control systems operating in the field
+healthcare, science, transport, communications, energy, banking and
+other areas of the financial market, the fuel and energy complex, in
+
+-
+
+-
+
+Page 3
+
+nuclear energy, defense, rocket and space, mining,
+metallurgical and chemical industry, Russian legal
+persons and (or) individual entrepreneurs who provide
+interaction of these systems or networks.
+
+Article 3. Legal regulation of relations in the field
+securing
+security
+information infrastructure
+
+critical
+
+1. Relationship in the field of safety critical
+information infrastructures are regulated in accordance with the Constitution
+Russian
+Federation,
+generally accepted
+principles
+and norms
+international
+rights,
+real
+The federal
+by law,
+others
+federal laws and other
+regulatory legal acts.
+2. Features of the application of this Federal Law to networks
+public communications are determined by the Federal Law of July 7, 2003
+year No. 126-FZ "On Communication" and adopted in accordance with it regulatory
+legal acts of the Russian Federation.
+
+Article
+
+four. Principles
+securing
+critical information infrastructure
+
+security
+
+The principles of ensuring the security of critical information
+infrastructures are:
+1) legality;
+2) the continuity and complexity of ensuring the safety of critical
+information infrastructure, achieved including through
+interaction of authorized federal executive bodies
+and subjects of critical information infrastructure;
+3) the priority of preventing computer attacks.
+
+Page 4
+
+Article
+
+five. State
+system
+detection,
+prevention and elimination of consequences
+computer attacks on information resources
+Russian Federation
+
+1. State system of detection, prevention and elimination
+the consequences of computer attacks on the information resources of the Russian
+Federation is a single geographically distributed
+complex, including forces and means intended for detection,
+prevention and elimination of the consequences of computer attacks and response
+on computer incidents. For the purposes of this article, under the information
+the resources of the Russian Federation are understood as information systems,
+information and telecommunication networks and automated systems
+departments located on the territory of the Russian Federation, in
+diplomatic missions and (or) consular posts
+Russian Federation.
+2. To the forces designed to detect, warn and
+eliminating the consequences of computer attacks and responding to computer
+incidents include:
+one) subdivisions
+and federal officials
+executive
+authorities, authorized
+in
+areas
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Russian Federation;
+
+securing
+
+2) an organization created by a federal executive body
+authorities, authorized
+in areas
+ensuring the functioning
+state system of detection, prevention and elimination
+the consequences of computer attacks on the information resources of the Russian
+Federation, to ensure coordination of the activities of the subjects of critical
+information infrastructure for detection, warning
+and elimination of the consequences of computer attacks and response to
+computer incidents (hereinafter - the national focal point for
+computer incidents);
+
+Page 5
+
+3) units and officials of subjects of critical
+information infrastructure that take part in the discovery,
+prevention and elimination of the consequences of computer attacks and
+responding to computer incidents.
+3. Means designed to detect, prevent and
+eliminating the consequences of computer attacks and responding to computer
+incidents are technical, software, hardware and software and
+other means for detection (including for searching for signs
+computer attacks in telecommunication networks used to organize
+interaction of objects of critical information infrastructure),
+prevention, elimination of the consequences of computer attacks and (or) exchange
+information,
+necessary
+subjects
+critical
+information
+infrastructure upon detection, prevention and (or) elimination
+the consequences of computer attacks, as well as cryptographic protection
+such information.
+4. National Coordination Center for Computer Incidents
+carries out its activities in accordance with the regulations approved by
+federal executive body authorized in the area
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation.
+5. In the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Of the Russian Federation, collection, accumulation, systematization and
+analysis of information that enters this system through the means,
+designed to detect, prevent and eliminate consequences
+computer attacks, information provided by the subjects
+critical information infrastructure and federal agency
+the executive branch authorized in the field of security
+critical information infrastructure of the Russian Federation, in
+in accordance with the list of information and in the order determined
+federal executive body authorized in the area
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation, as well as information that
+
+Page 6
+
+may be perceived by other non-subjects of critical
+information infrastructure by bodies and organizations, including
+foreign and international.
+6. Federal executive body authorized in the field
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation, organizes in the established
+them the procedure for the exchange of information on computer incidents between the subjects
+critical information infrastructure, as well as between actors
+critical information infrastructure and authorized bodies
+foreign
+states
+international,
+international
+non-governmental organizations and foreign organizations,
+carrying out activities in the field of response to computer
+incidents.
+7.
+Providing
+of
+state
+systems
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation of information constituting
+state or other secrets protected by law, carried out in
+in accordance with the legislation of the Russian Federation.
+
+detection,
+
+Article 6. Powers of the President of the Russian Federation and
+state authorities of the Russian
+Federation in the field of security
+critical information infrastructure
+
+1. The President of the Russian Federation determines:
+1) the main directions of state policy in the field
+ensuring the security of critical information infrastructure;
+2) the federal executive body authorized in the area
+ensuring the security of critical information infrastructure
+Russian Federation;
+3) the federal executive body authorized in the area
+ensuring the functioning of the state detection system,
+
+Page 7
+
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation;
+4) the procedure for the creation and tasks of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation.
+2. The Government of the Russian Federation establishes:
+one) indicators
+criteria
+significance
+objects
+critical
+information infrastructure and their meaning, as well as the procedure and timing
+the implementation of their categorization;
+2) the procedure for exercising state control in the area
+ensuring the security of significant objects of critical information
+infrastructure;
+3) the procedure for preparing and using the resources of a single network
+telecommunications of the Russian Federation to ensure the functioning
+significant objects of critical information infrastructure.
+3. The federal executive body authorized in the area
+ensuring the security of critical information infrastructure
+Russian Federation:
+1) makes proposals for improving the regulatory
+regulation
+in
+areas
+securing
+security
+information infrastructure to the President of the Russian Federation and (or) in
+Government of the Russian Federation;
+
+critical
+
+2) approves the procedure for maintaining the register of significant objects of critical
+information infrastructure and maintains this register;
+3) approves the form for sending information on the results of assignment
+an object of critical information infrastructure of one of the categories
+significance or the absence of the need to assign it one of these
+categories;
+4) establishes requirements for ensuring the safety of significant
+objects of critical information infrastructure (requirements for
+ensuring the security of information and telecommunication networks,
+which are assigned one of the categories of significance and which are included in the register
+significant
+objects
+critical
+information
+infrastructure,
+
+Page 8
+
+are established in agreement with the federal executive body
+authorities performing functions for the development and implementation of state
+communications policy and regulation), and
+requirements for the creation of security systems for such facilities and their provision
+functioning (in the banking sector and in other areas of the financial market
+establishes the specified requirements in agreement with the Central Bank
+Russian Federation);
+5) carries out state control in the field of ensuring
+security
+significant
+objects
+critical
+information
+infrastructure, and also approves the form of the inspection report drawn up according to
+the results of this control.
+4. Federal executive body authorized in the field
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation:
+1) makes proposals for improving the regulatory
+regulation
+in
+areas
+securing
+security
+information infrastructure to the President of the Russian Federation and (or) in
+Government of the Russian Federation;
+
+critical
+
+2) creates a national coordination center for computer
+incidents and approves the regulations on it;
+3) coordinates the activities of subjects of critical information
+infrastructure for detection, prevention and elimination
+consequences of computer attacks and response to computer incidents;
+four) organizes
+information infrastructure;
+
+and conducts
+
+safety assessment of critical
+
+5) determines the list of information submitted to the state
+the system detection,
+warnings
+and liquidation
+computer attacks on information resources of the Russian Federation, and
+the order of its presentation;
+
+consequences
+
+6)
+approves
+order
+informing
+federal
+executive
+authorities, authorized
+in
+areas
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+
+organ
+securing
+
+Page 9
+
+Russian Federation, about computer incidents, response to them,
+taking measures to eliminate the consequences of computer attacks carried out in
+relation to significant objects of critical information infrastructure
+(in the banking sector and in other areas of the financial market, the specified
+procedure as agreed with the Central Bank of the Russian Federation);
+7) approves the procedure for the exchange of information on computer incidents
+between subjects of critical information infrastructure, between
+subjects of critical information infrastructure and authorized
+bodies of foreign states, international, international
+non-governmental organizations and foreign organizations,
+carrying out activities in the field of response to computer
+incidents,
+but also
+order
+receiving
+subjects
+critical
+information infrastructure of information about the means and methods
+carrying out computer attacks and methods of their prevention and detection;
+eight) organizes
+installation
+at significant sites of critical
+information infrastructure and telecommunication networks used for
+organization
+interactions
+objects
+critical
+information
+infrastructure, means for detection, warning
+and elimination of the consequences of computer attacks and response to
+computer incidents;
+9) establishes requirements for funds intended for
+detection, prevention and elimination of the consequences of computer attacks and
+responding to computer incidents;
+10) approves the procedure, technical conditions for installation and operation
+means designed to detect, prevent and eliminate
+consequences of computer attacks and response to computer incidents,
+with the exception of funds designed to search for signs of computer
+attacks in telecommunication networks used to organize interaction
+objects of critical information infrastructure (in the banking sector and
+in other areas of the financial market approves the specified procedure and
+technical conditions as agreed with the Central Bank of the Russian
+Federation).
+5. Federal executive body performing functions
+for the development and implementation of public policy and regulatory
+regulation in the field of communications, approves in agreement with the federal
+
+Page 10
+
+an executive body authorized in the field of ensuring
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Of the Russian Federation, the procedure, technical conditions for the installation and
+operation of tools designed to search for signs of computer
+attacks in telecommunication networks used to organize interaction
+objects of critical information infrastructure.
+
+Article
+
+7.
+Categorization
+information infrastructure
+
+objects
+
+critical
+
+one. Categorization
+object
+critical
+information
+infrastructure is the establishment of the conformity of the object
+critical information infrastructure criteria of relevance and
+indicators of their values, assigning it one of the categories of significance,
+verification of information about the results of its assignment.
+2. Categorization is carried out on the basis of:
+1) social significance, expressed in the assessment of possible damage,
+caused to the life or health of people, the possibility of termination or
+disruption of the functioning of life support facilities
+population, transport infrastructure, communication networks, as well as maximum
+time of lack of access to public services for recipients of such
+services;
+2) political significance, expressed in the assessment of the possible
+causing damage to the interests of the Russian Federation in matters of internal and
+foreign policy;
+3) economic significance, expressed in the assessment of the possible
+causing direct and indirect damage to the subjects of critical
+information infrastructure and (or) budgets of the Russian Federation;
+4) environmental significance, expressed in assessing the level of impact
+on the environment;
+5) the importance of the object of critical information infrastructure for
+ensuring the country's defense, state security and law and order.
+
+Page 11
+
+3. Three categories of importance of objects of critical
+information infrastructure - the first, second and third.
+four. Subjects
+critical
+information
+infrastructure
+in accordance with the criteria of significance and indicators of their values, as well as
+the order of the categorization is assigned to one of the categories
+the significance of their property, lease or otherwise
+legally to objects of critical information infrastructure.
+If the object of the critical information infrastructure does not correspond
+significance criteria, indicators of these criteria and their values, he does not
+none of these categories is assigned.
+five. Intelligence aboutresults
+appropriation
+object
+critical
+information infrastructure of one of the categories of significance, or about
+the absence of the need to assign it one of these categories of subjects
+critical information infrastructure in writing in
+ten days from the date of their respective decision
+sent to the federal executive body authorized in
+areas
+securing
+security
+critical
+information
+infrastructure of the Russian Federation, in the form approved by it.
+6. Federal executive body authorized in the field
+ensuring the security of critical information infrastructure
+Of the Russian Federation, within thirty days from the date of receipt of information,
+specified in part 5 of this article, checks the observance of the order
+the implementation of the categorization and the correctness of the assignment to the object
+critical information infrastructure of one of the categories of importance
+or not assigning any of these categories to it.
+7.
+IN case,
+if a
+subject
+critical
+information
+infrastructure, the procedure for categorizing and
+owned by him on the basis of ownership, lease or other legal
+the basis of the object of critical information infrastructure correctly
+assigned one of the categories of significance, the federal executive body
+authorities authorized in the field of safety of critical
+information infrastructure of the Russian Federation, introduces information about
+such an object of critical information infrastructure in the register
+significant objects of critical information infrastructure, about which
+
+Page 12
+
+a ten-day period is notified to the subject of critical information
+infrastructure.
+8. In the event that the federal executive body,
+authorized
+in areas
+securing
+security
+critical
+information infrastructure of the Russian Federation, violations were identified
+the procedure for categorizing and (or) the object of critical
+proprietary information infrastructure,
+lease or other legal basis to the subject of critical information
+infrastructure, one of the categories of importance is incorrectly assigned and (or)
+not unreasonably assigned any of these categories and (or) the subject
+critical information infrastructure presented incomplete and (or)
+inaccurate information about the results of assigning such an object a critical
+information infrastructure of one of the categories of significance, or about
+no need to assign it one of these categories,
+federal executive body authorized in the field
+ensuring the security of critical information infrastructure
+Of the Russian Federation, within ten days from the date of receipt
+the submitted information returns them in writing to the subject
+critical
+information
+infrastructure
+from motivated
+justification of the reasons for the return.
+9. The subject of critical information infrastructure after
+obtaining a reasoned justification for the return of the information specified
+in part 5 of this article, not more than within ten days eliminates
+noted deficiencies and re-sends such information to the federal
+executive body authorized in the field of security
+security of the critical information infrastructure of the Russian
+Federation.
+10. Information about the absence of the need for assignment to the object
+critical information infrastructure of one of the categories of importance
+after their verification, they are sent by the federal executive body,
+authorized
+in areas
+securing
+security
+critical
+information infrastructure of the Russian Federation, to the state
+the system detection,
+warnings
+and liquidation
+consequences
+computer attacks on information resources of the Russian Federation, about which
+
+in
+
+Page 13
+
+within ten days, the subject of the critical information
+infrastructure.
+11. If the subject fails to provide critical information
+infrastructure of the information specified in part 5 of this article, federal
+executive body authorized in the field of security
+security of the critical information infrastructure of the Russian
+Federation, sends to the address of the specified subject a request for
+the need to comply with the provisions of this article.
+12. The category of significance to which the significant object is assigned
+critical information infrastructure, can be changed in
+the order provided for categorization in the following cases:
+1) by a reasoned decision of the federal executive body
+the authority responsible for the safety of critical
+information infrastructure of the Russian Federation, adopted by
+the results of the audit carried out as part of the implementation of the state
+control in the field of ensuring the safety of significant objects of critical
+information infrastructure;
+2) in the event of a change in a significant object of critical information
+infrastructure, as a result of which such an object ceased to comply
+criteria of significance and indicators of their values, on the basis of which he
+a certain category of significance has been assigned;
+3) in connection with the liquidation, reorganization of the subject of critical
+information
+infrastructure
+and
+(or)
+change
+organizational and legal form, as a result of which were changed or
+the signs of the subject of critical information infrastructure have been lost.
+
+his
+
+Article 8. Register of significant objects of critical
+information infrastructure
+
+1. In order to account for significant objects of critical information
+infrastructure federal executive body authorized in
+areas
+securing
+security
+critical
+information
+infrastructure of the Russian Federation, maintains a register of significant objects
+
+Page 14
+
+critical information infrastructure in the manner prescribed by it. IN
+this register contains the following information:
+1) the name of a significant object of critical information
+infrastructure;
+2) the name of the subject of the critical information infrastructure;
+3) information about the interaction of a significant object of critical
+information infrastructure and telecommunication networks;
+4) information about the person operating a significant object of critical
+information infrastructure;
+5) the category of significance that is assigned to a significant object
+critical information infrastructure;
+6) information about software and software and hardware,
+used by
+on the significant
+object
+critical
+infrastructure;
+
+information
+
+7) measures applied to ensure the safety of a significant object
+critical information infrastructure.
+2. Information from the register of significant objects of critical information
+infrastructures are sent to the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation.
+3. In case of loss of a significant object of critical information
+infrastructure of the category of significance, it is excluded by the federal authority
+the executive branch authorized in the field of security
+critical information infrastructure of the Russian Federation, from
+register of significant objects of critical information infrastructure.
+
+Article 9. Rights and obligations of subjects of critical
+information infrastructure
+
+1. Subjects of critical information infrastructure have the right:
+1) receive from the federal executive body,
+authorized
+in areas
+securing
+
+security
+
+critical
+
+Page 15
+
+information infrastructure of the Russian Federation, information,
+necessary to ensure the safety of significant objects of critical
+information infrastructure owned by them,
+lease or other legal basis, including security threats
+information processed by such objects and vulnerabilities of software
+supplies, equipment and technologies used at such facilities;
+2) in the manner prescribed by the federal executive body
+authorities, authorized
+in areas
+ensuring the functioning
+state system of detection, prevention and elimination
+the consequences of computer attacks on the information resources of the Russian
+Federation, to receive from the specified body information on the means and methods
+carrying out computer attacks, as well as methods of their prevention and
+detection;
+3) with the consent of the federal executive body,
+authorized in the field of ensuring the functioning of the state
+systems
+detection,
+warnings
+and liquidation
+computer attacks on information resources of the Russian Federation, for
+own account to acquire, rent, install and maintain funds,
+designed to detect, prevent and eliminate consequences
+computer attacks and response to computer incidents;
+4) develop and implement measures to ensure
+security
+meaningful
+object
+infrastructure.
+
+consequences
+
+critical
+
+information
+
+2. Subjects of critical information infrastructure are obliged to:
+1) promptly report computer incidents
+federal executive body authorized in the field
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation, as well as the Central Bank
+Of the Russian Federation (if the subject of critical information
+infrastructure carries out activities in the banking sector and in other
+spheres of the financial market) in the established by the specified federal body
+the executive branch of the order (in the banking sector and in other areas
+financial market, the specified procedure is established in agreement with
+The Central Bank of the Russian Federation);
+
+Page 16
+
+2) provide assistance to officials of the federal body
+executive
+authorities, authorized
+in
+areas
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Of the Russian Federation, in detection, prevention and elimination
+the consequences of computer attacks, establishing the causes and conditions
+occurrence of computer incidents;
+
+securing
+
+3) in the case of installation of critical information
+infrastructure of means for detection, warning and
+eliminating the consequences of computer attacks and responding to computer
+incidents, ensure compliance with the order, technical conditions of the installation
+and the operation of such funds, their safety.
+3. Subjects of critical information infrastructure who are
+the right of ownership, lease or other legal basis belongs to
+significant objects of critical information infrastructure, along with
+fulfillment of the duties provided for by part 2 of this article,
+are also required:
+1) comply with the requirements for ensuring the safety of significant
+critical information infrastructure facilities installed
+federal executive body authorized in the area
+ensuring the security of critical information infrastructure
+Russian Federation;
+2) comply with the orders of officials of the federal body
+executive authority in charge of security
+critical information infrastructure of the Russian Federation, about
+elimination of violations in terms of compliance with the requirements for ensuring
+security
+meaningful
+object
+critical
+information
+infrastructure issued by these persons in accordance with their
+competence;
+3) respond to computer incidents in the manner approved by
+federal executive body authorized in the area
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation, take measures to
+
+Page 17
+
+elimination of the consequences of computer attacks carried out against
+significant objects of critical information infrastructure;
+4) provide unhindered access to officials
+federal executive body authorized in the field
+ensuring the security of critical information infrastructure
+Of the Russian Federation, to significant objects of critical information
+infrastructure in the exercise by these persons of the powers provided for
+Article 13 of this Federal Law.
+
+Article 10. Security system of a significant object
+critical information infrastructure
+
+1. In order to ensure the safety of a significant object of critical
+information infrastructure subject of critical information
+infrastructure in accordance with the requirements for the creation of systems
+safety of such facilities and ensuring their functioning,
+approved
+federal agency
+executive
+authorized
+in areas
+securing
+security
+information infrastructure of the Russian Federation, creates a system
+safety of such an object and ensures its functioning.
+
+authorities,
+critical
+
+2. The main tasks of the security system of a significant object
+critical information infrastructure are:
+one) prevention
+unlawful
+access
+processed
+significant
+object
+critical
+infrastructure, destruction of such information, its modification,
+blocking, copying, provision and distribution, as well as other
+misconduct with respect to such information;
+
+to information,
+information
+
+2) avoidance of influence on technical means of processing
+information, as a result of which may be violated and (or) terminated
+functioning
+meaningful
+object
+critical
+infrastructure;
+
+information
+
+Page 18
+
+3) restoration of the functioning of a significant object of critical
+information infrastructure, provided including through
+creating and storing backup copies of the information necessary for this;
+4) continuous interaction with the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation.
+
+Article 11. Requirements for ensuring safety
+significant
+objects
+information infrastructure
+
+critical
+
+1. Requirements for ensuring the safety of significant objects
+critical information infrastructure established by the federal
+an executive body authorized in the field of ensuring
+security of the critical information infrastructure of the Russian
+Federations, differentiated depending on the category of importance
+objects of critical information infrastructure and these requirements
+provides for:
+1) planning, development, improvement and implementation
+implementation of measures to ensure the safety of significant objects
+critical information infrastructure;
+2) adoption of organizational and technical measures to ensure
+security
+significant
+objects
+critical
+infrastructure;
+
+information
+
+3) setting the parameters and characteristics of software and
+software and hardware tools used to ensure security
+significant objects of critical information infrastructure.
+2. Government bodies and Russian legal entities,
+performing the functions of developing, conducting or implementing
+state policy and (or) legal regulation in
+the established field of activity, in agreement with the federal body
+the executive branch authorized in the field of security
+critical information infrastructure of the Russian Federation, can
+
+Page 19
+
+establish additional security requirements
+significant
+objects
+critical
+information
+infrastructure,
+containing the features of the functioning of such objects in the established
+field of activity.
+
+Article
+
+12.
+Evaluation security
+information infrastructure
+
+critical
+
+1. Assessment of the security of critical information infrastructure
+carried out
+federal
+body
+executive
+authorized in the field of ensuring the functioning of the state
+systems
+detection,
+warnings
+and liquidation
+computer attacks on information resources of the Russian Federation, in
+in order to predict the occurrence of possible security threats
+critical information infrastructure and the development of measures to improve
+stability of its functioning when carrying out in relation to it
+computer attacks.
+2.
+When
+implementation
+information infrastructure is analyzed:
+
+appraisals
+
+security
+
+authorities,
+consequences
+
+critical
+
+1) data obtained when using funds intended for
+detection, prevention and elimination of the consequences of computer attacks and
+response to computer incidents, including information on the availability
+in telecommunication networks used to organize the interaction of objects
+critical information infrastructure, signs of computer attacks;
+2)
+information,
+submitted
+subjects
+information infrastructure and the federal executive body
+authorities authorized to ensure the safety of critical
+information infrastructure of the Russian Federation, in accordance with
+a list of information and in the manner determined by the federal body
+executive
+authorities, authorized
+in
+areas
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Of the Russian Federation, as well as other non-subjects
+
+critical
+
+securing
+
+Page 20
+
+critical information infrastructure by bodies and organizations in
+including foreign and international;
+3) information submitted to the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation following the results of
+state control in the field of ensuring the safety of significant
+objects of critical information infrastructure, about violation
+requirements for ensuring the safety of significant objects of critical
+information
+infrastructure,
+in the result
+whom
+prerequisites for the occurrence of computer incidents;
+
+are being created
+
+4) other information received by the federal executive body
+authorities, authorized
+in areas
+ensuring the functioning
+state system of detection, prevention and elimination
+the consequences of computer attacks on the information resources of the Russian
+Federation, in accordance with the legislation of the Russian Federation.
+3. To implement the provisions provided for in parts 1 and 2 of this
+articles, the federal executive body authorized in the field
+ensuring the functioning of the state detection system,
+prevention and elimination of the consequences of computer attacks on
+information resources of the Russian Federation, organizes installation in networks
+telecommunications used to organize the interaction of objects
+critical information infrastructure, funds intended for
+search for signs of computer attacks in such telecommunication networks.
+4. In order to develop measures to improve safety
+critical
+information
+infrastructure
+federal
+organ
+executive
+authorities, authorized
+in
+areas
+securing
+the functioning of the state system of detection, warning and
+elimination of the consequences of computer attacks on information resources
+Of the Russian Federation, sends to the federal executive body
+authorities authorized in the field of safety of critical
+information
+infrastructure
+Russian
+Federation,
+results
+implementation
+appraisals security
+critical
+information
+infrastructure.
+
+Page 21
+
+Article
+
+13.
+State
+control
+ensuring the safety of significant objects
+critical information infrastructure
+
+in
+
+areas
+
+1. State control in the field of security
+significant objects of critical information infrastructure is carried out
+in order to verify compliance by subjects with critical information
+infrastructure that is owned, leased or otherwise legally
+the basis belongs to significant objects of critical information
+infrastructure, requirements established by this Federal Law
+and the regulatory legal acts adopted in accordance with it.
+The specified state control is carried out by exercising
+federal executive body authorized in the area
+ensuring the security of critical information infrastructure
+Russian Federation, scheduled or unscheduled inspections.
+2. The basis for the implementation of a scheduled inspection is the expiration
+three years from the date:
+1) entering information about the object of critical information
+infrastructure in the register of significant objects of critical information
+infrastructure;
+2) the end of the implementation of the last scheduled inspection in relation to
+significant object of critical information infrastructure.
+3. The basis for an unscheduled inspection is:
+1) the expiration of the term for the subject of critical information
+infrastructure issued by the federal executive body,
+authorized
+in areas
+securing
+security
+information infrastructure of the Russian Federation, instructions on
+elimination of the identified violation of safety requirements
+significant objects of critical information infrastructure;
+2) the occurrence of a computer incident that resulted in negative
+effects,
+on the significant
+object
+critical
+infrastructure;
+
+critical
+
+information
+
+Page 22
+
+3)
+order
+(order)
+the head
+federal
+organ
+executive authority in charge of security
+critical information infrastructure of the Russian Federation,
+issued in accordance with the instruction of the President of the Russian Federation or
+Of the Government of the Russian Federation or on the basis of the request of the prosecutor
+on the implementation of an unscheduled inspection as part of the supervision of
+execution of laws on materials received by the prosecutor's office and
+requests.
+4. Based on the results of a planned or unscheduled inspection by a federal body
+the executive branch authorized in the field of security
+critical information infrastructure of the Russian Federation,
+an inspection report is drawn up in accordance with the form approved by the specified body.
+5. On the basis of the inspection report in case of violation of the requirements
+of this Federal Law and regulatory
+legal acts to ensure the safety of significant objects of critical
+information infrastructure federal executive body,
+authorized
+in areas
+securing
+security
+critical
+information infrastructure of the Russian Federation, issues to the subject
+critical information infrastructure order to eliminate
+identified violation with an indication of the time frame for its elimination.
+
+Article 14. Liability for violation of requirements
+of this Federal Law and adopted in
+compliance with other regulatory legal
+acts
+
+Violation of the requirements of this Federal Law and those adopted in
+in accordance with it, other regulatory legal acts entails
+responsibility in accordance with the legislation of the Russian Federation.
+
+Article 15. Entry into force of this Federal
+the law
+
+Page 23
+
+This Federal Law shall enter into force on January 1, 2018.
+
+President of Russian Federation
+
+Moscow Kremlin
+July 26, 2017
+No. 187-FZ
+
+V. Putin
+
+

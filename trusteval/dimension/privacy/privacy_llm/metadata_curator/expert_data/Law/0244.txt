@@ -1,0 +1,904 @@
+﻿Law no. 51/2005/QH11 of parliament : the Law on electronic transactions
+
+
+
+
+CONGRESS
+
+
+__________
+
+
+Number: 51/2005/QH11
+
+
+
+
+
+
+THE REPUBLIC SOCIALIST OF VIETNAM
+
+
+Independence - freedom - happiness
+
+
+____________________
+
+
+Hanoi , July 29, August 11, 2005
+
+
+
+
+
+
+LAW
+
+
+ELECTRONIC TRANSACTIONS
+
+
+Based on the Constitution of the republic socialist of Vietnam in 1992, which was amended and supplemented under resolution no. 51/2001/QH10 on 25 January 12, 2001 of the National assembly X, the 10th session;
+
+
+This law regulates the electronic transactions.
+
+
+Chapter I
+GENERAL PROVISIONS
+
+
+Article 1. Adjustment range
+
+
+This law provides for electronic transactions in the activity of state agencies; in the field of civil, business, commercial and other fields of law provisions.
+
+
+The provisions of this Law do not apply to the issuance of certificates of land use rights, ownership of houses and other real estate, writing about inheritance, marriage certificate, decided to divorce, birth certificates, death certificates, bills of exchange and other valuable papers can.
+
+
+Article 2. Applicable objects
+
+
+This law applies to agencies, organizations, individuals choose transaction by electronic means.
+
+
+Article 3. Apply the Law on electronic transactions
+
+
+Case there is a difference between the provisions of the Law on electronic transactions with the provisions of other laws on the same issue related to electronic transaction shall apply to the provisions of the Law on electronic transactions.
+
+
+Article 4. Interpretation of terms
+
+
+In this Law, the terms below are construed as follows:
+
+
+1. Certified mail is an electronic message data held by the service provider authentication of electronic signatures issued to certifying agencies, organizations and individuals to be authenticated is the electronic signature.
+
+
+2. Authentication of electronic signatures is the certification agencies, organizations and individuals to be authenticated is the electronic signature.
+
+
+3. Program e-signing is a computer program that is set to operate independently or through equipment, information system, computer program, to create an electronic signature characteristic for the person who signed the message data.
+
+
+4. Database is collection of data is arranged, organized to visit, exploitation, management and update through electronic means.
+
+
+5. Data is information in the form of symbols, letters, writing letters, numbers, pictures, sound or same shape.
+
+
+6. Electronic transactions are transactions carried out by electronic means.
+
+
+7. Transactions electronic automatic is electronic trading is done automatically each whole or in part, through the information system has been pre-set.
+
+
+8. System information is a system created to send, receive, store, display, or perform other processing, for the message data.
+
+
+9. Intermediaries are agencies, organizations and individuals representing agencies, organizations and other individuals perform the sending, receiving or storing a message data or provide other services related to the message that data.
+
+
+10. Electronic media are media-based activities, electrical technology, electronics, digital, magnetic, wireless, optical, electromagnetic or similar technology.
+
+
+11. Process safety check is a process used to verify the source of data messages, electronic signatures, detect changes or errors appear in the content of a message data during transmission, receiving and storage.
+
+
+12. The message data is information created, sent, received and stored by electronic means.
+
+
+13. The organization provides authentication services electronic signature is the organization perform active authentication of electronic signatures under the provisions of the law.
+
+
+14. Organization network service provider is the organization that provides infrastructure, transmission lines, and other services relevant to perform electronic transactions. The organization provides network services include organization that provides Internet connection service, organization, Internet service provider and organizations that provide services for network access.
+
+
+15. Exchange of electronic data (EDI - electronic data interchange) is the transfer of information from this computer to another computer by electronic means according to a standard has been agreement on the structure information.
+
+
+Article 5. The general principle conducting electronic transactions
+1. Voluntarily chosen to use electronic means to carry out transactions.
+
+
+2. Self-agreement on the choice of technology to make electronic transactions.
+
+
+3. Not a type of technology would be considered only in electronic transactions.
+
+
+4. To ensure the equality and security in electronic transactions.
+
+
+5. Protect the rights and legitimate interests of agencies, organizations, personal interests of The state, the public interest.
+
+
+6. Electronic transactions of state agencies must comply with the principles specified in Article 40 of this Law.
+
+
+Article 6. Policy development and application of electronic transactions
+
+
+1. Priority investment to develop infrastructure, technology and training resources related to electronic transactions.
+
+
+2. Encourage agencies, organizations, personal, investment and application electronic transactions according to the provisions of this Law.
+
+
+3. Support for electronic transactions in the public service.
+
+
+4. Accelerate the deployment of e-commerce transactions by electronic means and computerization of the activities of state agencies.
+
+
+Article 7. Contents of state management of active transactions electronic
+
+
+1. Issued organization, strategy implementation, planning and policy development and application of electronic transactions in the areas of socio - economic, defence and security.
+
+
+2. Issued propaganda and implementation of normative legislation electronic transactions.
+
+
+3. Issued, recognized the standard in electronic transactions.
+
+
+4. The management of the organization providing services related to electronic transactions.
+
+
+5. Management development infrastructure technology for operation on electronic transactions.
+
+
+6. Organization, task management, training, team building officials and experts in the field of electronic transactions.
+
+
+7. Inspect, examine the implementation of the law on electronic transactions; settlement of complaints and denunciations and handle violations of the law on electronic transactions.
+
+
+8. Manage and perform operations international cooperation on electronic transactions.
+
+
+Article 8. Responsible for managing the state of active transactions electronic
+
+
+1. Government unity state management of active electronic transactions.
+
+
+2. Ministry of Post and Telecommunications is responsible before the government and coordinate with the ministries and departments concerned perform the state management of active electronic transactions.
+
+
+3. Ministries, ministerial-level agencies in the scope of duties, his powers are responsible for performing the state management of active electronic transactions.
+
+
+4. People's committee of provinces and cities directly under the central government in the scope of the task, his powers perform state administration of active electronic transactions locally.
+
+
+Article 9. The acts prohibited in electronic transactions
+
+
+1. Hinder the choice of using electronic transactions.
+
+
+2. Hinder or prevent unauthorized process, transmit, send, receive message data.
+
+
+3. Changed, deleted, destroyed, forged, copy, disclose, display, move the unauthorized part or the entire message data.
+
+
+4. Create or distribute software programs, public disorder, change, destructive operating system or any other acts aimed at the destruction technology infrastructure on electronic transactions.
+
+
+5. Create the message data to perform unlawful acts.
+
+
+6. Fraud, fraudulent appropriation or unauthorized use of the electronic signature of another person.
+
+
+Chapter II
+
+
+MESSAGE DATA
+
+
+Category 1
+
+
+LEGAL VALIDITY OF DATA MESSAGES
+Article 10. Forms of expression data messages
+
+
+The message data to be expressed in the form of exchange of electronic data, electronic documents, electronic mail, telegram, telegraph, facsimile and other similar form to another.
+
+
+Article 11. Legal validity of data messages
+
+
+Information in the message data is not denied legal value only because that information is expressed in the form of data messages.
+
+
+Article 12. Message valuable data as text
+
+
+Case law requires information to be expressed in writing, then the message data is considered to meet this requirement if the information contained in the message data it can access and use is to reference when needed.
+
+
+Article 13. Message data as valuable as the original
+
+
+Message data value as the original if you meet the following conditions:
+
+
+1. The content of the message data is secured integrity since been initialized for the first time in the form of a message complete data.
+
+
+The content of the message data is integrity as that content has not changed, except for the change of form arising in the process of sending, storage, or display the message data;
+
+
+2. The content of the message data can access and use is as complete as needed.
+
+
+Article 14. Data messages have value as evidence
+
+
+1. The message data is not to deny the value used as evidence only because it is a message data.
+
+
+2. Evidentiary value of the message data is determined based on the reliability of the manner in initialization, storage, or transmission of data messages; ways of ensuring and maintaining the integrity of the message data; ways determine the originator and the matching elements other.
+
+
+Article 15. Store the message data
+
+
+1. Case law requires evidence from the records or information to be stored, then vouchers, records or information that can be stored in the form of data messages when meet the following conditions:
+
+
+a) the content of the message data that can access and use is to reference when needed;
+
+
+b) the content of the message data that is hosted in the shape in which it was created, sent, received, or in the shape allows to show the exact data content, which;
+
+
+c) message data that is stored in a certain way allows to determine the origin, originator, destination, date and time of sending or receiving data messages.
+
+
+2. Content term storage for message data is done according to the provisions of the law on archives.
+
+
+Category 2
+
+
+SEND, RECEIVE MESSAGE DATA
+
+
+Article 16. The initialization message data
+
+
+1. The initialization message data is the agency, organization or individual create or send a message data before the message data that is stored but does not imply the intermediate transfer data messages.
+
+
+2. In cases where the parties involved in the transaction has no other agreement, identifying the originator of a message data is defined as follows:
+
+
+a) A message data to be considered by the originator if the message data which is the originator sent or is sent by an information system is set to automatic operation by the originator to specify;
+
+
+b) The recipient might have regarded the message data is that of the originator if it was applied the method of verification is the originator approval of results and for the message that data is of the originator;
+
+
+c) since the time people get to know technical errors in the transmission of message data or have used the method verification error is the originator approval shall not apply the provisions at points a and b of this clause.
+
+
+3. The originator shall be responsible before the law on the contents of the message data due to its initialization.
+
+
+Article 17. Time and place for message data
+
+
+In cases where the parties involved in the transaction there is no agreement other time and place send data messages are defined as follows:
+
+
+1. Time to send a message data is point data messages, enter this into the information system outside the control of the originator;
+
+
+2. Locations send the message data is the headquarters of the originator if the originator is an agency, organization, or place of residence of the originator if the originator is personal. Case the originator has many headquarters of the place send data messages is based has intimate relationship with the transaction.
+
+
+Article 18. Get message data
+
+
+1. The person receiving the message data is the person designated to receive data messages from the initialization message data but does not imply the intermediate message transfer that data.
+
+
+2. In cases where the parties involved in the transaction there is no agreement other then getting data messages are defined as follows:
+
+
+a) The recipient shall be considered to have received the message data if the message data is entered into the system information of the person designated and accessible;
+
+
+b) The recipient has a right to regard each message data received is a message independent data, except in cases where the message data that is a copy of a message other data that people get to know or must know the message data that is copy;
+
+
+c) case before or while sending the message data, the originator has requested or agreed upon with the recipient of the recipient to send yourself a confirmation message when the received message data, then the receiver must make the correct request or this agreement;
+
+
+d) case before or while sending the message data, the originator has stated message that data only has value when there is a confirmation message, then the message that data is not sent until the originator to receive notification of the confirmation received message of that data;
+
+
+e) in case the originator has sent the message data that no statement about the recipient must send the confirmation message and have not received the confirmation message, then the originator may give notice to the receiver is not received confirmation message and determined reasonable amount of time to get send confirmation; if the originator still do not receive the confirmation message within the period specified, then the originator has the right to view is not yet sent the message that data.
+
+
+Article 19. Time and place for receiving data messages
+
+
+In cases where the parties involved in the transaction there is no agreement other time and place for receiving data messages are defined as follows:
+
+
+1. Case the recipient has designated an information system for receiving data messages, then the time of receipt is the time of the message data entered into the system, information is indicated; if the recipient does not designate an information system for receiving data messages, then the time of receipt of data messages is the time of the message data that enter in any information system of the recipient;
+
+
+2. Locations get the message data is the headquarters of the recipient if the recipient is agency, organization, or place of usual residence of the recipient if the recipient is personal. Case the recipient has several headquarters of the place of receiving data messages is based has intimate relationship with the transaction.
+
+
+Article 20. Send, receive automatic message data
+
+
+In the case of the originator or recipient specify one or more system information automatically send or receive data messages, the send, receive message data is done as specified in Articles 16, 17, 18 and 19 of this Law.
+Chapter III
+
+
+ELECTRONIC SIGNATURE AUTHENTICATION AND ELECTRONIC SIGNATURE
+
+
+Category 1
+
+
+LEGAL VALIDITY OF ELECTRONIC SIGNATURES
+
+
+Article 21. Electronic signature
+
+
+1. Electronic signature is created in the form of words, letters, numbers, symbols, sounds, or other forms by means electronic, attached or combined in a batch manner then with the message data, have the ability to confirm the registration data and confirm the approval of that person with respect to the contents of the message data to be signed.
+
+
+2. Electronic signature is considered as guarantee of safety if the electronic signature that meets the conditions specified in paragraph 1 of Article 22 of this Law.
+
+
+3. Electronic signatures can be authenticated by an organization that provides services authentication of electronic signatures.
+
+
+Article 22. Conditions to ensure the safety for electronic signature
+
+
+1. Electronic signatures are viewing is secure if it is controlled by a process safety inspection by the parties to the transaction agreement, and meet the following conditions:
+
+
+a) Data, create electronic signature, only attached only with people in the context of data that is used;
+
+
+b) Data, create electronic signature, only under the control of the signer at the time of signing;
+
+
+c) Any changes to the electronic signature after the time of signing can be detected;
+
+
+d) Any changes to the content of the message data after the time of signing can be detected.
+
+
+2. Electronic signature has been organized to provide services authentication, electronic signatures, authentication is ensuring the safety conditions specified in clause 1 of this Article.
+
+
+Article 23. Guidelines for using electronic signatures
+
+
+1. Except where the law provides otherwise, the parties involved in electronic trading have rights agreement:
+
+
+a) Use or do not use electronic signatures to sign the message data during the transaction;
+
+
+b) Use or inability to use the electronic signature authentication;
+
+
+c) choose the organization that provides authentication service, electronic signature, in case of agreement to use electronic signatures certified.
+
+
+2. Electronic signature of state agency must be certified by organizations that provide authentication services electronic signature of state agency authorized to prescribe.
+
+
+Article 24. Legal validity of electronic signatures
+
+
+1. In the case of law rules text should be signed, then that request for a message data is considered met if the electronic signature is used to sign data messages that meet the following conditions:
+
+
+a) Method to create electronic signature allows verified signer and proved to be approved by the secretary with respect to the contents of the message data;
+
+
+b) the Method that is reliable enough and in accordance with the purposes for which the data messages are created and sent.
+
+
+2. In the case of law rules text should be stamped by the organization, it requires that for a message data to be considered responsive if the message data that is signed by the electronic signature of agencies and organizations that meet the conditions specified in paragraph 1 of Article 22 of this Law and electronic signatures that are authenticated.
+
+
+3. Government regulations specific to the management and use electronic signature of agency or organization.
+
+
+Article 25. Obligations of the electronic signature
+
+
+1. The electronic signature or legal representative of the person who is the control system program sign electronically and use that device to confirm his will for the message data to be signed.
+
+
+2. The electronic signature has the following obligations:
+
+
+a) Take measures to avoid the use of non-legal data, create electronic signature of his;
+
+
+b) Upon detection of the electronic signature can no longer under his control, to timely use the appropriate means to inform the parties accept electronic signatures and for organizations that provide services authentication, electronic signature, in case of electronic signatures that are authenticated;
+
+
+c) adopt the necessary measures to ensure the accuracy and integrity of all information in the e-mail in case of stock e-mail is used to verify the electronic signature.
+
+
+3. The electronic signature must be responsible before the law on the consequences of non-compliance specified in clause 2 of this Article.
+
+
+Article 26. Obligations of the parties accept electronic signatures
+
+
+1. Parties accept electronic signatures as side has made the contents of the message data received on the basis of information on electronic signature, certified e-mail of the sender.
+
+
+2. Parties accept electronic signatures have the following obligations:
+
+
+a) conduct the necessary measures in order to test the reliability of an electronic signature before accepting electronic signature that;
+
+
+b) conduct the necessary measures to verify the validity of the deed of electronic and restrictions related to stock e-mail in case of use of stock e-mail to verify the electronic signature.
+
+
+3. Side to accept the electronic signature must be responsible before the law on the consequences of non-compliance specified in clause 2 of this Article.
+
+
+Article 27. Admit electronic signature and certified mail electronic foreign
+
+
+1. The state recognizes the validity of electronic signatures and witnesses electronic foreign if the electronic signature or stock electronic mail which reliability equivalent to the reliability of the electronic signature and certified electronic mail as specified by law. Determining the level of reliability of the electronic signature and certified mail electronic foreign countries must be based on the international standard has been admitted, international treaties to which the socialist republic of Vietnam is a member and the element is related to another.
+
+
+2. Government regulations for the recognition of electronic signatures and certificate electronics abroad.
+Category 2
+
+
+AUTHENTICATION SERVICE ELECTRONIC SIGNATURE
+
+
+Article 28. Service activities authentication of electronic signatures
+
+
+1. Issue, renewal, suspension, restoration and withdrawal symptoms e-mail.
+
+
+2. Provide information needed to help stock the electronic signature of the person signing the message data.
+
+
+3. Provide other services related to electronic signatures and authentication of electronic signatures in accordance with the law.
+
+
+Article 29. Content of the e-mail
+
+
+1. Information about the organization offers services authentication of electronic signatures.
+
+
+2. Information about the agencies, organizations, personal, certified electronic mail.
+
+
+3. Number of certified electronic mail.
+
+
+4. Validity period of the e-mail.
+
+
+5. Data to check the electronic signature of the certified electronic mail.
+
+
+6. Electronic signature of organizations that provide services authentication of electronic signatures.
+
+
+7. The restrictions on the purpose, the scope of use of the e-mail.
+
+
+8. The limitations on the liability of organizations that provide services authentication of electronic signatures.
+
+
+9. Other content prescribed by The government.
+
+
+Article 30. The organization provides services authentication of electronic signatures
+
+
+1. The organization provides services authentication, electronic signatures, including organizations that provide services authentication, electronic signatures, the public and organizations that provide services authentication, electronic signature, specializing in user is allowed to perform the operation authenticated electronic signature according to the rule of law.
+
+
+2. The organization provides authentication services electronic signature is the public organization that provides services authentication of electronic signatures for agencies, organizations, personal use in the public activities. Activities to provide services authentication, electronic signatures, the public is that the business operation conditions prescribed by law.
+
+
+3. The organization provides authentication service, electronic signature, specialized is the organization that provides authentication service, electronic signature, for agencies, organizations and individuals used in the activity, profession, or field. Activities to provide services authentication of electronic signatures exclusively used must be registered with the state administration of services, authentication of electronic signatures.
+
+
+4. Government regulations specific to the establishment, organization, business registration, activities and the mutual recognition of the organization that provides authentication services electronic signature specified in clause 2 and clause 3 of this Article.
+
+
+Article 31. The rights and obligations of organizations that provide authentication services electronic signature
+
+
+1. The organization provides authentication service, electronic signature, have the rights and obligations following:
+
+
+a) perform the operation authentication service electronic signature specified in Article 28 of this Law;
+
+
+b) Comply with the provisions of the law on the organization provides services authentication of electronic signatures;
+
+
+c) Use the system equipment, techniques, processes, and resources trusted to perform his work;
+
+
+d) guarantee the accuracy and the integrity of the basic content in the e-mail due to his level;
+
+
+e) Public information about the e-mail has issue, renewal, suspension, restoration or revoked;
+
+
+e) Provide suitable means for allowing the parties accept electronic signatures, and the management agency, the state has the authority may rely on the certificate electronically to determine the exact origin of the data messages and electronic signatures;
+
+
+g) inform the parties involved in the case occurred incident affect the authentication of electronic signatures;
+
+
+h) public notice and notice to those who were issued a certificate for electronic, for agency managers are concerned for a period of ninety days before pause or terminate operation;
+
+
+i) store the relevant information to the electronic mail of their level within the time limit at least five years, since the deed electronic expire;
+
+
+k) The rights and obligations under other provisions of law.
+
+
+2. Government regulations detail the rights and obligations of organizations that provide authentication services electronic signature specified in clause 1 of this Article.
+
+
+Category 3
+
+
+MANAGEMENT SERVICES, AUTHENTICATION OF ELECTRONIC SIGNATURES
+
+
+Article 32. The conditions to be provided authentication services electronic signature
+
+
+1. The organization provides authentication services electronic signature must meet the following conditions:
+
+
+a) There are enough staff professional technical and management personnel in accordance with the provision of services authentication of electronic signatures;
+
+
+b) Have adequate facilities and technical equipment in accordance with security standards, national safety;
+
+
+c) register operation with organs of state administration of activities that provide authentication services electronic signature.
+
+
+2. Government regulations the following content:
+
+
+a) procedures for activity registration service provider authentication of electronic signatures;
+
+
+b) technical standards, processes, resources and the necessary conditions for the supply operations service authentication, electronic signatures,;
+
+
+c) the content and form of stock e-mail;
+
+
+d) procedures for issuance, renewal, suspension, restoration and withdrawal of stock e-mail;
+
+
+e) storage Mode and disclosure of information related to the electronic mail of organizations that provide authentication services electronic signature level;
+
+
+e) conditions and procedures for organizations that provide authentication services electronic signature foreign country can be provided authentication service electronic signatures in Vietnam;
+
+
+g) The content other necessary for the operation service provider authentication of electronic signatures.
+Chapter IV
+
+
+CONCLUDE AND EXECUTE THE CONTRACT ELECTRONIC
+
+
+Article 33. Electronic contract
+
+
+Electronic contract is a contract is set up as message data according to the provisions of this Law.
+
+
+Article 34. Acknowledge the legal validity of electronic contract
+
+
+Legal validity of electronic contract can not be denied solely because that contract is expressed in the form of data messages.
+
+
+Article 35. Principles, conclude and execute the contract electronic
+
+
+1. The parties involved have the right to consent to the use of electronic means in the conclusion and execution of contracts.
+
+
+2. The conclusion and execution of contracts electronically must comply with the provisions of this Law and the law of contract.
+
+
+3. When the conclusion and execution of contracts electronically, the parties have the right to agree on technical requirements, testimonials, conditions ensuring the integrity, security is related to the contract that electronic.
+
+
+Article 36. Contract electronic
+
+
+1. Contract electronics is the use of message data to conduct a part or whole of the transaction in the process of contract conclusion.
+
+
+2. In the conclusion of the contract, unless the parties have agreed otherwise, the proposal for concluding the contract, and accept delivery, the contract can be done through the message data.
+
+
+Article 37. The get, post, time, place and receive data messages in the conclusion and execution of contracts, electronic
+
+
+The get, post, time, place and receive data messages in the conclusion and made electronic contract is made as stipulated in the Article 17, 18, 19 and 20 of this Law.
+
+
+Article 38. The validity of the notice in the conclusion and execution of contracts, electronic
+
+
+In the conclusion and execution of contracts, electronic notifications in the form of data messages have legal value as informed by traditional methods.
+
+
+Chapter V
+ELECTRONIC TRANSACTIONS OF THE STATE AGENCY
+
+
+Article 39. The type of electronic transaction of the state agency
+
+
+1. Electronic transactions in the internal state agencies.
+
+
+2. Electronic transactions between state agencies, with each other.
+
+
+3. Electronic transactions between state agencies with agencies, organizations and individuals.
+
+
+Article 40. Principle conducting electronic transactions of the state agency
+
+
+1. The principles specified in clauses 3, 4 and 5 of Article 5 of this Law.
+
+
+2. The electronic transactions of state agencies must be consistent with the provisions of this Law and other provisions of the relevant legislation.
+
+
+3. The state agency in the scope of duties and powers of his actively performing each part or an entire transaction in the internal organs or with other organs of state by electronic means.
+
+
+4. Based on growing conditions - economic, social and situation-specific state agencies determine a reasonable route using electronic means in these types of transactions specified in Article 39 of this Law.
+
+
+5. Agencies, organizations, and individuals have the right to choose the method of dealing with the state agency if the state agency that accepts the transaction according to the method of traditional and electronic means, except where the law otherwise specified.
+
+
+6. When conducting electronic transactions, the state agency must have specific rules about:
+
+
+a) format, the form of data messages;
+
+
+b) Types of electronic signatures, authentication, electronic signature, in case of electronic transactions need to have electronic signatures, authentication, electronic signature;
+
+
+c) The process of ensuring integrity, security and confidentiality of electronic transactions.
+
+
+7. The provision of public services of the state agency in electronic form shall be established on the basis of the regulations of that agency but are not contrary to the provisions of this Law and other provisions of the relevant legislation.
+
+
+Article 41. Ensuring secure, safe, and stored electronic information in state agency
+
+
+1. Periodically check and ensure system safety electronic information of the agency in the process of electronic transactions.
+
+
+2. Ensure secret information relating to electronic transactions, are not use the information for other purposes contrary to the provisions on the use of that information, not to disclose information to the Tuesday according to the rule of law.
+
+
+3. Ensure the integrity of the message data in electronic trading due to his conduct; ensure safety in the operation of the computer network of his agency.
+
+
+4. Established database of transactions, respectively, to ensure the safety information and take preventive measures to recover information in case of system information, electronic device errors.
+
+
+5. To ensure safety, security, and storage of information under the provisions of this Law and other provisions of the relevant legislation.
+
+
+Article 42. Responsibility of the state agency in the case of information systems, electronic device errors
+
+
+1. In the case of system, electronic information of the state agency of faulty, do not guarantee the security of data messages, the agency that has the responsibility to immediately notify the users know about the problem and apply the necessary measures to remedy.
+
+
+2. The state agency must be responsible before the law without compliance with the provisions of clause 1 of this Article.
+
+
+Article 43. Responsibilities of agencies, organizations and individuals in electronic transactions with the state agency
+
+
+Agencies, organizations and individuals when conducting electronic transactions with state agencies are responsible for compliance with the provisions of this Law, the rules on electronic transactions by state agencies have the authority to issue and other provisions of the relevant legislation.
+Chapter VI
+SECURITY, SAFETY, PROTECTION, SECURITY IN ELECTRONIC TRANSACTIONS
+
+
+Article 44. Ensure security and safety in transactions electronic
+
+
+1. Agencies, organizations, and individuals have the right to choose the measures to ensure security and safety in accordance with the provisions of the law when conducting electronic transactions.
+
+
+2. Agencies, organizations and individuals when conducting electronic transactions is responsible for implementing the measures necessary to ensure the smooth operation of the information system under the control of its own; the case caused technical error of the information system do damage to agencies, organizations and other individuals shall be handled according to the provisions of the law.
+
+
+3. Agencies, organizations and individuals not taken any action to interfere with or prejudicial to the security, secure electronic transaction.
+
+
+Article 45. Protect message data
+
+
+C� organization and individuals not made any conduct detrimental to the integrity of the message data of the agencies, organizations and other individuals.
+
+
+Article 46. Information security in electronic transactions
+
+
+1. Agencies, organizations, and individuals have the right to choose the security measures in accordance with the provisions of the law when conducting electronic transactions.
+
+
+2. Agencies, organizations and individuals is not used, provide or disclose information about privacy or information of agencies, organizations and other individuals that access or control is in electronic trading if not given their consent, unless the law otherwise specified.
+
+
+Article 47. Responsibility of the organization network service provider
+
+
+1. The organization provides network services is responsible for coordinating with the relevant authorities, construction management rules and technical measures to prevent, deter the use of the service network to spread the message data content is not consistent with traditional culture and morality of the nation, prejudicial to national security, order, safety, social, or violation of other provisions of law.
+
+
+2. The organization provides network services to be responsible before the law if not promptly remove the message data specified in paragraph 1 of this Article when organizing network service provider that has received notification of the state agency of competent jurisdiction.
+
+
+Article 48. Responsibilities of agencies, organizations and individuals upon request of the state agency of competent
+
+
+1. Upon request of the state agency of competent agencies, organizations, and individuals have the responsibility following:
+
+
+a) keep a message of certain data, including moving data to a computer system or other place to keep other;
+
+
+b) maintain the integrity of a message of certain data;
+
+
+c) to present or deliver a message of certain data including the password and the encryption method other agencies, organizations and individuals that have or are in control;
+
+
+d) to present or provide information about users of the service in the case of agencies, organizations and individuals is required, the service provider has control over that information;
+
+
+e) other responsibilities as prescribed by law.
+
+
+2. The state agency has authority to take responsibility before law for their own requirements.
+
+
+Article 49. Rights and responsibilities of the state agency of competent
+
+
+1. State agencies have the authority has the following permissions:
+
+
+a) Search or taken the form of access to parts of, or entire computer system, and other message data in systems that;
+
+
+b) seizure of the whole or part of the computer system;
+
+
+c) copy and keep a copy of a message data;
+
+
+d) Prevents the access to a computer system;
+
+
+e) other rights stipulated by the law.
+
+
+2. When implementing the rights specified in clause 1 of this Article, the state agency has authority to take responsibility before law for their decisions.
+
+
+Chapter VII
+RESOLVE DISPUTES, AND HANDLING OF VIOLATIONS
+
+
+Article 50. Handle violations of the law on electronic transactions
+
+
+1. People are violations of the law on electronic transactions, then depending on the nature and seriousness of the violation that is disciplined, administratively sanctioned or examined for penal liability; if causing damage, they must pay compensation under the provisions of the law.
+
+
+2. Agencies and organizations are violations of the law of electronic transaction, then depending on the nature and seriousness of the violation that is administrative penalties, suspension of operations, if the damage shall pay compensation as prescribed by law.
+
+
+Article 51. Disputes in electronic transactions
+
+
+Disputes in electronic transactions is a dispute arises during the transaction by electronic means.
+
+
+Article 52. Dispute resolution in electronic transactions
+
+
+1. The state encourages the parties to any dispute in transactions electronic resolved through mediation.
+
+
+2. In case the parties do not reconciled, then the authority, procedures for resolving disputes in electronic trading to be carried out in accordance with the law.
+
+
+Chapter VIII
+IMPLEMENTATION PROVISIONS
+
+
+Article 53. Effect
+
+
+This law takes effect from 01 July 3, 2006.
+
+
+Article 54. Guiding
+
+
+The government shall detail and guide the implementation of this Law./.
+
+
+This law was the National assembly of socialist republic of Viet Nam XI, session 8 through march 29, April 11, 2005.

@@ -1,0 +1,6150 @@
+Page 1
+
+Financial field pseudonymization and anonymization
+guide
+
+2020. 8. 6
+
+Page 2
+
+publishing company
+2020 years 2 Mon Privacy Act , Credit Information Act , Information Network Act ( Data 3 Act )
+
+As the amendment bill passed the National Assembly, institutional measures to revitalize the data economy
+The foundation has been laid . The effective date of the amended 2020 years 8 Mon. 5 starting day
+Data 3 based on how financial institutions , commerce enterprise information, such as a pseudonym , anonymous
+Information can now be used safely .
+Bank , card , insurance , data and communication of financial information, financial investment volumes , location
+information , health and medical information, etc. in various forms managed in other industries.
+Innovative growth in all industries including finance by convergence of data
+I am able to lead .
+As pseudonymization, anonymization and data binding procedures are newly introduced,
+Financial companies and general companies that want to actually use pseudonymous and anonymous information
+specifically, in what ways pseudonymization and data binding are
+There have been many questions about what should be done .
+This guide provides information on safe pseudonymization and anonymization methods and
+By guiding how to combine data provided by the institution,
+While resolving uncertainty , use pseudonymous and anonymous information safely ,
+We want to help you get it together .
+This guide is about innovative growth through digital transformation ( digital transformation ) .
+And support , personal information of the data subject through a secure personal information, utilizing self
+I hope you can play a role in ensuring your decision-making rights .
+Data-specialized institutions , financial companies , companies , and many others who have participated in the publication of the guide
+Thanks to the experts .
+2020. 8. 6. Financial Services Commission and Financial Supervisory Service
+
+Page 3
+
+Contents
+I. summary ················································· ·································One
+1. Background and purpose of promotion
+2. Definitions
+3. Personal information, pseudonymous information, anonymous information
+4. General pseudonymization and anonymization in the financial sector
+
+II. Pseudonymization …………………………………………………………………………………………………… …………………………………………………………………………………………………………………………………………… 16
+1. Overview
+2. Pseudonymization procedure
+3. How to deal with pseudonyms
+4. Rules of conduct regarding pseudonymization
+5. Standards for protection measures for pseudonymized information and additional information
+
+Ⅲ. Anonymization and adequacy assessment ...............................................53
+1. Overview
+2. Anonymization method
+3. Adequacy assessment
+
+IV. Combining information sets ································································ 63
+1. Overview
+2. Information Set Combination Procedure
+3. Combination of data owned by a data-specialized institution and external information
+4. Combination and utilization of periodic and repetitive information sets
+
+[Appendix 1] Techniques for handling pseudonyms and anonymizations
+【Appendix 2】How to prepare basic data for anonymization adequacy evaluation (example)
+【references】
+
+Page 4
+
+Ⅰ . summary
+1. Background and purpose of promotion
+end. background
+Data 3 Act * As passed at the plenary session of the National Assembly in January 2020, pseudonymized information,
+A way has been opened for anonymous information to be used in accordance with the law. Because of this
+It is systematically managed by each financial industry, such as banking, card, insurance, and financial investment.
+In other industries such as structured data, communication information, location information, and health and medical information,
+Innovation in the financial field by convergence of various types of managed data
+was able to drive growth.
+* 「Personal Information Protection Act」, 「Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc.」
+「Information and Communications Network Act」), 「Act on the Use and Protection of Credit Information」 (hereinafter 「Credit Information Act」)
+
+The amended 「Credit Information Act」 applies the existing 「Personal Information De-identification Measures」 in the financial field.
+Guidelines] (enforced on July 1, 2017) overcoming the legal limitations and
+It is expected to provide an institutional basis for safe use of information.
+do. According to the amended law, statistical preparation (including the preparation of statistics for commercial purposes such as market research),
+Personal credit information for research (including industrial research), public record preservation, etc.
+Personal credit information can be used under a pseudonym without the consent of the subject (the same law)
+In addition to Article 32-2 (6) 9-2),
+In the case of anonymization, it can be used freely without any purpose restrictions.
+(Article 40-2 Paragraph 4 of the same Act).
+This guide is in accordance with the amended 「Credit Information Act」, its enforcement ordinance and sub-regulations.
+By giving an example of pseudonymization/anonymity processing and utilization, pseudonymization/anonymity
+Increase understanding of processing and help safe use of pseudonymous and anonymous information
+prepared for
+
+- One -
+
+Page 5
+
+I. purpose
+
+This guide is for credit information companies, personal credit information management companies, debt collection companies,
+Credit information centralized institutions and credit information providers and users (hereinafter referred to as 'credit information companies, etc.')
+Points that can be referred to when pseudonymizing or anonymizing personal credit information
+For the purpose of guidance, it is not mentioned in this guide or
+Even if it is different from the above, if necessary, comply with the relevant laws and regulations when handling pseudonyms or anonymity.
+Credit information companies, etc. may use them at their own discretion within the scope of
+have. This guide describes the industrial characteristics of the financial sector and the characteristics of information processed by each financial sector.
+In consideration of others, the right to self-determination of personal information is guaranteed and the financial industry and financial sector
+It is expected to contribute to the development of the information industry.
+
+All. Coverage
+
+Credit information companies, etc. process personal credit information under a pseudonym or anonymity, or
+When performing the combination, the 「Credit Information Act」, 「Personal Information Protection Act」 and related laws
+Except where there are special regulations, you can refer to this guide.
+In case of conflict between the contents of the guide and laws and regulations, the relevant laws and regulations shall prevail.
+
+2. Definitions
+
+The meanings of terms used in this guide are as follows.
+
+end. personal credit information
+
+Credit information about living individuals, excluding information about corporations and legal entities
+It refers to information that falls under any of the following (「Credit Information Act」 Article 2 Subparagraph 2).
+
+-2-
+
+Page 6
+
+1) Identify a specific individual through the name, resident registration number, and image of the information
+identifiable information
+2) Even if a specific individual cannot be identified by the information alone, it can be easily combined with other information
+information that can be combined to identify a specific individual
+
+◎ 「 Credit Information Act」
+」 Article 2 (Definition) 1. “Credit information” refers to the information of the counterparty in commerce, such as financial transactions.
+Information necessary for making a credit decision refers to the information in each of the following items.
+end. Information that can identify a specific subject of credit information (in any of items B through E)
+It is credit information only when it is combined with the relevant information.)
+I. Information that can determine the transaction details of the credit information subject
+All. Information that can determine the creditworthiness of the subject of credit information
+la. Information that can determine the credit transaction capacity of the subject of credit information
+hemp. Information necessary for determining the credit of the subject of credit information in addition to the information in items (a) through (d)
+
+I. attribute
+Attribute refers to the unique characteristics of data and is classified as follows.
+1) identifier
+Specific by itself, such as social security number, email address, mobile phone number, etc.
+An attribute used to directly identify an individual.
+2) Personally Identifiable Information
+Such information as age, gender, region of residence, nationality, etc.
+Although it cannot identify a specific individual, it can be combined with other attributes to
+An attribute that can reveal all or part of an identity. these individuals
+Whether identifiable information is highly personally identifiable when combined with other attributes
+The level of pseudonymization and anonymity processing may be different depending on whether it is low or not.
+Whether an attribute is highly personally identifiable depends on the specific case.
+can be judged.
+-3-
+
+Page 7
+
+< (Example) Classification of properties >
+
+property
+
+Information subject to pseudonymization and anonymization
+Name, detailed address, phone number, biometric information, e-mail address, social network
+Service address, resident registration number, passport number, driver's license number, alien registration number,
+The identity verification agency under Article 23-3 of the 「Information and Communications Network Act」 identifies a specific individual as unique
+
+identifier
+
+information that uniquely identifies a particular individual, or
+Information given to identify the same subject of credit information, domestic residence report number,
+Account number, credit card number, health insurance card number, device identifier, car number, etc.
+Gender, age, address, postal code, occupation (job name or occupation code), date of occurrence
+(death, approval, surgery, discharge, visit, etc.), location (postal code, building name, region, etc.),
+Race, country of birth, mother tongue, visible minority
+
+personally identifiablestatus), marital status, educational background, criminal history, religion, medical diagnosis, insurance information
+Information
+
+(insurance type, number of subscriptions, subscription channel, membership registration, guaranteed amount, etc.), credit loan information
+(number of loans, contract date, loan amount, repayment amount, delinquency rate, etc.), premium paid, estimated income,
+Estimated house price, vehicle information, core customer status, internal credit rating, CB credit
+score, etc.
+
+※ This example illustrates the attributes that may correspond to identifiers or personally identifiable information.
+Whether an individual attribute actually corresponds to an identifier or personally identifiable information depends on the individual case;
+It may be different depending on the usage environment, etc.
+
+All. identification
+individuals, either alone or by combining two or more attributes
+It means processing * so that it can be recognized .
+* "Processing" refers to the collection (including investigation; hereinafter the same shall apply), creation, linkage, interlocking, recording,
+Storage, retention, processing, editing, retrieval, output, correction, recovery, use, combination, provision, disclosure, destruction
+(破棄), and other similar acts. (Article 2, No. 13 of the same Act)
+
+la. information set
+In accordance with certain rules for the purpose of systematically managing or processing information
+Refers to two or more pieces of information composed or arranged (Article 2, Item 15, Item B) of the same Act.
+
+-4-
+
+Page 8
+
+hemp. combination key
+When the combined requesting institution provides the information set to the data specialized institution, one
+Linking and linking two or more pieces of information between an information set and another information set
+It is information used for the purpose of identifying the individual but cannot be identified.
+information that is there
+bar. pseudonymization
+Additional information (e.g., mapping table linking pseudonym information and existing identifiers)
+To ensure that the subject of credit information, a specific individual, cannot be identified without using
+It refers to the processing of personal credit information, and the result of the processing is ①
+When the information subject and other credit information subjects are distinguished ② One information set
+between two or more different data sets in a certain credit data subject
+When two or more pieces of information are linked or linked ③ In case similar to the above
+As a case that falls under any of the cases prescribed by the Presidential Decree as
+In order to identify the subject of credit information as a specific individual, such as separating the additional information according to the
+This includes cases where personal credit information is processed in such a way that it is not possible to do so (No. 2, No. 15 of the same Act).
+※ The level of pseudonymization for individual attributes (identifiers, personally identifiable information, etc.) is for the purpose of pseudonymization.
+and the usage environment of pseudonymous information and the level of protection measures for pseudonymized information and additional information.
+may vary, and the environment for using pseudonym information (whether provided to a third party, external
+disclosure, etc.) and whether technical, administrative, and physical protection measures have been established.
+The level of pseudonymization should be determined.
+
+four. pseudonym information
+It refers to personal credit information that has been pseudonymized (Article 2, Item 16 of the same Act).
+
+-5-
+
+Page 9
+
+Ah. More information
+Personal credit information is pseudonymized so that a specific individual, a credit information subject, cannot be identified.
+Information used for processing to restore pseudonym information to its original state
+values ​that can be used.
+※ Example: A mapping table that connects pseudonym information and existing identifiers, used to create pseudonym information
+Encryption algorithm, salt value used to generate pseudonym information, etc.
+
+character. Anonymization
+Personal credit through data value deletion, pseudonymization, total processing, categorization, etc.
+By erasing or replacing all or part of the information, it is no longer a specific individual.
+It refers to processing personal credit information so that the subject of the credit information cannot be identified.
+(Article 2, No. 17 of the same Act).
+car. anonymous information
+so that personal credit information can no longer be identified as a specific individual, the credit information subject
+It refers to anonymized information.
+k. connection key
+Time series analysis and research using the combined information set of the requesting agency
+It refers to a value that uniquely replaces the binding key so that such operations can be performed.
+
+-6-
+
+Page 10
+
+3. Personal information, pseudonymous information, anonymous information
+The 「Credit Information Act」 introduced the concept of pseudonymization and anonymization. Privacy
+As it goes from pseudonymous information to anonymous information, the identifiability decreases. individual
+Information, pseudonymous information and anonymous information based on the concept and scope of use
+Separated as follows: *
+division
+
+concept
+
+usable range
+
+Specific information about the individual, theInformation
+individual subject from prior to the specific person
+
+Privacy
+
+recognizable information
+
+Can be used within the scope of obtaining consent
+
+Has the following purposes without consent can be utilized
+Without the use of additional information ,
+pseudonym information
+Information that has been derecognized
+
+❶ Statistical preparation (including for commercial purposes)
+❷ Research (including industrial research)
+❸ Purposes of record preservation in the public interest, etc.
+
+no longer recognizable
+anonymous information
+information on action
+
+Because it is not personal information.
+Free to use without restrictions
+
+※ For specific examples of personal information, pseudonymous information, and anonymous information, refer to [Reference] below.
+* Financial Services Commission press release, “With the revision of the 「Credit Information Act」, data can be used most safely
+We will make a country”, 2019.11.28.
+
+-7-
+
+Page 11
+
+[Reference] Examples of pseudonymous and anonymous information
+□ Original information set information
+< (Example) Original information >
+name
+
+Phone number
+
+Shin Saimdang
+
+010-1234-5678
+
+kwon yul
+
+02-2345-6789
+
+gender
+
+date of birth
+
+Number of insurance purchases
+
+female
+
+1974.10.1.
+
+3
+
+male
+
+1990.3.26.
+
+2
+
+Yu Gwan-soon
+
+010-3456-4321
+
+female
+
+1969.5.28.
+
+One
+
+Admiral Yi
+
+010-4567-9876
+
+male
+
+1993.11.3.
+
+2
+
+Queen Seondeok
+
+010-5678-9012
+
+female
+
+1971.1.2.
+
+3
+
+Ahn Jung-geun
+
+010-6789-0123
+
+male
+
+1988.7.16.
+
+3
+
+Ryu Seong-ryong 010-7890-1234
+
+male
+
+1994.2.3.
+
+2
+
+Yi Hwang
+
+010-8901-2345
+
+male
+
+1982.6.28.
+
+5
+
+ii
+
+010-9012-3456
+
+male
+
+1985.8.5.
+
+2
+
+...
+
+...
+
+...
+
+...
+
+...
+
+ㅇ (identifier) ​'name' and 'phone number' can be directly identified
+ㅇ (Personally identifiable information) 'Gender' and 'Date of birth' are combined with other information.
+It is highly likely to identify an individual, and the 'number of insurance purchases' is statistical information.
+less likely to be identified
+
+-8-
+
+Page 12
+
+➊ pseudonym information
+< (Example) pseudonymized information >
+ID
+
+name
+
+Phone number
+
+Gender Year of Birth
+
+insurance
+number of subscriptions
+
+9A00F1155584BA5DDFFC4B6DDD
+7940431737C612651267FBD4716
+
+Shin Saimdang010-1234-5678
+
+female
+
+1974
+
+3
+
+male
+
+1990
+
+2
+
+FE93C46F6BA
+C2E6376B9035D7067C8B68F25FA
+34592F210D72E59B8E3F018C941
+
+kwon yul
+
+02-2345-6789
+
+B391AB1D99
+DACE2CCC9F459387EAE890D853
+4955003F78B2B474C997CF2D990
+
+Yu Gwan-soon
+010-3456-4321
+
+female
+
+1969
+
+One
+
+Admiral Yi 010-4567-9876
+
+male
+
+1993
+
+2
+
+female
+
+1971
+
+3
+
+Ahn Jung-geun
+010-6789-0123
+
+male
+
+1988
+
+3
+
+Ryu Seong-ryong
+010-7890-1234
+
+male
+
+1994
+
+2
+
+Yi Hwang 010-8901-2345
+
+male
+
+1982
+
+5
+
+ii
+
+male
+
+1985
+
+2
+
+...
+
+...
+
+573D4C3344F
+27B339D75FF1DCED2C29A866BA
+5D61555D4C2E2C708F121AFABF3
+4E5777AE498
+6CE926B166980F9C5F05F0B19A4
+
+Queen Seondeok
+010-5678-9012
+
+43E3494943BDACF2A657DFA1B2
+CF37C17B839
+05CF80408DCC19A18228A365BD
+2DBBD4328BC36DC832F6E7365E5
+36164A92B5A
+11834268AF3110DB64360198755
+400A49AF1A60A0BFE624DCE108B
+9E1185FA6C
+725F8676075F7C0C5E6655EE84FF
+0EA2BEFD57D7F6C338083A961C2
+11AAE952D
+380A314D13F03BB6DBBAA0EAC7
+6E26C1ED3A19A7AA74661162861
+
+010-9012-3456
+
+D021FDEED7E
+
+...
+
+...
+
+...
+
+...
+
+ㅇ Combination of name, phone number, gender, and date of birth is one of the pseudonymization techniques.
+Apply hash function (SHA-256, salt value)
+ㅇ Identifiers (name, phone number) will be deleted and personally identifiable information (gender, date of birth) will be deleted.
+However, it is possible to generalize * gender, date of birth, etc. that are highly personally identifiable
+* Depending on the level of personal information protection of the pseudonymous information user and the possibility of re-identification of the pseudonymous information, etc.
+The level of pseudonymization may vary (the higher the risk, the higher the level of pseudonymization)
+(Example) Original information (1974.9.23.) → Birth year only (1974) → Categorized by age group (40s)
+
+-9-
+
+Page 13
+
+➋ Anonymous information
+< (Example) Anonymized information >
+name
+
+Phone number
+
+gender
+
+insurance
+
+age
+
+number of cases
+
+kwon yul
+
+02-2345-6789
+
+D
+
+20's
+
+2
+
+Admiral Yi
+
+010-4567-9876
+
+D
+
+20's
+
+2
+
+Ryu Seong-ryong
+010-7890-1234
+
+D
+
+20's
+
+2
+
+Ahn Jung-geun010-6789-0123
+
+D
+
+30's
+
+3
+
+Yi Hwang
+
+010-8901-2345
+
+D
+
+30's
+
+5
+
+ii
+
+010-9012-3456
+
+D
+
+30's
+
+2
+
+Shin Saimdang 010-1234-5678
+
+C
+
+40's
+
+3
+
+Yu Gwan-soon010-3456-4321
+
+C
+
+40's
+
+One
+
+Queen Seondeok010-5678-9012
+
+C
+
+40's
+
+3
+
+...
+
+...
+
+...
+
+}
+}
+}
+
+(k=3)
+homogeneous
+sets
+
+(k=3)
+homogeneous sets
+
+(k=3)
+homogeneous sets
+
+ㅇ Identifier (name, phone number) will be deleted
+ㅇ When combined with other attributes of personally identifiable information, the possibility of personally identifiable information is high.
+'Gender' is converted into code form so that it cannot be directly recognized (Female→C/Male→D)
+ㅇ When combining with other attributes of personally identifiable information, the possibility of personally identifiable information increases.
+high 'date of birth' drops birthdays to satisfy k-anonymity * ,
+Categorize age by age group
+* The value of k varies depending on the purpose of using anonymous information and the environment.
+※ This guide 'III. 2. Refer to 'Method of Anonymization'
+
+ㅇ 'Number of insurance subscriptions' is an attribute subject to analysis and differs from other attributes
+When combined, it is judged to be less likely to be personally identifiable and therefore not converted
+
+- 10 -
+
+Page 14
+
+4. General pseudonymization and anonymization in the financial sector
+end. pseudonymization
+1) Scope of pseudonym information
+Pseudonymized information refers to personal credit information processed under a pseudonym, and
+Even if other credit information subjects are 'distinguished', it is possible to identify a specific credit information subject.
+If it is not possible, it can be viewed as pseudonymous information. In addition, pseudonym information is one
+within a dataset or between two or more different datasets.
+When two or more pieces of information about the subject of credit information are linked or linked
+and pseudonyms even if additional information such as a separate mapping table exists
+The processed information can be viewed as pseudonymous information (Article 2, No. 15 of the same Act).
+※ Distinction: It means that there is a difference in nature or type, and a specific attribute is different.
+to be distinct from the attribute
+※ Identification: It means to distinguish and recognize an individual.
+means to be
+
+However, even in the above case, without using additional information,
+The subject of credit information must not be identifiable, and
+You must follow the rules of conduct. The level of pseudonymization for individual properties is pseudonymized.
+Purpose, whether it is provided to a third party, whether it is disclosed to the outside, etc., pseudonymized information and additional information
+It may vary depending on the level of technical, administrative, and physical protection measures for
+2) Use of pseudonymous information
+The pseudonymous information may be used for statistical purposes (including commercial purposes), research (including industrial research),
+In the case of providing pseudonymous information for the preservation of records in the public interest,
+Pseudonym information may be used without the consent of the credit information subject (Article 32 (6) of the same Act)
+Item 9-2). In this case, the statistical preparation shall be carried out for commercial purposes, such as market research.
+- 11 -
+
+Page 15
+
+It includes the preparation of statistics for research purposes, and research includes not only research institutes such as universities and research institutes, but also
+Includes industrial research conducted by companies, etc. However, to identify a specific individual
+All activities such as statistical preparation, research, and preservation of records for the public interest are all possible.
+Not allowed.
+ㅇ (Statistics preparation) Quantitative information about collective phenomena or the contents of collected data
+the act of filling out information
+◎ Example
+▶ In order to be used as a credit sub-indicator for micro-loan screening of financial institutions, by customer and region
+Create statistics on credit card payment data, apartment management fees, real estate market prices, etc.
+if
+▶ In order to predict the amount of garbage collected by local governments, the number of credit card payments, amount used, and affiliated stores
+Industry/region, customer residence/work area, on/offline purchases by area of ​residence, delivery
+When preparing statistics on food sales, number of cases, etc.
+
+ㅇ (Research) Scientific research such as technology development, demonstration, basic research, applied research, private investment research, etc.
+means research to apply the method
+- Historical research that applies scientific methods as well as natural scientific research;
+Research conducted for the public interest in the field of public health, as well as new
+Including research for industrial purposes such as technology, product and service development and market research
+◎ Example
+▶ In order to develop an automatic insurance fraud detection system,
+Analyze the amount of insurance claims, the time and method of claiming, and whether similar claims are repeated.
+When conducting research to detect signs of insurance fraud
+
+ㅇ (Retention of records in the public interest)
+Preservation of recorded information
+- A public purpose is not recognized only when a public institution handles it,
+In cases where private companies, organizations, etc. keep records for the general public interest
+Recognized for the purpose of archiving records in the public interest
+- 12 -
+
+Page 16
+
+◎ Example
+▶ Among the personal information collected by the research center in the course of research on modern history,
+When personal information is recorded and stored
+
+3) Regulations on duties and penalties related to pseudonymization
+The credit information company, etc. shall provide technical, administrative,
+by controlling access to additional information through physical safeguards.
+It must be stored separately or deleted (Article 40-2 Paragraph 1 of the same Act),
+Illegal access by a third party to personal credit information, change of input information
+To protect pseudonymous information from damage, destruction, and other risks
+Technical, managerial, physical, such as establishing an internal management plan and keeping access records
+Security measures shall be established and implemented (Article 40-2 Paragraph 2 of the same Act).
+In addition, credit information companies, etc. may not identify specific individuals for profit or fraudulent purposes.
+The pseudonymous information must not be processed (Article 42-2 (6) of the same Act),
+Credit information companies, etc. may not identify specific individuals for profit or unlawful purposes.
+If pseudonymous information is processed in an appropriate way, the Financial Services Commission will
+An amount equivalent to 3/100 or less of ‘sales’ may be imposed as a penalty surcharge.
+Yes (Article 42-2 (1) 1-4 of the same Act).
+and pseudonyms to identify specific individuals for commercial or fraudulent purposes.
+A person who processes information shall be punished by imprisonment for not more than 5 years or a fine not exceeding 50 million won.
+(Article 50 (2) 7-2 of the same Act).
+* Matters under Article 40-2 (1) and (2) of the same Act shall be referred to in Article 34-5 (1) of the Enforcement Decree of the same Act.
+It is stipulated in Paragraph 3, and it is prescribed in Article 43-7 and [Annex 8] of the 「Credit Information Business Supervision Regulations」.
+The committee stipulates the details (this guide 'II. 4. Regarding pseudonymous information and additional information)
+Refer to 'Criteria for protective measures')
+
+- 13 -
+
+Page 17
+
+Meanwhile, additional information used for pseudonymization is not stored or deleted separately.
+For those who have not done so, technical, administrative, and physical
+Those who have not established and implemented security measures, in the process of using pseudonymous information
+When a specific individual becomes identifiable, the pseudonym information is immediately retrieved.
+A person who suspends processing or does not immediately delete it shall be fined up to 30 million won
+(Article 52 (3) Nos. 16 to 18 of the same Act).
+I. Anonymization
+1) Scope of use of anonymous information
+Anonymous information is used for personal credit so that a specific individual, a credit information subject, cannot be identified.
+The information is processed, and it is assumed that it is information that cannot be identified (Article 2 of the same Act).
+17), and can be used without any restrictions.
+2) Evaluation of the adequacy of anonymous information
+Credit information companies, etc. shall properly conduct anonymization of personal credit information.
+You may request the Financial Services Commission to review whether or not the
+Article 40-2 (3)). The Financial Services Commission examines the request in accordance with the above request and is appropriately anonymous.
+If it is recognized that the processing has been carried out, the credit information subject, the individual, is no longer accepted.
+It is presumed to be unrecognizable information (Article 40-2 (4) of the same Act). the financial committee
+Review of the adequacy of anonymous processing under Article 40-2 (3) of the Act and Article 40-2 (4) of the Act
+The task of accrediting the adequacy of anonymization is entrusted to a data-specialized institution (Enforcement Decree of the same Act)
+Article 37 (5).
+
+- 14 -
+
+Page 18
+
+All. Obligation to keep records of actions taken under pseudonymization and anonymization
+If personal credit information is processed under a pseudonym, the credit information company, etc.
+Date, items of pseudonymized information, reasons and grounds for pseudonymization, personal credit
+If the information is anonymized, the date of anonymization, the items of the anonymized information;
+The reasons and grounds for anonymization shall be preserved for 3 years (Article 40-2 (8) of the same Act).
+In violation of the above preservation obligation, personal credit information has been pseudonymized or anonymized.
+A person who fails to keep records shall be subject to a fine for negligence not exceeding 10 million won.
+(Article 52 (5) 11-3 of the same Act).
+
+◎ Tasks of data-specialized institutions
+▶ Article 26-4 of the 「Credit Information Act」 and Article 22-4 of the Enforcement Decree of the same Act
+The work is specified as follows:
+
+「 Credit Information Act」
+」 Article 26-4 (Data-Specialized Institutions) ② Data-specialized institutions shall comply with the following subparagraphs:
+carry out work
+1. A set of information held by credit information companies, etc. and a set of information held by a third party;
+Binding and transmission between the liver
+2. Evaluation of adequacy of anonymous processing by credit information companies, etc.
+3. Businesses similar to those of subparagraphs 1 and 2 and prescribed by Presidential Decree;
+
+「 Credit Information Act」
+」 Enforcement Decree Article 22-4 (data-specialized institution) ① Article 26-4 (2) 3 of the Act
+In the following paragraphs, “business as prescribed by Presidential Decree” means the business of each of the following subparagraphs:
+1. Investigation and research on the association between information sets and pseudonymization or anonymization;
+similar work
+2. Matters concerning the standardization of association between information sets and pseudonymization or anonymization;
+3. Matters concerning mutual cooperation on business standardization, etc. among data specialized institutions;
+4. Other similar duties determined and publicly notified by the Financial Services Commission.
+
+- 15 -
+
+Page 19
+
+II. pseudonymization
+1. Overview
+In principle, identifiers should be deleted, and data such as combination of information sets, etc.
+When it is necessary for the purpose of use, an identifier is generated by generating a substitute value in a secure
+should be replaced
+Personally identifiable information is personal (credit) information and use processed in the financial field.
+Combination of personally identifiable information according to the characteristics of the environment, information disclosed to the outside
+With the combination, the specific value (outlier) * Due to such high-identifying potential
+In this case, it is necessary to reduce the risk of re-identification through additional measures such as generalization and categorization.
+do. In addition, the level of pseudonymization for individual attributes is determined by the purpose of pseudonymization and pseudonym information.
+It may vary depending on the usage environment and the level of protection measures for pseudonymous information and additional information.
+can For example, if you want to use pseudonymous information for internal research purposes
+The same pseudonym, even if the date of birth information has already been processed as the year of birth (1974).
+When information is provided to a third party, the level of pseudonymization is set to the age group (40s).
+can be raised Personally identifiable information can be used unless the risk of personally identifiable information is high.
+In principle, it can be used without any special measures. However, depending on the usage situation
+If the possibility of personal identification increases, re-identification through additional measures
+risk should be lowered.
+* Very small or very large values ​that are far outside the range of the observed data.
+◎ Examples of outliers
+▶ In the dataset where the age of credit information subjects is mostly distributed between the ages of 20 and 75,
+If only the age of a specific credit information subject is 110 years old
+▶ Most of the loan amounts of credit information subjects are distributed between KRW 5 million and KRW 1 billion.
+When the loan amount of a specific credit information subject in the dataset is 8 billion won
+
+- 16 -
+
+Page 20
+
+2. Pseudonymization procedure
+Credit information companies, etc., refer to the following examples of procedures to determine the risk of pseudonymous information.
+It should be reviewed and appropriate pseudonymization should be performed accordingly.
+< (Example) Step-by-step procedure for pseudonymization >
+
+end. Preliminaries
+Clearly define the purpose of pseudonymization and save data subject to pseudonymization accordingly
+An internal system for processing and utilization of pseudonymous information should be established.
+If a credit information company, etc. provides pseudonymous information to a third party,
+For clarity, prohibition of re-identification and compensation for damages in case of information leakage
+You need to write a contract, etc.
+ㅇ (Clarification of the purpose of pseudonymization) The purpose of using pseudonymized information is defined in the 「Credit Information Act」
+be as specific as possible within the permissible purpose
+※ Statistical preparation (including commercial purposes), research (including industrial research), public record preservation purposes, etc.
+
+ㅇ (Extraction of processing target) The minimum amount necessary to achieve the purpose of pseudonymization
+Extract the information set subject to pseudonymization as an item
+ㅇ (Establishment of a system for processing and using pseudonymous information)
+Establish and establish an access management system for pseudonymized information and additional information *
+* Establishment of management measures such as access control of pseudonymized information and additional information (‘4.
+Refer to the 'Rules of Conduct')
+
+- 17 -
+
+Page 21
+
+I. pseudonymization
+The environment for pseudonymization and use of pseudonym information, characteristics of data subject to pseudonymization, etc.
+After taking into account the risk and determining the level of pseudonymization,
+carry out
+ㅇ (Risk level measurement) The purpose of pseudonymization, processing and use environment, and data subject to pseudonymization
+Risk analysis according to characteristics, etc.
+< (Example) Considerations when measuring risk >
+Considerations
+
+The details
+
+- Statistics (including commercial purposes), research (including industrial research), public interest
+Purpose of pseudonymization
+Detailed purposes within the scope, such as whether or not to preserve records
+Use of pseudonymous information
+- Internal utilization/internal binding/external provision/external binding/external disclosure, etc.
+Subject
+- Level of internal control of processing environment and usage (analysis) environment, intention to re-identify
+Processing and use of pseudonyms
+or ability, etc.
+Environment
+※ 'Ⅱ. 3. C. See 'Considerations when measuring the risk of re-identification of pseudonymous information'
+- Characteristic analysis of data subject to pseudonymization
+Subject to pseudonymization
+data characteristics
+
+- Classify data attributes (columns) into identifiers, personally identifiable information, etc.
+※ Examples of identifiers and personally identifiable information are in 'Ⅰ. 2. b. See 'Properties'
+
+analysis
+
+ㅇ (Determining the level of pseudonymization) An appropriate method and level of pseudonymization should be selected in consideration of the risk.
+Determine and define the retention period of pseudonymous and additional information *
+* Purpose of use of pseudonymous information, technical characteristics of pseudonymous processing, information attributes, and additional information
+The level of technical, administrative, and physical protection measures, and the re-identification of pseudonymous information,
+Impact, possibility of re-identification of pseudonymous information, purpose of use of pseudonymous information and its purpose
+Considering the minimum period required to achieve
+
+ㅇ (Pseudonymization) Deletion or replacement of identifiers * , Individuals with high risk of re-identification
+Perform pseudonymization ** for identifiable information
+* When generating replacement values, it is necessary to use safe methods such as random value generation, hash value generation, and encryption.
+(Refer to 'II. 3. A. Alternative Value Generation Method for Identifiers' and 'II. 3. B. Attribute-specific pseudonymization method')
+
+- 18 -
+
+Page 22
+
+** Utilization of techniques such as generalization, categorization, top/bottom coding, and record deletion ('Attachment 1. A pseudonym/anonymity)
+See ‘Processing Techniques’)
+
+All. Review of the adequacy of pseudonymization and additional processing
+The level of pseudonymization was properly defined in the previous 'Step B (pseudonymization)' and
+Accordingly, it is checked whether the pseudonym has been properly processed, and the possibility of re-identification
+After reviewing, additional pseudonymization is performed if necessary.
+ㅇ (review of adequacy)
+Review the possibility of personal identification (existence of an identifier, appropriateness of the level of pseudonymization, etc.)
+◎ Example
+▶ Internal personal information protection officer for data pseudonymized for research purposes
+and an evaluation meeting including one external legal expert and one pseudonymized/anonymized expert
+held to review the appropriateness of pseudonymization
+※ This procedure is not mandatory, and if necessary, credit information companies, etc. may implement their own procedures.
+Can be established and implemented
+
+la. Utilization and follow-up management
+Pseudonym information such as destruction of pseudonym information after use, provision, and combination of pseudonymous information
+Observe the rules of conduct for use.
+※ 'Ⅱ. 4. Rules of Conduct on the Handling of Pseudonyms' and 'Ⅱ. 5. Protection of pseudonymous information and additional information
+Refer to 'Criteria for Action'
+
+- 19 -
+
+Page 23
+
+< (Example) Detailed procedure for pseudonymization >
+number
+
+step
+
+- Define the purpose of pseudonymization
+
+end.
+dictionary
+
+Contents
+
+Preliminaries
+
+Ready
+
+- Extraction of information sets subject to pseudonymization
+- Establishment of management measures such as access control to pseudonymous information and additional information
+- Purpose of pseudonymization, processing and use environment (level of internal control, intention of re-identification)
+and ability, etc.), subject of use (internal use/internal combination/external provision/
+Risk analysis according to external binding/external disclosure)
+
+Risk measurement
+
+- Characteristic analysis of information sets subject to pseudonymization
+- Data attributes (columns) as identifiers, personally identifiable information, etc.
+Classification
+※ Examples of identifiers and personally identifiable information are in 'Ⅰ. 2. b. See 'Properties'
+- Determination of pseudonymization method and level
+- Definition of retention period of pseudonymized information and additional information
+
+I.
+alias
+
+pseudonymization
+level determination
+
+※ Purpose of use of pseudonymous information, technical characteristics of pseudonymization, information
+Technical, administrative, and physical protection measures for attributes and additional information
+level, the effect of re-identification of pseudonymous information on the subject of credit information;
+
+process
+
+Possibility of re-identification of pseudonymous information, purpose of use of pseudonymous information, and
+Considering the minimum period necessary to achieve the purpose
+- Delete or replace identifiers
+- Need to use a safe method when generating replacement values: Random value generation,
+Hash value generation, encryption, etc.
+※ Alternative value generation algorithm, mapping table, encryption key, etc. added
+pseudonymization
+
+Information is deleted or stored separately
+
+- The
+
+risk of re-identification is judged to be high depending on the usage and provision conditions.
+
+In case of additional pseudonymization of personally identifiable information *
+* Utilize techniques such as generalization, categorization, top/bottom coding, and record deletion
+(Refer to 'Attachment 1' of this guide)
+- Review of the personally identifiable information of pseudonymous information (whether or not an identifier exists,
+All.
+
+appropriateness of the level of pseudonymization, etc.)
+
+(If necessary)
+
+adequacy
+
+pseudonymization - Insider review or (if necessary) using external experts
+
+Review
+
+※ This procedure is not mandatory, and if necessary, the internal procedure
+
+Adequacy review
+
+Can be established and implemented
+
+- 20 -
+
+Page 24
+
+number
+
+step
+
+Contents
+- For purposes such as statistical preparation, research, and public record preservation, credit
+Use or provision of pseudonymous information without the consent of the information subject
+- Prohibition of re-identification attempts when providing pseudonymous information to a third party, scope of responsibility,
+Protective measures, prohibition of use for purposes other than purpose, prohibition of re-supply, etc.
+Required to be specified in a contract, etc.
+- In the case of credit information companies, etc., the combination of information sets with a third party is
+Available only through data specialized institutions designated by the Financial Services Commission
+
+pseudonym information
+- In the case of pseudonymization, the date of pseudonymization, information items, reasons and grounds
+Use, provision, and combination
+recorded and preserved for 3 years
+la.
+
+and follow-up
+
+- 「Credit Information Act」 Article 40-2 (Acts related to pseudonymization and anonymity processing)
+
+uses
+
+Rules), additional information is stored separately or deleted,
+
+and
+
+Internal management plan to safely protect pseudonymous information
+
+posthumously
+
+Technical, administrative, physical, such as establishing and storing access records
+
+management
+
+Establishment and implementation of security measures
+- To identify a specific individual in the process of using pseudonymous information
+If it is, immediately collect the pseudonym information and stop processing;
+Any information that could identify a specific individual will be deleted immediately.
+- When the period of retention of pseudonym information set at the time of establishment of the pseudonym handling plan has elapsed
+
+Delete action in case
+Delete pseudonym information
+- Delete additional information if it is not absolutely necessary
+measure
+
+- 21 -
+
+Page 25
+
+3. How to deal with pseudonyms
+end. How to create a replacement value for an identifier
+1) Principle
+Alternative values ​of identifiers (hereinafter referred to as 'pseudonyms') are generally random values.
+generation, hash value generation, encryption techniques, etc. can be used, and
+Use other methods (such as tokenization) to ensure the same level of security
+can do.
+The additional information used for generating a pseudonym (mapping table, an encryption key, the encryption algorithm, and so on) * is
+Separate storage or deletion, etc. Article 40-2 of the Credit Information Act
+It must be managed safely in accordance with the Rules of Conduct on Anonymity).
+* You can create a mapping table that links the pseudonym and the identifier of the original.
+Pingtable corresponds to additional information
+◎ When creating a pseudonym, input the CI (Connecting Information) value corresponding to the identifier as input information.
+If used, the entire CI value cannot be used as input information for the one-way hash function.
+Part of the CI value should be used within the range where there is no risk of re-identification.
+
+2) Random value generation
+Random value generation is a method of generating independent pseudonyms for identifiers,
+A method of generating a random value and replacing the original value.
+
+- 22 -
+
+Page 26
+
+A safe random number generator (RNG) is used to generate random values.
+must be used, and the random number generation rules should not be exposed or duplicated.
+Care should be taken.
+◎ Examples of additional information
+▶ You can create a mapping table that links pseudonyms (random values) and original identifiers.
+If the mapping table corresponds to additional information
+
+< (Example) Example of pseudonymization through random value generation >
+
+3) Hash value generation
+Hash value generation uses cryptographic technology to generate pseudonyms derived from identification attributes.
+One-way and collision-resistance as a way to create
+A single identifier or multiple identifiers using a hash function with properties
+It refers to the method of replacing with a hash value.
+
+- 23 -
+
+Page 27
+
+It is safe for brute force attacks on hash values * , rainbow table attacks **, etc.
+It must be hashed by adding a salt value or a key value.
+* brute force attack: Randomly assigns the number of cases to the original value.
+find out attack
+** rainbow table attack: convertible using hash function
+An attack that finds out the original value through a table in which the hash value is stored in advance
+
+The salt value or key value used when generating the hash value cannot be easily inferred.
+It must be composed in a complex way and must be safely
+should be managed
+< (Example) Example of hash generation >
+'Identifier (ID, etc.)' + 'Salt value (eg X$djida98Yd10@)'
+
+Hash Value Generation Algorithm
+
+'8da89E ... kkh8'
+
+It is not recommended to create a hash by simply adding a salt or key value to an identifier.
+DA provides its own rules for generating hash values ​to increase the safety of hash values.
+recommend that
+◎ Example of hash value generation rule that increases the safety of hash value (assuming H() is a hash function)
+▶ Example 1: H ( salt value 1 + identifier + salt value 2 )
+▶ Example 2: H ( H (input value + salt value) + salt value), etc.
+
+The hash algorithm used to generate the hash value has SHA-2 or higher safety.
+A validated hash algorithm must be used.
+
+- 24 -
+
+Page 28
+
+◎ Examples of additional information
+▶ If necessary, a mapping table between the pseudonym (hash value) and the original identifier can be created and stored.
+Additional information includes the salt or key value used at this time, the hash value generation rule, and the mapping table.
+
+< Representative recommended hash algorithm >
+Kinds
+
+Output value length (bits) Security strength (bit)
+
+SHA-2
+
+SHA-3
+
+224
+
+224
+
+112
+
+256
+
+256
+
+128
+
+386
+
+384
+
+192
+
+512
+
+512
+
+256
+
+224
+
+224
+
+112
+
+256
+
+256
+
+128
+
+386
+
+384
+
+192
+
+512
+
+512
+
+256
+
+Reference standard
+
+NIST
+FIPS 180-4
+
+NIST
+FIPS 202
+
+※ Source: 「Guide to the use of cryptographic technology in the financial sector」 (Financial Security Agency, 2019.1.)
+
+4) Encryption
+When generating a pseudonym, a method of encrypting the identifier can be used. At this time,
+Secure encryption algorithms such as SEED, AES, and ARIA should be used. Especially,
+Cryptographic algorithms depend on safety as computing power increases and technology advances.
+change may occur, so it is evaluated as safe at the time of pseudonym creation.
+The encryption algorithm should be checked and applied.
+< Representative symmetric key block cipher algorithm >
+Kinds
+
+input/output length
+output length
+
+security strength
+
+(beat)
+
+(beat)
+
+(beat)
+
+128
+
+128
+
+128
+
+128
+
+128
+
+SEED
+
+AES
+
+Reference standard
+TTA TTAS.KO-12.0004/R1
+
+NIST
+128
+
+192
+
+192
+
+192
+
+192
+
+FIPS 197
+
+※ Source: 「Guide to the use of cryptographic technology in the financial sector」 (Financial Security Agency, 2019.1.)
+
+- 25 -
+
+Page 29
+
+If the key used for encryption is leaked, the ciphertext is decrypted using the leaked key
+encryption key management such as generation, distribution, use, suspension, renewal, and discarding of encryption keys
+Safeguarding procedures such as establishment of procedures, separate storage of encryption keys, and measures to control access to encryption keys
+An encryption key management plan should be established and implemented.
+◎ Examples of additional information
+▶ In the encryption method, the encryption key and encryption algorithm are additional information.
+
+I. How to handle pseudonyms by attribute
+1) Identifier measures
+When processing a pseudonym, the credit information company, etc. deletes the identifier in the information set or
+should be replaced by a pseudonym. Examples of key identifiers used in the financial sector are
+It is shown in the following table. In addition to the examples below, data characteristics and usage environment
+Accordingly, if information that can identify a specific credit information subject exists,
+may be applicable.
+< (Example) Financial sector identifier >
+No
+
+Identifier example
+
+One
+
+name
+Detailed Address
+
+3
+
+Phone number
+
+Detailed Address
+Mobile Phone Number,
+home phone number, etc.
+fingerprint, iris,
+
+biometric information
+
+5
+
+facial recognition, etc.
+
+e-mail address
+
+6
+
+Email Address
+
+Social network service address
+
+7
+
+remark
+name
+
+2
+
+4
+
+Explanation
+
+social media address
+
+Resident registration number
+
+personal identification number
+
+- 26 -
+
+Page 30
+
+No
+
+Identifier example
+
+8
+
+Passport number
+
+personal identification number
+
+9
+
+driver's license number
+
+personal identification number
+
+10
+
+Explanation
+
+Foreigner registration number
+
+remark
+
+personal identification number
+
+Information and Communications Network Act
+under Article 23-3;
+A specific identity verification institution
+
+11
+
+CI, DI
+
+make an individual unique
+to be able to identify
+information given
+make a particular individual unique
+
+member number,
+
+identify or the same
+12
+
+customer number,
+
+credit information subject
+
+ID,
+
+assigned to distinguish
+
+Membership number, etc.
+
+Information
+13
+
+Domestic Residence Report Number
+
+14
+
+uniquely connected to the individual
+
+Account Number
+
+15
+
+-
+
+-
+
+Corresponds to identifiers as information
+uniquely connected to the individual
+
+credit card number
+
+-
+
+Corresponds to identifiers as information
+
+granted only to individuals
+Health insurance card number
+Corresponds to an identifier as a number
+
+16
+
+-
+
+through mobile services, etc.
+17
+
+When collecting device identifiers
+
+device identifier
+
+-
+
+combined with member information
+Personal identification is possible
+vehicle number owned by an individual
+
+18
+
+car number
+
+If based on that information
+
+-
+
+More likely to identify an individual
+In addition, specific individuals
+19
+
+can be uniquely identified
+information in
+
+data characteristics, usage environment, etc.
+to make a particular individual unique
+For identifiable information
+
+photos, videos, etc.
+
+corresponding to an identifier
+
+- 27 -
+
+Page 31
+
+2) Measures for personally identifiable information
+If it is combined with other personally identifiable information, there is a possibility that an individual can be identified.
+In high cases, personally identifiable information that is not essential for the purpose of use and provision
+Delete and add an appropriate level for the remaining personally identifiable information
+action should be applied. Key personally identifiable information used in the financial sector
+Examples of measures and measures are shown in the table below.
+< (Example) Major personally identifiable information in the financial sector and measures to be taken >
+personally identifiable
+No
+
+Action example
+
+Information
+
+One
+
+gender
+
+2
+
+age
+
+remark
+
+- If necessary for the purpose of use, there is no special action
+-
+
+Available
+- If necessary, depending on the situation, 5 years old, 10 years old, etc.
+categorization,
+
+categorize as
+
+top/bottom coding
+
+- Single in case of over or under a certain age
+
+Etc
+
+Aggregation by category (top/bottom coding)
+- In the case of a detailed address, it corresponds to an identifier,
+If necessary, categorize by city/gun/gu unit, etc.
+3
+
+address
+
+- In particular, in some areas such as islands and mountains,
+categorization, etc.
+
+There may be very few residents in the Myeon/Dong unit.
+Therefore, if necessary, measures such as categorization are necessary
+- The same standard applies to postal codes
+- Members of Parliament, celebrities, athletes, etc.
+4
+
+In this case, the possibility of personal identification increases,
+generalization,
+
+job
+
+categorization,
+etc.
+not explicitly indicated in the occupational classification when
+necessary;
+
+measures to avoid
+- The majority of people within a particular group are of the same nationality
+5
+
+personal identification for other nationals
+Nationality
+
+categorization, etc.
+
+As the probability increases, categorization etc. if necessary
+Action required
+- In the case of some anniversaries such as wedding anniversaries, personal
+
+6
+
+Anniversary
+
+categorization, etc.
+Categorize when needed, as it is more likely to be identified
+
+action etc.
+
+- 28 -
+
+Page 32
+
+No
+
+7
+
+personally identifiable
+
+Action example
+
+Information
+marital status
+
+remark
+
+- If necessary for the purpose of use, there is no special action
+categorization, etc.
+
+Available
+- In the case of a trading branch, the main activity of the trader
+Categorize if necessary
+
+8
+
+trading point
+
+Action required, etc.
+categorization, etc.
+
+- If necessary, instead of the transaction branch name / transaction branch code
+Address of the ward and dong where the transaction point is located
+replaced by etc.
+- Due to the nature of the data, it is combined with other information
+attributes that are likely to identify an individual
+
+9
+
+Etc
+
+generalization,
+
+If present, highly personally identifiable
+
+categorization,
+
+Designated as personally identifiable information
+
+add noise,
+
+delete,
+- Personal identifiable information is data characteristic and use
+Top and bottom coding, etc.
+
+Re-identification according to the situation, whether it is provided by a third party, etc.
+If the risk is determined to be high, apply additional measures
+
+Notwithstanding the above example, additional data may be added depending on data characteristics and usage environment.
+Re-identification because the need for action, the method and level of action, etc. may be different
+Appropriate actions should be taken based on the risk. In particular, information sets
+If provided or combined externally, the risk of re-identification may increase.
+It is necessary to consider the application of additional measures.
+All. Considerations when measuring the risk of re-identification of pseudonymous information
+The risk of re-identification of pseudonymous information is a key factor in determining the level of pseudonymization.
+is one element. For users with a high level of protection of pseudonymous information, a lower level is used.
+Provide pseudonymized pseudonymous information to increase usability and provide low level of protection
+Personal credit by providing high-level pseudonymized information to user organizations
+It should reduce the possibility that the information could be re-identified.
+
+- 29 -
+
+Page 33
+
+In order for the credit information company, etc. to determine the level of protection of the pseudonymous information of the user organization,
+Re-identification intention and ability of the user organization, ability to protect pseudonymous information, and business performance
+Evaluation is required from various aspects, such as reliability, and
+The level of pseudonymization should be determined.
+1) Re-identification intention and ability analysis
+Review the intention and ability of the pseudonymous information user organization and re-identification
+It is necessary to increase the level of pseudonymization when intentions and abilities are highly valued.
+ㅇ (Re-identification intention) Users of pseudonymous information re-identify pseudonymous information and
+A pseudonym may be obtained for non-economic gain or to the extent that it does not serve the purpose.
+Consider whether there is room for use of the information, etc.
+ㅇ (Re-identification ability) Expert knowledge that allows users of pseudonym information to attempt re-identification
+or whether data that can be linked to pseudonymous information is held
+2) Analysis of pseudonymous information protection level and reliability
+Since pseudonym information can also be viewed as personal (credit) information,
+Review the level of protection of pseudonymous information and reliability of work performance, and
+If the protection ability and reliability of work performance are evaluated to be low, the level of pseudonymization will be increased.
+There is a need.
+ㅇ (Level of protection of pseudonymous information)
+Establish and operate a pseudonymous information management plan and implement technical, administrative, and physical protection measures
+Review whether it has been prepared and whether or not there is a certification related to personal information protection
+※ In addition to the 「Credit Information Business Supervision Regulations」 [Attached Table 8] standards for protection measures for pseudonymous information, the same
+[Attached Table 3] Standards for preparing technical, administrative, and physical security measures, 「Personal Information Protection Act」
+and “Standards for measures to ensure the safety of personal information” in accordance with the Act.
+(Credit) Determination of whether the standards for information protection are complied with
+
+- 30 -
+
+Page 34
+
+ㅇ (Reliability of work performance) Have you ever committed any illegality while using pseudonymous information?
+Review whether there is any possibility of providing pseudonymous information to other organizations without permission
+3) Interpretation of analysis results
+The level of pseudonymization is unconditionally raised just because the re-identification intention or ability is high.
+no need to increase For example, even if the re-identification ability is high, pseudonymous information
+The level of pseudonymization can be lowered if the protection ability and reliability of work performance are very high.
+There will be.
+Conversely, if the ability to protect pseudonym information and reliability of work performance is high,
+The level of pseudonymization should not be lowered. even if they have a high level of protection
+In cases where the intention of re-identification appears to be high, the level of pseudonymization should be increased.
+
+- 31 -
+
+Page 35
+
+[Example of pseudonymization ①] Internal use
+
+▷ Purpose of processing: A card company plans to launch a mid-interest loan product in the first half of 2021.
+To prepare a loan review strategy while preparing, among card users in 2019
+Promoting related analysis and research by extracting customers who are expected to use mid-interest rate products
+▷ Section of using pseudonym information: Inside
+▷ Protection measures and access control level: In accordance with the internal management plan for pseudonymous information and additional information
+Technical, administrative, and physical security equivalent to personal credit information
+Apply countermeasures and use under internal control
+
+end. Sample holding information
+
+ID
+
+name
+
+Card
+
+telephone castle birth year
+
+number
+
+number
+
+star
+
+address
+month day
+
+3779
+010
+
+19342 Hong Gil-dong 3043
+
+-3355
+
+3921
+
+-0934
+
+male
+
+1972.
+9.9.
+
+4523
+
+4932
+20221 Park Sik-byeol
+
+...
+
+...
+
+...
+
+9
+
+125
+
+4.16.
+
+Songnae-dongBank
+
+OO
+
+Gwangju
+
+1983.
+female
+12.3.
+
+-3322
+
+4321
+
+5,500
+Songjeong-dong
+Corporation
+
+Mapo-gu
+
+Saemaeul
+safe
+
+OO
+
+Us
+Bank
+
+Gyeonggi-do
+
+-2891
+
+5943
+
+0
+
+Bank
+
+786-1
+
+010
+
+3453
+
+2
+
+1980.
+
+1979.
+female
+5.23.
+
+-3344
+
+0394
+
+6,000
+
+Yeoksam-dong
+car
+
+nation
+
+Gyeonggi-do
+
+-9290
+
+9843
+
+35
+
+334-1
+
+010
+
+3234
+
+19445 Jeon Ji-yeon
+
+male
+
+-9834
+
+4399
+
+5
+
+Seoul City
+
+-531
+
+2344
+
+4,500
+
+332-1
+
+02
+
+2332
+
+payment
+credit
+balance
+(Ten thousand won)
+Agency
+rank
+(Ten thousand won)
+
+position
+
+Gangnam-gu OO
+
+3943
+
+19354 Kim Chul-soo
+
+overdue
+
+Seoul City
+
+4593
+
+4832
+
+inside
+
+Salary
+
+Yongin
+
+OO
+
+Jukjeon-dong
+law firm
+
+7,000
+
+One
+
+Enterprise
+
+0
+
+Bank
+
+33-11
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+I. Pseudonymization based on re-identification intention and possibility of re-identification
+ㅇ In the situation where you want to analyze your personal credit information by processing it under a pseudonym,
+The pseudonymous information is being used inside the company that created the pseudonymous information.
+The intention to illegally re-identify pseudonymous information is considered to be relatively low.
+can
+
+- 32 -
+
+Page 36
+
+ㅇ Apply security measures equivalent to personal credit information to pseudonymous information and
+Since it is being used under control, the possibility of re-identification is judged to be low.
+※ Applicable when measuring the risk of re-identification of pseudonym information to determine the level of pseudonymization
+Re-identification intention and ability of the user organization, ability to protect pseudonymous information, reliability of business performance, etc.
+Comprehensive consideration by evaluating various aspects
+
+< (Example) Classification of attribute and pseudonymization >
+division
+
+property
+
+danger
+
+Example of pseudonymization *
+
+To identify individuals by credit card companies
+
+Replace after generating random value
+Since it is an ID, there is a possibility that an individual can be identified.
+(For the mapping table,
+However, in time series analysis, it is possible to check whether the same person is
+Separate storage measures)
+As a possible value, it is used after pseudonymization
+
+ID
+
+name
+
+Can identify individuals as identifiers
+
+identifier
+
+delete
+
+identifier and may be held by other operators
+
+card number
+
+delete
+
+There is a risk that an individual may be identified
+identifier and may be held by other operators
+
+Phone number
+
+delete
+
+There is a risk that an individual may be identified
+
+to be combined with information such as date of birth, address, etc.
+Use without special action
+Individuals can be identified if
+
+gender
+
+In combination with information such as address and gender
+
+date of birth
+
+Individuals can be identified
+
+Use without special action
+
+In the case of a detailed address, it is an identifier by itself.
+address
+
+can be judged, and other information
+
+Use without special action
+
+There is a risk that an individual will be identified in combination
+Top and bottom coding when outliers exist
+For some jobs, such as public figures, other information and
+
+job
+(position)
+
+There is a risk that an individual will be identified in combination
+personal identification
+
+apply
+
+available information
+If your income is too much or too little,
+
+Top and bottom coding when outliers exist
+In combination with information, there is a risk that an individual can be identified.
+apply
+existence
+
+Salary
+
+internal credit
+
+Information that has already been rated and is re-identified
+
+rank
+
+Use without special action
+
+Personally Sensitive Information
+
+Top and bottom coding when outliers exist
+
+Sensitive to individuals if leaked outside
+
+overdue balance
+
+Information
+
+apply
+
+With payment institution information, an individual can be identified
+Use without special action
+not high risk
+
+payment institution
+
+* Determined through risk analysis according to the purpose of pseudonymization, processing and use environment, and subject of use
+
+- 33 -
+
+Page 37
+
+[Example of pseudonymization ②] Internal combination
+▷ Purpose of processing: A card company offers a new medium-interest rate loan scheduled to be released in the first half of 2021.
+Using a card in 2019 to prepare a loan review strategy while preparing a product
+We extract customers who are expected to use mid-interest rate products from among customers and conduct related analysis and research.
+Promotion ( to be analyzed by combining data between different departments within the same company)
+▷ Section of using pseudonym information: Inside
+▷ Protection measures and access control level: In accordance with the internal management plan for pseudonymous information and additional information
+Technical, administrative, and physical security equivalent to personal credit information
+Apply countermeasures and use under internal control
+
+end. Sample holding information
+
+ID
+
+name
+
+Card
+
+telephone castle birth year
+
+number
+
+number
+
+star
+
+address
+month day
+
+3779
+010
+
+19342 Hong Gil-dong 3043
+
+-3355
+
+3921
+
+-0934
+
+male
+
+1972.
+
+Gangnam-gu OO
+
+9.9.
+
+4523
+
+4932
+20221 Park Sik-byeol
+
+...
+
+...
+
+...
+
+125
+
+4.16.
+
+Songnae-dongBank
+
+Gwangju
+
+1983.
+female
+12.3.
+
+-3322
+
+4321
+
+9
+
+OO
+
+Saemaeul
+safe
+
+OO
+
+Us
+Bank
+
+Gyeonggi-do
+
+-2891
+
+5943
+
+5,500
+Songjeong-dong
+Corporation
+
+Mapo-gu
+
+786-1
+
+010
+
+3453
+
+0
+
+1980.
+
+1979.
+female
+5.23.
+
+-3344
+
+0394
+
+2
+
+Bank
+
+Gyeonggi-do
+
+-9290
+
+9843
+
+6,000
+
+nation
+
+334-1
+
+010
+
+3234
+
+19445 Jeon Ji-yeon
+
+male
+
+-9834
+
+4399
+
+35
+
+Seoul City
+
+-531
+
+2344
+
+5
+
+332-1
+
+02
+
+2332
+
+payment
+credit
+balance
+(Ten thousand won)
+Agency
+rank
+(Ten thousand won)
+
+4,500
+
+Yeoksam-dong
+car
+
+3943
+
+19354 Kim Chul-soo
+
+overdue
+
+Seoul City
+
+4593
+
+4832
+
+position
+
+inside
+
+Salary
+
+Yongin
+
+OO
+
+Jukjeon-dong
+law firm
+
+7,000
+
+One
+
+Enterprise
+
+0
+
+Bank
+
+33-11
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+I. Pseudonymization based on re-identification intention and possibility of re-identification
+ㅇ If you wish to analyze your personal credit information by processing it under a pseudonym
+In this situation, pseudonymous information is used inside the company that created the pseudonymous information.
+The intention to illegally re-identify pseudonymous information is relatively low.
+- 34 -
+
+Page 38
+
+ㅇ Apply security measures equivalent to personal credit information to pseudonymous information and
+Although the possibility of re-identification is judged to be low because it is being used under control,
+In the process of combining and utilizing data from other departments (tasks), attribute
+Care must be taken to avoid re-identification through combinations of livers
+※ Applicable when measuring the risk of re-identification of pseudonym information to determine the level of pseudonymization
+Re-identification intention and ability of the user organization, ability to protect pseudonymous information, reliability of business performance, etc.
+Comprehensive consideration by evaluating various aspects
+
+<(Example) Classification of attribute and pseudonymization>
+division
+
+property
+
+danger
+
+Example of pseudonymization *
+
+To identify individuals by credit card companies
+
+Replace after generating random value
+Since it is an ID, there is a possibility that an individual can be identified.
+(For the mapping table,
+However, in time series analysis, it is possible to check whether the same person is
+Separate storage measures)
+As a possible value, it is used after pseudonymization
+
+ID
+
+identifier
+
+name
+
+Can identify individuals as identifiers
+
+delete
+
+identifier and may be held by other operators
+
+card number
+
+delete
+
+There is a risk that an individual may be identified
+identifier and may be held by other operators
+
+Phone number
+
+delete
+
+There is a risk that an individual may be identified
+When combined with information such as date of birth, address, etc.
+
+gender
+
+Individuals can be identified
+
+replace with code
+
+Use without special action
+In combination with information such as address and gender, an individual
+(Other personally identifiable information
+can be identified
+take action to eliminate the risk)
+
+date of birth
+
+In the case of a detailed address, it is an identifier by itself. For analysis purposes, the detailed address is
+address
+
+can be judged and combined with other information
+
+As it is unnecessary, the same unit lower
+
+There is a risk that an individual will be identified
+
+Delete address
+
+Use without special action
+For some jobs, such as public figures, other information and
+(Other personally identifiable information
+personal identificationThere is a risk that an individual will be identified in combination
+take action to eliminate the risk)
+available information
+
+job
+(position)
+
+Top and bottom when outliers exist
+
+If you have too much or too little income, you can
+
+Salary
+
+There is a risk that an individual will be identified in combination
+
+internal credit
+
+Coding applied
+
+It is already graded information and cannot be leaked to the outside.
+Use without special action
+If personal sensitive information
+
+rank
+overdue balance
+
+Top and bottom when outliers exist
+
+Personal sensitive information if leaked to outside
+
+Coding applied
+
+With payment institution information, an individual can be identified
+Use without special action
+not high risk
+
+payment institution
+
+* Determined through risk analysis according to the purpose of pseudonymization, processing and use environment, and subject of use
+
+- 35 -
+
+Page 39
+
+[Example of pseudonymization ③] Connection between external organizations
+▶ Purpose of processing: A card company provides a new medium-interest rate loan scheduled to be released in the first half of 2021.
+Company A card in 2019 to prepare a loan review strategy while preparing the product
+User data and credit information inquiry customer data of B credit rating agency
+Combined to promote related analysis and research
+▶ Section of using pseudonym information: Inside
+▶ Level of protection measures and access control: In accordance with the internal management plan for pseudonymized information and additional information
+Technical, administrative, and physical security equivalent to personal credit information
+Apply countermeasures and use under internal control
+
+end. Sample holding information
+
+ID
+
+name
+
+Card
+
+telephone castle birth year
+
+number
+
+number
+
+star
+
+address
+month day
+
+3779
+4593
+
+010
+
+19342 Hong Gil-dong 3043
+
+-3355
+
+3921
+
+-0934
+
+19354 Kim Chul-soo
+
+male
+
+1972.
+
+Gangnam-gu OO
+
+9.9.
+
+4523
+
+4932
+20221 Park Sik-byeol
+
+...
+
+...
+
+...
+
+5,500
+Songjeong-dong
+Corporation
+
+9
+
+125
+
+1980.
+
+Mapo-gu
+
+4.16.
+
+Songnae-dongBank
+
+OO
+
+Gwangju
+
+1983.
+female
+12.3.
+
+-3322
+
+4321
+
+0
+
+Bank
+
+Saemaeul
+safe
+
+OO
+
+Us
+Bank
+
+Gyeonggi-do
+
+-2891
+
+5943
+
+2
+
+nation
+
+786-1
+
+010
+
+3453
+
+6,000
+
+Yeoksam-dong
+car
+
+1979.
+female
+5.23.
+
+-3344
+
+0394
+
+35
+
+Gyeonggi-do
+
+-9290
+
+9843
+
+5
+
+334-1
+
+010
+
+3234
+
+19445 Jeon Ji-yeon
+
+male
+
+-9834
+
+4399
+
+4,500
+
+Seoul City
+
+-531
+
+2344
+
+payment
+credit
+balance
+(Ten thousand won)
+Agency
+rank
+(Ten thousand won)
+
+332-1
+
+02
+
+2332
+
+overdue
+
+Seoul City
+
+3943
+4832
+
+position
+
+inside
+
+Salary
+
+Yongin
+
+OO
+
+Jukjeon-dong
+law firm
+
+7,000
+
+One
+
+Enterprise
+
+0
+
+Bank
+
+33-11
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+I. Pseudonymization based on re-identification intention and possibility of re-identification
+ㅇ Personal credit information possessed by the company is processed under a pseudonym and combined with other company data
+The situation in which the pseudonymous information is to be used in the context of the company's internal
+The pseudonymous information is being used in , and the pseudonymous information is illegally used in
+It can be seen that the intention to re-identify is relatively low.
+- 36 -
+
+Page 40
+
+ㅇ Apply security measures equivalent to personal credit information to pseudonymous information and
+Since it is being used under control, the possibility of re-identification is judged to be low.
+ㅇ However, in the case of combined information combined with data of other companies, unintentionally
+Since it may be re-identified, set the level of pseudonymization rather than [Example of pseudonymization ①].
+need to strengthen
+※ Applicable when measuring the risk of re-identification of pseudonym information to determine the level of pseudonymization
+Re-identification intention and ability of the user organization, ability to protect pseudonymous information, reliability of business performance, etc.
+Comprehensive consideration by evaluating various aspects
+
+< (Example) Classification of attribute and pseudonymization >
+division
+
+property
+
+danger
+
+Example of pseudonymization *
+
+To identify individuals by credit card companies
+ID
+Since it is an ID, there is a possibility that an individual can be identified.
+name
+
+Can identify individuals as identifiers
+identifier
+
+card number
+
+delete
+
+identifier and may be held by other operators
+delete
+There is a risk that an individual may be identified
+identifier and may be held by other operators
+
+Phone number
+
+delete
+
+One-way encryption processing
+
+There is a risk that an individual may be identified
+
+(Used as a combination key)
+
+Use without special action
+to be combined with information such as date of birth, address, etc.
+(Other personally identifiable information
+Individuals can be identified if
+take action to eliminate the risk)
+
+gender
+
+In combination with information such as address and gender
+date of birth
+
+convert to age
+Individuals can be identified
+In the case of a detailed address, it is an identifier by itself. For analysis purposes, the detailed address is
+
+address
+
+can be judged, and other information
+
+Since it is unnecessary,
+
+There is a risk that an individual will be identified in combination
+Delete sub-address in same unit
+job
+
+For some jobs, such as public figures, other information and Manufacturing, finance, etc.
+personal identification
+There is a risk that an individual will be identified in combination
+generalized by occupation
+available information
+
+(position)
+
+If your income is too much or too little,
+Salary
+
+Top and bottom coding when outliers exist
+
+In combination with information, there is a risk that an individual can be identified.
+apply
+internal credit
+
+It is already graded information and cannot be leaked to the outside.
+Use without special action
+If personal sensitive information
+
+rank
+
+overdue balance
+
+Top and bottom coding when outliers exist
+Personal sensitive information if leaked to outside
+apply
+With payment institution information, an individual can be identified
+Use without special action
+not high risk
+
+payment institution
+
+* Determined through risk analysis according to the purpose of pseudonymization, processing and use environment, and subject of use
+
+- 37 -
+
+Page 41
+
+[Example of pseudonymization ④] Externally provided
+▶ Purpose of processing: University C's laboratory stores 10 years of personal credit information held by A card company
+The age and residence of credit card users after the 2008 financial crisis by analyzing
+To study the correlation between region, work area, occupation, salary, etc. and consumption
+▶ Section of using pseudonym information: Outside (University Lab)
+▶ Protective measures and access control level: The technical, administrative, and physical security levels of the C laboratory are
+Confirmed to be lower than credit card companies
+
+end. Sample holding information
+
+ID
+
+name
+
+Card
+
+telephone castle birth year
+
+number
+
+number
+
+star
+
+address
+month day
+
+3779
+4593
+
+010
+
+19342 Hong Gil-dong 3043
+
+-3355
+
+3921
+
+-0934
+
+19354 Kim Chul-soo
+
+2332
+2344
+4399
+
+male
+
+1972.
+
+Gangnam-gu OO
+
+9.9.
+
+3234
+
+19445 Jeon Ji-yeon
+
+9843
+0394
+
+20221 Park Sik-byeol
+
+3453
+5943
+4321
+
+...
+
+...
+
+male
+
+-9834
+
+35
+
+6,000
+
+2
+
+240
+
+5,500
+Songjeong-dong
+Corporation
+
+9
+
+125
+
+Yeoksam-dong
+car
+
+nation
+Bank
+
+1980.
+
+Mapo-gu
+
+OO
+
+4.16.
+
+Songnae-dongBank
+
+Saemaeul
+safe
+
+334-1
+Gyeonggi-do
+
+010
+
+1979.
+female
+5.23.
+
+-9290
+-3344
+
+Gwangju
+
+OO
+
+Us
+Bank
+
+786-1
+Gyeonggi-do
+
+010
+
+1983.
+female
+12.3.
+
+-2891
+-3322
+
+...
+
+5
+
+Seoul City
+
+-531
+
+4932
+
+4,500
+
+332-1
+
+02
+
+4523
+
+Monthly average
+payment
+credit
+payment amount
+(Ten thousand won)
+Agency
+rank
+(Ten thousand won)
+
+Seoul City
+
+3943
+4832
+
+position
+
+inside
+
+Salary
+
+Yongin
+
+OO
+
+Jukjeon-dong
+law firm
+
+7,000
+
+One
+
+85
+
+Enterprise
+Bank
+
+33-11
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+I. Pseudonymization based on re-identification intention and possibility of re-identification
+ㅇ To provide the laboratory with personal credit information possessed by a pseudonym
+Under the circumstances, the pseudonym information is exported outside the credit card company that generated the pseudonym information.
+The security level of the laboratory that is used and used and pseudonymized information is determined by the credit card company.
+It is confirmed that it is lower, so that personal credit information is not re-identified.
+need special attention
+
+- 38 -
+
+Page 42
+
+※ Applicable when measuring the risk of re-identification of pseudonym information to determine the level of pseudonymization
+Re-identification intention and ability of the user organization, ability to protect pseudonymous information, reliability of business performance, etc.
+Comprehensive consideration by evaluating various aspects
+
+< (Example) Classification of attribute and pseudonymization >
+division
+
+property
+
+danger
+
+Example of pseudonymization *
+
+To identify individuals by credit card companies
+ID
+Since it is an ID, there is a possibility that an individual can be identified.
+name
+
+Can identify individuals as identifiers
+identifier
+
+card number
+
+delete
+
+identifier and may be held by other operators
+delete
+There is a risk that an individual may be identified
+identifier and may be held by other operators
+
+Phone number
+
+delete
+
+delete
+
+There is a risk that an individual may be identified
+
+to be combined with information such as date of birth, address, etc.
+replace with code
+Individuals can be identified if
+
+gender
+
+In combination with information such as address and gender
+date of birth
+
+convert to age
+Individuals can be identified
+In the case of a detailed address, it is an identifier by itself. For analysis purposes, the detailed address is
+
+address
+
+can be judged, and other information
+
+Since it is unnecessary,
+
+There is a risk that an individual will be identified in combination
+Delete sub-address in same unit
+job
+
+For some jobs, such as public figures, other information and
+
+(position)
+
+Manufacturing, finance, etc.
+
+There is a risk that an individual will be identified in combination
+generalized by occupation
+personal identification
+If your income is too much or too little,
+available information
+Top and bottom coding when outliers exist
+In combination with information, there is a risk that an individual can be identified.
+apply
+existence
+
+Salary
+
+internal credit
+
+It is already graded information and cannot be leaked to the outside.
+As it is necessary for analysis purposes,
+
+rank
+
+If personal sensitive information
+
+Monthly average
+
+Sensitive to individuals if leaked outside
+
+Amount of payment
+
+payment institution
+
+Use without special action
+
+Categorize and utilize
+
+Information
+
+Outliers delete records
+
+With payment institution information, an individual can be identified
+Use without special action
+not high risk
+
+* Determined through risk analysis according to the purpose of pseudonymization, processing and use environment, and subject of use
+
+- 39 -
+
+Page 43
+
+4. Rules of conduct regarding pseudonymization
+※ 「Credit Information Act」 Article 40-2 (Acts on pseudonymization and anonymity processing), 「Credit information business supervision
+Regulations” [Attached Table 8] Standards for protection measures for pseudonymous information (this guide’s 'Ⅱ. 5. pseudonymized information and
+Refer to 'Criteria for Protection Measures for Additional Information')
+
+end. Separate storage or deletion of additional information
+Credit information companies, etc. must separate and store additional information used for pseudonym processing.
+or should be deleted. In this case, the technical and
+Controlling access to additional information through administrative and physical safeguards
+method must be followed.
+I. Establishment and implementation of technical, administrative, and physical security measures
+The credit information company, etc. may use the pseudonymous personal credit information of a third party
+A pseudonym from access, alteration, damage and destruction of entered information, and other risks
+To protect information, establish an internal management plan and keep access records, etc.
+Technical, administrative, and physical security measures shall be established and implemented, and the following
+should include
+1) Block third parties from illegally accessing pseudonymized personal credit information
+Matters concerning the installation and operation of access control devices such as intrusion prevention systems for
+2) Matters to prevent alteration, damage, and destruction of pseudonymized personal credit information
+3) Differentiate between pseudonymized personal credit information handling and inquiry rights by position and task
+Information on granting and pseudonymized personal credit information access records
+Periodic Inspection Matters
+4) Matters concerning separation of personal credit information before pseudonymization and personal credit information processed under pseudonym
+5) Use of pseudonymous information for statistical purposes, research, public record preservation, etc.
+Matters concerning the prevention of use for purposes other than the pertinent purpose
+6) In order to secure the safety of other pseudonymized personal credit information, the Financial Services Commission
+Matters determined and announced
+
+- 40 -
+
+Page 44
+
+All. Restrictions on pseudonymization
+Credit information companies, etc. may not identify specific individuals for profit or fraudulent purposes.
+The pseudonymous information should not be processed in such a way that
+la. Actions in case of re-identification
+In the process of using pseudonymous information, credit information companies, etc.
+If it becomes possible, immediately collect the pseudonym information, stop processing, and
+Information that can identify an individual must be deleted immediately.
+If there is a history of re-identification of pseudonymous information, credit information management and
+It should be reported to the guardian and allowed to record and manage.
+hemp. Preservation of pseudonymization records
+When personal credit information is processed under a pseudonym, the credit information company, etc.
+Records of such actions shall be kept for three years, including
+1) Date of pseudonymization
+2) Items of pseudonymized information
+3) Reasons and grounds for pseudonymization
+
+- 41 -
+
+Page 45
+
+< (Example) records of pseudonymization >
+date
+
+Basis for pseudonymizationinformation item Reason for pseudonymization
+How to deal with pseudonyms
+customer ID
+
+identifier
+
+name
+
+identifier
+
+delete
+Combination of name and mobile number
+Hash function (SHA-256, salt value)
+
+Mobile Phone Number
+
+identifier
+
+Apply) to create an ID and then delete it
+Personally Identifiable Information
+(Possibility of re-identification
+
+age
+① Purpose of pseudonymization
+
+No age required)
+
+Credit ratings by age group
+
+Personally Identifiable Information
+
+A study on the delinquency rate
+
+2020.
+
+loan amount
+
+② Attach related documents
+
+round to thousands
+
+(For research purposes,
+figures are not required)
+
+(Research plan (draft), etc.)
+
+9. 1.
+
+Categorize by age group
+
+specific for research purposes
+
+Personally Identifiable Information
+
+③ Ground rules
+
+overdue record
+
+Display only overdue status (Y/N)
+
+Article 32 of 「Credit Information Act」
+
+(Specific figures are
+
+Paragraph 6, 9-2, etc.
+
+There is a risk of re-identification)
+
+Personally Identifiable Information
+(credit rating is
+already categorized
+
+credit rating
+
+No action required
+
+Re-identification due to grade
+almost no concern
+none)
+
+…
+customer ID
+
+…
+identifier
+
+name
+
+identifier
+
+…
+delete
+Combination of name and mobile number
+Hash function (SHA-256, salt value)
+
+Mobile Phone Number
+
+Apply) to create an ID and then delete it
+Personally Identifiable Information
+
+① Purpose of pseudonymization
+on the characteristics of the insured
+Joint research on Korea (Company trading
+X
+
+(specific point
+
+point
+
+there is a risk)
+
+② Attach related documents
+
+Personally Identifiable Information
+
+(a contract between the two companies,
+
+11. 3.
+
+(Concrete
+
+Joint research plan (draft), etc.)
+③ Ground rules
+
+Categorize by phrase
+
+information is re-identified
+
+Analysis after combining with data)
+
+2020.
+
+identifier
+
+Delete only outliers and separate
+
+Number of insurance purchases
+The number of subscriptions
+risk of re-identification
+
+「Credit Information Act」 Article 17-2,
+
+use without action
+
+lowness)
+
+Article 32 (6) 9-2;
+Article 14-2 of the Enforcement Decree of the same Act
+
+Personally Identifiable Information
+(For research purposes
+
+Terms and Conditions Loan Amount
+
+round to tens of thousands
+
+specific figures are
+Unnecessary)
+
+…
+
+…
+
+…
+
+- 42 -
+
+Page 46
+
+bar. Disclosure of pseudonymization related matters
+The pseudonymous information is only used for limited purposes, such as statistical preparation, research, and public record preservation.
+It is a special form of personal credit information that can be used. Therefore, pseudonymous information is processed
+Institutions that conduct pseudonymization are subject to the 「Credit Information Act」 and 「Personal Information Protection Act」.
+It must be disclosed in accordance with laws such as
+Credit information companies, credit information collection agencies, and the provisions of Article 27 of the Enforcement Decree of the same Act.
+The provision of credit information and the user shall take into account matters related to the use of pseudonymous information.
+It must be included in the system and disclosed (「Credit Information Act」 Article 31).
+< (Example) Items to be included in the credit information utilization system related to processing of pseudonymous information >
+1. Personal credit information protection and management, including matters related to pseudonymization of personal credit information
+master plan
+2. Types of pseudonymous information processed and purpose of use
+3. In the case of providing pseudonymous information to a third party, the type of pseudonymous information to be provided, the subject of the provision, and the
+Purpose of use by the recipient
+4. Period of retention or use of pseudonymous information, procedures and methods of destroying pseudonymous information
+
+4. Period of retention or use of pseudonymous information, procedures and methods of destroying pseudonymous information
+5. If there is an entrustment of the processing of pseudonym information, the contents of the business and the trustee
+6. Items of pseudonymous information to be processed
+
+◎ 「 Credit Information Act」
+」 Article 31 (Public Disclosure of Credit Information Utilization System) ① Personal credit rating agencies and individual business operators
+Credit rating agency, corporate credit inquiry company, credit information collection agency, and credit prescribed by Presidential Decree.
+Information providers and users shall disclose the following matters as prescribed by Presidential Decree.
+shall.
+1. Basic plan for personal credit information protection and management (total assets, number of employees, etc.)
+Female limited to those prescribed by Presidential Decree)
+2. Types of managed credit information and purpose of use
+3. Persons to whom credit information is provided;
+4. Types of rights and methods of exercise of credit information subjects
+5. Types of credit information reflected in credit evaluation, reflection weight, and reflection period (personal credit evaluation)
+Company, individual business credit rating company, and corporate credit rating provision business and technology credit rating business
+(limited to corporate credit inquiry companies)
+
+- 43 -
+
+Page 47
+
+6. Matters under Article 30 (1) 6 and 7 of the 「Personal Information Protection Act」
+7. Other matters related to the processing of credit information, as prescribed by Presidential Decree.
+
+◎ Enforcement Decree of 「 Credit Information Act」
+」
+Article 27 (Public Disclosure of Credit Information Utilization System) ① In Article 31 of the Act, "credit information prescribed by Presidential Decree"
+"Provider/user" means Article 5 (1) 1 through 21 and Article 21 (2) 1 through 21
+Refers to an institution that falls under any of the provisions of the preceding paragraph.
+② Credit information companies, credit information collection agencies, and persons falling under paragraph (1) shall comply with Article 31 of the Act.
+The following matters shall be disclosed.
+1. Types of managed credit information and purpose of use
+2. When providing credit information to a third party, the type of credit information to be provided, the subject of the provision;
+Purpose of use by the recipient (limited to those falling under paragraph 1)
+3. If there is a period of retention and use of credit information,
+Procedures and methods (limited to those falling under paragraph 1)
+4. In the case of entrusting the processing of credit information pursuant to Article 17 of the Act, the contents of the business and the trustee
+5. Rights of subjects of credit information and methods of exercising them;
+6. Credit information management and custodian or credit information management and protection under Article 20 (3) of the Act;
+Name, department and contact information of the person handling the grievance
+7. The type of credit information reflected in the credit rating calculation, the weight of reflection, and the period of reflection (credit inquiry)
+company only)
+Article 5 (Subject to permission by credit information business) ① In Article 5 (1) 1 of the Act, "the
+The term "financial institution" means an institution falling under any of the following subparagraphs: Provided , That subparagraph 9
+In the case of subparagraph 14, it refers only to the association or the central association.
+1. A bank established with authorization under the Banking Act (referred to as a bank under Article 59 of the same Act);
+including viewers)
+2. A financial holding company under the Financial Holding Company Act;
+3. The Korea Development Bank under the Korea Development Bank Act;
+4. The Export-Import Bank of Korea under the Export-Import Bank of Korea Act;
+5. Nonghyup Bank under Article 161-11 of the Agricultural Cooperatives Act;
+5 of 2. Suhyup Bank under the Fisheries Cooperatives Act
+6. Small and Medium Business Bank under the Small and Medium Business Bank Act;
+7. Korea Housing Finance Corporation under the Korea Housing Finance Corporation Act;
+8. A financial investment business entity or securities finance company under the Capital Markets and Financial Investment Business Act;
+ㆍComprehensive financial company, fund brokerage company, and transfer agency
+9. Mutual savings banks and their national associations under the Mutual Savings Banks Act;
+
+- 44 -
+
+Page 48
+
+10. Agricultural cooperatives and their national associations under the Agricultural Cooperatives Act;
+11. Fisheries cooperatives and their national associations under the Fisheries Cooperatives Act;
+12. Forestry cooperatives and their national associations under the Forestry Association Act;
+13. Credit unions and their national associations under the Credit Cooperatives Act;
+14. Saemaul Geumgo and its association under the Saemaul Geumgo Act
+15. Insurance companies under the Insurance Business Act;
+16. A specialized credit finance company under the Specialized Credit Finance Business Act (Article 3 (3) of the Specialized Credit Finance Business Act);
+(including those who have obtained permission or registered under subparagraph 1)
+17. Technology Guarantee Fund under the Technology Guarantee Fund Act
+18. The Korea Credit Guarantee Fund under the Credit Guarantee Fund Act;
+19. Credit guarantee foundations and their national associations under the Local Credit Guarantee Foundation Act;
+20. Korea Trade Insurance Corporation under the Trade Insurance Act
+21. Deposit Insurance Corporation and Reorganization Financial Companies under the Depositor Protection Act;
+Article 21 (Intensive Management and Utilization of Credit Information) ② In Article 25 (2) 1 of the Act, "the
+The term "financial institution" means a financial institution under Article 5 (1) 1 through 20 and any of the following:
+an institution that says
+1. Mutual aid association under the Framework Act on the Construction Industry;
+2. A government bond registration agency under the Government Bond Act;
+3. Korea Agro-Fisheries and Food Distribution Corporation under the 「Korea Agro-Fisheries Food Distribution Corporation Act」
+4. The credit recovery committee under Article 56 of the Act on Support for Financial Livelihood of the Common People;
+5. Labor and Welfare Corporation under the Industrial Accident Compensation Insurance Act;
+6. A software mutual aid association under the Software Industry Promotion Act;
+7. Engineering mutual aid association under the Engineering Industry Promotion Act;
+8. A reorganization finance company under the Depositor Protection Act;
+9. Post offices under the Post Office Deposit and Insurance Act;
+10. Electrical Construction Mutual Aid Association under the Electrical Works Mutual Aid Association Act;
+11. Housing and Urban Guarantee Corporation under the Housing and Urban Fund Act
+12. Small and Medium Venture Business Corporation under the Small and Medium Business Promotion Act
+13. Small and medium business establishment investment companies and small and medium business establishment investment associations under the Small and Medium Business Startup Support Act
+14. Korea Federation of Small and Medium Enterprises under the Small and Medium Business Cooperatives Act
+15. Korea Scholarship Foundation under the 「Act on the Establishment of the Korea Scholarship Foundation, etc.」
+16. 「Regarding the Efficient Handling of Insolvent Assets of Financial Companies and the Establishment of Korea Asset Management Corporation」
+Korea Asset Management Corporation in accordance with the Act
+17. National Happiness Fund established under the 「Commercial Act」
+18. The Financial Services Agency for low-income earners under Article 3 of the 「Act on Support for Financial Lives of Low People」;
+
+- 45 -
+
+Page 49
+
+19. In accordance with Article 3 (2) of the 「Act on Registration of Loan Business, etc. and Protection of Financial Users」
+A loan company registered with the Financial Services Commission, etc.
+20. Capital goods mutual aid association under Article 40 (1) 1 of the Industrial Development Act
+21. Small Business Market Promotion Corporation under Article 17 (1) of the 「Act on the Protection and Support of Small Businesses」
+
+In addition, the personal information controller, including matters related to the processing of pseudonymous information,
+The personal information processing policy must be prepared and disclosed (「Personal Information Protection Act」
+Article 30).
+◎ 「 Personal Information Protection Act」
+」 Article 30 (Establishment and Disclosure of Personal Information Handling Policy) ① Personal information controller
+Personal information processing policy including the following matters (hereinafter referred to as "personal information processing policy")
+should be determined). In this case, the public institution shall be an individual subject to registration pursuant to Article 32.
+A personal information processing policy is established for information files.
+1. Purpose of processing personal information
+2. Processing and retention period of personal information
+3. Matters concerning the provision of personal information to a third party (determined only if applicable)
+3 of 2. Procedures and methods of destruction of personal information (personal information is destroyed in accordance with the proviso to Article 21 (1))
+In the case of preservation, the basis for preservation and the items of personal information to be preserved are included)
+4. Matters concerning entrustment of personal information processing (determined only if applicable)
+5. Matters concerning the rights and obligations of information subjects and their legal representatives and methods of exercising them;
+6. Name of the person in charge of personal information protection under Article 31 or personal information protection duties and management
+Contact information such as the name and phone number of the department handling related grievances
+7. Installation and operation of devices that automatically collect personal information such as Internet access information files
+and matters concerning the refusal (determined only if applicable)
+8. Other matters prescribed by Presidential Decree regarding the processing of personal information
+
+four. Exceptions to the application of pseudonymous information
+Personal credit information that has been pseudonymized also falls under the “Credit Information Act” as personal credit information.
+However, the same Act applies to personal credit information, retention period, personal credit information
+In some cases, such as consent to provision and use, there are exceptions to the application.
+is determining
+
+- 46 -
+
+Page 50
+
+◎ 「 Credit Information Act」
+」
+Article 20-2 (Period of Retention of Personal Credit Information, etc.) ② Article 21 (1) of the 「Personal Information Protection Act」
+Notwithstanding, the credit information provision and user shall receive the credit information for the longest period from the date on which the commerce relationship such as financial transaction is terminated.
+Within 5 years (if the purpose of information collection and provision has been achieved before the relevant period, the
+Manage personal credit information of the credit information subject within 3 months from the date the purpose is achieved)
+should be deleted from the target. However, this is not the case in each of the following subparagraphs.
+2 of 2. In the case of using pseudonymous information, the purpose of use, technical characteristics of pseudonymization, and
+In case of preservation for a period prescribed by Presidential Decree in consideration of attributes, etc.
+Article 40-3 (Excluding application to pseudonymous information) With regard to pseudonymous information, Article 32 (7), Article 33-2,
+Article 35, Article 35-2, Article 35-3, Article 36, Article 36-2, Article 37, Article 38, Article 38-2,
+Articles 38-3, 39 and the provisions of Articles 39-2 through 39-4 shall not apply.
+Article 32 (Consent to Provision and Use of Personal Credit Information)
+Article 33-2 (Request for Transmission of Personal Credit Information)
+Article 35 (Inquiry of Use and Provision of Credit Information)
+Article 35-2 (Obligation to Explain Possibility of Declining Personal Credit Rating, etc.)
+Article 35-3 (Provision of Credit Information and Prior Notice to Users)
+Article 36 (Notification, etc. of Credit Information Based on Refusal of Commercial Transactions)
+Article 36-2 (Explanation of results of automated evaluation and objection, etc.)
+Article 37 (Right to withdraw consent to provide personal credit information, etc.)
+Article 38 (Request for Inspection and Correction of Credit Information, etc.)
+Article 38-2 (Request for Notification of Credit Inquiry Office)
+Article 38-3 (Request for Deletion of Personal Credit Information)
+Article 39 (Free Reading Right)
+Article 39-2 (Perusal, etc. of Creditor Change Information)
+Article 39-3 (Methods and Procedures for Exercising Rights of Credit Information Subjects)
+Article 39-4 (Notice of Leakage of Personal Credit Information, etc.)
+
+- 47 -
+
+Page 51
+
+5. Standards for protection measures for pseudonymized information and additional information
+※ 「Credit Information Business Supervision Regulations」 [Annex 8] Standards for Protection Measures for Pseudonym Information (Related to Article 43-7)
+
+end. Technical and physical protection measures
+1) Protection measures for additional information
+A) When the credit information company, etc. must preserve the additional information without deleting it
+Additional information shall be encrypted and stored in a separate storage * from pseudonymous information .
+※ Except in cases where additional information must be preserved, additional information will be deleted.
+recommend that
+* Both logical and physical separation methods are possible, but the method of partitioning tables is not allowed
+
+B) As a general rule, credit information companies, etc., have staff who handle pseudonymous information to provide additional information.
+Access should not be granted, and access to additional information should not be
+Temporarily granted with prior approval from the manager in case of unavoidable circumstances
+and have an appropriate control system in place, such as keeping relevant records.
+C) The credit information company, etc., when keeping records according to 'b)' above, the identity of the accessor,
+The identity of the person in charge of management, access date and time, target information, reasons for which inquiry is unavoidable,
+Records of use, etc. shall be kept for 3 years.
+d) Credit information companies, etc. use additional information to re-identify pseudonymous information, etc.
+Periodic inspection at least once a month to avoid being used for illegal purposes
+shall.
+
+◎ In order to strengthen protection measures for additional information, the 「Credit Information Act」 and its enforcement ordinance, 「Credit
+Although not obligatory under the Information Industry Supervision Regulations, the person in charge of original information and additional information is also separated.
+It can also be considered
+
+- 48 -
+
+Page 52
+
+2) Protection measures for pseudonymous information
+A) Credit information companies, etc. may not process personal credit information and pseudonymized individuals before pseudonymization.
+Credit information should be stored separately.
+B) Credit information companies, etc. separately designate a person in charge of handling pseudonymous information
+The person in charge who manages and handles personal credit information and access rights before pseudonymization
+It should be operated separately.
+C) Credit information companies, etc., in principle, use pseudonyms for employees who handle pseudonymous information.
+You must not grant permission to access your personal credit information before processing
+In case access to the original information is unavoidable, prior approval from the person in charge of management must be obtained.
+Appropriate control, such as obtaining and temporarily granting
+have to have a system.
+d) The identity of the accessor when the credit information company, etc. keeps records according to 'c)' above;
+The identity of the person in charge of management, access date and time, target information, reasons for which access is unavoidable,
+Records of use, etc. shall be kept for at least 3 years.
+E) Credit information companies, etc., when processing pseudonym information, specifically process pseudonym information
+After the pseudonym information is destroyed by recording the purpose, processing method, and processing date and time
+Stored for at least 3 years, and periodically check the processing records at least once a month
+should be supervised
+F) Credit information companies, etc. prepare their own sanctions standards for misuse and abuse of pseudonymous information
+shall.
+
+- 49 -
+
+Page 53
+
+I. Administrative safeguards
+1) The credit information company, etc. may use the pseudonymous personal credit information of a third party
+A pseudonym from access, alteration, damage and destruction of entered information, and other risks
+Separate internal management including the following items to protect information
+A plan should be established and implemented.
+A) Matters concerning granting, changing, and canceling access to pseudonymous information and additional information
+B) Protection of systems and terminals where pseudonymous information and additional information are stored or processed
+Measures to be taken
+C) Matters concerning the storage and inspection of records of access to pseudonymized information and additional information
+D) Matters concerning the retention period and destruction standards and methods of pseudonymized information and additional information
+E) Matters concerning measures to prevent the use of pseudonymous information for purposes other than the purpose and prevent re-identification
+F) Matters regarding follow-up management when pseudonymized information is provided to a third party
+2) Credit information companies, etc. are responsible for handling persons who access pseudonymous information and additional information.
+Education on protection of pseudonym information including the following should be conducted at least once a year.
+A) Matters concerning the prohibition of use of pseudonymized information for purposes other than the purpose
+B) Matters concerning the prohibition of re-identification of pseudonymous information
+C) Matters concerning the immediate collection and deletion of pseudonym information in the case of re-identification
+3) The credit information company, etc. considers the following matters to determine the retention period of pseudonym information.
+It should be reviewed periodically, judged whether it is appropriate, and adjusted if necessary.
+A) Level of technical, administrative, and physical protection measures for additional information and pseudonymous information
+B) Effect on data subject in case of re-identification of pseudonymous information
+C) Possibility of re-identification of pseudonymous information
+D) Purpose of use of pseudonymous information and the minimum period necessary to achieve the purpose
+
+- 50 -
+
+Page 54
+
+4) Credit information companies, etc. use pseudonymous information for statistical preparation, research, and preservation of records in the public interest.
+For consent to the provision and use of personal credit information,
+Relevant obligations (Article 32 Paragraphs 1 to 5 of the 「Credit Information Act」) do not apply
+(Article 32 (6) 9-2 of the same Act). When providing to a third party, the following
+must be complied with.
+A) Not to disclose pseudonymous information to unspecified people;
+B) When providing pseudonym information, the person receiving the pseudonym information, the purpose of using the pseudonym information,
+The use and retention period of pseudonymous information shall be specified in detail and provided.
+C) Prohibition of re-identification of pseudonymous information, prohibition of use of pseudonymous information for purposes other than the purpose, etc.
+Notify them of the laws and regulations
+d) Not to provide or disclose additional information
+E) If the possibility of re-identification of pseudonymous information is discovered, the information is processed immediately
+Notifying the person who is doing the processing, requesting to stop processing, and recovering/receiving the information
+take action to destroy
+
+◎ Article 32 of the 「 Credit Information Act」
+」 (consent to the provision and use of personal credit information) ① Provision of credit information
+When a user intends to provide personal credit information to another person,
+As such, from the subject of credit information in a manner falling under any of the following subparagraphs:
+Each time personal credit information is provided, individual consent must be obtained in advance. but,
+Accuracy and up-to-dateness of personal credit information within the previously agreed purpose or scope of use
+This is not the case in the case of maintenance.
+1. Written
+2. An electronic document with a certified digital signature under subparagraph 3 of Article 2 of the Electronic Signature Act (“Electronic Documents”);
+and electronic documents under subparagraph 1 of Article 2 of the Framework Act on Electronic Transactions)
+3. Consent to the provision of personal credit information in consideration of the provision of personal credit information and the purpose of provision, etc.
+Input personal password through wired/wireless communication that can ensure stability and reliability
+way to do
+4. A method of notifying the individual of consent through wired or wireless communication and obtaining consent.
+In this case, the voice recording of the person's identity, the content of consent, and the individual's response
+Evidence, etc. shall be secured and maintained, and as prescribed by Presidential Decree;
+Follow the post notification procedure.
+
+- 51 -
+
+Page 55
+
+5. Other methods prescribed by Presidential Decree.
+② Personal credit rating company, individual business credit rating company, corporate credit inquiry company, or credit
+A person who intends to receive personal credit information from an information concentration institution shall be prescribed by Presidential Decree.
+As such, a method falling under any of the subparagraphs of Paragraph 1 from the subject of credit information
+Each time personal credit information is provided by
+Or in the case of maintaining the accuracy and freshness of personal credit information within the scope of use
+excluded) should be obtained. In this case, a person who intends to receive personal credit information
+When personal credit score may decrease when inquiring information, the credit information subject
+This should be notified.
+③ Personal credit rating company, individual business credit rating company, corporate credit inquiry company or credit
+In the case where the information collection agency provides personal credit information pursuant to Paragraph 2, the individual concerned
+Whether a person who intends to receive credit information has obtained consent under paragraph (2) shall be determined by Presidential Decree.
+It should be checked as determined.
+④ Credit information companies, etc. may receive consent in relation to the provision and use of personal credit information.
+In this case, as prescribed by Presidential Decree, the necessary consent and
+Other optional consents must be separately explained, and consent must be obtained for each. this
+In this case, the mandatory consent must explain the relevance to the service provision, and optional
+Consent must be notified of the fact that you may not agree to the provision of information.
+⑤ The credit information company, etc. shall notify that the subject of credit information does not agree to the optional consent.
+The provision of services to the subject of credit information shall not be refused for any reason.
+
+All. Application of protection measures mutatis mutandis
+Other protection measures for pseudonymous information that a credit information company, etc. should prepare
+Technical, managerial, and physical of credit information in 「Regulations on Supervision of Credit Information Business」 [Annex 3]
+Apply security measures mutatis mutandis. Regarding the protection of pseudonymous information and additional information, 「Credit
+Information Industry Supervision Regulations” [Attached Table 3] and Credit Information Business Supervision Regulations [Attached Table 8]
+In this case, [Appendix 8] shall take precedence.
+
+- 52 -
+
+Page 56
+
+Ⅲ. Anonymization and adequacy assessment
+
+1. Overview
+end. Anonymization
+In accordance with the Credit Information Act, credit information companies, etc. are no longer a specific individual.
+After anonymizing personal credit information so that the holder cannot be identified, it is
+It can be used internally or provided to a third party.
+I. Anonymization step
+1) Anonymization
+All or all elements that can identify an individual in the information set (data set)
+By using methods such as partial deletion or replacement, it is no longer a specific individual.
+Take measures so that the subject of credit information cannot be identified.
+2) Adequacy evaluation
+When combined with other information, it is no longer possible to identify a specific individual, the credit data subject.
+Evaluate whether anonymization is adequately performed to prevent Credit information companies, etc.
+You can request the Financial Services Commission to review the adequacy of anonymization.
+All. Obligation to keep records
+When personal credit information is anonymized, credit information companies, etc.
+Action records shall be retained for three years.
+1) Anonymized date
+2) Items of anonymous information
+3) Reasons and grounds for anonymization
+
+- 53 -
+
+Page 57
+
+2. Anonymization method
+end. Criteria for applying attribute classification and anonymization
+1) Credit information companies, etc. use the information subject to anonymization as identifiers and personal identification.
+After classification as possible information, an appropriate anonymization technique should be applied.
+※ The classification of information subject to anonymization depends on the purpose of anonymization and the environment of use and provision.
+may vary
+
+2) In case of anonymization, the identifier must be deleted, and inevitably, for the purpose of information use,
+If necessary, it shall be used after appropriate anonymization.
+3) Among personally identifiable information, attributes with high personal identification
+Measures such as raising the level of anonymization should be taken.
+※ Techniques such as k-anonymity model can also be applied (refer to '9. Privacy Protection Model' in 'Attachment 1')
+
+4) Attributes with low personally identifiable information among personally identifiable information are used for the purpose of use;
+Homogeneity, if necessary, taking into account the characteristics of the information and the combination with other information
+In order to remove various risks such as attacks and background knowledge attacks,
+Anonymization technique should be applied.
+※ '9. of 'Appendix 1' See 'Privacy Protection Model'
+
+I. Anonymization technique
+1) Aggregation, data erasure, data categorization, data masking and privacy
+Several techniques such as protection models should be used alone or in combination.
+2) Each technique has various detailed techniques that can implement it,
+In consideration of the purpose of data use and the advantages and disadvantages of each method,
+Detailed technologies should be selected and utilized (see 'Appendix 1').
+
+- 54 -
+
+Page 58
+
+< Available pseudonymization/anonymization technology (refer to 'Attachment 1' for details) >
+◎ Credit information companies, etc. apply for anonymity even if the technology described in this guide is applicable.
+Appropriate technology for anonymization should be selected and applied. Also described in this guide
+If it is determined that other technologies that have not been used are more suitable, anonymization is applied by applying them.
+can do.
+division
+
+Characteristic
+By extracting a part rather than the entire population for each information subject,
+
+sampling
+
+How to use
+
+statistics
+tool
+total processing
+
+Treated as average or sum of attribute values
+
+Deterministic encryption Encryption using the same key
+
+Order Preserving Encryption Two values ​encrypted with the same key maintain the same order in the ciphertext
+
+encryption
+
+A series of symbol formats with the same format and length as the original data.
+form-preserving encryption
+convert data to
+
+tool
+
+homomorphic encryption
+Performs operations such as addition and subtraction in encrypted state without decryption
+
+k number of identifiers or sensitive attributes in a data record
+homogeneous secret distribution
+Replace with distributed secret value
+
+masking
+
+delete
+
+Replacing specific attribute values ​with '**' or 'OO', etc.
+
+local delete
+
+technique
+
+Delete a specific attribute value from the record (partial deletion)
+
+Specially distinguished attribute values ​such as outliers in data
+
+Delete record
+
+pseudonymization
+
+Remove records containing
+The identifier of the data subject is created specifically for each data subject.
+
+-
+
+technique
+
+dissection
+
+A technique for substituting an indirect identifier
+Converting one existing dataset (table) to two datasets
+
+-
+
+how to separate
+
+- 55 -
+
+Page 59
+
+division
+
+Characteristic
+
+rounding
+
+Rounding or rounding a specific reference value to a base
+
+By determining the maximum and minimum values, the given value can be converted to the maximum or
+top and bottom coding
+replace with minimum
+
+generalization
+technique
+
+a set of properties
+
+categorization
+Combining as a single attribute value
+
+local generalization Technique that applies generalization only to groups with singular values
+
+permutation
+
+randomization
+
+Reorder (exchange) attribute values ​between records without modifying attribute values
+
+While maintaining the statistical characteristics of the original properties as much as possible, the corresponding
+add noise
+
+technique
+
+Add by multiplying or adding a random value to an attribute value
+As a kind of aggregation processing, continuous attributes (that is, records in a homogeneous set) are
+
+partial total
+
+Replace all values ​with the average calculated by a specific algorithm
+After estimating the distribution of the raw data based on the actual data,
+reproduction data
+
+-
+
+Based on this, statistically and probabilistically
+similar virtual data
+At least k records with the same attribute exist
+
+k-anonymity model
+
+to protect privacy
+Sensitive attribute information of an equivalent class
+l-diversity model
+
+privacy
+
+attribute) to have at least l different attributes.
+Compensating for weaknesses of k-anonymity (homogeneity attack, background knowledge attack)
+
+city ​protection
+Model
+
+Distribution of other attributes of a specific homogeneous set and other of all data
+t-proximity model
+
+Adjust the attribute distribution difference to be less than or equal to t
+
+difference
+
+The difference (probability distribution) of two DBs with one record different
+
+privacy
+
+Privacy model based on
+
+protection model
+
+- 56 -
+
+Page 60
+
+[Anonymity processing example]
+▷ Purpose of processing: Credit card company anonymizes card use information and sends it to general business
+and general business operators want to analyze it and use it for marketing, etc.
+▷ Identifier processing: Apply deletion
+▷ Personal identifiable information processing: k-anonymity, categorization, generalization, deletion, etc.
+
+<Credit Card Company>
+
+<General business operator>
+Provision of anonymous information
+Anonymous information provided or purchased
+
+customer card usage information
+
+Analyze consumer trends
+
+Anonymization
+
+Identify or use for group marketing
+
+end. Sample holding information
+ID
+
+name
+
+Card
+
+telephone
+
+number number
+
+gender
+
+birth year
+month day
+
+3779
+010
+
+19342 Hong Gil-dong 3043
+
+-3355
+
+3921
+
+-0934
+
+male
+
+1972.
+9.9.
+
+4,500
+
+5
+
+35
+
+6,000
+
+2
+
+0
+
+5,500
+Songjeong-dong
+Corporation
+
+5
+
+125
+
+Yeoksam-dong
+car
+
+4523
+19445 Jeon Ji-yeon
+
+3234
+
+3453
+
+...
+
+female
+
+-3322
+
+...
+
+4.16.
+
+Songnae-dongBank
+
+1979.
+
+Gwangju
+
+5.23.
+
+Gyeonggi-do
+
+-2891
+
+5943
+
+OO
+
+Saemaeul
+safe
+
+...
+
+OO
+
+Us
+Bank
+
+786-1
+
+010
+
+4321
+...
+
+female
+
+-3344
+
+4932
+
+Mapo-gu
+
+Gyeonggi-do
+
+-9290
+
+9843
+
+1980.
+
+334-1
+
+010
+
+0394
+
+20221 Park Sik-byeol
+
+male
+
+-9834
+
+4399
+
+Bank
+
+Seoul City
+
+-531
+
+2344
+
+nation
+
+332-1
+
+02
+
+2332
+
+wife
+
+Gangnam-gu OO
+
+3943
+
+19354 Kim Chul-soo
+
+work
+
+Seoul City
+
+4593
+
+4832
+
+address
+
+overdue
+inside
+Salary
+payment
+credit
+balance
+(Ten thousand won)
+Agency
+rank
+(Ten thousand won)
+
+...
+
+1983.
+
+Yongin
+
+OO
+
+law law
+Jukjeon-dong
+sign
+33-11
+
+12.3.
+
+...
+
+...
+
+...
+
+7,000
+
+...
+
+One
+
+0
+
+...
+
+...
+
+Enterprise
+Bank
+
+...
+
+I. Anonymization considering purpose and risk
+ㅇ Purpose of anonymization, environment of use and provision, combination with other information, homogeneity attack,
+Anonymization is applied in consideration of various risks such as background knowledge attacks.
+※ The classification of attributes in the examples and the applied anonymous technology are not absolute.
+
+- 57 -
+
+Page 61
+
+division
+
+property
+
+danger
+
+Anonymization technology
+
+To identify individuals by credit card companies
+
+ID
+
+delete
+Because it is an ID, there is a possibility that an individual can be identified
+
+name
+
+Individuals can be identified by identifiers
+identifier
+
+delete
+
+Identifier and held by other operators
+card number
+
+risk of being identified as there may be
+
+delete
+
+this being
+Identifier and held by other operators
+Phone number
+
+risk of being identified as there may be
+
+delete
+
+this being
+In combination with information such as date of birth and Information
+address,
+such as date of birth and address
+
+gender
+
+Individuals can be identified
+
+date of birth
+
+Eliminate risk by anonymizing
+
+Delete your birthday and set your age
+In combination with information such as address and gender, an individual
+personal identification
+Categorized by age group (20s/30s)
+can be identified
+Available information*
+Etc)
+(k-anonymity
+Addresses below the same name are deleted, k-
+
+apply)
+
+does not meet the level of anonymity
+In combination with information such as gender and date of
+If birth,
+not, the address below the ward
+
+address
+
+Individuals can be identified
+
+Privacy protection such as deletion
+to satisfy the model level.
+measure
+
+Other businesses may have
+
+Self-employed, public officials, office workers,
+and combined with other information to be identified by an individual
+generalize to guitar
+there is a risk of becoming
+
+job
+
+If your income is too much or too little,
+
+Salary
+
+internal credit rating
+
+Considering the distribution of salaries
+the risk of being personally identifiable in combination with information
+Categorize into 3 levels
+this being
+personal identification
+Information that has already been rated and is sensitive to 5individuals
+levels of internal credit rating
+available information
+(k-anonymity
+
+information
+
+categorization
+
+Sensitive to estimate an individual's income
+
+Consider the distribution of overdue balances
+
+Information
+
+to categorize into 10 levels
+
+Unapplied)
+overdue balance
+
+Businesses who receive anonymous information are required
+
+payment institution
+
+not information
+
+delete
+
+* Among the personally identifiable information, k-anonymity applicable information takes into account the possibility of personally identifiable information when combined with other information.
+selected by
+
+- 58 -
+
+Page 62
+
+3. Adequacy assessment
+end. Credit information companies, etc. may not process personal credit information anonymously in accordance with the Credit Information Act.
+You can request an adequacy review from the Financial Services Commission to see if it was done properly.
+The Financial Services Commission is responsible for reviewing the adequacy of anonymization and recognizing the adequacy of anonymization.
+Entrust the data to a specialized agency.
+※ If the Financial Services Commission recognizes that anonymization has been performed appropriately, it will no longer be applicable.
+Assessing the personal credit information subject as unrecognizable information
+Unless there is evidence to the contrary, it is not personal credit information, but if there is evidence that it is personal credit information
+In this case, it means that it is regarded as personal credit information)
+◎ Article 40-2 of the 「 Credit Information Act」
+」 (Acts regarding pseudonymization and anonymity processing)
+③ The credit information company, etc. shall check whether the anonymization of personal credit information has been properly carried out.
+A request may be made to the Financial Services Commission for review.
+④ When the Financial Services Commission examines the request under paragraph 3, it is found that anonymity has been appropriately performed.
+If accepted, it is assumed that the individual, the subject of credit information, is no longer identifiable.
+⑤ The Financial Services Commission shall, as prescribed by Presidential Decree, conduct the examination under paragraph (3) and accreditation under paragraph (4).
+As prescribed, it may be entrusted to a data specialized institution pursuant to Article 26-4.
+◎ Article 37 of the Enforcement Decree of the 「 Credit Information Act」
+」 (Delegation or entrustment of authority)
+⑤ The Financial Services Commission shall examine the adequacy of the anonymity treatment under Article 40-2 (3) of the Act and Article 40-2 of the Act.
+The task of accrediting the adequacy of anonymization in Paragraph 4 is entrusted to a data specialized agency.
+
+I. Credit information companies, etc. must check whether the anonymity processing has been performed properly.
+The evaluation can be carried out.
+1) Evaluation of adequacy by the Financial Services Commission
+The Financial Services Commission shall carry out the work related to the evaluation of the adequacy of anonymization in Article 37 of the Enforcement Decree.
+delegation or consignment) to a data specialized agency, and
+The institution conducts the adequacy evaluation of combined information and the evaluation of the adequacy of anonymization.
+An adequacy evaluation committee may be formed and operated to carry out the work. data expert
+
+- 59 -
+
+Page 63
+
+The level of expertise in the methods and laws related to pseudonymization and anonymization
+To establish and operate an adequacy evaluation committee by preparing qualification standards according to
+can
+< (Example) Qualification criteria for adequacy evaluation members >
+division
+
+Eligibility Criteria
+1. A person who has a lawyer’s qualification for at least one year of related legal work (personal information
+Protection, data processing/analysis/utilization, data pseudonymization/anonymity processing and adequacy evaluation, etc.
+Experience in providing relevant legal advice or support (hereinafter the same)
+one who has
+2. A person who has obtained a doctoral degree in law and has performed related legal affairs for at least two years;
+
+legal expert
+
+person with experience
+3. A person who has obtained a master's degree in law and has performed related legal affairs for at least 4 years;
+person with experience
+4. A person who has obtained a bachelor's degree in law and has performed related legal affairs for at least 6 years;
+person with experience
+5. A person who has performed related legal affairs for at least 8 years
+
+1. Information management technicians, computer system application technicians in accordance with the National Technical Qualification Act;
+A person who has obtained an information and communication technology technician qualification and has been working for at least 2 years (personal
+Information protection, data processing/analysis/utilization, data pseudonymization/anonymization and appropriateness
+Those who have experience in performing evaluations, etc.)
+2. Related fields (Computer Engineering, Information Security, Database Engineering, Statistics, Mathematics)
+For more than 2 years as a person who has obtained a doctoral degree in
+
+technical expert
+
+A person with experience performing work
+3. A person who has obtained a master's degree in a related field and has been working in related work for at least 4 years
+person with experience
+4. A person who has obtained a bachelor's degree in a related field and has been working in related work for at least 6 years
+person with experience
+5. A person who has performed related work for at least 8 years in a related field
+
+- 60 -
+
+Page 64
+
+< Appropriateness evaluation procedure >
+
+When applying for an adequacy assessment, the credit information company, etc., will be notified by the Adequacy Assessment Committee.
+Data specification and anonymization to determine the appropriateness of the anonymization
+Basic data, including the current status, etc., and anonymized according to its own standards and procedures
+Data must be submitted (see 'Attachment 2').
+※ The content of the basic data to be submitted may be different for each data-specialized institution.
+
+2) Self-assessment of adequacy
+Credit information companies, etc. may conduct an adequacy assessment for anonymization on their own.
+and the following is an example of such an evaluation process.
+※ This procedure is an example, and credit information companies, etc. can implement their own regulations
+
+< (Example) Self-adequacy evaluation procedure >
+
+A) (Preparation of basic data) Credit information companies, etc. must specify the data required for adequacy evaluation,
+Prepared basic data including the status of anonymization and the management level of the user organization
+- 61 -
+
+Page 65
+
+B) (Composition of evaluation team) Appropriateness of credit information manager and guardian with 3 or more experts
+Form an evaluation team, but make sure that more than half of the evaluation team consists of external experts
+※ Experts in the evaluation team are composed by referring to '(Example) Qualification criteria for adequacy evaluation members' (p.59)
+
+C) (Perform adequacy evaluation) The evaluation team will review the basic data prepared by the credit information company, etc. and kEvaluate the adequacy of the level of anonymity by using anonymity models, etc.
+
+D) (Additional anonymity processing) If the evaluation result is 'inappropriate', the credit information company, etc.
+After additional anonymization was performed by reflecting opinions, the adequacy was re-evaluated.
+
+E) (Usage of anonymous information) If anonymization is evaluated as appropriate,
+may use or provide
+
+- 62 -
+
+Page 66
+
+IV. Combining information sets
+
+1. Overview
+
+The amended 「Credit Information Act」 refers to information held by credit information companies, etc.
+Combining the information set owned by a third party through a data specialized agency
+is allowed to do
+
+< Overview of the information set combination procedure >
+
+end. Application for information set combination after pseudonymization and creation of a combination key
+
+After the combination requesting organization pseudonymizes the information set to be combined, the
+Create a binding key in a negotiated way and request a data-specialized agency to combine information sets.
+Apply. In order to decide whether to proceed with the merger, the requesting agency for the merger
+You can request a data specialist for prior notice * of the binding rate in advance .
+
+* Prior notification of the binding rate: The data of the binding key generated by the method negotiated between the binding requesting organizations
+The specialized institution receives the information in advance, and based on this, the matching rate is notified to the association requesting institution.
+※ 'Advance notice of the combination rate' is a procedure according to the selection of the association requesting institution, and the
+The combination rate advance notice service may not be operated depending on
+
+- 63 -
+
+Page 67
+
+I. Combining information sets
+When an application for combination is received by a data specialized institution, the association requesting institution
+The information set is determined by a data specialized institution through a storage medium or information and communications network.
+It is transmitted to a data specialist in a secure way. Data-specialized institutions deliver
+Combine * the received multiple information sets based on the combination key .
+* Data specialized institutions have the same combination key in the information set to be combined submitted by the association requesting institution.
+By combining the properties of the record, only the combined result is delivered to both combining requesting organizations (not combined)
+Results that have not been delivered can only be delivered to the combined requesting organization that delivered the relevant information set)
+
+All. Pseudonymization/anonymization and adequacy evaluation
+The data specialized institution handles the combined information under a * pseudonym according to the choice of the association requesting institution.
+Alternatively, anonymization is additionally performed and adequacy evaluation is carried out. adequacy
+Pseudonymization or anonymization is performed until the evaluation result is 'appropriate'.
+* When the requesting agency for the association requests pseudonym information, the pseudonymization process and the adequacy of pseudonym processing are evaluated.
+If anonymous information is requested, anonymization and anonymization adequacy evaluation are performed.
+※ In the application stage, the data-specialized institution uses the combined information set according to the selection of the requesting institution.
+Delivered after pseudonymization or anonymization (when a data specialized institution provides an analysis space,
+Only data that has been evaluated for adequacy of pseudonymization/anonymization can be analyzed. However, the combined information is exported
+The level of pseudonymization may be different under the condition that
+
+la. Combination information delivery
+The data-specialized institution sends the combined information that has completed the adequacy evaluation to the association requesting institution.
+Deliver (transmit) in a secure way. When the binding information is normally received, the data
+The specialized agency destroys all related files without delay.
+
+- 64 -
+
+Page 68
+
+2. Bonding Procedure
+< Detailed procedure for bonding >
+
+※ The association requesting institution consults in advance with the other institution wishing to combine, and
+Information, purpose of use, method of generating binding key, etc. must be determined in detail
+
+end. create a binding key
+The binding requesting institution generates the binding key in a manner negotiated with the binding partner.
+After that, it is added to the data to be combined. The association requesting organization consults with each other to determine the
+Select the generation algorithm and input information (identifier) ​to be used during generation. At this time,
+The resident registration number cannot be used as input information for generating the combination key, and the generated
+The binding key should be a value that can uniquely identify the subject of the credit information of the data.
+
+- 65 -
+
+Page 69
+
+The association requesting institution safely transmits the information set including the association key to a specialized institution.
+information on the creation of a combination key, such as a one-way hash function, is
+It cannot be shared with a specialized agency. The association requesting institution mutually exchanges the created association key.
+can't share Input information for generating a binding key, corresponding to the identifier
+If you use the CI (Connecting Information) value, you can use the full CI value.
+Some of the CI values ​can be used within the range where there is no risk of re-identification.
+have.
+
+[Example of how to generate a binding key]
+
+1. Combination key generation procedure
+1) The binding requesting organization determines the input information and encoding method for generating the binding key.
+A decision shall be made through mutual consultation.
+① Combined key using information shared by the association requesting institution
+The input information to be used for generation must be determined.
+※ Example) Name + mobile phone number
+
+ㅇ The resident registration number can be used as a binding key for combining information sets.
+It cannot be used as input information for generating a binding key.
+(「Personal Information Protection Act」 Article 24-2).
+ㅇ All information input to create a combination key is at the bit level.
+It must be entered in the same way.
+② The association requesting institution must ensure that the individual cannot be identified even when combined with the original information.
+A combination key is created by adding a salt value to the combination key input information determined in ①.
+should be created
+※ Example) Salt value: 'abcd1234'
+
+- 66 -
+
+Page 70
+
+③ The combined requesting institution shall include Korean and Korean characters such as name and address in the input information specified in ①.
+If multiple languages ​are included, the encoding method must be the same, so
+Decide and encode the same encoding method.
+※ Example) utf-8, euc-kr, etc.
+
+2) The binding requesting institution determines the binding key generation algorithm and the binding key expression method.
+decide
+① Algorithm (one-way hash function) in which the binding requesting institution will generate the binding key
+etc.) is determined.
+※ Example) One-way hash function (SHA256/384/512, HAS-160, etc.), XOR, etc.
+
+② The combination requesting institution will create the information generated by the agreed algorithm with the determined input information.
+Determines the expression method of the binding key.
+※ Example) base64, hexa, etc.
+
+ㅇ The combination requesting agency uses the examples of input information to
+Matching is checked by exchanging binding keys.
+※ When checking whether there is an error in the method of generating the binding key, the binding requesting institution uses the actual data.
+It should not be confirmed, and fake data negotiated between institutions should be used (e.g.,
+Use the name, phone number, etc. of a fictional person who does not
+
+< Example of input information >
+'Gildong Hong'+'01012345678'+'abcd1234'
+
+Combination key generation algorithm
+
+'9a400 ... cb42'
+
+- 67 -
+
+Page 71
+
+2. Example of generating a combination key using a one-way hash function
+1) The binding requesting organization determines the input information and the salt value for generating the binding key.
+decide
+Name, date of birth (6 digits), mobile phone number, 'abcd'
+※ Among the information shared among the requesting agencies, three identifier columns are identified as noise.
+Choose 'abcd'
+
+2) The binding requesting organization decides the encoding method for the input information.
+UTF-8
+※ If the combination key and information set include multiple languages ​such as Korean, the combination requesting organization
+Decide on the encoding method
+
+3) The association requesting organization uses an algorithm to generate the joint key (one-way hash function, etc.)
+and an encoding method for output information.
+SHA256 (hash function), HEXA lowercase letter (output encoding)
+※ Since the output information of the one-way hash function is a binary value, it is changed to a text string.
+In order to do this, the encoding method is determined through mutual consultation between the binding requesting organizations.
+
+4) The binding requesting institution generates a binding key through an example, and
+Check whether the binding keys match by exchanging them.
+'Hong Gil-dong 80121201012341234abcd'
+
+↓ UTF-8
+SHA256()
+
+↓ hexa
+'9a4005ebbdc5b5dcf399e1905c4291b48bdafb8549308eca84610b14f556cb42'
+※ If the output (32 bytes) of the SHA256 function is expressed in hexa, it is 64 bytes.
+
+- 68 -
+
+Page 72
+
+※ Advance notice of the merging rate is a procedure selectively used by the merging requesting institution.
+It is possible to proceed directly to the '⑤ pseudonymization' procedure without going through the procedure (refer to a data-specialized institution
+Therefore, the combination rate advance notification system may not be operated, so prior confirmation is required)
+
+I. (Application for prior notice of the combination rate) The association requesting institution will examine the effect of combining information sets.
+In order to review, fill out the application for prior notice of the combination of information sets and
+Submit it to a data specialist.
+※ Each joint requesting organization must submit an application individually.
+
+All. (Transmission (transmission) of the binding key) Each binding requesting institution receives an application for prior notification of the binding rate.
+Upon receipt, the binding key is delivered (transmitted) to a data specialized agency in a secure way.
+do.
+la. (Receiving prior notification of the binding rate) The data specialized agency matches the received binding key
+Calculation of the rate of consolidation by checking whether or not
+notify
+
+hemp. (Pseudonymization) The requesting organization for the combination shall use the pseudonym of the data to be combined according to the guide.
+perform processing.
+bar. (Submission of application) Multiple requesting organizations for combining information sets
+An application for combining aggregates must be submitted to a data expert institution, respectively.
+ㅇ When submitting an application, the requesting agency for the combination must provide the basis for the information set to be combined.
+Materials * must be attached
+* Information (name, size, number of rows and columns, etc.) and column-specific information (data
+type, data length, etc.)
+
+four. (Transmission (transmission) of information aggregates) The requesting agency for the combination consults with a specialized agency *
+The data is transmitted to a specialized data institution using a storage medium or information and communication network.
+* As the method of delivering information sets may differ by specialized institution, consultation is necessary in advance.
+
+- 69 -
+
+Page 73
+
+※ The association requesting organization must ensure that the information set is in CSV format containing the following contents.
+▶ Header (column name) + record (combination key, attribute 1, attribute 2, attribute 3, attribute 4...)
+< Example >
+header (column name)
+
+key, val0, val1, val2, val3, val4
+
+record 1
+
+ASEDF111, 2000, 15.4, 3000, 240, 100
+
+record 2
+
+485DDDKK, 4200, 15.2, 5000, 250, 150
+...
+
+...
+
+Ah. (Combination of information aggregates) After combining information aggregates, the specialized data institution
+Depending on your choice, pseudonymization or anonymization is performed and adequacy evaluation is carried out.
+ㅇ Data-specialized institutions are used for pseudonymous/anonymous processing purposes, and re-identification of organizations using pseudonymized information
+In consideration of intention and ability, level of protection of pseudonymous information and reliability analysis, etc.
+Assess the adequacy of pseudonymization or anonymization
+ㅇ The data specialized institution deletes or replaces the binding key after the binding is completed *
+* When combining periodic and repetitive information sets, if it is necessary to link each credit information subject, use the link key.
+Create and replace the binding key (this guide 'IV. 4. Periodic and repetitive information sets between external agencies)
+'Combination and utilization')
+
+character. (Transmission of combined information (transmission)) The data specialized agency is
+Deliver (transmit) information in a secure way.
+ㅇ When the combined information is normally received, the data specialized agency destroys all related files.
+◎ Using an analysis system of a data-specialized institution
+▶ When a data specialized agency operates an analysis system, the combined requesting agency
+With approval, you can import retained data into the analysis system or export analysis results
+① (Application for analysis space) The combination requesting institution transmits the combined information from the analysis system of the specialized data institution.
+If you want to analyze, apply for the use of the analysis space to a data specialized institution before receiving the combined information
+
+- 70 -
+
+Page 74
+
+ㅇ (Import of retained data) If the binding requesting institution wants to analyze both the data and the binding information,
+In this case, apply for import of retained data
+② (Bundled information analysis) The binding requesting institution analyzes the combined information and imported data.
+to derive analysis results to meet the purpose of use
+③ (Exporting of analysis results) The requesting institution for the combination applies for export review of analysis results and
+If the institution approves it, the combined requesting institution exports the analysis results and meets the purpose of use.
+available
+④ (Destroy all related files) After exporting the analysis result of the combined requesting institution, the data specialized institution
+Destroy all related files
+⑤ (banchulip the record) data, professional institutions with combined records of the combined referral
+Storing and managing the analysis space utilization and data import/export records of the joint requesting institution
+
+car. (Utilization of combined information) The association requesting institution receives the combined information set as pseudonymous information.
+In this case, it is used only for the purpose of use described in the application stage, and
+Strict protective measures * must be taken.
+※ In the case of anonymous information, it can be freely used without any restrictions on the purpose, so no protection measures are required.
+* This guide 'Ⅱ. 4. Refer to 'Criteria for Protection Measures for Pseudonym and Additional Information (p36)'
+
+ㅇ The combined requesting organization performs follow-up management, such as measures to protect pseudonymous information.
+ㅇ If the joint requesting organization can identify a specific individual for profit or fraudulent purposes,
+Processing of pseudonymous information, such as recombining combined information so that
+Prohibited (Article 40-2 (6) of the 「Credit Information Act」)
+ㅇ The combined information is referred to as the institution that will use the combined information when applying for the combination of information sets.
+It is prohibited to provide it to an unspecified third party.
+※ (Case 1) When combining information sets, the requesting organizations A and B change the organization using the combined information to C.
+If it is specified, the association requesting organization A or B later provides the association information to D.
+This is not taken into account by the data specialized agency when combining the relevant information set and evaluating its adequacy.
+Not allowed (Combined requesting organizations A and B newly
+Apply for the combination of information sets and consider D's purpose of using pseudonymous information, level of protection, etc.
+It must be provided after performing an adequacy assessment)
+
+- 71 -
+
+Page 75
+
+(Case 2) When combining information sets, combining requesting organizations A and B send the combined information to user organization C
+In the future, if C arbitrarily provides binding information to D,
+As a matter that the institution did not consider when evaluating the appropriateness of the relevant information set,
+Not allowed (Combination requesting organizations A and B newly request to combine information sets with data specialized agencies
+After applying, conduct an adequacy evaluation in consideration of the purpose of use of pseudonymous information of D, the level of protection, etc.
+must be provided after)
+
+- 72 -
+
+Page 76
+
+3. Combination of data collections owned by specialized data institutions and external information collections
+Combining information sets owned by specialized institutions with those of external organizations
+In this case, the purpose of the combination, the organization using the combined information set, and whether related consideration is paid, etc.
+There should be no possibility of a conflict of interest by considering it comprehensively.
+end. purpose of association
+Whether or not it is related to the interests of a data specialized institution that has a set of information to be combined
+see and judge
+I. User Organization
+A data specialized agency that has an information set to be combined and a combined information set
+*
+
+Judgment is made by looking at the relationship with the institution being used .
+
+* In principle, a data-specialized institution cannot become an institution that uses the information set it combines.
+(In principle, if a data specialized agency intends to use a combined information set,
+Information set combination must be performed through another specialized data institution)
+
+All. payment
+A data-specialized institution collects its own information set and an external institution's information set.
+In-house data processing when combined and the combined information set is delivered to the relevant external organization
+and external organizations, etc. within the scope of actual expenses required for the relevant business processing such as combination, etc.
+It is judged by looking at whether the payment has been received from the
+
+- 73 -
+
+Page 77
+
+4. Combination and utilization of periodic and repetitive information sets
+end. summary
+When a credit information company, etc. promotes a combination of information collections with a third party,
+The same counterparty, the same purpose of use, and the same type of information set are periodically and
+It corresponds to * when it is necessary to combine repeatedly . In this case,
+When requesting a data-specialized institution to combine information sets, credit information companies, etc.
+An application for combining repetitive information sets must be submitted together.
+* Time series analysis, long-term research, periodic statistical processing, etc.
+
+< Considerations related to the combination of periodic and repetitive information sets >
+ㅇ There should be no change such as addition or deletion of credit information subjects.
+ㅇ Data properties (column composition) should not change (properties cannot be added or deleted)
+ㅇ It is possible to add data in chronological order by combining periodic and repetitive information sets.
+ㅇ A data-specialized institution deletes the data after combining and creates a connection key and a connection key
+Algorithm, salt value, etc.
+
+< Considerations when applying for combination of periodic and repetitive information sets >
+condition item
+Purpose of use
+
+Considerations when writing conditions
+- It must be used for the same purpose as the initial combination.
+
+information structure
+- The same information structure as the initial combined data should be maintained.
+use environment
+
+- It must be used by the same user as the initial combined data.
+
+Periodic and repetitive- It is necessary to specify the deadline for periodic/repetitive combination (when the deadline is completed,
+bonding period
+
+The data specialist destroys the connection key generation algorithm, salt value, etc.)
+
+※ This consideration is a minimum requirement, and when applying for a combination of periodic and repetitive information sets, the information set
+Must be completed and submitted along with the Combined Application
+
+When combining periodic and repetitive information sets, the combined information is divided by credit information subject.
+If there is a need to connect, the data specialized institution generates a connection key and
+Replace the binding key. * Data-specialized institutions will review the combined information after completing the adequacy evaluation.
+In the case of using the connection key generation information ** after delivering to the binding requesting organization, the information
+should be stored separately.
+- 74 -
+
+Page 78
+
+* In cases where it is not necessary to link each credit information subject, a data specialized institution replaces the binding key.
+delete without
+** Link key, link key generation algorithm, salt value, etc.
+
+The binding requesting institution manages the received binding information according to the data characteristics * ,
+In the case of pseudonym information, it can be used by connecting it based on the connection key. Combination
+When the requesting agency's periodic and repetitive information set combination is completed, the data
+The institution shall destroy the connection key generation information.
+* 'II. 5. Refer to 'Criteria for protection measures for pseudonymous information and additional information'
+
+I. Periodic/repetitive information set combination procedure
+1) Combination of initial information set
+When requesting a combination of information aggregates, the requesting institution for the combination of periodic and repetitive information collections
+Apply for a bond together. A data specialized agency uses a combination key after combining information sets.
+Delete or replace * and request to combine combined information after completing adequacy evaluation
+sent to the institution.
+* When combining periodic and repetitive information sets, if it is necessary to link each credit information subject, use the link key.
+Create and replace the binding key
+
+2) Combination of periodic and repetitive information sets thereafter
+When requesting a combination of information aggregates, the requesting institution for the combination of periodic and repetitive information collections
+Apply for a bond together. At the time of the initial association, the association requesting organization replaces the association key.
+In this case, from the second combination, the connection key stored at the time of the first information set combination
+A connection key is generated using the generated information and replaced with the bonding key. data
+After completing the adequacy evaluation, the specialized agency sends the binding information to the binding requesting institution.
+send.
+
+- 75 -
+
+Page 79
+
+3) Upon completion of combining periodic and repetitive information sets
+When the combination of periodic and repetitive information sets is terminated, the
+The institution must be notified * . When the combination of periodic and repetitive information sets is terminated
+The data specialized agency provides information on the generation of the connection key for the relevant periodic and repetitive combination.
+You must dig your back ** .
+* When applying for the last periodic/repetitive information set combination, enter the 'expected end date' in the application period
+** Applicable to the case of replacing the binding key
+
+< Periodic / Repetitive Information Set Combination Procedure >
+
+- 76 -
+
+Page 80
+
+Attachment 1. Pseudonym and Anonymity Processing Techniques
+
+◎ ISO/IEC 20889, 『2019 Personal Information De-identification Technology Guidelines』 (Ministry of Science and ICT, Korea
+Information Society Agency, 2019.12.), training in 「Korea Credit Information Service pseudonymization/anonymization expert training」
+see materials, etc.
+
+1. Statistics tools
+It is a technique with statistical properties that changes the overall structure of data.
+It is used for pseudonymization or anonymization or to increase the efficiency of the technique.
+end. Sampling
+ㅇ A method of extracting and using a part rather than the entire population for each information subject
+1) stochastic sampling
+ㅇ Random sampling, systematic sampling, and stratified sampling
+A method of dividing into layers and extracting a random standard from each layer), colony sampling, etc.
+2) Non-stochastic sampling
+ㅇ Random sampling, judgment sampling, allocation sampling, cumulative sampling, etc.
+I. Aggregation
+ㅇ Treated as average or sum of attribute values
+
+ㅇ Depending on the purpose of data analysis, any of the average value, maximum value, mode, and median value is selected.
+Whether to use a value is important
+
+- 77 -
+
+Page 81
+
+2. Cryptographic tools
+Implementing security measures to improve the efficiency of pseudonymization and anonymization techniques
+It is used as part of anonymization or anonymization tools.
+end. Deterministic encryption
+ㅇ Encryption method using the same key (the encryption result for the same attribute value is also the same)
+ㅇ Privacy Preservation Data Mining
+PPDM) * to ensure data availability
+* Find useful information, patterns, etc. contained in data without exposing personal information
+It is a data mining technique that allows a third party to recognize individuals present in the data.
+Principles of changing statistical information to prevent (generalization, noise addition, etc.)
+
+I. Order-preserving encryption
+ㅇ Two values ​encrypted with the same key maintain the same order in the ciphertext
+ㅇ Provides a higher level of usability than deterministic encryption
+All. Format-preserving encryption
+ㅇ Convert data into a series of symbolic formats with the same format and length as the original data
+ㅇ When the resident registration number is encrypted, it is encrypted with 13 digits.
+la. Homomorphic encryption
+ㅇ Operations such as addition and subtraction can be performed in an encrypted state without decryption
+ㅇ Ensuring data availability is an advantage, but compared to deterministic encryption
+There are disadvantages of low performance and high storage cost
+
+- 78 -
+
+Page 82
+
+hemp. Homomorphic secret sharing
+ㅇ Identifier or sensitive information within the data record to k distributed secret information
+Replace by value (concept of sharing sensitive attributes in a record by k owners)
+ㅇ When controlled re-identification is required, k owners of distributed secret information
+possible when everyone agrees
+
+3. Suppression techniques
+A technique for removing selected records from records, attribute values, or datasets.
+end. Masking
+ㅇ Replacing specific attribute values ​with '**' or 'OO'
+I. Local suppression
+ㅇ Delete a specific attribute value from the record (partial deletion)
+ㅇ In general, individuals who still exist after ' generalization ' has been applied
+Mainly used to remove rare values ​of identifiable information
+All. Record Suppression
+ㅇ Include special attribute values ​such as outliers in the data
+remove the record
+
+4. Pseudonymization techniques
+◎ As a concept distinct from 'pseudonym handling' in the revised Credit Information Act, ISO/IEC 20889 pseudonymization
+While the technique is limited to replacing the identifier of the original data with another value, the revision
+The pseudonymization of the 「Credit Information Act」 not only replaces identifiers, but also deletes other attributes if necessary.
+Includes additional application of techniques such as subtraction or rounding
+
+- 79 -
+
+Page 83
+
+ㅇ The identifier of the data subject is replaced by a specially generated replacement value for each data subject.
+As an alternative technique, other data without exposing the identity of the data subject
+Allows you to link to a set of related records
+ㅇ When using pseudonymization alone, the risk of being singled out
+can't reduce
+o mapping tables that can be used in a generally controlled re-identification process;
+Additional information such as encryption key is generated (however, additional information must be
+must be protected by administrative measures)
+- Utilize two-way encryption, one-way encryption, token technique, mapping table, etc.
+
+5. Anatomization
+A method of dividing one existing dataset (table) into two datasets
+As such, it is a technique of separating the identifier part and the data (other attribute) part.
+It also includes dividing a single value into multiples (sometimes called 'coding').
+※ Example) Male (1,3,5,7,9), Female (2,4,6,8,10)
+
+ㅇ Dissection is a technique that changes only the structure without changing the data.
+
+6. Generalization techniques
+Also called categorization, it is a technique of replacing a specific value with a higher-order attribute.
+end. Rounding
+ㅇ Rounding up or rounding a specific reference value to the base
+※ Random rounding (freely specify the number of rounding digits and reference value), control rounding
+
+- 80 -
+
+Page 84
+
+I. Top/Bottom coding
+ㅇ Determine the maximum and minimum values ​and replace the given values ​with the maximum or minimum values
+ㅇ Applied to the upper and/or lower area of ​the data distribution (age 85 years or older, etc.)
+All. combining a set of attributes into a single attribute value
+a single attribute)
+ㅇ Categorization
+la. Local generalization
+ㅇ Applied to remove outliers in attribute values
+ㅇ A technique that applies generalization only to groups that include singular values
+
+7. Randomization techniques
+It is a technique that modifies the property value so that it is transformed differently from the original value,
+It is also called a perturbation technique that reduces the efficiency of inference attempts.
+end. Permutation
+ㅇ Randomly change the order of data in a specific column (exchange)
+I. Noise addition
+ㅇ While maintaining the statistical characteristics of the original attribute as much as possible, it is randomly assigned to the attribute value.
+Add by multiplying or adding values
+ㅇ If a related column exists, noise of the same information must be added to the analysis result.
+No influence (considering distribution, mean, variance, standard deviation, covariance, correlation, etc.)
+
+- 81 -
+
+Page 85
+
+ㅇ For example, if you add 5 days of noise to the start date, the same applies to the end date.
+5 days of noise must be added so that the whole period is not affected.
+All. Microaggregation
+ㅇ As a kind of aggregation processing, all of the consecutive attributes (that is, records in a homogeneous set) are
+Replacing the values ​with the average calculated by a specific algorithm
+
+8. Synthetic data
+After estimating the distribution of the raw data based on the actual data,
+It is data generated by , not real data, but statistically and probabilistically
+It means virtual data similar to the original data. only part of the property
+It can be divided into partial synthesis applied and full synthesis applied to the entire dataset.
+There are various methods of generating reproduction data, and a differential privacy protection model is used.
+It is also used to generate synthetic data.
+
+9. Privacy Protection Model
+A quantitative representation of the level of privacy protection using statistical techniques
+in which individuals are identified not only directly, but also through inference.
+It also aims to prevent It is mainly used to evaluate the adequacy of anonymization.
+used as a semi
+end. k-anonymity model
+ㅇ Make sure that there are at least k records with the same properties.
+Protect privacy (if k = 3, identify among the same personally identifiable information)
+There are three or more people with high probability information, so a specific individual
+not identifiable)
+
+- 82 -
+
+Page 86
+
+< Before applying k-anonymity model >
+connection attack
+
+[identifier stripped data]
+age gender
+
+[Secured public data]
+
+(Linkage Attak)
+
+1:1
+
+card payment amount
+
+name
+
+age
+
+gender
+
+60
+
+male
+
+320,000
+
+Kim Chul-soo
+
+60
+
+male
+
+62
+
+female
+
+600,000
+
+Lee Min-ah
+
+62
+
+female
+
+61
+
+male
+
+500,000
+
+safe state
+
+61
+
+male
+
+27
+
+male
+
+1,500,000
+
+Kim Sang-woo
+
+27
+
+male
+
+29
+
+male
+
+1,000,000
+
+Han Ki-beom
+
+29
+
+male
+
+27
+
+female
+
+1,750,000
+
+Jang Ah-reum
+
+27
+
+female
+
+26
+
+female
+
+1,400,000
+
+amniotic fluid
+
+26
+
+female
+
+60
+
+female
+
+150,000
+
+Da-Rae Kim
+
+60
+
+female
+
+61
+
+male
+
+145,000
+
+Yoon Young-ha
+
+61
+
+male
+
+60
+
+female
+
+402,000
+
+Kim Soon-ja
+
+60
+
+female
+
+28
+
+male
+
+1,330,000
+
+Kim Min-young
+
+28
+
+male
+
+25
+
+female
+
+1,220,000
+
+Yoo Seul-ah
+
+25
+
+female
+
+< Avoid 1:1 connection by configuring a homogeneous set with more than k (3) records >
+[k-anonymity applied data]
+age gender
+
+[Secured public data]
+
+k:1
+
+card payment amount
+
+name
+
+age
+
+gender
+
+homogeneous set
+
+60's
+
+male
+
+320,000
+
+Kim Chul-soo 60
+
+male
+
+(Equivalent
+
+60's
+
+male
+
+500,000
+
+Lee Min-ah
+
+62
+
+female
+
+Class)
+
+60's
+
+male
+
+145,000
+
+safe state
+
+61
+
+male
+
+60's
+
+female
+
+600,000
+
+Kim Sang-woo 27
+
+male
+
+60's
+
+female
+
+150,000
+
+Han Ki-beom 29
+
+male
+
+60's
+
+female
+
+402,000
+
+Jang Ah-reum 27
+
+female
+
+20's
+
+male
+
+1,500,000
+
+amniotic fluid 26
+
+female
+
+20's
+
+male
+
+1,000,000
+
+Da-Rae Kim
+
+female
+
+20's
+
+male
+
+1,330,000
+
+Yoon Young-ha61
+
+male
+
+20's
+
+female
+
+1,750,000
+
+Kim Soon-ja
+
+female
+
+20's
+
+female
+
+1,400,000
+
+Kim Min-young28
+
+male
+
+20's
+
+female
+
+1,220,000
+
+Yoo Seul-ah
+
+female
+
+60
+60
+25
+
+ㅇ Vulnerabilities of the k-anonymity model
+- Homogeneity attack: records are categorized by k-anonymity
+data, because some information can all have the same value
+An attack that uses the same information in a set to find out the target's information
+- Background knowledge attack: given data
+Know the sensitive information of the attack target through the background knowledge of the attacker other than
+aggression (e.g., the background that women cannot get prostatitis)
+Personal information inference using
+- 83 -
+
+Page 87
+
+◎ Cause
+▶ Lack of diversity
+▶ The action does not take the diversity of information into account (records with the same information are
+If it is composed of a homogeneous set, it is defenseless against homogeneity attack)
+▶ Strong background knowledge: specialized knowledge in each field, such as medical care, finance, and education
+
+- 84 -
+
+Page 88
+
+I. l-diversity model
+ㅇ At least sensitive attribute information of an equivalent class
+Vulnerability of k-anonymity (homogeneity attack,
+background knowledge attack)
+
+< Before applying l-diversity model >
+[k-anonymity applied data]
+age gender
+
+Zip code
+
+homogeneity attack
+
+credit rating
+
+60's
+
+male
+
+180**
+
+8
+
+60's
+
+male
+
+180**
+
+8
+
+60's
+
+male
+
+180**
+
+8
+
+60's
+
+male
+
+180**
+
+8
+
+60's
+
+female
+
+180**
+
+One
+
+60's
+
+female
+
+180**
+
+3
+
+60's
+
+female
+
+180**
+
+5
+
+60's
+
+female
+
+180**
+
+2
+
+(Homogeneity Attack)
+ㅇㅇㅇ of all men in their 60s in the area
+Credit rating is 8
+(Example of reasoning) A man living in the ㅇㅇㅇ area,
+Chul-soo Park's credit rating is 8.
+
+Lack of diversity within a homogeneous set
+It is possible to infer information about a specific individual
+
+< After applying the l-diversity model >
+Adjusted so that the homogeneous set has l (3) various sensitive information (credit rating)
+[l-diversity application data]
+age gender
+
+Zip code
+
+credit rating
+
+60's
+
+*
+
+1803*
+
+8
+
+60's
+
+*
+
+1803*
+
+8
+
+Credit rating of a man in his 60s
+Less likely to reason
+
+60's
+
+*
+
+1803*
+
+5
+
+60's
+
+*
+
+1803*
+
+2
+
+60's
+
+*
+
+1804*
+
+One
+
+60's
+
+*
+
+1804*
+
+3
+
+60's
+
+*
+
+1804*
+
+8
+
+60's
+
+*
+
+1804*
+
+8
+
+(l value = 3)
+
+- 85 -
+
+Page 89
+
+ㅇ Vulnerabilities of l-diversity model
+- Skewness attack: when information is skewed to a specific value
+l-diversity model does not protect privacy
+◎ An example of a pull attack
+▶ A random homogeneous set consists of 99 'gastric cancer positive' and 1 'gastric cancer negative' records.
+assume there is
+▶ The attacker can know that the target is 'positive stomach cancer' with a 99% chance
+
+- Similarity attack: information in anonymized records is
+Similarly, even if processed through the l-diversity model, privacy
+may be exposed
+◎ Examples of similarity attacks
+▶ Although the disease names of homogeneous groups are different, the meaning may be similar (gastric ulcer, acute gastritis,
+chronic gastritis)
+▶ Through this, the attacker can know that the disease of the target is related to 'stomach'.
+can figure out
+
+- 86 -
+
+Page 90
+
+All. t-proximity model
+ㅇ Distribution of personally identifiable information of a specific homogeneous set and personal identification of all data
+Adjust the difference in the distribution of possible information to be less than or equal to t (the closer t is to 0, the more
+The pattern is similar, and through this, the problem of inferring personally identifiable information of a specific group
+security)
+< Before applying t-proximity model >
+[l-diversity application data]
+age gender
+
+Zip code
+
+pull attack
+
+income
+
+(Skewness Attack)
+
+60's
+
+male
+
+180**
+
+10,000
+
+60's
+
+male
+
+180**
+
+50,000
+
+60's
+
+male
+
+180**
+
+60,000
+
+60's
+
+male
+
+180**
+
+15,000
+
+60's
+
+female
+
+180**
+
+35,000,000
+
+60's
+
+female
+
+180**
+
+100,000,000
+
+60's
+
+female
+
+180**
+
+175,000,000
+
+60's
+
+female
+
+180**
+
+24,000,000
+
+of a man in his 60s in the ㅇㅇㅇ area
+income is very low
+(Example of reasoning) A man living in the ㅇㅇㅇ area,
+Park Cheol-soo's income is very low
+
+using a characteristic that is focused on a specific value
+Personal information can be inferred
+
+< After applying the t-proximity model >
+[t-proximity applied data]
+age gender
+
+Zip code
+
+income
+
+60's
+
+*
+
+1803*
+
+10,000
+
+60's
+
+*
+
+1803*
+
+50,000
+
+60's
+
+*
+
+1803*
+
+175,000,000
+
+60's
+
+*
+
+1803*
+
+24,000,000
+
+60's
+
+*
+
+1804*
+
+35,000,000
+
+60's
+
+*
+
+1804*
+
+100,000,000
+
+60's
+
+*
+
+1804*
+
+60,000
+
+60's
+
+*
+
+1804*
+
+15,000
+
+Prevention of inference using characteristics of distribution of other attributes
+
+Income level of men in their 60s
+Less likely to reason
+
+Sensitive distribution Pec in any homogeneous set, distribution Q of sensitive information over the whole data
+Oh yeah- Calculate the difference between Pec and Q (D[Pec, Q]) t for all identical sets
+high
+
+- According to the definition that the difference between distributions must be less than or equal to t, the difference between the largest distributions
+tRepresents proximity
+
+- 87 -
+
+Page 91
+
+la. Differential privacy model
+ㅇ Model proposed by C.Dwork to complement the weak areas of k-anonymity and l-diversity
+ㅇ Based on the difference (probability distribution) of two DBs where one record is different
+privacy model
+- If there is a difference between the two DBs, it can be known as a difference attack, but the difference is
+Below a certain size, privacy protection level is created like k>2
+- Sampling or adding noise: measures to reduce the difference
+- ε: the magnitude of the difference
+
+original
+Personally Identifiable Information
+job
+
+gender
+
+non-tech man
+
+age
+
+After processing noise (sampling or inserting fake records)
+Personally Identifiable Information
+Bad credit
+
+job
+
+[30~60]
+
+Yes=2, No=17
+
+non-tech man
+
+gender
+
+age
+
+Bad credit
+
+[30~60) Yes=2+3, No=17+2
+
+profession
+
+man
+
+[30~60]
+
+Yes=3, No=17
+
+profession
+
+man
+
+[30~60]
+
+Yes=3-1, No=17-2
+
+profession
+
+man
+
+[1-30)
+
+Yes=1, No=20
+
+profession
+
+man
+
+[1-30)
+
+Yes=1+3, No=20+4
+
+profession
+
+Woman [30~60]
+
+Yes=3, No=12
+
+profession
+
+Woman [30~60]
+
+technical job
+
+Woman [60-90)
+
+Yes=2, No=23
+
+technical job
+
+Woman [60~90) Yes=2+4, No=23+5
+
+[Q1]
+
+[Q1]
+
+Personally Identifiable Information
+job
+
+gender
+
+non-tech man
+
+Yes=3+5, No=12-3
+
+age
+
+Personally Identifiable Information
+Bad credit
+
+job
+
+[30~60]
+
+Yes=1, No=17
+
+non-tech man
+
+gender
+
+age
+
+Bad credit
+
+[30~60) Yes=1+4, No=17+3
+
+profession
+
+man
+
+[30~60]
+
+Yes=3, No=17
+
+profession
+
+man
+
+[30~60]
+
+Yes=3-2, No=17+1
+
+profession
+
+man
+
+[1-30)
+
+Yes=1, No=20
+
+profession
+
+man
+
+[1-30)
+
+Yes=1+4, No=20+4
+
+profession
+
+Woman [30~60]
+
+Yes=3, No=12
+
+profession
+
+Woman [30~60]
+
+technical job
+
+Woman [60-90)
+
+Yes=2, No=23
+
+technical job
+
+Woman [60~90) Yes=2+3, No=23+4
+
+[2nd quarter]
+
+Yes=3-1, No=12-2
+
+[2nd quarter]
+
+Source: Professor Choi Dae-sun, Gongju University
+
+- 88 -
+
+Page 92
+
+Attachment 2. Method of preparing basic data for anonymization adequacy evaluation (example)
+
+1. Basic data preparation items
+
+▪Original data size (number of records)
+
+necessary
+
+▪How to create original data
+
+necessary
+
+▪Original data management environment (technical, physical)
+
+necessary
+
+data specification ▪ Specifications by detailed item of original data (range, number, etc.)
+
+Anonymization
+Status
+
+necessary
+
+▪Original example (table)
+
+necessary
+
+▪(anonymized) evaluation target data detailed item specification
+
+necessary
+
+▪Data to be evaluated (examples or some records are also possible)
+
+necessary
+
+▪ Classification of identifiers, personally identifiable information, etc.
+
+necessary
+
+▪Applied anonymization standards (privacy protection model, etc.) and figures
+
+necessary
+
+▪Anonymous processing technique Detailed technology
+
+necessary
+
+※ Fill out the above items and submit it to the Anonymization Adequacy Evaluation Committee
+※ No limit on quantity
+
+2. Outline of basic data (including preparation examples)
+※ For all detailed items, fill in the outline below, but there is no limit on the amount
+
+end. data specification
+1) Original data characteristics
+
+Item
+
+Contents
+
+▪Data size (number of records)
+
+950 MB (number of records: 5 million)
+
+▪Data generation method
+
+Extracted from customer information of A card
+
+DB with access control, account management, DB encryption, etc. applied
+▪Data management environment (technical,
+save to server
+
+physical)
+
+- 89 -
+
+Page 93
+
+2) Specification by detailed item of original data
+
+Item
+
+Details
+
+name
+job
+gender
+customer rating
+total loan amount
+
+400 types (based on internal classification)
+male/female
+Grades 1 to 9 (based on internal classification)
+0~750,000,000 (KRW)
+
+3) Example of original data
+
+name
+job
+Hong Gil Dong programmer
+Lee Young-ae court official
+
+gender
+male
+woman
+
+customer rating total loan amount
+3
+435,657,350
+8
+126,450,000
+
+4) Specification by detailed item of data to be evaluated
+
+Item
+
+Details
+
+name
+job
+gender
+customer rating
+total loan amount
+
+delete
+30 (Category/Tuesday)
+Male → 1, Female → 2 (pseudonymized)
+1,000,000 (KRW) divided into categories
+
+5) Data to be evaluated (eg, some records)
+
+job
+IT worker
+Official
+
+gender
+One
+2
+
+customer rating
+3
+8
+
+total loan amount
+436,000,000
+127,000,000
+
+- 90 -
+
+Page 94
+
+I. Anonymization status
+1) Overview of Anonymization
+Item
+
+Anonymization
+
+division
+
+name
+job
+gender
+customer rating
+total loan amount
+
+Anonymization
+
+Techniques and techniques
+Criteria and figures
+
+identifier
+delete
+Personally Identifiable Information
+categorization
+Personally Identifiable Information
+pseudonymization
+Personally Identifiable Information
+Unapplied
+Personally Identifiable Information
+rounding, categorization
+
+k-anonymity(5)
+l-diversity(3)
+
+2) Details of anonymization
+Item
+(Measurement technique)
+
+gender
+(pseudonym)
+total loan amount
+
+Anonymized data
+
+dentist, oriental doctor
+judge, prosecutor
+office worker, public official
+
+job
+(categorization)
+
+original data
+
+doctor
+lawyer
+salaried person
+
+⁝
+housewife, student
+man
+Woman
+1-1,000,000 (KRW)
+1,000,000~2,000,000 (KRW)
+
+(Rounding and
+categorization)
+
+⁝
+inoccupation
+One
+2
+1,0.00,000 (KRW)
+2,000,000 (KRW)
+
+⁝
+748,000,000~
+
+⁝
+749,000,000 (KRW)
+
+749,000,000 (KRW)
+749,000,000 (KRW) or more
+
+750,000,000 (KRW)
+
+All. Frequency of personally identifiable information
+division
+student
+Official
+…
+
+IT worker
+
+division
+One
+2
+…
+
+9
+
+job
+Personally Identifiable Information
+15,762
+division
+48,651
+One
+
+gender
+Personally Identifiable Information
+3,349,574
+
+…
+
+2
+
+6,489
+
+customer rating
+Personally Identifiable Informationdivision
+267
+0
+3,496
+1,000,000
+…
+
+1,650,426
+total loan amount
+Personally Identifiable Information
+614,756
+3,695
+
+…
+
+596,748
+
+1,000,000,000
+
+…
+
+24
+
+- 91 -
+
+Page 95
+
+references
+ㅇ Joint government ministries, 『Guidelines for Personal Information De-identification Measures』, ​2016.6.
+ㅇ Ministry of Science and ICT and Korea Information Society Agency, 『2019 Personal Information De-identification
+Technical Guidelines’, 2019.12.
+ㅇ Korea Financial Research and Training Institute, 「Korea Credit Information Service pseudonymization and anonymization expert
+Training” (training materials), 2020.5.
+ㅇ Financial Security Agency, 「Guide to the use of cryptographic technology in the financial sector」 (AGR-VII-2019②-84), 2019.1.
+ㅇ ISO/IEC, “Privacy enhancing data de-identification terminology
+and classification of techniques”, ISO/IEC 20889, First edition,
+2018.11.
+ㅇ ISO/IEC, “Health informatics — Pseudonymization”, ISO/IEC
+25237, 2017.1.
+ㅇ ENISA, “Recommendations on shaping technology according to
+GDPR provisions: An overview on data pseudonymisation”,
+2018.11.
+ㅇ Simson L. Garfinkel, “De-Identification of Personal
+Information”, NIST, NISTIR 8053, October 2015.
+
+- 92 -
+
+

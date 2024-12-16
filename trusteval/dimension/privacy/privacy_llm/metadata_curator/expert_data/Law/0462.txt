@@ -1,0 +1,969 @@
+﻿Title I: General Provisions Chapter 
+I: Terminology 
+Article 1
+
+
+in the sense of this Law, the terms below are understood as follows :
+
+
+Cybercrime: all criminal offences committed through or over a telecommunications network or information system.
+Electronic communication means any service or means of transmitting, transmitting or receiving signs, signals, writings, sounds, images, or videos by electromagnetic, optical, or other means, made available to the public or to a category of public.
+Information and Communication Technologies (ICT) : technologies used to collect, store, use and send information, including those that involve the use of computers or any other communication and telecommunications system.
+Computer data or data (in short) : any representation of facts, information or concepts, in a form similar to computer processing, or a program capable of having a function performed by an information system.
+Computer system: any device isolated or not, any set of interconnected devices providing in whole or in part, automated processing of data in execution of a program;
+Critical infrastructure : physical facilities and information and communication technologies, including electronic ones, networks, services and assets, which in the event of shutdown or destruction, can have serious impacts on the health, safety or social or economic well-being of citizens, and/or the correct or continuous functioning of state services.
+Personal data : any information of any kind and regardless of its medium, including sound and image relating to a person identified or identifiable directly or indirectly, through an identification number or to one or more specific elements, relating to his physical, physiological, genetic, psychic, cultural, social, or economic identity.
+Sensitive data: any personal data, relating to religious, philosophical, political, trade union opinions or activities, sexual or racial life, health, social measures, prosecution, criminal or administrative sanctions.
+Subscriber data : any information in the form of computer data or in any other form, held by a service provider, including electronic communications/ICT, and relating to the subscribers of its services, other than traffic or content data, and which makes it possible to establish on the basis of a contract or arrangement for the services provided by the provider. :
+* The type of communication services, the technical arrangements made for this purpose, and the length of service ;
+
+
+* Identity, postal or geographical address, telephone number or any other access number, email address, location information, billing information and the location of communication equipment.
+
+
+- Traffic data : any data relating to a communication through an information system, produced by the latter as part of the communication chain, indicating the origin, destination, route, time, date, size, and duration of the communication or the type of underlying service.
+
+
+- Attack on human dignity : any attack, except in the case of an attack on life, an attack on integrity or freedom, which has the essential effect of treating the person as a thing, as an animal, or as a being to which any right would be denied.
+
+
+- Racism and xenophobia : any writing, image or other representation of ideas or theories that promotes or encourages hatred, discrimination or violence against a person or group of persons, on the basis of race, colour, descent, geographical origin, ethnicity or religion, to the extent that the latter serves as a pretext for any of these elements or incites such acts ;
+
+
+- Minor: any person under the age of 18, according to the Guinean Penal Code.
+
+
+- Child pornography : any data of any kind or form, visually representing a minor engaging in sexually explicit behaviour or images depicting a minor engaging in sexually explicit behaviour ;
+
+
+- Third country: any non-ECOWAS member State ;
+
+
+- SMS: English acronym, meaning ' Short Message Service) ;
+
+
+- Surveillance : any activity using technical or electronic means, in order to detect, observe, copy or record the movements, images, words, writings, or the state of an object or a fixed or mobile person.
+
+
+- Person : any natural or legal person, with the exception of legal persons of the State and its decentralized or other departments, local or decentralized authorities, public institutions and institutions.
+
+
+- CERT: Center for monitoring, alerting and responding to computer attacks.
+
+
+For terms not defined by this Law, the definitions given by the legal instruments of ECOWAS, the African Union or the International Telecommunication Union shall prevail over all other definitions.
+
+
+Chapter II: Purpose and Scope 
+Article 2
+The purpose of this Law is to define the rules and mechanisms to combat cybercrime and thus create a favorable, conducive and secure environment in cyberspace, but also to enable the Republic of Guinea to comply with its community and international commitments in cyber security.
+
+
+Article 3
+Offences relating to cybercrime committed in the territory of the Republic of Guinea are subject to the provisions of this Law, as well as criminal offences whose discovery in said territory requires the collection of electronic evidence; and this, regardless of the perpetrators of the offences, whether they are natural persons (Guinean citizens or foreigners) or legal persons (with the exception of the State, local or decentralized authorities, establishments, institutions or public administrations), as long as these persons are located, exercise, or evolve on the national territory. However, the exception concerning the State, local or decentralized authorities, public establishments or administrations, relates only to the legal person, and does not in any way impede the application of the provisions of this Law to the agents of that legal person, who would commit cyber-offences.
+In addition, the criminal liability of legal persons subject to the application of this Law does not exclude that of their managers or representatives natural persons, in the event of the commission of any of the offences provided for by the said Law.
+
+
+Title II: Infringements of Information and Communication Technologies and Electronic Communications or Committed through such Technologies and Communications
+
+
+Chapter III: Unauthorized Access and Maintenance in Computer Systems
+Article 4
+Anyone who accesses or attempts to fraudulently access all or part of a computer system, for any reason whatsoever, commits an offense condemned and punished by Law
+Article 5
+Anyone who attempts to fraudulently access all or part of a computer system shall be punished with imprisonment from one (1) year to five (5) years and a fine of 60,000,000 to 130,000,000 Guinean Francs.
+Any person complicit in the commission of this offense, will be punished with the same penalties.
+Article 6
+Anyone who fraudulently maintains or attempts to maintain himself in all or part of a computer system, will be punished with imprisonment from two (2) years to five (5) years and a fine of 80,000,000 to 150,000,000 Guinean Francs.
+Any person complicit in the commission of this offense, will be punished with the same penalties.
+
+
+Chapter IV: Interference with the Operation of Computer Systems and Fraudulent Introduction of Data into Computer Systems
+Article 7 
+Hindering the proper functioning and / or falsification of data of a computer system constitutes an act of cybercrime and will be punished by law.
+Article 8
+Anyone who obstructs, falsifies or attempts to obstruct or distort the operation of a computer system, will be punished with imprisonment from three (3) years to six (6) years and a fine of 100,000,000 to 500,000,000 Guinean Francs. Any person complicit in the commission of this offense, will be punished with the same penalties.
+Article 9
+Anyone who fraudulently introduces or attempts to introduce data into a computer system, will be punished with imprisonment from three (3) years to six (6) years and a fine of 100,000,000 to 500,000,000 Guinean Francs.
+
+
+Chapter V: Fraudulent Interception, Modification and Falsification of Computer Data
+Article 10
+The fraudulent interception and / or unauthorized modification of computer data constitutes an offense provided for and punished by Law.
+Article 11
+Anyone who intercepts or attempts to fraudulently intercept computer data by technical means during their non-public transmission to, from or inside a computer system, will be punished with imprisonment from five (5) years to ten (10) years and a fine of 500,000,000 to 1,000,000,000 Guinean Francs.
+Any person complicit in the commission of this offense, will be punished with the same penalties.
+Article 12
+Anyone who alters or attempts to alter, modifies or attempts to modify, deletes or attempts to fraudulently delete computerized data, will be punished with imprisonment from five (5) years to ten (10) years and a fine of 500.000.000 to I .000,000,000 Guinean Francs.
+Any person complicit in the commission of this offense, will be punished with the same penalties.
+Article 13
+Whoever produces or manufactures a data set by the introduction, modification, alteration or fraudulent deletion of computer data, generating counterfeit data, with the intention that they are taken into account or used for legal purposes as if they were original, shall be punished by imprisonment from five (5) years to ten (10) years and a fine of 500,000,000 to 1,000. 000,000 Guinean Francs.
+
+
+Chapter VI: Computer Fraud, Fraudulent Processing of Personal Data, Use of Falsified Data
+Article 14
+The use of data fraudulently obtained is punishable by law.
+Article 15
+Anyone who knowingly uses or attempts to use fraudulently obtained data will be punished with imprisonment from two (2) years to five (5) years and a fine of 300,000,000 to 600. 000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 16
+Anyone who fraudulently obtains, for himself or for others, any advantage, by the introduction, use, modification, alteration or deletion of computer data or by any form of interference with the operation of a computer system, shall be punished with imprisonment from two (2) years to five (5) years and a fine of 400,000,000 to 700,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Chapter VII: Possession of Equipment to Commit Cybercriminal Crimes and Commission of Computer Crimes through Associations specifically formed for this purpose or by Prior Agreement
+Article 17
+The fraudulent possession of telecommunications equipment to be connected on a network open to the public or a private network is an offence punishable by law.
+Article 18
+The fraudulent possession of a password with the intention of fraudulently entering a computer system is an offence punishable by law.
+Article 19
+Any person who, with the intention of committing any of the offences provided for in this Act, knowingly imports, sells, produces, holds, disseminates, offers, assigns, or makes available :
+* Computer equipment, device or program,
+
+
+* A password, access code or similar computer data,
+
+
+Shall be punished by imprisonment of one (1) year to three (03) years and a fine of 150,000,000 to 550,000,000 Guinean Francs.
+
+
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+Article 20
+Quiconque participe, ou tente de participer à une association spécifiquement formée ou à une entente préalablement établie en vue de commettre ou de préparer l’une quelconque des infractions prévues par la présente Loi ou assimilée, se rend coupable de délit, et sera puni d’un emprisonnement de trois (3) ans à cinq (5) ans et d’une amende de 1.000.000.000 à 1.500.000.000 de Francs Guinéens.
+
+
+Chapter VIII: Production, Import or Export, Possession and Facilitation of Access to Child Pornographic Images or Representations
+Article 21
+The recording, dissemination, transmission or representation of images of child pornography is an offence and by law.
+Article 22
+Quiconque produit, enregistre, met à disposition, diffuse, transmet une image ou une représentation présentant un caractère de pornographie infantile par le biais d’un système informatique ou d’un moyen de stockage de données informatiques, se rend coupable de ‘délit’, et sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 700.000.000 à 1.000.000.000 de Francs Guinéens. Toute personne complice de la commission de cette infraction sera punie des mêmes peines, mais également toute personne qui tenterait de commettre cette infraction.
+Article 23
+Quiconque se procure ou procure à autrui, importe ou fait importer, exporte ou fait exporter une image ou une représentation présentant un caractère de pornographie infantile par le biais d’un système informatique ou d’un moyen de stockage de données informatiques, sera puni d’un emprisonnement de cinq (5) ans à dix (10) ans et d’une amende de 700.000.000 à 1.000.000.000 de Francs Guinéens. Toute personne complice pour la commission de cette infraction, sera punie des mêmes peines, au même titre que toute personne qui tenterait de commettre cette infraction.
+Article 24
+Anyone who intentionally possesses an image or representation of child pornography through a computer system or a means of storing computer data shall be punished by imprisonment for a period of two (2) years to five (5) years and a fine of 250,000,000 to 500,000,000 Guinean Francs or only one of these two penalties.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 25
+Anyone who facilitates access to images, documents, sound or representations of a pornographic nature to a minor, will be punished with imprisonment from two (2) years to five (5) years and a fine of 250,000,000 to 500,000,000 Guinean Francs.
+Any person who is complicit in the commission of this offence shall be punished with the same penalties as any person who attempts to commit this offence.
+
+
+Chapter IX: Provision of Images or Writings of a Racist or Xenophobic Nature through a Computer System, Insults, Threats, and Negationism through the Computer System
+Article 26
+Downloading, disseminating and making available messages, photos, writings, drawings or any other representation of theories or ideas, of a racist or xenophobic nature, through a computer system, is guilty of an offence punishable by law.
+Article 27
+nyone who creates, downloads, disseminates or makes available in any form messages, photos, writings, drawings or any other representation of theories or ideas, of a racist or xenophobic nature, through a computer system, is guilty of an offence, and shall be punished by imprisonment for five (5) years ten (10) years and a fine of 100,000,000 to 300,000,000 Guinean Francs. Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 28
+Anyone who makes threats of violence or death through a computer system, will be punished with imprisonment from one (01) year to five (5) years and a fine of 30,000,000 to 100,000,000 Guinean Francs.
+And where such threats are made against a person on account of membership of a particular group, race, colour, descent, descent, religion, origin, nationality, ethnicity, to the extent that such membership serves as a pretext for such a threat, the perpetrator of such threats shall be punished by imprisonment for three (3) years to eight (8) years and a fine of 100,000,000 to 100,000 years.500,000,000 Guinean Francs.
+
+
+Any person complicit in the commission of any of these offenses will be punished with the same penalties.
+
+
+Article 29
+Anyone who utters an insult, an outrageous expression, any term of contempt or any invective that does not contain the imputation of any fact through a computer system, will be punished with imprisonment from (6) months to one (1) year and a fine of 40,000,000 to 120,000,000 Guinean Francs.
+And where such offences are committed against a person on account of membership of a particular group, race, colour, descent, parentage, religion, origin, nationality, ethnicity, to the extent that such membership serves as a pretext for such an insult, the perpetrator shall be punished by imprisonment for three (3) years to eight (8) years and a fine of 80,000,000 to eight (8) years.250,000,000 Guinean Francs.
+
+
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+Article 30
+Anyone who denies, approves, or intentionally justifies acts constituting genocide and / or crimes against humanity through a computer system, is guilty of an offence, and will be punished with imprisonment from five (5) years to ten (10) years and a fine of 400,000,000 to 1,000,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+Chapter X: Attacks and Threats to Public Order and Safety; to the Safety, Integrity and Dignity of Individuals through a Computer System
+Article 31
+The production, dissemination or making available to others of data likely to disturb public order or security or to harm human dignity through a computer system, is guilty of crime, and will be punished by Law.
+Article 32
+Anyone who produces, disseminates or makes available to others data likely to disturb public order or security or to harm human dignity through a computer system, is guilty of an offence, and will be punished with imprisonment from six (6) months to five (5) years and a fine of 20,000,000 to 300,000,000 Guinean Francs.
+This penalty may be increased depending on the extent of the offence and the harm caused. Any person complicit in the commission of this offense, will be punished with the same penalties.
+Article 33
+Anyone who disseminates or makes available to others through a computer system, except for authorized persons, a manual or a process allowing the manufacture of means of destruction likely to harm human life, property, and/or the environment, is guilty of an act of terrorism, and shall be punished by imprisonment from three (3) years to one (05) years and a fine of 500,000,000 to 1,000,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+Article 34
+Anyone who disseminates or makes available to others through a computer system, information or methods of incitement to suicide, is guilty of incitement to crime, and will be punished with imprisonment from two (2) years to seven (7) years and a fine of 100,000,000 to 350,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 35
+Any person who communicates or discloses, through a computer system, false information to suggest that destruction, degradation or deterioration of property or harm to persons has been or will be committed shall be punished by imprisonment for a period of six (6) months to three (3) years and a fine of 20,000,000 to 100,000,000 Guinean Francs or only one of these two penalties.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+Anyone who communicates or discloses through a computer system, false information tending to make believe a disaster or any other emergency situation, will be on the same basis as any accomplice, punished with the same penalties as those provided for in paragraph 1 of this Article.
+Article 36
+Anyone who threatens to commit, through a computer system, destruction, degradation or deterioration of property or harm to persons, when materialized by writing, image, video, sound or any other data, is guilty of terrorist threat, and shall be punished by imprisonment from four (4) years to ten (10) years and a fine of 100,000,000 to 450,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 37
+Is guilty of treason and shall be punished with life imprisonment, any citizen of Guinean nationality, residing in or outside the territory of the Republic of Guinea, who :
+Delivers or ensures possession of any information, document, process or computer data, which must be kept "secret" in the interests of national defence, with a view to delivering it to a foreign country, to any individual, or to any organization that infringes or is likely to infringe or violate the fundamental interests of the Republic of Guinea, through the computer systems of the Republic of Guinea. ;
+Destroys or allows to destroy information, a document, a process or a computer data, yet to be kept "secret" in the interest of national defence, with a view to favour a foreign country or any other Foreign natural or legal person.
+Article 38
+s guilty of espionage and shall be punished with life imprisonment, any foreigner (non-Guinean citizen) residing in or outside the territory of the Republic of Guinea, who ;
+Delivers or ensures possession of any information, document, process or computer data, yet to be kept "secret" in the interests of national defence, with a view to delivering it to
+To a foreign natural or legal person, through a computer system ;
+Destroy or allow to be destroyed any information, document, process or computer data, yet to be kept "secret" in the interest of national defence, with a view to favour a foreign country or any other foreign natural or legal person.
+
+
+Chapter XI: Ordinary Offences committed on or through Computer Systems, Software and Programmes
+Article 39
+The use or attempt to use computer systems to commit ordinary offences such as theft, fraud, concealment, breach of trust, extortion, money laundering, constitute aggravating circumstances and are treated as offences punishable by law.
+Article 40
+Anyone who attempts to use computer systems in order to commit ordinary offences such as theft, fraud, concealment, breach of trust, extortion, money laundering will be punished with imprisonment of one (1) year to two (2) years and a fine of 100,000,000 to 1,000,000,000 Guinean Francs. The amount of this fine may, however, be increased, depending on the extent of the infringement and the damage resulting therefrom.
+The fact of using or attempting to use computer systems with a view to committing acts of terrorism is he, assimilated to a crime, resulting in depending on the scale of the offense, will be punished with (15) years to life imprisonment.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article  41
+Anyone who commits or attempts to commit an act of terrorism targeting data, software and / or computer programs could be considered a crime, resulting in imprisonment from five (05) years to ten (10) years and a fine of 500,000,000 to 3,000,000,000 Guinean Francs depending on the scale of the offence.
+
+
+Chapter XII: Personal Data Breaches committed on or through Computer Systems and Cryptology
+Article 42
+Fraudulent use of identifying elements of a natural or legal person, the content of an electronic conversation, even by omission or negligence, is a violation of privacy and punishable by Law.
+Article 43
+Any person who uses or attempts to use fraudulently any element or elements identifying a natural or legal person or proceeds or causes, even by omission or negligence, to process, store, misappropriate, make available or disclose to others personal data without the prior authorisation of the data subject or the competent authority or in violation of the rules and formalities laid down in the provisions on the protection of personal data, shall be punished by imprisonment of one (1) year to two (2) years and a fine of 75,000,000 to 300,000,000 Guinean Francs. These penalties may be increased depending on the extent of the offence and the extent of the harm.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 44
+Where the disclosure of personal data without the authorization of the interested party or the competent authority, infringes the consideration, dignity, honour of the interested party or the intimacy of his private life, the perpetrator, will be on the same footing as any accomplice, punished by imprisonment from two (2) years to ten (10) years and a fine of 100,000,000 to 400. 000,000 Guinean Francs or one of these two penalties only. The same penalties apply to the attempted offence.
+In addition, the victim or his rights-holders may bring a civil action (damages) for compensation for the damage suffered.
+However, where the disclosure provided for in the preceding paragraph of this article and having entailed the consequences referred to in said article, was committed by recklessness, omission, or negligence, the penalty of imprisonment and the fine for the perpetrator or any accomplice, shall be respectively reduced from six (6) months to five (5) years and a fine of 20,000,000 to 75,000,000 Guinean Francs.
+Article 45
+Anyone who uses, possesses, offers, sells, makes available, knowingly transmits through a computer system, false identification data, will be punished from one (1) year to two (2) years and a fine of 80,000,000 to 175,000,000 Guinean Francs.
+Any person complicit in the commission of this offense of the same penalties.
+Article 46
+Anyone who realizes or attempts to realize false identification data through a computer system, is guilty of a crime, and will be punished from one (1) year to two (2) years and a fine of 150,000,000 to 250,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 47
+Anyone who carries out direct prospecting using any means of communication using, in any form whatsoever, the personal data of a natural person who has not expressed in writing his prior consent to receive such prospecting or who has formally opposed it, will be punished with imprisonment for one (1) year to two (2) years and a fine of 30,000,000 to 200,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 48
+Anyone who uses illegal methods of sending unsolicited electronic messages by resorting to the collection of personal data, will be punished with imprisonment from two (2) years to five (5) years and a fine of 60,000,000 to 230,000,000 Guinean Francs, Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 49
+Anyone who conceals the identity of the person on whose behalf a commercial offer is issued or mentions an offer unrelated to the proposed service or service, shall be punished by imprisonment from five (5) months to two (2) years and a fine of 10,000,000 to 50,000,000 Guinean Francs or only one of these two penalties.
+Article 50
+Any person who processes personal data by fraudulent, unfair or unlawful means is guilty of an offence, and shall be punished by imprisonment for two (2) years to three (3) years and a fine of 75,000.000 to 900,000,000 Guinean Francs.
+However, the penalty may not be less than 300,000,000 Guinean Francs, when the fraudulent processing of data was done for the purpose of sending unsolicited electronic messages by a legal person, with the exception of the State, local or decentralized authorities and public institutions.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 51
+Anyone who uses the identification elements of a natural or legal person for the purpose of deceiving the recipients of an electronic message or users of a website in order to take them to communicate personal data or confidential information, is guilty of an offence, and will be punished by imprisonment from one (1) year to two (2) years and a fine of 100,000,000 to 1,100,000,000 Guinean Francs.
+However, the penalty of imprisonment may not be less than two (2) years and the fine of less than 500,000,000 Guinean Francs, where the personal data or confidential information communicated have been used for the embezzlement of public or private funds. Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 52
+Anyone who fraudulently takes or attempts to take knowledge of information inside a computer system, or fraudulently copies information from such a system, or fraudulently subtracts the physical medium on which one is located is guilty of theft of information.
+Anyone who commits a theft of information is guilty of an offence, and will be punished with imprisonment from one (1) year to two (2) of a fine of 75,000,000 to 150,000,000 Guinean Francs.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 53
+The production, sale, obtaining for use, importation, dissemination, or other means of upgrading of a device, carried out in an illegal, unlawful and/or intentional manner, including a computer program, primarily designed or adapted to enable the commission of a theft of information, or the use of a password, access code or similar computer data allowing r to all or part of a computer system, with the intention that they are used to commit any of the offences provided for in this Act, shall be punished by the penalties provided for the offence itself or for the most severely punishable offence.
+Article 54
+Where the acts punishable under this Act relate to a computer system or a data processing program protected by a secret code, the penalty shall not be less than five (05) years ' imprisonment.
+Article 55
+Anyone who, in bad faith, opens, deletes, delays, or diverts electronic correspondence, whether or not arriving at destination and addressed to a third party, or becomes fraudulently aware of it, will be punished by imprisonment from one (1) year to five (5) years and a fine of 40,000,000 to 180,000,000 Guinean Francs.
+The same penalties apply to any person who, in bad faith, intercepts, misappropriates, uses or discloses electronic correspondence transmitted, transmitted or received by means of telecommunications or who installs devices designed to carry out such interceptions.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 56
+Any person who, apart from the cases provided for by this Law, puts or keeps on computer media or memory, without the express consent of the interested party, personal data which, directly or indirectly, reveal the origin, race, ethnicity, political, philosophical or religious opinions, or trade union membership, or which are related to the health or sexual orientation of the latter or any other information inherent to him and of a sensitive or strictly personal nature, shall be punished by imprisonment of one (1) year to seven (7)years and a fine of 30 () 00,000 to 150,000,000 Guinean Francs or one of these two penalties only.
+Article 57
+Anyone who does not comply with the prohibition to practice the profession of cryptology provider or the obligation to withdraw the means of cryptology, will be punished with imprisonment from one (1) year to five (5) years and a fine of 150,000,000 to 600,000,000 Guinean Francs or only one of these two penalties.
+
+
+Chapter XIII: Intellectual Property Infringements in and through Computer Systems
+Article 58
+Anyone who commits an infringement of intellectual property by means of a computer system, shall be punished with imprisonment from two (2) years to ten (10) years and a fine of 100,000,000 to 900,000,000 Guinean Francs or only one of these two penalties. These penalties may be increased depending on the extent of the offence and the extent of the harm.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Constitutes an infringement of intellectual property.
+The fact, without the authorization of the author or his rights-holders, of reproducing, representing or making available to the public on a computer system or a digital or analog medium, in whole or in part, a work of the mind protected by a copyright or a related right ;
+The fact, without the authorization of the author or his rights-holders, of translating or adapting a work of the mind by means of a computer program or of making such translation or adaptation on a computer system or a digital or analog medium available to the public ;
+The fact, without the authorization of the author or his rights-holders, to reproduce, use, sell, distort, denigrate a trademark, a company name, a commercial name, an Internet domain name or any other distinctive sign belonging to a third party through a computer system open to the public or through a computer program or on a digital or analog medium ;
+Knowingly exploiting, by reproduction or representation, a work of the mind unlawfully made available to the public on an electronic communication network ;
+Knowingly, and without the right, to sell, make available to the public by reproduction or representation, a good or a product protected by a patent of invention.
+Article 59
+Do not constitute an infringement of intellectual property when carried out through a computer or electronic system or program :
+Copies or reproductions of works of the spirit strictly reserved for the private use of the copyist and not intended for collective use, with the exception of copies of works of art intended to be used for purposes identical or similar to those for which the work of art was created ;
+Analyses and short quotations, provided that the names of the author of the work and the source are clearly indicated, justified by the critical, polemical, educational, scientific or informational nature of the work to which they are incorporated ;
+The parody and caricature of the original work made without intent to harm the image and good repute of the author of the said work ;
+Provisional copies or reproductions having a transitory and ancillary character when they are an integral and essential part of a technical process and are intended to allow the transmission or lawful use of the work on a computer or electronic system ;
+Reproduction and representation for non-profit purposes by legal persons governed by public law and by institutions open to the public, such as libraries, archives, museums, documentation centres and multimedia cultural spaces , with a view to viewing the work on a strictly personal basis by persons with one or more impairments in their motor, physical, sensory, mental, cognitive or psychic functions, and whose level of incapacity is recognized in a medical certificate duly drawn up for this purpose ;
+The reproduction of a work carried out for conservation purposes or intended to preserve the conditions for its consultation on the spot by publicly accessible libraries, museums or archives, provided that they do not seek any economic or commercial benefit ;
+The reproduction and representation of works of the mind carried out for exclusively educational purposes by teachers and researchers in the strict framework of their teaching or research for their pupils and students or for other researchers and teachers directly concerned, provided that such reproduction or representation does not give rise to commercial or lucrative exploitation.
+Article 60
+The author of a work of the spirit or his rights-holders may obstruct the copying of the work by limiting the right of copying recognized by this Law, in particular by the implementation of technical protection measures, where the implementation of the right of copying infringes the normal exploitation of the work or results in unjustified prejudice to the interests of the author.
+It is understood by technical protection measures, any technology, technique, device, component that, in the normal framework of its operation, performs the function of controlling the uses of the work or limiting copies of the work concerned.
+
+
+However, the user must be clearly informed of the existence of the technical protection measures he acquires or uses, and of the functions of these technical measures, in particular whether they prohibit - or not-the use of the work on other computer or operating systems.
+Article 61
+The holder of an Internet access service or any electronic communication network, is obliged to ensure that this access is not used for manifestly unlawful purposes, in particular reproduction or representation of works of the spirit without the authorization of their authors or the rights holders.
+Otherwise, he is guilty of complicity by provision of means, and therefore reprehensible.
+
+
+Chapter XIV: Gambling Offences Money Transfers and other Unlawful Acts on Electronic Communications Networks
+Article 62
+The organization of gambling on electronic communications networks, is placed under a regime of strict state regulations and regulations, implying the provision of a license or prior authorization for any activity of this nature.
+As such, Anyone who, without prior authorization of the State or its services concerned, organizes illegal gambling online, including games of chance, illegal lottery, prohibited lottery advertising, illegal betting or any other games whose implementation requires prior authorization, will be punished with imprisonment of one (1) year to five years.
+
+
+(5) years and a fine of 75,000,000 to 1,000,000,000 Guinean Francs.
+
+
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 63
+Money transfers by payment cards or by bank transfer or by any other means of payment made by natural or legal persons in connection with illegal gambling are prohibited on electronic communications networks.
+Banking and financial institutions operating on Guinean territory must ensure compliance with this prohibition, and notify the competent authorities accordingly.
+Article 64
+Anyone who does not comply with the prohibition of money transfer mentioned in Article 63 above, will be punished with imprisonment from one (1) year to two (2) years and a fine of 75,000,000 to 1,500,000,000 Guinean Francs. These penalties may be increased depending on the extent of the offence and the extent of the harm.
+Any person complicit in the commission of this offense of the same penalties.
+When this prohibition is violated by a legal person (with the exception of the State, local or decentralized authorities, public institutions and institutions, their agents remain responsible), the penalty of imprisonment and the fine incurred are increased to double. The same penalties apply to any accomplice.
+If the transfer is made to a foreign country, this fact also constitutes an infringement of the regulations governing financial transactions, including international financial transactions and foreign exchange control, and is considered an offence, without prejudice to the application of the penalties provided for in those regulations.
+
+
+The person (natural or legal) perpetrator of this offense as well as his accomplice, will be punished with imprisonment from two (2) years to five (5) years and a fine of 200,000,000 to 2,000,000,000 Guinean Francs. This fine may be increased depending on the extent of the infringement and the resulting harm.
+Article 65
+In addition to the Guinean structure in charge of combating cybercrime (for monetary penalties), national courts are competent to identify and]or punish offences where illicit gambling activities are offered from the national territory or are accessible to users of electronic communications networks from the national territory and there is a sufficient, substantial or significant link between the illicit provision offered to users of online communications networks and the national territory, in particular by the language used, the currency used, the products offered, the domain name used by the site offering said service.
+
+
+Chapter XV: Liability of Technical Online Service Providers
+Article 66
+The opening of a cyber café is, in accordance with the provisions of the Law on Telecommunications and Information Technology in the Republic of Guinea, subject to the Approval or an act of prior recognition of activities of the Authority of Regulation of Posts and Telecommunications.
+Article 67
+Access to the Internet service from cyber cafes is subject to prior identification of users. The operators of cyber-cafes are required to carry out this prior identification, the modalities of which will be fixed by Order of the Minister in charge of Posts, Telecommunications and the Digital Economy.
+Article 68
+Any minor under the age of twelve (12) can only access a cyber café, accompanied by an adult.
+Article 69
+The access of any minor under the age of eighteen (18) to a cyber cafe, must be limited access, which excludes access to websites of a pornographic, violent, racist, hateful or degrading nature and in general, all websites infringing on human dignity or inciting incivism.
+Article 70
+Persons whose activity is to offer an online communication service must make possible the existence of technical means to restrict access to certain services or to select them, and to inform their subscribers or users of the existence of such means.
+Article 71
+Anyone who does not comply with this obligation to make possible the existence of the means referred to in Article 70 above, and/or violates the obligation to inform its subscribers or users of the existence of these means, will be punished with a fine of 20,000,000 to 100,000,000 Guinean Francs. And the officer or owner(s) of such operator or provider of online communications services, are punishable by six (6) months to three (3) years ' imprisonment.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+
+
+In addition, the service provider providing access to communication services or providing permanent storage for the provision of content free of charge or on a cost basis, shall be required by decision of the competent authority to immediately suspend access to such services or content.
+Article 72
+Natural or legal persons who offer access to online communication services or who even provide, free of charge, for the public to be made available by online communication services, the storage of signals, writings, images, sounds or messages of any kind provided by recipients of these services, cannot be held liable for civil and/or criminal liability, as a result of the activities or information stored at the request of a recipient of these services :
+If they had not, in good faith and at any time, been aware of their unlawful nature or of the facts and circumstances giving rise to such character ;
+If from the moment they became aware of this illegality, they acted promptly to withdraw such data or make it impossible to access it ;
+If the withdrawal of such data has not been ordered by the competent authority.
+Article 73
+Knowledge of the facts in dispute shall be presumed to have been acquired by the persons referred to in Article 72 above, provided that they are notified by the victim or by any interested person of the unlawful activities or of the facts and circumstances giving rise to such unlawful character.
+However, to be taken into consideration, the notification by the aforementioned persons, must include the following elements : – if the person making the notification is a natural person his name, surname, profession, domicile, nationality, date and place of birth, and his telephone and electronic contact details (email).
+if the notifying person is a legal person:
+Its name, its registered office, and its telephone and electronic contact details (email, website).
+The surname, first name, domicile, and as far as possible the profession, nationality, date and place of birth, and telephone and electronic contact details (email). Of the recipient of the service in question and if it is a legal person, its name, its registered office, and its telephone and electronic contact details (email, website) ;
+Description of the disputed facts and their precise location on the network ;
+The rights and grounds for the removal of the disputed content is required ;
+The copy of the correspondence addressed to the author or failing that to the publisher of the disputed information or activities requesting their interruption, removal or modification, or the justification that the author or publisher could not be contacted.
+Article 74
+The procedure for notification of unlawful acts or activities provided for in Article 73 of this Law shall not entail the liability of any of the persons concerned by the exceptions referred to in that article.
+Article 75
+Any person who presents in bad faith, to the persons referred to in Article 73 of this Law, any content or activity, as being unlawful, with the aim of obtaining its removal or to cause its dissemination to cease, shall be punished by imprisonment from one (1) year to five (5) years and a fine of 15,000,000 to 75,000,000 Guinean Francs or one of these two penalties only.
+Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 76
+The persons mentioned in Article 73 of this Law are not obliged to monitor the information they transmit or store, nor to search for facts or circumstances revealing illegal activities. However, the competent authority may require such persons to carry out targeted and temporary monitoring of the activities carried out through their services.
+Article 77
+Internet service providers have the obligation to set up a device easily accessible and visible on their website, allowing any interested person, to bring to their attention, this type of illegal activities. They are also required to make public, the means dedicated to this struggle.
+In addition, they have the obligation to inform the competent authority and, where appropriate, the competent judicial authority or any other competent authority, without delay and by any permissible means, of any unlawful activities carried out by recipients of their services, which are reported to them by third parties or which they themselves have detected or suspected.
+Any breach of any of the obligations mentioned in paragraphs le ' and 2 of this Article, exposes its author, as well as his accomplice, to imprisonment from one (1) year to five (5) years and a fine of 15,000,000 to 100,000,000 Guinean Francs.
+Article 78
+The competent authorities may prescribe or order to any person mentioned in Article 73 of this Law, the implementation of any measures or solutions to prevent or stop damage caused by the content of an electronic communication service, in particular the collection or recording of objectionable facts or data.
+Any violation of this prescription or order, exposes its author and any accomplice, to imprisonment from one (1) year to five (5) years and a fine of 60,000,000 to 300,000,000 Guinean Francs.
+Rule 79
+The persons mentioned in Article 73 of this Law , are obliged to hold and retain for a period of between three (3) and five (05) years depending on the importance of the data, the computer data that can make it possible to identify anyone who has contributed to the creation of a content or one of the contents of the services provided by them, in accordance with the legal or regulatory provisions relating to the protection of personal data.
+However, in the event that the duration referred to in paragraph le’ above is contrary to or in violation of the relevant provisions of the legislation or regulations relating to the protection of personal data, the rules provided for in that legislation or regulation shall take precedence.
+Article 80
+The persons mentioned in Article 73 of this Law, have the obligation to make available to the public online, their own data allowing to identify them when their services are offered from the national territory or are accessible from that territory and intended for users of the online communication networks of said territory. This identification data must include the following :
+If they are natural persons : their surname, first name (s), domicile, date and place of birth, nationality, postal and geographical address, telephone number, e-mail address (email); and if they are subject to registration in the Commercial and Movable Credit Register or in the trade register, the references of this registration.
+If they are legal persons: their corporate name and the postal and geographical address of the registered office, their telephone number, their e-mail address (e-mail website) ; and if they are subject to registration in the Commercial and Movable Credit Register or in the trade register, the references of this registration, as well as the amount and distribution of their share capital. In addition, if it is subject to the National Directorate of Taxes and value added tax, its tax identification number (TIN code) and VAT key.
+If its activity is subject to an authorisation scheme, the name and address of the authority which issued the authorisation. If she is a member of a regulated profession, the reference to the applicable professional rules, her professional title, the Member State in which it was granted and the name of the college or professional body with which she is registered. However, persons performing an electronic communication service in a non-professional capacity, are authorized to provide to the public, in order to preserve their anonymity, only the name, the corporate name, and the address of the persons referred to in Article 73 of this Law subject, however, to having satisfied in advance with the latter, its obligation to identify under the conditions listed above
+Article 81
+Anyone who, a natural person who is a de jure or de facto leader of a legal person carrying out one of the activities listed in Article 73 of this Law, does not comply with the obligations provided for in Articles 78 and 80 of this Law, shall be punished by imprisonment for six (6) months to four (4) years and a fine of 10,000,000 to 100,000,000 Guinean Francs. Any person complicit in the commission of this offense will be punished with the same penalties.
+Article 82
+Any person carrying out an activity of transmission of content over a telecommunications network or providing access to a telecommunications network, can only have his civil and/or criminal liability incurred as a result of such content, in one of the following cases :
+Where it is at the origin of the disputed transmission request ;
+When selecting the recipient of the transmission ;
+When it selects or modifies the content being transmitted.
+Article 83
+Any person who ensures, in order to make their subsequent transmission more efficient, an activity of automatic, intermediate and temporary storage of the contents that a provider transmits, can see his civil and/or criminal liability incurred because of these contents, only if :
+It has modified these contents, and has not complied with their conditions of access and the usual rules regarding their updating or hindered the lawful and usual use of the technology used to obtain data ;
+It did not act promptly to remove content stored by it or to make access to it impossible, as soon as it actually became aware, either of the fact that the content originally transmitted was removed from the network, or of the fact that access to the content originally transmitted was made impossible, or of the fact that the competent authority prescribed or ordered to remove from the network the content originally transmitted or to make access impossible.
+
+
+
+
+Chapter XVI: Penalties for Refusal of Communications Required by Competent Authorities
+Article 84
+The refusal to communicate to the Guinean structure in charge of Cyber-security, to the competent judicial authority or any public authority the identification data or in general any information mentioned or required under the provisions of this Law or its subsequent implementing texts, exposes the perpetrator and any accomplice, to 2,000,000 Guinean Francs per day of delay (amount which will be increased to double after one week), and to a prison sentence of one (1 ) year to five (5) years or one of these two sentences only.
+
+
+Chapter XVII: Specific Penalties for Infringements of This Law Committed by Legal Persons
+Article 85
+When offences under this Law are committed by legal entities (with the exception of the State and its decentralized services, local or decentralized authorities and public institutions and institutions), the fines and imprisonment provided for in the said law shall be imposed :
+Double to fivefold for the fine, depending on the extent of the infringement and the extent of the injury, and’,
+The penalty of imprisonment of the representative or officer of the legal person or its owner or its shareholders, in the event that this aggravation of the penalty was not initially and explicitly provided for.
+
+
+Chapter XVIII: Additional Penalties for Offences under this Act, Recidivism and Publication of Penalties
+Article 86
+Without prejudice to the application of the relevant provisions of the Guinean Penal Code or the Laws on the protection of personal data, on electronic transactions, on cryptology and/or their implementing texts, persons (natural or legal) convicted or punished (fines or prison sentences) for the offences provided for in this Law, also incur on order of the competent judge, the following additional and non-exhaustive penalties:
+The prohibition for a period of five (5) years from the exercise of a public office, or from the exercise of the social or professional activity in which or in the course of which the offence was committed or any other social or professional activities, the offender or his accomplice, would be reasonably likely to re-commit any of the offences provided for in this Act ;
+Temporary or definitive prohibition of residence in the territory of the Republic of Guinea ;
+Deprivation of rights, including ineligibility for any trade union, local or national representation functions ;
+The provisional or definitive exclusion of any possibility to participate or be recruited in any process (call for tenders, consultations or expressions of interest), relating to a public procurement ;
+The temporary or definitive prohibition of a public offering ;
+The prohibition to issue messages only digital or electronic communication ;
+The temporary or definitive prohibition of access to the site that has been used to commit an infringement of the computer system, or even the prohibition of hosting this site ;
+The prohibition of issuing checks other than those that allow withdrawals of funds by the shooter from the shot or those that are certified ;
+The prohibition of using bank cards or any other form of electronic payment ;
+The dissolution of the Company or organization, within the framework of legal entities.
+Rule 87
+In the event of a recurrence of the offences provided for in this Act, the penalties and fines provided for in Articles 4 to 77 shall be increased, and may range from double to fivefold for fines, and to double for prison sentences.
+The additional sanctions raised and not exhaustive, may also be applied and aggravated at the level of their content, at the discretion of the competent judicial authority. Recidivism is understood within the meaning of this Act, as the re-commission of an offence already committed in the past or another of the offences provided for in that Act (which would not necessarily have already been committed).
+Rule 88
+Penalties (monetary, prison, or administrative) imposed against perpetrators (legal or natural persons) of violations of the provisions of this Law or their accomplices, must be published at least in the Official Gazette of the Republic.
+
+
+
+
+Title III: Institutional Provisions
+Chapter XIX: Bodies or Institution(s) Responsible for the Fight against Cybercrime and the proper Application of this Law
+Article 89
+The Centre de sécurité des systèmes d'information (CERT) is responsible for preventing (monitoring), alerting, investigating, searching, detecting, responding, dispatching suspects, perpetrators and their accomplices, certifying, raising awareness and training in the fight and suppression against threats and infringements of information and communication technologies, including computer systems and electronic communications in the Republic of Guinea.
+This structure is the body primarily responsible for combating and suppressing cybercrime in the Republic of Guinea and has all the necessary powers in this regard. Regulatory provisions will set out the modes of operation of CERT.
+Article 90
+The strategic policy, objectives, action plans and programmes to combat cyber-crime are subject to joint assessment and validation by the Ministers in charge of Posts, Telecommunications, the Digital Economy, Justice and Security and, if necessary, National Defence, Economy and Finance, Trade and the Governor of the Central Bank.
+Article 91
+Each agent or collaborator of the competent authority, before taking office, must swear an oath before the First President of the Court of Appeal.
+
+
+Chapter XX: Other Important Mechanisms and Actors in the Fight against Cybercrime
+Article 92
+The Minister of Posts, Telecommunications and IT Digital Economy, in collaboration with the other departments concerned shall take all measures, useful and necessary Decisions, aimed at promoting the installation and operationalization in a short time from the promulgation of this Law, of a Platform to combat cybercrime (CERT) within each socio-economic sector of Guinea (Telephone Operators, Internet Service Providers, Banks, Insurance companies, Public or private Universities, Hospitals, Production and service industries etc.), in order to enable them to strengthen synergies and pool their efforts for a better fight against cybercrime within their respective sectors of activity.
+Article 93
+These sectoral platforms for combating cybercrime, vectors of effectiveness in the fight against cybercrime at the national level, will be under the coordination of the National Center for Security of Information Systems.
+
+
+
+
+Title IV: Procedural Rules on Cybercrime and Evidence
+Article 94
+Sworn Officers of the centre for the security of information systems or Judicial Police Officers on request or warrant from the public prosecutor's office and on the decision of the competent judicial authority, as the case may be, in case of well-founded suspicion or proven infringement :
+Carry out searches or access any computer system, with a view to the manifestation of the truth ;
+Carry out the preventive seizure or final confiscation of equipment, media, hardware, software, programs, data, documents, which were used for the commission of the offence or which were intended for the commission of an offence (attempted) ;
+Carry out the sealing of premises that housed the commission of the offense or were intended for the commission of an offense (attempt).
+In the absence of will, or in the event of uselessness or impossibility of entering the electronic medium, the data of the same nature as those necessary for the understanding of the system, must nevertheless be the subject of copies on computer storage media and be placed under seals.
+The aforementioned actions, however, cannot be implemented, in violation of the provisions of the Code of Criminal Procedure that would be provided for in the matter.
+If the copies referred to in paragraph 2 of this Article are made in particular in the context of the actions referred to in that Article, it may be effected by decision of the competent judge, to the definitive erasure on the medium that has not been placed under court, of the computer data whose possession or use is illegal (in particular with regard to the imperatives of protection of personal data) or dangerous for the safety of persons and property.
+Article 95
+When computer systems, computer media, or premises used for the commission of an offence or an attempted offence within the meaning of this Act are sealed, they may only be reopened in accordance with the procedures laid down in the Code of Criminal Procedure.
+Article 96
+Searches, investigations or access by the competent agents or services to any information system, may not be carried out in violation of the rules prescribed by the Criminal Code and Criminal Procedure in force in the Republic of Guinea, with the exception of cases or situations resulting from a risk or imminent danger and/or serious harm to the health, security and/or the proper functioning of the State, or of a citizen.
+Sworn Officers may, for this purpose, freely carry out, alone or with the assistance of other Judicial Police Officers or the defence and security forces in general, unannounced checks, investigations, searches, seizures, arrests, raids of suspects and their accomplices or more generally, exercise any administrative and judicial police powers in cyberspace, the implementation of which could prove useful or fundamental for the defence of the fundamental interests of the nation, or the security, tranquility and health of citizens.
+However, these officers will remain criminally and civilly liable for any abuse they commit during the exercise of these exceptional measures.
+Article 97
+Where information needs so require and where there are serious reasons to fear the disappearance of archived computer data as evidence or commencement of evidence, the competent authority may order any interested person to keep and protect in secrecy the integrity of the data in its possession or under its control, within a maximum period of ten (10) years from the date of notification of the order.
+Article 98
+Electronic writing is admitted as evidence of cybercrime, provided, however, that the person from whom the writing originates can be duly identified, and that the writing is established and preserved, under conditions such as to guarantee its integrity.
+Article 99
+Subscriber data shall be retained by IT system operators or electronic communications service providers and protected in their integrity for a minimum period of five (5) years.
+When it is impossible to find the author of an electronic communication for failure to store data relating to subscribers or for loss of the integrity of said data, the operator of the computer system or the provider of the electronic communications service, incurs a fine of 150,000,000 to 700,000,000 Guinean Francs.
+Article 100
+Where, in the course of an investigation or investigation, there is reason to believe that specified computer data, including subscriber and traffic data, stored by means of a computer system, is likely to be lost or altered, the competent authority may proceed or cause to proceed with the immediate retention of such data. Such a decision may also be ordered by the competent judicial authority.
+The natural or legal person to whom injunction is made, must keep and protect the integrity of said data for as long as necessary for the investigation or investigation.
+Article 101
+The competent public authority may request :
+Of any person (natural or legal), the obligation to communicate specified data, in his possession or under his control, which is stored in a computer system or computer storage medium ;
+A computer system operator or a provider of electronic communications services, to communicate the specified traffic and subscriber data in its possession or under its control.
+Article 102
+The competent public authority may, in the course of a search or investigation, access a computer system or digital storage medium and data relating to the ongoing investigation and stored in that system or medium at the site of the search or investigation.
+Such access may also relate to data relating to the ongoing investigation and stored in another computer system not necessarily at the site of the search or investigation, provided that such data is accessible from the initial system or available for the initial system.
+If it is found that these data, accessible from the initial system, or available for the initial system, are stored in another computer system located outside the territory of the Republic of Guinea, they can and must be collected by the competent public authority, subject, however, to compliance with the international commitments of the Republic of Guinea.
+Such access should also not be made in violation of the provisions of the Code of Criminal Procedure that would be provided for in this regard.
+Article 103
+The competent public authority may, subject to compliance with any provisions of the Code of Criminal Procedure that would be provided for this purpose :
+collect or record by any technical means data relating to traffic or content associated with specific communications transmitted on Guinean territory by means of a computer system ;
+oblige an IT system operator or a provider of electronic communications services, within its existing technical capabilities: to collect or record by any technical means or to lend the said Authorities its assistance and assistance in collecting and recording, in real time, traffic or content data associated with communications transmitted on the territory of Guinea by means of a computer system.
+Article 104
+Identifiable and specific additional costs, necessary for the implementation by the operator of a computer system or a provider of electronic communications services of the assistance specified in the preceding articles of this Law, and possibly exposed by said operator or provider, shall be subject to financial compensation by the competent financial authority.
+Article 105
+Anyone who refuses to comply with legal and regular requests and requisitions (in accordance with the provisions of this Law and its implementing texts) of the public authority and its sworn agents and the requests and requisitions of the competent judicial authorities (Public Prosecutor, Investigating Judge) shall be punished with imprisonment of six (6) months to two (2) years and a fine of 15,000,000 to 100,000,000 Guinean Francs.
+Where the perpetrator of this offence is a legal person, he shall be liable to a fine of 150,000,000 to 800,000,000 Guinean Francs, without prejudice to the application of the other sanctions.
+
+
+Title V: Technical, Police and Judicial Cooperation to combat Cybercrime
+Article 106
+Since Cyberspace has no borders and entails numerous and complex challenges for the research and response to the crimes that characterize it, and which also constitute serious threats to security, public order and national economic development as well as to the tranquility and security of citizens thus requiring increased cooperation between the various in this fight (States, regional or international organizations, standardization or standardization institutes...), increased collaboration is needed between the Ministries of Justice, and the Digital Economy, as well as the Authority for the Regulation of Posts and Telecommunications.
+
+
+Title VI: Requirements for Cybercriminal Offences
+Article 107
+The requirements for cyberspace offences defined in this Law follow the same regime as those provided for in the Penal and Criminal Procedure Codes in force in the Republic of Guinea.
+
+
+
+
+Title VII: Final Provisions
+Article 108
+The offences provided for in this Law are not exhaustive in relation to cybercrime and may in this respect, for those not provided for in the said Law, be defined, and punished in the framework of subsequent texts that will be taken for its application.
+The penalties provided for in this Act may also, where necessary, be extended or aggravated.
+
+
+The penalties for cybercrime will also be supplemented and strengthened by the penalties provided for in the specific Laws on electronic transactions, on the protection of personal data, on cryptology and/or their implementing texts.
+Article 109
+The methods of application of this Law, will be taken by Decree or Order of the Minister in charge of Telecommunications Posts and the Digital Economy.
+
+
+
+
+Part Two: Protection Of Personal Data
+
+
+Title I: General Provisions
+Chapter I: Terminology
+Article 1
+For the purposes of this Act, the terms below are understood as follows :
+Cryptology activity: any activity for the purpose of producing, using, importing, exporting, or marketing cryptology means.
+Accreditation : the formal recognition by an accredited body that the product or system being evaluated can protect up to a specified level.
+Secure electronic archiving : all the modalities of conservation and management of electronic archives, intended to guarantee their legal value for as long as necessary.
+Attack on human dignity: any attack, except in the case of an attack on life, an attack on integrity or freedom, which has the essential effect of treating the person as a thing, as an animal, or as a being to which any right would be denied.
+Protection Authority : the Administrative Authority responsible for ensuring that the processing of personal data is carried out in accordance with the provisions of this Law.
+Encryption: any technique that involves transforming digital data into an unintelligible format by employing means of cryptology.
+Code of conduct : the charter of use drawn up by the person responsible for the processing of personal data, in order to establish a regular use of the computer resources, the internet and electronic communications of the structure concerned, and which is previously approved by the Protection Authority.
+Electronic commerce : the economic activity by which a person offers or ensures, remotely and electronically, the supply of goods and the provision of services.
+Also falling within the scope of e-commerce are the activities of providing services such as providing online information, commercial communications, tools for searching, accessing and retrieving data, accessing a communication network or hosting information, even if they are not remunerated by those who receive them.
+
+
+Electronic communications : any transmission, transmission or reception of signs, signals, writings, images, sounds or videos, by electromagnetic, optical or any other means.
+Consent of the data subject: any expression of express, unequivocal, free, specific and informed will, by which the data subject or his legal, judicial or conventional representative, accepts that his personal data be the subject of manual or electronic processing.
+Secret conventions: any unpublished keys necessary for the implementation of a means or provision of cryptology for encryption or decryption operations.
+E-mail : any message, in the form of text, voice, sound or image, sent over a public communication network, stored on a server in the network or in the recipient's terminal equipment, until the recipient retrieves it.
+Cryptology: the science relating to the protection and security of information, including for confidentiality, authentication, integrity and non-repudiation.
+Cybercrime: all criminal offences committed through or over a telecommunications network or information system.
+Recipient of a processing of personal data : any person entitled to receive a communication of this type of data, other than the data subject, the controller, the processor and the persons who, due to their duties, are responsible for processing such data.
+Document : the result of a series of letters, characters, numbers, figures or any other signs or symbols, which has an intelligible meaning, regardless of their medium and method of transmission.
+Personal Data : any information of any kind and regardless of its medium, including sound and image, relating to a natural person identified or identifiable directly or indirectly, by reference to an identification number or to one or more specific elements, specific to his physical, physiological, genetic, psychological, cultural, social or economic identity.
+Computer data or data (in short) : any representation of information or concepts, in a form similar to computer processing, including a program capable of having a function performed by an information system.
+Subscriber data : any information in the form of computer data or in any other form, held by a provider of services including electronic communications/ict, and relating to subscribers of its services, other than data relating to traffic or content, and making it possible to establish on the basis of a contract or arrangement of services.
+The type of communication services : the technical arrangements made for this purpose, and the length of service.
+Identity : postal or geographical address, telephone number or any other access number, email address, location information, billing information and the location of communication equipment.
+Traffic data : any data relating to a communication through an information system, produced by the latter as part of the communication chain, indicating the origin, destination, route, time, date, size, and duration of the communication or the type of underlying service.
+Sensitive data: any personal data, relating to religious, philosophical, political, trade union opinions or activities, sexual or racial life, health, social measures, prosecution, criminal or administrative sanctions.
+Electronic Data Interchange (EDI) : any electronic transfer of information from one electronic system to another implementing an agreed standard for structuring information.
+Written : any sequence of letters, characters, numbers or any other signs or symbols, having an intelligible meaning, whatever their media and means of transmission.
+Personal Data Bank : any structured set of data accessible according to defined criteria, whether centralized, decentralized, or functionally or geographically distributed, in order to allow the identification of a specific person.
+Service Provider : Any legal person who provides the public with electronic communications services, including the internet or computer services.
+Information : any element of knowledge that can be represented by conventions in order to be used, preserved, processed or communicated. Information can be expressed in written, visual, sound, digital, etc.
+Critical infrastructure : physical facilities and information and communication technologies including electronic, networks, services and assets, which in the event of shutdown or destruction, can have serious impacts on the health, safety or social or economic well-being of citizens, and/or the correct or continuous functioning of state services.
+Interconnection of Personal Data: any connection mechanism consisting in the linking of data processed for a specific purpose with other data processed for the same or different purposes, or linked by one or more data controllers.
+Electronic Message : Any information created, sent, received or stored through electronic or optical means or similar means, including, but not limited to, electronic data interchange (EDI), electronic messaging, telegraph, telex, and fax.
+Minor: any person under 18 years of age within the meaning of the Guinean Penal Code.
+Cryptology means : the set of scientific and technical tools (hardware or software) that allow to encrypt and/or decrypt.
+Cryptology means also means any hardware or software designed or modified to transform data, whether written or signals, using secret conventions, or to perform the reverse operation with or without secret conventions.
+Third country : any non-ECOWAS member State. - Data subject : any natural person, who is the subject of a processing of personal data.
+Cryptology Service : any service or operation, aimed at the implementation, on behalf of oneself or for others, of cryptology means.
+Cryptology Service Provider : any Person, natural or legal, who provides a cryptology service.
+Child pornography : any data of any kind or form, visually depicting a minor under the age of eighteen (18) who engages in sexually explicit behaviour or images depicting a child under the age of fifteen (15) who engages in sexually explicit behaviour.
+Direct marketing: any sending of messages, whatever the medium or nature, including commercial, political or charitable, intended to promote, directly or indirectly, goods, services, or the image of a person selling goods or providing services.
+Racism and xenophobia in information and communication technologies (ICTS) : any writing, image or other representation of ideas or theories, which promotes or encourages hatred, discrimination or violence against a person or group of persons, on the basis of race, colour, descent or national or ethnic origin or religion, to the extent that the latter serves as a pretext for or incites such acts.
+Data controller : the natural or legal person, public or private, or any other body or association that, alone or jointly with others, makes the decision to collect and process personal data, and determines the purposes thereof.
+Electronic signature any data that results from the use of a reliable identification process, and such as to guarantee its link with the act to which it is attached.
+
+
+SMS: English acronym, meaning 'Short Message Service'.
+Subcontractor : any natural or legal person, public or private. Or any other body or association, which processes personal data on behalf of the data controller.
+Surveillance : any activity using technical or electronic means, in order to detect, observe, copy or record the movements, images, words, writings, or the state of a fixed or mobile object or person.
+Information System or Computer System : any device isolated or not, any set of interconnected devices providing in whole or in part, automated processing of data in execution of a program.
+Third party : any natural or legal person, public or private, or any other body or association, other than the data subject, the controller, and the persons who, placed under the direct authority of the controller Or processor, are authorized to process the data character
+Processing of personal data: any operation or set of operations carried out or not using automated processes or not, and applied to personal data, such as collection, exploitation, recording, organization, storage, adaptation, modification, extraction, backup, copying, consultation, use, communication by transmission, dissemination or other making available, reconciliation or interconnection, as well as locking, encryption, erasure or destruction of said data ;
+Temporary copies: data temporarily copied in a dedicated space, for a limited time, for the purposes of the operation of the processing software ;
+Genetic data: any data relating to the hereditary characteristics of an individual or group of related individuals,
+Remote service : any provision of value-added services, based on telecommunications and / or information technology, aimed at enabling, interactively and remotely, a natural or legal person, public or private, the possibility of carrying out activities, procedures or formalities, etc.
+For terms not defined by this Law, the definitions given by the legal instruments of ECOWAS, the African Union or the International Telecommunication Union shall prevail over all other definitions.
+Chapter II: Purpose and Scope
+Article 2
+The purpose of this Law is to guarantee the protection of personal data in the Republic of Guinea, in particular by defining the rules, mechanisms and tools for the protection and management of said data, as well as the penalties for violations of said rules, in addition to the penalties provided for by the Law on Cybercrime.
+Article 3
+Are subject to the provisions of this Law :
+Any collection, processing, transmission, storage and use of personal data by a natural person, the State, local or decentralized authorities, public institutions and institutions, or by legal entities governed by private law ;
+Any automated or non-automated processing of data contained or required to appear in a file ;
+Any data processing carried out in the territory of the Republic of Guinea ;
+Any data processing that concerns public or national security, defense, research and prosecution of criminal offences or related to state security, subject to the derogations expressly provided for by special provisions laid down by other texts of laws in force, with regard to the processing of said data.
+Article 4
+Are excluded from the scope of this Law :
+The processing of personal data carried out by a natural person in the exclusive context of his personal or domestic activities, provided, however, that said data are not intended for systematic communication to third parties or dissemination
+Temporary copies made in connection with these technical activities of transmission and provision of access to a digital network, with a view to the automatic, intermediate and transitional storage of personal data, and for the sole purpose of allowing other recipients of the service, the best possible access to the transmitted information.
+
+
+Title II: Rules on the Processing of Personal Data
+Chapter III: Preliminary and Necessary Formalities for the Processing of Personal Data
+Article 5
+The processing of personal data is subject to prior notification to the Competent Authority designated by regulation.
+The declaration must include the commitment that the protection meets the requirements of this Law and any other regulations or Laws in force in the Republic of Guinea regarding the protection of personal data.
+
+
+At the end of this declaration, the Competent Authority shall issue a receipt and, where appropriate, by electronic means.
+
+
+The applicant can then implement the processing upon receipt of the receipt. However, he is not exempt from any of his responsibilities.
+
+
+Processing under the same organization and having identical or related purposes, may be the subject of a single declaration. The information required under the declaration is provided for each of the treatments, only to the extent that it is specific to the said declaration.
+Chapter IV: Exemption from Prior Formalities for the Processing of Personal Data
+Article 6
+Are exempt from the formalities of prior declaration for the processing of personal data :
+The processing of data used by a natural person in the exclusive context of his personal, domestic, or family activities ;
+The processing of data concerning a natural person, and the publication of which is prescribed by a legal or regulatory provision ;
+The processing of data, with the sole purpose of maintaining a register that is intended for exclusively private use ;
+The processing for which the controller has appointed a personal data protection officer responsible for independently ensuring compliance with the obligations provided for in this Law as well as any other laws or regulations in force in the Republic of Guinea on the protection of personal data, with the exception of cases where a transfer of personal data to a third country would be considered.
+Chapter V: Substances or Actions Subject to Prior Authorisation before Implementation
+Article 7
+Are subject to prior authorisation by the Competent Authority before any implementation :
+The processing of personal data relating to genetic, medical and scientific research data in these fields ;
+The processing of personal data relating to offences, convictions or security measures imposed by the competent courts ;
+The processing of personal data relating to a national identification number or any other identifier of the same nature, in particular telephone numbers ;
+Processing of personal data including biometric data ;
+The processing of personal data for public interest purposes, in particular for historical, statistical or scientific purposes ;
+The envisaged transfer of personal data to a third country.
+Requests for processing are made by the controller or his legal representative. However, the authorisation does not exempt its holder (Controller) or its agent from their liability towards third parties.
+
+
+
+
+Chapter VI: Processing of Requests for Opinions, Declarations and Authorisations
+Article 8
+For the most common categories of processing of personal data, in particular those whose implementation is not likely to affect privacy or freedoms, the Competent Authority may establish standards and procedures designed to simplify or exempt the controller of personal data from the obligation to make a prior declaration.
+Article 9
+The request for an opinion, the declaration and the request for authorisation must be addressed to the Competent Authority, and contain at least the following particulars :
+The identity, domicile, geographical and postal address, telephone number, and e-mail address (email, website) of the controller of personal data or, in the event that the controller is not established in Guinean territory, those of his representative duly authorized for this purpose ; and if it is a legal person, its corporate name, its registered office, its telephone and email addresses (email, website), the identity of the corporate director, as well as that of the partners or shareholders, the registration number in the Commercial and Movable Credit Register, its tax declaration or registration number, its registration number or declaration to the National Social Security Fund, its;
+The purpose (s) of the processing, as well as the detailed description of its functions ;
+The interconnections envisaged or any other form of linking with other treatments ;
+The personal data processed, their origin, as well as the categories of persons concerned by the processing; - The retention period of the personal data processed ;
+The service (s) responsible for implementing the processing as well as the categories of persons who, due to their functions or for the purposes of the service, have direct access to the collected data ;
+The recipients entitled to receive the communication of the processed personal data
+The function of the person or service to which the right of access is exercised ;
+The measures taken to ensure the security of the processing of personal data, the protection and confidentiality of said data ;
+Whether or not to use a processor or whether or not to transfer personal data to a third country.
+In the event of a change in the above particulars to be provided by the applicant, either during the processing of the application or after the receipt or authorisation has been issued, in particular during the implementation of the processing, the controller shall immediately inform the Competent Authority.
+Rule 10
+The conditions for the submission of the application for authorisation and the procedures for granting authorisations will be laid down by regulation.
+The Authority responsible for the Protection of personal data may, however, by decision, require additional conditions relating to the submission of the application for authorisation or declaration and the procedures for granting authorisations.
+Article 11
+The declaration or request for authorisation may be sent to the Authority responsible for the Protection of Personal Data, by Post, in person at the premises of that Authority or by any other means against the delivery of a formal acknowledgement of receipt.
+Article 12
+The Authority in charge of the Protection of Personal Data has a period of two (02) months to decide (agreement or refusal) on any Declaration or request for Authorization, which is submitted or addressed to it. This period runs from the date of receipt of the Declaration and the filing of the application for Authorization, as well as the provision of the documents, documents, information required for any applicant under the provisions of this Law.
+However, it may be extended for an additional two (02) months, provided that the Personal Data Protection Authority can give reasons for its decision or justify such extension.
+
+
+Any ground that can be considered valid or admissible, only in view of proven deficiencies or deficiencies for the protection of the personal data of the person concerned by the processing, in the light of the file provided.
+
+
+Beyond these deadlines, any absence of an express response from the Authority in charge of the Protection of Personal Data, is equivalent to an implicit acceptance of the declaration or tacit authorization granted to the applicant by the said Protection Authority.
+
+
+In the event of refusal by the Authority in charge of the Protection of Personal Data to the declaration or request for authorization submitted by the applicant (the controller of personal data), the latter may exercise an administrative appeal or before the competent court.
+
+
+However, this appeal is not suspensive.
+Article 13
+The methods of filing declarations or granting authorizations for the processing of personal data in accordance with the provisions of this Law, will be fixed by Decree of the President of the Republic.
+
+
+
+
+Chapter VII: The Protection of Personal Data
+Rule 14
+The person responsible for the Protection of Personal Data must be a person qualified to carry out such tasks. He must keep a list of the treatments carried out immediately accessible to any person who requests it, and may not be subject to any sanctions on the part of his employer, as a result of the performance of his duties.
+Failing this, he may refer the matter to the Authority in charge of the Protection of Personal Data because of the difficulties he encounters in carrying out his duties.
+Rule 15
+The designation of the Personal Data Protection officer by the data controller shall be notified to the Authority in charge of the Protection of Personal Data. This designation must also be made known to the representative bodies of the Employer's staff.
+Rule 16
+The profile and remuneration conditions of the correspondent for the Protection of Personal Data will be fixed by Order of the Minister in charge of Posts, Telecommunications and the Digital Economy. In case of breach(s) found (s) of its duties, corresponding to the Protection of Personal Data, the conditions will be fixed by Order of the Minister in charge of Posts, Telecommunications and the Digital Economy.
+Rule 17
+The processing of personal data carried out on behalf of the State, a legal person under public law or private law managing a public service, may be authorised by regulation, after a reasoned opinion from the Authority in charge of the Protection of Personal Data.
+These treatments relate in particular to.
+
+
+* State security, national defence or public security ;
+* The prevention, investigation, detection or prosecution of criminal offences or the enforcement of criminal convictions or security measures ;
+* Population census ;
+* The processing of wages, pensions, taxes, taxes, and other liquidations.
+
+
+
+
+Chapter VIII: Guiding Principles for the Processing of Personal Data
+Rule 18
+The processing of personal data is considered legitimate, if the data subject expressly gives his prior consent.
+However, this requirement of prior consent may be waived where the controller is duly authorised and the processing is necessary :
+
+
+Compliance with a legal obligation, to which the controller is subject ;
+Or in the execution of a mission in the public interest or in the exercise of public authority, which is vested in the data controller or the third party to whom the data are communicated ;
+The execution of a contract to which the data subject is a party or the execution of pre-contractual measures taken at his request :
+The interests or fundamental rights and freedoms of the data subject.
+Rule 19
+The collection, recording, processing, storage, transmission and interconnection of personal data files must be lawful and fair.
+Rule 20
+Personal data must be collected for specific, explicit and legitimate purposes, and may not be further processed in a manner incompatible with those purposes.
+They must be adequate, relevant, and not excessive, with regard to the purposes for which they are collected and subsequently processed.
+
+
+They must also be kept for a period that does not exceed the period necessary for the purposes for which they were collected or processed.
+
+
+Beyond this required period, the data may only be stored for the purpose of specifically responding to the processing of said data for historical, statistical or research purposes, pursuant to the provisions of this Law or any other Laws or regulations in force on the protection of personal data.
+Rule 21
+The data collected must be accurate, and if necessary, updated.
+Any reasonable measure or solution must be implemented, so that inaccurate or incomplete data, with regard to the purposes for which they are collected and subsequently processed, are erased or rectified.
+Rule 22
+The principle of transparency implies mandatory and clear information from the controller of personal data.
+Rule 23
+Personal data must be treated confidentially and protected, in particular where the processing of such data involves data transmissions over a network.
+Rule 24
+Where the processing of personal data is carried out on behalf of the controller, the controller must choose a processor who is able to provide guarantees for the protection and confidentiality of the data.
+It is the responsibility of the controller of personal data as well as the processor to ensure compliance with the provisions of this Law.
+Rule 25
+The processing of personal data carried out for the purposes of journalism, research, artistic or literary expression is allowed when it is carried out solely for the purposes of literary and artistic expression or the exercise, in a professional capacity, of the activity of journalist or researcher, in compliance with the ethical rules of these professions.
+Rule 26
+The provisions of this Law shall not preclude the application of the provisions of the Laws relating to the written press or the audiovisual sector and of the Criminal Code in force in the Republic of Guinea, which would have provided for the conditions for the exercise of the right of reply and which prevent, limit, remedy and, where appropriate, punish attacks on the privacy and reputation of natural persons.
+Rule 27
+No court decision involving an assessment of the behaviour of a natural person may have as its basis, an automated processing of personal data intended to assess certain aspects of his personality.
+No administrative or private decision involving an assessment of human behaviour can be based solely on automated processing of personal data giving a definition of the profile or personality of the interested party.
+Rule 28
+The person responsible for processing personal data may only be authorised to transfer such data to a third country if the State ensures a higher or equivalent level of protection of the privacy, freedoms and fundamental rights of persons with regard to the processing to which such data are or may be subject.
+Prior to any actual transfer of personal data to that third country, the controller of such data must obtain prior authorisation from the Personal Data Protection Authority.
+
+
+Any transfer of personal data to a third country is subject to strict and regular control by the Personal Data Protection Authority, with regard to their purpose.
+Rule 29
+The interconnection of the files is only permitted if it allows the attainment of legal or statutory purposes of legitimate interest for the data controllers.
+It cannot and must not discriminate or reduce the rights, freedoms and guarantees of the persons concerned, nor be accompanied by inappropriate security measures.
+Chapter IX: Rights of the Data Subject to the Processing of Personal Data and Exceptions to these Rights
+Rule 30
+The controller of personal data is obliged to provide the person whose data are being processed, at the latest at the time of collection and regardless of the means and supports used, the following information :
+His or her identity and, where applicable, that of his or her duly mandated representative ;
+
+
+* The determined purpose(s ) of the processing for which the data are intended ;
+* The categories of data concerned ;
+* The recipient (s) to whom the data are likely to be communicated ;
+* The ability to refuse to appear on the file in question ;
+* The existence of a right of access to the data concerning the person, and a right to rectify these data ;
+* Data retention period ;
+* The possibility of any transfer of data to a third country.
+Rule 31
+Any natural person whose personal data are the subject of processing, can request in the form of questions and obtain from the controller of this processing :
+Information to know and dispute the processing ;
+Confirmation that personal data concerning him, are or are not the subject of this processing; - the communication of personal data concerning him as well as any information available as to the origin thereof ;
+Information relating to the purposes of the processing, the categories of personal data processed and the recipients or categories of recipients to whom the data are communicated.
+In case of impossibility of access by the data subject, the right of access may be exercised by the Authority in charge of the Protection of Personal Data which has an investigative power in the matter, and which may order the rectification, erasure or blocking of data whose processing does not comply with the requirements of this Law the Authority in charge of the Protection of Personal Data must then communicate to the data subject, the results of its investigations.
+
+
+The controller of personal data may, however, oppose manifestly abusive requests from the same data subject; abuses materialized by the number, repetitive or systematic nature of requests.
+
+
+In the event of a dispute, the burden of proof of the "manifestly abusive nature" of the requests rests with the data controller, to whom they are addressed.
+Rule 32
+Any natural person concerned by the processing of his personal data has the right :
+To object, for legitimate reasons relating to his or her particular situation, to the processing of personal data concerning him or her, except in the case of legal provisions expressly providing for the processing – In the event of a legitimate objection, the processing carried out by the data controller, may not relate to the data in question. ;
+To object, at his request and free of charge, to the processing of personal data concerning him, and intended for prospecting purposes ;
+To be informed before personal data concerning him, are for the first time, communicated to third parties or used on behalf of third parties, for prospecting purposes, and to be expressly granted the right to object, free of charge, to said communication or use.
+Rule 33
+Any natural person justifying, of his identity may require the controller of a processing of personal data, that are, according to the case, rectified supplemented, updated, locked or deleted Es personal data that concern him, and that are inaccurate, incomplete, equivocal, outdated, or whose collection, use, communication or storage, is prohibited.
+Rule 34
+The right-holders of a deceased person justifying their identity may, if they are aware of the facts that suggest that the personal data concerning them and subject to processing have not been updated, require the data controller to take into account the death and to update the data accordingly.
+Where the rights holders so request, the controller of the personal data must prove, at no cost to the applicant, that he has carried out the operations required under Paragraph 1 of this Article.
+Rule 35
+The data subject concerned by the processing of personal data has the right to obtain from the data controller the erasure of the data concerning him, and the assignment of the dissemination of such data, in particular with regard to personal data, which the data subject had made available when he was a minor, or for one of the following reasons: :
+* The data are no longer necessary for the purposes for which they were collected or processed ;
+* The data subject for the processing of personal data has withdrawn the consent on which the processing is based or when the authorised retention period has expired, and there is no other legal ground for the processing of the data ;
+* The person concerned by the processing of personal data objects to the processing of said data concerning him, where there is no legal reason for such processing ; the processing of personal data does not comply with the provisions of this Law ; or for any other legitimate reason.
+Rule 36
+Where the controller of personal data has made the personal data of the data subject subject to the processing public, he shall take all reasonable measures, including technical measures, with regard to the data published under his responsibility, with a view to informing the third parties who process such data, that a data subject by their processing requests them to delete any links to such personal data, or any copy or reproduction of those-
+Where the controller has authorised a third party to publish personal data of the person concerned by the processing, he shall be deemed responsible for such publication, and for this purpose shall take all appropriate measures, to implement the right to [digital forgetfulness and erasure of personal data.
+Rule 37
+The controller of personal data shall proceed without delay to the erasure, except where the storage of personal data is necessary :
+Exercise of the right to freedom of expression ;
+Or, on grounds of public interest in the field of public health, in accordance with the Law ;
+Compliance with a legal obligation to retain personal data, provided for under this law or any other laws governing personal data in the Republic of Guinea, and to which the controller of such data is subject.
+Rule 38
+The controller of personal data must put in place appropriate mechanisms, aimed at ensuring the implementation of the right to digital forgetfulness and erasure of said data.
+It must also periodically examine whether or not to retain personal data, in accordance with the provisions of this Law.
+
+
+Where the erasure of personal data is carried out, the data controller shall not carry out any further processing of such data.
+Rule 39
+The Personal Data Protection Authority must adopt measures and guidelines, in order to specify :
+The conditions for the deletion of links to such personal data, copies or reproductions thereof existing in publicly accessible electronic communications services ;
+The conditions and criteria applicable to the limitation of the processing of personal data.
+Rule 40
+Where personal data are subject to automated processing in a structured and commonly used format, the data subject shall have the right to obtain from the data controller, a copy of the data subject to automated processing, in a structured electronic format which is commonly used and which allows the data subject to reuse such data.
+Where the data subject has provided the personal data, and the processing is based on his or her prior consent or on a contract, he or she shall have the right to transmit the personal data and any other information he or she has provided which is stored by an automated processing system to another system in a commonly used electronic format , without the controller to whom the personal data are withdrawn, being in any way obstructed. The Personal Data Protection Authority may specify the electronic format, as well as the technical standards, modalities and procedures for the transmission of personal data.
+
+
+
+
+Chapter X: Obligations of Data Controllers and their Subordinates and Appointees
+Rule 41
+The processing of personal data is confidential. It must be carried out exclusively by persons acting under the authority of the data controller, and only on his instructions.
+Rule 42
+The controller of personal data is obliged to take all necessary precautions, in view of the nature of the data, and in particular, to prevent them from being distorted, damaged or that unauthorized third parties have access to them.
+Where the processing of personal data is carried out on behalf of the controller, the controller must choose a processor who provides or fulfils all the guarantee requirements, with regard to the technical and organisational security measures relating to the processing to be carried out.
+
+
+It is the responsibility of the data controller, as well as the processor, to ensure compliance with these measures.
+Rule 43
+The person responsible for the processing of personal data is obliged :
+To prevent any unauthorized person, from accessing the facilities used for data processing ; – to prevent data carriers from being read, copied, modified or moved by an unauthorized person ; – to prevent the unauthorized entry of any data into the information system, as well as any unauthorized access to, modification or erasure of data stored in the information system; - to prevent the unauthorized entry of ;
+Prevent data processing systems from being used by unauthorized persons using data transmission facilities ;
+To prevent the use of data processing systems for money laundering and terrorist financing, or for offences against state security or public order and security ;
+To ensure that, when using an automated data processing system, authorised persons can only access the data covered or covered by their authorisation;
+To ensure that the identity of third parties to whom data may be transmitted by transmission facilities can be verified and ascertained ;
+Ensure that the identity of the persons who have had access to the information system containing personal data, the nature of the data that has been entered, modified, altered, copied, deleted or read into the system, the time at which these data have been manipulated, can be verified and ascertained a posteriori ;
+Prevent the data from being read, copied, modified, altered or deleted without prior authorisation during data communication and data carrier transport.
+To back up the data by constituting protected security copies. The controller shall implement all appropriate technical measures and organisation to ensure the protection of the personal data it processes against accidental or unlawful destruction, accidental loss, alteration, unauthorised dissemination or access of the data, in particular where the processing of the data involves data transmissions in a network, as well as against any other form of unlawful processing.
+Rule 44
+The controller of personal data is obliged to draw up an annual report to the attention of the Authority in charge of the Protection of Personal Data on compliance with the relevant stated provisions of this Law.
+Rule 45
+The personal data must be kept for a period fixed by the authority in charge of the Protection of Personal Data according to the purposes of each type of processing for which they were collected, in accordance with the texts in force.
+Rule 46
+The controller of personal data is obliged to take all necessary measures to ensure that the processed personal data can be exploited, regardless of the technical support used.
+
+
+
+
+
+
+itle III: Institutional Provisions
+Chapter XI: Of the Personal Data Protection Authority
+Article 47 The Authority responsible for the protection of personal data shall be established by regulation.
+[/expandsub3] Article 48 This Authority in charge of the Protection of Personal Data shall ensure that the processing of personal data is carried out in accordance with the provisions of this Law or any other legislation and regulations in force in the Republic of Guinea on the protection of personal data.
+It shall, in addition, ensure that the use of information and communication technologies does not infringe or involve threats to the freedoms and privacy of all users of such technologies throughout the territory of the Republic of Guinea. Ace title, she will be in charge ;
+
+
+To inform the persons concerned by the processing of their personal data as well as those responsible for the processing of said data of their rights and obligations ;
+To respond to any request for advice regarding the processing of personal data ;
+Establish rules of procedure that specify, in particular, rules relating to deliberations, the investigation and the presentation of dossiers ;
+To receive the declarations, and to grant the authorizations for the implementation of the processing of personal data, or to withdraw them, according to the cases provided for by this Law ;
+To receive complaints and complaints relating to the implementation of the processing of personal data, and to inform the authors, of the follow-up granted to these complaints or claims ;
+To inform, without delay, the competent judicial authority of the offences which it becomes aware of in the course of its missions ;
+Determine the necessary safeguards and appropriate measures for the protection of personal data ;
+To carry out, through sworn agents, checks relating to any processing of personal data ;
+To impose administrative and pecuniary sanctions against data controllers and / or their employees, subordinates or subcontractors who do not comply with the provisions of this Law ;
+To update and make available to the public for consultation, a directory of the processing of personal data ;
+* To advise persons and organisations that process personal data or carry out trials or experiments in this field ;
+
+
+* to give its opinion on any draft legal text, including Law, regulation, treaty, convention, related to the protection of freedoms and privacy ;
+
+
+* Develop rules of conduct relating to the processing and protection of personal data ;
+
+
+* To participate in scientific research, training and study activities, related to the protection of personal data, and in general, freedoms and privacy ;
+
+
+* To authorize, under certain conditions determined by Decree of the President of the Republic, cross-border transfers of personal data ;
+
+
+* To make proposals that could simplify and improve the legislative and regulatory framework governing the processing and protection of personal data ;
+
+
+* initiate and implement all necessary and useful mechanisms to strengthen cooperation with the Personal data protection authorities of other countries and/or subregional, continental or international organizations competent in this field ;
+
+
+* To participate in meetings, seminars, conferences and other international negotiations on the processing and protection of personal data ;
+
+
+* prepare and submit a report to the Minister of Posts, Telecommunications and the Digital Economy, the Minister of Justice, the Minister of Security, any other institution legitimately or legally interested, and possibly available to the public.
+[/expandsub3] Article 49 The Provider of cryptology services may not object to the Authority for the Protection of Personal Data, the professional secrecy to which it is subject under the legal or conventional provisions.
+
+
+Similarly, the controller of personal data services may not object to the Authority for the Protection of Personal Data, the professional secrecy to which it is Subject.
+
+
+
+
+
+
+Title IV: Administrative and Criminal Penalties for Violations of the Provisions of this Law and for Repeat Offences
+Chapter XII: Administrative Sanctions
+Rule 50
+The Personal Data Protection Authority may impose the following measures against the controller :
+A warning to the said responsible party that does not comply with the obligations arising from this Law to which he is subject ;
+A formal notice or summons to cease or cause to cease the deficiencies noted and this, within the time limit that said Protection Authority will have fixed.
+Rule 51
+Where the implementation of a processing of personal data results in a violation of rights and freedoms, the Authority in charge of the Protection of Personal Data may, following an adversarial procedure, decide :
+The interruption of the implementation of said processing of personal data ;
+The blocking of certain personal data already processed ;
+Temporary or definitive prohibition of treatment contrary to the provisions of this Law
+Rule 52
+The Authority in charge of the Protection of
+Personal Character may, after hearing the data controller or his processor who does not comply with the provisions of this Law and the formal notice sent to him, pronounce against him, the following sanctions.
+
+
+Provisional withdrawal of the authorisation granted ;
+Tin the final withdrawal of the granted authorization ;
+A monetary penalty( fine), the amount of which must, however, be proportional to the seriousness of the breaches committed and the benefits derived from the breach.
+Rule 53
+The modalities of withdrawal of the aforementioned authorization will be fixed by Decree of the President of the Republic.
+Chapter XIII: Criminal Sanctions
+Rule 54
+It is prohibited and punished with criminal imprisonment from (10) years to twenty (20) years and a fine of 300,000,000 to 600,000,000 Guinean Francs, the fact of proceeding or attempting to proceed with the collection and any processing of personal data that reveal ethnic, racial, regional origin, parentage, political opinions, religious or philosophical convictions, trade union membership, sexual life, sexual orientation, etc.genetic data or more generally those relating to the state of health of the person concerned. This offence constitutes an offence.
+The attempted commission of this offence and the complicity in its commission shall be punished with the same penalties. However, this prohibition does not apply :
+
+
+Where the processing of personal data relates to data clearly made public by the data subject ;
+Where the processing of genetic or health data is necessary to safeguard the vital interests of the data subject or of another person in the event that the data subject is physically or legally unable to give consent :
+Where the processing, in particular of genetic data, is necessary for the exercise or defence of a legal right of the data subject ;
+When a judicial proceeding or criminal investigation is opened. In this case, the processing of personal data is continued only for the purpose of ascertaining the facts or the manifestation of the truth ;
+When the processing is carried out in the context of the legitimate activities of a foundation, association, or other non-profit organization and for political, philosophical, religious, mutual or trade union purposes ;
+But, the processing must concern only the members of this body or the persons maintaining with it, regular contacts related to its purpose ;
+Also, the data must not be communicated to third parties, without the consent of the data subjects. All such cases of processing of personal data must be authorised and controlled in their design and implementation by the Authority in charge of the Protection of Personal Data.
+Rule 54
+It is prohibited and punishable by imprisonment from one (1) year to five (5) years and a fine of 30,000,000 to 200,000,000 Guinean Francs, to carry out or attempt to carry out direct prospecting using any means of communication using, in any form whatsoever, the personal data of a natural person who has not expressed in writing his prior consent to receive such prospecting or who has formally opposed it.
+The attempted commission of this offence and the complicity in its commission shall be punished with the same penalties.
+Rule 55
+A penalty of imprisonment of six (6) months to three (3) years and a fine of 20,000,000 to 150,000,000 Guinean Francs is imposed on anyone who obstructs or attempts to obstruct the action of the Authority in charge of the Protection of Personal Data, or does not comply with the decisions and injunctions taken by the said Authority, in particular in
+Opposing the exercise of the tasks entrusted to the members or authorized agents of the Authority in charge of Protection, pursuant to the provisions of this Law ;
+By refusing to communicate to the members or authorized officers of the Protection Authority, information or documents relevant to their mission, or by concealing or causing them to disappear ;
+Providing information that does not conform to the content of the recordings as it was at the time the request was made or that does not present such content in a directly accessible form.
+Any accomplice in the commission or attempted commission of this offence shall be punished with the same penalties.
+
+
+The Public Prosecutor or the competent Judge must be informed, without delay, of the obstacles to the actions, including the decisions of the Authority in charge of the Protection of Personal Data, and the latter, as soon as seized, must take all appropriate measures to put an end to these obstacles, and to prosecute the author and any accomplice.
+Rule 56
+Any data controller or his subcontractor, subordinate or servant who does not comply with the provisions of this Law, will be punished with a fine of 50,000,000 to 150,000,000 Guinean Francs.
+In the event of a repeat offence within five (5) years from the date on which the fine referred to in paragraph 1 of this Article became final, this fine shall be increased to an amount not exceeding 1,500,000,000 Guinean Francs ; and in the case of an undertaking, this fine shall be increased to an amount not exceeding 7% of the turnover excluding tax for the last financial year ended of the undertaking.
+Rule 57
+The procedures for the recovery of monetary penalties decided by the Authority in charge of the Protection of Personal Data will be fixed by regulation.
+
+
+Chapter XIII: Penalties for Recidivism
+Rule 58
+In the event of recidivism of the offences provided for in this Law, the administrative and criminal penalties provided for in this Law or, as the case may be, in the case of the Cybercrime Law for offences relating to personal data, may be increased at the discretion of the Authority in charge of the Protection of Personal Data or the competent judicial authority.
+Depending on the nature of the offence, the penalties of imprisonment and the fines provided for in one of the aforementioned Laws may be increased to double for the prison sentence, and the fines will be increased to double if the perpetrator of the offence or any accomplice is a natural person, and from double to fivefold if it is a legal person.
+Chapter XIV: Additional Sanctions and Publication of Sanctions
+Rule 59
+Depending on the seriousness of the offence and the extent of the damage, additional penalties of the same nature or order as those provided for in the Law on Cybercrime may be imposed by the Personal Data Protection Authority or the competent judicial authority.
+Rule 60
+Penalties (monetary, prison, or administrative) imposed against perpetrators (legal or natural persons) of infringements of the provisions of this Law or their accomplices or of the provisions of the Law on Cybercrime relating to infringements of personal data shall be published at least in the official gazette of the Republic, on the website of the Personal Data Protection Authority, the structure responsible for combating cybercrime (CERT), in an information or advertising newspaper legal, at the registry of the competent court and on any other electronic media; and this, at the expense of the convicted person (for the last two media).
+Rule 61
+In addition to the penalties provided for in this Law, offences relating to personal data may also be punishable by the relevant penalties provided for in this matter by the Law on Cybercrime in force in the Republic of Guinea. The Authority in charge of the Protection of Personal Data may, in addition to the sanctions provided for in this Law, and without this constituting an infringement of the prerogatives of the National Center for Security of Information Systems (CERT), also impose any monetary or administrative sanctions provided for in the Law on Cybercrime in relation to infringements of personal data, against any author and accomplice of violation of the rules provided for in this matter in the said Law, only in the event that the Guinean unit or institution in charge of the fight against cybercrime (CERT) or the competent judicial authority, has not yet pronounced the penalties provided for the crime committed.
+
+
+
+
+Title V: Infringement Requirements
+Rule 62
+The limitation periods for offences or breaches of personal data follow the same regime as those provided for by the Penal and Criminal Procedure Codes in force in the Republic of Guinea. Otherwise, these will be determined by a Decree of the President of the Republic.
+Title VI: Final Provisions
+Rule 63
+The controllers of personal data have a maximum period of one (1) year, from the date of promulgation of this Law, to comply with the provisions of said Law.
+Rule 64
+The modalities of application not specified for the other provisions of this Law will be specified by implementing texts (Decrees, Decrees, Decisions...) taken by the competent authority.
+Rule 65
+This Law, which repeals all previous provisions to the contrary and enters into force from the date of its promulgation, shall be registered and published in the Official Gazette of the Republic of Guinea, and shall be executed as the Law of the State.
+
+
+
+
+Conakry, le 28 Juillet 2016

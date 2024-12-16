@@ -1,0 +1,889 @@
+Page 1
+
+PERSONAL DATA SECURITY
+GUIDE (Technical and Administrative Measures)
+Page 2
+
+PERSONAL DATA SECURITY
+GUIDE (Technical and Administrative Measures)
+
+Page 3
+
+PERSONAL DATA SECURITY GUIDE (Technical and Administrative Measures)
+KVKK Publications
+ISBN: 978-975-19-6834-0
+January 2018, Ankara
+
+Personal Data Protection Authority
+Address: Nasuh Akar Mahallesi Ziyabey Caddesi 1407. Sokak No: 6
+Balgat/Çankaya/ANKARA/TURKEY
+Phone: +90 312 216 50 50
+Web: www.kvkk.gov.tr
+
+Page 4
+
+“The text, photos and other content in this book may be used without permission except for individual use.
+copying, duplicating, using, publishing and distributing in whole or in part
+It is strictly prohibited. Law on Intellectual and Artistic Works No. 5846 on those who do not comply with this prohibition.
+legal action will be taken accordingly. All rights of the product are reserved.”
+
+Page 7
+5
+6
+
+ii
+
+SUMMARY
+This Guide; In accordance with the Law on Protection of Personal Data No. 6698 (“Law”), personal data
+to prevent unlawful processing and unlawful access to personal data,
+In order to ensure the protection of personal data, the technical and
+explains the main methods of administrative measures in separate sections.
+
+ABSTRACT
+
+This Guide, in accordance with Law 6698 on Protection of Personal Data (“Law No. 6698”),
+explains in different sections the major methods of the technical and administrative measures
+that data controllers should take in order to prevent unlawful processing of personal data and
+unlawful access to personal data as well as to ensure the retention of personal data.
+
+Page 8
+
+iii
+
+KEYWORDS:
+
+Personal data, personal data security, technical and administrative measures.
+
+KEY WORDS:
+
+Personal data, personal data security, technical and administrative measures.
+
+Page 9
+
+iv
+
+CONTENTS
+SUMMARY
+ABSTRACT
+KEYWORDS
+KEY WORDS
+
+ii
+ii
+iii
+iii
+
+1. INTRODUCTION
+
+one
+
+1.1. Purpose and Basis
+1.2. Scope
+1.3. Definitions
+
+2nd
+3
+4
+
+2. ADMINISTRATIVE MEASURES REGARDING PERSONAL DATA SECURITY
+
+7
+
+2.1. Identification of Current Risks and Threats
+2.2. Training of Employees and Awareness Studies
+2.3. Determination of Personal Data Security Policies and Procedures
+2.4. Reducing Personal Data as Much as Possible
+2.5. Management of Relations with Data Processors
+
+8
+9
+11th
+12
+12
+
+3. TECHNICAL MEASURES REGARDING PERSONAL DATA SECURITY
+
+15
+
+3.1. Ensuring Cyber ​Security
+3.2. Monitoring Personal Data Security
+3.3. Ensuring the Security of Environments Containing Personal Data
+3.4. Storage of Personal Data in the Cloud
+3.5. Information Technology Systems Procurement, Development and Maintenance
+3.6. Backing Up Personal Data
+
+16
+18
+20
+22
+23
+24
+
+Page 10
+
+v
+
+4. TECHNICAL AND ADMINISTRATIVE MEASURES REGARDING PERSONAL DATA SECURITY
+SUMMARY TABLES
+27
+4.1. Technical Measures Summary Table
+4.2. Administrative Measures Summary Table
+
+28
+29
+
+5. RESOURCES USED WHILE PREPARING THE GUIDE AND ITS INVESTIGATION
+DOCUMENTS CONSIDERED TO BE SUITABLE
+
+31
+
+Page 12
+11
+
+1.INTRODUCTION
+Page 13
+
+2nd
+
+1.1. Purpose and Basis
+In the first paragraph of Article 12 of the Law;
+“Data controller;
+a) To prevent the unlawful processing of personal data,
+b) To prevent unlawful access to personal data,
+c) To ensure the protection of personal data
+all kinds of technical and administrative procedures necessary to ensure the appropriate level of security for the purpose of
+have to take action.”
+provision is included.
+In this context, the data controllers must take in the process of processing personal data.
+Clarity in practice and good practice on technical and administrative measures
+by the Personal Data Protection Board (“Board”) to create samples
+Personal Data Security Guide (“Guide”) has been prepared.
+
+Page 14
+
+3
+
+1.2. Scope
+Various risks may arise regarding personal data security in data recording systems.
+By providing the necessary time, resources and expertise to prevent these risks,
+Appropriate technical and administrative measures need to be taken. These measures are always
+does not require high costs, and these measures are cost-free or low-cost.
+It is also possible to purchase costly or already exist in systems.
+The guide, unlawful processing of personal data and unlawful processing of personal data.
+ensuring the protection of personal data by preventing access to
+lead data controllers to ensure the protection of fundamental rights and freedoms of individuals.
+It has been prepared in order to demonstrate the technical and administrative measures that can be taken in the guide.
+place is given.
+Your guide;
+The first part is the introductory part, and in this part, the purpose of the guide's preparation,
+the basis and scope of the guide and definitions,
+In the second part, administrative measures regarding personal data security,
+In the third part, technical measures regarding personal data security,
+In the fourth section, within the scope of the measures mentioned in the second and third sections,
+created summary tables,
+In the fifth chapter, the sources used in the preparation of the guide and its examination are examined.
+documents deemed appropriate.
+place is given.
+
+Page 15
+
+4
+
+1.3. Definitions
+contained in the guide,
+Secure input layer (SSL): Security of data flowing between server and client, and
+the certificate that makes its integrity possible,
+Relevant person: The real person whose personal data is processed,
+Destruction: Deletion, destruction or anonymization of personal data,
+Law: Law on Protection of Personal Data No. 6698, dated 24/3/2016,
+Recording medium: Fully or partially automatic or any data recording
+personal data processed by non-automatic means, provided that they are part of the
+any environment,
+Personal data retention and destruction policy: Data controllers, where personal data are processed
+deletion, destruction and anonymization with the process of determining the maximum time required for the purpose
+the policy on which they are based on the fetch,
+
+Page 16
+
+5
+
+Data loss/leak prevention (DLP): Personal data may be accidentally or maliciously
+to report the transaction without hindering or preventing it from being taken out of the institution.
+security software,
+Data recording system: Record in which personal data is processed and structured according to certain criteria
+system,
+means.
+For definitions not included in this Guide, the definitions in the Law can be consulted.
+
+Page 18
+17
+
+2. PERSONAL DATA
+RELATED TO SAFETY
+ADMINISTRATIVE MEASURES
+Page 19
+
+8
+
+2.1. Identification of Current Risks and Threats
+In order to ensure the security of personal data, first of all, the data controller
+revealing what all personal data processed is, regarding the protection of this data.
+the probability of the risks that may arise and the way forward in case of their occurrence.
+determining the losses to be caused correctly and taking appropriate measures
+required.
+While determining these risks;
+
+●
+
+Whether the personal data is sensitive personal data,
+
+●
+
+What degree of confidentiality is required by its nature,
+
+●
+
+The nature of the damage that may arise in terms of the person concerned in the event of a security breach, and
+quantity
+
+It must be taken into attention.
+After defining and prioritizing these risks; the risks involved
+control and solution alternatives to reduce or eliminate; cost,
+should be evaluated in line with the principles of applicability and usefulness, necessary technical and
+Administrative measures should be planned and implemented.
+
+Page 20
+
+9
+
+2.2. Training of Employees and Awareness Studies
+Attacks that will harm personal data security and cyber security
+
+Attacks that will harm personal data security and cyber security
+Even if they have limited information, first responders, ensuring personal data security
+of great importance in this regard.
+In addition to attacks aimed at violating personal data security,
+The issues such as disclosure or sharing in violation of the main personal data security
+one of the violations. These violations are caused by users' carelessness, inattention or inexperience.
+e-mail attachment containing malware by exploiting its weaknesses
+by opening the e-mail or sending the e-mail to the wrong recipient,
+It can also occur in the form of making it accessible to people.
+For this reason, employees should not disclose personal data unlawfully and
+training on issues such as not sharing, awareness of employees
+and creating an environment where security risks can be identified
+It is very important in terms of ensuring personal data security.
+Regardless of where everyone working for the data controller works
+Roles and responsibilities regarding personal data security should be determined in job descriptions and
+Employees should be aware of their roles and responsibilities in this regard.
+In addition, while giving the right to access media containing personal data, or in this regard, the institution
+While creating the culture of “Everything is Free Unless Prohibited” principle, it is “Permission”.
+Care should be taken to act in accordance with the principle of “Everything is Forbidden Unless Given”.
+
+Page 21
+
+10
+
+On the other hand, as part of the recruitment processes of employees, confidentiality agreements
+may be asked to sign. Employees' non-compliance with security policies and procedures
+There must also be a disciplinary process that will come into play in the event of a conflict.
+Significant changes occur in policies and procedures regarding personal data security.
+if it arrives; With new trainings to be made, these changes will be made to the knowledge of the employees.
+up-to-date information on threats to personal data security
+should be maintained.
+
+Page 22
+
+11th
+
+2.3. Personal Data Security Policies and
+Determination of Procedures
+Preparation of a good policy regarding personal data security,
+It will ensure that it can be determined in advance and that measures can be taken consistently.
+Correct and consistent policies and procedures to be determined regarding personal data security,
+should be integrated in accordance with the work and operation of the data controller. Data
+When policies and procedures are not prepared in a good and timely manner by those responsible,
+when problem areas cannot be identified or existing security measures cannot be used
+personal data security level cannot be provided sufficiently.
+A good event management, in which the measures to be taken in this context are determined in advance, employees
+It will reduce the pressure that may arise on it. Therefore, data controllers
+what personal data are in data recording systems and current security
+as it acts in compliance with other legal obligations by examining the measures
+needs to be sure.
+Within the scope of policies and procedures; regular checks should be made
+should be documented, areas that need improvement should be identified and necessary updates should be made.
+Regular check-ups should be continued after they are fulfilled.
+In addition, risks that may arise for each personal data category and security breaches
+How it will be managed should also be clearly defined.
+
+Page 23
+
+12
+
+2.4. Reducing Personal Data as Much as Possible
+Personal data pursuant to subparagraphs (b) and (d) of the second paragraph of Article 4 of the Law,
+should be accurate and up-to-date when necessary, the purpose for which they are processed or stipulated in the relevant legislation.
+should be kept for as long as necessary.
+However, especially long-standing data controllers,
+collects personal data, some of the personal data in question is not accurate over time.
+become outdated, outdated and useless data.
+can come. In order to prevent this, the processing purposes by data controllers
+Evaluating whether there is still a need for the aforementioned personal data and
+It is necessary to ensure that personal data is stored in the right place.
+In addition, it is used for personal data processing purposes in order to prevent unauthorized access.
+suitable for archival purposes, which data controllers do not need to access frequently.
+It is recommended to keep the personal data held in safer environments.
+and personal data that is not needed, with the personal data storage and destruction policy.
+deletion, destruction or anonymization of personal data
+must be disposed of properly and safely.
+
+2.5. Management of Relations with Data Processors
+Some data controllers outsource data processors to meet their information technology needs.
+they receive service. Data controllers, the data processors in question while receiving services
+at least the level of security provided by them regarding personal data
+
+Page 24
+
+13
+
+ensure that they are provided. Because the second article of Article 12 of the Law
+Data processors are also responsible for ensuring the security of personal data.
+jointly responsible with the data controller.
+If the contract signed with the data processor is in writing, the data processor
+Pursuant to the instructions of the controller, the data processing purpose and
+act in accordance with the scope of the law and in compliance with the personal data protection legislation.
+and in accordance with the Personal Data Retention and Disposal Policy.
+be recommended.
+Obligation of the data processor to keep confidential for an indefinite period regarding the personal data it processes.
+It is important that it is also included in this contract.
+Again, in case of any data breach in the said contract, the data processor
+foreseeing that it is obliged to immediately notify the data controller of this situation
+This breach of the data controller is immediately reported to the Personal Data Protection Board and the relevant person.
+It will be useful in fulfilling its reporting obligation.
+Also; To the extent that the nature of the contract between the parties allows, the data controller
+The categories and types of personal data transferred to the data processor by
+is specified, the data processor fulfills its obligation to ensure data security.
+will be beneficial for
+However, the data controller controls the necessary controls on the system containing personal data.
+makes or has it done, reports the results of the audit and the service provider.
+can inspect on the spot.
+
+Page 26
+25
+
+3. PERSONAL DATA
+RELATED TO SAFETY
+TECHNICAL MEASURES
+Page 27
+
+16
+
+3.1. Ensuring Cyber ​Security
+With the use of a single cyber security product to ensure personal data security,
+The view that security can be achieved is not always true. Because the threats
+they are expanding their sphere of influence by changing size and quality day by day.
+The approach recommended in this context is complementary within many principles.
+It is the implementation of a set of measures that are owned and regularly checked.
+Unauthorized access over the Internet of information technology systems containing personal data
+Priority measures that can be taken to protect against threats, firewall and network
+is the gateway. They are the first line of defense against attacks from environments such as the internet.
+will be.
+A well-configured firewall allows deep penetration of the network being used.
+may stop any violations that have taken place before they do so. The Internet gateway is for employees,
+websites or online that pose a threat to personal data security.
+may prevent access to services.
+However, almost every software and hardware has some installation and
+needs to be configured. However, widely used
+Some software, especially older versions, have documented vulnerabilities
+removal of unused software and services from devices
+It will help to reduce the deficits. Therefore, unused software
+and deletion of services rather than keeping them up-to-date is primarily preferred because of its convenience.
+is a feasible method.
+
+Page 28
+
+17
+
+Another important element is patch management and software updates.
+the smooth operation of software and hardware and the security received for systems
+It is also possible to check regularly whether the precautions are sufficient or not.
+necessary to close the gaps.
+In addition, access to systems containing personal data should be limited. It
+In this context, employees are informed about their jobs and duties as well as their powers and responsibilities.
+Access authorization should be granted to the extent necessary and a user name and password should be used.
+access to relevant systems. The passwords and passwords in question
+number or letter associated with personal information and easy to guess.
+combinations of upper and lower case letters, numbers and symbols instead of strings
+should be preferred.
+Accordingly, data controllers should create an access authorization and control matrix and
+within the data controller organization by creating a separate access policy and procedures
+It is recommended that these policies and procedures be put into practice.
+In addition to the use of strong passwords and passwords, the use of brute force algorithm (BFA)
+Limiting the number of password entry attempts to protect against common attacks such as
+ensuring that passwords and passwords are changed at regular intervals, administrator account and
+Opening the admin authority for use only when needed and data
+Deletion of the account without wasting time for employees who have been dismissed from their supervisor
+Access should be limited by methods such as closing the entrances or closing the entrances.
+
+Page 29
+
+18
+
+In addition, regularly clean the information system network to protect against malware.
+using products such as antivirus, antispam that scan and detect dangers
+required. However, only the installation of these products is not enough, they should be kept up to date.
+Make sure that the required files are scanned regularly.
+By data controllers, from different websites and/or mobile application channels.
+If personal data is to be provided, connections must be made with SSL or a more secure way.
+It is also important to ensure personal data security.
+
+3.2. Monitoring Personal Data Security
+The systems of data controllers mostly come from both inside and outside.
+are exposed to attacks and cybercrime or malware and various
+Despite the symptoms, this situation cannot be noticed for a long time and it is late for intervention.
+can stay.
+In order to prevent this situation;
+a) Checking which software and services are running in information networks,
+b) Whether there is an infiltration in the information networks or a movement that should not be
+determination,
+c) Keeping records of all users' transactions regularly (log records)
+as),
+ç) Reporting security issues as quickly as possible,
+d) Security vulnerabilities of employees in systems and services or those who use them.
+establishing a formal reporting procedure for reporting threats,
+required.
+
+Page 30
+
+19
+
+The reports to be generated during the said reporting process are submitted by the system.
+There may be automatic reports to be generated. Most of these reports by the system administrator
+It should be collected and presented to the data controller in a short time.
+In addition, security software messages, access control logs, and other reporting tools
+to be checked regularly, to act on warnings from these systems.
+regularly to protect information systems against known vulnerabilities.
+Security vulnerabilities revealed by vulnerability scans and penetration tests
+Evaluations should be made according to the results of the tests.
+Information system crash, malware, denial of service attack, missing or
+incorrect data entry, breaches of confidentiality and integrity, abuse of information system
+Evidence should be collected and stored securely in undesirable events such as
+
+Page 31
+
+20
+
+3.3. Security of Environments Containing Personal Data
+Providing
+Personal data can be stored on the devices located in the campuses of the data controllers or on paper.
+theft or loss of these devices and papers
+protection by taking physical security measures against threats such as
+required. Likewise, the physical environments in which personal data are located are subject to external risks.
+(fire, flood, etc.) with appropriate methods and entry / exit to these environments
+It's important to get it under control.
+If the personal data is in electronic form, the network is used to prevent personal data security breach.
+Access can be restricted between components or separation of components can be achieved.
+For example, with a certain part of the network in use that is reserved for this purpose only.
+If personal data is processed in this area by limiting the available resources,
+It will be reserved only for the security of this limited area, not for the network.
+Where the measures of the same level are located outside the data controller campus and the data
+also for paper media, electronic media and devices containing personal data belonging to the person in charge.
+must be taken.
+Personal data security breaches are common on devices containing personal data (laptop,
+mobile phone, flash disk, etc.)
+and the personal data to be transferred by e-mail or mail should be carefully handled.
+and should be sent by taking adequate precautions. In addition, employees
+Access to the information system network by electronic devices also increases the risk of security breach.
+Adequate security measures must be taken for them.
+
+Page 32
+
+21
+
+Paper documents containing personal data to ensure personal data security,
+additional security of devices such as servers, backup devices, CD, DVD and USB
+taken to another room with safety precautions, locked when not in use.
+related to increasing physical security, such as keeping records of entry and exit
+precautions should also be taken.
+Access in case of loss or theft of devices containing personal data
+control authorization and/or use of encryption methods
+will help ensure safety. In this context, the encryption key is only
+It should be stored in an environment accessible to authorized persons and unauthorized access should be prevented. Similar
+Likewise, paper documents containing personal data are locked and only
+should be stored in environments accessible to authorized persons,
+access must be prevented.
+Along with these, encryption is used in different forms and differs according to these forms.
+It is a security providing tool that provides conditions. In this context, with full disk encryption,
+the entire device can be encrypted or a file on the device can be encrypted. Some software
+However, it offers password protection to not allow changes to the data.
+this software does not stop personal data from being read by unauthorized persons. It
+Therefore, no matter what encryption methods are used, personal data
+It should be ensured that it is protected and for this purpose internationally accepted encryption
+programs should be used. The preferred encryption method is asymmetric
+In the case of encryption, attention should be paid to key management processes.
+
+Page 33
+
+22
+
+3.4. Storage of Personal Data in the Cloud
+With the prevention of unlawful processing and access, storing personal data in the cloud
+own information technologies of the data controller, who has a legal obligation to preserve
+system from the network and cloud storage service providers of personal data
+This situation brings some risks, as it causes the processing of
+brings.
+Therefore, the security received by the cloud storage service provider
+Evaluation of whether the measures are sufficient and appropriate by the data controller
+required.
+In this context, knowing in detail what personal data is stored in the cloud,
+backup, synchronization and need for this personal data
+Implementation of two-factor authentication control for remote access in case of
+recommended.
+During the storage and use of personal data in the said systems,
+encryption with cryptographic methods, encrypted transfer to cloud environments, personal
+data for each cloud solution where possible, specifically for each serviced cloud solution.
+separate encryption keys must be used.
+When the cloud computing service relationship ends; to make personal data available
+All copies of encryption keys that may be useful must also be destroyed.
+
+Page 34
+
+23
+
+3.5. Information Technology Systems Procurement, Development
+and Care
+Procurement, development or existing systems of new systems by the data controller
+Security requirements are taken into account when determining the needs for improvement of systems.
+should be taken into account.
+Checks should be made that the inputs of the application systems are correct and appropriate,
+as a result of the error occurred during the processing of the correctly entered information or intentionally.
+control mechanisms to applications to check if they are corrupted
+should be placed. Applications ensure data integrity of errors that may occur during operation.
+should be designed in such a way as to minimize the possibility of disruption.
+Third institutions such as manufacturers, dealers, service providers because it is malfunctioning or maintenance period has come.
+If the devices sent contain personal data, the maintenance and repair process of these devices
+to ensure the security of personal data before it is sent for
+disassembling and storing the data storage medium, sending only defective parts
+operations such as External personnel for purposes such as maintenance and repair
+in order to prevent them from copying personal data and taking them out of the institution.
+necessary precautions must be taken.
+
+Page 35
+
+24
+
+3.6. Backing Up Personal Data
+Personal data is damaged, destroyed, stolen for any reason or
+In case of loss of data, data controllers will use the backed up data as soon as possible.
+should be operational in due time.
+In addition, malware can prevent access to existing data.
+For example, it locks files containing personal data on electronic devices and
+malware that forces the data controller to pay a ransom to unlock it
+may be. To ensure personal data security against such malware
+Developing backup strategies is recommended.
+On the other hand, the backed up personal data can only be accessed by the system administrator.
+data set backups must be kept out of the network. Otherwise, dataset backups
+with the use of malware or data deletion and destruction on
+may be faced. Therefore, the physical security of all backups is also
+ensure that it is provided.
+
+Page 36
+
+25
+
+Page 38
+37
+
+4. PERSONAL DATA
+TO SAFETY
+RELATED TECHNIQUE AND
+ADMINISTRATIVE MEASURES
+SUMMARY OF THE SCOPE
+TABLES
+Page 39
+
+28
+Data controllers; to prevent the unlawful processing of personal data,
+to prevent unlawful access to data and to protect personal data in accordance with the law.
+Tables showing the technical and administrative measures they can take to ensure their preservation
+given below.
+When determining technical and administrative measures, the nature of personal data and the environment in which it is stored are taken into consideration.
+are taken into account.
+
+4.1. Technical Measures Summary Table
+Technical measures that can be taken by data controllers are shown in Table 4.1.
+Technical Measures
+Authority Matrix
+Authority Control
+Access Logs
+User Account Management
+Network Security
+Application Security
+Encryption
+Penetration Test
+Intrusion Detection and Prevention Systems
+Log Records
+Data Masking
+Data Loss Prevention Software
+Backup
+Firewalls
+Current Anti-Virus Systems
+Deletion, Destruction, or Anonymization
+Key Management
+Table 4.1. technical measures
+
+Page 40
+
+29
+
+4.2. Administrative Measures Summary Table
+Administrative measures that can be taken by data controllers are shown in Table 4.2.
+
+Administrative Measures
+Preparation of Personal Data Processing Inventory
+Corporate Policies (Access, Information Security, Use, Storage and Disposal etc.)
+Contracts (Between Data Controller - Data Controller, Data Controller - Data Processor)
+Privacy Commitments
+In-house Periodic and/or Random Audits
+Risk Analysis
+Employment Contract, Disciplinary Regulation (Adding Legal Provisions)
+Corporate Communication (Crisis Management, Informing the Board and Relevant Person, Reputation Management)
+etc.)
+Education and Awareness Activities (Information Security and Law)
+Notification to Data Controllers Registry Information System (VERBIS)
+Table 4.2. Administrative measures
+
+Page 42
+41
+
+5. GUIDE
+PREPARING
+BENEFICIARY
+RESOURCES and
+EXAMINATION
+WILL BE SUITABLE
+EVALUATED
+DOCUMENTS
+Page 43
+
+32
+It is recommended by the Board to read and review the following documents.
+
+AHA
+
+American Hospital Association, Cybersecurity and Hospitals, 2013, see
+http://www.aha.org/content/13/ahaprimer-cyberandhosp.pdf
+
+Article 29
+
+Article 29 European Data Protection Group, Advice paper on special categories
+of data (“sensitive data”).
+
+Baskerville/ Im/
+
+RL Baskerville, GPIm, A Longitudinal Study of Information System Threat
+Categories: The Enduring Problem of Human Error”, SIGMIS Database,
+vol.36, 2005.
+
+Brown/Marsden
+
+I. Brown, CT Marsden, Regulating Code: Good Governance and Better
+Regulation in the Information Age, The MIT Press, 2013
+
+BS10012:2009
+
+British Standard, Data protection – Specification for a personal information
+management system
+
+BSI C5
+
+Federal Office for Information Security, Cloud Computing Compliance
+Controls Catalog (C5), criteria to assess the information security of
+cloud services v 1.0
+
+Castells
+
+M. Castells, The Rise of the Network Society, Volume One, trans. E. Kilic, Istanbul Bilgi
+Publications, 2005
+
+CES
+
+Cyber ​Essentials Scheme, Requirements for basic technical protection
+from cyber attacks,
+
+Desmedt
+
+Y. Desmedt, Man-in-the-Middle Attack, Encyclopedia of Cryptography and
+Security, 2011
+
+Page 44
+
+33
+Directive 95/46/EC
+
+Directive 95/46/EC of the European Parliament and of the Council of 24
+October 1995 on the protection of individuals with regard to the processing
+of personal data and on the free movement of such data, Oficial Journal of
+the European Communities of 23 November 1995, No L. 281, p. 31.
+
+Directive 2002/58/EC
+
+Directive 2002/58/EC of the European Parliament and of the Council of 12
+July 2002 concerning the processing of personal data and protection
+of privacy in the electronic communications sector OJ L201/37
+
+ENISA
+
+The European Union Agency for Network and Information Security,
+See Hardware Threat Landscape and Good Practice Guide, February 2017.
+https://www.enisa.europa.eu/publications/ hardware-threat-landscape
+
+ENISA
+
+The European Union Agency for Network and Information Security, Cyber
+Security and Resilience for Smart Hospitals, November 2016, see https://
+www.enisa.europa.eu/publications/cyber-security-and-resilience-forsmart-hospitals
+
+ENISA
+
+European Union Agency for Network and Information Security, Cyber
+Security and Resilience of Intelligent Public Transport, Good practices
+and recommendations, 2016, see https://www. enisa .europa.eu/
+publications/good-practices-recommendations
+
+ENISA
+
+Guidelines for SMEs on the security of personal data processing, January 27
+2017, see https://www.enisa.europa.eu/publications/guidelines-forsmes-on-the-security-of-personal-data-processing
+
+ENISA
+
+Algorithms, key size and parameters report 2014, 21 November 2014,
+https://www.enisa.europa.eu/publications/algorithms-key-size-andparameters-report-2014
+
+Gunter
+
+O.Gunter, The Phishing Guide-Understanding and Preventing Phishing
+attacks.
+
+Gurses
+
+B. Gürses, Security of Personal Data in Social Networks, Problems
+and Solution Proposals, BTK Administrative Expertise Thesis ( 2013)
+
+Gurses/ Danezis
+
+S. Gürses, G Danezis, A Critical Review of Ten Years of Privacy Technology,
+UK, 2012
+
+Hilbert
+
+M. Hilbert, Big Data for Development: From Information- to Knowledge
+Societies, United Nations ECLAC, 2013
+
+ICO
+
+Information Commissioner's Office, Encryption Guide, https://ico.org.uk/
+media/for-organisations/encryption-1-0.pdf
+
+ICO
+
+See Information Commissioner's Office, A Practical Guide to IT Security.
+https://ico.org.uk/media/for-organisations/
+documents/1575
+security_ practical_guide.pdf
+
+Page 45
+
+34
+
+ISO/IEC
+
+International Standards of Organizations, Information technology - Security
+techniques - Information security management systems – Requirements
+
+ISO/IEC
+
+International Standards of Organizations, Information technology - Security
+techniques, Code of practice for information security controls
+
+Kuzeci
+
+E. Küzeci, Protection of Personal Data, Turhan Bookstore, 2010
+
+NIS
+
+The Directive on security of network and information systems (NIS
+Directive), European Commission, July 2016, see http://eurlex.europa.eu/legal-content/EN/TXT/?uri=uriserv: OJ. L_.2016.194.
+01.0001.01. ENG&toc=OJ:L:2016:194:TOC
+
+NIST
+
+National Institute of Standards and Technology, Framework for Improving
+Critical Infrastructure Cybersecurity, v 1.0,
+
+/it_
+
+Page 46
+
+35
+NIST
+
+National Institute of Standards and Technology, Guidelines for Smart Grid
+Cyber ​Security, 2010, see https://www.nist. gov/ sites/default/ files/
+documents/smartgrid/nistir-7628_total.pdf
+
+Arrow
+
+K. OK, Introduction to Information and Information Management, 1st Edition, Papatya Publishing Education,
+Istanbul, October 2013
+
+Ozdemir
+
+H. Özdemir, Private Law of Personal Data in the Field of Electronic Communications
+Protection According to Its Provisions, Seçkin Publishing, 2009
+
+Lightning
+
+O. Şimşek, Protection of Personal Data in Constitutional Law, Beta Press,
+2008
+
+TBD
+
+Turkish Informatics Association, Information Systems Security Handbook, v 1.0, Ankara,
+May 2006
+
+UDHB
+
+TR Ministry of Transport, Maritime Affairs and Communications, 2016-2019 National
+Cyber ​Security Strategy Action Plan, see. http://www.udhb.gov.tr/doc/
+siberg/2016-2019guvenlik.pdf
+
+Vural/Sagiroglu
+
+Y. Vural, S. Sağıroğlu, Corporate Information Security: Current Developments, Proceedings
+Book International Conference on Information Security and Cryptology, 2007
+
+Yilmaz
+
+H.Yılmaz, Within the Scope of TS ISO/IEC 27001 Information Security Management Standard
+Establishment of Information Security Management System and Information Security Risk
+Analysis, Audit 2014-2015, http://dergipark.gov.tr/download/articlefile/208742
+
+Weingart
+
+S. Weingart, Physical security devices for computer subsystems: A survey
+of attacks and defenses, Cryptographic Hardware and Embedded Systems
+- CHES 2000, p. 45-68
+
+Wolfe/ Gunasekara/
+bogue
+
+N. Wolfe, L. Gunasekara, Z. Bogue, Crunching Digital Data can help the
+World, 2011, see http://edition.cnn.com/2011/OPINION/02/02/wolfe.
+gunasekara.bogue.data/index.html?_s=PM:O PINION
+
+Page 47
+
+36
+
+
