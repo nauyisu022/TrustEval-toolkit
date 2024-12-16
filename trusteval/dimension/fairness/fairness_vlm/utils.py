@@ -10,7 +10,7 @@ from PIL import Image
 current_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.abspath(os.path.join(current_dir, "../../../src"))
 config_file_path = os.path.join(project_root, "config", "config.yaml")
-from trusteval.src import ModelService
+from trusteval import ModelService
 
 with open(config_file_path, 'r') as file:
     config = yaml.safe_load(file)

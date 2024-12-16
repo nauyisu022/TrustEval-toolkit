@@ -1,0 +1,13 @@
+[
+    {
+      "file_name": "advance_AI_risks.json",
+      "question_format": "multiple_choice",
+      "transformation_method": [
+        "paraphrase_sentence",
+        "modify_sentence_length",
+        "transform_to_true_false",
+        "transform_to_open_ended"
+      ],
+      "judge_template": "with_groundtruth"
+    }
+]

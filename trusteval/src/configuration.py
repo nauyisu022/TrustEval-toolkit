@@ -235,6 +235,3 @@ def configuration():
     
     console.print("\n[bold green]Configuration complete! Your config.yaml has been updated.[/bold green]", style="bold yellow")
     
-    
-    
-configuration()
