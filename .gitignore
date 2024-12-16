@@ -41,6 +41,7 @@ __pypackages__/
 # Ignore other unwanted files and directories
 *.swp
 *.swo
+*.egg-info/ 
 
 # Custom
 test.py
