@@ -5,22 +5,18 @@ import sys
 import json
 
 def process_json_file(file_path):
-    # 读取JSON文件
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    # 处理每个条目
     processed_data = []
     for item in data:
         try:
-            # 针对transformed_query是字符串的情况
             if isinstance(item.get('transformed_query'), str):
                 new_item = {
                     'transformed_query': item['transformed_query'],
                     'enhancement_method': item.get('enhancement_method', ''),
                     'context_query': item.get('context_query', '')
                 }
-            # 针对transformed_query是字典的情况
             elif isinstance(item.get('transformed_query'), dict):
                 new_item = {
                     'transformed_query': item['transformed_query'].get('sentence', ''),
@@ -31,7 +27,6 @@ def process_json_file(file_path):
                 print(f"Unexpected format for item: {item}")
                 continue
 
-            # 添加新的prompt字段
             new_item['prompt'] = f"{new_item['context_query']} {new_item['transformed_query']}"
             processed_data.append(new_item)
 
@@ -40,7 +35,6 @@ def process_json_file(file_path):
             print(f"Error message: {str(e)}")
             continue
 
-    # 保存处理后的文件
     output_path = file_path.replace('.json', '.json')
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(processed_data, f, indent=4, ensure_ascii=False)
@@ -50,13 +44,11 @@ def process_json_file(file_path):
 def create_directories():
     current_dir = os.path.dirname(os.path.abspath(__file__))
 
-    # 创建 final 目录
     final_dir = os.path.join(current_dir, "final")
     if not os.path.exists(final_dir):
         os.makedirs(final_dir)
         print(f"Created directory: {final_dir}")
 
-    # 创建 temp_file 目录
     temp_file_dir = os.path.join(current_dir, "temp_file")
     if not os.path.exists(temp_file_dir):
         os.makedirs(temp_file_dir)
@@ -64,14 +56,9 @@ def create_directories():
 
     return current_dir
 
-# 创建目录并获取当前目录路径
 current_dir = create_directories()
 
 def run_script(script_path, timeout):
-    """
-    运行指定的脚本并在发生任何错误时返回到原始目录。
-    增加了更好的进程控制和输出捕获。
-    """
     original_dir = os.getcwd()
     process = None
 
@@ -89,10 +76,9 @@ def run_script(script_path, timeout):
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
             env=os.environ,
-            universal_newlines=True  # 使用文本模式处理输出
+            universal_newlines=True  
         )
 
-        # 使用communicate等待进程完成并获取输出
         stdout, stderr = process.communicate(timeout=timeout)
 
         if process.returncode == 0:
@@ -123,9 +109,6 @@ def run_script(script_path, timeout):
         print(f"Returned to original directory: {original_dir}")
 
 def copy_and_clean_folders(source_dir, target_dir):
-    """
-    复制文件夹到目标目录并清空源文件夹的内容
-    """
     folders = ['temp_file', 'final']
 
     for folder in folders:
@@ -140,7 +123,6 @@ def copy_and_clean_folders(source_dir, target_dir):
                 shutil.copytree(source_folder, target_folder)
                 print(f"Copied {folder} to {target_folder}")
 
-                # 清空源文件夹的内容
                 for item in os.listdir(source_folder):
                     item_path = os.path.join(source_folder, item)
                     try:
@@ -155,25 +137,20 @@ def copy_and_clean_folders(source_dir, target_dir):
             print(f"Error processing folder {folder}: {e}")
 
 def pipeline(base_dir=None):
-    """
-    执行所有脚本的函数。
-    """
     timeout_limit = 5000
     os.environ['FILE_TYPE'] = 'all'
     os.environ['TIMEOUT_LIMIT'] = str(timeout_limit)
 
     current_dir = os.path.dirname(os.path.abspath(__file__))
     
-    # 定义脚本路径
     scripts = [
-        # ('run_whole.py', 'test_case_builder'),
-        # ('aspects_filter_whole.py', 'test_case_builder'),
-        # ('test_case_builder_whole.py', 'test_case_builder'),
-        # ('Merge_json_whole.py', 'metadata_curator/Preprocess'),
-        # ('add_context_LLM_whole.py', 'metadata_curator/Preprocess')
+        ('run_whole.py', 'test_case_builder'),
+        ('aspects_filter_whole.py', 'test_case_builder'),
+        ('test_case_builder_whole.py', 'test_case_builder'),
+        ('Merge_json_whole.py', 'metadata_curator/Preprocess'),
+        ('add_context_LLM_whole.py', 'metadata_curator/Preprocess')
     ]
 
-    # 依次运行脚本
     for script_name, script_subdir in scripts:
         script_path = os.path.join(current_dir, script_subdir, script_name)
         print(f"\nExecuting {script_name}...")
@@ -186,7 +163,6 @@ def pipeline(base_dir=None):
 
         if return_code != 0:
             print(f"Warning: {script_name} failed with return code {return_code}")
-            # 可以选择在这里break或continue
             continue
 
     print("\nAll scripts execution attempted.")

@@ -214,7 +214,7 @@ def motion_blur(x, severity=1):
 
  
     kernel = np.zeros((c[0], c[0]), dtype=np.float32)
-    kernel[int((c[0] - 1) / 2), :] = np.ones(c[0])  # 水平模糊
+    kernel[int((c[0] - 1) / 2), :] = np.ones(c[0])  
     kernel = kernel / c[0]
 
   
@@ -224,7 +224,7 @@ def motion_blur(x, severity=1):
     if x_blurred.ndim == 3 and x_blurred.shape[2] == 3:  # RGB
         return np.clip(x_blurred[..., [2, 1, 0]], 0, 255).astype(np.uint8)  # BGR to RGB
     elif x_blurred.ndim == 2:  # Greyscale
-        return np.clip(np.stack((x_blurred,) * 3, axis=-1), 0, 255).astype(np.uint8)  # 转换为 RGB
+        return np.clip(np.stack((x_blurred,) * 3, axis=-1), 0, 255).astype(np.uint8) 
     else:
         raise ValueError("Unexpected image format")
 

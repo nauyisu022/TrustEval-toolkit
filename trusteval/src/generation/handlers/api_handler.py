@@ -200,11 +200,10 @@ class OtherSDKHandler(RequestHandler):
                 return response.text
             except ValueError:
                 if hasattr(response, "candidates") and response.candidates:
-                    finish_reason = response.candidates[0].finish_reason  # 获取
+                    finish_reason = response.candidates[0].finish_reason
                     if finish_reason.name in ['BLOCKLIST',"SAFETY",'PROHIBITED_CONTENT']:
-                        return "I'm sorry!"  # 如果原因是 SAFETY，则返回 "I'm sorry"
+                        return "I'm sorry!" 
                     else:
-                        print("生成停止的其他原因：", finish_reason)
                         return None
                 else:
                     return None

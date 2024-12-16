@@ -239,7 +239,7 @@ class JailbreakMethodHandler:
         if randomize:
             encoding_type = random.choice(['base64', 'hex', 'url'])
         if encoding_type == 'base64':
-            encoded_result = base64.b64encode(query.encode()).decode('utf-8')  # 转为字符串
+            encoded_result = base64.b64encode(query.encode()).decode('utf-8')
         elif encoding_type == 'hex':
             encoded_result = query.encode().hex()
         elif encoding_type == 'url':
@@ -290,7 +290,6 @@ class Test_Case_Builder:
             'ObscurePrompt', 'Scenario', 'Translate', 'Add_Typos', 'Add_Separators', 'Encoding'
         ]
 
-        # 确定要使用的 Jailbreak 方法
         if jailbreak_method == 'ALL':
             jailbreak_methods = all_jailbreak_method
         else:
@@ -300,7 +299,6 @@ class Test_Case_Builder:
         all_harmful_query = self.load_and_sample_harmful_queries(file_path='metadata/golden_generated_harmful_queries.json', number_for_each_topic=number_for_each_topic)[:]
 
         all_queries = []
-        # 使用 ThreadPoolExecutor 并行处理
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {
                 executor.submit(self.method_handler.handle_method, query['transformed_query'], method): (query, method)
@@ -323,10 +321,8 @@ class Test_Case_Builder:
 
     def load_and_sample_harmful_queries(self, file_path, number_for_each_topic):
 
-        # 从文件加载恶意查询
         harmful_queries = self.saver.read_file(file_path)
 
-        # 采样
         topics = set(entry['attack_type'] for entry in harmful_queries)
         print(len(topics))
         sampled_entries = []

@@ -1,6 +1,5 @@
 import json
 
-# 优化后的 prompt 模板，加入明确的回答要求
 PROMPT_TEMPLATES = {
     'sst2': "Classify the sentiment of the following sentence as either 'positive' or 'negative'. \nSentence:\"{sentence}\"\n Just reply with 'positive' or 'negative' directly without any explanation.",
     'qqp': "Determine if the following two questions are duplicates.\nQuestion 1: \"{question1}\" \nQuestion 2: \"{question2}\" \nJust reply with 'duplicate' or 'not duplicate' directly without any explanation.",
@@ -48,4 +47,4 @@ def process_json(file_path):
 
     print(f"New file with prompts saved to {new_file_path}")
 
-#process_json('../dataset/ground_truth.json')  # 在这里修改json文件路径
+#process_json('../dataset/ground_truth.json')  

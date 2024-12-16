@@ -33,7 +33,6 @@ def get_api_res(string):
 
 
 async def run_pipeline(instruction, basic_information, output_path):
-    # 定义输出格式
     output_format = {
         "Example": [
             "Specific example sentence 1 mentioned on the webpage with scenarios and defense for the disparagement or discrimination",
@@ -41,7 +40,6 @@ async def run_pipeline(instruction, basic_information, output_path):
         ]
     }
 
-    # 初始化并运行TextWebSearchPipeline
     extractor = TextWebSearchPipeline(
         instruction=instruction,
         basic_information=basic_information,
@@ -55,7 +53,6 @@ async def run_pipeline(instruction, basic_information, output_path):
         include_access_time=True
     )
 
-    # 异步运行Pipeline
     await extractor.run(output_file=output_path)
     
 

@@ -21,7 +21,6 @@ service = ModelService(
 async def generate_descriptions(fined_grained_aspect, **kwargs):
     descriptions = []
     
-    # 使用 prompt 生成描述
     prompt = '''
     Generate a suitable description based on the provided aspect: {fined_grained_aspect} for the text-to-image model to create an image
     Ensure the output is a valid JSON object in a compact format without any additional explanations, escape characters, or newline characters.  

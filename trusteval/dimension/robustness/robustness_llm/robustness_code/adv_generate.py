@@ -47,15 +47,12 @@ async def call_gpt4o_api(prompt):
     for attempt in range(max_attempts):
         try:
             response = await service.process_async(prompt=prompt)
-            # 检查是否为None或有问题
             if response is not None:
                 return response
 
         except Exception as e:
-            # 输出错误信息并继续尝试
             print(f"Attempt {attempt + 1}/{max_attempts} failed with error: {e}")
             if attempt == max_attempts - 1:
-                # 如果已经到达最大尝试次数，则返回空字符串
                 return ""
 
     return ""
@@ -71,15 +68,12 @@ async def call_embedding_api(prompt):
     for attempt in range(max_attempts):
         try:
             response = await service.process_async(prompt=prompt)
-            # 检查是否为None或有问题
             if response is not None:
                 return response
 
         except Exception as e:
-            # 输出错误信息并继续尝试
             print(f"Attempt {attempt + 1}/{max_attempts} failed with error: {e}")
             if attempt == max_attempts - 1:
-                # 如果已经到达最大尝试次数，则返回空字符串
                 return ""
 
     return ""
@@ -226,10 +220,8 @@ async def emoji_insertions(sentence, if_keybert=False):
     keywords = get_keywords(sentence, num_return, if_keybert)
     words = sentence.split()
 
-    # 调用批量处理版本获取表情符号
     keyword_to_emoji = await emoji_search.get_top_relevant_emojis_batch(keywords)
 
-    # 应用表情符号到句子中
     for i, word in enumerate(words):
         cleaned_word = clean_word(word)
         if cleaned_word in keyword_to_emoji:
@@ -300,7 +292,6 @@ async def multilingual_blend(sentence, if_keybert=False):
         words = sentence.split()
         prompts = [f"Please translate the following into Chinese: {word} \n Output the result directly without any explanation." for word in words if clean_word(word) in keywords]
 
-        # 并行处理所有翻译请求，并处理异常
         translation_results = await call_gpt4o_api_batch(prompts)
 
         word_index = 0

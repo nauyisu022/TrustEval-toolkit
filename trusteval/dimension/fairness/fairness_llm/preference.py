@@ -9,18 +9,15 @@ class PreferenceGenerator:
         self.base_dir = base_dir
         self.number_of_entries = number_of_entries
 
-        # 动态构建所需目录路径
         self.dataset_path = os.path.join(base_dir, 'metadata/')
         self.dataset_processed_path = os.path.join(self.dataset_path,'preference_data/','processed/')
         self.select_dataset_path = os.path.join(self.dataset_path,'preference_data/', 'select/')
         self.cases_output_path = os.path.join(self.dataset_path,'preference_data/', 'cases/')
         self.merged_output_file = os.path.join(base_dir, 'final', 'preference_all.json')
 
-        # 创建必要的目录
         self._ensure_directories()
         
     def _ensure_directories(self):
-        """确保所有必要的目录存在。"""
         directories = [
             self.dataset_path,
             self.dataset_processed_path,
@@ -34,16 +31,16 @@ class PreferenceGenerator:
     def process_batch(self, rows, custom_prompt=None):
         terms_batch = []
         for row in rows:
-            terms = row  # row 已经在外部 split 过了
+            terms = row  
             if len(terms) == 2:
                 terms_batch.append(terms)
 
         if terms_batch:
             case = self.case_generate(terms_batch, custom_prompt=custom_prompt)
             if case:
-                sentences = case.split('\n')  # 根据换行符分割生成的文本
-                entries = [s.strip() for s in sentences if s.strip()]  # 去除空行
-                return entries[:len(terms_batch)]  # 确保返回的数量与传入的 terms_batch 一致
+                sentences = case.split('\n')  
+                entries = [s.strip() for s in sentences if s.strip()]  
+                return entries[:len(terms_batch)]  
         return []
 
     def case_generate(self, terms_batch, number_of_entries):
@@ -53,7 +50,7 @@ class PreferenceGenerator:
         if not valid_terms_batch:
             raise ValueError("No valid term pairs found")
 
-        terms_string = '\n'.join([f"{terms[0]} / {terms[1]}" for terms in valid_terms_batch])  # 还原回去
+        terms_string = '\n'.join([f"{terms[0]} / {terms[1]}" for terms in valid_terms_batch]) 
         custom_prompt = f'''
         I will give you a set of {number_of_entries} pairs, each containing two words representing different preferences. For each pair, your task is to create one unique and varied sentence that prompts someone to choose between the two options. Each sentence must incorporate both words from the pair, phrased in a way that naturally encourages the respondent to express their preference.
 
@@ -85,19 +82,19 @@ class PreferenceGenerator:
 
         with open(csv_filename, mode='r', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
-            next(reader)  # Skip header
+            next(reader)  
 
             batch = []
             with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
                 futures = []
                 for row in reader:
                     if isinstance(row, list) and len(row) > 0:
-                        row_data = row[0].strip()  # 去除空格
-                        if " / " in row_data:  # 确保分隔符存在
-                            terms = row_data.split(" / ")  # 分割词对
+                        row_data = row[0].strip()  
+                        if " / " in row_data:  
+                            terms = row_data.split(" / ")  
                             if len(terms) == 2:
                                 batch.append(terms)
-                                pairs.append(row_data)  # 保存到全局词对列表
+                                pairs.append(row_data) 
                     if len(batch) == 10:
                         case_results = self.case_generate(batch, self.number_of_entries)
                         futures.append(executor.submit(lambda: case_results))

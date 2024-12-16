@@ -4,7 +4,7 @@ import asyncio
 from concurrent.futures import ThreadPoolExecutor
 current_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(current_dir)
-# 从各模块中导入所需函数
+
 from Ration_Vizwiz import process_images_vizwiz
 from Ration_VISPR import process_images_vispr
 from transformat import process_multiple_files
