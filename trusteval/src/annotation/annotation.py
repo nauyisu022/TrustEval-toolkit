@@ -22,12 +22,12 @@ class AnnotationApp:
             st.session_state.dataset_name = ""
 
     def load_css(self):
-        with open("src/annotation/annotation.css") as css_file:
+        with open("trusteval/src/annotation/annotation.css") as css_file:
             css_content = css_file.read()
             st.markdown(f'<style>{css_content}</style>', unsafe_allow_html=True)
 
     def load_config(self):
-        with open("src/config/annotation_config.yaml", "r") as file:
+        with open("trusteval/src/config/annotation_config.yaml", "r") as file:
             config = yaml.safe_load(file)
         return config
 

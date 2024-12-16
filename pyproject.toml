@@ -10,7 +10,7 @@ authors = [
     {name="Your Name", email="your.email@example.com"},
 ]
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 license = {file = "LICENSE"}
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -64,8 +64,3 @@ packages = ["trusteval"]
 [tool.setuptools.package-data]
 trusteval = ['**/*.json', '**/*.yaml', '**/*.py']
 
-[project.urls]
-Homepage = "https://yourprojecthomepage.example.com"
-Documentation = "https://yourprojecthomepage.example.com/docs"
-Source = "https://github.com/yourusername/trusteval"
-Bug Tracker = "https://github.com/yourusername/trusteval/issues"
