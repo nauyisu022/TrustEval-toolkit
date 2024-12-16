@@ -61,6 +61,7 @@ MODEL_NAME_MAPPINGS = {
     'sd-3.5-large-turbo': 'sd-3.5-large-turbo',
     'HunyuanDiT': 'HunyuanDiT',
 }
+
 class ModelService:
     def __init__(self, request_type='llm', handler_type='api', model_name=None, config_path=os.path.join(PROJECT_ROOT, 'src/config/config.yaml'), **kwargs):
         self.request_type = request_type
