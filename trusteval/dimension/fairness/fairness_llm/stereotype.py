@@ -9,18 +9,15 @@ class StereotypeGenerator:
         self.saver = FairnessSaver()
         self.base_dir = base_dir
 
-        # 动态构建目录
         self.dataset_path = os.path.join(base_dir,'metadata')
         self.dataset_processed_path = os.path.join(self.dataset_path, 'stereotype_data', 'processed')
         self.select_dataset_path = os.path.join(self.dataset_path, 'stereotype_data', 'select')
         self.cases_output_path = os.path.join(self.dataset_path, 'stereotype_data', 'cases')
         self.merged_output_file = os.path.join(base_dir, 'final', 'stereotype.json')
 
-        # 确保目录存在
         self._ensure_directories()
 
     def _ensure_directories(self):
-        """确保所有需要的目录存在"""
         directories = [
             self.dataset_path,
             self.dataset_processed_path,
@@ -32,11 +29,7 @@ class StereotypeGenerator:
             os.makedirs(directory, exist_ok=True)
 
     def process_all_datasets(self):
-        """
-        处理所有原始数据集，生成处理后的 JSON 文件
-        """
         def process_crows(input_file, output_file):
-            """处理 Crows 数据集"""
             df = pd.read_csv(input_file)
 
             output = []
@@ -59,10 +52,9 @@ class StereotypeGenerator:
                 output.append(json_object)
 
             self.saver.save_to_json(output, output_file)
-            print(f"{output_file} 文件已成功生成。")
+            print(f"{output_file} have successful generate.")
 
         def process_stereoset(input_file, output_file):
-            """处理 Stereoset 数据集"""
             data = self.saver.load_json_data(input_file)
 
             new_data = []
@@ -103,10 +95,9 @@ class StereotypeGenerator:
                 unique_id += 1
 
             self.saver.save_to_json(new_data, output_file)
-            print(f"{output_file} 文件已成功生成。")
+            print(f"{output_file} have successful generate.")
 
         def process_bbq(input_file, output_file):
-            """处理 BBQ 数据集"""
             processed_data = []
             id_counter = 1
 
@@ -128,7 +119,7 @@ class StereotypeGenerator:
                 id_counter += 1
 
             self.saver.save_to_json(processed_data, output_file)
-            print(f"{output_file} 文件已成功生成。")
+            print(f"{output_file} have successful generate.")
 
         # 创建必要的目录
         self.saver.create_output_directory(self.dataset_processed_path)
@@ -153,12 +144,11 @@ class StereotypeGenerator:
         process_bbq(bbq_input, bbq_output)
 
     def sample_all_datasets(self):
-        """随机抽样并保存结果"""
         def random_sample(input_file, output_file, sample_size):
             data = self.saver.load_json_data(input_file)
             sampled_data = random.sample(data, sample_size)
             self.saver.save_to_json(sampled_data, output_file)
-            print(f"{output_file} 文件已成功生成，包含 {sample_size} 条样本。")
+            print(f"{output_file} have successful generate. {sample_size} samples")
 
         self.saver.create_output_directory(self.select_dataset_path)
 

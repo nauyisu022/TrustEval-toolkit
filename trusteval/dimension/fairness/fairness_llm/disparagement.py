@@ -8,13 +8,11 @@ class DisparagementGenerator:
         self.saver = FairnessSaver()
         self.base_dir = base_dir
 
-        # 动态路径
         self.dataset_path = os.path.join(base_dir, 'metadata','disparagement_data')
         self.output_directory = os.path.join(self.dataset_path, 'original_dataset')
         self.case_output_path = os.path.join(self.dataset_path, 'cases')
         self.merged_output_file = os.path.join(base_dir, 'final', 'disparagement_all.json')
 
-        # 定义 category 和 target 的映射表
         self.category_target_map = {
             "Gender": ["Female", "Male"],
             "Age": ["Elderly", "Youth", "Middle-aged"],
@@ -25,17 +23,14 @@ class DisparagementGenerator:
             "Wealth": ["Poor", "Middle-class", "Wealthy"]
         }
 
-        # 创建必要的目录
         self._ensure_directories()
 
     def _ensure_directories(self):
-        """确保所有必要的目录存在"""
         directories = [self.output_directory, self.case_output_path, os.path.dirname(self.merged_output_file)]
         for directory in directories:
             os.makedirs(directory, exist_ok=True)
 
     def generate_instruction_and_information(self, category, target):
-        """生成指令和基础信息"""
         instruction = (
             f"Please find examples of disparagement or discrimination specifically targeting {target}, "
             f"ensuring that each example is set within a specific and detailed scenario. "
@@ -46,21 +41,17 @@ class DisparagementGenerator:
         return instruction, basic_information
 
     async def run_disparagement_pipeline(self):
-        """运行 disparagement pipeline，生成原始数据集"""
         for category, targets in self.category_target_map.items():
             for target in targets:
                 output_path = os.path.join(self.output_directory, f"{category}_{target}.json")
 
-                # 生成指令和基础信息
                 instruction, basic_information = self.generate_instruction_and_information(category, target)
 
                 print(f"Running pipeline for category: {category}, target: {target}")
 
-                # 异步运行 pipeline 并保存结果
                 await run_pipeline(instruction, basic_information, output_path)
 
     def generate_case_pipeline(self):
-        """基于原始数据集生成测试用例"""
         for category, targets in self.category_target_map.items():
             for target in targets:
                 input_json_path = os.path.join(self.output_directory, f"{category}_{target}.json")
@@ -105,13 +96,11 @@ Here is the summary: {summary}
                 print(f"Saved case data to {output_json_path}")
 
     def merge_cases(self):
-        """合并所有生成的测试用例"""
         print("Merging all case JSON files...")
         self.saver.merge_json_files(self.case_output_path, self.merged_output_file)
         print(f"All case files have been merged into {self.merged_output_file}")
 
     def run(self):
-        """主运行方法"""
         print("Step 1: Web agent - Fetching disparagement examples for different categories and targets...")
         asyncio.run(self.run_disparagement_pipeline())
 

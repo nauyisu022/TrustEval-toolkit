@@ -12,7 +12,7 @@ from trusteval.src.saver import Saver
 
 
 class StereotypeDataProcessor:
-    def __init__(self, base_folder_path):
+    def __init__(self, base_folder_path, samples=10):
         self.BASE_FOLDER_PATH = base_folder_path
 
         # Configure relative paths
@@ -23,9 +23,9 @@ class StereotypeDataProcessor:
         self.FILTER_SCORE_PATH = "original_dataset_stereotype/stereoset_merge_filtered.json"
 
         # Sample size configuration
-        self.CROWS_SAMPLE_SIZE = 20
-        self.STEREOSET_FILL_SAMPLE_SIZE = 20
-        self.STEREOSET_COMPLETE_SAMPLE_SIZE = 10
+        self.CROWS_SAMPLE_SIZE = samples
+        self.STEREOSET_FILL_SAMPLE_SIZE = samples
+        self.STEREOSET_COMPLETE_SAMPLE_SIZE = samples
 
         # Image-related folder path configuration
         self.IMAGE_SAVE_FOLDER = os.path.join(self.BASE_FOLDER_PATH, "generated_images_stereotype")
@@ -522,7 +522,7 @@ class StereotypeDataProcessor:
             self.add_prompt_to_json(input_path, output_path)
 
 
-def main(base_folder_path=None):
+def main(base_folder_path=None,samples=10):
     if base_folder_path is None:
         # If no path is provided, use the default path
         base_folder_path = os.path.join(os.getcwd(), "data")
@@ -532,7 +532,7 @@ def main(base_folder_path=None):
         os.makedirs(base_folder_path, exist_ok=True)
 
         print(f"Using base folder path: {base_folder_path}")
-        processor = StereotypeDataProcessor(base_folder_path)
+        processor = StereotypeDataProcessor(base_folder_path,samples=samples)
         processor.process()
     except Exception as e:
         print(f"Error in main: {str(e)}")
