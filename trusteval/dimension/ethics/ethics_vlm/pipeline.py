@@ -152,12 +152,10 @@ Here is the story narration: {narrative}'''
         json_data = self.load_json_data(self.PROCESSED_PATH)
         updated_data = []
 
-        # 修改正则表达式以匹配实际格式
-        # 匹配 fig1, fig2 等格式
         fig_pattern = r'fig(\d+)(?=:|])'
-        # 匹配方括号内的描述
+
         desc_pattern = r'\[fig\d+:\s*(.*?)\]'
-        # 匹配Scene描述
+
         scene_pattern = r'\*\*Scene \d+:.*?\*\*(.*?)(?=\*\*Scene|$)'
 
         print("\nStarting image splitting process...")
@@ -166,12 +164,12 @@ Here is the story narration: {narrative}'''
             img_description = item.get("image_description", "")
 
             if img_description:
-                # 尝试匹配 fig 编号
+
                 fig_matches = re.findall(fig_pattern, img_description, re.DOTALL)
                 desc_matches = re.findall(desc_pattern, img_description, re.DOTALL)
                 scene_matches = re.findall(scene_pattern, img_description, re.DOTALL)
 
-                # 优先使用方括号内的详细描述
+
                 if desc_matches:
                     print(f"Found {len(desc_matches)} detailed descriptions")
                     for i, desc in enumerate(desc_matches, 1):
@@ -179,7 +177,7 @@ Here is the story narration: {narrative}'''
                         item[key] = desc.strip()
                         print(f"Added {key}: {desc[:100]}...")
 
-                # 如果没有详细描述，使用场景描述
+
                 elif scene_matches:
                     print(f"Found {len(scene_matches)} scene descriptions")
                     for i, scene in enumerate(scene_matches, 1):
@@ -187,12 +185,12 @@ Here is the story narration: {narrative}'''
                         item[key] = scene.strip()
                         print(f"Added {key}: {scene[:100]}...")
 
-                # 如果上述都没有，尝试提取fig标记的文本
+
                 elif fig_matches:
                     print(f"Found {len(fig_matches)} fig markers")
-                    # 为每个fig标记提取相关的文本
+
                     for fig_num in fig_matches:
-                        # 尝试获取fig标记后的文本
+
                         pattern = rf'fig{fig_num}[:\s]+([^*\[]+)'
                         text_match = re.search(pattern, img_description)
                         if text_match:
@@ -207,20 +205,20 @@ Here is the story narration: {narrative}'''
         print("Image splitting completed")
 
     async def generate_images(self):
-        """使用线程池来并发执行同步的图像生成函数"""
+
         json_data = self.load_json_data(self.PROCESSED_PATH)
 
-        # 创建线程池
+
         loop = asyncio.get_event_loop()
         with ThreadPoolExecutor(max_workers=20) as executor:
             tasks = []
 
-            # 为每个图片创建任务
+
             for item in json_data:
                 img_id = item.get('id', 'unknown')
                 print(f"\nProcessing item {img_id}:")
 
-                # 查找所有img开头的键
+
                 img_keys = [k for k in item.keys() if k.startswith('img')]
                 for img_key in sorted(img_keys):
                     img_prompt = item.get(img_key, '')
@@ -278,7 +276,6 @@ Here is the story narration: {narrative}'''
                 self.compress_image(input_path, output_path, quality=quality, max_size_kb=max_size_kb)
 
     def merge_images(self, image_paths, output_path):
-        # 检查是否有有效的图片路径
         valid_paths = [path for path in image_paths if os.path.exists(path)]
 
         if not valid_paths:
@@ -299,21 +296,21 @@ Here is the story narration: {narrative}'''
                 print(f"Warning: No valid images could be loaded for {output_path}")
                 return False
 
-            # 获取尺寸
+
             widths, heights = zip(*(i.size for i in images))
             total_width = sum(widths)
             max_height = max(heights)
 
-            # 创建新图片
+
             new_im = Image.new('RGB', (total_width, max_height))
             x_offset = 0
 
-            # 合并图片
+
             for im in images:
                 new_im.paste(im, (x_offset, 0))
                 x_offset += im.size[0]
 
-            # 保存合并后的图片
+
             new_im.save(output_path)
             print(f"Successfully merged images and saved to {output_path}")
             return True
@@ -333,7 +330,7 @@ Here is the story narration: {narrative}'''
             img_files = [f"{item['id']}_{key}.png" for key in img_keys]
             img_paths = [os.path.join(self.IMAGE_SAVE_FOLDER, img_file) for img_file in img_files]
 
-            # 检查是否有图片需要合并
+
             valid_paths = [path for path in img_paths if os.path.exists(path)]
             if not valid_paths:
                 print(f"Skipping item {item['id']} - no valid images found")
@@ -348,7 +345,7 @@ Here is the story narration: {narrative}'''
 
         self.saver.save_data(data=json_data, target_file_path=self.PROCESSED_PATH)
 
-        # 压缩图片
+
         if os.path.exists(self.MERGED_IMAGE_FOLDER) and os.listdir(self.MERGED_IMAGE_FOLDER):
             self.compress_images_in_folder(
                 self.MERGED_IMAGE_FOLDER, 
@@ -384,16 +381,16 @@ Now, please generate the question without any declarative statements.'''
 
         updated_data = await asyncio.gather(*tasks, return_exceptions=True)
 
-        # 添加新的处理逻辑
+
         for item in updated_data:
-            if isinstance(item, dict):  # 确保item是字典类型
-                # 添加prompt字段
+            if isinstance(item, dict): 
+
                 if 'narrative' in item:
                     item['prompt'] = item['narrative']
 
-                # 添加image_path字段
+
                 if 'merged_image' in item:
-                    # 将.png替换为.jpg并添加路径前缀
+
                     image_name = item['merged_image'].replace('.png', '.jpg')
                     item['image_path'] = f"compressed_images/{image_name}"
 
@@ -401,7 +398,6 @@ Now, please generate the question without any declarative statements.'''
         print("Final tasks done!")
 
     async def run(self):
-        """按顺序执行完整的处理流程"""
         print("Starting pipeline execution...")
 
         # Step 1: Process original data

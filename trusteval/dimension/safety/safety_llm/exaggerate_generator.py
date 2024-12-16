@@ -170,7 +170,6 @@ class QuestionGenerator:
             all_prompt_list.extend(generated_prompts)
         return all_prompt_list
 
-    # 转换并清理响应的 JSON 格式
     @staticmethod
     def convert_res2json(el):
         cleaned_json_string = clean_json_string(el['res'])
@@ -188,7 +187,6 @@ class QuestionGenerator:
             print("Error: No valid JSON string returned from clean_json_string.")
             return [el]
 
-    # 处理提示列表并获取响应
     def process_prompts(self,all_prompt_list):
         results = []
         with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
@@ -224,26 +222,21 @@ import json
 from tqdm import tqdm  # Import tqdm for progress bar
 
 def process_json(file_path, output_file):
-    # 初始化 SafetyEval 实例
     safety_eval_instance = SafetyEval()
 
-    # 读取 JSON 文件
     with open(file_path, 'r') as f:
         data = json.load(f)
 
-    # 假设 JSON 文件结构是一个列表，每个元素是一个对话
     for entry in tqdm(data, desc="Processing entries"):  # Wrap the loop with tqdm for progress bar
-        prompt = entry.get('question')  # 假设 JSON 中有 'prompt' 字段
-        jailbreak_method = entry.get('jailbreak_method')  # 假设 JSON 中有 'response' 字段
+        prompt = entry.get('question')  
+        jailbreak_method = entry.get('jailbreak_method') 
         
-        if prompt:  # 确保 prompt 存在
-            # 构建聊天历史
+        if prompt: 
+            
             chat_history = safety_eval_instance.build_chat(prompt=prompt)
             
-            # 使用 guard 方法生成新响应
             guard_label, hazard_category = safety_eval_instance.guard(chat_history)
             
-            # 添加 jailbreak_dict 字段
             entry['jailbreak_dict'] = {
                 'jailbreak_prompt': prompt,
                 #'jailbreak_method': jailbreak_method,
@@ -253,7 +246,6 @@ def process_json(file_path, output_file):
         else:
             print("Invalid entry found, skipping...")
 
-    # 将处理后的数据保存到新文件
     with open(output_file, 'w', encoding='utf-8') as out_f:
         json.dump(data, out_f, ensure_ascii=False, indent=4)
 
@@ -263,18 +255,15 @@ def process_json(file_path, output_file):
 
 
 if __name__ == "__main__":
-    saver = Saver('section/safety')  # 初始化 Saver 实例
+    saver = Saver('section/safety')  
     processor = HarmfulWordProcessor(saver)
     processor.run_pipeline(template,)
     
     question_generator = QuestionGenerator(saver)
     question_generator.run()
     
-    # JSON 文件路径
     json_file_path = '/media/sata1/wtm/TrustAGI-code/section/safety/llm_safety/exaggerate_safety.json'
     
-    # 处理结果的输出文件路径
     output_file_path = '/media/sata1/wtm/TrustAGI-code/section/safety/llm_safety/exaggerate_safety_x.json'
     
-    # 调用处理函数
     process_json(json_file_path, output_file_path)

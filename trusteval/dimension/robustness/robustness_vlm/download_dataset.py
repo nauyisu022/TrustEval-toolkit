@@ -3,7 +3,6 @@ import requests
 from tqdm import tqdm
 import zipfile
 
-# 定义下载链接和目标文件夹
 urls = [
     "http://images.cocodataset.org/zips/train2014.zip",
     "http://images.cocodataset.org/annotations/annotations_trainval2014.zip",
@@ -41,23 +40,18 @@ def download_file(url, folder):
 def extract_zip(zip_path, extract_path):
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         for file in zip_ref.namelist():
-            if file.endswith('/'):  # 跳过文件夹
+            if file.endswith('/'):  
                 continue
-            # 分割路径
             parts = file.split('/')
-            # 重新组合路径
             new_path = os.path.join(extract_path, *parts)
-            # 确保目标目录存在
             os.makedirs(os.path.dirname(new_path), exist_ok=True)
-            # 提取文件
             with zip_ref.open(file) as source, open(new_path, "wb") as target:
                 target.write(source.read())
 
-    # 删除空文件夹
     for root, dirs, files in os.walk(extract_path, topdown=False):
         for dir in dirs:
             dir_path = os.path.join(root, dir)
-            if not os.listdir(dir_path):  # 如果文件夹为空
+            if not os.listdir(dir_path):  
                 os.rmdir(dir_path)
 
 def main(target_folder = "MSCOCO"):
@@ -67,7 +61,7 @@ def main(target_folder = "MSCOCO"):
         zip_file = download_file(url, target_folder)
         print(f"Extracting {zip_file}")
         extract_zip(zip_file, target_folder)
-        os.remove(zip_file)  # 删除zip文件
+        os.remove(zip_file) 
         print(f"Finished processing {url}")
 
     print("All files have been downloaded and extracted.")

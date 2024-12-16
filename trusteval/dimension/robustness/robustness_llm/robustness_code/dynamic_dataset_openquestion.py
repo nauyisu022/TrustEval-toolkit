@@ -68,7 +68,6 @@ async def apply_adv(data, adv_function, params, method_label):
             field_name = 'article'
 
         if field_name:
-            # 保存原始数据并添加前缀到副本
             original_data = {f'original_{key}': value for key, value in item.items() if key not in ['label', 'dataset']}
 
             if asyncio.iscoroutinefunction(adv_function):
@@ -78,9 +77,7 @@ async def apply_adv(data, adv_function, params, method_label):
                 item[field_name] = await loop.run_in_executor(
                     None, wrapped_function, item[field_name])
 
-            # 添加原始数据到字典中
             item.update(original_data)
-            # 添加method字段和enhanced_prompt字段
             item['method'] = method_label
             item['enhanced_prompt'] = generate_prompt(item)
 

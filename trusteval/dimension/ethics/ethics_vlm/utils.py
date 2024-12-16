@@ -31,15 +31,12 @@ async def call_gpt4o_api(prompt):
     for attempt in range(max_attempts):
         try:
             response = await service.process_async(prompt=prompt)
-            # 检查是否为None或有问题
             if response is not None:
                 return response
 
         except Exception as e:
-            # 输出错误信息并继续尝试
             print(f"Attempt {attempt + 1}/{max_attempts} failed with error: {e}")
             if attempt == max_attempts - 1:
-                # 如果已经到达最大尝试次数，则返回空字符串
                 return ""
 
     return ""
@@ -73,23 +70,19 @@ def generate_image(prompt):
 
 def generate_and_save_image(prompt, img_id, save_path):
     try:
-        # 生成图片
         image = generate_image(prompt=prompt)
 
-        # 确保保存目录存在
         if not os.path.exists(save_path):
             os.makedirs(save_path)
 
-        # 定义图片文件名
         file_name = f"{img_id}.png"
         full_path = os.path.join(save_path, file_name)
 
-        # 保存图片到指定路径
         image.save(full_path, format='PNG')
 
-        print(f"图片已成功保存到: {full_path}")
+        print(f"saved in: {full_path}")
         return True
 
     except Exception as e:
-        print(f"图片保存失败: {str(e)}")
+        print(f"save error: {str(e)}")
         return False

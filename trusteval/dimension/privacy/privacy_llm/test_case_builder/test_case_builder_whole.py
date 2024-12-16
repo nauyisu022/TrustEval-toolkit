@@ -20,7 +20,6 @@ sys.path.append(project_root)
 from generation.model_service import ModelService
 sys.path.append(current_dir)
 
-# 全局变量控制temp文件的位置
 TEMP_FILE_PATH = os.path.abspath(os.path.join(current_dir, '..', 'temp_file'))
 
 async def call_gpt4o_api(prompt):
@@ -72,7 +71,7 @@ async def scenario_transformation_privacy(text):
 
 class Test_Case_Builder:
     def __init__(self):
-        self.semaphore = asyncio.Semaphore(5)  # 限制并发数为5
+        self.semaphore = asyncio.Semaphore(5)  
 
     @staticmethod
     async def ensure_file_exists(file_path):

@@ -35,15 +35,12 @@ async def call_gpt4o_api(prompt):
     for attempt in range(max_attempts):
         try:
             response = await service.process_async(prompt=prompt)
-            # 检查是否为None或有问题
             if response is not None:
                 return response
 
         except Exception as e:
-            # 输出错误信息并继续尝试
             print(f"Attempt {attempt + 1}/{max_attempts} failed with error: {e}")
             if attempt == max_attempts - 1:
-                # 如果已经到达最大尝试次数，则返回空字符串
                 return ""
 
     return ""
@@ -282,5 +279,4 @@ def main(base_dir=None):
     asyncio.run(run_all_generations(base_dir))
 
 if __name__ == '__main__':
-    main()  # 使用默认路径
-    # main("/path/to/your/directory")  # 使用指定路径
+    main()  

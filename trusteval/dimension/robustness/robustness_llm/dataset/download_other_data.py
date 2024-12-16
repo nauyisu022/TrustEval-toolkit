@@ -10,21 +10,13 @@ logger = logging.getLogger(__name__)
 
 @dataclass
 class DatasetConfig:
-    """数据集配置类"""
     name: str
     subset: Optional[str] = None
     version: Optional[str] = None
 
 class DatasetLoader:
-    """数据集加载器类"""
 
     def __init__(self, cache_dir: Optional[str] = None):
-        """
-        初始化数据集加载器
-
-        Args:
-            cache_dir: 缓存目录路径，如果为None则使用当前工作目录下的'data'文件夹
-        """
         if cache_dir is None:
             cache_dir = os.path.join(os.getcwd(), 'data')
         self.cache_dir = cache_dir
@@ -32,15 +24,6 @@ class DatasetLoader:
         logger.info(f"Using cache directory: {self.cache_dir}")
 
     def load_single_dataset(self, config: DatasetConfig):
-        """
-        加载单个数据集
-
-        Args:
-            config: 数据集配置对象
-
-        Returns:
-            加载的数据集或None（如果加载失败）
-        """
         try:
             kwargs = {"cache_dir": self.cache_dir}
             if config.subset:
@@ -56,12 +39,6 @@ class DatasetLoader:
             return None
 
     def load_all_datasets(self) -> Dict:
-        """
-        加载所有预定义的数据集
-
-        Returns:
-            包含所有已加载数据集的字典
-        """
         dataset_configs = [
             DatasetConfig(name="imdb"),
             DatasetConfig(name="race", subset="all"),

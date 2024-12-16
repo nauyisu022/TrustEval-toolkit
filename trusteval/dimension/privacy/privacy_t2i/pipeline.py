@@ -148,7 +148,7 @@ class Test_Case_Builder:
 
         existing_queries = {entry['query'] for entry in save_data}
 
-        case_number = len(save_data) + 1  # 初始化case_number为已有数据的长度加1
+        case_number = len(save_data) + 1 
         for file in file_list:
             with open(f'{web_retrieval_data_path}/{file}', 'r') as f:
                 data = json.load(f)

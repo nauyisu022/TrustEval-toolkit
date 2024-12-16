@@ -20,8 +20,8 @@ class APIService:
         )
         
     @retry(
-        stop=stop_after_attempt(3),  # 最多重试 3 次
-        wait=wait_exponential(multiplier=1, min=2, max=8),  # 指数回退等待，最小2秒，最大10秒
+        stop=stop_after_attempt(3), 
+        wait=wait_exponential(multiplier=1, min=2, max=8),  
     )
     def get_response(self, prompt: str,system_prompt:str=None) -> str:
         try:

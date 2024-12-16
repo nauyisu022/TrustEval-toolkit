@@ -16,7 +16,6 @@ project_root = os.path.abspath(os.path.join(current_dir, "..", "..", ".."))
 sys.path.append(project_root)
 #here is the code of different perturbation type of text
 
-## keywords 数量生成 根据长度
 
 service = ModelService(
     request_type='llm',         # The type of request (e.g., 'llm' for language models)
@@ -51,7 +50,6 @@ def determine_num_keywords(sentence: str) -> int:
         return 8
     else:
         return 10
-# keyword 匹配数据处理
 def clean_word(word):
     return word.strip(string.punctuation).lower()
 
@@ -286,7 +284,7 @@ class EmojiSearch:
         query_embed = embeding_service.process(query)
         dotprod = np.matmul(self.embeddings, np.array(query_embed).T)
         ind = np.argmax(dotprod)
-        return self.emojis[ind][0]  # 返回最相关的表情符号
+        return self.emojis[ind][0]
 
 emoji_search = EmojiSearch()
 

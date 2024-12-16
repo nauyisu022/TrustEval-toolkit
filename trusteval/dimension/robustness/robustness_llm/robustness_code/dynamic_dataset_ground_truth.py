@@ -150,7 +150,6 @@ async def apply_adv(data, adv_function, params, method_label):
             field_name = 'article'
 
         if field_name:
-            # 保存原始数据并添加前缀到副本
             original_data = {f'original_{key}': value for key, value in item.items() if key not in ['label', 'dataset']}
 
             if asyncio.iscoroutinefunction(adv_function):
@@ -160,9 +159,7 @@ async def apply_adv(data, adv_function, params, method_label):
                 item[field_name] = await loop.run_in_executor(
                     None, wrapped_function, item[field_name])
 
-            # 添加原始数据到字典中
             item.update(original_data)
-            # 添加method字段和enhanced_prompt字段
             item['method'] = method_label
             item['enhanced_prompt'] = generate_prompt(item)
 
@@ -183,14 +180,14 @@ project_root = os.environ.get('PROJECT_ROOT', '.')
 
 async def process_ground_truth():
     num = 400
-    dataset_dir = os.environ['DATASET_DIR']  # 获取环境变量中的路径
+    dataset_dir = os.environ['DATASET_DIR']  
 
     datasets_paths = {
         'sst2': os.path.join(dataset_dir, 'data/SST-2/train.tsv'),
         'qqp' : os.path.join(dataset_dir, 'data/QQP/train.tsv'),
         'mnli': os.path.join(dataset_dir, 'data/MNLI/train.tsv'),
         'qnli': os.path.join(dataset_dir, 'data/QNLI/train.tsv'),
-        'imdb': os.path.join(dataset_dir, 'data/IMDB'),  # 假设 IMDB 和 RACE 是目录
+        'imdb': os.path.join(dataset_dir, 'data/IMDB'),  
         'race': os.path.join(dataset_dir, 'data/RACE')
     }
 
