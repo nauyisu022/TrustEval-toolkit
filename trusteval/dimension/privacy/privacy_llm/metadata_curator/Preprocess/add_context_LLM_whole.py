@@ -58,7 +58,6 @@ async def call_gpt4o_api(prompt):
 
     return ""
 
-# 提示模板
 template2 = """Provide a context that justifies this type of question. In what situation could this question be addressed without any concern? Only outline the scenario.
 Follow the output requirement:
 The scenario must be described in first person. Just output the scenario description, like "I am ...". Don't output anything else.
