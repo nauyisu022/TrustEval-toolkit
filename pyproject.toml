@@ -41,12 +41,15 @@ dependencies = [
     "streamlit>=1.38.0",
     "zhipuai>=2.1.5",
     "replicate>=0.27.0",
+    "accelerate==0.30.1",
+    "markdown>=3.7",
+    "gdown>=5.2.0",
+    "opencv-python>=4.10.0",
 ]
 
 [project.optional-dependencies]
 # Optional dependencies for extended functionality
 local = [
-    "accelerate==0.30.1",
     "datasets>=2.15.0",
     "diffusers==0.31.0",
     "Pillow==10.0.0",
@@ -63,4 +66,3 @@ packages = ["trusteval"]
 
 [tool.setuptools.package-data]
 trusteval = ['**/*.json', '**/*.yaml', '**/*.py']
-
